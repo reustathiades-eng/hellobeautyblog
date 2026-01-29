@@ -1,4 +1,5 @@
 # HelloBeautyBlog.com - Redirections 301
+/ /en/ 302
 # Format: old_url new_url status_code
 # Pour Cloudflare Pages - placer dans /static/_redirects
 
