@@ -4,6 +4,7 @@ languageCode: "en"
 defaultContentLanguage: "en"
 defaultContentLanguageInSubdir: true
 disableAliases: true
+theme: "hellobeauty"
 
 enableRobotsTXT: true
 enableGitInfo: true

@@ -71,7 +71,7 @@
                          class="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-border overflow-hidden z-50">
                         <div class="py-2 max-h-80 overflow-y-auto">
                             {{ range $.Site.Languages }}
-                            {{ $translation := $.Page.Translations | where "Language.Lang" .Lang | first }}
+                            {{ $langCode := .Lang }}{{ $translation := false }}{{ range $.Page.Translations }}{{ if eq .Language.Lang $langCode }}{{ $translation = . }}{{ end }}{{ end }}
                             <a href="{{ if $translation }}{{ $translation.Permalink }}{{ else }}/{{ .Lang }}/{{ end }}" 
                                class="flex items-center px-4 py-2 text-sm hover:bg-background transition-colors
                                       {{ if eq $.Language.Lang .Lang }}bg-primary/10 text-primary{{ else }}text-text{{ end }}">
