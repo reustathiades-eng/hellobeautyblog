@@ -12,7 +12,7 @@ en:
   weight: 1
   title: "Hello Beauty Blog"
   description: "Your ultimate guide to perfumes, skincare, makeup and haircare"
-  contentDir: "content"
+  contentDir: "content/en"
   params:
     flag: "🇺🇸"
     dateFormat: "January 2, 2006"
@@ -21,19 +21,19 @@ en:
     main:
       - identifier: perfumes
         name: "Perfumes"
-        url: "/perfumes/"
+        url: "/en/perfumes/"
         weight: 1
       - identifier: skincare
         name: "Skincare"
-        url: "/skincare/"
+        url: "/en/skincare/"
         weight: 2
       - identifier: makeup
         name: "Makeup"
-        url: "/makeup/"
+        url: "/en/makeup/"
         weight: 3
       - identifier: haircare
         name: "Haircare"
-        url: "/haircare/"
+        url: "/en/haircare/"
         weight: 4
       - identifier: guides
         name: "Guides"

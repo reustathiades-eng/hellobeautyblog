@@ -2,7 +2,7 @@ baseURL: "https://hellobeautyblog.com/"
 title: "Hello Beauty Blog"
 languageCode: "en"
 defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 disableAliases: true
 
 enableRobotsTXT: true
