@@ -3,6 +3,11 @@
 # Pour Cloudflare Pages - placer dans /static/_redirects
 
 # ============================================
+# REDIRECTION RACINE (éviter boucle)
+# ============================================
+/ /en/ 302
+
+# ============================================
 # PRIORITÉ 1 : PAGES CRITIQUES (Trafic + Backlinks)
 # ============================================
 
