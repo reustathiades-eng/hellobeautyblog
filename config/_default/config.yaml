@@ -7,7 +7,7 @@ baseURL: "https://hellobeautyblog.com/"
 title: "Hello Beauty Blog"
 languageCode: "en"
 defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 # Build settings
 enableRobotsTXT: true
