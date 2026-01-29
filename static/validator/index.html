@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HelloBeautyBlog - Validateur Pro v5</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 100%);
+            min-height: 100vh;
+            padding: 12px;
+        }
+        .container { max-width: 1800px; margin: 0 auto; }
+        header { text-align: center; padding: 15px 0; margin-bottom: 15px; }
+        h1 { font-family: 'Playfair Display', serif; font-size: 1.8rem; color: #1F2937; }
+        .subtitle { color: #6B7280; font-size: 0.85rem; }
+        .version-badge { display: inline-block; background: #8B5CF6; color: white; padding: 2px 8px; border-radius: 10px; font-size: 0.7rem; margin-left: 8px; }
+        
+        /* Stats Bar */
+        .stats-bar { display: flex; justify-content: center; gap: 12px; margin-bottom: 15px; flex-wrap: wrap; }
+        .stat { background: white; padding: 10px 16px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); text-align: center; min-width: 90px; }
+        .stat-number { font-size: 1.3rem; font-weight: 700; }
+        .stat-label { color: #6B7280; font-size: 0.7rem; }
+        .stat.pending .stat-number { color: #F59E0B; }
+        .stat.validated .stat-number { color: #10B981; }
+        .stat.rejected .stat-number { color: #EF4444; }
+        .stat.history .stat-number { color: #6B7280; }
+        
+        /* Controls */
+        .controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
+        .tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+        .tab { padding: 8px 14px; border: none; background: white; border-radius: 20px; cursor: pointer; font-weight: 500; font-size: 0.8rem; transition: all 0.2s; }
+        .tab:hover { background: #F8C8DC; }
+        .tab.active { background: #F8C8DC; }
+        
+        .filter-bar { display: flex; gap: 6px; flex-wrap: wrap; }
+        .filter-btn { padding: 6px 12px; border: 2px solid #E5E7EB; background: white; border-radius: 15px; cursor: pointer; font-size: 0.75rem; transition: all 0.2s; }
+        .filter-btn:hover, .filter-btn.active { border-color: #F8C8DC; background: #FDF2F8; }
+        .filter-count { background: #E5E7EB; padding: 2px 5px; border-radius: 6px; font-size: 0.65rem; margin-left: 3px; }
+        
+        .source-bar { display: flex; gap: 6px; align-items: center; }
+        .source-btn { padding: 6px 12px; border: 2px solid #E5E7EB; background: white; border-radius: 15px; cursor: pointer; font-size: 0.75rem; }
+        .source-btn:hover, .source-btn.active { border-color: #8B5CF6; background: #EDE9FE; }
+        
+        .bulk-actions { display: flex; gap: 8px; }
+        .bulk-btn { padding: 8px 16px; border: none; border-radius: 15px; cursor: pointer; font-weight: 600; font-size: 0.8rem; }
+        .bulk-validate { background: #10B981; color: white; }
+        .bulk-validate:hover { background: #059669; }
+        .bulk-reject { background: #FEE2E2; color: #EF4444; }
+        .select-all { background: #E0E7FF; color: #3730A3; }
+        .clear-history { background: #FEF3C7; color: #92400E; }
+        
+        /* Pagination */
+        .pagination { display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+        .page-btn { padding: 8px 14px; border: none; background: white; border-radius: 8px; cursor: pointer; font-weight: 500; transition: all 0.2s; }
+        .page-btn:hover { background: #F8C8DC; }
+        .page-btn.active { background: #8B5CF6; color: white; }
+        .page-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .page-info { color: #6B7280; font-size: 0.85rem; }
+        .per-page select { padding: 6px 10px; border: 1px solid #E5E7EB; border-radius: 6px; }
+        
+        /* Product Grid */
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 12px;
+            margin-bottom: 100px;
+        }
+        .product-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            padding: 12px;
+        }
+        .product-card:hover { transform: translateY(-2px); box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .product-card.validated { border-left: 4px solid #10B981; }
+        .product-card.rejected { border-left: 4px solid #EF4444; opacity: 0.6; }
+        .product-card.selected { outline: 3px solid #8B5CF6; }
+        
+        .product-checkbox { position: absolute; top: 10px; right: 10px; width: 20px; height: 20px; cursor: pointer; z-index: 10; accent-color: #8B5CF6; }
+        
+        .product-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
+        .product-icon { font-size: 2rem; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #FDF2F8 0%, #FECDD3 100%); border-radius: 10px; }
+        .product-badges { display: flex; flex-direction: column; gap: 4px; }
+        
+        .badge { padding: 2px 8px; border-radius: 10px; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; }
+        .badge-top { background: #DC2626; color: white; animation: pulse 2s infinite; }
+        .badge-new { background: #10B981; color: white; }
+        .badge-2026 { background: #8B5CF6; color: white; }
+        .badge-trending { background: #F59E0B; color: white; }
+        
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+        
+        .product-category { display: inline-block; padding: 2px 6px; border-radius: 10px; font-size: 0.6rem; font-weight: 600; text-transform: uppercase; }
+        .cat-skincare { background: #DCFCE7; color: #166534; }
+        .cat-makeup { background: #FCE7F3; color: #BE185D; }
+        .cat-haircare { background: #FEF3C7; color: #92400E; }
+        .cat-fragrance { background: #E0E7FF; color: #3730A3; }
+        
+        .product-brand { font-size: 0.7rem; color: #6B7280; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+        .product-name { font-size: 0.95rem; font-weight: 700; color: #1F2937; line-height: 1.3; margin: 4px 0; }
+        .product-description { color: #6B7280; font-size: 0.75rem; line-height: 1.4; margin-bottom: 8px; flex: 1; }
+        .product-meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.65rem; margin-bottom: 8px; padding-top: 8px; border-top: 1px solid #F3F4F6; }
+        .product-source { color: #9CA3AF; }
+        .product-source a { color: #F472B6; text-decoration: none; }
+        .product-year { background: #F3F4F6; padding: 2px 6px; border-radius: 6px; color: #6B7280; font-weight: 600; }
+        
+        .product-actions { display: flex; gap: 6px; }
+        .btn { flex: 1; padding: 8px 12px; border: none; border-radius: 8px; font-weight: 600; cursor: pointer; font-size: 0.8rem; transition: all 0.2s; }
+        .btn-validate { background: #10B981; color: white; }
+        .btn-validate:hover { background: #059669; }
+        .btn-reject { background: #FEE2E2; color: #EF4444; }
+        .btn-reject:hover { background: #FECACA; }
+        .btn-undo { background: #E5E7EB; color: #4B5563; }
+        
+        /* Generation Panel */
+        .generation-panel {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            padding: 12px 20px;
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 100;
+            transform: translateY(100%);
+            transition: transform 0.3s;
+        }
+        .generation-panel.visible { transform: translateY(0); }
+        .generation-info { display: flex; align-items: center; gap: 12px; }
+        .generation-count { background: #8B5CF6; color: white; padding: 6px 14px; border-radius: 15px; font-weight: 600; font-size: 0.9rem; }
+        .generation-langs { color: #6B7280; font-size: 0.8rem; }
+        .btn-generate { padding: 10px 25px; background: linear-gradient(135deg, #8B5CF6 0%, #6D28D9 100%); color: white; border: none; border-radius: 20px; font-weight: 600; cursor: pointer; font-size: 0.9rem; }
+        .btn-generate:hover { transform: scale(1.03); }
+        .btn-generate:disabled { opacity: 0.5; cursor: not-allowed; }
+        
+        /* Modal */
+        .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; z-index: 1000; opacity: 0; visibility: hidden; transition: all 0.3s; }
+        .modal-overlay.visible { opacity: 1; visibility: visible; }
+        .modal { background: white; padding: 25px; border-radius: 16px; max-width: 500px; width: 90%; text-align: center; }
+        .modal h3 { margin-bottom: 15px; color: #1F2937; }
+        .progress-bar { height: 8px; background: #E5E7EB; border-radius: 4px; overflow: hidden; margin-bottom: 12px; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #8B5CF6 0%, #10B981 100%); transition: width 0.3s; }
+        .progress-text { color: #6B7280; font-size: 0.85rem; }
+        .log-area { max-height: 150px; overflow-y: auto; text-align: left; background: #F9FAFB; padding: 10px; border-radius: 8px; margin-top: 10px; font-size: 0.75rem; font-family: monospace; }
+        
+        /* Toast */
+        .toast { position: fixed; bottom: 100px; right: 20px; padding: 10px 18px; background: #1F2937; color: white; border-radius: 8px; font-weight: 500; opacity: 0; transform: translateY(20px); transition: all 0.3s; z-index: 1000; font-size: 0.85rem; }
+        .toast.show { opacity: 1; transform: translateY(0); }
+        .toast.success { background: #10B981; }
+        .toast.error { background: #EF4444; }
+        .toast.info { background: #8B5CF6; }
+        
+        .empty-state { text-align: center; padding: 40px; color: #9CA3AF; grid-column: 1/-1; }
+        .empty-state .emoji { font-size: 3rem; margin-bottom: 10px; }
+        
+        /* History indicator */
+        .history-badge { position: absolute; top: 10px; left: 10px; font-size: 0.6rem; padding: 2px 6px; border-radius: 8px; background: #6B7280; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌸 HelloBeautyBlog Validateur <span class="version-badge">v5</span></h1>
+            <p class="subtitle">Historique persistant • Marques TOP 🔴 • 14 langues • Push GitHub auto</p>
+        </header>
+        
+        <div class="stats-bar">
+            <div class="stat pending"><div class="stat-number" id="pending-count">0</div><div class="stat-label">En attente</div></div>
+            <div class="stat validated"><div class="stat-number" id="validated-count">0</div><div class="stat-label">Validés</div></div>
+            <div class="stat rejected"><div class="stat-number" id="rejected-count">0</div><div class="stat-label">Rejetés</div></div>
+            <div class="stat history"><div class="stat-number" id="history-count">0</div><div class="stat-label">Historique</div></div>
+        </div>
+        
+        <div class="controls">
+            <div class="tabs">
+                <button class="tab active" data-filter="pending">🕐 En attente</button>
+                <button class="tab" data-filter="validated">✅ Validés</button>
+                <button class="tab" data-filter="all">📋 Tous</button>
+            </div>
+            <div class="filter-bar" id="filter-bar"></div>
+            <div class="source-bar">
+                <button class="source-btn active" data-source="all">📦 Toutes</button>
+                <button class="source-btn" data-source="sephora">🇫🇷 Sephora</button>
+                <button class="source-btn" data-source="douglas">🇩🇪 Douglas</button>
+                <button class="source-btn" data-source="fragrance">🌸 Parfums</button>
+            </div>
+            <div class="bulk-actions">
+                <button class="bulk-btn select-all" onclick="selectAllVisible()">☑ Page</button>
+                <button class="bulk-btn bulk-validate" onclick="bulkValidate()">✓ Valider</button>
+                <button class="bulk-btn bulk-reject" onclick="bulkReject()">✗ Rejeter</button>
+                <button class="bulk-btn clear-history" onclick="clearHistory()">🗑 Historique</button>
+            </div>
+        </div>
+        
+        <div class="pagination" id="pagination-top"></div>
+        <div class="products-grid" id="products-grid"></div>
+        <div class="pagination" id="pagination-bottom"></div>
+    </div>
+    
+    <div class="generation-panel" id="generation-panel">
+        <div class="generation-info">
+            <span class="generation-count" id="gen-count">0 produits</span>
+            <span class="generation-langs">→ 14 langues = <strong id="total-files">0</strong> fichiers</span>
+        </div>
+        <div class="token-input">
+            <input type="password" id="github-token" placeholder="GitHub Token (ghp_...)" style="padding: 8px 12px; border: 1px solid #E5E7EB; border-radius: 8px; width: 200px; font-size: 0.8rem;">
+            <button onclick="saveToken()" style="padding: 8px 12px; background: #6B7280; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 0.8rem;">💾</button>
+        </div>
+        <button class="btn-generate" id="btn-generate" onclick="generateAndPush()">🚀 Générer & Push GitHub</button>
+    </div>
+    
+    <div class="modal-overlay" id="modal">
+        <div class="modal">
+            <h3 id="modal-title">🚀 Génération en cours...</h3>
+            <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
+            <p class="progress-text" id="progress-text">Préparation...</p>
+            <div class="log-area" id="log-area"></div>
+        </div>
+    </div>
+    
+    <div class="toast" id="toast"></div>
+    
+    <script>
+        // CONFIG
+        let GITHUB_TOKEN = localStorage.getItem('github_token') || '';
+        const GITHUB_REPO = 'reustathiades-eng/hellobeautyblog';
+        const ALL_LANGUAGES = ['en', 'fr', 'de', 'es', 'pt', 'it', 'nl', 'pl', 'tr', 'ja', 'ko', 'zh', 'hi', 'ar'];
+        const STORAGE_KEY = 'hellobeauty_history';
+        
+        // TOP BRANDS (Olfapedia partners)
+        const TOP_BRANDS = [
+            '4711', 'ANNAYAKE', 'ARMANI', 'GIORGIO ARMANI', 'ARMANI PRIVÉ', 'AZZARO',
+            'BALENCIAGA', 'BALMAIN', 'BARBEWIN', 'BERDOUES', 'BIOTHERM', 'BIOTHERM HOMME', 'BOUCHERON', 'BRIONI', 'BURBERRY',
+            'CACHAREL', 'CALVIN KLEIN', 'CAROLINA HERRERA', 'CARON', 'CARTIER', 'CERRUTI', 'CHANEL', 'CHANTAL THOMASS', 'CHLOÉ', 'CHLOE', 'CLARINS', 'CLARINSMEN', 'CLINIQUE', 'COACH', 'COURRÈGES', 'COURREGES',
+            'DAVIDOFF', 'DECLÉOR', 'DECLEOR', 'DIESEL', 'DIOR', 'DOLCE & GABBANA', 'DOLCE GABBANA',
+            'ELIE SAAB', 'EMANUEL UNGARO', 'ESCADA',
+            'FILORGA',
+            'GEOFFREY BEENE', 'GIORGIO BEVERLY HILLS', 'GIVENCHY', 'GRÈS', 'GRES', 'GUCCI', 'GUERLAIN', 'GUESS', 'GUY LAROCHE',
+            'HAIR RITUEL BY SISLEY', 'HANAE MORI', 'HERMÈS', 'HERMES', 'HÉRÔME', 'HEROME', 'HUGO BOSS', 'BOSS',
+            'IKKS', 'ISSEY MIYAKE',
+            'JACOMO', 'JEAN COUTURIER', 'JEAN PATOU', 'JEAN PAUL GAULTIER', 'JPG',
+            'KENZO',
+            'LACOSTE', 'LALIQUE', 'LANCASTER', 'LANCÔME', 'LANCOME', 'LANVIN', 'LOLITA LEMPICKA',
+            'MARC JACOBS', 'MICHAEL KORS', 'MOLINARD', 'MOLYNEUX', 'MONCLER', 'MONTANA', 'MONTBLANC', 'MUGLER', 'THIERRY MUGLER',
+            'NARCISO RODRIGUEZ', 'NINA RICCI',
+            'PALOMA PICASSO', 'PARFUM D\'EMPIRE', 'POLICE', 'PRADA',
+            'RABANNE', 'PACO RABANNE', 'RALPH LAUREN', 'REMINISCENCE', 'REPETTO', 'ROCHAS',
+            'SCHERRER', 'SERGE LUTENS', 'SHISEIDO', 'SISLEY', 'STORIE VENEZIANE',
+            'TABAC ORIGINAL', 'TARTINE ET CHOCOLAT', 'TOM FORD',
+            'VALENTINO', 'VALMONT', 'VAN CLEEF & ARPELS', 'VAN CLEEF', 'VERSACE', 'VIKTOR & ROLF', 'VIKTOR ROLF',
+            'YVES SAINT LAURENT', 'YSL',
+            'ZADIG & VOLTAIRE', 'ZADIG VOLTAIRE'
+        ];
+        
+        function isTopBrand(brand) {
+            const normalized = brand.toUpperCase().trim();
+            return TOP_BRANDS.some(tb => normalized.includes(tb) || tb.includes(normalized));
+        }
+        
+        // PRODUCTS DATABASE
+        const ALL_PRODUCTS = [
+            // SEPHORA SKINCARE
+            { id: 'seph-sk-1', category: 'skincare', brand: 'BYOMA', year: 2025, name: 'Sérum Hydratant Tri-Céramides', description: 'Sérum ultra-léger enrichi en tri-céramides, squalane et glycérine. Vegan.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/serum-hydratant-P10043553.html', badge: 'trending' },
+            { id: 'seph-sk-2', category: 'skincare', brand: 'SEPHORA COLLECTION', year: 2025, name: 'Sérum Pores 6% BHA + PHA', description: 'Pores resserrés, peau matifiée. 96% naturel. Résultats en 28 jours.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/serum-ciblage-pores-P10024392.html', badge: 'new' },
+            { id: 'seph-sk-3', category: 'skincare', brand: 'SEPHORA COLLECTION', year: 2026, name: 'HYDRATE Sérum Micro-bulles', description: 'Acide hyaluronique + polyglutamique. 48h hydratation.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/hydrate-serum-P1000211805.html', badge: '2026' },
+            { id: 'seph-sk-4', category: 'skincare', brand: 'SEPHORA COLLECTION', year: 2025, name: 'GLOW Sérum 7% Vitamine C + E', description: 'Effet unifiant anti-teint terne. Éclat +38% instantanément.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/glow-serum-P10061396.html' },
+            { id: 'seph-sk-5', category: 'skincare', brand: 'DIOR', year: 2026, name: 'Capture Le Sérum', description: 'Technologie OX-C Treatment. Effet tenseur immédiat.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/dior-capture-P1000206147.html', badge: '2026' },
+            { id: 'seph-sk-6', category: 'skincare', brand: 'FRESH', year: 2025, name: 'Tea Elixir Resilience Serum', description: 'Sérum anti-âge. Rides -41%. APT Technology™.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/tea-elixir-581196.html', badge: 'trending' },
+            { id: 'seph-sk-7', category: 'skincare', brand: 'CLINIQUE', year: 2025, name: 'Moisture Surge™ Sérum Illuminateur', description: 'Renouvellement cellulaire + Vitamine C. 100% sans parfum.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/moisture-surge-P1000205867.html', badge: 'new' },
+            { id: 'seph-sk-8', category: 'skincare', brand: 'GLOWERY', year: 2026, name: 'A.M. GLOW Daily Dew Sérum', description: 'Niacinamide + Centella Asiatica. Made in France.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/am-glow-P1000211763.html', badge: '2026' },
+            { id: 'seph-sk-9', category: 'skincare', brand: 'CLARINS', year: 2025, name: 'Multi-Active Glow Serum', description: 'Sérum biphasé Vitamine C + AHA. Éclat +45%.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/multi-active-glow.html', badge: 'new' },
+            { id: 'seph-sk-10', category: 'skincare', brand: 'CLARINS', year: 2025, name: 'Double Serum Anti-âge', description: 'N°1 mondial des sérums. 21 extraits de plantes.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/double-serum.html', badge: 'trending' },
+            
+            // DOUGLAS SKINCARE
+            { id: 'doug-sk-1', category: 'skincare', brand: 'WELEDA', year: 2026, name: 'Cell Longevity Hydra Glow', description: 'Reinigungsgel anti-âge. Hydratation cellulaire.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/neuheiten/0912', badge: '2026' },
+            { id: 'doug-sk-2', category: 'skincare', brand: 'DIOR', year: 2026, name: 'Capture Pro-Collagen Shot', description: 'Augenserum nouvelle génération. Collagène boost.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/neuheiten/0912', badge: '2026' },
+            { id: 'doug-sk-3', category: 'skincare', brand: 'KIEHL\'S', year: 2025, name: 'Ultra Facial Cream', description: 'Crème hydratante culte. 24h d\'hydratation.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/gesicht/12', badge: 'trending' },
+            { id: 'doug-sk-4', category: 'skincare', brand: 'DR. HAUSCHKA', year: 2025, name: 'Rose Day Cream', description: 'Crème de jour à la rose. Peaux sensibles.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/neuheiten/09' },
+            { id: 'doug-sk-5', category: 'skincare', brand: 'DRUNK ELEPHANT', year: 2025, name: 'T.L.C. Sukari Babyfacial', description: 'Peeling AHA/BHA culte. Résultats pro.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/neuheiten/0912', badge: 'trending' },
+            
+            // MAKEUP
+            { id: 'seph-mk-1', category: 'makeup', brand: 'RARE BEAUTY', year: 2025, name: 'Soft Pinch Luminous Powder Blush', description: 'Blush poudre lumineux Selena Gomez.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/soft-pinch.html', badge: 'trending' },
+            { id: 'seph-mk-2', category: 'makeup', brand: 'CHARLOTTE TILBURY', year: 2025, name: 'Pillow Talk Lip & Cheek Glow', description: 'Teinte iconique multi-usage.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/pillow-talk.html', badge: 'trending' },
+            { id: 'seph-mk-3', category: 'makeup', brand: 'FENTY BEAUTY', year: 2026, name: 'Gloss Bomb Heat Universal', description: 'Gloss repulpant effet chaleur Rihanna.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/gloss-bomb.html', badge: '2026' },
+            { id: 'seph-mk-4', category: 'makeup', brand: 'HUDA BEAUTY', year: 2025, name: '#FauxFilter Skin Finish Foundation', description: 'Fond de teint couvrance complète. 50 teintes.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/fauxfilter.html' },
+            { id: 'seph-mk-5', category: 'makeup', brand: 'BENEFIT', year: 2025, name: 'BADgal BANG! Mascara XXL', description: 'Volume extrême. Fibres spatiales.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/badgal.html', badge: 'trending' },
+            { id: 'doug-mk-1', category: 'makeup', brand: 'E.L.F. COSMETICS', year: 2025, name: 'Glow Reviver Lip Oil', description: 'Huile à lèvres Major Mauve. K-beauty.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/neuheiten/0903', badge: 'new' },
+            { id: 'doug-mk-2', category: 'makeup', brand: 'CLINIQUE', year: 2025, name: 'Even Better™ Make-up SPF 15', description: 'Foundation + soin. 36 teintes.', source: 'douglas.de', url: 'https://www.douglas.de/de/c/gesicht/12' },
+            
+            // HAIRCARE
+            { id: 'hair-1', category: 'haircare', brand: 'OLAPLEX', year: 2025, name: 'No.4 Bond Maintenance Shampoo', description: 'Répare les bonds capillaires.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/olaplex-4.html', badge: 'trending' },
+            { id: 'hair-2', category: 'haircare', brand: 'KÉRASTASE', year: 2025, name: 'Elixir Ultime L\'Huile Originale', description: 'Huile capillaire multi-usages. Brillance.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/elixir.html' },
+            { id: 'hair-3', category: 'haircare', brand: 'GISOU', year: 2025, name: 'Honey Infused Hair Oil', description: 'Huile au miel de Mirsalehi.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/gisou.html', badge: 'trending' },
+            { id: 'hair-4', category: 'haircare', brand: 'COLOR WOW', year: 2025, name: 'Dream Coat Supernatural Spray', description: 'Anti-frizz. Protection humidité.', source: 'sephora.fr', url: 'https://www.sephora.fr/p/dreamcoat.html' },
+            
+            // FRAGRANCES 2026
+            { id: 'frag-1', category: 'fragrance', brand: 'JEAN PAUL GAULTIER', year: 2026, name: 'Le Male in Blue', description: 'Flanker iconique. Anisé aquatique intense. 30K votes.', notes: 'Anis, Lavande marine, Bois ambré', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/le-male-in-blue/', badge: '2026' },
+            { id: 'frag-2', category: 'fragrance', brand: 'JEAN PAUL GAULTIER', year: 2026, name: 'Le Beau Narcisse', description: 'Flanker Le Beau. Bergamote, musc, fève tonka.', notes: 'Bergamote, Musc, Tonka', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/le-beau-narcisse/', badge: '2026' },
+            { id: 'frag-3', category: 'fragrance', brand: 'YVES SAINT LAURENT', year: 2026, name: 'Y Iced Cologne EDT Intense', description: 'Menthe glacée + Arctical™. 12h fraîcheur.', notes: 'Menthe glacée, Thé Maroc, Patchouli', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/y-iced-cologne/', badge: '2026' },
+            { id: 'frag-4', category: 'fragrance', brand: 'GIORGIO ARMANI', year: 2026, name: 'Stronger With You Powerfully', description: 'Smoky dimension. 24h longue tenue.', notes: 'Mandarine, Cerise, Lavande, Vanille, Châtaigne', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/stronger-powerfully/', badge: '2026' },
+            { id: 'frag-5', category: 'fragrance', brand: 'GIORGIO ARMANI', year: 2026, name: 'Stronger With You Spices', description: 'Version épicée. Chaleur orientale.', notes: 'Épices, Cannelle, Vanille', source: 'scentadvice.com', url: 'https://scentadvice.com/stronger-spices/', badge: '2026' },
+            { id: 'frag-6', category: 'fragrance', brand: 'GIORGIO ARMANI', year: 2026, name: 'Power Of You', description: 'Passion + vanille. Texture marshmallow.', notes: 'Passion, Mangue, Vanille', source: 'scentadvice.com', url: 'https://scentadvice.com/power-of-you/', badge: '2026' },
+            { id: 'frag-7', category: 'fragrance', brand: 'PACO RABANNE', year: 2026, name: 'Invictus Elixir', description: 'Nouvelle concentration maximale.', notes: 'Notes marines, Ambre, Bois', source: 'scentadvice.com', url: 'https://scentadvice.com/invictus-elixir/', badge: '2026' },
+            { id: 'frag-8', category: 'fragrance', brand: 'PACO RABANNE', year: 2026, name: '1 Million Night Elixir', description: '1 Million nocturne intensifié.', notes: 'Notes épicées, Ambre, Cuir', source: 'scentadvice.com', url: 'https://scentadvice.com/1-million-night/', badge: '2026' },
+            { id: 'frag-9', category: 'fragrance', brand: 'HUGO BOSS', year: 2026, name: 'Boss Alive Sparkling Lavender', description: 'Extension Boss Alive. Lavande pétillante.', notes: 'Lavande, Notes pétillantes, Bois', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' },
+            { id: 'frag-10', category: 'fragrance', brand: 'CAROLINA HERRERA', year: 2026, name: 'Good Girl Blush Polka Paradise', description: 'Nouvelle Good Girl. Joyeuse, féminine.', notes: 'Notes florales, Fruitées', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' },
+            { id: 'frag-11', category: 'fragrance', brand: 'BURBERRY', year: 2026, name: 'Hero Elixir de Parfum', description: 'Ambre, Cuir, Vanille, Cèdre, Tonka.', notes: 'Cuir, Vanille, Cèdre, Tonka', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/burberry-hero-elixir/', badge: '2026' },
+            { id: 'frag-12', category: 'fragrance', brand: 'BDK PARFUMS', year: 2026, name: 'Velvet Tonka Extrait', description: 'Extrait niche. Tonka veloutée addictive.', notes: 'Tonka, Vanille, Bois précieux', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' },
+            { id: 'frag-13', category: 'fragrance', brand: 'KILIAN', year: 2026, name: 'Her Majesty', description: 'Nouveau Kilian 2026. Luxe raffiné.', notes: 'Notes royales', source: 'scentadvice.com', url: 'https://scentadvice.com/her-majesty/', badge: '2026' },
+            { id: 'frag-14', category: 'fragrance', brand: 'CACHAREL', year: 2026, name: 'Ella Ella Flora Azura', description: 'Nouveau Cacharel féminin. Floral aquatique.', notes: 'Notes florales, Aquatiques', source: 'scentadvice.com', url: 'https://scentadvice.com/ella-ella/', badge: '2026' },
+            { id: 'frag-15', category: 'fragrance', brand: 'KYLIE COSMETICS', year: 2026, name: 'Cosmic Intense', description: 'Parfum Kylie Jenner intensifié.', notes: 'Notes intenses', source: 'scentadvice.com', url: 'https://scentadvice.com/cosmic-intense/', badge: '2026' },
+            { id: 'frag-16', category: 'fragrance', brand: 'RAYHAAN', year: 2026, name: 'Pharaoh', description: 'Oriental woody. Safran, Cardamome.', notes: 'Safran, Cardamome, Café, Vanille, Tonka', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/rayhaan-pharaoh/', badge: '2026' },
+            { id: 'frag-17', category: 'fragrance', brand: 'AFNAN', year: 2025, name: '9 PM Night Out', description: 'Nouvelle addition 9 PM. Soirée.', notes: 'Notes sucrées, Ambre, Vanille', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: 'new' },
+            { id: 'frag-18', category: 'fragrance', brand: 'RASASI', year: 2025, name: 'Hawas Ice', description: '12ème Hawas. Version glacée.', notes: 'Menthe, Agrumes, Ambre', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: 'new' },
+            { id: 'frag-19', category: 'fragrance', brand: 'RALPH LAUREN', year: 2025, name: 'Polo 67 Eau de Parfum', description: 'Collection Polo 67. Masculin raffiné.', notes: 'Aromates, Bois, Musc', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: 'new' },
+            { id: 'frag-20', category: 'fragrance', brand: 'ARMANI PRIVÉ', year: 2026, name: 'Cuir Nu Murano Edition', description: 'Édition limitée Murano. Luxe ultime.', notes: 'Cuir, Notes précieuses', source: 'scentadvice.com', url: 'https://scentadvice.com/cuir-nu-murano/', badge: '2026' },
+            { id: 'frag-21', category: 'fragrance', brand: 'VALENTINO', year: 2026, name: 'Born In Roma Coral Fantasy', description: 'Flanker Born In Roma. Notes corail.', notes: 'Notes fruitées, Florales', source: 'scentadvice.com', url: 'https://scentadvice.com/', badge: '2026' },
+            { id: 'frag-22', category: 'fragrance', brand: 'VERSACE', year: 2026, name: 'Eros Energy', description: 'Nouveau flanker Eros. Énergie pure.', notes: 'Menthe, Agrumes, Bois', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' },
+            { id: 'frag-23', category: 'fragrance', brand: 'DOLCE & GABBANA', year: 2026, name: 'Light Blue Forever Pour Homme', description: 'Light Blue intensifié masculin.', notes: 'Agrumes, Bois de cèdre, Musc', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' },
+            { id: 'frag-24', category: 'fragrance', brand: 'GUCCI', year: 2026, name: 'Guilty Elixir Pour Homme', description: 'Guilty version Elixir.', notes: 'Lavande, Patchouli, Cuir', source: 'scentadvice.com', url: 'https://scentadvice.com/', badge: '2026' },
+            { id: 'frag-25', category: 'fragrance', brand: 'GIVENCHY', year: 2026, name: 'Gentleman Society Extreme', description: 'Gentleman Society intensifié.', notes: 'Iris, Bois de cèdre, Fève tonka', source: 'ifragranceofficial.com', url: 'https://ifragranceofficial.com/', badge: '2026' }
+        ];
+        
+        // STATE
+        let history = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+        let products = [];
+        let selectedProducts = new Set();
+        let currentStatusFilter = 'pending';
+        let currentCategoryFilter = 'all';
+        let currentSourceFilter = 'all';
+        let currentPage = 1;
+        let itemsPerPage = 25;
+        
+        // Initialize products with history
+        function initProducts() {
+            products = ALL_PRODUCTS.map(p => ({
+                ...p,
+                status: history[p.id] || 'pending'
+            })).filter(p => currentStatusFilter === 'all' || p.status !== 'rejected' || currentStatusFilter === 'validated');
+        }
+        
+        function saveHistory() {
+            const h = {};
+            products.forEach(p => {
+                if (p.status !== 'pending') h[p.id] = p.status;
+            });
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(h));
+            history = h;
+        }
+        
+        function clearHistory() {
+            if (confirm('Effacer tout l\'historique ? Les produits rejetés réapparaîtront.')) {
+                localStorage.removeItem(STORAGE_KEY);
+                history = {};
+                initProducts();
+                renderProducts();
+                showToast('Historique effacé', 'info');
+            }
+        }
+        
+        // Helpers
+        function getCategoryClass(cat) { return `cat-${cat}`; }
+        function getCategoryIcon(cat) {
+            const icons = { skincare: '🧴', makeup: '💄', haircare: '💇', fragrance: '🌸' };
+            return icons[cat] || '📦';
+        }
+        
+        function getSourceKey(source) {
+            if (source.includes('sephora')) return 'sephora';
+            if (source.includes('douglas')) return 'douglas';
+            return 'fragrance';
+        }
+        
+        function getFilteredProducts() {
+            return products.filter(p => {
+                const statusMatch = currentStatusFilter === 'all' || p.status === currentStatusFilter;
+                const categoryMatch = currentCategoryFilter === 'all' || p.category === currentCategoryFilter;
+                const sourceMatch = currentSourceFilter === 'all' || getSourceKey(p.source) === currentSourceFilter;
+                // Hide rejected unless viewing all
+                const showRejected = currentStatusFilter === 'all';
+                if (p.status === 'rejected' && !showRejected) return false;
+                return statusMatch && categoryMatch && sourceMatch;
+            });
+        }
+        
+        function renderFilterBar() {
+            const categories = [...new Set(ALL_PRODUCTS.map(p => p.category))];
+            const filterBar = document.getElementById('filter-bar');
+            
+            let html = `<button class="filter-btn active" data-category="all">Toutes <span class="filter-count">${products.length}</span></button>`;
+            categories.forEach(cat => {
+                const count = products.filter(p => p.category === cat).length;
+                html += `<button class="filter-btn" data-category="${cat}">${getCategoryIcon(cat)} ${cat} <span class="filter-count">${count}</span></button>`;
+            });
+            filterBar.innerHTML = html;
+            
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentCategoryFilter = btn.dataset.category;
+                    currentPage = 1;
+                    renderProducts();
+                });
+            });
+        }
+        
+        function renderPagination(containerId) {
+            const filtered = getFilteredProducts();
+            const totalPages = Math.ceil(filtered.length / itemsPerPage);
+            const container = document.getElementById(containerId);
+            
+            if (totalPages <= 1) { container.innerHTML = ''; return; }
+            
+            let html = `<button class="page-btn" onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>◀</button>`;
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
+                    html += `<button class="page-btn ${i === currentPage ? 'active' : ''}" onclick="goToPage(${i})">${i}</button>`;
+                } else if (i === currentPage - 3 || i === currentPage + 3) {
+                    html += `<span class="page-info">...</span>`;
+                }
+            }
+            html += `<button class="page-btn" onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>▶</button>`;
+            html += `<span class="page-info">(${filtered.length} produits)</span>`;
+            html += `<select onchange="changePerPage(this.value)">
+                <option value="25" ${itemsPerPage===25?'selected':''}>25/page</option>
+                <option value="50" ${itemsPerPage===50?'selected':''}>50/page</option>
+                <option value="100" ${itemsPerPage===100?'selected':''}>100/page</option>
+            </select>`;
+            
+            container.innerHTML = html;
+        }
+        
+        function goToPage(page) {
+            const totalPages = Math.ceil(getFilteredProducts().length / itemsPerPage);
+            if (page < 1 || page > totalPages) return;
+            currentPage = page;
+            renderProducts();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        function changePerPage(value) {
+            itemsPerPage = parseInt(value);
+            currentPage = 1;
+            renderProducts();
+        }
+        
+        function renderProducts() {
+            const grid = document.getElementById('products-grid');
+            const filtered = getFilteredProducts();
+            const start = (currentPage - 1) * itemsPerPage;
+            const pageProducts = filtered.slice(start, start + itemsPerPage);
+            
+            renderPagination('pagination-top');
+            renderPagination('pagination-bottom');
+            
+            if (pageProducts.length === 0) {
+                grid.innerHTML = `<div class="empty-state"><div class="emoji">📭</div><p>Aucun produit à afficher</p></div>`;
+                updateStats();
+                return;
+            }
+            
+            grid.innerHTML = pageProducts.map(p => {
+                const isTop = isTopBrand(p.brand);
+                return `
+                <div class="product-card ${p.status} ${selectedProducts.has(p.id) ? 'selected' : ''}" data-id="${p.id}">
+                    <input type="checkbox" class="product-checkbox" ${selectedProducts.has(p.id) ? 'checked' : ''} onchange="toggleSelect('${p.id}', this.checked)">
+                    
+                    <div class="product-header">
+                        <div class="product-icon">${getCategoryIcon(p.category)}</div>
+                        <div class="product-badges">
+                            ${isTop ? '<span class="badge badge-top">🔴 TOP</span>' : ''}
+                            ${p.badge ? `<span class="badge badge-${p.badge}">${p.badge === '2026' ? '2026' : p.badge === 'new' ? 'NEW' : '🔥'}</span>` : ''}
+                            <span class="product-category ${getCategoryClass(p.category)}">${p.category}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="product-brand">${p.brand}</div>
+                    <div class="product-name">${p.name}</div>
+                    <p class="product-description">${p.description}</p>
+                    
+                    <div class="product-meta">
+                        <span class="product-source"><a href="${p.url}" target="_blank">🔗 ${p.source}</a></span>
+                        <span class="product-year">${p.year}</span>
+                    </div>
+                    
+                    <div class="product-actions">
+                        ${p.status === 'pending' ? `
+                            <button class="btn btn-validate" onclick="validateProduct('${p.id}')">✓ Valider</button>
+                            <button class="btn btn-reject" onclick="rejectProduct('${p.id}')">✗ Rejeter</button>
+                        ` : `
+                            <button class="btn btn-undo" onclick="resetProduct('${p.id}')">↩ Annuler</button>
+                        `}
+                    </div>
+                </div>
+            `}).join('');
+            
+            updateStats();
+        }
+        
+        function updateStats() {
+            const pending = products.filter(p => p.status === 'pending').length;
+            const validated = products.filter(p => p.status === 'validated');
+            const rejected = products.filter(p => p.status === 'rejected').length;
+            
+            document.getElementById('pending-count').textContent = pending;
+            document.getElementById('validated-count').textContent = validated.length;
+            document.getElementById('rejected-count').textContent = rejected;
+            document.getElementById('history-count').textContent = Object.keys(history).length;
+            
+            const totalFiles = validated.length * ALL_LANGUAGES.length;
+            document.getElementById('gen-count').textContent = `${validated.length} produit${validated.length > 1 ? 's' : ''}`;
+            document.getElementById('total-files').textContent = totalFiles;
+            document.getElementById('generation-panel').classList.toggle('visible', validated.length > 0);
+        }
+        
+        function toggleSelect(id, checked) {
+            if (checked) selectedProducts.add(id);
+            else selectedProducts.delete(id);
+            renderProducts();
+        }
+        
+        function selectAllVisible() {
+            const filtered = getFilteredProducts();
+            const start = (currentPage - 1) * itemsPerPage;
+            const pageProducts = filtered.slice(start, start + itemsPerPage).filter(p => p.status === 'pending');
+            const allSelected = pageProducts.every(p => selectedProducts.has(p.id));
+            
+            pageProducts.forEach(p => {
+                if (allSelected) selectedProducts.delete(p.id);
+                else selectedProducts.add(p.id);
+            });
+            renderProducts();
+            showToast(allSelected ? 'Désélectionné' : `${pageProducts.length} sélectionnés`, 'info');
+        }
+        
+        function bulkValidate() {
+            let count = 0;
+            selectedProducts.forEach(id => {
+                const p = products.find(pr => pr.id === id);
+                if (p && p.status === 'pending') { p.status = 'validated'; count++; }
+            });
+            selectedProducts.clear();
+            saveHistory();
+            renderProducts();
+            showToast(`✓ ${count} validés !`, 'success');
+        }
+        
+        function bulkReject() {
+            let count = 0;
+            selectedProducts.forEach(id => {
+                const p = products.find(pr => pr.id === id);
+                if (p && p.status === 'pending') { p.status = 'rejected'; count++; }
+            });
+            selectedProducts.clear();
+            saveHistory();
+            renderProducts();
+            showToast(`✗ ${count} rejetés`, 'error');
+        }
+        
+        function validateProduct(id) {
+            const p = products.find(pr => pr.id === id);
+            if (p) { p.status = 'validated'; saveHistory(); renderProducts(); showToast(`✓ ${p.name.substring(0,25)}...`, 'success'); }
+        }
+        
+        function rejectProduct(id) {
+            const p = products.find(pr => pr.id === id);
+            if (p) { p.status = 'rejected'; saveHistory(); renderProducts(); showToast(`✗ Rejeté`, 'error'); }
+        }
+        
+        function resetProduct(id) {
+            const p = products.find(pr => pr.id === id);
+            if (p) { p.status = 'pending'; saveHistory(); renderProducts(); showToast('↩ Restauré', 'info'); }
+        }
+        
+        // GitHub Push
+        async function generateAndPush() {
+            // Check token
+            const tokenInput = document.getElementById('github-token').value.trim();
+            if (tokenInput) {
+                GITHUB_TOKEN = tokenInput;
+                localStorage.setItem('github_token', tokenInput);
+            }
+            
+            if (!GITHUB_TOKEN) {
+                showToast('⚠️ Entre ton GitHub Token !', 'error');
+                return;
+            }
+            
+            const validated = products.filter(p => p.status === 'validated');
+            if (validated.length === 0) return;
+            
+            const modal = document.getElementById('modal');
+            const progressFill = document.getElementById('progress-fill');
+            const progressText = document.getElementById('progress-text');
+            const logArea = document.getElementById('log-area');
+            
+            modal.classList.add('visible');
+            document.getElementById('btn-generate').disabled = true;
+            logArea.innerHTML = '';
+            
+            const total = validated.length * ALL_LANGUAGES.length;
+            let current = 0;
+            let successCount = 0;
+            
+            function log(msg) { logArea.innerHTML += msg + '<br>'; logArea.scrollTop = logArea.scrollHeight; }
+            
+            log('🚀 Démarrage push GitHub...');
+            log(`📦 ${validated.length} produits × ${ALL_LANGUAGES.length} langues`);
+            
+            for (const product of validated) {
+                for (const lang of ALL_LANGUAGES) {
+                    current++;
+                    progressFill.style.width = `${Math.round((current / total) * 100)}%`;
+                    progressText.textContent = `${current}/${total}`;
+                    
+                    const file = generateHugoFile(product, lang);
+                    
+                    try {
+                        await pushToGitHub(file.path, file.content);
+                        successCount++;
+                    } catch (err) {
+                        log(`❌ ${file.path}`);
+                    }
+                    
+                    await new Promise(r => setTimeout(r, 80));
+                }
+                log(`✅ ${product.name}`);
+            }
+            
+            document.getElementById('modal-title').textContent = '✅ Terminé !';
+            progressText.textContent = `${successCount}/${total} fichiers`;
+            log(`\n🎉 Push terminé !`);
+            
+            setTimeout(() => {
+                modal.classList.remove('visible');
+                document.getElementById('btn-generate').disabled = false;
+                document.getElementById('modal-title').textContent = '🚀 Génération en cours...';
+            }, 3000);
+        }
+        
+        async function pushToGitHub(path, content) {
+            const url = `https://api.github.com/repos/${GITHUB_REPO}/contents/${path}`;
+            
+            let sha = null;
+            try {
+                const getRes = await fetch(url, { headers: { 'Authorization': `token ${GITHUB_TOKEN}` }});
+                if (getRes.ok) sha = (await getRes.json()).sha;
+            } catch (e) {}
+            
+            const body = { message: `Add ${path}`, content: btoa(unescape(encodeURIComponent(content))), branch: 'main' };
+            if (sha) body.sha = sha;
+            
+            const res = await fetch(url, {
+                method: 'PUT',
+                headers: { 'Authorization': `token ${GITHUB_TOKEN}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify(body)
+            });
+            
+            if (!res.ok) throw new Error((await res.json()).message);
+            return res.json();
+        }
+        
+        function generateHugoFile(product, lang) {
+            const slug = product.name.toLowerCase()
+                .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+                .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+            
+            const folder = product.category === 'fragrance' ? 'perfumes' : product.category;
+            
+            return {
+                path: `content/${lang}/${folder}/${slug}.md`,
+                content: `---
+title: "${product.name}"
+brand: "${product.brand}"
+date: ${new Date().toISOString().split('T')[0]}
+draft: false
+categories: ["${product.category}"]
+tags: ["${product.brand.toLowerCase()}", "${product.category}", "${product.year}"]
+year: ${product.year}
+source_url: "${product.url}"
+${product.notes ? `notes: "${product.notes}"` : ''}
+---
+
+${product.description}
+`
+            };
+        }
+        
+        function showToast(message, type = '') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = `toast ${type} show`;
+            setTimeout(() => toast.classList.remove('show'), 2500);
+        }
+        
+        function saveToken() {
+            const token = document.getElementById('github-token').value.trim();
+            if (token) {
+                localStorage.setItem('github_token', token);
+                GITHUB_TOKEN = token;
+                showToast('Token sauvegardé !', 'success');
+            }
+        }
+        
+        function loadToken() {
+            const saved = localStorage.getItem('github_token');
+            if (saved) {
+                document.getElementById('github-token').value = saved;
+                GITHUB_TOKEN = saved;
+            }
+        }
+        
+        // Event listeners
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                currentStatusFilter = tab.dataset.filter;
+                currentPage = 1;
+                renderProducts();
+            });
+        });
+        
+        document.querySelectorAll('.source-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.source-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentSourceFilter = btn.dataset.source;
+                currentPage = 1;
+                renderProducts();
+            });
+        });
+        
+        // Init
+        initProducts();
+        renderFilterBar();
+        renderProducts();
+        loadToken();
+    </script>
+</body>
+</html>
