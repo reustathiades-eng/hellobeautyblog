@@ -1,33 +1,25 @@
-# ==============================================================================
-# HELLO BEAUTY BLOG - Configuration Principale Hugo
-# Site beauté multilingue automatisé (14 langues)
-# ==============================================================================
-
 baseURL: "https://hellobeautyblog.com/"
 title: "Hello Beauty Blog"
 languageCode: "en"
 defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
+disableAliases: true
 
-# Build settings
 enableRobotsTXT: true
 enableGitInfo: true
 enableEmoji: true
 
-# Performance
 timeout: "60s"
 disableKinds:
   - taxonomy
   - term
 
-# Taxonomies personnalisées
 taxonomies:
   brand: "brands"
   category: "categories"
   tag: "tags"
   ingredient: "ingredients"
 
-# URLs propres
 permalinks:
   perfumes: "/perfumes/:slug/"
   skincare: "/skincare/:slug/"
@@ -37,62 +29,13 @@ permalinks:
   blog: "/blog/:slug/"
   brands: "/brands/:slug/"
 
-# Pagination
 paginate: 24
 paginatePath: "page"
 
-# Sitemap
-sitemap:
-  changefreq: "daily"
-  filename: "sitemap.xml"
-  priority: 0.5
-
-# Outputs
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-  section:
-    - HTML
-    - RSS
-  page:
-    - HTML
-
-# Minification
 minify:
-  disableCSS: false
-  disableHTML: false
-  disableJS: false
-  disableJSON: false
-  disableSVG: false
-  disableXML: false
   minifyOutput: true
 
-# Security
-security:
-  enableInlineShortcodes: false
-  exec:
-    allow:
-      - "^dart-sass-embedded$"
-      - "^go$"
-      - "^npx$"
-      - "^postcss$"
-
-# Markup
 markup:
   goldmark:
     renderer:
       unsafe: true
-  highlight:
-    codeFences: true
-    guessSyntax: true
-    lineNos: false
-    style: "monokai"
-
-# Module
-module:
-  hugoVersion:
-    extended: false
-    min: "0.112.0"
-disableAliases: true
