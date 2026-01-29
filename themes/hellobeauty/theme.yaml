@@ -1,0 +1,22 @@
+name: Hello Beauty Theme
+license: MIT
+licenselink: https://github.com/yourrepo/hellobeauty/blob/main/LICENSE
+description: Fresh & Modern beauty blog theme for Hugo
+homepage: https://www.hellobeautyblog.com
+tags:
+  - beauty
+  - blog
+  - multilingual
+  - responsive
+  - modern
+features:
+  - Multilingual (14 languages)
+  - Product pages
+  - Affiliate integration
+  - Fast performance
+  - SEO optimized
+  - Mobile-first design
+min_version: 0.121.0
+author:
+  name: Hello Beauty Blog
+  homepage: https://www.hellobeautyblog.com

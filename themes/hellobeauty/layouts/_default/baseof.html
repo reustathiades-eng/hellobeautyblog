@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}" {{ if eq .Language.Lang "ar" }}dir="rtl"{{ end }}>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <!-- Title -->
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    
+    <!-- Meta Description -->
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    
+    <!-- Keywords -->
+    <meta name="keywords" content="{{ delimit .Site.Params.keywords ", " }}">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}">
+    
+    <!-- Alternate Languages -->
+    {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+    {{ end }}
+    <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}en/">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="{{ .Site.Params.googleFontsUrl }}" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/css/main.css">
+    {{ block "styles" . }}{{ end }}
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.images.ogImage | absURL }}{{ end }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    <meta property="og:locale" content="{{ .Language.Lang }}">
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+    <meta name="twitter:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.images.ogImage | absURL }}{{ end }}">
+    
+    <!-- Schema.org -->
+    {{ if .Site.Params.seo.enableSchemaOrg }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+        "name": "{{ .Title }}",
+        "url": "{{ .Permalink }}",
+        "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}"
+        {{ if .IsPage }},
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02" }}"
+        {{ end }}
+    }
+    </script>
+    {{ end }}
+    
+    <!-- Skimlinks (if enabled) -->
+    {{ if .Site.Params.affiliation.skimlinks.enabled }}
+    {{ with .Site.Params.affiliation.skimlinks.publisherId }}
+    <script type="text/javascript">
+        var defined_skimlinks_settings = { publisher_id: "{{ . }}" };
+    </script>
+    <script type="text/javascript" src="https://s.skimresources.com/js/{{ . }}.skimlinks.js"></script>
+    {{ end }}
+    {{ end }}
+    
+    <!-- Plausible Analytics -->
+    {{ with .Site.Params.seo.plausibleDomain }}
+    <script defer data-domain="{{ . }}" src="https://plausible.io/js/script.js"></script>
+    {{ end }}
+</head>
+<body class="bg-background text-text font-body antialiased">
+    <!-- Skip to main content (accessibility) -->
+    <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-primary text-text px-4 py-2 rounded">
+        Skip to main content
+    </a>
+    
+    <!-- Header -->
+    {{ partial "header.html" . }}
+    
+    <!-- Main Content -->
+    <main id="main-content" class="min-h-screen">
+        {{ block "main" . }}{{ end }}
+    </main>
+    
+    <!-- Footer -->
+    {{ partial "footer.html" . }}
+    
+    <!-- Scripts -->
+    <script src="/js/main.js" defer></script>
+    {{ block "scripts" . }}{{ end }}
+    
+    <!-- Pagefind Search -->
+    {{ if .Site.Params.features.search.enabled }}
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js" defer></script>
+    {{ end }}
+</body>
+</html>

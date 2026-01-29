@@ -1,0 +1,256 @@
+# =============================================================================
+# HELLO BEAUTY BLOG - Paramètres Globaux
+# Design: Fresh & Modern (Rose poudré)
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# INFORMATIONS SITE
+# -----------------------------------------------------------------------------
+author: "Hello Beauty Blog"
+description: "Your ultimate guide to perfumes, skincare, makeup and haircare"
+keywords:
+  - beauty
+  - perfume
+  - fragrance
+  - skincare
+  - makeup
+  - haircare
+  - cosmetics
+  - beauty blog
+
+# Contact
+email: "contact@hellobeautyblog.com"
+
+# Social Media (à configurer)
+social:
+  instagram: ""
+  pinterest: ""
+  youtube: ""
+  tiktok: ""
+  twitter: ""
+  facebook: ""
+
+# -----------------------------------------------------------------------------
+# DESIGN - FRESH & MODERN (Option B)
+# -----------------------------------------------------------------------------
+colors:
+  primary: "#F8C8DC"      # Rose poudré - couleur principale
+  secondary: "#FFFFFF"    # Blanc pur
+  accent: "#6B7280"       # Gris élégant
+  background: "#FDF2F8"   # Rose très clair (fond)
+  text: "#1F2937"         # Gris foncé (texte principal)
+  textLight: "#6B7280"    # Gris moyen (texte secondaire)
+  border: "#F3E8FF"       # Rose très pâle (bordures)
+  success: "#10B981"      # Vert (succès)
+  warning: "#F59E0B"      # Orange (attention)
+  error: "#EF4444"        # Rouge (erreur)
+
+# Typographie
+fonts:
+  heading: "Playfair Display"  # Serif élégant pour titres
+  body: "Inter"                # Sans-serif moderne pour texte
+  accent: "Cormorant Garamond" # Pour citations et highlights
+  
+# Google Fonts URL
+googleFontsUrl: "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@400;500;600&display=swap"
+
+# Style graphique
+design:
+  borderRadius: "8px"
+  boxShadow: "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+  boxShadowHover: "0 10px 15px -3px rgba(0, 0, 0, 0.1)"
+  transition: "all 0.3s ease"
+
+# -----------------------------------------------------------------------------
+# IMAGES
+# -----------------------------------------------------------------------------
+images:
+  logo: "/images/logo.svg"
+  logoAlt: "/images/logo-alt.svg"
+  favicon: "/images/favicon.ico"
+  ogImage: "/images/og-default.jpg"
+  placeholder: "/images/placeholder.jpg"
+
+# Optimisation images
+imageOptimization:
+  quality: 85
+  formats:
+    - webp
+    - jpg
+  sizes:
+    thumbnail: "150x150"
+    small: "300x300"
+    medium: "600x600"
+    large: "1200x1200"
+    hero: "1920x800"
+
+# -----------------------------------------------------------------------------
+# SEO
+# -----------------------------------------------------------------------------
+seo:
+  googleAnalytics: ""       # À configurer
+  plausibleDomain: "hellobeautyblog.com"
+  enableSchemaOrg: true
+  enableOpenGraph: true
+  enableTwitterCards: true
+
+# Schema.org
+schemaOrg:
+  organizationType: "Organization"
+  organizationName: "Hello Beauty Blog"
+  sameAs: []  # URLs réseaux sociaux
+
+# -----------------------------------------------------------------------------
+# AFFILIATION & MONÉTISATION
+# -----------------------------------------------------------------------------
+affiliation:
+  # Skimlinks
+  skimlinks:
+    enabled: true
+    publisherId: ""  # À configurer
+    
+  # Amazon Associates
+  amazon:
+    enabled: true
+    trackingIds:
+      us: ""      # amazon.com
+      uk: ""      # amazon.co.uk
+      de: ""      # amazon.de
+      fr: ""      # amazon.fr
+      es: ""      # amazon.es
+      it: ""      # amazon.it
+      jp: ""      # amazon.co.jp
+      ca: ""      # amazon.ca
+      
+  # Awin (Sephora, Douglas, Notino, etc.)
+  awin:
+    enabled: true
+    publisherId: ""
+    
+  # ShopStyle Collective
+  shopstyle:
+    enabled: false
+    publisherId: ""
+
+# Display Ads (à activer après 10K visites/mois)
+ads:
+  ezoic:
+    enabled: false
+    siteId: ""
+  mediavine:
+    enabled: false
+  adthrive:
+    enabled: false
+
+# -----------------------------------------------------------------------------
+# FONCTIONNALITÉS
+# -----------------------------------------------------------------------------
+features:
+  # Recherche
+  search:
+    enabled: true
+    provider: "pagefind"
+    
+  # Newsletter
+  newsletter:
+    enabled: true
+    provider: "formspree"
+    formId: ""
+    
+  # Commentaires (désactivé pour l'instant)
+  comments:
+    enabled: false
+    provider: ""
+    
+  # Comparateur de prix
+  priceComparison:
+    enabled: true
+    
+  # Wishlist
+  wishlist:
+    enabled: false
+    
+  # Dark mode
+  darkMode:
+    enabled: false  # Peut-être plus tard
+
+# -----------------------------------------------------------------------------
+# PRODUITS - STRUCTURE
+# -----------------------------------------------------------------------------
+products:
+  # Types de produits
+  types:
+    - perfumes
+    - skincare
+    - makeup
+    - haircare
+    
+  # Attributs communs
+  attributes:
+    - brand
+    - price
+    - rating
+    - category
+    - tags
+    - ingredients
+    
+  # Attributs spécifiques parfums
+  perfumeAttributes:
+    - topNotes
+    - heartNotes
+    - baseNotes
+    - concentration
+    - longevity
+    - sillage
+    - gender
+    - season
+    - occasion
+    
+  # Attributs spécifiques soins
+  skincareAttributes:
+    - skinType
+    - concerns
+    - ingredients
+    - texture
+    - applicationTime
+    
+  # Attributs spécifiques maquillage
+  makeupAttributes:
+    - finish
+    - coverage
+    - shades
+    - wearTime
+    - formula
+
+# -----------------------------------------------------------------------------
+# PAGINATION & AFFICHAGE
+# -----------------------------------------------------------------------------
+pagination:
+  productsPerPage: 24
+  guidesPerPage: 12
+  blogPostsPerPage: 12
+
+# Cartes produits
+productCard:
+  showRating: true
+  showPrice: true
+  showBrand: true
+  showCategory: true
+  quickView: true
+
+# -----------------------------------------------------------------------------
+# CACHE & PERFORMANCE
+# -----------------------------------------------------------------------------
+performance:
+  lazyLoad: true
+  preloadImages: true
+  criticalCSS: true
+  minifyAssets: true
+
+# -----------------------------------------------------------------------------
+# DÉVELOPPEMENT
+# -----------------------------------------------------------------------------
+dev:
+  showDrafts: false
+  showFuture: false
+  verbose: false

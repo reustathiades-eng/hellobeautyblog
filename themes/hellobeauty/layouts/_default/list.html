@@ -1,0 +1,111 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h1 class="hero__title">{{ .Title }}</h1>
+        {{ with .Params.description }}
+        <p class="text-lg text-textLight max-w-2xl mx-auto">{{ . }}</p>
+        {{ end }}
+    </div>
+</section>
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+    
+    <!-- Filters Bar -->
+    <div class="flex flex-wrap items-center justify-between gap-4 mb-8 pb-6 border-b border-border">
+        <!-- Results Count -->
+        <p class="text-textLight">
+            {{ len .Pages }} 
+            {{ if eq $lang "fr" }}produits{{ else if eq $lang "de" }}Produkte{{ else if eq $lang "es" }}productos{{ else }}products{{ end }}
+        </p>
+        
+        <!-- Sort (placeholder for future JS) -->
+        <div class="flex items-center gap-4">
+            <label class="text-sm text-textLight">
+                {{ if eq $lang "fr" }}Trier par{{ else if eq $lang "de" }}Sortieren nach{{ else if eq $lang "es" }}Ordenar por{{ else }}Sort by{{ end }}:
+            </label>
+            <select class="text-sm border border-border rounded-md px-3 py-1.5" id="sort-select">
+                <option value="newest">{{ if eq $lang "fr" }}Plus récent{{ else if eq $lang "de" }}Neueste{{ else if eq $lang "es" }}Más reciente{{ else }}Newest{{ end }}</option>
+                <option value="popular">{{ if eq $lang "fr" }}Populaire{{ else if eq $lang "de" }}Beliebt{{ else if eq $lang "es" }}Popular{{ else }}Popular{{ end }}</option>
+                <option value="price-low">{{ if eq $lang "fr" }}Prix croissant{{ else if eq $lang "de" }}Preis aufsteigend{{ else if eq $lang "es" }}Precio ascendente{{ else }}Price: Low to High{{ end }}</option>
+                <option value="price-high">{{ if eq $lang "fr" }}Prix décroissant{{ else if eq $lang "de" }}Preis absteigend{{ else if eq $lang "es" }}Precio descendente{{ else }}Price: High to Low{{ end }}</option>
+            </select>
+        </div>
+    </div>
+    
+    <!-- Products Grid -->
+    {{ $paginator := .Paginate .Pages 24 }}
+    {{ if .Pages }}
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        {{ range $paginator.Pages }}
+        {{ partial "product-card.html" . }}
+        {{ end }}
+    </div>
+    
+    <!-- Pagination -->
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="mt-12 flex justify-center" aria-label="Pagination">
+        <ul class="flex items-center gap-2">
+            {{ if $paginator.HasPrev }}
+            <li>
+                <a href="{{ $paginator.Prev.URL }}" 
+                   class="px-4 py-2 border border-border rounded-md text-sm hover:bg-background transition-colors"
+                   aria-label="Previous page">
+                    ←
+                </a>
+            </li>
+            {{ end }}
+            
+            {{ range $paginator.Pagers }}
+            <li>
+                <a href="{{ .URL }}" 
+                   class="px-4 py-2 border border-border rounded-md text-sm transition-colors
+                          {{ if eq . $paginator }}bg-primary text-text{{ else }}hover:bg-background{{ end }}"
+                   {{ if eq . $paginator }}aria-current="page"{{ end }}>
+                    {{ .PageNumber }}
+                </a>
+            </li>
+            {{ end }}
+            
+            {{ if $paginator.HasNext }}
+            <li>
+                <a href="{{ $paginator.Next.URL }}" 
+                   class="px-4 py-2 border border-border rounded-md text-sm hover:bg-background transition-colors"
+                   aria-label="Next page">
+                    →
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+    {{ end }}
+    
+    {{ else }}
+    <!-- No Products -->
+    <div class="text-center py-16">
+        <svg class="w-16 h-16 mx-auto text-textLight mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" 
+                  d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"/>
+        </svg>
+        <h2 class="text-xl font-heading font-semibold mb-2">
+            {{ if eq $lang "fr" }}Aucun produit{{ else if eq $lang "de" }}Keine Produkte{{ else if eq $lang "es" }}Sin productos{{ else }}No products found{{ end }}
+        </h2>
+        <p class="text-textLight">
+            {{ if eq $lang "fr" }}Revenez bientôt pour découvrir nos nouveautés !{{ else if eq $lang "de" }}Kommen Sie bald wieder für unsere Neuheiten!{{ else if eq $lang "es" }}¡Vuelva pronto para ver nuestras novedades!{{ else }}Check back soon for new arrivals!{{ end }}
+        </p>
+    </div>
+    {{ end }}
+    
+    <!-- Section Content (if any) -->
+    {{ with .Content }}
+    <div class="mt-16 max-w-3xl mx-auto prose prose-lg">
+        {{ . }}
+    </div>
+    {{ end }}
+    
+</div>
+{{ end }}

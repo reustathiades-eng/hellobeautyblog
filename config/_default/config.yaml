@@ -1,0 +1,96 @@
+# =============================================================================
+# HELLO BEAUTY BLOG - Configuration Principale Hugo
+# Site beauté multilingue automatisé (14 langues)
+# =============================================================================
+
+baseURL: "https://www.hellobeautyblog.com/"
+title: "Hello Beauty Blog"
+languageCode: "en"
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+
+# Build settings
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+
+# Performance
+timeout: "60s"
+disableKinds:
+  - taxonomy
+  - term
+
+# Taxonomies personnalisées
+taxonomies:
+  brand: "brands"
+  category: "categories"
+  tag: "tags"
+  ingredient: "ingredients"
+
+# URLs propres
+permalinks:
+  perfumes: "/:lang/perfumes/:slug/"
+  skincare: "/:lang/skincare/:slug/"
+  makeup: "/:lang/makeup/:slug/"
+  haircare: "/:lang/haircare/:slug/"
+  guides: "/:lang/guides/:slug/"
+  blog: "/:lang/blog/:slug/"
+  brands: "/:lang/brands/:slug/"
+
+# Pagination
+paginate: 24
+paginatePath: "page"
+
+# Sitemap
+sitemap:
+  changefreq: "daily"
+  filename: "sitemap.xml"
+  priority: 0.5
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+    - JSON
+  page:
+    - HTML
+
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: "monokai"
+    lineNos: false
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+# Minification
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+
+# Security
+security:
+  enableInlineShortcodes: false
+  funcs:
+    getenv:
+      - "^HUGO_"
+      - "^CI$"
+
+# Module (pour imports futurs)
+module:
+  hugoVersion:
+    extended: true
+    min: "0.121.0"

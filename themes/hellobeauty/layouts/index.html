@@ -1,0 +1,98 @@
+{{ define "title" }}{{ .Site.Title }} - {{ .Site.Params.description }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<!-- Hero Section -->
+<section class="relative bg-gradient-to-br from-background via-white to-primary/20 py-16 lg:py-24 overflow-hidden">
+    <div class="absolute top-0 right-0 w-96 h-96 bg-primary/30 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2"></div>
+    
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto">
+            <h1 class="text-4xl lg:text-6xl font-heading font-bold text-text mb-6">
+                {{ if eq $lang "fr" }}Bienvenue sur <span class="text-primary">Hello</span> Beauty
+                {{ else }}Welcome to <span class="text-primary">Hello</span> Beauty{{ end }}
+            </h1>
+            <p class="text-lg lg:text-xl text-textLight mb-8">
+                {{ if eq $lang "fr" }}Votre guide ultime des parfums, soins, maquillage et cheveux.
+                {{ else }}Your ultimate guide to perfumes, skincare, makeup and haircare.{{ end }}
+            </p>
+            <div class="flex flex-wrap justify-center gap-4">
+                <a href="/{{ $lang }}/perfumes/" class="btn btn-primary px-8 py-3">
+                    {{ if eq $lang "fr" }}Explorer les Parfums{{ else }}Explore Perfumes{{ end }}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Categories -->
+<section class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-2xl lg:text-3xl font-heading font-semibold text-center mb-12">
+            {{ if eq $lang "fr" }}Explorez par Catégorie{{ else }}Explore by Category{{ end }}
+        </h2>
+        
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+            <a href="/{{ $lang }}/perfumes/" class="group relative aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-primary/40 to-primary/10 flex flex-col items-center justify-center">
+                <span class="text-5xl mb-4">🌸</span>
+                <h3 class="text-xl font-heading font-semibold">{{ if eq $lang "fr" }}Parfums{{ else }}Perfumes{{ end }}</h3>
+            </a>
+            <a href="/{{ $lang }}/skincare/" class="group relative aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-green-100 to-green-50 flex flex-col items-center justify-center">
+                <span class="text-5xl mb-4">💆</span>
+                <h3 class="text-xl font-heading font-semibold">{{ if eq $lang "fr" }}Soins{{ else }}Skincare{{ end }}</h3>
+            </a>
+            <a href="/{{ $lang }}/makeup/" class="group relative aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-rose-100 to-rose-50 flex flex-col items-center justify-center">
+                <span class="text-5xl mb-4">💄</span>
+                <h3 class="text-xl font-heading font-semibold">{{ if eq $lang "fr" }}Maquillage{{ else }}Makeup{{ end }}</h3>
+            </a>
+            <a href="/{{ $lang }}/haircare/" class="group relative aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-amber-100 to-amber-50 flex flex-col items-center justify-center">
+                <span class="text-5xl mb-4">💇</span>
+                <h3 class="text-xl font-heading font-semibold">{{ if eq $lang "fr" }}Cheveux{{ else }}Haircare{{ end }}</h3>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Latest Products -->
+{{ $perfumes := where site.RegularPages "Section" "perfumes" }}
+{{ with first 8 $perfumes }}
+<section class="py-16 bg-background">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between mb-8">
+            <h2 class="text-2xl font-heading font-semibold">
+                {{ if eq $lang "fr" }}Derniers Parfums{{ else }}Latest Perfumes{{ end }}
+            </h2>
+            <a href="/{{ $lang }}/perfumes/" class="text-primary hover:underline">
+                {{ if eq $lang "fr" }}Voir tout{{ else }}View all{{ end }} →
+            </a>
+        </div>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            {{ range . }}
+            {{ partial "product-card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+<!-- Newsletter -->
+<section class="py-16 bg-primary/10">
+    <div class="max-w-2xl mx-auto px-4 text-center">
+        <h2 class="text-2xl font-heading font-semibold mb-4">
+            {{ if eq $lang "fr" }}Restez informé{{ else }}Stay Updated{{ end }}
+        </h2>
+        <p class="text-textLight mb-6">
+            {{ if eq $lang "fr" }}Recevez les dernières nouveautés beauté.{{ else }}Get the latest beauty news delivered to your inbox.{{ end }}
+        </p>
+        <form action="https://formspree.io/f/{{ .Site.Params.features.newsletter.formId }}" method="POST" class="flex gap-3 max-w-md mx-auto">
+            <input type="email" name="email" required placeholder="{{ if eq $lang "fr" }}Votre email{{ else }}Your email{{ end }}"
+                   class="flex-1 px-4 py-3 rounded-lg border border-border">
+            <button type="submit" class="btn btn-primary px-6">
+                {{ if eq $lang "fr" }}S'inscrire{{ else }}Subscribe{{ end }}
+            </button>
+        </form>
+    </div>
+</section>
+
+{{ end }}
