@@ -1,7 +1,7 @@
-# =============================================================================
+# ==============================================================================
 # HELLO BEAUTY BLOG - Configuration Principale Hugo
 # Site beauté multilingue automatisé (14 langues)
-# =============================================================================
+# ==============================================================================
 
 baseURL: "https://www.hellobeautyblog.com/"
 title: "Hello Beauty Blog"
@@ -29,13 +29,13 @@ taxonomies:
 
 # URLs propres
 permalinks:
-  perfumes: "/:lang/perfumes/:slug/"
-  skincare: "/:lang/skincare/:slug/"
-  makeup: "/:lang/makeup/:slug/"
-  haircare: "/:lang/haircare/:slug/"
-  guides: "/:lang/guides/:slug/"
-  blog: "/:lang/blog/:slug/"
-  brands: "/:lang/brands/:slug/"
+  perfumes: "/perfumes/:slug/"
+  skincare: "/skincare/:slug/"
+  makeup: "/makeup/:slug/"
+  haircare: "/haircare/:slug/"
+  guides: "/guides/:slug/"
+  blog: "/blog/:slug/"
+  brands: "/brands/:slug/"
 
 # Pagination
 paginate: 24
@@ -47,7 +47,7 @@ sitemap:
   filename: "sitemap.xml"
   priority: 0.5
 
-# Output formats
+# Outputs
 outputs:
   home:
     - HTML
@@ -56,21 +56,8 @@ outputs:
   section:
     - HTML
     - RSS
-    - JSON
   page:
     - HTML
-
-# Markup settings
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    style: "monokai"
-    lineNos: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 4
 
 # Minification
 minify:
@@ -80,17 +67,31 @@ minify:
   disableJSON: false
   disableSVG: false
   disableXML: false
+  minifyOutput: true
 
 # Security
 security:
   enableInlineShortcodes: false
-  funcs:
-    getenv:
-      - "^HUGO_"
-      - "^CI$"
+  exec:
+    allow:
+      - "^dart-sass-embedded$"
+      - "^go$"
+      - "^npx$"
+      - "^postcss$"
 
-# Module (pour imports futurs)
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: "monokai"
+
+# Module
 module:
   hugoVersion:
-    extended: true
-    min: "0.121.0"
+    extended: false
+    min: "0.112.0"
