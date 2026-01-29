@@ -1,1 +1,159 @@
+# HelloBeautyBlog.com - Redirections 301
+# Format: old_url new_url status_code
+# Pour Cloudflare Pages - placer dans /static/_redirects
 
+# ============================================
+# PRIORITÉ 1 : PAGES CRITIQUES (Trafic + Backlinks)
+# ============================================
+
+/2010/05/easy-elegant-diy-jewelry-storage-display/ /en/blog/diy-jewelry-storage-display/ 301
+/2011/09/love-your-lips-top-tips-and-beauty-picks-for-soft-supple-lips/ /en/blog/soft-supple-lips-tips/ 301
+
+# ============================================
+# PRIORITÉ 2 : PAGES AVEC KEYWORDS
+# ============================================
+
+/2012/07/love-it-it-cosmetics-vitality-lip-flush-is-perfect-for-summer/ /en/makeup/it-cosmetics-vitality-lip-flush-review/ 301
+/2010/07/urban-decay-summer-2010-pocket-rocket-lip-gloss-more-hot-men-in-the-palm-of-your-hand/ /en/makeup/urban-decay-pocket-rocket-lip-gloss/ 301
+/2011/04/diy-beauty-101-how-to-make-a-natural-foaming-face-wash/ /en/blog/diy-natural-foaming-face-wash/ 301
+/2012/04/best-of-beauty-benefit-hello-flawless-oxygen-wow-foundation-is-my-go-to-foundation/ /en/makeup/benefit-hello-flawless-oxygen-wow-review/ 301
+/2011/03/best-of-beauty-estee-lauder-sumptuous-extreme-mascara-review-look/ /en/makeup/estee-lauder-sumptuous-extreme-mascara-review/ 301
+/2010/02/benefit-stay-dont-stray/ /en/makeup/benefit-stay-dont-stray-review/ 301
+/2010/09/instyler-hot-iron-review/ /en/haircare/instyler-hot-iron-review/ 301
+/2011/04/caudalie-new-elixir-of-youth-eye-cream-premier-cru-the-eye-cream/ /en/skincare/caudalie-premier-cru-eye-cream-review/ 301
+/2010/08/best-of-beauty-review-kerastase/ /en/haircare/kerastase-review/ 301
+/2010/05/countdown-the-last-days-of-shu-uemura-in-the-u-s/ /en/blog/shu-uemura-leaving-us/ 301
+/2010/08/review-candle-linneas-lights-home-scents-summer-yearround/ /en/blog/linneas-lights-candle-review/ 301
+/2010/10/best-of-beauty-complexion-perfection-kate-somerville-review/ /en/skincare/kate-somerville-review/ 301
+
+# ============================================
+# PRIORITÉ 3 : SKINCARE
+# ============================================
+
+/2010/09/best-of-beauty-eco-chic-liz-earle-cleanse-polish-hot-cloth-cleanser-an-all-time-favorite/ /en/skincare/liz-earle-cleanse-polish-review/ 301
+/2013/03/drugstore-score-simple-protecting-light-moisturizer-with-spf/ /en/skincare/simple-protecting-moisturizer-spf-review/ 301
+/2010/06/senspa-luxe-holistic-pampering-wellness/ /en/skincare/senspa-luxe-wellness-review/ 301
+/2010/11/eco-chic-arcona-skin-care-now-easier-to-find/ /en/skincare/arcona-skincare-review/ 301
+/2010/11/review-philosophy-miracle-worker/ /en/skincare/philosophy-miracle-worker-review/ 301
+/2010/07/8-easy-ways-to-soothe-a-sunburn/ /en/skincare/soothe-sunburn-tips/ 301
+/2010/10/skin-care-101-how-to-apply-face-serums-and-moisturizers/ /en/skincare/how-to-apply-serums-moisturizers/ 301
+/2011/03/discover-sanitas-potent-natural-skin-care-that-helps-skin-heal-itself/ /en/skincare/sanitas-natural-skincare-review/ 301
+
+# ============================================
+# PRIORITÉ 3 : MAKEUP
+# ============================================
+
+/2010/07/is-bobbi-brown-raspberry-shimmer-lip-gloss-the-new-must-have-gloss/ /en/makeup/bobbi-brown-raspberry-shimmer-lip-gloss/ 301
+/2010/10/guerlain-fall-2010-collection-review-makeup-tutorial-video/ /en/makeup/guerlain-fall-2010-collection-review/ 301
+/2016/03/best-new-makeup-for-spring-2016/ /en/makeup/best-makeup-spring-2016/ 301
+/2010/08/organic-island-shell-lip-balm-the-prettiest-balm-around/ /en/makeup/organic-island-shell-lip-balm-review/ 301
+/2010/01/benefit-sugarbomb-blush/ /en/makeup/benefit-sugarbomb-blush-review/ 301
+/2013/03/maybelline-color-whisper/ /en/makeup/maybelline-color-whisper-review/ 301
+/2011/02/how-does-benefit-bella-bamba-compare-with-swatches/ /en/makeup/benefit-bella-bamba-review-swatches/ 301
+/2009/12/benefit-sugarbomb/ /en/makeup/benefit-sugarbomb-review/ 301
+/2010/09/best-of-beauty-shu-uemura-brush-cleaner/ /en/makeup/shu-uemura-brush-cleaner-review/ 301
+/2010/05/best-of-beauty-korres-provitamin-b5-rice-bran-mascara/ /en/makeup/korres-rice-bran-mascara-review/ 301
+/2015/11/video-best-of-holiday-beauty-collections-for-festive-holiday-looks/ /en/makeup/holiday-beauty-collections-2015/ 301
+/2011/03/benefit-cosmetics-giving-the-gift-of-beautiful-brows-on-birthdays/ /en/makeup/benefit-brow-bar-birthday-gift/ 301
+/2011/05/best-of-beauty-benefit-chachatint-%E2%80%93-must-have-cheek-and-lip-stain-for-summer-review-swatches/ /en/makeup/benefit-chachatint-review/ 301
+/2011/05/best-of-beauty-benefit-chachatint-–-must-have-cheek-and-lip-stain-for-summer-review-swatches/ /en/makeup/benefit-chachatint-review/ 301
+/2010/12/best-of-beauty-bobbi-brown-introduces-a-powder-foundation-done-right-review-look/ /en/makeup/bobbi-brown-powder-foundation-review/ 301
+/2011/03/benefit-hello-flawless-now-in-three-new-shades-for-darker-complexions/ /en/makeup/benefit-hello-flawless-new-shades/ 301
+/2011/03/best-of-beauty-new-bobbi-brown-corrector-and-creamy-concealer-impressive-before-and-after-pics/ /en/makeup/bobbi-brown-corrector-concealer-review/ 301
+/2010/08/benefit-cosmetics-brow-tint-review/ /en/makeup/benefit-brow-tint-review/ 301
+/2010/08/best-beauty-bargain-covergirl-lash-blast-fusion-as-good-as-mascaras-twice-the-price/ /en/makeup/covergirl-lash-blast-fusion-review/ 301
+/2010/09/serious-savings-lorac-cosmetics-hautelook/ /en/makeup/lorac-cosmetics-hautelook-sale/ 301
+/2011/04/bare-escentuals-beautifully-bronzed-deluxe-two-piece-collection/ /en/makeup/bare-escentuals-bronzed-collection/ 301
+/2010/07/estee-lauder-introduces-new-lip-gloss-collection-pure-color-gloss/ /en/makeup/estee-lauder-pure-color-gloss/ 301
+/2010/08/review-urban-decay-good-karma-brushes/ /en/makeup/urban-decay-good-karma-brushes-review/ 301
+/2012/08/love-sephora-hello-kitty-head-of-the-class-make-up-palettes/ /en/makeup/sephora-hello-kitty-palettes/ 301
+/2012/08/5-of-the-best-mascaras-how-to-make-any-mascara-waterproof-for-fox-2-news/ /en/makeup/best-mascaras-waterproof-tips/ 301
+/2016/02/how-to-get-red-carpet-ready-for-an-oscars-party/ /en/makeup/red-carpet-oscars-party-look/ 301
+
+# ============================================
+# PRIORITÉ 3 : HAIRCARE
+# ============================================
+
+/2010/09/best-of-beauty-living-proof-no-frizz-%E2%80%93-innovative-hair-care-that-wipes-out-frizz/ /en/haircare/living-proof-no-frizz-review/ 301
+/2010/09/best-of-beauty-living-proof-no-frizz-–-innovative-hair-care-that-wipes-out-frizz/ /en/haircare/living-proof-no-frizz-review/ 301
+/2011/04/best-of-beauty-paul-mitchell-express-ion-dryer-saves-time-and-is-kind-to-the-planet/ /en/haircare/paul-mitchell-express-ion-dryer-review/ 301
+/2010/07/dekko-hair-salon-review-best-haircuts/ /en/haircare/dekko-hair-salon-review/ 301
+
+# ============================================
+# PRIORITÉ 3 : BLOG / DIY
+# ============================================
+
+/2010/02/how-to-decaffeinate-tea/ /en/blog/how-to-decaffeinate-tea/ 301
+/2011/04/diy-beauty-101-how-to-make-your-own-shampoo/ /en/blog/diy-homemade-shampoo/ 301
+/2014/03/how-to-beat-the-blues-with-light/ /en/blog/light-therapy-beat-blues/ 301
+/2009/12/behind-the-scenes-estee-lauder/ /en/blog/behind-scenes-estee-lauder/ 301
+/2011/02/a-peek-into-the-super-cute-benefit-cosmetics-offices/ /en/blog/benefit-cosmetics-offices-tour/ 301
+/2012/11/diy-how-to-make-a-pumpkin-face-mask/ /en/blog/diy-pumpkin-face-mask/ 301
+/2009/12/sephora-vending-machines/ /en/blog/sephora-vending-machines/ 301
+/2010/06/pharmaca-offers-helpful-natural-health-information-online/ /en/blog/pharmaca-natural-health/ 301
+/2013/02/finally-a-bic-for-the-ladies/ /en/blog/bic-for-her-review/ 301
+/2010/02/how-to-make-healthy-beautifying-diy-microwave-popcorn/ /en/blog/healthy-diy-microwave-popcorn/ 301
+/2016/05/natural-workout-beauty-gym-bag/ /en/blog/natural-workout-beauty-gym-bag/ 301
+
+# ============================================
+# PRIORITÉ 3 : PERFUMES
+# ============================================
+
+/2010/08/review-giveaway-win-guerlain-shalimar-eau-de-parfum/ /en/perfumes/guerlain-shalimar-review/ 301
+
+# ============================================
+# PAGES SPÉCIALES
+# ============================================
+
+# Review Bobbi Brown Travel Kit (backlink QVC)
+/2010/10/review-bobbi-brown-deluxe-travel-kit/ /en/makeup/bobbi-brown-deluxe-travel-kit-review/ 301
+
+# Clarisonic Winner (backlink Bing Images)
+/2010/01/clarisonic-winner/ /en/blog/clarisonic-giveaway-winner/ 301
+
+# ============================================
+# PAGINATION WORDPRESS
+# ============================================
+
+/page/2/ /en/blog/ 301
+/page/3/ /en/blog/ 301
+/page/4/ /en/blog/ 301
+/page/5/ /en/blog/ 301
+/page/* /en/blog/ 301
+
+# ============================================
+# CATÉGORIES WORDPRESS (si existantes)
+# ============================================
+
+/category/beauty/ /en/blog/ 301
+/category/makeup/ /en/makeup/ 301
+/category/skincare/ /en/skincare/ 301
+/category/haircare/ /en/haircare/ 301
+/category/diy/ /en/blog/ 301
+
+# ============================================
+# REDIRECTIONS IMAGES WP-CONTENT
+# Note: Les images doivent être migrées vers /images/
+# ============================================
+
+# /wp-content/uploads/* /images/:splat 301
+
+# ============================================
+# ANCIENNES URLS AVEC WWW
+# ============================================
+
+# Cloudflare gère automatiquement www -> non-www
+# Pas besoin de redirections manuelles
+
+# ============================================
+# FALLBACK - Toutes les anciennes URLs /YYYY/MM/
+# ============================================
+
+/2009/* /en/blog/ 301
+/2010/* /en/blog/ 301
+/2011/* /en/blog/ 301
+/2012/* /en/blog/ 301
+/2013/* /en/blog/ 301
+/2014/* /en/blog/ 301
+/2015/* /en/blog/ 301
+/2016/* /en/blog/ 301
