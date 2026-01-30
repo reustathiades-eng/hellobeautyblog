@@ -13,7 +13,7 @@
             <img src="{{ . }}" 
                  alt="{{ $.Title }}"
                  loading="lazy"
-                 class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105">
+                 class="w-full h-full object-contain p-4 transition-transform duration-500 group-hover:scale-105">
             {{ else }}
             <div class="w-full h-full flex items-center justify-center text-textLight">
                 <svg class="w-16 h-16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -28,24 +28,26 @@
         <div class="absolute top-3 left-3 flex flex-col gap-2">
             {{ if .Params.new }}
             <span class="px-2 py-1 bg-primary text-text text-xs font-semibold rounded">
-                {{ if eq $lang "fr" }}Nouveau{{ else if eq $lang "de" }}Neu{{ else if eq $lang "es" }}Nuevo{{ else }}New{{ end }}
+                {{ if eq $lang "fr" }}Nouveau{{ else if eq $lang "de" }}Neu{{ else if eq $lang "es" }}Nuevo{{ else if eq $lang "it" }}Nuovo{{ else if eq $lang "pt" }}Novo{{ else if eq $lang "nl" }}Nieuw{{ else if eq $lang "pl" }}Nowy{{ else if eq $lang "tr" }}Yeni{{ else if eq $lang "ja" }}新着{{ else if eq $lang "ko" }}신상{{ else if eq $lang "zh" }}新品{{ else if eq $lang "ar" }}جديد{{ else if eq $lang "hi" }}नया{{ else }}New{{ end }}
             </span>
             {{ end }}
             {{ if .Params.bestseller }}
             <span class="px-2 py-1 bg-text text-white text-xs font-semibold rounded">
-                {{ if eq $lang "fr" }}Best-seller{{ else if eq $lang "de" }}Bestseller{{ else if eq $lang "es" }}Más vendido{{ else }}Bestseller{{ end }}
+                {{ if eq $lang "fr" }}Best-seller{{ else if eq $lang "de" }}Bestseller{{ else if eq $lang "es" }}Más vendido{{ else if eq $lang "it" }}Bestseller{{ else if eq $lang "pt" }}Mais vendido{{ else if eq $lang "nl" }}Bestseller{{ else if eq $lang "pl" }}Bestseller{{ else if eq $lang "tr" }}Çok satan{{ else if eq $lang "ja" }}人気{{ else if eq $lang "ko" }}베스트{{ else if eq $lang "zh" }}畅销{{ else if eq $lang "ar" }}الأكثر مبيعاً{{ else if eq $lang "hi" }}बेस्टसेलर{{ else }}Bestseller{{ end }}
             </span>
             {{ end }}
         </div>
         
-        <!-- Quick View (optional) -->
-        {{ if site.Params.productCard.quickView }}
-        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
-            <span class="px-4 py-2 bg-white text-text text-sm font-medium rounded-full">
-                {{ if eq $lang "fr" }}Voir{{ else if eq $lang "de" }}Ansehen{{ else if eq $lang "es" }}Ver{{ else }}View{{ end }}
+        <!-- View Button - Fixed at bottom -->
+        <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2">
+            <span class="view-button">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+                </svg>
+                {{ if eq $lang "fr" }}Voir{{ else if eq $lang "de" }}Ansehen{{ else if eq $lang "es" }}Ver{{ else if eq $lang "it" }}Vedi{{ else if eq $lang "pt" }}Ver{{ else if eq $lang "nl" }}Bekijken{{ else if eq $lang "pl" }}Zobacz{{ else if eq $lang "tr" }}Gör{{ else if eq $lang "ja" }}詳細{{ else if eq $lang "ko" }}보기{{ else if eq $lang "zh" }}查看{{ else if eq $lang "ar" }}عرض{{ else if eq $lang "hi" }}देखें{{ else }}View{{ end }}
             </span>
         </div>
-        {{ end }}
     </a>
     
     <!-- Content -->
@@ -82,15 +84,7 @@
         </div>
         {{ end }}
         
-        <!-- Price -->
-        {{ if and site.Params.productCard.showPrice .Params.price }}
-        <div class="flex items-center gap-2">
-            <span class="product-card__price">{{ .Params.price }}</span>
-            {{ with .Params.originalPrice }}
-            <span class="text-sm text-textLight line-through">{{ . }}</span>
-            {{ end }}
-        </div>
-        {{ end }}
+        <!-- Price REMOVED -->
         
         <!-- Tags (perfume notes preview) -->
         {{ with .Params.topNotes }}
@@ -102,3 +96,25 @@
         {{ end }}
     </div>
 </article>
+
+<style>
+.view-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid #E5E7EB;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #374151;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+}
+.product-card:hover .view-button {
+    background: #F8C8DC;
+    border-color: #F8C8DC;
+    transform: scale(1.05);
+}
+</style>
