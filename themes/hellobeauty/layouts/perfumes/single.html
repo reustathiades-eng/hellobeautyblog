@@ -18,11 +18,50 @@
         <!-- Product Header Section -->
         <div class="product-header">
             
-            <!-- Product Image -->
-            <div class="product-image-wrapper">
-                {{ with index .Params.images 0 }}
-                <div class="product-image-container">
-                    <img src="{{ . }}" alt="{{ $.Title }}" class="product-image">
+            <!-- Product Image Carousel -->
+            <div class="product-gallery">
+                {{ if .Params.images }}
+                <div class="carousel-container">
+                    <!-- Main Image -->
+                    <div class="carousel-main">
+                        <button class="carousel-btn prev" onclick="changeSlide(-1)" aria-label="Previous">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M15 18l-6-6 6-6"/>
+                            </svg>
+                        </button>
+                        <div class="carousel-viewport">
+                            {{ range $index, $image := .Params.images }}
+                            <div class="carousel-slide {{ if eq $index 0 }}active{{ end }}" data-index="{{ $index }}">
+                                <img src="{{ $image }}" alt="{{ $.Title }} - Image {{ add $index 1 }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+                            </div>
+                            {{ end }}
+                        </div>
+                        <button class="carousel-btn next" onclick="changeSlide(1)" aria-label="Next">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M9 18l6-6-6-6"/>
+                            </svg>
+                        </button>
+                    </div>
+                    
+                    <!-- Thumbnails -->
+                    {{ if gt (len .Params.images) 1 }}
+                    <div class="carousel-thumbnails">
+                        {{ range $index, $image := .Params.images }}
+                        <button class="thumbnail {{ if eq $index 0 }}active{{ end }}" onclick="goToSlide({{ $index }})" data-index="{{ $index }}">
+                            <img src="{{ $image }}" alt="Thumbnail {{ add $index 1 }}">
+                        </button>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    
+                    <!-- Dots indicator for mobile -->
+                    {{ if gt (len .Params.images) 1 }}
+                    <div class="carousel-dots">
+                        {{ range $index, $image := .Params.images }}
+                        <button class="dot {{ if eq $index 0 }}active{{ end }}" onclick="goToSlide({{ $index }})" data-index="{{ $index }}"></button>
+                        {{ end }}
+                    </div>
+                    {{ end }}
                 </div>
                 {{ else }}
                 <div class="product-image-placeholder">
@@ -56,17 +95,17 @@
                         </svg>
                         {{ end }}
                     </div>
-                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else if eq $lang "ja" }}レビュー{{ else if eq $lang "ko" }}리뷰{{ else if eq $lang "zh" }}评价{{ else if eq $lang "ar" }}تقييم{{ else if eq $lang "hi" }}समीक्षाएं{{ else if eq $lang "it" }}recensioni{{ else if eq $lang "pt" }}avaliações{{ else if eq $lang "nl" }}beoordelingen{{ else if eq $lang "pl" }}opinii{{ else if eq $lang "tr" }}yorum{{ else }}reviews{{ end }})</span>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
                 </div>
                 
                 <!-- Fragrance Notes -->
                 {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
                 <div class="fragrance-pyramid">
-                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else if eq $lang "de" }}Duftpyramide{{ else if eq $lang "es" }}Pirámide Olfativa{{ else if eq $lang "ja" }}香りのピラミッド{{ else if eq $lang "ko" }}향 피라미드{{ else if eq $lang "zh" }}香调金字塔{{ else if eq $lang "ar" }}هرم العطر{{ else if eq $lang "hi" }}सुगंध पिरामिड{{ else if eq $lang "it" }}Piramide Olfattiva{{ else if eq $lang "pt" }}Pirâmide Olfativa{{ else if eq $lang "nl" }}Geurpiramide{{ else if eq $lang "pl" }}Piramida zapachowa{{ else if eq $lang "tr" }}Koku Piramidi{{ else }}Fragrance Notes{{ end }}</h3>
+                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else if eq $lang "de" }}Duftpyramide{{ else if eq $lang "es" }}Pirámide Olfativa{{ else }}Fragrance Notes{{ end }}</h3>
                     <div class="notes-grid">
                         {{ with .Params.topNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else if eq $lang "de" }}Kopfnote{{ else if eq $lang "es" }}Notas de salida{{ else if eq $lang "ja" }}トップノート{{ else if eq $lang "ko" }}탑 노트{{ else if eq $lang "zh" }}前调{{ else if eq $lang "ar" }}النوتات العليا{{ else if eq $lang "hi" }}टॉप नोट्स{{ else if eq $lang "it" }}Note di testa{{ else if eq $lang "pt" }}Notas de topo{{ else if eq $lang "nl" }}Topnoten{{ else if eq $lang "pl" }}Nuty głowy{{ else if eq $lang "tr" }}Üst Notalar{{ else }}Top Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else if eq $lang "de" }}Kopfnote{{ else if eq $lang "es" }}Notas de salida{{ else }}Top Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag top">{{ . }}</span>{{ end }}
                             </div>
@@ -74,7 +113,7 @@
                         {{ end }}
                         {{ with .Params.heartNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else if eq $lang "de" }}Herznote{{ else if eq $lang "es" }}Notas de corazón{{ else if eq $lang "ja" }}ミドルノート{{ else if eq $lang "ko" }}미들 노트{{ else if eq $lang "zh" }}中调{{ else if eq $lang "ar" }}النوتات الوسطى{{ else if eq $lang "hi" }}हार्ट नोट्स{{ else if eq $lang "it" }}Note di cuore{{ else if eq $lang "pt" }}Notas de coração{{ else if eq $lang "nl" }}Hartnoten{{ else if eq $lang "pl" }}Nuty serca{{ else if eq $lang "tr" }}Kalp Notaları{{ else }}Heart Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else if eq $lang "de" }}Herznote{{ else if eq $lang "es" }}Notas de corazón{{ else }}Heart Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag heart">{{ . }}</span>{{ end }}
                             </div>
@@ -82,7 +121,7 @@
                         {{ end }}
                         {{ with .Params.baseNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else if eq $lang "de" }}Basisnote{{ else if eq $lang "es" }}Notas de fondo{{ else if eq $lang "ja" }}ベースノート{{ else if eq $lang "ko" }}베이스 노트{{ else if eq $lang "zh" }}基调{{ else if eq $lang "ar" }}النوتات الأساسية{{ else if eq $lang "hi" }}बेस नोट्स{{ else if eq $lang "it" }}Note di fondo{{ else if eq $lang "pt" }}Notas de fundo{{ else if eq $lang "nl" }}Basisnoten{{ else if eq $lang "pl" }}Nuty bazy{{ else if eq $lang "tr" }}Alt Notalar{{ else }}Base Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else if eq $lang "de" }}Basisnote{{ else if eq $lang "es" }}Notas de fondo{{ else }}Base Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag base">{{ . }}</span>{{ end }}
                             </div>
@@ -92,52 +131,57 @@
                 </div>
                 {{ end }}
                 
-                <!-- Perfume Characteristics -->
-                {{ if or .Params.longevity .Params.sillage .Params.season .Params.occasion }}
-                <div class="product-specs">
-                    <h3 class="specs-title">
-                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
-                        </svg>
-                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else if eq $lang "ja" }}特徴{{ else if eq $lang "ko" }}특징{{ else if eq $lang "zh" }}特点{{ else if eq $lang "ar" }}المواصفات{{ else if eq $lang "hi" }}विशेषताएं{{ else if eq $lang "it" }}Caratteristiche{{ else if eq $lang "pt" }}Características{{ else if eq $lang "nl" }}Kenmerken{{ else if eq $lang "pl" }}Cechy{{ else if eq $lang "tr" }}Özellikler{{ else }}Characteristics{{ end }}
-                    </h3>
-                    <div class="specs-grid">
-                        {{ with .Params.concentration }}
-                        <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else if eq $lang "de" }}Konzentration{{ else if eq $lang "es" }}Concentración{{ else if eq $lang "ja" }}濃度{{ else if eq $lang "ko" }}농도{{ else if eq $lang "zh" }}浓度{{ else if eq $lang "ar" }}التركيز{{ else if eq $lang "hi" }}सांद्रता{{ else if eq $lang "it" }}Concentrazione{{ else if eq $lang "pt" }}Concentração{{ else if eq $lang "nl" }}Concentratie{{ else if eq $lang "pl" }}Stężenie{{ else if eq $lang "tr" }}Konsantrasyon{{ else }}Concentration{{ end }}</span>
-                            <span class="spec-value">{{ . }}</span>
-                        </div>
-                        {{ end }}
-                        {{ with .Params.longevity }}
-                        <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else if eq $lang "ja" }}持続力{{ else if eq $lang "ko" }}지속력{{ else if eq $lang "zh" }}持久度{{ else if eq $lang "ar" }}الثبات{{ else if eq $lang "hi" }}स्थायित्व{{ else if eq $lang "it" }}Durata{{ else if eq $lang "pt" }}Duração{{ else if eq $lang "nl" }}Houdbaarheid{{ else if eq $lang "pl" }}Trwałość{{ else if eq $lang "tr" }}Kalıcılık{{ else }}Longevity{{ end }}</span>
-                            <span class="spec-value">{{ . }}</span>
-                        </div>
-                        {{ end }}
-                        {{ with .Params.sillage }}
-                        <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Sillage{{ else if eq $lang "de" }}Sillage{{ else if eq $lang "es" }}Estela{{ else if eq $lang "ja" }}シャージュ{{ else if eq $lang "ko" }}시야쥬{{ else if eq $lang "zh" }}留香{{ else if eq $lang "ar" }}الانتشار{{ else if eq $lang "hi" }}सिलाज{{ else if eq $lang "it" }}Sillage{{ else if eq $lang "pt" }}Sillage{{ else if eq $lang "nl" }}Sillage{{ else if eq $lang "pl" }}Sillage{{ else if eq $lang "tr" }}Sillage{{ else }}Sillage{{ end }}</span>
-                            <span class="spec-value">{{ . }}</span>
-                        </div>
-                        {{ end }}
-                        {{ with .Params.season }}
-                        <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else if eq $lang "de" }}Jahreszeit{{ else if eq $lang "es" }}Temporada{{ else if eq $lang "ja" }}季節{{ else if eq $lang "ko" }}계절{{ else if eq $lang "zh" }}季节{{ else if eq $lang "ar" }}الموسم{{ else if eq $lang "hi" }}मौसम{{ else if eq $lang "it" }}Stagione{{ else if eq $lang "pt" }}Estação{{ else if eq $lang "nl" }}Seizoen{{ else if eq $lang "pl" }}Pora roku{{ else if eq $lang "tr" }}Mevsim{{ else }}Season{{ end }}</span>
-                            <span class="spec-value">{{ . }}</span>
-                        </div>
-                        {{ end }}
-                        {{ with .Params.occasion }}
-                        <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else if eq $lang "de" }}Anlass{{ else if eq $lang "es" }}Ocasión{{ else if eq $lang "ja" }}シーン{{ else if eq $lang "ko" }}상황{{ else if eq $lang "zh" }}场合{{ else if eq $lang "ar" }}المناسبة{{ else if eq $lang "hi" }}अवसर{{ else if eq $lang "it" }}Occasione{{ else if eq $lang "pt" }}Ocasião{{ else if eq $lang "nl" }}Gelegenheid{{ else if eq $lang "pl" }}Okazja{{ else if eq $lang "tr" }}Durum{{ else }}Occasion{{ end }}</span>
-                            <span class="spec-value">{{ . }}</span>
-                        </div>
-                        {{ end }}
-                    </div>
-                </div>
-                {{ end }}
-                
             </div>
         </div>
+        
+        <!-- Perfume Characteristics - Full Width -->
+        {{ if or .Params.longevity .Params.sillage .Params.season .Params.occasion .Params.concentration }}
+        <div class="product-specs-fullwidth">
+            <h3 class="specs-title">
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                </svg>
+                {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}
+            </h3>
+            <div class="specs-grid-horizontal">
+                {{ with .Params.concentration }}
+                <div class="spec-card">
+                    <span class="spec-icon">💧</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else }}Concentration{{ end }}</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.longevity }}
+                <div class="spec-card">
+                    <span class="spec-icon">⏱️</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else }}Longevity{{ end }}</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.sillage }}
+                <div class="spec-card">
+                    <span class="spec-icon">🌬️</span>
+                    <span class="spec-label">Sillage</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.season }}
+                <div class="spec-card">
+                    <span class="spec-icon">🗓️</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else }}Season{{ end }}</span>
+                    <span class="spec-value">{{ delimit . ", " }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.occasion }}
+                <div class="spec-card">
+                    <span class="spec-icon">✨</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else }}Occasion{{ end }}</span>
+                    <span class="spec-value">{{ delimit . ", " }}</span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
         
         <!-- Article Content -->
         <div class="product-content">
@@ -150,67 +194,273 @@
 </article>
 
 <style>
+/* Base Styles */
 .product-page { background: #FAFAFA; min-height: 100vh; }
 .product-container { max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px 4rem; }
-@media (min-width: 1024px) { .product-container { padding: 2rem 100px 5rem; } }
+@media (min-width: 1024px) { .product-container { padding: 2rem 40px 5rem; } }
+
+/* Breadcrumb */
 .breadcrumb { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.85rem; }
 .breadcrumb a { color: #6B7280; text-decoration: none; transition: color 0.2s ease; }
 .breadcrumb a:hover { color: #F8C8DC; }
 .breadcrumb-sep { color: #D1D5DB; }
 .breadcrumb-current { color: #9CA3AF; }
-.product-header { display: grid; grid-template-columns: 1fr; gap: 2rem; background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 2rem; }
-@media (min-width: 768px) { .product-header { grid-template-columns: 1fr 1fr; gap: 3rem; padding: 2.5rem; } }
-@media (min-width: 1024px) { .product-header { gap: 4rem; padding: 3rem; } }
-.product-image-wrapper { display: flex; justify-content: center; align-items: flex-start; }
-.product-image-container { position: relative; width: 100%; max-width: 500px; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; }
-.product-image { width: 100%; height: auto; display: block; transition: transform 0.4s ease; }
-.product-image-container:hover .product-image { transform: scale(1.03); }
-.product-image-placeholder { width: 100%; max-width: 500px; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
-.product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
+
+/* Product Header */
+.product-header { display: grid; grid-template-columns: 1fr; gap: 2rem; background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
+@media (min-width: 768px) { .product-header { grid-template-columns: 1fr 1fr; gap: 2.5rem; padding: 2rem; } }
+@media (min-width: 1024px) { .product-header { gap: 3rem; padding: 2.5rem; } }
+
+/* Gallery / Carousel */
+.product-gallery { display: flex; flex-direction: column; }
+
+.carousel-container { width: 100%; }
+
+.carousel-main { position: relative; display: flex; align-items: center; gap: 0.5rem; }
+
+.carousel-viewport { 
+    flex: 1; 
+    position: relative; 
+    background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); 
+    border-radius: 16px; 
+    overflow: hidden;
+    aspect-ratio: 1;
+}
+
+.carousel-slide { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    opacity: 0; 
+    transition: opacity 0.4s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.carousel-slide.active { opacity: 1; }
+
+.carousel-slide img { 
+    max-width: 100%; 
+    max-height: 100%; 
+    object-fit: contain;
+}
+
+.carousel-btn { 
+    flex-shrink: 0;
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%; 
+    border: none; 
+    background: white; 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    cursor: pointer; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    transition: all 0.2s ease;
+    z-index: 2;
+}
+
+.carousel-btn:hover { background: #F8C8DC; transform: scale(1.05); }
+.carousel-btn svg { width: 20px; height: 20px; color: #374151; }
+
+/* Thumbnails */
+.carousel-thumbnails { 
+    display: none;
+    gap: 0.5rem; 
+    margin-top: 1rem;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .carousel-thumbnails { display: flex; }
+}
+
+.thumbnail { 
+    width: 60px; 
+    height: 60px; 
+    border-radius: 8px; 
+    overflow: hidden; 
+    border: 2px solid transparent; 
+    cursor: pointer; 
+    padding: 0;
+    background: #F3F4F6;
+    transition: all 0.2s ease;
+}
+
+.thumbnail:hover { border-color: #E8A8BC; }
+.thumbnail.active { border-color: #F8C8DC; box-shadow: 0 0 0 2px rgba(248, 200, 220, 0.3); }
+.thumbnail img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+
+/* Dots for mobile */
+.carousel-dots { 
+    display: flex; 
+    justify-content: center; 
+    gap: 0.5rem; 
+    margin-top: 1rem;
+}
+
+@media (min-width: 768px) {
+    .carousel-dots { display: none; }
+}
+
+.dot { 
+    width: 8px; 
+    height: 8px; 
+    border-radius: 50%; 
+    border: none; 
+    background: #E5E7EB; 
+    cursor: pointer;
+    padding: 0;
+    transition: all 0.2s ease;
+}
+
+.dot.active { background: #F8C8DC; width: 24px; border-radius: 4px; }
+
+/* Product Info */
 .product-info { display: flex; flex-direction: column; }
 .product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; text-decoration: none; margin-bottom: 0.75rem; transition: color 0.2s ease; }
 .product-brand:hover { color: #e8a8bc; }
-.product-title { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
-@media (min-width: 768px) { .product-title { font-size: 2.5rem; } }
-.product-type { font-size: 1.1rem; color: #6B7280; margin: 0 0 1rem; }
+.product-title { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
+@media (min-width: 768px) { .product-title { font-size: 2.25rem; } }
+.product-type { font-size: 1rem; color: #6B7280; margin: 0 0 1rem; }
+
+/* Rating */
 .product-rating { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; }
 .rating-stars { display: flex; gap: 0.15rem; }
-.star { width: 20px; height: 20px; color: #E5E7EB; }
+.star { width: 18px; height: 18px; color: #E5E7EB; }
 .star.filled { color: #F8C8DC; }
-.rating-count { font-size: 0.9rem; color: #9CA3AF; }
-.fragrance-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; margin-bottom: 1.5rem; }
-@media (min-width: 768px) { .fragrance-pyramid { padding: 1.5rem; } }
+.rating-count { font-size: 0.85rem; color: #9CA3AF; }
+
+/* Fragrance Pyramid */
+.fragrance-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; }
 .pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
 .notes-grid { display: flex; flex-direction: column; gap: 1rem; }
-.note-group { }
-.note-label { display: block; font-size: 0.8rem; font-weight: 500; color: #6B7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
+.note-label { display: block; font-size: 0.75rem; font-weight: 600; color: #6B7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
 .note-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 .note-tag { display: inline-block; padding: 0.3rem 0.7rem; font-size: 0.8rem; font-weight: 500; border-radius: 20px; }
 .note-tag.top { background: #FEFCE8; color: #A16207; }
 .note-tag.heart { background: #FDF2F8; color: #9D174D; }
 .note-tag.base { background: #F5F5F4; color: #57534E; }
-.product-specs { background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%); border: 1px solid #F3F4F6; border-radius: 16px; padding: 1.25rem; margin-top: auto; }
-@media (min-width: 768px) { .product-specs { padding: 1.5rem; } }
-.specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
-.specs-title svg { width: 18px; height: 18px; color: #F8C8DC; }
-.specs-grid { display: flex; flex-direction: column; gap: 0.75rem; }
-.spec-item { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid #E5E7EB; }
-.spec-item:last-child { border-bottom: none; padding-bottom: 0; }
-.spec-label { font-size: 0.9rem; color: #6B7280; }
-.spec-value { font-size: 0.9rem; font-weight: 500; color: #1F2937; }
+
+/* Characteristics - Full Width */
+.product-specs-fullwidth {
+    background: white;
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) { .product-specs-fullwidth { padding: 2rem; } }
+
+.specs-title { 
+    display: flex; 
+    align-items: center; 
+    gap: 0.5rem; 
+    font-family: 'Playfair Display', serif; 
+    font-size: 1.1rem; 
+    font-weight: 600; 
+    color: #1F2937; 
+    margin: 0 0 1.25rem; 
+}
+.specs-title svg { width: 20px; height: 20px; color: #F8C8DC; }
+
+.specs-grid-horizontal {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+@media (min-width: 768px) {
+    .specs-grid-horizontal { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1024px) {
+    .specs-grid-horizontal { grid-template-columns: repeat(5, 1fr); }
+}
+
+.spec-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%);
+    border-radius: 12px;
+    transition: transform 0.2s ease;
+}
+
+.spec-card:hover { transform: translateY(-2px); }
+
+.spec-icon { font-size: 1.5rem; margin-bottom: 0.5rem; }
+.spec-label { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #6B7280; margin-bottom: 0.25rem; }
+.spec-value { font-size: 0.85rem; font-weight: 600; color: #1F2937; }
+
+/* Content */
 .product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
-@media (min-width: 768px) { .product-content { padding: 3rem 2.5rem; } }
-@media (min-width: 1024px) { .product-content { padding: 3.5rem 4rem; } }
+@media (min-width: 768px) { .product-content { padding: 2.5rem; } }
+@media (min-width: 1024px) { .product-content { padding: 3rem; } }
 .content-wrapper { max-width: 800px; margin: 0 auto; }
-.content-wrapper h2 { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 600; color: #1F2937; margin: 2.5rem 0 1rem; padding-bottom: 0.75rem; border-bottom: 2px solid #F8C8DC; }
+.content-wrapper h2 { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 600; color: #1F2937; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #F8C8DC; }
 .content-wrapper h2:first-child { margin-top: 0; }
-.content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 500; color: #374151; margin: 2rem 0 0.75rem; padding-left: 1rem; border-left: 3px solid #F8C8DC; }
-.content-wrapper p { font-size: 1.05rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
-.content-wrapper ul, .content-wrapper ol { margin: 0 0 1.5rem; padding-left: 1.5rem; }
-.content-wrapper li { font-size: 1.05rem; line-height: 1.8; color: #4B5563; margin-bottom: 0.5rem; }
+.content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 500; color: #374151; margin: 1.5rem 0 0.75rem; }
+.content-wrapper p { font-size: 1rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
 .content-wrapper strong { font-weight: 600; color: #1F2937; }
-.content-wrapper a { color: #F8C8DC; text-decoration: underline; text-underline-offset: 2px; }
-.content-wrapper blockquote { margin: 2rem 0; padding: 1.5rem 2rem; background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-left: 4px solid #F8C8DC; border-radius: 0 12px 12px 0; font-style: italic; color: #4B5563; }
-.content-wrapper img { max-width: 100%; height: auto; border-radius: 12px; margin: 1.5rem 0; }
+
+/* Placeholder */
+.product-image-placeholder { width: 100%; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
+.product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
 </style>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelectorAll('.carousel-slide');
+const thumbnails = document.querySelectorAll('.thumbnail');
+const dots = document.querySelectorAll('.dot');
+const totalSlides = slides.length;
+
+function updateSlide() {
+    slides.forEach((slide, index) => {
+        slide.classList.toggle('active', index === currentSlide);
+    });
+    thumbnails.forEach((thumb, index) => {
+        thumb.classList.toggle('active', index === currentSlide);
+    });
+    dots.forEach((dot, index) => {
+        dot.classList.toggle('active', index === currentSlide);
+    });
+}
+
+function changeSlide(direction) {
+    currentSlide = (currentSlide + direction + totalSlides) % totalSlides;
+    updateSlide();
+}
+
+function goToSlide(index) {
+    currentSlide = index;
+    updateSlide();
+}
+
+// Touch/Swipe support
+let touchStartX = 0;
+let touchEndX = 0;
+
+const viewport = document.querySelector('.carousel-viewport');
+if (viewport) {
+    viewport.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, false);
+
+    viewport.addEventListener('touchend', e => {
+        touchEndX = e.changedTouches[0].screenX;
+        if (touchEndX < touchStartX - 50) changeSlide(1);
+        if (touchEndX > touchStartX + 50) changeSlide(-1);
+    }, false);
+}
+</script>
 {{ end }}
