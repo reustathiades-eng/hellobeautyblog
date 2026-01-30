@@ -650,7 +650,7 @@
                     <div class="category-overlay"></div>
                 </div>
                 <div class="category-content">
-                    <span class="category-icon">🌸</span>
+                    <img src="/images/icons/icon-perfumes.webp" alt="" class="category-icon">
                     <h3 class="category-name">{{ $catPerfumes }}</h3>
                     <p class="category-desc">{{ $catPerfumesDesc }}</p>
                     <span class="category-link">
@@ -666,7 +666,7 @@
                     <div class="category-overlay"></div>
                 </div>
                 <div class="category-content">
-                    <span class="category-icon">💆</span>
+                    <img src="/images/icons/icon-skincare.webp" alt="" class="category-icon">
                     <h3 class="category-name">{{ $catSkincare }}</h3>
                     <p class="category-desc">{{ $catSkincareDesc }}</p>
                     <span class="category-link">{{ $viewAll }} →</span>
@@ -679,7 +679,7 @@
                     <div class="category-overlay"></div>
                 </div>
                 <div class="category-content">
-                    <span class="category-icon">💄</span>
+                    <img src="/images/icons/icon-makeup.webp" alt="" class="category-icon">
                     <h3 class="category-name">{{ $catMakeup }}</h3>
                     <p class="category-desc">{{ $catMakeupDesc }}</p>
                     <span class="category-link">{{ $viewAll }} →</span>
@@ -692,7 +692,7 @@
                     <div class="category-overlay"></div>
                 </div>
                 <div class="category-content">
-                    <span class="category-icon">💇</span>
+                    <img src="/images/icons/icon-haircare.webp" alt="" class="category-icon">
                     <h3 class="category-name">{{ $catHaircare }}</h3>
                     <p class="category-desc">{{ $catHaircareDesc }}</p>
                     <span class="category-link">{{ $viewAll }} →</span>
@@ -1048,7 +1048,6 @@
 
 .hero-title {
     font-family: 'Playfair Display', serif;
-    font-size: 2.5rem;
     font-weight: 700;
     line-height: 1.1;
     color: #1F2937;
@@ -1374,7 +1373,6 @@
 
 @media (min-width: 768px) {
     .section-title {
-        font-size: 2.5rem;
     }
 }
 
@@ -1453,7 +1451,9 @@
 }
 
 .category-icon {
-    font-size: 2.5rem;
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
     display: block;
     margin-bottom: 0.75rem;
 }
