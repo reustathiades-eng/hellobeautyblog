@@ -2,17 +2,17 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article class="max-w-6xl mx-auto px-8 lg:px-16 py-12">
+<article class="max-w-5xl mx-auto px-6 lg:px-12 py-12">
     
     <!-- Layout 2 colonnes : Image gauche + Infos droite -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-12">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-start">
         
         <!-- Colonne gauche : Image -->
-        <div class="flex justify-center lg:justify-start">
+        <div class="flex justify-center">
             {{ with index .Params.images 0 }}
-            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 480px; width: 100%">
+            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 400px; width: 100%">
             {{ else }}
-            <div class="max-w-xs w-full aspect-square bg-gray-100 rounded-xl flex items-center justify-center">
+            <div class="aspect-square bg-gray-100 rounded-xl flex items-center justify-center" style="max-width: 400px; width: 100%">
                 <svg class="w-16 h-16 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                 </svg>
@@ -58,8 +58,8 @@
         </div>
     </div>
     
-    <!-- Séparateur + marge avant contenu -->
-    <div class="border-t border-gray-200 pt-10 mt-8">
+    <!-- Contenu article avec grande marge au-dessus -->
+    <div class="mt-16 pt-10 border-t border-gray-200">
         <div class="prose prose-lg max-w-none">{{ .Content }}</div>
     </div>
 </article>
