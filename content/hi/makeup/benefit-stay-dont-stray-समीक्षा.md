@@ -14,12 +14,12 @@ featured: false
 draft: false
 brand: "Benefit Cosmetics"
 productName: "Stay Don't Stray"
-productType: "Eye Primer"
+productType: "आई प्राइमर"
 rating: 4
 coverage: "Light"
 finish: "Matte"
 longevity: "12+ hours"
-skinType: "All skin types"
+skinType: "सभी त्वचा प्रकार"
 translationKey: "benefit-stay-dont-stray"
 ---
 

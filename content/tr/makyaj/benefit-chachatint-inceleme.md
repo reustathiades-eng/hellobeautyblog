@@ -15,12 +15,12 @@ featured: false
 draft: false
 brand: "Benefit Cosmetics"
 productName: "Chachatint"
-productType: "Lip & Cheek Stain"
+productType: "Dudak ve Yanak Tintisi"
 rating: 4
-coverage: "Sheer to Buildable"
-finish: "Natural Stain"
-longevity: "6-8 hours"
-skinType: "All skin types"
+coverage: "Hafif-Katmanlanabilir"
+finish: "Doğal Renk"
+longevity: "6-8 saat"
+skinType: "Tüm cilt tipleri"
 translationKey: "benefit-chachatint"
 ---
 

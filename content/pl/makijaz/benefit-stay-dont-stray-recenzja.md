@@ -14,12 +14,12 @@ featured: false
 draft: false
 brand: "Benefit Cosmetics"
 productName: "Stay Don't Stray"
-productType: "Eye Primer"
+productType: "Baza pod cienie"
 rating: 4
 coverage: "Light"
 finish: "Matte"
 longevity: "12+ hours"
-skinType: "All skin types"
+skinType: "Wszystkie typy skóry"
 translationKey: "benefit-stay-dont-stray"
 ---
 

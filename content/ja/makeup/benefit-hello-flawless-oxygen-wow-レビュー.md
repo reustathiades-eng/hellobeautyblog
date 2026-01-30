@@ -14,12 +14,12 @@ featured: false
 draft: false
 brand: "Benefit Cosmetics"
 productName: "Hello Flawless Oxygen Wow"
-productType: "Liquid Foundation"
+productType: "リキッドファンデーション"
 rating: 4
-coverage: "Medium to Full"
-finish: "Natural Radiant"
-longevity: "8-10 hours"
-skinType: "All skin types"
+coverage: "ミディアム〜フル"
+finish: "ナチュラルツヤ"
+longevity: "8〜10時間"
+skinType: "すべての肌タイプ"
 translationKey: "benefit-hello-flawless-oxygen-wow"
 ---
 

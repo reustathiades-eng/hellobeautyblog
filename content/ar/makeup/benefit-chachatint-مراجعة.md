@@ -15,12 +15,12 @@ featured: false
 draft: false
 brand: "Benefit Cosmetics"
 productName: "Chachatint"
-productType: "Lip & Cheek Stain"
+productType: "صبغة الشفاه والخدود"
 rating: 4
-coverage: "Sheer to Buildable"
-finish: "Natural Stain"
-longevity: "6-8 hours"
-skinType: "All skin types"
+coverage: "شفافة إلى قابلة للبناء"
+finish: "لون طبيعي"
+longevity: "6-8 ساعات"
+skinType: "جميع أنواع البشرة"
 translationKey: "benefit-chachatint"
 ---
 
