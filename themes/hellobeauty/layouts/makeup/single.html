@@ -4,10 +4,10 @@
 {{ $lang := .Language.Lang }}
 <article class="max-w-6xl mx-auto px-12 lg:px-24 py-12">
     
-    <!-- Layout 2 colonnes -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-6 items-start">
+    <!-- Layout 2 colonnes - gap réduit de 70% -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 items-start" style="gap: 1.5rem;">
         
-        <!-- Image -->
+        <!-- Image à gauche -->
         <div class="flex justify-center lg:justify-end">
             {{ with index .Params.images 0 }}
             <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 450px; width: 100%">
@@ -20,8 +20,8 @@
             {{ end }}
         </div>
         
-        <!-- Infos produit - alignées à gauche -->
-        <div class="flex flex-col justify-start text-left">
+        <!-- Infos produit alignées à gauche -->
+        <div class="text-left">
             {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wider mb-2">{{ . }}</p>{{ end }}
             <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-2">{{ .Params.productName | default .Title }}</h1>
             {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-4">{{ . }}</p>{{ end }}
