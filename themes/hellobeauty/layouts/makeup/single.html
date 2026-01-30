@@ -2,17 +2,17 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article class="max-w-6xl mx-auto px-12 lg:px-24 py-12">
+<article class="max-w-6xl mx-auto px-24 lg:px-48 py-12">
     
-    <!-- Layout 2 colonnes - gap réduit de 70% -->
+    <!-- Layout 2 colonnes -->
     <div class="grid grid-cols-1 lg:grid-cols-2 items-start" style="gap: 1.5rem;">
         
-        <!-- Image à gauche -->
+        <!-- Image -->
         <div class="flex justify-center lg:justify-end">
             {{ with index .Params.images 0 }}
-            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 450px; width: 100%">
+            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 540px; width: 100%">
             {{ else }}
-            <div class="aspect-square bg-gray-100 rounded-xl flex items-center justify-center" style="max-width: 450px; width: 100%">
+            <div class="aspect-square bg-gray-100 rounded-xl flex items-center justify-center" style="max-width: 540px; width: 100%">
                 <svg class="w-16 h-16 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                 </svg>
@@ -20,7 +20,7 @@
             {{ end }}
         </div>
         
-        <!-- Infos produit alignées à gauche -->
+        <!-- Infos produit -->
         <div class="text-left">
             {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wider mb-2">{{ . }}</p>{{ end }}
             <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-2">{{ .Params.productName | default .Title }}</h1>
@@ -39,17 +39,17 @@
                 <span class="text-gray-500 text-sm">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
             </div>
             
-            <!-- Characteristics -->
+            <!-- Characteristics - valeurs à gauche pas à droite -->
             {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
-            <div class="bg-gray-50 rounded-xl p-5">
+            <div class="bg-gray-50 rounded-xl p-5" style="max-width: 320px;">
                 <h2 class="text-base font-semibold mb-3 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
                 <div class="space-y-2 text-sm">
-                    {{ with .Params.brand }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.coverage }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.finish }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.longevity }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.skinType }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else }}Skin Type{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.spf }}<div class="flex justify-between"><span class="text-gray-500">SPF</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.brand }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.coverage }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.finish }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.longevity }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.skinType }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else }}Skin Type{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.spf }}<div class="flex"><span class="text-gray-500 w-24">SPF</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
                 </div>
             </div>
             {{ end }}
