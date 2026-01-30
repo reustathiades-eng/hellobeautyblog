@@ -1,13 +1,13 @@
 ---
-title: "Boss Alive: Wenn Stärke auf Weiblichkeit trifft"
+title: "Boss Alive Test: Eine Moderne Hommage an die Authentische Frau"
 slug: "boss-alive"
-description: "Boss Alive von Hugo Boss im Test: Ein floral-holziger Duft, der Selbstbewusstsein ausstrahlt. Meine ehrliche Meinung nach 3 Monaten täglichem Tragen."
+description: "Ausführlicher Test des Hugo Boss Boss Alive EDP. Entdecken Sie, warum dieses blumig-holzige Parfum zur Signatur moderner Frauen geworden ist."
 date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
 categories: ["Parfums"]
-tags: ["hugo boss", "floral", "holzig", "büroparfum", "damenparfum"]
+tags: ["hugo boss", "blumig", "holzig", "büroparfum", "damenparfum"]
 keywords: ["boss alive test", "hugo boss alive", "boss alive parfum"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
@@ -20,13 +20,28 @@ concentration: "Eau de Parfum"
 gender: "Damen"
 price: "89 €"
 rating: 4.5
-topNotes: ["Apfel", "Pflaume", "Schwarze Johannisbeere"]
-heartNotes: ["Jasmin Sambac", "Thymian", "Olivenblüte"]
-baseNotes: ["Sandelholz", "Zeder", "Vanille"]
+topNotes:
+  - "Apfel"
+  - "Pflaume"
+  - "Schwarze Johannisbeere"
+heartNotes:
+  - "Jasmin Sambac"
+  - "Thymian"
+  - "Olivenblüte"
+baseNotes:
+  - "Sandelholz"
+  - "Zeder"
+  - "Vanille"
 longevity: "6-8 Stunden"
 sillage: "Moderat"
-season: ["Frühling", "Sommer", "Herbst"]
-occasion: ["Büro", "Casual", "Date Night"]
+season:
+  - "Frühling"
+  - "Sommer"
+  - "Herbst"
+occasion:
+  - "Büro"
+  - "Casual"
+  - "Date Night"
 translationKey: "boss-alive"
 ---
 

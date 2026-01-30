@@ -1,27 +1,25 @@
 ---
-title: "Boss Alive レビュー：自信に満ちた女性のための洗練されたフローラルウッディ"
-slug: "boss-alive-review"
-description: "Hugo Boss Boss Aliveの詳細レビュー。アニック・メナルド調香による、フルーティーなトップとウッディベースが織りなす現代的なフローラルの魅力を、実際の使用感とともにお届けします。"
-date: 2024-08-15
+title: "Boss Alive レビュー：本物の女性へのモダンなオマージュ"
+slug: "boss-alive"
+description: "Hugo Boss Boss Alive EDPの詳細レビュー。このフローラルウッディの香りが現代女性のシグネチャーとなった理由をご紹介。"
+date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["Hugo Boss", "フローラルウッディ", "デイリーユース"]
-keywords: ["Boss Alive レビュー", "Hugo Boss 香水", "フローラルウッディ 香水", "アニック・メナルド"]
+categories: ["香水"]
+tags: ["ヒューゴボス", "フローラル", "ウッディ", "オフィス香水", "レディース香水"]
+keywords: ["boss alive レビュー", "hugo boss alive", "boss alive 香水"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
   - /images/perfumes/boss-alive.jpg
-featured: false
+featured: true
 draft: false
-
 brand: "Hugo Boss"
 productName: "Boss Alive"
-concentration: "オードパルファム"
-gender: "Women"
-price: "€89"
+concentration: "Eau de Parfum"
+gender: "レディース"
+price: "89 €"
 rating: 4.5
-
 topNotes:
   - "アップル"
   - "プラム"
@@ -34,20 +32,19 @@ baseNotes:
   - "サンダルウッド"
   - "シダー"
   - "バニラ"
-
 longevity: "6-8時間"
-sillage: "Moderate"
+sillage: "ミディアム"
 season:
-  - "Spring"
-  - "Summer"
-  - "Fall"
+  - "春"
+  - "夏"
+  - "秋"
 occasion:
-  - "Office"
-  - "Casual"
-  - "Date Night"
-
+  - "オフィス"
+  - "カジュアル"
+  - "デート"
 translationKey: "boss-alive"
 ---
+
 
 Hugo Bossが2020年に発表したBoss Aliveを初めて手に取ったのは、正直言うと半信半疑でした。というのも、デザイナーズブランドの香水って、ビジュアルは素敵だけど香りが今ひとつ...なんてことがよくあるから。でも、この香水は違った。調香師アニック・メナルドの手腕がしっかり感じられる、意外なほど完成度の高い一本だったんです。
 

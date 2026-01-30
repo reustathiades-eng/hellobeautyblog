@@ -1,28 +1,50 @@
 ---
-title: "Boss Alive de Hugo Boss: Un Floral Amaderado Que Me Conquistó Poco a Poco"
-date: 2024-01-15
-tags: ["Hugo Boss", "floral amaderado", "perfume mujer", "Annick Ménardo"]
-categories: ["Reseñas de Perfumes"]
+title: "Boss Alive Reseña: Un Homenaje Moderno a la Mujer Auténtica"
+slug: "boss-alive"
+description: "Reseña completa del perfume Hugo Boss Boss Alive EDP. Descubre por qué esta fragancia floral amaderada se ha convertido en la firma de mujeres modernas."
+date: 2024-03-15
+lastmod: 2026-01-30
+author: "Emma Collins"
+authorSlug: "emma-collins"
+categories: ["Perfumes"]
+tags: ["hugo boss", "floral", "amaderado", "perfume oficina", "perfume mujer"]
+keywords: ["boss alive opiniones", "hugo boss alive", "boss alive perfume"]
+images:
+  - /images/perfumes/boss-alive-swatch.jpg
+  - /images/perfumes/boss-alive.jpg
+featured: true
+draft: false
 brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
 gender: "Mujer"
-price: "89"
-currency: "€"
-launchYear: 2020
-perfumer: "Annick Ménardo"
-topNotes: ["Manzana", "Ciruela", "Grosella Negra"]
-heartNotes: ["Jazmín Sambac", "Tomillo", "Flor de Olivo"]
-baseNotes: ["Sándalo", "Cedro", "Vainilla"]
-family: "Floral Amaderado"
+price: "89 €"
+rating: 4.5
+topNotes:
+  - "Manzana"
+  - "Ciruela"
+  - "Grosella Negra"
+heartNotes:
+  - "Jazmín Sambac"
+  - "Tomillo"
+  - "Flor de Olivo"
+baseNotes:
+  - "Sándalo"
+  - "Cedro"
+  - "Vainilla"
 longevity: "6-8 horas"
 sillage: "Moderado"
-seasons: ["Primavera", "Verano", "Otoño"]
-occasions: ["Oficina", "Casual", "Cita"]
-rating: 4.5
+season:
+  - "Primavera"
+  - "Verano"
+  - "Otoño"
+occasion:
+  - "Oficina"
+  - "Casual"
+  - "Cita"
 translationKey: "boss-alive"
-images: ["/images/perfumes/boss-alive-swatch.jpg", "/images/perfumes/boss-alive.jpg"]
 ---
+
 
 Sinceramente, al principio no estaba segura de qué esperar de Boss Alive. Hugo Boss y yo tenemos una relación complicada cuando hablamos de fragancias femeninas, aunque admito que su línea masculina me parece bastante acertada. Pero este Eau de Parfum me ha sorprendido de una manera que no anticipaba para nada.
 

@@ -1,26 +1,50 @@
 ---
-title: "Hugo Boss Boss Alive EDP: Una Fragranza che Ti Fa Sentire Davvero Viva"
-date: 2024-01-15
-draft: false
-tags: ["Hugo Boss", "floreale legnoso", "profumo donna", "fragranze primavera"]
-categories: ["Recensioni Profumi"]
+title: "Boss Alive Recensione: Un Omaggio Moderno alla Donna Autentica"
+slug: "boss-alive"
+description: "Recensione completa del profumo Hugo Boss Boss Alive EDP. Scopri perché questa fragranza floreale legnosa è diventata la firma delle donne moderne."
+date: 2024-03-15
+lastmod: 2026-01-30
 author: "Emma Collins"
-rating: 4.5
-perfume_name: "Boss Alive EDP"
+authorSlug: "emma-collins"
+categories: ["Profumi"]
+tags: ["hugo boss", "floreale", "legnoso", "profumo ufficio", "profumo donna"]
+keywords: ["boss alive recensione", "hugo boss alive", "boss alive profumo"]
+images:
+  - /images/perfumes/boss-alive-swatch.jpg
+  - /images/perfumes/boss-alive.jpg
+featured: true
+draft: false
 brand: "Hugo Boss"
-price: "€89"
+productName: "Boss Alive"
+concentration: "Eau de Parfum"
+gender: "Donna"
+price: "89 €"
+rating: 4.5
+topNotes:
+  - "Mela"
+  - "Prugna"
+  - "Ribes Nero"
+heartNotes:
+  - "Gelsomino Sambac"
+  - "Timo"
+  - "Fiore d'Olivo"
+baseNotes:
+  - "Sandalo"
+  - "Cedro"
+  - "Vaniglia"
 longevity: "6-8 ore"
 sillage: "Moderato"
-seasons: ["Primavera", "Estate", "Autunno"]
-occasions: ["Ufficio", "Casual", "Appuntamento"]
-gender: "Donna"
-family: "Floreale Legnoso"
-notes_top: ["Mela", "Prugna", "Ribes Nero"]
-notes_heart: ["Gelsomino Sambac", "Timo", "Fiore d'Olivo"]
-notes_base: ["Sandalo", "Cedro", "Vaniglia"]
+season:
+  - "Primavera"
+  - "Estate"
+  - "Autunno"
+occasion:
+  - "Ufficio"
+  - "Casual"
+  - "Appuntamento"
 translationKey: "boss-alive"
-images: ["/images/perfumes/boss-alive-swatch.jpg", "/images/perfumes/boss-alive.jpg"]
 ---
+
 
 Ricordo la prima volta che ho spruzzato Boss Alive sul polso in profumeria. Era una mattina di marzo, una di quelle giornate grigie dove cerchi disperatamente qualcosa che ti ridia energia. E questo profumo? Mi ha letteralmente svegliata. Non è un'esagerazione quando dico che alcune fragranze hanno il potere di cambiare l'umore, e Boss Alive è esattamente questo tipo di creazione.
 

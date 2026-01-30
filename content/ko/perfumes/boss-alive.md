@@ -1,40 +1,37 @@
 ---
-title: "Boss Alive 리뷰: 현대 여성을 위한 대담하고 신선한 플로럴 우디 향수"
-slug: "boss-alive-review"
-description: "Hugo Boss Boss Alive Eau de Parfum에 대한 솔직한 리뷰. 독특한 올리브 블로썸과 자스민 삼박이 만나는 현대적인 플로럴 우디 향을 깊이 있게 탐구합니다."
+title: "Boss Alive 리뷰: 진정한 여성을 위한 현대적 오마주"
+slug: "boss-alive"
+description: "Hugo Boss Boss Alive EDP 상세 리뷰. 이 플로럴 우디 향수가 현대 여성의 시그니처가 된 이유를 알아보세요."
 date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["Hugo Boss", "플로럴 우디", "데이트 나이트", "오피스 향수"]
-keywords: ["Boss Alive 리뷰", "Hugo Boss 향수", "플로럴 우디 향수", "여성 향수 추천", "올리브 블로썸 향수"]
+categories: ["향수"]
+tags: ["휴고보스", "플로럴", "우디", "오피스 향수", "여성 향수"]
+keywords: ["boss alive 리뷰", "hugo boss alive", "boss alive 향수"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
   - /images/perfumes/boss-alive.jpg
-featured: false
+featured: true
 draft: false
-
 brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
-gender: "Women"
-price: "€89"
+gender: "여성"
+price: "89 €"
 rating: 4.5
-
 topNotes:
-  - "애플"
-  - "플럼"
+  - "사과"
+  - "자두"
   - "블랙커런트"
 heartNotes:
   - "자스민 삼박"
   - "타임"
-  - "올리브 블로썸"
+  - "올리브 블로섬"
 baseNotes:
   - "샌달우드"
   - "시더"
   - "바닐라"
-
 longevity: "6-8시간"
 sillage: "중간"
 season:
@@ -45,9 +42,9 @@ occasion:
   - "오피스"
   - "캐주얼"
   - "데이트"
-
 translationKey: "boss-alive"
 ---
+
 
 올리브 블로썸이 향수에 들어간다는 게 상상이 되시나요? 솔직히 저도 처음엔 반신반의했어요. 2020년 가을, Hugo Boss가 Boss Alive를 런칭했을 때 저는 그냥 또 다른 플로럴 향수겠거니 생각했거든요. 그런데 실제로 뿌려보고는... 완전히 생각이 바뀌었습니다.
 

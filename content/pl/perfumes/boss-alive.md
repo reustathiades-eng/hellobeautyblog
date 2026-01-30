@@ -1,31 +1,50 @@
 ---
-title: "Hugo Boss Boss Alive EDP - Recenzja Perfum"
-date: 2024-01-15T10:00:00+02:00
-draft: false
-description: "Szczera recenzja Hugo Boss Boss Alive EDP - czy te perfumy naprawdę sprawiają, że czujesz się żywa? Moje doświadczenia z tym kwiatowo-drzewnym aromatem."
-categories: ["Recenzje Perfum"]
-tags: ["hugo boss", "boss alive", "perfumy damskie", "kwiatowe", "drzewne", "wiosna", "lato"]
-rating: 4.5
-perfume_name: "Boss Alive EDP"
-perfume_brand: "Hugo Boss"
-perfumer: "Annick Ménardo"
-price: "€89"
-year: 2020
-concentration: "Eau de Parfum"
-gender: "Kobiety"
-season: ["Wiosna", "Lato", "Jesień"]
-occasion: ["Biuro", "Na co dzień", "Randka"]
-longevity: "6-8 godzin"
-sillage: "Umiarkowany"
-fragrance_family: ["Kwiatowe", "Drzewne"]
-notes_top: ["Jabłko", "Śliwka", "Czarna Porzeczka"]
-notes_heart: ["Jaśmin Sambac", "Tymianek", "Kwiat Oliwki"]
-notes_base: ["Sandałowiec", "Cedr", "Wanilia"]
-translationKey: "boss-alive"
+title: "Boss Alive Recenzja: Nowoczesny Hołd dla Autentycznej Kobiety"
+slug: "boss-alive"
+description: "Szczegółowa recenzja perfum Hugo Boss Boss Alive EDP. Odkryj, dlaczego ten kwiatowo-drzewny zapach stał się sygnaturą nowoczesnych kobiet."
+date: 2024-03-15
+lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-images: ["/images/perfumes/boss-alive-swatch.jpg", "/images/perfumes/boss-alive.jpg"]
+categories: ["Perfumy"]
+tags: ["hugo boss", "kwiatowy", "drzewny", "perfumy do biura", "perfumy damskie"]
+keywords: ["boss alive opinie", "hugo boss alive", "boss alive perfumy"]
+images:
+  - /images/perfumes/boss-alive-swatch.jpg
+  - /images/perfumes/boss-alive.jpg
+featured: true
+draft: false
+brand: "Hugo Boss"
+productName: "Boss Alive"
+concentration: "Eau de Parfum"
+gender: "Damskie"
+price: "89 €"
+rating: 4.5
+topNotes:
+  - "Jabłko"
+  - "Śliwka"
+  - "Czarna Porzeczka"
+heartNotes:
+  - "Jaśmin Sambac"
+  - "Tymianek"
+  - "Kwiat Oliwki"
+baseNotes:
+  - "Sandałowiec"
+  - "Cedr"
+  - "Wanilia"
+longevity: "6-8 godzin"
+sillage: "Umiarkowany"
+season:
+  - "Wiosna"
+  - "Lato"
+  - "Jesień"
+occasion:
+  - "Biuro"
+  - "Na co dzień"
+  - "Randka"
+translationKey: "boss-alive"
 ---
+
 
 Kiedy po raz pierwszy zobaczyłam reklamę Boss Alive z Margot Robbie, pomyślałam sobie "no jasne, kolejne perfumy celebrytów". Ale coś w tym różowym flakonie mnie zaintrygowało. A potem przeczytałam, że za kompozycją stoi Annick Ménardo i wiedziałam, że muszę to sprawdzić. Ta kobieta stworzyła Hypnotic Poison, więc wie co robi, prawda?
 

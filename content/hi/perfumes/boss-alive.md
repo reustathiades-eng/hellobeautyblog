@@ -1,53 +1,50 @@
 ---
-title: "Boss Alive Review: क्या यह परफ्यूम वाकई में 'अलाइव' फील कराता है?"
-slug: "boss-alive-review"
-description: "Hugo Boss के Boss Alive का सच्चा रिव्यू। क्या यह फ्लोरल वुडी परफ्यूम अपनी कीमत के लायक है? जानिए इसकी longevity, sillage और असली परफॉर्मेंस।"
-date: 2024-02-15
+title: "Boss Alive रिव्यू: प्रामाणिक महिला के लिए एक आधुनिक श्रद्धांजलि"
+slug: "boss-alive"
+description: "Hugo Boss Boss Alive EDP की विस्तृत समीक्षा। जानें कि यह फ्लोरल वुडी परफ्यूम आधुनिक महिलाओं का पसंदीदा क्यों बन गया है।"
+date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["Hugo Boss", "फ्लोरल वुडी", "ऑफिस परफ्यूम", "डेट नाइट"]
-keywords: ["Boss Alive review", "Hugo Boss perfume", "Boss Alive परफ्यूम रिव्यू", "महिलाओं की खुशबू", "फ्लोरल परफ्यूम"]
+categories: ["परफ्यूम"]
+tags: ["hugo boss", "फ्लोरल", "वुडी", "ऑफिस परफ्यूम", "महिला परफ्यूम"]
+keywords: ["boss alive review", "hugo boss alive", "boss alive परफ्यूम"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
   - /images/perfumes/boss-alive.jpg
-featured: false
+featured: true
 draft: false
-
 brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
-gender: "Women"
-price: "€89"
+gender: "महिला"
+price: "89 €"
 rating: 4.5
-
 topNotes:
   - "सेब"
-  - "प्लम"
-  - "ब्लैककरेंट"
+  - "आलूबुखारा"
+  - "काला करंट"
 heartNotes:
-  - "जैस्मिन सैंबैक"
+  - "चमेली सम्बैक"
   - "थाइम"
-  - "ऑलिव ब्लॉसम"
+  - "जैतून का फूल"
 baseNotes:
   - "चंदन"
-  - "सीडर"
+  - "देवदार"
   - "वनीला"
-
 longevity: "6-8 घंटे"
 sillage: "मध्यम"
 season:
-  - "बसंत"
+  - "वसंत"
   - "गर्मी"
   - "पतझड़"
 occasion:
   - "ऑफिस"
   - "कैजुअल"
-  - "डेट नाइट"
-
+  - "डेट"
 translationKey: "boss-alive"
 ---
+
 
 मैं आपको सच बताऊं? जब मैंने पहली बार Boss Alive को देखा, तो मुझे लगा कि यह एक और typical celebrity-endorsed परफ्यूम होगा। आप जानते हैं ना, वो जो सिर्फ बोतल में अच्छी दिखती है लेकिन खुशबू में कुछ खास नहीं होता। लेकिन Annick Ménardo (जो कि एक legendary perfumer हैं) का नाम देखकर मैंने सोचा — ठीक है, इसे एक मौका देते हैं।
 

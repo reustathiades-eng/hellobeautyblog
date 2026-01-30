@@ -1,53 +1,50 @@
 ---
-title: "Boss Alive香水测评：活力女性的自信宣言"
-slug: "boss-alive-xiangshui-ceping"
-description: "Hugo Boss Boss Alive女士香水深度测评。这款果香花香木质调香水真的值得入手吗？Emma分享6个月真实使用感受。"
-date: 2025-02-15
+title: "Boss Alive 评测：致敬真实女性的现代颂歌"
+slug: "boss-alive"
+description: "Hugo Boss Boss Alive EDP 深度评测。了解这款花香木质香水为何成为现代女性的标志性香氛。"
+date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["Hugo Boss", "花香木质调", "日常香水", "职场香水"]
-keywords: ["Boss Alive测评", "Hugo Boss香水", "女士香水推荐", "花香木质调香水", "职场香水"]
+categories: ["香水"]
+tags: ["hugo boss", "花香", "木质", "办公室香水", "女士香水"]
+keywords: ["boss alive 评测", "hugo boss alive", "boss alive 香水"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
   - /images/perfumes/boss-alive.jpg
-featured: false
+featured: true
 draft: false
-
 brand: "Hugo Boss"
 productName: "Boss Alive"
-concentration: "浓香水"
-gender: "Women"
-price: "€89"
+concentration: "Eau de Parfum"
+gender: "女士"
+price: "89 €"
 rating: 4.5
-
 topNotes:
   - "苹果"
   - "李子"
-  - "黑醋栗"
+  - "黑加仑"
 heartNotes:
   - "茉莉花"
   - "百里香"
   - "橄榄花"
 baseNotes:
-  - "檀香木"
+  - "檀香"
   - "雪松"
   - "香草"
-
 longevity: "6-8小时"
 sillage: "中等"
 season:
-  - "Spring"
-  - "Summer"
-  - "Fall"
+  - "春季"
+  - "夏季"
+  - "秋季"
 occasion:
-  - "Office"
-  - "Casual"
-  - "Date Night"
-
+  - "办公室"
+  - "日常"
+  - "约会"
 translationKey: "boss-alive"
 ---
+
 
 去年三月的一个周五下午，我在商场里漫无目的地闲逛时，被Boss Alive那个金色瓶盖吸引了。老实说，当时我对Hugo Boss的香水并没有太大期待——毕竟他们更出名的是西装，对吧？但现在半年过去了，这瓶香水已经成了我化妆台上出勤率最高的那支。
 

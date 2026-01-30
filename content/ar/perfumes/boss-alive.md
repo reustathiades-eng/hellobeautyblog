@@ -1,43 +1,37 @@
 ---
-title: "مراجعة Boss Alive: عطر الأنوثة القوية من هوغو بوس"
-slug: "boss-alive-mrajaa"
-description: "مراجعة شاملة لعطر Boss Alive من Hugo Boss - عطر نسائي زهري خشبي يجمع بين الأنوثة والقوة. اكتشفي الأداء والثبات والمناسبات المثالية."
-date: 2024-01-15
+title: "مراجعة Boss Alive: عطر عصري يحتفي بالمرأة الأصيلة"
+slug: "boss-alive"
+description: "مراجعة شاملة لعطر Hugo Boss Boss Alive EDP. اكتشفي لماذا أصبح هذا العطر الزهري الخشبي توقيع المرأة العصرية."
+date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["Hugo Boss", "عطر زهري خشبي", "عطر نسائي", "عطر نهاري"]
-keywords: ["Boss Alive مراجعة", "عطر Hugo Boss", "عطر نسائي 2020", "Boss Alive ثبات"]
+categories: ["العطور"]
+tags: ["هوغو بوس", "زهري", "خشبي", "عطر مكتب", "عطر نسائي"]
+keywords: ["boss alive مراجعة", "hugo boss alive", "boss alive عطر"]
 images:
   - /images/perfumes/boss-alive-swatch.jpg
   - /images/perfumes/boss-alive.jpg
-featured: false
+featured: true
 draft: false
-
-# Product Info
 brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
-gender: "Women"
-price: "€89"
+gender: "نسائي"
+price: "89 €"
 rating: 4.5
-
-# Fragrance Notes
 topNotes:
-  - "تفاح"
-  - "برقوق"
-  - "كشمش أسود"
+  - "التفاح"
+  - "البرقوق"
+  - "الكشمش الأسود"
 heartNotes:
-  - "ياسمين سامباك"
-  - "زعتر"
+  - "الياسمين سامباك"
+  - "الزعتر"
   - "زهر الزيتون"
 baseNotes:
   - "خشب الصندل"
-  - "أرز"
-  - "فانيليا"
-
-# Characteristics
+  - "الأرز"
+  - "الفانيليا"
 longevity: "6-8 ساعات"
 sillage: "متوسط"
 season:
@@ -45,12 +39,12 @@ season:
   - "الصيف"
   - "الخريف"
 occasion:
-  - "العمل"
+  - "المكتب"
   - "يومي"
-  - "موعد رومانسي"
-
+  - "موعد"
 translationKey: "boss-alive"
 ---
+
 
 ## عندما تلتقي الأنوثة بالجرأة
 
