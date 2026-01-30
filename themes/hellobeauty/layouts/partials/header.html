@@ -36,7 +36,7 @@
                 <div class="lang-switcher">
                     <button class="lang-btn" id="lang-toggle" aria-label="Change language">
                         <span class="lang-flag">{{ .Language.Params.flag }}</span>
-                        <span class="lang-code">{{ .Language.Lang }}</span>
+                        <span class="lang-code">{{ .Language.Lang | upper }}</span>
                         <svg class="lang-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                         </svg>
@@ -44,10 +44,42 @@
                     
                     <!-- Language Dropdown -->
                     <div class="lang-dropdown" id="lang-dropdown">
+                        {{ $currentPage := . }}
+                        {{ $translationKey := .Params.translationKey }}
+                        {{ $currentSection := .Section }}
                         {{ range $.Site.Languages }}
-                        {{ $langCode := .Lang }}{{ $translation := false }}{{ range $.Page.Translations }}{{ if eq .Language.Lang $langCode }}{{ $translation = . }}{{ end }}{{ end }}
-                        <a href="{{ if $translation }}{{ $translation.Permalink }}{{ else }}/{{ .Lang }}/{{ end }}" 
-                           class="lang-option {{ if eq $.Language.Lang .Lang }}current{{ end }}">
+                        {{ $targetLang := .Lang }}
+                        {{ $targetURL := "" }}
+                        
+                        {{/* Try to find translation by translationKey */}}
+                        {{ if $translationKey }}
+                            {{ range $currentPage.Site.AllPages }}
+                                {{ if and (eq .Language.Lang $targetLang) (eq .Params.translationKey $translationKey) }}
+                                    {{ $targetURL = .Permalink }}
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        
+                        {{/* If no translation found, try .Translations */}}
+                        {{ if not $targetURL }}
+                            {{ range $currentPage.Translations }}
+                                {{ if eq .Language.Lang $targetLang }}
+                                    {{ $targetURL = .Permalink }}
+                                {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        
+                        {{/* If still no translation, fallback to section or home */}}
+                        {{ if not $targetURL }}
+                            {{ if $currentSection }}
+                                {{ $targetURL = printf "/%s/%s/" $targetLang $currentSection }}
+                            {{ else }}
+                                {{ $targetURL = printf "/%s/" $targetLang }}
+                            {{ end }}
+                        {{ end }}
+                        
+                        <a href="{{ $targetURL }}" 
+                           class="lang-option {{ if eq $currentPage.Language.Lang .Lang }}current{{ end }}">
                             <span class="lang-option-flag">{{ .Params.flag }}</span>
                             <span class="lang-option-name">{{ .LanguageName }}</span>
                         </a>
@@ -128,7 +160,7 @@
 
 @media (min-width: 1024px) {
     .header-container {
-        padding: 0 100px;
+        padding: 0 40px;
     }
 }
 

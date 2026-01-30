@@ -188,6 +188,54 @@
             <div class="content-wrapper">
                 {{ .Content }}
             </div>
+            
+            <!-- Author Bio Section -->
+            {{ with .Params.author }}
+            <div class="author-box">
+                <div class="author-avatar">
+                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+                    <img src="/images/authors/{{ $authorSlug }}.jpg" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="author-avatar-fallback">
+                        <span>{{ substr . 0 1 }}</span>
+                    </div>
+                </div>
+                <div class="author-info">
+                    <div class="author-label">{{ if eq $lang "fr" }}À propos de l'auteur{{ else if eq $lang "de" }}Über den Autor{{ else if eq $lang "es" }}Sobre el autor{{ else if eq $lang "it" }}Sull'autore{{ else if eq $lang "pt" }}Sobre o autor{{ else if eq $lang "nl" }}Over de auteur{{ else if eq $lang "pl" }}O autorze{{ else if eq $lang "tr" }}Yazar Hakkında{{ else if eq $lang "ja" }}著者について{{ else if eq $lang "ko" }}저자 소개{{ else if eq $lang "zh" }}关于作者{{ else if eq $lang "ar" }}عن الكاتب{{ else if eq $lang "hi" }}लेखक के बारे में{{ else }}About the Author{{ end }}</div>
+                    <h4 class="author-name">{{ . }}</h4>
+                    <p class="author-bio">
+                        {{ if eq . "Emma Collins" }}
+                            {{ if eq $lang "fr" }}Emma Collins est une experte en parfumerie et critique olfactive avec plus de 15 ans d'expérience dans l'industrie de la beauté. Passionnée par l'art de la parfumerie, elle partage ses découvertes et analyses détaillées pour vous guider dans l'univers des fragrances.
+                            {{ else if eq $lang "de" }}Emma Collins ist eine Parfüm-Expertin und Duftkritikerin mit über 15 Jahren Erfahrung in der Beauty-Branche. Mit ihrer Leidenschaft für die Kunst der Parfümerie teilt sie ihre Entdeckungen und detaillierten Analysen, um Sie durch die Welt der Düfte zu führen.
+                            {{ else if eq $lang "es" }}Emma Collins es una experta en perfumería y crítica olfativa con más de 15 años de experiencia en la industria de la belleza. Apasionada por el arte de la perfumería, comparte sus descubrimientos y análisis detallados para guiarle en el mundo de las fragancias.
+                            {{ else if eq $lang "it" }}Emma Collins è un'esperta di profumeria e critica olfattiva con oltre 15 anni di esperienza nel settore della bellezza. Appassionata dell'arte della profumeria, condivide le sue scoperte e analisi dettagliate per guidarvi nel mondo delle fragranze.
+                            {{ else if eq $lang "pt" }}Emma Collins é uma especialista em perfumaria e crítica olfativa com mais de 15 anos de experiência na indústria da beleza. Apaixonada pela arte da perfumaria, ela compartilha suas descobertas e análises detalhadas para guiá-lo no mundo das fragrâncias.
+                            {{ else if eq $lang "nl" }}Emma Collins is een parfum-expert en geurcritica met meer dan 15 jaar ervaring in de beauty-industrie. Met haar passie voor de kunst van parfumerie deelt ze haar ontdekkingen en gedetailleerde analyses om u door de wereld van geuren te leiden.
+                            {{ else if eq $lang "pl" }}Emma Collins jest ekspertem od perfum i krytykiem zapachowym z ponad 15-letnim doświadczeniem w branży kosmetycznej. Z pasją do sztuki perfumiarskiej dzieli się swoimi odkryciami i szczegółowymi analizami, aby przeprowadzić Cię przez świat zapachów.
+                            {{ else if eq $lang "tr" }}Emma Collins, güzellik sektöründe 15 yılı aşkın deneyime sahip bir parfüm uzmanı ve koku eleştirmenidir. Parfümeri sanatına olan tutkusuyla, keşiflerini ve detaylı analizlerini paylaşarak sizi koku dünyasında yönlendiriyor.
+                            {{ else if eq $lang "ja" }}エマ・コリンズは、ビューティー業界で15年以上の経験を持つ香水の専門家であり、香りの批評家です。香水の芸術に情熱を注ぎ、彼女の発見と詳細な分析を共有して、フレグランスの世界をご案内します。
+                            {{ else if eq $lang "ko" }}에마 콜린스는 뷰티 업계에서 15년 이상의 경험을 가진 향수 전문가이자 향기 비평가입니다. 향수 예술에 대한 열정으로 그녀의 발견과 상세한 분석을 공유하여 향기의 세계를 안내합니다.
+                            {{ else if eq $lang "zh" }}艾玛·柯林斯是一位香水专家和嗅觉评论家，在美容行业拥有超过15年的经验。她热爱香水艺术，通过分享她的发现和详细分析，带您领略香氛世界。
+                            {{ else if eq $lang "ar" }}إيما كولينز خبيرة في العطور وناقدة للروائح مع أكثر من 15 عامًا من الخبرة في صناعة التجميل. شغوفة بفن صناعة العطور، تشارك اكتشافاتها وتحليلاتها التفصيلية لإرشادك في عالم العطور.
+                            {{ else if eq $lang "hi" }}एम्मा कॉलिन्स एक परफ्यूम विशेषज्ञ और सुगंध समीक्षक हैं जिनके पास सौंदर्य उद्योग में 15 से अधिक वर्षों का अनुभव है। परफ्यूमरी की कला के प्रति जुनूनी, वह अपनी खोजों और विस्तृत विश्लेषण साझा करती हैं ताकि आपको सुगंध की दुनिया में मार्गदर्शन मिल सके।
+                            {{ else }}Emma Collins is a fragrance expert and scent critic with over 15 years of experience in the beauty industry. Passionate about the art of perfumery, she shares her discoveries and detailed analyses to guide you through the world of fragrances.
+                            {{ end }}
+                        {{ else if eq . "Sofia Martinez" }}
+                            {{ if eq $lang "fr" }}Sofia Martinez est une maquilleuse professionnelle avec 12 ans d'expérience dans la beauté mode et éditoriale. Elle a travaillé avec les plus grandes marques de beauté et partage son expertise pour vous aider à trouver votre look parfait.
+                            {{ else }}Sofia Martinez is a professional makeup artist with 12 years of experience in fashion and editorial beauty. She has worked with major beauty brands and shares her expertise to help you find your perfect look.
+                            {{ end }}
+                        {{ else }}
+                            {{ if eq $lang "fr" }}Rédacteur passionné chez HelloBeautyBlog, spécialisé dans les tendances beauté et les conseils experts.
+                            {{ else }}Passionate writer at HelloBeautyBlog, specialized in beauty trends and expert advice.
+                            {{ end }}
+                        {{ end }}
+                    </p>
+                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+                    <a href="/{{ $lang }}/about/{{ $authorSlug }}/" class="author-link">
+                        {{ if eq $lang "fr" }}Voir tous ses articles{{ else if eq $lang "de" }}Alle Artikel ansehen{{ else if eq $lang "es" }}Ver todos los artículos{{ else }}View all articles{{ end }} →
+                    </a>
+                </div>
+            </div>
+            {{ end }}
         </div>
         
     </div>
@@ -213,112 +261,24 @@
 
 /* Gallery / Carousel */
 .product-gallery { display: flex; flex-direction: column; }
-
 .carousel-container { width: 100%; }
-
 .carousel-main { position: relative; display: flex; align-items: center; gap: 0.5rem; }
-
-.carousel-viewport { 
-    flex: 1; 
-    position: relative; 
-    background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); 
-    border-radius: 16px; 
-    overflow: hidden;
-    aspect-ratio: 1;
-}
-
-.carousel-slide { 
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
-    height: 100%; 
-    opacity: 0; 
-    transition: opacity 0.4s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 1rem;
-}
-
+.carousel-viewport { flex: 1; position: relative; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 1; }
+.carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.4s ease; display: flex; align-items: center; justify-content: center; padding: 1rem; }
 .carousel-slide.active { opacity: 1; }
-
-.carousel-slide img { 
-    max-width: 100%; 
-    max-height: 100%; 
-    object-fit: contain;
-}
-
-.carousel-btn { 
-    flex-shrink: 0;
-    width: 40px; 
-    height: 40px; 
-    border-radius: 50%; 
-    border: none; 
-    background: white; 
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    cursor: pointer; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center;
-    transition: all 0.2s ease;
-    z-index: 2;
-}
-
+.carousel-slide img { max-width: 100%; max-height: 100%; object-fit: contain; }
+.carousel-btn { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; border: none; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s ease; z-index: 2; }
 .carousel-btn:hover { background: #F8C8DC; transform: scale(1.05); }
 .carousel-btn svg { width: 20px; height: 20px; color: #374151; }
-
-/* Thumbnails */
-.carousel-thumbnails { 
-    display: none;
-    gap: 0.5rem; 
-    margin-top: 1rem;
-    justify-content: center;
-}
-
-@media (min-width: 768px) {
-    .carousel-thumbnails { display: flex; }
-}
-
-.thumbnail { 
-    width: 60px; 
-    height: 60px; 
-    border-radius: 8px; 
-    overflow: hidden; 
-    border: 2px solid transparent; 
-    cursor: pointer; 
-    padding: 0;
-    background: #F3F4F6;
-    transition: all 0.2s ease;
-}
-
+.carousel-thumbnails { display: none; gap: 0.5rem; margin-top: 1rem; justify-content: center; }
+@media (min-width: 768px) { .carousel-thumbnails { display: flex; } }
+.thumbnail { width: 60px; height: 60px; border-radius: 8px; overflow: hidden; border: 2px solid transparent; cursor: pointer; padding: 0; background: #F3F4F6; transition: all 0.2s ease; }
 .thumbnail:hover { border-color: #E8A8BC; }
 .thumbnail.active { border-color: #F8C8DC; box-shadow: 0 0 0 2px rgba(248, 200, 220, 0.3); }
 .thumbnail img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
-
-/* Dots for mobile */
-.carousel-dots { 
-    display: flex; 
-    justify-content: center; 
-    gap: 0.5rem; 
-    margin-top: 1rem;
-}
-
-@media (min-width: 768px) {
-    .carousel-dots { display: none; }
-}
-
-.dot { 
-    width: 8px; 
-    height: 8px; 
-    border-radius: 50%; 
-    border: none; 
-    background: #E5E7EB; 
-    cursor: pointer;
-    padding: 0;
-    transition: all 0.2s ease;
-}
-
+.carousel-dots { display: flex; justify-content: center; gap: 0.5rem; margin-top: 1rem; }
+@media (min-width: 768px) { .carousel-dots { display: none; } }
+.dot { width: 8px; height: 8px; border-radius: 50%; border: none; background: #E5E7EB; cursor: pointer; padding: 0; transition: all 0.2s ease; }
 .dot.active { background: #F8C8DC; width: 24px; border-radius: 4px; }
 
 /* Product Info */
@@ -328,8 +288,6 @@
 .product-title { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
 @media (min-width: 768px) { .product-title { font-size: 2.25rem; } }
 .product-type { font-size: 1rem; color: #6B7280; margin: 0 0 1rem; }
-
-/* Rating */
 .product-rating { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; }
 .rating-stars { display: flex; gap: 0.15rem; }
 .star { width: 18px; height: 18px; color: #E5E7EB; }
@@ -348,55 +306,15 @@
 .note-tag.base { background: #F5F5F4; color: #57534E; }
 
 /* Characteristics - Full Width */
-.product-specs-fullwidth {
-    background: white;
-    border-radius: 20px;
-    padding: 1.5rem;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    margin-bottom: 1.5rem;
-}
-
+.product-specs-fullwidth { background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
 @media (min-width: 768px) { .product-specs-fullwidth { padding: 2rem; } }
-
-.specs-title { 
-    display: flex; 
-    align-items: center; 
-    gap: 0.5rem; 
-    font-family: 'Playfair Display', serif; 
-    font-size: 1.1rem; 
-    font-weight: 600; 
-    color: #1F2937; 
-    margin: 0 0 1.25rem; 
-}
+.specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #1F2937; margin: 0 0 1.25rem; }
 .specs-title svg { width: 20px; height: 20px; color: #F8C8DC; }
-
-.specs-grid-horizontal {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-}
-
-@media (min-width: 768px) {
-    .specs-grid-horizontal { grid-template-columns: repeat(3, 1fr); }
-}
-
-@media (min-width: 1024px) {
-    .specs-grid-horizontal { grid-template-columns: repeat(5, 1fr); }
-}
-
-.spec-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 1rem;
-    background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%);
-    border-radius: 12px;
-    transition: transform 0.2s ease;
-}
-
+.specs-grid-horizontal { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+@media (min-width: 768px) { .specs-grid-horizontal { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 1024px) { .specs-grid-horizontal { grid-template-columns: repeat(5, 1fr); } }
+.spec-card { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1rem; background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%); border-radius: 12px; transition: transform 0.2s ease; }
 .spec-card:hover { transform: translateY(-2px); }
-
 .spec-icon { font-size: 1.5rem; margin-bottom: 0.5rem; }
 .spec-label { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #6B7280; margin-bottom: 0.25rem; }
 .spec-value { font-size: 0.85rem; font-weight: 600; color: #1F2937; }
@@ -411,6 +329,92 @@
 .content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 500; color: #374151; margin: 1.5rem 0 0.75rem; }
 .content-wrapper p { font-size: 1rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
 .content-wrapper strong { font-weight: 600; color: #1F2937; }
+
+/* Author Box */
+.author-box {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #F3F4F6;
+}
+
+.author-avatar {
+    flex-shrink: 0;
+    position: relative;
+}
+
+.author-avatar img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #F8C8DC;
+}
+
+.author-avatar-fallback {
+    display: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%);
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+}
+
+.author-info {
+    flex: 1;
+}
+
+.author-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #F8C8DC;
+    margin-bottom: 0.25rem;
+}
+
+.author-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0 0 0.75rem;
+}
+
+.author-bio {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #4B5563;
+    margin: 0 0 1rem;
+}
+
+.author-link {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #F8C8DC;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.author-link:hover {
+    color: #E8A8BC;
+}
+
+@media (max-width: 640px) {
+    .author-box {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
 
 /* Placeholder */
 .product-image-placeholder { width: 100%; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
