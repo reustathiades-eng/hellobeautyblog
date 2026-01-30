@@ -702,3 +702,31 @@ textarea::placeholder {
         text-decoration: underline;
     }
 }
+
+/* -----------------------------------------------------------------------------
+   10. RESPONSIVE UTILITIES (Tailwind-style)
+   ----------------------------------------------------------------------------- */
+
+/* Large screens (1024px+) */
+@media (min-width: 1024px) {
+    .lg\:grid-cols-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .lg\:gap-12 {
+        gap: 3rem;
+    }
+    .lg\:justify-start {
+        justify-content: flex-start;
+    }
+    .lg\:text-4xl {
+        font-size: 2.25rem;
+        line-height: 2.5rem;
+    }
+}
+
+/* Medium screens (768px+) */
+@media (min-width: 768px) {
+    .md\:grid-cols-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
