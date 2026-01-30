@@ -19,7 +19,7 @@
             <!-- Categories -->
             <div class="text-center lg:text-left">
                 <h4 class="font-heading font-semibold text-text mb-4">{{ if eq .Language.Lang "fr" }}Catégories{{ else if eq .Language.Lang "de" }}Kategorien{{ else if eq .Language.Lang "es" }}Categorías{{ else }}Categories{{ end }}</h4>
-                <ul class="space-y-2">
+                <ul class="space-y-2 list-none pl-0">
                     <li><a href="/{{ .Language.Lang }}/perfumes/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Parfums{{ else if eq .Language.Lang "de" }}Parfüm{{ else if eq .Language.Lang "es" }}Perfumes{{ else }}Perfumes{{ end }}</a></li>
                     <li><a href="/{{ .Language.Lang }}/skincare/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Soins{{ else if eq .Language.Lang "de" }}Hautpflege{{ else if eq .Language.Lang "es" }}Cuidado{{ else }}Skincare{{ end }}</a></li>
                     <li><a href="/{{ .Language.Lang }}/makeup/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Maquillage{{ else if eq .Language.Lang "de" }}Make-up{{ else if eq .Language.Lang "es" }}Maquillaje{{ else }}Makeup{{ end }}</a></li>
@@ -30,7 +30,7 @@
             <!-- Information -->
             <div class="text-center lg:text-left">
                 <h4 class="font-heading font-semibold text-text mb-4">Information</h4>
-                <ul class="space-y-2">
+                <ul class="space-y-2 list-none pl-0">
                     <li><a href="/{{ .Language.Lang }}/about/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}À propos{{ else if eq .Language.Lang "de" }}Über uns{{ else if eq .Language.Lang "es" }}Nosotros{{ else }}About Us{{ end }}</a></li>
                     <li><a href="/{{ .Language.Lang }}/contact/" class="text-textLight hover:text-primary text-sm transition-colors">Contact</a></li>
                     <li><a href="/{{ .Language.Lang }}/privacy/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Confidentialité{{ else if eq .Language.Lang "de" }}Datenschutz{{ else if eq .Language.Lang "es" }}Privacidad{{ else }}Privacy Policy{{ end }}</a></li>

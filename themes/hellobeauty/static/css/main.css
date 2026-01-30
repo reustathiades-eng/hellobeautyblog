@@ -821,3 +821,11 @@ footer .grid > div {
         align-items: flex-start;
     }
 }
+
+.list-none {
+    list-style-type: none !important;
+}
+
+.pl-0 {
+    padding-left: 0 !important;
+}
