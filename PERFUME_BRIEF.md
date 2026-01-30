@@ -1,147 +1,281 @@
-# BRIEF - Génération de fiches parfums HelloBeautyBlog
+# BRIEF - Système de Génération de Fiches Parfums HelloBeautyBlog
 
-## FORMAT HUGO FRONT MATTER
+## 🎯 Vue d'Ensemble
+
+Ce brief décrit le système professionnel de génération de contenu parfums pour HelloBeautyBlog.com.
+
+**Version:** 2.0
+**Dernière mise à jour:** 30 janvier 2026
+
+---
+
+## 📁 Architecture du Système
+
+```
+/home/ubuntu/hbb/generation/
+├── README.md                          # Documentation complète
+├── data/                              # Données JSON des parfums
+│   ├── boss-alive.json
+│   └── chanel-no5.json
+├── scripts/
+│   └── generate_perfume.sh            # Script principal
+├── templates/
+│   ├── perfume_frontmatter.yaml       # Structure YAML de référence
+│   └── CONTENT_GENERATION_BRIEF.md    # Brief pour l'API Claude
+└── translations/
+    ├── perfume_translations.json      # Traductions UI (14 langues)
+    └── notes_translations.json        # Notes olfactives (14 langues)
+```
+
+---
+
+## 🔑 Principe Fondamental
+
+**Séparation totale entre:**
+1. **Front Matter YAML** → Généré localement, format garanti
+2. **Contenu Textuel** → Généré par API Claude
+
+Cette séparation élimine les erreurs de format YAML.
+
+---
+
+## 🚀 Utilisation
+
+### Prérequis
+```bash
+export ANTHROPIC_API_KEY="sk-ant-api03-..."
+```
+
+### Générer un parfum (toutes langues)
+```bash
+./generation/scripts/generate_perfume.sh boss-alive
+```
+
+### Générer une langue spécifique
+```bash
+./generation/scripts/generate_perfume.sh boss-alive fr
+```
+
+---
+
+## 📊 Structure des Données Parfum (JSON)
+
+```json
+{
+  "brand": "Hugo Boss",
+  "productName": "Boss Alive",
+  "concentration": "Eau de Parfum",
+  "price": "89 €",
+  "rating": 4.5,
+  "launchYear": 2020,
+  "perfumer": "Annick Ménardo",
+  "family": "Floral Woody",
+  "gender": "women",
+  
+  "longevity": { "min": 6, "max": 8 },
+  "sillage": "moderate",
+  
+  "topNotes": ["apple", "plum", "blackcurrant"],
+  "heartNotes": ["jasmine_sambac", "thyme", "olive_blossom"],
+  "baseNotes": ["sandalwood", "cedar", "vanilla"],
+  
+  "seasons": ["spring", "summer", "fall"],
+  "occasions": ["office", "casual", "date"],
+  
+  "images": ["/images/perfumes/boss-alive-swatch.jpg"],
+  
+  "titles": { "en": "...", "fr": "...", ... },
+  "descriptions": { "en": "...", "fr": "...", ... },
+  "tags": { "en": [...], "fr": [...], ... },
+  "keywords": { "en": [...], "fr": [...], ... }
+}
+```
+
+---
+
+## 📝 Format YAML Hugo (Obligatoire)
 
 ```yaml
 ---
-title: "[Nom du parfum] Review: [Sous-titre accrocheur]"
-slug: "[nom-parfum-slug]"
-description: "[Meta description SEO 150-160 caractères]"
-date: [YYYY-MM-DD]
+title: "Boss Alive Review: A Modern Ode to the Authentic Woman"
+slug: "boss-alive"
+description: "..."
+date: 2024-03-15
 lastmod: 2026-01-30
 author: "Emma Collins"
 authorSlug: "emma-collins"
-categories: ["Perfumes"]
-tags: ["[marque]", "[famille olfactive]", "[occasion]"]
-keywords: ["[parfum] review", "[marque] perfume", "[mots-clés SEO]"]
+categories:
+  - "Perfumes"
+tags:
+  - "hugo boss"
+  - "floral"
+keywords:
+  - "boss alive review"
 images:
-  - /images/perfumes/[slug].jpg
-featured: false
+  - /images/perfumes/boss-alive-swatch.jpg
+  - /images/perfumes/boss-alive.jpg
+featured: true
 draft: false
-
-# Product Info
-brand: "[Marque]"
-productName: "[Nom du produit]"
-concentration: "[Eau de Parfum/Eau de Toilette/Parfum]"
-gender: "[Women/Men/Unisex]"
-price: "€[prix]"
-rating: [1-5]
-
-# Fragrance Notes
+brand: "Hugo Boss"
+productName: "Boss Alive"
+concentration: "Eau de Parfum"
+gender: "Women"
+price: "89 €"
+rating: 4.5
 topNotes:
-  - "[Note 1]"
-  - "[Note 2]"
+  - "Apple"
+  - "Plum"
+  - "Blackcurrant"
 heartNotes:
-  - "[Note 1]"
-  - "[Note 2]"
+  - "Jasmine Sambac"
+  - "Thyme"
+  - "Olive Blossom"
 baseNotes:
-  - "[Note 1]"
-  - "[Note 2]"
-
-# Characteristics
-longevity: "[X-X hours]"
-sillage: "[Soft/Moderate/Strong/Enormous]"
+  - "Sandalwood"
+  - "Cedar"
+  - "Vanilla"
+longevity: "6-8 hours"
+sillage: "Moderate"
 season:
-  - "[Spring/Summer/Fall/Winter]"
+  - "Spring"
+  - "Summer"
+  - "Fall"
 occasion:
-  - "[Office/Casual/Evening/Date/Special Occasions]"
-
-translationKey: "[slug-unique]"
+  - "Office"
+  - "Casual"
+  - "Date Night"
+translationKey: "boss-alive"
 ---
 ```
 
-## STRUCTURE DU CONTENU (800-1200 mots)
+### ⚠️ Règles YAML Critiques
 
-### 1. Introduction (100-150 mots)
-- Accroche personnelle et engageante
-- Contexte de création/lancement du parfum
-- Pourquoi ce parfum mérite l'attention
+1. **Noms de champs exacts:**
+   - `topNotes` (PAS `notes_top` ou `top_notes`)
+   - `heartNotes` (PAS `notes_heart`)
+   - `baseNotes` (PAS `notes_base`)
+   - `season` (PAS `seasons`)
+   - `occasion` (PAS `occasions`)
 
-### 2. First Impressions / Premières Impressions (100-150 mots)
-- Description du flacon et packaging
-- Première vaporisation
-- Réaction initiale
+2. **Format des listes:**
+   ```yaml
+   # ✅ CORRECT
+   topNotes:
+     - "Apple"
+     - "Plum"
+   
+   # ❌ INCORRECT
+   topNotes: ["Apple", "Plum"]
+   ```
 
-### 3. The Scent Journey / L'Évolution (200-300 mots)
-#### Top Notes
-- Description détaillée des notes de tête
-- Durée et intensité
+3. **Guillemets obligatoires** pour les valeurs texte
 
-#### Heart Notes
-- Transition vers le cœur
-- Notes dominantes et leur interplay
+---
 
-#### Base Notes
-- Le dry-down
-- Tenue et évolution finale
+## 🛡️ Mesures Anti-Détection IA
 
-### 4. Performance (100-150 mots)
-- Longévité réelle (heures testées)
-- Sillage (projection)
-- Évolution au fil de la journée
+Le brief de génération inclut:
 
-### 5. Who Is It For? (100-150 mots)
-- Profil de la personne idéale
-- Occasions recommandées
-- Saisons appropriées
-- Tranches d'âge
+1. **Variation des phrases**
+   - Mélanger courtes (5-10 mots) et longues (20-30 mots)
+   - Commencer certaines par "Et" ou "Mais"
 
-### 6. The Verdict (100-150 mots)
-- Résumé des points forts
-- Points faibles éventuels
-- Rapport qualité/prix
-- Recommandation finale
+2. **Ton personnel**
+   - Première personne ("Je", "J'ai testé")
+   - Anecdotes spécifiques (situations, lieux, moments)
 
-## STYLE D'ÉCRITURE
+3. **Expressions naturelles**
+   - Contractions de la langue cible
+   - Idiomes locaux
 
-- Ton: Professionnel mais accessible, passionné
-- Voix: Première personne, expérience personnelle
-- Éviter: Jargon trop technique, superlatifs excessifs
-- Inclure: Comparaisons concrètes, métaphores sensorielles
-- SEO: Mots-clés naturellement intégrés
+4. **ÉVITER (détection IA):**
+   - "En conclusion" / "Pour conclure"
+   - "Il convient de noter"
+   - "Plongeons dans" / "Explorons"
+   - Répétitions de mots
+   - Structures trop régulières
 
-## CARACTÉRISTIQUES PAR FAMILLE OLFACTIVE
+5. **Authenticité**
+   - Mentionner 1-2 points négatifs
+   - Opinions fortes
+   - Comparaisons avec d'autres parfums
 
-### Floral
-- skinType équivalent: "All skin types"
-- Occasions typiques: Casual, Office, Date
-- Saisons: Spring, Summer
+---
 
-### Oriental/Gourmand
-- skinType équivalent: "All skin types"  
-- Occasions typiques: Evening, Date, Special Occasions
-- Saisons: Fall, Winter
+## 🌍 Langues Supportées
 
-### Woody/Aromatic
-- skinType équivalent: "All skin types"
-- Occasions typiques: Office, Casual
-- Saisons: Fall, Winter, Spring
+| Code | Langue | Traductions |
+|------|--------|-------------|
+| en | English | ✅ |
+| fr | Français | ✅ |
+| de | Deutsch | ✅ |
+| es | Español | ✅ |
+| it | Italiano | ✅ |
+| pt | Português | ✅ |
+| nl | Nederlands | ✅ |
+| pl | Polski | ✅ |
+| tr | Türkçe | ✅ |
+| ja | 日本語 | ✅ |
+| ko | 한국어 | ✅ |
+| zh | 中文 | ✅ |
+| ar | العربية | ✅ |
+| hi | हिन्दी | ✅ |
 
-### Fresh/Aquatic
-- skinType équivalent: "All skin types"
-- Occasions typiques: Office, Casual, Sport
-- Saisons: Spring, Summer
+---
 
-## TRADUCTIONS À PRÉVOIR
+## 🔧 Ajouter un Nouveau Parfum
 
-Pour chaque parfum, créer les versions dans les 14 langues:
-- EN (English) - Version de base
-- FR (Français)
-- DE (Deutsch)
-- ES (Español)
-- IT (Italiano)
-- PT (Português)
-- NL (Nederlands)
-- PL (Polski)
-- TR (Türkçe)
-- JA (日本語)
-- KO (한국어)
-- ZH (中文)
-- AR (العربية)
-- HI (हिन्दी)
+1. **Créer le fichier JSON** dans `generation/data/nouveau-parfum.json`
+2. **Ajouter les notes manquantes** dans `notes_translations.json`
+3. **Exécuter:** `./generation/scripts/generate_perfume.sh nouveau-parfum`
+4. **Valider** les fichiers générés
+5. **Commit & push**
 
-Chaque traduction doit:
-- Adapter le titre et le slug à la langue
-- Traduire toutes les notes et caractéristiques
-- Conserver le même translationKey
-- Adapter les expressions idiomatiques
+---
+
+## 📋 Checklist Validation
+
+Avant de push, vérifier pour chaque fichier:
+
+- [ ] `brand` présent et non vide
+- [ ] `rating` présent (nombre)
+- [ ] `topNotes` avec liste (tirets)
+- [ ] `heartNotes` avec liste (tirets)
+- [ ] `baseNotes` avec liste (tirets)
+- [ ] `season` avec liste (tirets)
+- [ ] `occasion` avec liste (tirets)
+- [ ] `longevity` présent
+- [ ] `sillage` présent
+- [ ] `translationKey` identique dans toutes les langues
+- [ ] Contenu > 3000 bytes
+
+---
+
+## 🔑 Configuration API
+
+```bash
+# Clé API (à exporter avant utilisation)
+export ANTHROPIC_API_KEY="sk-ant-api03-..."
+
+# Modèle utilisé
+MODEL="claude-sonnet-4-5-20250929"
+
+# Temperature (créativité)
+TEMPERATURE=0.85
+```
+
+La clé est stockée dans `/home/ubuntu/hbb/.env` (non versionné).
+
+---
+
+## 📞 Commande Rapide
+
+```bash
+# Générer Boss Alive dans toutes les langues
+cd /home/ubuntu/hbb
+source .env
+./generation/scripts/generate_perfume.sh boss-alive
+
+# Vérifier les fichiers
+ls -la content/*/perfumes/boss-alive.md
+```
