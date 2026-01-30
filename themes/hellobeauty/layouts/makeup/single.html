@@ -27,7 +27,7 @@
             {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-4">{{ . }}</p>{{ end }}
             
             <!-- Rating -->
-            <div class="flex items-center gap-2 mb-5">
+            <div class="flex items-center gap-2 mb-6">
                 <div class="flex">
                     {{ $rating := .Params.rating | default 0 }}
                     {{ range seq 5 }}
@@ -41,16 +41,16 @@
             
             <!-- Characteristics -->
             {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
-            <div class="bg-gray-50 rounded-xl p-5" style="max-width: 320px;">
-                <h2 class="text-base font-semibold mb-3 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
-                <div class="space-y-2 text-sm">
-                    {{ with .Params.brand }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.coverage }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.finish }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.longevity }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.skinType }}<div class="flex"><span class="text-gray-500 w-24">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else }}Skin Type{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.spf }}<div class="flex"><span class="text-gray-500 w-24">SPF</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
-                </div>
+            <div class="bg-gray-50 rounded-xl p-5">
+                <h3 class="text-base font-semibold mb-4 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h3>
+                <table class="w-full text-sm">
+                    {{ with .Params.brand }}<tr><td class="text-gray-500 py-1 pr-4">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                    {{ with .Params.coverage }}<tr><td class="text-gray-500 py-1 pr-4">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                    {{ with .Params.finish }}<tr><td class="text-gray-500 py-1 pr-4">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                    {{ with .Params.longevity }}<tr><td class="text-gray-500 py-1 pr-4">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                    {{ with .Params.skinType }}<tr><td class="text-gray-500 py-1 pr-4">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else }}Skin Type{{ end }}</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                    {{ with .Params.spf }}<tr><td class="text-gray-500 py-1 pr-4">SPF</td><td class="font-medium text-gray-800 py-1">{{ . }}</td></tr>{{ end }}
+                </table>
             </div>
             {{ end }}
         </div>

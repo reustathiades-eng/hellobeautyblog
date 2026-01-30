@@ -1,55 +1,55 @@
-<footer class="bg-white border-t border-border mt-16">
+<footer class="bg-white border-t border-gray-200 mt-16">
     <div style="max-width: 1200px; margin: 0 auto; padding: 3rem 20px;">
-        
-        <!-- 4 colonnes centrées -->
-        <div class="flex justify-center">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-10 text-center">
-                
-                <!-- Brand -->
-                <div>
-                    <a href="/{{ .Language.Lang }}/" class="inline-block mb-4">
-                        <span class="text-2xl font-heading font-bold text-primary">Hello</span>
-                        <span class="text-2xl font-heading font-light text-text">Beauty</span>
-                    </a>
-                    <p class="text-textLight text-sm">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+            
+            <!-- Brand -->
+            <div class="text-center md:text-left">
+                <a href="/{{ .Language.Lang }}/" class="inline-block mb-3">
+                    <span class="text-xl font-heading font-bold text-primary">Hello</span>
+                    <span class="text-xl font-heading font-light text-gray-800">Beauty</span>
+                </a>
+                <p class="text-gray-500 text-sm">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
+            </div>
+            
+            <!-- Categories -->
+            <div class="text-center md:text-left">
+                <h4 class="font-semibold text-gray-800 mb-3">Categories</h4>
+                <div class="space-y-2">
+                    <a href="/{{ .Language.Lang }}/perfumes/" class="block text-gray-500 hover:text-primary text-sm">Perfumes</a>
+                    <a href="/{{ .Language.Lang }}/skincare/" class="block text-gray-500 hover:text-primary text-sm">Skincare</a>
+                    <a href="/{{ .Language.Lang }}/makeup/" class="block text-gray-500 hover:text-primary text-sm">Makeup</a>
+                    <a href="/{{ .Language.Lang }}/haircare/" class="block text-gray-500 hover:text-primary text-sm">Haircare</a>
                 </div>
-                
-                <!-- Categories -->
-                <div>
-                    <h4 class="font-heading font-semibold text-text mb-4">Categories</h4>
-                    <a href="/{{ .Language.Lang }}/perfumes/" class="block text-textLight hover:text-primary text-sm mb-2">Perfumes</a>
-                    <a href="/{{ .Language.Lang }}/skincare/" class="block text-textLight hover:text-primary text-sm mb-2">Skincare</a>
-                    <a href="/{{ .Language.Lang }}/makeup/" class="block text-textLight hover:text-primary text-sm mb-2">Makeup</a>
-                    <a href="/{{ .Language.Lang }}/haircare/" class="block text-textLight hover:text-primary text-sm">Haircare</a>
+            </div>
+            
+            <!-- Information -->
+            <div class="text-center md:text-left">
+                <h4 class="font-semibold text-gray-800 mb-3">Information</h4>
+                <div class="space-y-2">
+                    <a href="/{{ .Language.Lang }}/about/" class="block text-gray-500 hover:text-primary text-sm">About Us</a>
+                    <a href="/{{ .Language.Lang }}/contact/" class="block text-gray-500 hover:text-primary text-sm">Contact</a>
+                    <a href="/{{ .Language.Lang }}/privacy/" class="block text-gray-500 hover:text-primary text-sm">Privacy Policy</a>
+                    <a href="/{{ .Language.Lang }}/terms/" class="block text-gray-500 hover:text-primary text-sm">Terms of Use</a>
                 </div>
-                
-                <!-- Information -->
-                <div>
-                    <h4 class="font-heading font-semibold text-text mb-4">Information</h4>
-                    <a href="/{{ .Language.Lang }}/about/" class="block text-textLight hover:text-primary text-sm mb-2">About Us</a>
-                    <a href="/{{ .Language.Lang }}/contact/" class="block text-textLight hover:text-primary text-sm mb-2">Contact</a>
-                    <a href="/{{ .Language.Lang }}/privacy/" class="block text-textLight hover:text-primary text-sm mb-2">Privacy</a>
-                    <a href="/{{ .Language.Lang }}/terms/" class="block text-textLight hover:text-primary text-sm">Terms</a>
-                </div>
-                
-                <!-- Newsletter -->
-                <div>
-                    <h4 class="font-heading font-semibold text-text mb-4">Newsletter</h4>
-                    <p class="text-textLight text-sm mb-4">Get the latest beauty news.</p>
-                    <form action="https://formspree.io/f/" method="POST">
-                        <input type="email" name="email" required placeholder="Your email" class="w-full px-4 py-2 mb-2 rounded-lg border border-border text-sm text-center">
-                        <button type="submit" class="w-full px-4 py-2 bg-primary text-text font-medium text-sm rounded-lg">Subscribe</button>
-                    </form>
-                </div>
+            </div>
+            
+            <!-- Newsletter -->
+            <div class="text-center md:text-left">
+                <h4 class="font-semibold text-gray-800 mb-3">Newsletter</h4>
+                <p class="text-gray-500 text-sm mb-3">Get the latest beauty news.</p>
+                <form action="#" method="POST">
+                    <input type="email" name="email" required placeholder="Your email" class="w-full px-3 py-2 mb-2 rounded border border-gray-300 text-sm">
+                    <button type="submit" class="w-full px-3 py-2 bg-primary text-gray-800 font-medium text-sm rounded hover:bg-primary/80">Subscribe</button>
+                </form>
             </div>
         </div>
     </div>
     
     <!-- Bottom -->
-    <div class="border-t border-border">
-        <div style="max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px; text-align: center;">
-            <p class="text-textLight text-sm">© 2026 Hello Beauty Blog. All rights reserved.</p>
-            <p class="text-textLight text-xs mt-1">This site contains affiliate links.</p>
+    <div class="border-t border-gray-200">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 1rem 20px;" class="flex flex-col md:flex-row justify-between items-center text-center md:text-left">
+            <p class="text-gray-400 text-xs">© 2026 Hello Beauty Blog. All rights reserved.</p>
+            <p class="text-gray-400 text-xs mt-1 md:mt-0">This site contains affiliate links.</p>
         </div>
     </div>
 </footer>
@@ -57,6 +57,6 @@
 <style>
 @media (min-width: 1024px) {
     footer > div:first-child { padding: 3rem 100px !important; }
-    footer > div:last-child > div { padding: 1.5rem 100px !important; }
+    footer > div:last-child > div { padding: 1rem 100px !important; }
 }
 </style>
