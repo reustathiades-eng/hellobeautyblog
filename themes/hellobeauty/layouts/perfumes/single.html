@@ -262,13 +262,16 @@
 /* Gallery / Carousel */
 .product-gallery { display: flex; flex-direction: column; }
 .carousel-container { width: 100%; }
-.carousel-main { position: relative; display: flex; align-items: center; gap: 0.5rem; }
-.carousel-viewport { flex: 1; position: relative; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 1; }
-.carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.4s ease; display: flex; align-items: center; justify-content: center; padding: 1rem; }
+.carousel-main { position: relative; width: 100%; }
+.carousel-viewport { position: relative; width: 100%; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 4/5; min-height: 400px; }
+@media (min-width: 768px) { .carousel-viewport { aspect-ratio: 3/4; min-height: 500px; } }
+.carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.4s ease; display: flex; align-items: center; justify-content: center; padding: 1.5rem; }
 .carousel-slide.active { opacity: 1; }
 .carousel-slide img { max-width: 100%; max-height: 100%; object-fit: contain; }
-.carousel-btn { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; border: none; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s ease; z-index: 2; }
-.carousel-btn:hover { background: #F8C8DC; transform: scale(1.05); }
+.carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 44px; border-radius: 50%; border: none; background: rgba(255,255,255,0.9); box-shadow: 0 2px 12px rgba(0,0,0,0.15); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s ease; z-index: 10; }
+.carousel-btn.prev { left: 12px; }
+.carousel-btn.next { right: 12px; }
+.carousel-btn:hover { background: #F8C8DC; transform: translateY(-50%) scale(1.1); box-shadow: 0 4px 16px rgba(0,0,0,0.2); }
 .carousel-btn svg { width: 20px; height: 20px; color: #374151; }
 .carousel-thumbnails { display: none; gap: 0.5rem; margin-top: 1rem; justify-content: center; }
 @media (min-width: 768px) { .carousel-thumbnails { display: flex; } }
