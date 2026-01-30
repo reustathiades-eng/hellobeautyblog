@@ -11,6 +11,8 @@ images:
   - /images/skincare/soft-supple-lips.jpg
 ---
 
+![Soft Supple Lips](/images/skincare/soft-supple-lips.jpg)
+
 **It's easy for lips to get dry any time of year.** The heat and sun exposure of summer can easily dry out lips and leave them flaky or cracked while the chilly temps of fall and winter can surely do a number on them. But you can get your lips into a soft, supple state in no time and keep them that way by sticking to a few simple dos and don'ts.
 
 ## Dos for Soft, Supple Lips
@@ -47,6 +49,8 @@ Skip balms and ointments made with camphor, eucalyptus and menthol – ingredien
 
 ## Hello Beauty Top Picks for Lip Care
 
+![Fresh Sugar Lip Treatment, EOS Lip Balm, Fusion Beauty LipFusion](/images/skincare/lip-treatment-products.jpg)
+
 Some of the best balms I've used...
 
 ### Fresh Sugar Lip Treatment SPF 15
@@ -82,5 +86,7 @@ Want to plump up your pout as you hydrate and protect? This beauty contains pure
 Are dry lips a problem for you? What are your favorite lip care products? Share your tips in the comments below!
 
 ---
+
+*Lip photo: Δpple bed*
 
 *Disclosure: Product samples were provided for review.*
