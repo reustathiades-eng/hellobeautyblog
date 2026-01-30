@@ -2,66 +2,219 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article class="max-w-6xl mx-auto px-4 py-12">
-    
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-12">
+
+<article class="product-page">
+    <div class="product-container">
         
-        <div class="flex justify-center lg:justify-start">
-            {{ with index .Params.images 0 }}
-            <img src="{{ . }}" alt="{{ $.Title }}" class="max-w-sm w-full rounded-xl shadow-lg">
-            {{ else }}
-            <div class="max-w-sm w-full aspect-square bg-gray-100 rounded-xl flex items-center justify-center">
-                <svg class="w-16 h-16 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
-                </svg>
-            </div>
-            {{ end }}
-        </div>
+        <!-- Breadcrumb -->
+        <nav class="breadcrumb">
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else }}Home{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <a href="/{{ $lang }}/perfumes/">{{ if eq $lang "fr" }}Parfums{{ else }}Perfumes{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <span class="breadcrumb-current">{{ .Title }}</span>
+        </nav>
         
-        <div>
-            {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wide mb-2">{{ . }}</p>{{ end }}
-            <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-2">{{ .Params.productName | default .Title }}</h1>
-            {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-4">{{ . }}</p>{{ end }}
+        <!-- Product Header Section -->
+        <div class="product-header">
             
-            <div class="flex items-center gap-2 mb-6">
-                <div class="flex">
-                    {{ $rating := .Params.rating | default 0 }}
-                    {{ range seq 5 }}
-                    <svg class="w-5 h-5 {{ if le . $rating }}text-primary{{ else }}text-gray-300{{ end }}" fill="currentColor" viewBox="0 0 20 20">
-                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            <!-- Product Image -->
+            <div class="product-image-wrapper">
+                {{ with index .Params.images 0 }}
+                <div class="product-image-container">
+                    <img src="{{ . }}" alt="{{ $.Title }}" class="product-image">
+                </div>
+                {{ else }}
+                <div class="product-image-placeholder">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                     </svg>
-                    {{ end }}
                 </div>
-                <span class="text-gray-500">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
+                {{ end }}
             </div>
             
-            {{ with .Params.shortDescription }}<p class="text-gray-700 mb-6">{{ . }}</p>{{ end }}
-            
-            <!-- PERFUME Notes -->
-            {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
-            <div class="border-t border-gray-200 pt-6">
-                <h2 class="text-lg font-semibold mb-4">{{ if eq $lang "fr" }}Notes olfactives{{ else if eq $lang "de" }}Duftnoten{{ else if eq $lang "es" }}Notas olfativas{{ else }}Fragrance Notes{{ end }}</h2>
-                <div class="grid grid-cols-3 gap-4 text-center text-sm">
-                    {{ with .Params.topNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Tête{{ else if eq $lang "de" }}Kopf{{ else if eq $lang "es" }}Salida{{ else }}Top{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
-                    {{ with .Params.heartNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Cœur{{ else if eq $lang "de" }}Herz{{ else if eq $lang "es" }}Corazón{{ else }}Heart{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
-                    {{ with .Params.baseNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Fond{{ else if eq $lang "de" }}Basis{{ else if eq $lang "es" }}Fondo{{ else }}Base{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
+            <!-- Product Info -->
+            <div class="product-info">
+                
+                {{ with .Params.brand }}
+                <a href="/{{ $lang }}/brands/{{ . | urlize }}/" class="product-brand">{{ . }}</a>
+                {{ end }}
+                
+                <h1 class="product-title">{{ .Params.productName | default .Title }}</h1>
+                
+                {{ with .Params.concentration }}
+                <p class="product-type">{{ . }}</p>
+                {{ end }}
+                
+                <!-- Rating -->
+                <div class="product-rating">
+                    <div class="rating-stars">
+                        {{ $rating := .Params.rating | default 0 }}
+                        {{ range seq 5 }}
+                        <svg class="star {{ if le . $rating }}filled{{ end }}" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        </svg>
+                        {{ end }}
+                    </div>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else }}reviews{{ end }})</span>
                 </div>
-            </div>
-            {{ end }}
-            
-            <!-- PERFUME Characteristics -->
-            <div class="border-t border-gray-200 pt-6 mt-6">
-                <h2 class="text-lg font-semibold mb-4">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
-                <div class="grid grid-cols-2 gap-4 text-sm">
-                    {{ with .Params.concentration }}<div><span class="text-gray-500">Concentration:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.longevity }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.sillage }}<div><span class="text-gray-500">Sillage:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
-                    {{ with .Params.season }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Saison{{ else if eq $lang "de" }}Jahreszeit{{ else if eq $lang "es" }}Temporada{{ else }}Season{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
+                
+                <!-- Fragrance Notes -->
+                {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
+                <div class="fragrance-pyramid">
+                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else }}Fragrance Notes{{ end }}</h3>
+                    <div class="notes-grid">
+                        {{ with .Params.topNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else }}Top Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag top">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.heartNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else }}Heart Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag heart">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.baseNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else }}Base Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag base">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
                 </div>
+                {{ end }}
+                
+                <!-- Perfume Characteristics -->
+                {{ if or .Params.longevity .Params.sillage .Params.season .Params.occasion }}
+                <div class="product-specs">
+                    <h3 class="specs-title">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                        </svg>
+                        {{ if eq $lang "fr" }}Caractéristiques{{ else }}Characteristics{{ end }}
+                    </h3>
+                    <div class="specs-grid">
+                        {{ with .Params.concentration }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else }}Concentration{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.longevity }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else }}Longevity{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.sillage }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Sillage{{ else }}Sillage{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.season }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else }}Season{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.occasion }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else }}Occasion{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+                
             </div>
         </div>
+        
+        <!-- Article Content -->
+        <div class="product-content">
+            <div class="content-wrapper">
+                {{ .Content }}
+            </div>
+        </div>
+        
     </div>
-    
-    <div class="prose prose-lg max-w-none">{{ .Content }}</div>
 </article>
+
+<style>
+.product-page { background: #FAFAFA; min-height: 100vh; }
+.product-container { max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px 4rem; }
+@media (min-width: 1024px) { .product-container { padding: 2rem 100px 5rem; } }
+.breadcrumb { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.85rem; }
+.breadcrumb a { color: #6B7280; text-decoration: none; transition: color 0.2s ease; }
+.breadcrumb a:hover { color: #F8C8DC; }
+.breadcrumb-sep { color: #D1D5DB; }
+.breadcrumb-current { color: #9CA3AF; }
+.product-header { display: grid; grid-template-columns: 1fr; gap: 2rem; background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 2rem; }
+@media (min-width: 768px) { .product-header { grid-template-columns: 1fr 1fr; gap: 3rem; padding: 2.5rem; } }
+@media (min-width: 1024px) { .product-header { gap: 4rem; padding: 3rem; } }
+.product-image-wrapper { display: flex; justify-content: center; align-items: flex-start; }
+.product-image-container { position: relative; width: 100%; max-width: 500px; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; }
+.product-image { width: 100%; height: auto; display: block; transition: transform 0.4s ease; }
+.product-image-container:hover .product-image { transform: scale(1.03); }
+.product-image-placeholder { width: 100%; max-width: 500px; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
+.product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
+.product-info { display: flex; flex-direction: column; }
+.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; text-decoration: none; margin-bottom: 0.75rem; transition: color 0.2s ease; }
+.product-brand:hover { color: #e8a8bc; }
+.product-title { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
+@media (min-width: 768px) { .product-title { font-size: 2.5rem; } }
+.product-type { font-size: 1.1rem; color: #6B7280; margin: 0 0 1rem; }
+.product-rating { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; }
+.rating-stars { display: flex; gap: 0.15rem; }
+.star { width: 20px; height: 20px; color: #E5E7EB; }
+.star.filled { color: #F8C8DC; }
+.rating-count { font-size: 0.9rem; color: #9CA3AF; }
+
+/* Fragrance Pyramid */
+.fragrance-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; margin-bottom: 1.5rem; }
+@media (min-width: 768px) { .fragrance-pyramid { padding: 1.5rem; } }
+.pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; display: flex; align-items: center; gap: 0.5rem; }
+.notes-grid { display: flex; flex-direction: column; gap: 1rem; }
+.note-group { }
+.note-label { display: block; font-size: 0.8rem; font-weight: 500; color: #6B7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
+.note-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.note-tag { display: inline-block; padding: 0.3rem 0.7rem; font-size: 0.8rem; font-weight: 500; border-radius: 20px; }
+.note-tag.top { background: #FEFCE8; color: #A16207; }
+.note-tag.heart { background: #FDF2F8; color: #9D174D; }
+.note-tag.base { background: #F5F5F4; color: #57534E; }
+
+.product-specs { background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%); border: 1px solid #F3F4F6; border-radius: 16px; padding: 1.25rem; margin-top: auto; }
+@media (min-width: 768px) { .product-specs { padding: 1.5rem; } }
+.specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
+.specs-title svg { width: 18px; height: 18px; color: #F8C8DC; }
+.specs-grid { display: flex; flex-direction: column; gap: 0.75rem; }
+.spec-item { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid #E5E7EB; }
+.spec-item:last-child { border-bottom: none; padding-bottom: 0; }
+.spec-label { font-size: 0.9rem; color: #6B7280; }
+.spec-value { font-size: 0.9rem; font-weight: 500; color: #1F2937; }
+
+.product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+@media (min-width: 768px) { .product-content { padding: 3rem 2.5rem; } }
+@media (min-width: 1024px) { .product-content { padding: 3.5rem 4rem; } }
+.content-wrapper { max-width: 800px; margin: 0 auto; }
+.content-wrapper h2 { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 600; color: #1F2937; margin: 2.5rem 0 1rem; padding-bottom: 0.75rem; border-bottom: 2px solid #F8C8DC; }
+.content-wrapper h2:first-child { margin-top: 0; }
+.content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 500; color: #374151; margin: 2rem 0 0.75rem; padding-left: 1rem; border-left: 3px solid #F8C8DC; }
+.content-wrapper p { font-size: 1.05rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
+.content-wrapper ul, .content-wrapper ol { margin: 0 0 1.5rem; padding-left: 1.5rem; }
+.content-wrapper li { font-size: 1.05rem; line-height: 1.8; color: #4B5563; margin-bottom: 0.5rem; }
+.content-wrapper strong { font-weight: 600; color: #1F2937; }
+.content-wrapper a { color: #F8C8DC; text-decoration: underline; text-underline-offset: 2px; }
+.content-wrapper blockquote { margin: 2rem 0; padding: 1.5rem 2rem; background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-left: 4px solid #F8C8DC; border-radius: 0 12px 12px 0; font-style: italic; color: #4B5563; }
+.content-wrapper img { max-width: 100%; height: auto; border-radius: 12px; margin: 1.5rem 0; }
+</style>
 {{ end }}
