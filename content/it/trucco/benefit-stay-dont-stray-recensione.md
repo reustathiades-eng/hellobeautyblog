@@ -12,6 +12,14 @@ images:
   - /images/makeup/benefit-stay-dont-stray-review.jpg
 featured: false
 draft: false
+brand: "Benefit Cosmetics"
+productName: "Stay Don't Stray"
+productType: "Eye Primer"
+rating: 4
+coverage: "Light"
+finish: "Matte"
+longevity: "12+ hours"
+skinType: "All skin types"
 translationKey: "benefit-stay-dont-stray"
 ---
 

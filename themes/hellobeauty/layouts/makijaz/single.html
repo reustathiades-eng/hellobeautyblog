@@ -1,0 +1,539 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<article class="product-page">
+    <div class="product-container">
+        
+        <!-- Breadcrumb -->
+        <nav class="breadcrumb">
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else }}Home{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <a href="/{{ $lang }}/makijaz/">Makijaż</a>
+            <span class="breadcrumb-sep">›</span>
+            <span class="breadcrumb-current">{{ .Title }}</span>
+        </nav>
+        
+        <!-- Product Header Section -->
+        <div class="product-header">
+            
+            <!-- Product Image -->
+            <div class="product-image-wrapper">
+                {{ with index .Params.images 0 }}
+                <div class="product-image-container">
+                    <img src="{{ . }}" alt="{{ $.Title }}" class="product-image">
+                </div>
+                {{ else }}
+                <div class="product-image-placeholder">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                    </svg>
+                </div>
+                {{ end }}
+            </div>
+            
+            <!-- Product Info -->
+            <div class="product-info">
+                
+                <!-- Brand -->
+                {{ with .Params.brand }}
+                <a href="/{{ $lang }}/brands/{{ . | urlize }}/" class="product-brand">{{ . }}</a>
+                {{ end }}
+                
+                <!-- Product Name -->
+                <h1 class="product-title">{{ .Params.productName | default .Title }}</h1>
+                
+                <!-- Product Type -->
+                {{ with .Params.productType }}
+                <p class="product-type">{{ . }}</p>
+                {{ end }}
+                
+                <!-- Rating -->
+                <div class="product-rating">
+                    <div class="rating-stars">
+                        {{ $rating := .Params.rating | default 0 }}
+                        {{ range seq 5 }}
+                        <svg class="star {{ if le . $rating }}filled{{ end }}" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        </svg>
+                        {{ end }}
+                    </div>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
+                </div>
+                
+                <!-- Short Description -->
+                {{ with .Params.shortDescription }}
+                <p class="product-short-desc">{{ . }}</p>
+                {{ end }}
+                
+                <!-- Characteristics Box -->
+                {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
+                <div class="product-specs">
+                    <h3 class="specs-title">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                        </svg>
+                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}
+                    </h3>
+                    <div class="specs-grid">
+                        {{ with .Params.brand }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.coverage }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.finish }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.longevity }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.skinType }}
+                        <div class="spec-item">
+                            <span class="spec-label">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else }}Skin Type{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.spf }}
+                        <div class="spec-item">
+                            <span class="spec-label">SPF</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+                
+            </div>
+        </div>
+        
+        <!-- Article Content -->
+        <div class="product-content">
+            <div class="content-wrapper">
+                {{ .Content }}
+            </div>
+        </div>
+        
+        <!-- Related Products (if any) -->
+        {{ with .Params.relatedProducts }}
+        <div class="related-section">
+            <h2 class="related-title">{{ if eq $lang "fr" }}Produits similaires{{ else if eq $lang "de" }}Ähnliche Produkte{{ else if eq $lang "es" }}Productos similares{{ else }}Related Products{{ end }}</h2>
+            <div class="related-grid">
+                <!-- Related products would go here -->
+            </div>
+        </div>
+        {{ end }}
+        
+    </div>
+</article>
+
+<style>
+/* ==========================================================================
+   PRODUCT PAGE STYLES
+   ========================================================================== */
+
+/* Container */
+.product-page {
+    background: #FAFAFA;
+    min-height: 100vh;
+}
+
+.product-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem 20px 4rem;
+}
+
+@media (min-width: 1024px) {
+    .product-container {
+        padding: 2rem 100px 5rem;
+    }
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.85rem;
+}
+
+.breadcrumb a {
+    color: #6B7280;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.breadcrumb a:hover {
+    color: #F8C8DC;
+}
+
+.breadcrumb-sep {
+    color: #D1D5DB;
+}
+
+.breadcrumb-current {
+    color: #9CA3AF;
+}
+
+/* Product Header */
+.product-header {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    background: white;
+    border-radius: 20px;
+    padding: 1.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+    .product-header {
+        grid-template-columns: 1fr 1fr;
+        gap: 3rem;
+        padding: 2.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .product-header {
+        gap: 4rem;
+        padding: 3rem;
+    }
+}
+
+/* Product Image */
+.product-image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.product-image-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%);
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.product-image-container:hover .product-image {
+    transform: scale(1.03);
+}
+
+.product-image-placeholder {
+    width: 100%;
+    max-width: 500px;
+    aspect-ratio: 1;
+    background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-image-placeholder svg {
+    width: 80px;
+    height: 80px;
+    color: #D1D5DB;
+}
+
+/* Product Info */
+.product-info {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Brand */
+.product-brand {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #F8C8DC;
+    text-decoration: none;
+    margin-bottom: 0.75rem;
+    transition: color 0.2s ease;
+}
+
+.product-brand:hover {
+    color: #e8a8bc;
+}
+
+/* Product Title */
+.product-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1F2937;
+    line-height: 1.2;
+    margin: 0 0 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .product-title {
+        font-size: 2.5rem;
+    }
+}
+
+/* Product Type */
+.product-type {
+    font-size: 1.1rem;
+    color: #6B7280;
+    margin: 0 0 1rem;
+}
+
+/* Rating */
+.product-rating {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}
+
+.rating-stars {
+    display: flex;
+    gap: 0.15rem;
+}
+
+.star {
+    width: 20px;
+    height: 20px;
+    color: #E5E7EB;
+}
+
+.star.filled {
+    color: #F8C8DC;
+}
+
+.rating-count {
+    font-size: 0.9rem;
+    color: #9CA3AF;
+}
+
+/* Short Description */
+.product-short-desc {
+    font-size: 1rem;
+    color: #4B5563;
+    line-height: 1.7;
+    margin: 0 0 1.5rem;
+}
+
+/* Specifications Box */
+.product-specs {
+    background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%);
+    border: 1px solid #F3F4F6;
+    border-radius: 16px;
+    padding: 1.25rem;
+    margin-top: auto;
+}
+
+@media (min-width: 768px) {
+    .product-specs {
+        padding: 1.5rem;
+    }
+}
+
+.specs-title {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Playfair Display', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0 0 1rem;
+}
+
+.specs-title svg {
+    width: 18px;
+    height: 18px;
+    color: #F8C8DC;
+}
+
+.specs-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.spec-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #E5E7EB;
+}
+
+.spec-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.spec-label {
+    font-size: 0.9rem;
+    color: #6B7280;
+}
+
+.spec-value {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #1F2937;
+}
+
+/* Article Content */
+.product-content {
+    background: white;
+    border-radius: 20px;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+@media (min-width: 768px) {
+    .product-content {
+        padding: 3rem 2.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .product-content {
+        padding: 3.5rem 4rem;
+    }
+}
+
+.content-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Typography in Content */
+.content-wrapper h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 2.5rem 0 1rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 2px solid #F8C8DC;
+}
+
+.content-wrapper h2:first-child {
+    margin-top: 0;
+}
+
+.content-wrapper h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.35rem;
+    font-weight: 500;
+    color: #374151;
+    margin: 2rem 0 0.75rem;
+    padding-left: 1rem;
+    border-left: 3px solid #F8C8DC;
+}
+
+.content-wrapper p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #4B5563;
+    margin: 0 0 1.25rem;
+}
+
+.content-wrapper ul,
+.content-wrapper ol {
+    margin: 0 0 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.content-wrapper li {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #4B5563;
+    margin-bottom: 0.5rem;
+}
+
+.content-wrapper strong {
+    font-weight: 600;
+    color: #1F2937;
+}
+
+.content-wrapper a {
+    color: #F8C8DC;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s ease;
+}
+
+.content-wrapper a:hover {
+    color: #e8a8bc;
+}
+
+.content-wrapper blockquote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%);
+    border-left: 4px solid #F8C8DC;
+    border-radius: 0 12px 12px 0;
+    font-style: italic;
+    color: #4B5563;
+}
+
+.content-wrapper img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin: 1.5rem 0;
+}
+
+/* Related Section */
+.related-section {
+    margin-top: 3rem;
+}
+
+.related-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0 0 1.5rem;
+    text-align: center;
+}
+
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+@media (min-width: 768px) {
+    .related-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.5rem;
+    }
+}
+</style>
+{{ end }}

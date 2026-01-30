@@ -13,6 +13,14 @@ images:
   - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
+brand: "Benefit Cosmetics"
+productName: "Chachatint"
+productType: "Lip & Cheek Stain"
+rating: 4
+coverage: "Sheer to Buildable"
+finish: "Natural Stain"
+longevity: "6-8 hours"
+skinType: "All skin types"
 translationKey: "benefit-chachatint"
 ---
 

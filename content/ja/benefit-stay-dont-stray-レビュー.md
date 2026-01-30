@@ -12,6 +12,14 @@ images:
   - /images/makeup/benefit-stay-dont-stray-review.jpg
 featured: false
 draft: false
+brand: "Benefit Cosmetics"
+productName: "Stay Don't Stray"
+productType: "Eye Primer"
+rating: 4
+coverage: "Light"
+finish: "Matte"
+longevity: "12+ hours"
+skinType: "All skin types"
 translationKey: "benefit-stay-dont-stray"
 ---
 
@@ -107,7 +115,7 @@ Benefit Stay Don't Strayは、日常使いからプロの現場まで幅広く�
 
 ソフィア・マルティネスは、12年の経験を持つプロのメイクアップアーティストです。ファッション撮影からブライダルメイクまで、幅広い分野で活躍しています。
 
-*[プロフィール詳細](/ja/about/sofia-martinez/)*��の保管は必要ありません。むしろ冷やしすぎると固くなって使いにくくなります。室温で、直射日光の当たらない場所が最適です。
+*[プロフィール詳細](/ja/about/sofia-martinez/)*の保管は必要ありません。むしろ冷やしすぎると固くなって使いにくくなります。室温で、直射日光の当たらない場所が最適です。
 
 ## このプライマーを選ぶべき人、避けるべき人
 
