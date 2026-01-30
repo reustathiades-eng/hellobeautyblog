@@ -2,13 +2,13 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article class="max-w-6xl mx-auto px-24 lg:px-48 py-12">
+<article style="max-width: 1200px; margin: 0 auto; padding: 3rem 100px;">
     
     <!-- Layout 2 colonnes -->
     <div class="grid grid-cols-1 lg:grid-cols-2 items-start" style="gap: 1.5rem;">
         
         <!-- Image -->
-        <div class="flex justify-center lg:justify-end">
+        <div>
             {{ with index .Params.images 0 }}
             <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 540px; width: 100%">
             {{ else }}
@@ -39,7 +39,7 @@
                 <span class="text-gray-500 text-sm">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
             </div>
             
-            <!-- Characteristics - valeurs à gauche pas à droite -->
+            <!-- Characteristics -->
             {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
             <div class="bg-gray-50 rounded-xl p-5" style="max-width: 320px;">
                 <h2 class="text-base font-semibold mb-3 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
