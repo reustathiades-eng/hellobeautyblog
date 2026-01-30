@@ -10,27 +10,43 @@
   "gender": "men",
   "featured": true,
   "date": "2024-02-20",
-  
   "longevity": {
     "min": 8,
     "max": 10
   },
   "sillage": "strong",
-  
-  "topNotes": ["bergamot", "pepper"],
-  "heartNotes": ["lavender", "pink_pepper", "geranium"],
-  "baseNotes": ["ambroxan", "cedar", "vetiver"],
-  
-  "seasons": ["spring", "fall", "winter"],
-  "occasions": ["casual", "date", "evening"],
-  
+  "topNotes": [
+    "bergamot",
+    "pepper"
+  ],
+  "heartNotes": [
+    "lavender",
+    "pink_pepper",
+    "geranium"
+  ],
+  "baseNotes": [
+    "ambroxan",
+    "cedar",
+    "vetiver"
+  ],
+  "seasons": [
+    "spring",
+    "fall",
+    "winter"
+  ],
+  "occasions": [
+    "casual",
+    "date",
+    "evening"
+  ],
   "images": [
     "/images/perfumes/dior-sauvage-swatch.jpg",
-    "/images/perfumes/dior-sauvage.jpg"
+    "/images/perfumes/dior-sauvage.jpg",
+    "/images/perfumes/dior-sauvage-2.jpg",
+    "/images/perfumes/dior-sauvage-3.jpg",
+    "/images/perfumes/dior-sauvage-4.jpg"
   ],
-  
   "keyMessage": "Raw masculinity refined - a fresh, rugged fragrance that became a modern classic and the world's best-selling men's fragrance",
-  
   "titles": {
     "en": "Dior Sauvage Review: The Scent That Conquered the World",
     "fr": "Dior Sauvage : Le Parfum Qui a Conquis le Monde",
@@ -47,7 +63,6 @@
     "ar": "مراجعة Dior Sauvage: العطر الذي غزا العالم",
     "hi": "Dior Sauvage रिव्यू: दुनिया पर राज करने वाली खुशबू"
   },
-  
   "descriptions": {
     "en": "Complete review of Dior Sauvage EDT, the world's best-selling men's fragrance. Discover why this fresh aromatic powerhouse has become the signature scent of modern masculinity.",
     "fr": "Test complet de Dior Sauvage EDT, le parfum masculin le plus vendu au monde. Découvrez pourquoi cette fragrance aromatique fraîche est devenue la signature de la masculinité moderne.",
@@ -64,38 +79,218 @@
     "ar": "مراجعة شاملة لعطر Dior Sauvage EDT، أكثر العطور الرجالية مبيعاً في العالم. اكتشف لماذا أصبح هذا العطر العطري المنعش رمز الرجولة العصرية.",
     "hi": "Dior Sauvage EDT की गहन समीक्षा, दुनिया का सबसे ज्यादा बिकने वाला पुरुष परफ्यूम। जानें कि यह ताज़ा एरोमैटिक खुशबू आधुनिक पुरुषत्व का प्रतीक क्यों बन गई है।"
   },
-  
   "tags": {
-    "en": ["dior", "aromatic", "fresh", "men perfume", "bestseller", "fougere"],
-    "fr": ["dior", "aromatique", "frais", "parfum homme", "bestseller", "fougère"],
-    "de": ["dior", "aromatisch", "frisch", "herrenparfum", "bestseller", "fougère"],
-    "es": ["dior", "aromático", "fresco", "perfume hombre", "bestseller", "fougère"],
-    "it": ["dior", "aromatico", "fresco", "profumo uomo", "bestseller", "fougère"],
-    "pt": ["dior", "aromático", "fresco", "perfume masculino", "bestseller", "fougère"],
-    "nl": ["dior", "aromatisch", "fris", "herenparfum", "bestseller", "fougère"],
-    "pl": ["dior", "aromatyczny", "świeży", "perfumy męskie", "bestseller", "fougère"],
-    "tr": ["dior", "aromatik", "taze", "erkek parfümü", "bestseller", "fougère"],
-    "ja": ["ディオール", "アロマティック", "フレッシュ", "メンズ香水", "ベストセラー", "フゼア"],
-    "ko": ["디올", "아로마틱", "프레시", "남성 향수", "베스트셀러", "푸제르"],
-    "zh": ["迪奥", "芳香", "清新", "男士香水", "畅销", "馥奇香"],
-    "ar": ["ديور", "عطري", "منعش", "عطر رجالي", "الأكثر مبيعاً", "فوجير"],
-    "hi": ["dior", "एरोमैटिक", "फ्रेश", "पुरुष परफ्यूम", "बेस्टसेलर", "फूजेर"]
+    "en": [
+      "dior",
+      "aromatic",
+      "fresh",
+      "men perfume",
+      "bestseller",
+      "fougere"
+    ],
+    "fr": [
+      "dior",
+      "aromatique",
+      "frais",
+      "parfum homme",
+      "bestseller",
+      "fougère"
+    ],
+    "de": [
+      "dior",
+      "aromatisch",
+      "frisch",
+      "herrenparfum",
+      "bestseller",
+      "fougère"
+    ],
+    "es": [
+      "dior",
+      "aromático",
+      "fresco",
+      "perfume hombre",
+      "bestseller",
+      "fougère"
+    ],
+    "it": [
+      "dior",
+      "aromatico",
+      "fresco",
+      "profumo uomo",
+      "bestseller",
+      "fougère"
+    ],
+    "pt": [
+      "dior",
+      "aromático",
+      "fresco",
+      "perfume masculino",
+      "bestseller",
+      "fougère"
+    ],
+    "nl": [
+      "dior",
+      "aromatisch",
+      "fris",
+      "herenparfum",
+      "bestseller",
+      "fougère"
+    ],
+    "pl": [
+      "dior",
+      "aromatyczny",
+      "świeży",
+      "perfumy męskie",
+      "bestseller",
+      "fougère"
+    ],
+    "tr": [
+      "dior",
+      "aromatik",
+      "taze",
+      "erkek parfümü",
+      "bestseller",
+      "fougère"
+    ],
+    "ja": [
+      "ディオール",
+      "アロマティック",
+      "フレッシュ",
+      "メンズ香水",
+      "ベストセラー",
+      "フゼア"
+    ],
+    "ko": [
+      "디올",
+      "아로마틱",
+      "프레시",
+      "남성 향수",
+      "베스트셀러",
+      "푸제르"
+    ],
+    "zh": [
+      "迪奥",
+      "芳香",
+      "清新",
+      "男士香水",
+      "畅销",
+      "馥奇香"
+    ],
+    "ar": [
+      "ديور",
+      "عطري",
+      "منعش",
+      "عطر رجالي",
+      "الأكثر مبيعاً",
+      "فوجير"
+    ],
+    "hi": [
+      "dior",
+      "एरोमैटिक",
+      "फ्रेश",
+      "पुरुष परफ्यूम",
+      "बेस्टसेलर",
+      "फूजेर"
+    ]
   },
-  
   "keywords": {
-    "en": ["dior sauvage review", "dior sauvage edt", "sauvage perfume", "best men fragrance", "johnny depp perfume"],
-    "fr": ["dior sauvage avis", "dior sauvage edt", "sauvage parfum", "meilleur parfum homme", "parfum johnny depp"],
-    "de": ["dior sauvage test", "dior sauvage edt", "sauvage parfum", "bester herrenduft", "johnny depp parfum"],
-    "es": ["dior sauvage opiniones", "dior sauvage edt", "sauvage perfume", "mejor perfume hombre", "perfume johnny depp"],
-    "it": ["dior sauvage recensione", "dior sauvage edt", "sauvage profumo", "miglior profumo uomo", "profumo johnny depp"],
-    "pt": ["dior sauvage resenha", "dior sauvage edt", "sauvage perfume", "melhor perfume masculino", "perfume johnny depp"],
-    "nl": ["dior sauvage review", "dior sauvage edt", "sauvage parfum", "beste herenparfum", "johnny depp parfum"],
-    "pl": ["dior sauvage opinie", "dior sauvage edt", "sauvage perfumy", "najlepsze perfumy męskie", "perfumy johnny depp"],
-    "tr": ["dior sauvage yorum", "dior sauvage edt", "sauvage parfüm", "en iyi erkek parfümü", "johnny depp parfüm"],
-    "ja": ["dior sauvage レビュー", "dior sauvage edt", "sauvage 香水", "おすすめメンズ香水", "ジョニーデップ 香水"],
-    "ko": ["dior sauvage 리뷰", "dior sauvage edt", "sauvage 향수", "추천 남성 향수", "조니뎁 향수"],
-    "zh": ["dior sauvage 评测", "dior sauvage edt", "sauvage 香水", "最佳男士香水", "约翰尼德普香水"],
-    "ar": ["dior sauvage مراجعة", "dior sauvage edt", "sauvage عطر", "أفضل عطر رجالي", "عطر جوني ديب"],
-    "hi": ["dior sauvage review", "dior sauvage edt", "sauvage परफ्यूम", "बेस्ट मेन्स परफ्यूम", "जॉनी डेप परफ्यूम"]
+    "en": [
+      "dior sauvage review",
+      "dior sauvage edt",
+      "sauvage perfume",
+      "best men fragrance",
+      "johnny depp perfume"
+    ],
+    "fr": [
+      "dior sauvage avis",
+      "dior sauvage edt",
+      "sauvage parfum",
+      "meilleur parfum homme",
+      "parfum johnny depp"
+    ],
+    "de": [
+      "dior sauvage test",
+      "dior sauvage edt",
+      "sauvage parfum",
+      "bester herrenduft",
+      "johnny depp parfum"
+    ],
+    "es": [
+      "dior sauvage opiniones",
+      "dior sauvage edt",
+      "sauvage perfume",
+      "mejor perfume hombre",
+      "perfume johnny depp"
+    ],
+    "it": [
+      "dior sauvage recensione",
+      "dior sauvage edt",
+      "sauvage profumo",
+      "miglior profumo uomo",
+      "profumo johnny depp"
+    ],
+    "pt": [
+      "dior sauvage resenha",
+      "dior sauvage edt",
+      "sauvage perfume",
+      "melhor perfume masculino",
+      "perfume johnny depp"
+    ],
+    "nl": [
+      "dior sauvage review",
+      "dior sauvage edt",
+      "sauvage parfum",
+      "beste herenparfum",
+      "johnny depp parfum"
+    ],
+    "pl": [
+      "dior sauvage opinie",
+      "dior sauvage edt",
+      "sauvage perfumy",
+      "najlepsze perfumy męskie",
+      "perfumy johnny depp"
+    ],
+    "tr": [
+      "dior sauvage yorum",
+      "dior sauvage edt",
+      "sauvage parfüm",
+      "en iyi erkek parfümü",
+      "johnny depp parfüm"
+    ],
+    "ja": [
+      "dior sauvage レビュー",
+      "dior sauvage edt",
+      "sauvage 香水",
+      "おすすめメンズ香水",
+      "ジョニーデップ 香水"
+    ],
+    "ko": [
+      "dior sauvage 리뷰",
+      "dior sauvage edt",
+      "sauvage 향수",
+      "추천 남성 향수",
+      "조니뎁 향수"
+    ],
+    "zh": [
+      "dior sauvage 评测",
+      "dior sauvage edt",
+      "sauvage 香水",
+      "最佳男士香水",
+      "约翰尼德普香水"
+    ],
+    "ar": [
+      "dior sauvage مراجعة",
+      "dior sauvage edt",
+      "sauvage عطر",
+      "أفضل عطر رجالي",
+      "عطر جوني ديب"
+    ],
+    "hi": [
+      "dior sauvage review",
+      "dior sauvage edt",
+      "sauvage परफ्यूम",
+      "बेस्ट मेन्स परफ्यूम",
+      "जॉनी डेप परफ्यूम"
+    ]
   }
 }
