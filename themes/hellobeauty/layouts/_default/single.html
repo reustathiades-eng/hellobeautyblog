@@ -8,7 +8,9 @@
         
         <!-- Breadcrumb -->
         <nav class="breadcrumb">
-            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else }}Home{{ end }}</a>
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else if eq $lang "it" }}Home{{ else if eq $lang "pt" }}Início{{ else if eq $lang "nl" }}Home{{ else if eq $lang "pl" }}Strona główna{{ else if eq $lang "tr" }}Ana Sayfa{{ else }}Home{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <a href="/{{ $lang }}/makeup/">{{ if eq $lang "fr" }}Maquillage{{ else if eq $lang "de" }}Make-up{{ else if eq $lang "es" }}Maquillaje{{ else if eq $lang "ja" }}メイク{{ else if eq $lang "ko" }}메이크업{{ else if eq $lang "zh" }}彩妆{{ else if eq $lang "ar" }}مكياج{{ else if eq $lang "hi" }}मेकअप{{ else if eq $lang "it" }}Trucco{{ else if eq $lang "pt" }}Maquiagem{{ else if eq $lang "nl" }}Make-up{{ else if eq $lang "pl" }}Makijaż{{ else if eq $lang "tr" }}Makyaj{{ else }}Makeup{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
             <span class="breadcrumb-current">{{ .Title }}</span>
         </nav>
@@ -34,12 +36,15 @@
             <!-- Product Info -->
             <div class="product-info">
                 
+                <!-- Brand -->
                 {{ with .Params.brand }}
-                <span class="product-brand">{{ . }}</span>
+                <a href="/{{ $lang }}/brands/{{ . | urlize }}/" class="product-brand">{{ . }}</a>
                 {{ end }}
                 
+                <!-- Product Name -->
                 <h1 class="product-title">{{ .Params.productName | default .Title }}</h1>
                 
+                <!-- Product Type -->
                 {{ with .Params.productType }}
                 <p class="product-type">{{ . }}</p>
                 {{ end }}
@@ -54,50 +59,57 @@
                         </svg>
                         {{ end }}
                     </div>
-                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else if eq $lang "ja" }}レビュー{{ else if eq $lang "ko" }}리뷰{{ else if eq $lang "zh" }}评价{{ else if eq $lang "ar" }}تقييم{{ else if eq $lang "hi" }}समीक्षाएं{{ else }}reviews{{ end }})</span>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else if eq $lang "ja" }}レビュー{{ else if eq $lang "ko" }}리뷰{{ else if eq $lang "zh" }}评价{{ else if eq $lang "ar" }}تقييم{{ else if eq $lang "hi" }}समीक्षाएं{{ else if eq $lang "it" }}recensioni{{ else if eq $lang "pt" }}avaliações{{ else if eq $lang "nl" }}beoordelingen{{ else if eq $lang "pl" }}opinii{{ else if eq $lang "tr" }}yorum{{ else }}reviews{{ end }})</span>
                 </div>
                 
+                <!-- Short Description -->
                 {{ with .Params.shortDescription }}
                 <p class="product-short-desc">{{ . }}</p>
                 {{ end }}
                 
-                <!-- Characteristics Box (détection automatique) -->
-                {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.hairType .Params.topNotes }}
+                <!-- Characteristics Box -->
+                {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
                 <div class="product-specs">
                     <h3 class="specs-title">
                         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
                         </svg>
-                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else if eq $lang "ja" }}特徴{{ else if eq $lang "ko" }}특징{{ else if eq $lang "zh" }}特点{{ else if eq $lang "ar" }}المواصفات{{ else if eq $lang "hi" }}विशेषताएं{{ else if eq $lang "it" }}Caratteristiche{{ else if eq $lang "pt" }}Características{{ else if eq $lang "pl" }}Cechy{{ else if eq $lang "tr" }}Özellikler{{ else if eq $lang "nl" }}Kenmerken{{ else }}Characteristics{{ end }}
+                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else if eq $lang "ja" }}特徴{{ else if eq $lang "ko" }}특징{{ else if eq $lang "zh" }}特点{{ else if eq $lang "ar" }}المواصفات{{ else if eq $lang "hi" }}विशेषताएं{{ else if eq $lang "it" }}Caratteristiche{{ else if eq $lang "pt" }}Características{{ else if eq $lang "nl" }}Kenmerken{{ else if eq $lang "pl" }}Cechy{{ else if eq $lang "tr" }}Özellikler{{ else }}Characteristics{{ end }}
                     </h3>
                     <div class="specs-grid">
                         {{ with .Params.brand }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else if eq $lang "ja" }}ブランド{{ else if eq $lang "ko" }}브랜드{{ else if eq $lang "zh" }}品牌{{ else }}Brand{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else if eq $lang "ja" }}ブランド{{ else if eq $lang "ko" }}브랜드{{ else if eq $lang "zh" }}品牌{{ else if eq $lang "ar" }}الماركة{{ else if eq $lang "hi" }}ब्रांड{{ else if eq $lang "it" }}Marca{{ else if eq $lang "pt" }}Marca{{ else if eq $lang "nl" }}Merk{{ else if eq $lang "pl" }}Marka{{ else if eq $lang "tr" }}Marka{{ else }}Brand{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.coverage }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else if eq $lang "ja" }}カバー力{{ else if eq $lang "ko" }}커버력{{ else if eq $lang "zh" }}遮瑕度{{ else }}Coverage{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else if eq $lang "ja" }}カバー力{{ else if eq $lang "ko" }}커버력{{ else if eq $lang "zh" }}遮瑕度{{ else if eq $lang "ar" }}التغطية{{ else if eq $lang "hi" }}कवरेज{{ else if eq $lang "it" }}Coprenza{{ else if eq $lang "pt" }}Cobertura{{ else if eq $lang "nl" }}Dekking{{ else if eq $lang "pl" }}Krycie{{ else if eq $lang "tr" }}Kapatıcılık{{ else }}Coverage{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.finish }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else if eq $lang "ja" }}仕上がり{{ else if eq $lang "ko" }}마무리{{ else if eq $lang "zh" }}妆效{{ else }}Finish{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else if eq $lang "ja" }}仕上がり{{ else if eq $lang "ko" }}마무리{{ else if eq $lang "zh" }}妆效{{ else if eq $lang "ar" }}اللمسة النهائية{{ else if eq $lang "hi" }}फिनिश{{ else if eq $lang "it" }}Finish{{ else if eq $lang "pt" }}Acabamento{{ else if eq $lang "nl" }}Finish{{ else if eq $lang "pl" }}Wykończenie{{ else if eq $lang "tr" }}Bitiş{{ else }}Finish{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.longevity }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else if eq $lang "ja" }}持続力{{ else if eq $lang "ko" }}지속력{{ else if eq $lang "zh" }}持久度{{ else }}Longevity{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else if eq $lang "ja" }}持続力{{ else if eq $lang "ko" }}지속력{{ else if eq $lang "zh" }}持久度{{ else if eq $lang "ar" }}الثبات{{ else if eq $lang "hi" }}स्थायित्व{{ else if eq $lang "it" }}Durata{{ else if eq $lang "pt" }}Duração{{ else if eq $lang "nl" }}Houdbaarheid{{ else if eq $lang "pl" }}Trwałość{{ else if eq $lang "tr" }}Kalıcılık{{ else }}Longevity{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.skinType }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else if eq $lang "ja" }}肌タイプ{{ else if eq $lang "ko" }}피부 타입{{ else if eq $lang "zh" }}肤质{{ else }}Skin Type{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else if eq $lang "ja" }}肌タイプ{{ else if eq $lang "ko" }}피부 타입{{ else if eq $lang "zh" }}肤质{{ else if eq $lang "ar" }}نوع البشرة{{ else if eq $lang "hi" }}त्वचा का प्रकार{{ else if eq $lang "it" }}Tipo di pelle{{ else if eq $lang "pt" }}Tipo de pele{{ else if eq $lang "nl" }}Huidtype{{ else if eq $lang "pl" }}Typ skóry{{ else if eq $lang "tr" }}Cilt Tipi{{ else }}Skin Type{{ end }}</span>
+                            <span class="spec-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.spf }}
+                        <div class="spec-item">
+                            <span class="spec-label">SPF</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
@@ -137,7 +149,8 @@
 .product-image-placeholder { width: 100%; max-width: 500px; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
 .product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
 .product-info { display: flex; flex-direction: column; }
-.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; margin-bottom: 0.75rem; }
+.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; text-decoration: none; margin-bottom: 0.75rem; transition: color 0.2s ease; }
+.product-brand:hover { color: #e8a8bc; }
 .product-title { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
 @media (min-width: 768px) { .product-title { font-size: 2.5rem; } }
 .product-type { font-size: 1.1rem; color: #6B7280; margin: 0 0 1rem; }
@@ -167,7 +180,8 @@
 .content-wrapper ul, .content-wrapper ol { margin: 0 0 1.5rem; padding-left: 1.5rem; }
 .content-wrapper li { font-size: 1.05rem; line-height: 1.8; color: #4B5563; margin-bottom: 0.5rem; }
 .content-wrapper strong { font-weight: 600; color: #1F2937; }
-.content-wrapper a { color: #F8C8DC; text-decoration: underline; text-underline-offset: 2px; }
+.content-wrapper a { color: #F8C8DC; text-decoration: underline; text-underline-offset: 2px; transition: color 0.2s ease; }
+.content-wrapper a:hover { color: #e8a8bc; }
 .content-wrapper blockquote { margin: 2rem 0; padding: 1.5rem 2rem; background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-left: 4px solid #F8C8DC; border-radius: 0 12px 12px 0; font-style: italic; color: #4B5563; }
 .content-wrapper img { max-width: 100%; height: auto; border-radius: 12px; margin: 1.5rem 0; }
 </style>

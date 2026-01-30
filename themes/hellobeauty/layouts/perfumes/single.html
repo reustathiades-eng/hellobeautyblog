@@ -8,9 +8,9 @@
         
         <!-- Breadcrumb -->
         <nav class="breadcrumb">
-            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else }}Home{{ end }}</a>
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else if eq $lang "it" }}Home{{ else if eq $lang "pt" }}Início{{ else if eq $lang "nl" }}Home{{ else if eq $lang "pl" }}Strona główna{{ else if eq $lang "tr" }}Ana Sayfa{{ else }}Home{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
-            <a href="/{{ $lang }}/perfumes/">{{ if eq $lang "fr" }}Parfums{{ else }}Perfumes{{ end }}</a>
+            <a href="/{{ $lang }}/perfumes/">{{ if eq $lang "fr" }}Parfums{{ else if eq $lang "de" }}Parfüm{{ else if eq $lang "es" }}Perfumes{{ else if eq $lang "ja" }}香水{{ else if eq $lang "ko" }}향수{{ else if eq $lang "zh" }}香水{{ else if eq $lang "ar" }}العطور{{ else if eq $lang "hi" }}इत्र{{ else if eq $lang "it" }}Profumi{{ else if eq $lang "pt" }}Perfumes{{ else if eq $lang "nl" }}Parfum{{ else if eq $lang "pl" }}Perfumy{{ else if eq $lang "tr" }}Parfüm{{ else }}Perfumes{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
             <span class="breadcrumb-current">{{ .Title }}</span>
         </nav>
@@ -56,17 +56,17 @@
                         </svg>
                         {{ end }}
                     </div>
-                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else }}reviews{{ end }})</span>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else if eq $lang "ja" }}レビュー{{ else if eq $lang "ko" }}리뷰{{ else if eq $lang "zh" }}评价{{ else if eq $lang "ar" }}تقييم{{ else if eq $lang "hi" }}समीक्षाएं{{ else if eq $lang "it" }}recensioni{{ else if eq $lang "pt" }}avaliações{{ else if eq $lang "nl" }}beoordelingen{{ else if eq $lang "pl" }}opinii{{ else if eq $lang "tr" }}yorum{{ else }}reviews{{ end }})</span>
                 </div>
                 
                 <!-- Fragrance Notes -->
                 {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
                 <div class="fragrance-pyramid">
-                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else }}Fragrance Notes{{ end }}</h3>
+                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else if eq $lang "de" }}Duftpyramide{{ else if eq $lang "es" }}Pirámide Olfativa{{ else if eq $lang "ja" }}香りのピラミッド{{ else if eq $lang "ko" }}향 피라미드{{ else if eq $lang "zh" }}香调金字塔{{ else if eq $lang "ar" }}هرم العطر{{ else if eq $lang "hi" }}सुगंध पिरामिड{{ else if eq $lang "it" }}Piramide Olfattiva{{ else if eq $lang "pt" }}Pirâmide Olfativa{{ else if eq $lang "nl" }}Geurpiramide{{ else if eq $lang "pl" }}Piramida zapachowa{{ else if eq $lang "tr" }}Koku Piramidi{{ else }}Fragrance Notes{{ end }}</h3>
                     <div class="notes-grid">
                         {{ with .Params.topNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else }}Top Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else if eq $lang "de" }}Kopfnote{{ else if eq $lang "es" }}Notas de salida{{ else if eq $lang "ja" }}トップノート{{ else if eq $lang "ko" }}탑 노트{{ else if eq $lang "zh" }}前调{{ else if eq $lang "ar" }}النوتات العليا{{ else if eq $lang "hi" }}टॉप नोट्स{{ else if eq $lang "it" }}Note di testa{{ else if eq $lang "pt" }}Notas de topo{{ else if eq $lang "nl" }}Topnoten{{ else if eq $lang "pl" }}Nuty głowy{{ else if eq $lang "tr" }}Üst Notalar{{ else }}Top Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag top">{{ . }}</span>{{ end }}
                             </div>
@@ -74,7 +74,7 @@
                         {{ end }}
                         {{ with .Params.heartNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else }}Heart Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else if eq $lang "de" }}Herznote{{ else if eq $lang "es" }}Notas de corazón{{ else if eq $lang "ja" }}ミドルノート{{ else if eq $lang "ko" }}미들 노트{{ else if eq $lang "zh" }}中调{{ else if eq $lang "ar" }}النوتات الوسطى{{ else if eq $lang "hi" }}हार्ट नोट्स{{ else if eq $lang "it" }}Note di cuore{{ else if eq $lang "pt" }}Notas de coração{{ else if eq $lang "nl" }}Hartnoten{{ else if eq $lang "pl" }}Nuty serca{{ else if eq $lang "tr" }}Kalp Notaları{{ else }}Heart Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag heart">{{ . }}</span>{{ end }}
                             </div>
@@ -82,7 +82,7 @@
                         {{ end }}
                         {{ with .Params.baseNotes }}
                         <div class="note-group">
-                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else }}Base Notes{{ end }}</span>
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else if eq $lang "de" }}Basisnote{{ else if eq $lang "es" }}Notas de fondo{{ else if eq $lang "ja" }}ベースノート{{ else if eq $lang "ko" }}베이스 노트{{ else if eq $lang "zh" }}基调{{ else if eq $lang "ar" }}النوتات الأساسية{{ else if eq $lang "hi" }}बेस नोट्स{{ else if eq $lang "it" }}Note di fondo{{ else if eq $lang "pt" }}Notas de fundo{{ else if eq $lang "nl" }}Basisnoten{{ else if eq $lang "pl" }}Nuty bazy{{ else if eq $lang "tr" }}Alt Notalar{{ else }}Base Notes{{ end }}</span>
                             <div class="note-tags">
                                 {{ range . }}<span class="note-tag base">{{ . }}</span>{{ end }}
                             </div>
@@ -99,36 +99,36 @@
                         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
                         </svg>
-                        {{ if eq $lang "fr" }}Caractéristiques{{ else }}Characteristics{{ end }}
+                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else if eq $lang "ja" }}特徴{{ else if eq $lang "ko" }}특징{{ else if eq $lang "zh" }}特点{{ else if eq $lang "ar" }}المواصفات{{ else if eq $lang "hi" }}विशेषताएं{{ else if eq $lang "it" }}Caratteristiche{{ else if eq $lang "pt" }}Características{{ else if eq $lang "nl" }}Kenmerken{{ else if eq $lang "pl" }}Cechy{{ else if eq $lang "tr" }}Özellikler{{ else }}Characteristics{{ end }}
                     </h3>
                     <div class="specs-grid">
                         {{ with .Params.concentration }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else }}Concentration{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else if eq $lang "de" }}Konzentration{{ else if eq $lang "es" }}Concentración{{ else if eq $lang "ja" }}濃度{{ else if eq $lang "ko" }}농도{{ else if eq $lang "zh" }}浓度{{ else if eq $lang "ar" }}التركيز{{ else if eq $lang "hi" }}सांद्रता{{ else if eq $lang "it" }}Concentrazione{{ else if eq $lang "pt" }}Concentração{{ else if eq $lang "nl" }}Concentratie{{ else if eq $lang "pl" }}Stężenie{{ else if eq $lang "tr" }}Konsantrasyon{{ else }}Concentration{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.longevity }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else }}Longevity{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else if eq $lang "ja" }}持続力{{ else if eq $lang "ko" }}지속력{{ else if eq $lang "zh" }}持久度{{ else if eq $lang "ar" }}الثبات{{ else if eq $lang "hi" }}स्थायित्व{{ else if eq $lang "it" }}Durata{{ else if eq $lang "pt" }}Duração{{ else if eq $lang "nl" }}Houdbaarheid{{ else if eq $lang "pl" }}Trwałość{{ else if eq $lang "tr" }}Kalıcılık{{ else }}Longevity{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.sillage }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Sillage{{ else }}Sillage{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Sillage{{ else if eq $lang "de" }}Sillage{{ else if eq $lang "es" }}Estela{{ else if eq $lang "ja" }}シャージュ{{ else if eq $lang "ko" }}시야쥬{{ else if eq $lang "zh" }}留香{{ else if eq $lang "ar" }}الانتشار{{ else if eq $lang "hi" }}सिलाज{{ else if eq $lang "it" }}Sillage{{ else if eq $lang "pt" }}Sillage{{ else if eq $lang "nl" }}Sillage{{ else if eq $lang "pl" }}Sillage{{ else if eq $lang "tr" }}Sillage{{ else }}Sillage{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.season }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else }}Season{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else if eq $lang "de" }}Jahreszeit{{ else if eq $lang "es" }}Temporada{{ else if eq $lang "ja" }}季節{{ else if eq $lang "ko" }}계절{{ else if eq $lang "zh" }}季节{{ else if eq $lang "ar" }}الموسم{{ else if eq $lang "hi" }}मौसम{{ else if eq $lang "it" }}Stagione{{ else if eq $lang "pt" }}Estação{{ else if eq $lang "nl" }}Seizoen{{ else if eq $lang "pl" }}Pora roku{{ else if eq $lang "tr" }}Mevsim{{ else }}Season{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.occasion }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else }}Occasion{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else if eq $lang "de" }}Anlass{{ else if eq $lang "es" }}Ocasión{{ else if eq $lang "ja" }}シーン{{ else if eq $lang "ko" }}상황{{ else if eq $lang "zh" }}场合{{ else if eq $lang "ar" }}المناسبة{{ else if eq $lang "hi" }}अवसर{{ else if eq $lang "it" }}Occasione{{ else if eq $lang "pt" }}Ocasião{{ else if eq $lang "nl" }}Gelegenheid{{ else if eq $lang "pl" }}Okazja{{ else if eq $lang "tr" }}Durum{{ else }}Occasion{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
@@ -178,11 +178,9 @@
 .star { width: 20px; height: 20px; color: #E5E7EB; }
 .star.filled { color: #F8C8DC; }
 .rating-count { font-size: 0.9rem; color: #9CA3AF; }
-
-/* Fragrance Pyramid */
 .fragrance-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; margin-bottom: 1.5rem; }
 @media (min-width: 768px) { .fragrance-pyramid { padding: 1.5rem; } }
-.pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; display: flex; align-items: center; gap: 0.5rem; }
+.pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
 .notes-grid { display: flex; flex-direction: column; gap: 1rem; }
 .note-group { }
 .note-label { display: block; font-size: 0.8rem; font-weight: 500; color: #6B7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
@@ -191,7 +189,6 @@
 .note-tag.top { background: #FEFCE8; color: #A16207; }
 .note-tag.heart { background: #FDF2F8; color: #9D174D; }
 .note-tag.base { background: #F5F5F4; color: #57534E; }
-
 .product-specs { background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%); border: 1px solid #F3F4F6; border-radius: 16px; padding: 1.25rem; margin-top: auto; }
 @media (min-width: 768px) { .product-specs { padding: 1.5rem; } }
 .specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
@@ -201,7 +198,6 @@
 .spec-item:last-child { border-bottom: none; padding-bottom: 0; }
 .spec-label { font-size: 0.9rem; color: #6B7280; }
 .spec-value { font-size: 0.9rem; font-weight: 500; color: #1F2937; }
-
 .product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
 @media (min-width: 768px) { .product-content { padding: 3rem 2.5rem; } }
 @media (min-width: 1024px) { .product-content { padding: 3.5rem 4rem; } }

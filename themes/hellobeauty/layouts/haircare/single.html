@@ -8,9 +8,9 @@
         
         <!-- Breadcrumb -->
         <nav class="breadcrumb">
-            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else }}Home{{ end }}</a>
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else if eq $lang "it" }}Home{{ else if eq $lang "pt" }}Início{{ else if eq $lang "nl" }}Home{{ else if eq $lang "pl" }}Strona główna{{ else if eq $lang "tr" }}Ana Sayfa{{ else }}Home{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
-            <a href="/{{ $lang }}/haircare/">{{ if eq $lang "fr" }}Cheveux{{ else }}Haircare{{ end }}</a>
+            <a href="/{{ $lang }}/haircare/">{{ if eq $lang "fr" }}Cheveux{{ else if eq $lang "de" }}Haarpflege{{ else if eq $lang "es" }}Cuidado del cabello{{ else if eq $lang "ja" }}ヘアケア{{ else if eq $lang "ko" }}헤어케어{{ else if eq $lang "zh" }}护发{{ else if eq $lang "ar" }}العناية بالشعر{{ else if eq $lang "hi" }}बालों की देखभाल{{ else if eq $lang "it" }}Capelli{{ else if eq $lang "pt" }}Cabelo{{ else if eq $lang "nl" }}Haarverzorging{{ else if eq $lang "pl" }}Pielęgnacja włosów{{ else if eq $lang "tr" }}Saç Bakımı{{ else }}Haircare{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
             <span class="breadcrumb-current">{{ .Title }}</span>
         </nav>
@@ -56,7 +56,7 @@
                         </svg>
                         {{ end }}
                     </div>
-                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else }}reviews{{ end }})</span>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else if eq $lang "ja" }}レビュー{{ else if eq $lang "ko" }}리뷰{{ else if eq $lang "zh" }}评价{{ else if eq $lang "ar" }}تقييم{{ else if eq $lang "hi" }}समीक्षाएं{{ else if eq $lang "it" }}recensioni{{ else if eq $lang "pt" }}avaliações{{ else if eq $lang "nl" }}beoordelingen{{ else if eq $lang "pl" }}opinii{{ else if eq $lang "tr" }}yorum{{ else }}reviews{{ end }})</span>
                 </div>
                 
                 <!-- Haircare Characteristics -->
@@ -66,37 +66,37 @@
                         <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
                         </svg>
-                        {{ if eq $lang "fr" }}Caractéristiques{{ else }}Characteristics{{ end }}
+                        {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else if eq $lang "ja" }}特徴{{ else if eq $lang "ko" }}특징{{ else if eq $lang "zh" }}特点{{ else if eq $lang "ar" }}المواصفات{{ else if eq $lang "hi" }}विशेषताएं{{ else if eq $lang "it" }}Caratteristiche{{ else if eq $lang "pt" }}Características{{ else if eq $lang "nl" }}Kenmerken{{ else if eq $lang "pl" }}Cechy{{ else if eq $lang "tr" }}Özellikler{{ else }}Characteristics{{ end }}
                     </h3>
                     <div class="specs-grid">
                         {{ with .Params.hairType }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Type de cheveux{{ else }}Hair Type{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Type de cheveux{{ else if eq $lang "de" }}Haartyp{{ else if eq $lang "es" }}Tipo de cabello{{ else if eq $lang "ja" }}髪質{{ else if eq $lang "ko" }}모발 타입{{ else if eq $lang "zh" }}发质{{ else if eq $lang "ar" }}نوع الشعر{{ else if eq $lang "hi" }}बालों का प्रकार{{ else if eq $lang "it" }}Tipo di capelli{{ else if eq $lang "pt" }}Tipo de cabelo{{ else if eq $lang "nl" }}Haartype{{ else if eq $lang "pl" }}Typ włosów{{ else if eq $lang "tr" }}Saç Tipi{{ else }}Hair Type{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.hairConcern }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Préoccupation{{ else }}Hair Concern{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Préoccupation{{ else if eq $lang "de" }}Haarproblem{{ else if eq $lang "es" }}Preocupación{{ else if eq $lang "ja" }}髪の悩み{{ else if eq $lang "ko" }}모발 고민{{ else if eq $lang "zh" }}头发问题{{ else if eq $lang "ar" }}مشكلة الشعر{{ else if eq $lang "hi" }}बालों की समस्या{{ else if eq $lang "it" }}Problema{{ else if eq $lang "pt" }}Preocupação{{ else if eq $lang "nl" }}Haarprobleem{{ else if eq $lang "pl" }}Problem{{ else if eq $lang "tr" }}Saç Sorunu{{ else }}Hair Concern{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.texture }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Texture{{ else }}Texture{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Texture{{ else if eq $lang "de" }}Textur{{ else if eq $lang "es" }}Textura{{ else if eq $lang "ja" }}テクスチャー{{ else if eq $lang "ko" }}텍스처{{ else if eq $lang "zh" }}质地{{ else if eq $lang "ar" }}القوام{{ else if eq $lang "hi" }}बनावट{{ else if eq $lang "it" }}Texture{{ else if eq $lang "pt" }}Textura{{ else if eq $lang "nl" }}Textuur{{ else if eq $lang "pl" }}Tekstura{{ else if eq $lang "tr" }}Doku{{ else }}Texture{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                         {{ with .Params.frequency }}
                         <div class="spec-item">
-                            <span class="spec-label">{{ if eq $lang "fr" }}Fréquence{{ else }}Frequency{{ end }}</span>
+                            <span class="spec-label">{{ if eq $lang "fr" }}Fréquence{{ else if eq $lang "de" }}Häufigkeit{{ else if eq $lang "es" }}Frecuencia{{ else if eq $lang "ja" }}使用頻度{{ else if eq $lang "ko" }}사용 빈도{{ else if eq $lang "zh" }}使用频率{{ else if eq $lang "ar" }}معدل الاستخدام{{ else if eq $lang "hi" }}उपयोग आवृत्ति{{ else if eq $lang "it" }}Frequenza{{ else if eq $lang "pt" }}Frequência{{ else if eq $lang "nl" }}Frequentie{{ else if eq $lang "pl" }}Częstotliwość{{ else if eq $lang "tr" }}Sıklık{{ else }}Frequency{{ end }}</span>
                             <span class="spec-value">{{ . }}</span>
                         </div>
                         {{ end }}
                     </div>
                     {{ with .Params.keyIngredients }}
                     <div class="key-ingredients">
-                        <span class="ingredients-label">{{ if eq $lang "fr" }}Ingrédients clés{{ else }}Key Ingredients{{ end }}</span>
+                        <span class="ingredients-label">{{ if eq $lang "fr" }}Ingrédients clés{{ else if eq $lang "de" }}Hauptinhaltsstoffe{{ else if eq $lang "es" }}Ingredientes clave{{ else if eq $lang "ja" }}主要成分{{ else if eq $lang "ko" }}주요 성분{{ else if eq $lang "zh" }}主要成分{{ else if eq $lang "ar" }}المكونات الرئيسية{{ else if eq $lang "hi" }}मुख्य सामग्री{{ else if eq $lang "it" }}Ingredienti chiave{{ else if eq $lang "pt" }}Ingredientes-chave{{ else if eq $lang "nl" }}Belangrijkste ingrediënten{{ else if eq $lang "pl" }}Kluczowe składniki{{ else if eq $lang "tr" }}Ana Bileşenler{{ else }}Key Ingredients{{ end }}</span>
                         <div class="ingredients-tags">
                             {{ range . }}<span class="ingredient-tag">{{ . }}</span>{{ end }}
                         </div>
