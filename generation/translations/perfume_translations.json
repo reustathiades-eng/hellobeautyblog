@@ -1,0 +1,452 @@
+{
+  "languages": {
+    "en": {
+      "name": "English",
+      "categories": ["Perfumes"],
+      "gender": {
+        "women": "Women",
+        "men": "Men",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "hours",
+        "sillage": {
+          "soft": "Soft",
+          "moderate": "Moderate",
+          "strong": "Strong",
+          "enormous": "Enormous"
+        }
+      },
+      "seasons": {
+        "spring": "Spring",
+        "summer": "Summer",
+        "fall": "Fall",
+        "winter": "Winter"
+      },
+      "occasions": {
+        "office": "Office",
+        "casual": "Casual",
+        "date": "Date Night",
+        "evening": "Evening",
+        "special": "Special Occasions",
+        "formal": "Formal"
+      }
+    },
+    "fr": {
+      "name": "French",
+      "categories": ["Parfums"],
+      "gender": {
+        "women": "Femme",
+        "men": "Homme",
+        "unisex": "Unisexe"
+      },
+      "characteristics": {
+        "longevity_unit": "heures",
+        "sillage": {
+          "soft": "Léger",
+          "moderate": "Modéré",
+          "strong": "Fort",
+          "enormous": "Énorme"
+        }
+      },
+      "seasons": {
+        "spring": "Printemps",
+        "summer": "Été",
+        "fall": "Automne",
+        "winter": "Hiver"
+      },
+      "occasions": {
+        "office": "Bureau",
+        "casual": "Casual",
+        "date": "Rendez-vous",
+        "evening": "Soirée",
+        "special": "Occasions Spéciales",
+        "formal": "Formel"
+      }
+    },
+    "de": {
+      "name": "German",
+      "categories": ["Parfums"],
+      "gender": {
+        "women": "Damen",
+        "men": "Herren",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "Stunden",
+        "sillage": {
+          "soft": "Leicht",
+          "moderate": "Moderat",
+          "strong": "Stark",
+          "enormous": "Enorm"
+        }
+      },
+      "seasons": {
+        "spring": "Frühling",
+        "summer": "Sommer",
+        "fall": "Herbst",
+        "winter": "Winter"
+      },
+      "occasions": {
+        "office": "Büro",
+        "casual": "Casual",
+        "date": "Date Night",
+        "evening": "Abend",
+        "special": "Besondere Anlässe",
+        "formal": "Formell"
+      }
+    },
+    "es": {
+      "name": "Spanish",
+      "categories": ["Perfumes"],
+      "gender": {
+        "women": "Mujer",
+        "men": "Hombre",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "horas",
+        "sillage": {
+          "soft": "Suave",
+          "moderate": "Moderado",
+          "strong": "Fuerte",
+          "enormous": "Enorme"
+        }
+      },
+      "seasons": {
+        "spring": "Primavera",
+        "summer": "Verano",
+        "fall": "Otoño",
+        "winter": "Invierno"
+      },
+      "occasions": {
+        "office": "Oficina",
+        "casual": "Casual",
+        "date": "Cita",
+        "evening": "Noche",
+        "special": "Ocasiones Especiales",
+        "formal": "Formal"
+      }
+    },
+    "it": {
+      "name": "Italian",
+      "categories": ["Profumi"],
+      "gender": {
+        "women": "Donna",
+        "men": "Uomo",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "ore",
+        "sillage": {
+          "soft": "Leggero",
+          "moderate": "Moderato",
+          "strong": "Forte",
+          "enormous": "Enorme"
+        }
+      },
+      "seasons": {
+        "spring": "Primavera",
+        "summer": "Estate",
+        "fall": "Autunno",
+        "winter": "Inverno"
+      },
+      "occasions": {
+        "office": "Ufficio",
+        "casual": "Casual",
+        "date": "Appuntamento",
+        "evening": "Sera",
+        "special": "Occasioni Speciali",
+        "formal": "Formale"
+      }
+    },
+    "pt": {
+      "name": "Portuguese",
+      "categories": ["Perfumes"],
+      "gender": {
+        "women": "Feminino",
+        "men": "Masculino",
+        "unisex": "Unissex"
+      },
+      "characteristics": {
+        "longevity_unit": "horas",
+        "sillage": {
+          "soft": "Suave",
+          "moderate": "Moderado",
+          "strong": "Forte",
+          "enormous": "Enorme"
+        }
+      },
+      "seasons": {
+        "spring": "Primavera",
+        "summer": "Verão",
+        "fall": "Outono",
+        "winter": "Inverno"
+      },
+      "occasions": {
+        "office": "Escritório",
+        "casual": "Casual",
+        "date": "Encontro",
+        "evening": "Noite",
+        "special": "Ocasiões Especiais",
+        "formal": "Formal"
+      }
+    },
+    "nl": {
+      "name": "Dutch",
+      "categories": ["Parfums"],
+      "gender": {
+        "women": "Dames",
+        "men": "Heren",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "uur",
+        "sillage": {
+          "soft": "Zacht",
+          "moderate": "Gemiddeld",
+          "strong": "Sterk",
+          "enormous": "Enorm"
+        }
+      },
+      "seasons": {
+        "spring": "Lente",
+        "summer": "Zomer",
+        "fall": "Herfst",
+        "winter": "Winter"
+      },
+      "occasions": {
+        "office": "Kantoor",
+        "casual": "Casual",
+        "date": "Date",
+        "evening": "Avond",
+        "special": "Speciale Gelegenheden",
+        "formal": "Formeel"
+      }
+    },
+    "pl": {
+      "name": "Polish",
+      "categories": ["Perfumy"],
+      "gender": {
+        "women": "Damskie",
+        "men": "Męskie",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "godzin",
+        "sillage": {
+          "soft": "Delikatny",
+          "moderate": "Umiarkowany",
+          "strong": "Silny",
+          "enormous": "Ogromny"
+        }
+      },
+      "seasons": {
+        "spring": "Wiosna",
+        "summer": "Lato",
+        "fall": "Jesień",
+        "winter": "Zima"
+      },
+      "occasions": {
+        "office": "Biuro",
+        "casual": "Na co dzień",
+        "date": "Randka",
+        "evening": "Wieczór",
+        "special": "Specjalne Okazje",
+        "formal": "Formalny"
+      }
+    },
+    "tr": {
+      "name": "Turkish",
+      "categories": ["Parfümler"],
+      "gender": {
+        "women": "Kadın",
+        "men": "Erkek",
+        "unisex": "Unisex"
+      },
+      "characteristics": {
+        "longevity_unit": "saat",
+        "sillage": {
+          "soft": "Hafif",
+          "moderate": "Orta",
+          "strong": "Güçlü",
+          "enormous": "Çok Güçlü"
+        }
+      },
+      "seasons": {
+        "spring": "İlkbahar",
+        "summer": "Yaz",
+        "fall": "Sonbahar",
+        "winter": "Kış"
+      },
+      "occasions": {
+        "office": "Ofis",
+        "casual": "Günlük",
+        "date": "Randevu",
+        "evening": "Akşam",
+        "special": "Özel Günler",
+        "formal": "Resmi"
+      }
+    },
+    "ja": {
+      "name": "Japanese",
+      "categories": ["香水"],
+      "gender": {
+        "women": "レディース",
+        "men": "メンズ",
+        "unisex": "ユニセックス"
+      },
+      "characteristics": {
+        "longevity_unit": "時間",
+        "sillage": {
+          "soft": "ソフト",
+          "moderate": "ミディアム",
+          "strong": "ストロング",
+          "enormous": "非常に強い"
+        }
+      },
+      "seasons": {
+        "spring": "春",
+        "summer": "夏",
+        "fall": "秋",
+        "winter": "冬"
+      },
+      "occasions": {
+        "office": "オフィス",
+        "casual": "カジュアル",
+        "date": "デート",
+        "evening": "夜",
+        "special": "特別な日",
+        "formal": "フォーマル"
+      }
+    },
+    "ko": {
+      "name": "Korean",
+      "categories": ["향수"],
+      "gender": {
+        "women": "여성",
+        "men": "남성",
+        "unisex": "유니섹스"
+      },
+      "characteristics": {
+        "longevity_unit": "시간",
+        "sillage": {
+          "soft": "약함",
+          "moderate": "중간",
+          "strong": "강함",
+          "enormous": "매우 강함"
+        }
+      },
+      "seasons": {
+        "spring": "봄",
+        "summer": "여름",
+        "fall": "가을",
+        "winter": "겨울"
+      },
+      "occasions": {
+        "office": "오피스",
+        "casual": "캐주얼",
+        "date": "데이트",
+        "evening": "저녁",
+        "special": "특별한 날",
+        "formal": "포멀"
+      }
+    },
+    "zh": {
+      "name": "Chinese",
+      "categories": ["香水"],
+      "gender": {
+        "women": "女士",
+        "men": "男士",
+        "unisex": "中性"
+      },
+      "characteristics": {
+        "longevity_unit": "小时",
+        "sillage": {
+          "soft": "轻柔",
+          "moderate": "中等",
+          "strong": "浓郁",
+          "enormous": "非常浓郁"
+        }
+      },
+      "seasons": {
+        "spring": "春季",
+        "summer": "夏季",
+        "fall": "秋季",
+        "winter": "冬季"
+      },
+      "occasions": {
+        "office": "办公室",
+        "casual": "日常",
+        "date": "约会",
+        "evening": "晚间",
+        "special": "特殊场合",
+        "formal": "正式场合"
+      }
+    },
+    "ar": {
+      "name": "Arabic",
+      "categories": ["العطور"],
+      "gender": {
+        "women": "نسائي",
+        "men": "رجالي",
+        "unisex": "للجنسين"
+      },
+      "characteristics": {
+        "longevity_unit": "ساعات",
+        "sillage": {
+          "soft": "خفيف",
+          "moderate": "متوسط",
+          "strong": "قوي",
+          "enormous": "قوي جداً"
+        }
+      },
+      "seasons": {
+        "spring": "الربيع",
+        "summer": "الصيف",
+        "fall": "الخريف",
+        "winter": "الشتاء"
+      },
+      "occasions": {
+        "office": "المكتب",
+        "casual": "يومي",
+        "date": "موعد",
+        "evening": "مسائي",
+        "special": "مناسبات خاصة",
+        "formal": "رسمي"
+      }
+    },
+    "hi": {
+      "name": "Hindi",
+      "categories": ["परफ्यूम"],
+      "gender": {
+        "women": "महिला",
+        "men": "पुरुष",
+        "unisex": "यूनिसेक्स"
+      },
+      "characteristics": {
+        "longevity_unit": "घंटे",
+        "sillage": {
+          "soft": "हल्का",
+          "moderate": "मध्यम",
+          "strong": "तेज़",
+          "enormous": "बहुत तेज़"
+        }
+      },
+      "seasons": {
+        "spring": "वसंत",
+        "summer": "गर्मी",
+        "fall": "पतझड़",
+        "winter": "सर्दी"
+      },
+      "occasions": {
+        "office": "ऑफिस",
+        "casual": "कैजुअल",
+        "date": "डेट",
+        "evening": "शाम",
+        "special": "विशेष अवसर",
+        "formal": "फॉर्मल"
+      }
+    }
+  }
+}

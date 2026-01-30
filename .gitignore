@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+generation.log
+
+# Temp files
+*.tmp
+.gitignore_local
+
+# Old scripts (replaced by generation system)
+generate_perfumes.sh
+
+# Hugo build
+public/
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db

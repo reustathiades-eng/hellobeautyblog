@@ -1,0 +1,103 @@
+{
+  "brand": "Chanel",
+  "productName": "N°5",
+  "concentration": "Eau de Parfum",
+  "price": "135 €",
+  "rating": 5,
+  "launchYear": 1921,
+  "perfumer": "Ernest Beaux",
+  "family": "Floral Aldehydic",
+  "gender": "women",
+  "featured": true,
+  "date": "2024-01-10",
+  
+  "longevity": {
+    "min": 8,
+    "max": 12
+  },
+  "sillage": "strong",
+  
+  "topNotes": ["aldehydes", "neroli", "ylang_ylang", "bergamot"],
+  "heartNotes": ["rose", "jasmine", "lily_of_the_valley", "iris"],
+  "baseNotes": ["sandalwood", "vetiver", "vanilla", "amber", "musk"],
+  
+  "seasons": ["fall", "winter", "spring"],
+  "occasions": ["evening", "special", "formal"],
+  
+  "images": [
+    "/images/perfumes/chanel-no5-swatch.jpg",
+    "/images/perfumes/chanel-no5.jpg",
+    "/images/perfumes/chanel-no5-2.jpg",
+    "/images/perfumes/chanel-no5-3.jpg"
+  ],
+  
+  "keyMessage": "The world's most iconic fragrance - a timeless masterpiece that defined modern perfumery",
+  
+  "titles": {
+    "en": "Chanel N°5 Review: The Fragrance That Defined a Century",
+    "fr": "Chanel N°5 : Le Parfum Qui a Défini un Siècle",
+    "de": "Chanel N°5 Test: Der Duft der ein Jahrhundert Prägte",
+    "es": "Chanel N°5 Reseña: La Fragancia Que Definió un Siglo",
+    "it": "Chanel N°5 Recensione: La Fragranza Che Ha Definito un Secolo",
+    "pt": "Chanel N°5 Resenha: A Fragrância Que Definiu um Século",
+    "nl": "Chanel N°5 Review: De Geur Die een Eeuw Definieerde",
+    "pl": "Chanel N°5 Recenzja: Zapach Który Zdefiniował Stulecie",
+    "tr": "Chanel N°5 İncelemesi: Bir Yüzyılı Tanımlayan Koku",
+    "ja": "Chanel N°5 レビュー：一世紀を定義した香り",
+    "ko": "Chanel N°5 리뷰: 한 세기를 정의한 향수",
+    "zh": "Chanel N°5 评测：定义一个世纪的香水",
+    "ar": "مراجعة Chanel N°5: العطر الذي عرّف قرناً من الزمان",
+    "hi": "Chanel N°5 रिव्यू: एक सदी को परिभाषित करने वाली खुशबू"
+  },
+  
+  "descriptions": {
+    "en": "In-depth review of Chanel N°5 Eau de Parfum, the world's most iconic fragrance. Discover why this 1921 masterpiece remains the ultimate reference in luxury perfumery.",
+    "fr": "Test approfondi de Chanel N°5 Eau de Parfum, la fragrance la plus iconique au monde. Découvrez pourquoi ce chef-d'œuvre de 1921 reste la référence absolue de la parfumerie de luxe.",
+    "de": "Ausführlicher Test von Chanel N°5 Eau de Parfum, dem ikonischsten Duft der Welt. Entdecken Sie, warum dieses Meisterwerk von 1921 die ultimative Referenz in der Luxusparfümerie bleibt.",
+    "es": "Reseña completa de Chanel N°5 Eau de Parfum, la fragancia más icónica del mundo. Descubre por qué esta obra maestra de 1921 sigue siendo la referencia definitiva en perfumería de lujo.",
+    "it": "Recensione approfondita di Chanel N°5 Eau de Parfum, la fragranza più iconica al mondo. Scopri perché questo capolavoro del 1921 rimane il riferimento assoluto nella profumeria di lusso.",
+    "pt": "Resenha completa de Chanel N°5 Eau de Parfum, a fragrância mais icônica do mundo. Descubra por que esta obra-prima de 1921 continua sendo a referência definitiva em perfumaria de luxo.",
+    "nl": "Uitgebreide review van Chanel N°5 Eau de Parfum, 's werelds meest iconische geur. Ontdek waarom dit meesterwerk uit 1921 de ultieme referentie blijft in luxe parfumerie.",
+    "pl": "Szczegółowa recenzja Chanel N°5 Eau de Parfum, najbardziej kultowego zapachu na świecie. Odkryj, dlaczego to arcydzieło z 1921 roku pozostaje absolutnym wzorcem w luksusowej perfumerii.",
+    "tr": "Dünyanın en ikonik kokusu Chanel N°5 Eau de Parfum detaylı incelemesi. 1921'deki bu şaheserin neden lüks parfümeride hâlâ en üst referans olduğunu keşfedin.",
+    "ja": "世界で最もアイコニックな香り、Chanel N°5 オードパルファムの詳細レビュー。1921年のこの傑作が、なぜ今なおラグジュアリーパフューマリーの究極の基準であり続けるのかをご紹介。",
+    "ko": "세계에서 가장 상징적인 향수 Chanel N°5 오드퍼퓸 상세 리뷰. 1921년의 이 걸작이 왜 여전히 럭셔리 퍼퓸의 궁극적인 기준으로 남아있는지 알아보세요.",
+    "zh": "Chanel N°5 香水深度评测，世界上最具标志性的香水。了解为何这款1921年的杰作至今仍是奢华香水的终极参考。",
+    "ar": "مراجعة شاملة لعطر Chanel N°5 أو دو بارفان، أكثر العطور أيقونية في العالم. اكتشفي لماذا تظل هذه التحفة من عام 1921 المرجع الأعلى في صناعة العطور الفاخرة.",
+    "hi": "Chanel N°5 Eau de Parfum की गहन समीक्षा, दुनिया की सबसे प्रतिष्ठित खुशबू। जानें कि 1921 की यह उत्कृष्ट कृति लक्जरी परफ्यूमरी में क्यों अभी भी सर्वोच्च संदर्भ बनी हुई है।"
+  },
+  
+  "tags": {
+    "en": ["chanel", "classic fragrance", "floral", "aldehydic", "luxury perfume", "iconic"],
+    "fr": ["chanel", "parfum classique", "floral", "aldéhydé", "parfum luxe", "iconique"],
+    "de": ["chanel", "klassischer duft", "blumig", "aldehydig", "luxusparfum", "ikonisch"],
+    "es": ["chanel", "fragancia clásica", "floral", "aldehídico", "perfume lujo", "icónico"],
+    "it": ["chanel", "fragranza classica", "floreale", "aldeidico", "profumo lusso", "iconico"],
+    "pt": ["chanel", "fragrância clássica", "floral", "aldeídico", "perfume luxo", "icônico"],
+    "nl": ["chanel", "klassieke geur", "bloemig", "aldehydisch", "luxeparfum", "iconisch"],
+    "pl": ["chanel", "klasyczny zapach", "kwiatowy", "aldehydowy", "perfumy luksusowe", "ikoniczny"],
+    "tr": ["chanel", "klasik koku", "çiçeksi", "aldehitli", "lüks parfüm", "ikonik"],
+    "ja": ["シャネル", "クラシック香水", "フローラル", "アルデヒド", "ラグジュアリー香水", "アイコニック"],
+    "ko": ["샤넬", "클래식 향수", "플로럴", "알데히드", "럭셔리 향수", "아이코닉"],
+    "zh": ["香奈儿", "经典香水", "花香", "醛香", "奢华香水", "标志性"],
+    "ar": ["شانيل", "عطر كلاسيكي", "زهري", "ألدهيدي", "عطر فاخر", "أيقوني"],
+    "hi": ["chanel", "क्लासिक परफ्यूम", "फ्लोरल", "एल्डिहाइडिक", "लक्जरी परफ्यूम", "आइकॉनिक"]
+  },
+  
+  "keywords": {
+    "en": ["chanel no 5 review", "chanel number 5", "chanel n5 perfume", "classic fragrance", "iconic perfume"],
+    "fr": ["chanel n°5 avis", "chanel numéro 5", "chanel n5 parfum", "parfum classique", "fragrance iconique"],
+    "de": ["chanel no 5 test", "chanel nummer 5", "chanel n5 parfum", "klassischer duft", "ikonisches parfum"],
+    "es": ["chanel n°5 opiniones", "chanel número 5", "chanel n5 perfume", "fragancia clásica", "perfume icónico"],
+    "it": ["chanel n°5 recensione", "chanel numero 5", "chanel n5 profumo", "fragranza classica", "profumo iconico"],
+    "pt": ["chanel n°5 resenha", "chanel número 5", "chanel n5 perfume", "fragrância clássica", "perfume icônico"],
+    "nl": ["chanel no 5 review", "chanel nummer 5", "chanel n5 parfum", "klassieke geur", "iconisch parfum"],
+    "pl": ["chanel n°5 opinie", "chanel numer 5", "chanel n5 perfumy", "klasyczny zapach", "kultowe perfumy"],
+    "tr": ["chanel no 5 yorum", "chanel numara 5", "chanel n5 parfüm", "klasik koku", "ikonik parfüm"],
+    "ja": ["chanel no 5 レビュー", "シャネル ナンバー5", "chanel n5 香水", "クラシック香水", "アイコニック香水"],
+    "ko": ["chanel no 5 리뷰", "샤넬 넘버5", "chanel n5 향수", "클래식 향수", "아이코닉 향수"],
+    "zh": ["chanel n°5 评测", "香奈儿5号", "chanel n5 香水", "经典香水", "标志性香水"],
+    "ar": ["chanel n°5 مراجعة", "شانيل رقم 5", "chanel n5 عطر", "عطر كلاسيكي", "عطر أيقوني"],
+    "hi": ["chanel n°5 review", "chanel number 5", "chanel n5 परफ्यूम", "क्लासिक परफ्यूम", "आइकॉनिक परफ्यूम"]
+  }
+}

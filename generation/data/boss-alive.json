@@ -1,0 +1,101 @@
+{
+  "brand": "Hugo Boss",
+  "productName": "Boss Alive",
+  "concentration": "Eau de Parfum",
+  "price": "89 €",
+  "rating": 4.5,
+  "launchYear": 2020,
+  "perfumer": "Annick Ménardo",
+  "family": "Floral Woody",
+  "gender": "women",
+  "featured": true,
+  "date": "2024-03-15",
+  
+  "longevity": {
+    "min": 6,
+    "max": 8
+  },
+  "sillage": "moderate",
+  
+  "topNotes": ["apple", "plum", "blackcurrant"],
+  "heartNotes": ["jasmine_sambac", "thyme", "olive_blossom"],
+  "baseNotes": ["sandalwood", "cedar", "vanilla"],
+  
+  "seasons": ["spring", "summer", "fall"],
+  "occasions": ["office", "casual", "date"],
+  
+  "images": [
+    "/images/perfumes/boss-alive-swatch.jpg",
+    "/images/perfumes/boss-alive.jpg"
+  ],
+  
+  "keyMessage": "A fragrance celebrating the authentic, active modern woman who values substance over superficiality",
+  
+  "titles": {
+    "en": "Boss Alive Review: A Modern Ode to the Authentic Woman",
+    "fr": "Boss Alive : Une Ode Moderne à la Femme Authentique",
+    "de": "Boss Alive Test: Eine Moderne Hommage an die Authentische Frau",
+    "es": "Boss Alive Reseña: Un Homenaje Moderno a la Mujer Auténtica",
+    "it": "Boss Alive Recensione: Un Omaggio Moderno alla Donna Autentica",
+    "pt": "Boss Alive Resenha: Uma Fragrância que Celebra a Mulher Autêntica",
+    "nl": "Boss Alive Review: Een Moderne Ode aan de Authentieke Vrouw",
+    "pl": "Boss Alive Recenzja: Nowoczesny Hołd dla Autentycznej Kobiety",
+    "tr": "Boss Alive İncelemesi: Otantik Kadının Modern Odu",
+    "ja": "Boss Alive レビュー：本物の女性へのモダンなオマージュ",
+    "ko": "Boss Alive 리뷰: 진정한 여성을 위한 현대적 오마주",
+    "zh": "Boss Alive 评测：致敬真实女性的现代颂歌",
+    "ar": "مراجعة Boss Alive: عطر عصري يحتفي بالمرأة الأصيلة",
+    "hi": "Boss Alive रिव्यू: प्रामाणिक महिला के लिए एक आधुनिक श्रद्धांजलि"
+  },
+  
+  "descriptions": {
+    "en": "In-depth review of Hugo Boss Boss Alive EDP. Discover why this floral woody fragrance has become the signature of modern professional women.",
+    "fr": "Test complet du parfum Hugo Boss Alive EDP. Découvrez pourquoi ce parfum floral boisé est devenu la signature des femmes modernes.",
+    "de": "Ausführlicher Test des Hugo Boss Boss Alive EDP. Entdecken Sie, warum dieses blumig-holzige Parfum zur Signatur moderner Frauen geworden ist.",
+    "es": "Reseña completa del perfume Hugo Boss Boss Alive EDP. Descubre por qué esta fragancia floral amaderada se ha convertido en la firma de mujeres modernas.",
+    "it": "Recensione completa del profumo Hugo Boss Boss Alive EDP. Scopri perché questa fragranza floreale legnosa è diventata la firma delle donne moderne.",
+    "pt": "Resenha completa do perfume Hugo Boss Boss Alive EDP. Descubra por que este floral amadeirado se tornou a assinatura de mulheres modernas.",
+    "nl": "Uitgebreide review van Hugo Boss Boss Alive EDP. Ontdek waarom dit bloemig-houtachtige parfum de signature is van moderne vrouwen.",
+    "pl": "Szczegółowa recenzja perfum Hugo Boss Boss Alive EDP. Odkryj, dlaczego ten kwiatowo-drzewny zapach stał się sygnaturą nowoczesnych kobiet.",
+    "tr": "Hugo Boss Boss Alive EDP detaylı incelemesi. Bu çiçeksi odunsu parfümün neden modern kadınların favorisi olduğunu keşfedin.",
+    "ja": "Hugo Boss Boss Alive EDPの詳細レビュー。このフローラルウッディの香りが現代女性のシグネチャーとなった理由をご紹介。",
+    "ko": "Hugo Boss Boss Alive EDP 상세 리뷰. 이 플로럴 우디 향수가 현대 여성의 시그니처가 된 이유를 알아보세요.",
+    "zh": "Hugo Boss Boss Alive EDP 深度评测。了解这款花香木质香水为何成为现代女性的标志性香氛。",
+    "ar": "مراجعة شاملة لعطر Hugo Boss Boss Alive EDP. اكتشفي لماذا أصبح هذا العطر الزهري الخشبي توقيع المرأة العصرية.",
+    "hi": "Hugo Boss Boss Alive EDP की विस्तृत समीक्षा। जानें कि यह फ्लोरल वुडी परफ्यूम आधुनिक महिलाओं का पसंदीदा क्यों बन गया है।"
+  },
+  
+  "tags": {
+    "en": ["hugo boss", "floral", "woody", "office perfume", "women perfume"],
+    "fr": ["hugo boss", "floral", "boisé", "parfum bureau", "parfum femme"],
+    "de": ["hugo boss", "blumig", "holzig", "büroparfum", "damenparfum"],
+    "es": ["hugo boss", "floral", "amaderado", "perfume oficina", "perfume mujer"],
+    "it": ["hugo boss", "floreale", "legnoso", "profumo ufficio", "profumo donna"],
+    "pt": ["hugo boss", "floral", "amadeirado", "perfume escritório", "perfume feminino"],
+    "nl": ["hugo boss", "bloemig", "houtachtig", "kantoorparfum", "damesparfum"],
+    "pl": ["hugo boss", "kwiatowy", "drzewny", "perfumy do biura", "perfumy damskie"],
+    "tr": ["hugo boss", "çiçeksi", "odunsu", "ofis parfümü", "kadın parfümü"],
+    "ja": ["ヒューゴボス", "フローラル", "ウッディ", "オフィス香水", "レディース香水"],
+    "ko": ["휴고보스", "플로럴", "우디", "오피스 향수", "여성 향수"],
+    "zh": ["hugo boss", "花香", "木质", "办公室香水", "女士香水"],
+    "ar": ["هوغو بوس", "زهري", "خشبي", "عطر مكتب", "عطر نسائي"],
+    "hi": ["hugo boss", "फ्लोरल", "वुडी", "ऑफिस परफ्यूम", "महिला परफ्यूम"]
+  },
+  
+  "keywords": {
+    "en": ["boss alive review", "hugo boss alive", "boss alive perfume", "floral woody fragrance"],
+    "fr": ["boss alive avis", "hugo boss alive", "boss alive parfum", "parfum floral boisé"],
+    "de": ["boss alive test", "hugo boss alive", "boss alive parfum", "blumig holziger duft"],
+    "es": ["boss alive opiniones", "hugo boss alive", "boss alive perfume", "fragancia floral amaderada"],
+    "it": ["boss alive recensione", "hugo boss alive", "boss alive profumo", "fragranza floreale legnosa"],
+    "pt": ["boss alive resenha", "hugo boss alive", "boss alive perfume", "fragrância floral amadeirada"],
+    "nl": ["boss alive review", "hugo boss alive", "boss alive parfum", "bloemig houtachtig parfum"],
+    "pl": ["boss alive opinie", "hugo boss alive", "boss alive perfumy", "kwiatowo drzewne perfumy"],
+    "tr": ["boss alive yorum", "hugo boss alive", "boss alive parfüm", "çiçeksi odunsu parfüm"],
+    "ja": ["boss alive レビュー", "hugo boss alive", "boss alive 香水", "フローラルウッディ"],
+    "ko": ["boss alive 리뷰", "hugo boss alive", "boss alive 향수", "플로럴 우디 향수"],
+    "zh": ["boss alive 评测", "hugo boss alive", "boss alive 香水", "花香木质香水"],
+    "ar": ["boss alive مراجعة", "hugo boss alive", "boss alive عطر", "عطر زهري خشبي"],
+    "hi": ["boss alive review", "hugo boss alive", "boss alive परफ्यूम", "फ्लोरल वुडी परफ्यूम"]
+  }
+}

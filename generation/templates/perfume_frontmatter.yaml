@@ -1,0 +1,73 @@
+# TEMPLATE FRONT MATTER PARFUM - HelloBeautyBlog
+# Ce fichier définit la structure EXACTE du front matter YAML
+# NE PAS MODIFIER LES NOMS DE CHAMPS
+
+# ============================================
+# MÉTADONNÉES DE BASE
+# ============================================
+title: ""                    # Titre de l'article (traduit)
+slug: ""                     # URL slug (identique pour toutes les langues)
+description: ""              # Meta description SEO (150-160 caractères, traduit)
+date: ""                     # Date de publication (YYYY-MM-DD)
+lastmod: ""                  # Dernière modification (YYYY-MM-DD)
+author: "Emma Collins"       # Auteur (toujours Emma Collins)
+authorSlug: "emma-collins"   # Slug auteur
+categories: []               # Catégories (traduit selon langue)
+tags: []                     # Tags (traduit)
+keywords: []                 # Mots-clés SEO (traduit)
+
+# ============================================
+# MÉDIAS
+# ============================================
+images:                      # Liste des images (YAML list format)
+  - ""                       # Image principale (swatch)
+  - ""                       # Image secondaire
+
+# ============================================
+# STATUT
+# ============================================
+featured: false              # Mis en avant sur homepage
+draft: false                 # Brouillon (false = publié)
+
+# ============================================
+# INFORMATIONS PRODUIT
+# ============================================
+brand: ""                    # Marque (non traduit)
+productName: ""              # Nom du produit (non traduit)
+concentration: ""            # Concentration (Eau de Parfum, Eau de Toilette, etc.)
+gender: ""                   # Genre (traduit: Women/Femme/Damen/etc.)
+price: ""                    # Prix avec devise (ex: "89 €")
+rating: 0                    # Note sur 5 (nombre décimal: 4.5)
+
+# ============================================
+# NOTES OLFACTIVES (YAML list format obligatoire)
+# ============================================
+topNotes:                    # Notes de tête
+  - ""
+  - ""
+  - ""
+heartNotes:                  # Notes de cœur
+  - ""
+  - ""
+  - ""
+baseNotes:                   # Notes de fond
+  - ""
+  - ""
+  - ""
+
+# ============================================
+# CARACTÉRISTIQUES (YAML list format obligatoire)
+# ============================================
+longevity: ""                # Durée (ex: "6-8 hours", "6-8 heures")
+sillage: ""                  # Sillage (traduit: Moderate/Modéré/etc.)
+season:                      # Saisons recommandées (liste)
+  - ""
+  - ""
+occasion:                    # Occasions (liste)
+  - ""
+  - ""
+
+# ============================================
+# LIAISON MULTILINGUE
+# ============================================
+translationKey: ""           # Clé unique (identique pour toutes les langues)

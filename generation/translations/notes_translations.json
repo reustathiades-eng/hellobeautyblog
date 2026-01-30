@@ -1,0 +1,104 @@
+{
+  "notes": {
+    "apple": {
+      "en": "Apple", "fr": "Pomme", "de": "Apfel", "es": "Manzana", "it": "Mela",
+      "pt": "Maçã", "nl": "Appel", "pl": "Jabłko", "tr": "Elma",
+      "ja": "アップル", "ko": "사과", "zh": "苹果", "ar": "التفاح", "hi": "सेब"
+    },
+    "plum": {
+      "en": "Plum", "fr": "Prune", "de": "Pflaume", "es": "Ciruela", "it": "Prugna",
+      "pt": "Ameixa", "nl": "Pruim", "pl": "Śliwka", "tr": "Erik",
+      "ja": "プラム", "ko": "자두", "zh": "李子", "ar": "البرقوق", "hi": "आलूबुखारा"
+    },
+    "blackcurrant": {
+      "en": "Blackcurrant", "fr": "Cassis", "de": "Schwarze Johannisbeere", "es": "Grosella Negra", "it": "Ribes Nero",
+      "pt": "Groselha Negra", "nl": "Zwarte Bes", "pl": "Czarna Porzeczka", "tr": "Siyah Frenk Üzümü",
+      "ja": "ブラックカラント", "ko": "블랙커런트", "zh": "黑加仑", "ar": "الكشمش الأسود", "hi": "काला करंट"
+    },
+    "jasmine_sambac": {
+      "en": "Jasmine Sambac", "fr": "Jasmin Sambac", "de": "Jasmin Sambac", "es": "Jazmín Sambac", "it": "Gelsomino Sambac",
+      "pt": "Jasmim Sambac", "nl": "Jasmijn Sambac", "pl": "Jaśmin Sambac", "tr": "Yasemin Sambac",
+      "ja": "ジャスミンサンバック", "ko": "자스민 삼박", "zh": "茉莉花", "ar": "الياسمين سامباك", "hi": "चमेली सम्बैक"
+    },
+    "thyme": {
+      "en": "Thyme", "fr": "Thym", "de": "Thymian", "es": "Tomillo", "it": "Timo",
+      "pt": "Tomilho", "nl": "Tijm", "pl": "Tymianek", "tr": "Kekik",
+      "ja": "タイム", "ko": "타임", "zh": "百里香", "ar": "الزعتر", "hi": "थाइम"
+    },
+    "olive_blossom": {
+      "en": "Olive Blossom", "fr": "Fleur d'Olivier", "de": "Olivenblüte", "es": "Flor de Olivo", "it": "Fiore d'Olivo",
+      "pt": "Flor de Oliveira", "nl": "Olijfbloesem", "pl": "Kwiat Oliwki", "tr": "Zeytin Çiçeği",
+      "ja": "オリーブブロッサム", "ko": "올리브 블로섬", "zh": "橄榄花", "ar": "زهر الزيتون", "hi": "जैतून का फूल"
+    },
+    "sandalwood": {
+      "en": "Sandalwood", "fr": "Santal", "de": "Sandelholz", "es": "Sándalo", "it": "Sandalo",
+      "pt": "Sândalo", "nl": "Sandelhout", "pl": "Sandałowiec", "tr": "Sandal Ağacı",
+      "ja": "サンダルウッド", "ko": "샌달우드", "zh": "檀香", "ar": "خشب الصندل", "hi": "चंदन"
+    },
+    "cedar": {
+      "en": "Cedar", "fr": "Cèdre", "de": "Zeder", "es": "Cedro", "it": "Cedro",
+      "pt": "Cedro", "nl": "Ceder", "pl": "Cedr", "tr": "Sedir",
+      "ja": "シダー", "ko": "시더", "zh": "雪松", "ar": "الأرز", "hi": "देवदार"
+    },
+    "vanilla": {
+      "en": "Vanilla", "fr": "Vanille", "de": "Vanille", "es": "Vainilla", "it": "Vaniglia",
+      "pt": "Baunilha", "nl": "Vanille", "pl": "Wanilia", "tr": "Vanilya",
+      "ja": "バニラ", "ko": "바닐라", "zh": "香草", "ar": "الفانيليا", "hi": "वनीला"
+    },
+    "aldehydes": {
+      "en": "Aldehydes", "fr": "Aldéhydes", "de": "Aldehyde", "es": "Aldehídos", "it": "Aldeidi",
+      "pt": "Aldeídos", "nl": "Aldehyden", "pl": "Aldehydy", "tr": "Aldehitler",
+      "ja": "アルデヒド", "ko": "알데하이드", "zh": "醛类", "ar": "الألدهيدات", "hi": "एल्डिहाइड"
+    },
+    "neroli": {
+      "en": "Neroli", "fr": "Néroli", "de": "Neroli", "es": "Neroli", "it": "Neroli",
+      "pt": "Neroli", "nl": "Neroli", "pl": "Neroli", "tr": "Neroli",
+      "ja": "ネロリ", "ko": "네롤리", "zh": "橙花", "ar": "نيرولي", "hi": "नेरोली"
+    },
+    "ylang_ylang": {
+      "en": "Ylang-Ylang", "fr": "Ylang-Ylang", "de": "Ylang-Ylang", "es": "Ylang-Ylang", "it": "Ylang-Ylang",
+      "pt": "Ylang-Ylang", "nl": "Ylang-Ylang", "pl": "Ylang-Ylang", "tr": "Ylang-Ylang",
+      "ja": "イランイラン", "ko": "일랑일랑", "zh": "依兰", "ar": "يلانج يلانج", "hi": "इलंग-इलंग"
+    },
+    "bergamot": {
+      "en": "Bergamot", "fr": "Bergamote", "de": "Bergamotte", "es": "Bergamota", "it": "Bergamotto",
+      "pt": "Bergamota", "nl": "Bergamot", "pl": "Bergamotka", "tr": "Bergamot",
+      "ja": "ベルガモット", "ko": "베르가못", "zh": "佛手柑", "ar": "برغموت", "hi": "बर्गमोट"
+    },
+    "rose": {
+      "en": "Rose", "fr": "Rose", "de": "Rose", "es": "Rosa", "it": "Rosa",
+      "pt": "Rosa", "nl": "Roos", "pl": "Róża", "tr": "Gül",
+      "ja": "ローズ", "ko": "로즈", "zh": "玫瑰", "ar": "الورد", "hi": "गुलाब"
+    },
+    "jasmine": {
+      "en": "Jasmine", "fr": "Jasmin", "de": "Jasmin", "es": "Jazmín", "it": "Gelsomino",
+      "pt": "Jasmim", "nl": "Jasmijn", "pl": "Jaśmin", "tr": "Yasemin",
+      "ja": "ジャスミン", "ko": "자스민", "zh": "茉莉", "ar": "الياسمين", "hi": "चमेली"
+    },
+    "lily_of_the_valley": {
+      "en": "Lily of the Valley", "fr": "Muguet", "de": "Maiglöckchen", "es": "Lirio de los Valles", "it": "Mughetto",
+      "pt": "Lírio do Vale", "nl": "Lelietje-van-dalen", "pl": "Konwalia", "tr": "Vadi Zambağı",
+      "ja": "スズラン", "ko": "은방울꽃", "zh": "铃兰", "ar": "زنبق الوادي", "hi": "लिली ऑफ द वैली"
+    },
+    "iris": {
+      "en": "Iris", "fr": "Iris", "de": "Iris", "es": "Iris", "it": "Iris",
+      "pt": "Íris", "nl": "Iris", "pl": "Irys", "tr": "Süsen",
+      "ja": "アイリス", "ko": "아이리스", "zh": "鸢尾", "ar": "السوسن", "hi": "आइरिस"
+    },
+    "vetiver": {
+      "en": "Vetiver", "fr": "Vétiver", "de": "Vetiver", "es": "Vetiver", "it": "Vetiver",
+      "pt": "Vetiver", "nl": "Vetiver", "pl": "Wetyweria", "tr": "Vetiver",
+      "ja": "ベチバー", "ko": "베티버", "zh": "香根草", "ar": "الفيتيفر", "hi": "वेटिवर"
+    },
+    "amber": {
+      "en": "Amber", "fr": "Ambre", "de": "Amber", "es": "Ámbar", "it": "Ambra",
+      "pt": "Âmbar", "nl": "Amber", "pl": "Ambra", "tr": "Amber",
+      "ja": "アンバー", "ko": "앰버", "zh": "琥珀", "ar": "العنبر", "hi": "एम्बर"
+    },
+    "musk": {
+      "en": "Musk", "fr": "Musc", "de": "Moschus", "es": "Almizcle", "it": "Muschio",
+      "pt": "Almíscar", "nl": "Muskus", "pl": "Piżmo", "tr": "Misk",
+      "ja": "ムスク", "ko": "머스크", "zh": "麝香", "ar": "المسك", "hi": "कस्तूरी"
+    }
+  }
+}
