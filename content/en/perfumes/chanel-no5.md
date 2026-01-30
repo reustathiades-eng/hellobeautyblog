@@ -11,6 +11,9 @@ tags: ["chanel", "classic fragrance", "floral", "aldehydic", "luxury perfume", "
 keywords: ["chanel no 5 review", "chanel number 5", "chanel n5 perfume", "classic perfume", "iconic fragrance"]
 images:
   - /images/perfumes/chanel-no5.jpg
+  - /images/perfumes/chanel-no5-swatch.jpg
+  - /images/perfumes/chanel-no5-2.jpg
+  - /images/perfumes/chanel-no5-3.jpg
 featured: true
 draft: false
 

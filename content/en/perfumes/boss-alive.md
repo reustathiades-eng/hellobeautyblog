@@ -11,6 +11,7 @@ tags: ["hugo boss", "floral", "woody", "office fragrance", "women perfume"]
 keywords: ["boss alive review", "hugo boss alive", "boss alive perfume", "floral woody fragrance"]
 images:
   - /images/perfumes/boss-alive.jpg
+  - /images/perfumes/boss-alive-swatch.jpg
 featured: true
 draft: false
 

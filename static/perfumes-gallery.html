@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HelloBeautyBlog - Perfumes Gallery</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #F8C8DC;
+            --primary-dark: #E8A8BC;
+            --secondary: #FFFFFF;
+            --accent: #6B7280;
+            --background: #FDF2F8;
+            --text: #1F2937;
+            --gold: #D4AF37;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, var(--background) 0%, #FFF5F8 100%);
+            color: var(--text);
+            min-height: 100vh;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            padding: 3rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(248, 200, 220, 0.3);
+        }
+        
+        header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            color: var(--text);
+            margin-bottom: 0.5rem;
+            letter-spacing: 2px;
+        }
+        
+        header p {
+            font-size: 1.1rem;
+            color: var(--accent);
+            font-weight: 300;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+        
+        .perfume-section {
+            background: white;
+            border-radius: 24px;
+            padding: 3rem;
+            margin-bottom: 3rem;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease;
+        }
+        
+        .perfume-section:hover {
+            transform: translateY(-5px);
+        }
+        
+        .perfume-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 2px solid var(--primary);
+        }
+        
+        .perfume-number {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text);
+        }
+        
+        .perfume-title h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            color: var(--text);
+            margin-bottom: 0.25rem;
+        }
+        
+        .perfume-title .brand {
+            font-size: 1rem;
+            color: var(--gold);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .perfume-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .info-card {
+            background: var(--background);
+            padding: 1.25rem;
+            border-radius: 12px;
+            text-align: center;
+        }
+        
+        .info-card label {
+            display: block;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+        }
+        
+        .info-card value {
+            display: block;
+            font-weight: 600;
+            color: var(--text);
+        }
+        
+        .rating {
+            color: var(--gold);
+            font-size: 1.25rem;
+        }
+        
+        .notes-section {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        @media (max-width: 768px) {
+            .notes-section {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .notes-card {
+            background: linear-gradient(180deg, var(--background) 0%, white 100%);
+            padding: 1.5rem;
+            border-radius: 16px;
+            border: 1px solid rgba(248, 200, 220, 0.5);
+        }
+        
+        .notes-card h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            color: var(--primary-dark);
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .notes-card ul {
+            list-style: none;
+        }
+        
+        .notes-card li {
+            padding: 0.4rem 0;
+            color: var(--text);
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .notes-card li::before {
+            content: "✦";
+            color: var(--primary);
+            font-size: 0.75rem;
+        }
+        
+        .gallery-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            color: var(--text);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        
+        .gallery-title::before,
+        .gallery-title::after {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--primary), transparent);
+        }
+        
+        .image-gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .image-card {
+            background: white;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+        }
+        
+        .image-card:hover {
+            box-shadow: 0 8px 30px rgba(248, 200, 220, 0.4);
+            transform: scale(1.02);
+        }
+        
+        .image-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: contain;
+            background: #fafafa;
+            padding: 1rem;
+        }
+        
+        .image-card .image-label {
+            padding: 1rem;
+            text-align: center;
+            background: var(--background);
+            font-size: 0.85rem;
+            color: var(--accent);
+            font-weight: 500;
+        }
+        
+        .url-section {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--primary);
+        }
+        
+        .url-section h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            color: var(--text);
+            margin-bottom: 1rem;
+        }
+        
+        .url-link {
+            display: block;
+            background: var(--background);
+            padding: 1rem 1.5rem;
+            border-radius: 12px;
+            color: var(--text);
+            text-decoration: none;
+            font-family: monospace;
+            font-size: 0.9rem;
+            margin-bottom: 0.75rem;
+            transition: all 0.3s ease;
+            word-break: break-all;
+        }
+        
+        .url-link:hover {
+            background: var(--primary);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 3rem;
+            color: var(--accent);
+            font-size: 0.9rem;
+        }
+        
+        .status-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .status-ready {
+            background: #D1FAE5;
+            color: #065F46;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌸 HelloBeautyBlog</h1>
+        <p>Perfumes Collection - Visual Gallery</p>
+    </header>
+    
+    <div class="container">
+        
+        <!-- BOSS ALIVE -->
+        <section class="perfume-section">
+            <div class="perfume-header">
+                <div class="perfume-number">1</div>
+                <div class="perfume-title">
+                    <span class="brand">Hugo Boss</span>
+                    <h2>Boss Alive</h2>
+                </div>
+                <span class="status-badge status-ready">✓ Ready</span>
+            </div>
+            
+            <div class="perfume-info">
+                <div class="info-card">
+                    <label>Concentration</label>
+                    <value>Eau de Parfum</value>
+                </div>
+                <div class="info-card">
+                    <label>Gender</label>
+                    <value>Women</value>
+                </div>
+                <div class="info-card">
+                    <label>Price</label>
+                    <value>€89</value>
+                </div>
+                <div class="info-card">
+                    <label>Rating</label>
+                    <value class="rating">★★★★½</value>
+                </div>
+                <div class="info-card">
+                    <label>Longevity</label>
+                    <value>6-8 hours</value>
+                </div>
+                <div class="info-card">
+                    <label>Sillage</label>
+                    <value>Moderate</value>
+                </div>
+            </div>
+            
+            <div class="notes-section">
+                <div class="notes-card">
+                    <h4>🍎 Top Notes</h4>
+                    <ul>
+                        <li>Apple</li>
+                        <li>Plum</li>
+                        <li>Blackcurrant</li>
+                    </ul>
+                </div>
+                <div class="notes-card">
+                    <h4>🌸 Heart Notes</h4>
+                    <ul>
+                        <li>Jasmine Sambac</li>
+                        <li>Thyme</li>
+                        <li>Olive Blossom</li>
+                    </ul>
+                </div>
+                <div class="notes-card">
+                    <h4>🪵 Base Notes</h4>
+                    <ul>
+                        <li>Sandalwood</li>
+                        <li>Cedar</li>
+                        <li>Vanilla</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <h3 class="gallery-title">Product Images</h3>
+            <div class="image-gallery">
+                <div class="image-card">
+                    <img src="/images/perfumes/boss-alive.jpg" alt="Boss Alive Bottle">
+                    <div class="image-label">Main Product Shot</div>
+                </div>
+                <div class="image-card">
+                    <img src="/images/perfumes/boss-alive-swatch.jpg" alt="Boss Alive Swatch">
+                    <div class="image-label">Color Swatch</div>
+                </div>
+            </div>
+            
+            <div class="url-section">
+                <h4>🔗 Live URLs</h4>
+                <a href="https://hellobeautyblog.com/en/perfumes/boss-alive/" class="url-link" target="_blank">
+                    https://hellobeautyblog.com/en/perfumes/boss-alive/
+                </a>
+            </div>
+        </section>
+        
+        <!-- CHANEL N°5 -->
+        <section class="perfume-section">
+            <div class="perfume-header">
+                <div class="perfume-number">2</div>
+                <div class="perfume-title">
+                    <span class="brand">Chanel</span>
+                    <h2>N°5</h2>
+                </div>
+                <span class="status-badge status-ready">✓ Ready</span>
+            </div>
+            
+            <div class="perfume-info">
+                <div class="info-card">
+                    <label>Concentration</label>
+                    <value>Eau de Parfum</value>
+                </div>
+                <div class="info-card">
+                    <label>Gender</label>
+                    <value>Women</value>
+                </div>
+                <div class="info-card">
+                    <label>Price</label>
+                    <value>€135</value>
+                </div>
+                <div class="info-card">
+                    <label>Rating</label>
+                    <value class="rating">★★★★★</value>
+                </div>
+                <div class="info-card">
+                    <label>Longevity</label>
+                    <value>8-12 hours</value>
+                </div>
+                <div class="info-card">
+                    <label>Sillage</label>
+                    <value>Heavy</value>
+                </div>
+            </div>
+            
+            <div class="notes-section">
+                <div class="notes-card">
+                    <h4>✨ Top Notes</h4>
+                    <ul>
+                        <li>Aldehydes</li>
+                        <li>Neroli</li>
+                        <li>Ylang-Ylang</li>
+                        <li>Bergamot</li>
+                    </ul>
+                </div>
+                <div class="notes-card">
+                    <h4>🌹 Heart Notes</h4>
+                    <ul>
+                        <li>Rose</li>
+                        <li>Jasmine</li>
+                        <li>Lily of the Valley</li>
+                        <li>Iris</li>
+                    </ul>
+                </div>
+                <div class="notes-card">
+                    <h4>🪵 Base Notes</h4>
+                    <ul>
+                        <li>Sandalwood</li>
+                        <li>Vetiver</li>
+                        <li>Vanilla</li>
+                        <li>Amber</li>
+                        <li>Musk</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <h3 class="gallery-title">Product Images</h3>
+            <div class="image-gallery">
+                <div class="image-card">
+                    <img src="/images/perfumes/chanel-no5.jpg" alt="Chanel N°5 Bottle">
+                    <div class="image-label">Main Product Shot</div>
+                </div>
+                <div class="image-card">
+                    <img src="/images/perfumes/chanel-no5-swatch.jpg" alt="Chanel N°5 Swatch">
+                    <div class="image-label">Color Swatch</div>
+                </div>
+                <div class="image-card">
+                    <img src="/images/perfumes/chanel-no5-2.jpg" alt="Chanel N°5 Detail">
+                    <div class="image-label">Bottle Detail</div>
+                </div>
+                <div class="image-card">
+                    <img src="/images/perfumes/chanel-no5-3.jpg" alt="Chanel N°5 Packaging">
+                    <div class="image-label">With Packaging</div>
+                </div>
+            </div>
+            
+            <div class="url-section">
+                <h4>🔗 Live URLs</h4>
+                <a href="https://hellobeautyblog.com/en/perfumes/chanel-no5/" class="url-link" target="_blank">
+                    https://hellobeautyblog.com/en/perfumes/chanel-no5/
+                </a>
+            </div>
+        </section>
+        
+    </div>
+    
+    <footer>
+        <p>HelloBeautyBlog.com - Perfumes Gallery Preview</p>
+        <p>Generated: January 30, 2026</p>
+    </footer>
+</body>
+</html>
