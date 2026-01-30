@@ -1,109 +1,77 @@
 <!-- =============================================================================
      HELLO BEAUTY BLOG - Header
-     Design: Fresh & Modern
+     Design: Fresh & Modern, Professional, Responsive
 ============================================================================= -->
 
-<header class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-border shadow-sm">
-    <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
-        <div class="flex items-center justify-between h-16 lg:h-20">
+<header class="site-header">
+    <div class="header-container">
+        <div class="header-inner">
             
             <!-- Logo -->
-            <div class="flex-shrink-0">
-                <a href="/{{ .Language.Lang }}/" class="flex items-center space-x-2 group">
-                    <span class="text-2xl lg:text-3xl font-heading font-bold text-primary group-hover:text-primary/80 transition-colors">
-                        Hello
-                    </span>
-                    <span class="text-2xl lg:text-3xl font-heading font-light text-text">
-                        Beauty
-                    </span>
-                </a>
-            </div>
+            <a href="/{{ .Language.Lang }}/" class="header-logo">
+                <span class="logo-hello">Hello</span>
+                <span class="logo-beauty">Beauty</span>
+            </a>
             
             <!-- Desktop Navigation -->
-            <nav class="hidden lg:flex items-center space-x-8">
+            <nav class="header-nav">
                 {{ range .Site.Menus.main }}
-                <a href="{{ .URL }}" 
-                   class="text-sm font-medium text-text hover:text-primary transition-colors relative group
-                          {{ if $.IsMenuCurrent "main" . }}text-primary{{ end }}">
+                <a href="{{ .URL }}" class="nav-link {{ if $.IsMenuCurrent "main" . }}active{{ end }}">
                     {{ .Name }}
-                    <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all group-hover:w-full
-                                {{ if $.IsMenuCurrent "main" . }}w-full{{ end }}"></span>
                 </a>
                 {{ end }}
             </nav>
             
-            <!-- Right Section: Search + Language + Mobile Menu -->
-            <div class="flex items-center space-x-4">
+            <!-- Right Section -->
+            <div class="header-actions">
                 
                 <!-- Search Button -->
-                <button type="button" 
-                        id="search-toggle"
-                        class="p-2 text-accent hover:text-primary transition-colors"
-                        aria-label="Search">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                              d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                <button type="button" id="search-toggle" class="action-btn" aria-label="Search">
+                    <svg class="action-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
                     </svg>
                 </button>
                 
                 <!-- Language Switcher -->
-                <div class="relative" x-data="{ open: false }">
-                    <button @click="open = !open" 
-                            class="flex items-center space-x-1 p-2 text-accent hover:text-primary transition-colors"
-                            aria-label="Change language">
-                        <span class="text-lg">{{ .Language.Params.flag }}</span>
-                        <span class="hidden sm:inline text-sm font-medium uppercase">{{ .Language.Lang }}</span>
-                        <svg class="w-4 h-4 transition-transform" :class="{ 'rotate-180': open }" 
-                             fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <div class="lang-switcher">
+                    <button class="lang-btn" id="lang-toggle" aria-label="Change language">
+                        <span class="lang-flag">{{ .Language.Params.flag }}</span>
+                        <span class="lang-code">{{ .Language.Lang }}</span>
+                        <svg class="lang-arrow" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
                         </svg>
                     </button>
                     
                     <!-- Language Dropdown -->
-                    <div x-show="open" 
-                         @click.outside="open = false"
-                         x-transition:enter="transition ease-out duration-100"
-                         x-transition:enter-start="transform opacity-0 scale-95"
-                         x-transition:enter-end="transform opacity-100 scale-100"
-                         x-transition:leave="transition ease-in duration-75"
-                         x-transition:leave-start="transform opacity-100 scale-100"
-                         x-transition:leave-end="transform opacity-0 scale-95"
-                         class="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-border overflow-hidden z-50">
-                        <div class="py-2 max-h-80 overflow-y-auto">
-                            {{ range $.Site.Languages }}
-                            {{ $langCode := .Lang }}{{ $translation := false }}{{ range $.Page.Translations }}{{ if eq .Language.Lang $langCode }}{{ $translation = . }}{{ end }}{{ end }}
-                            <a href="{{ if $translation }}{{ $translation.Permalink }}{{ else }}/{{ .Lang }}/{{ end }}" 
-                               class="flex items-center px-4 py-2 text-sm hover:bg-background transition-colors
-                                      {{ if eq $.Language.Lang .Lang }}bg-primary/10 text-primary{{ else }}text-text{{ end }}">
-                                <span class="text-lg mr-3">{{ .Params.flag }}</span>
-                                <span>{{ .LanguageName }}</span>
-                            </a>
-                            {{ end }}
-                        </div>
+                    <div class="lang-dropdown" id="lang-dropdown">
+                        {{ range $.Site.Languages }}
+                        {{ $langCode := .Lang }}{{ $translation := false }}{{ range $.Page.Translations }}{{ if eq .Language.Lang $langCode }}{{ $translation = . }}{{ end }}{{ end }}
+                        <a href="{{ if $translation }}{{ $translation.Permalink }}{{ else }}/{{ .Lang }}/{{ end }}" 
+                           class="lang-option {{ if eq $.Language.Lang .Lang }}current{{ end }}">
+                            <span class="lang-option-flag">{{ .Params.flag }}</span>
+                            <span class="lang-option-name">{{ .LanguageName }}</span>
+                        </a>
+                        {{ end }}
                     </div>
                 </div>
                 
                 <!-- Mobile Menu Button -->
-                <button type="button" 
-                        id="mobile-menu-toggle"
-                        class="lg:hidden p-2 text-accent hover:text-primary transition-colors"
-                        aria-label="Menu">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                              d="M4 6h16M4 12h16M4 18h16"/>
-                    </svg>
+                <button type="button" id="mobile-menu-toggle" class="mobile-toggle" aria-label="Menu">
+                    <span class="hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
                 </button>
             </div>
         </div>
     </div>
     
     <!-- Mobile Navigation -->
-    <div id="mobile-menu" class="hidden lg:hidden border-t border-border">
-        <div class="px-4 py-4 space-y-2 bg-white">
+    <div class="mobile-nav" id="mobile-menu">
+        <div class="mobile-nav-inner">
             {{ range .Site.Menus.main }}
-            <a href="{{ .URL }}" 
-               class="block px-4 py-3 text-base font-medium rounded-lg transition-colors
-                      {{ if $.IsMenuCurrent "main" . }}bg-primary/10 text-primary{{ else }}text-text hover:bg-background{{ end }}">
+            <a href="{{ .URL }}" class="mobile-nav-link {{ if $.IsMenuCurrent "main" . }}active{{ end }}">
                 {{ .Name }}
             </a>
             {{ end }}
@@ -111,26 +79,594 @@
     </div>
     
     <!-- Search Overlay -->
-    <div id="search-overlay" class="hidden fixed inset-0 bg-black/50 z-50">
-        <div class="max-w-2xl mx-auto mt-20 px-4">
-            <div class="bg-white rounded-2xl shadow-2xl overflow-hidden">
-                <div class="p-4 border-b border-border flex items-center justify-between">
-                    <h3 class="font-heading text-lg font-semibold">
-                        {{ if eq .Language.Lang "fr" }}Rechercher{{ else if eq .Language.Lang "de" }}Suchen{{ else if eq .Language.Lang "es" }}Buscar{{ else }}Search{{ end }}
-                    </h3>
-                    <button id="search-close" class="p-2 text-accent hover:text-primary transition-colors">
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-                        </svg>
-                    </button>
+    <div id="search-overlay" class="search-overlay">
+        <div class="search-modal">
+            <div class="search-header">
+                <h3>{{ if eq .Language.Lang "fr" }}Rechercher{{ else if eq .Language.Lang "de" }}Suchen{{ else if eq .Language.Lang "es" }}Buscar{{ else }}Search{{ end }}</h3>
+                <button id="search-close" class="search-close" aria-label="Close">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="search-body">
+                <div class="search-input-wrap">
+                    <svg class="search-input-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                    </svg>
+                    <input type="text" class="search-input" placeholder="{{ if eq .Language.Lang "fr" }}Que recherchez-vous ?{{ else if eq .Language.Lang "de" }}Was suchen Sie?{{ else if eq .Language.Lang "es" }}¿Qué estás buscando?{{ else }}What are you looking for?{{ end }}">
                 </div>
-                <div class="p-4">
-                    <div id="search-container"></div>
-                </div>
+                <div id="search-results" class="search-results"></div>
             </div>
         </div>
     </div>
 </header>
 
-<!-- Alpine.js for dropdowns (CDN) -->
-<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<style>
+/* ==========================================================================
+   HEADER STYLES
+   ========================================================================== */
+
+/* Base Header */
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.98);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid #F3F4F6;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Header Container */
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+@media (min-width: 1024px) {
+    .header-container {
+        padding: 0 100px;
+    }
+}
+
+.header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+}
+
+@media (min-width: 1024px) {
+    .header-inner {
+        height: 72px;
+    }
+}
+
+/* Logo */
+.header-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.header-logo:hover {
+    opacity: 0.8;
+}
+
+.logo-hello {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #F8C8DC;
+}
+
+.logo-beauty {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #1F2937;
+    margin-left: 0.35rem;
+}
+
+@media (min-width: 1024px) {
+    .logo-hello,
+    .logo-beauty {
+        font-size: 1.75rem;
+    }
+}
+
+/* Desktop Navigation */
+.header-nav {
+    display: none;
+    align-items: center;
+    gap: 2rem;
+}
+
+@media (min-width: 1024px) {
+    .header-nav {
+        display: flex;
+    }
+}
+
+.nav-link {
+    position: relative;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #4B5563;
+    text-decoration: none;
+    padding: 0.5rem 0;
+    transition: color 0.2s ease;
+}
+
+.nav-link:hover,
+.nav-link.active {
+    color: #F8C8DC;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: #F8C8DC;
+    transition: width 0.2s ease;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+    width: 100%;
+}
+
+/* Header Actions */
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+@media (min-width: 640px) {
+    .header-actions {
+        gap: 0.75rem;
+    }
+}
+
+/* Action Buttons */
+.action-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: transparent;
+    border-radius: 50%;
+    color: #6B7280;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.action-btn:hover {
+    background: #FDF2F8;
+    color: #F8C8DC;
+}
+
+.action-icon {
+    width: 20px;
+    height: 20px;
+}
+
+/* Language Switcher */
+.lang-switcher {
+    position: relative;
+}
+
+.lang-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #E5E7EB;
+    background: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+    border-color: #F8C8DC;
+    background: #FDF2F8;
+}
+
+.lang-flag {
+    font-size: 1.1rem;
+}
+
+.lang-code {
+    display: none;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #4B5563;
+    text-transform: uppercase;
+}
+
+@media (min-width: 640px) {
+    .lang-code {
+        display: block;
+    }
+}
+
+.lang-arrow {
+    width: 14px;
+    height: 14px;
+    color: #9CA3AF;
+    transition: transform 0.2s ease;
+}
+
+.lang-switcher.open .lang-arrow {
+    transform: rotate(180deg);
+}
+
+/* Language Dropdown */
+.lang-dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    width: 200px;
+    max-height: 320px;
+    overflow-y: auto;
+    background: white;
+    border: 1px solid #E5E7EB;
+    border-radius: 12px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.2s ease;
+    z-index: 50;
+}
+
+.lang-switcher.open .lang-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.lang-option {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    color: #4B5563;
+    transition: background 0.15s ease;
+}
+
+.lang-option:first-child {
+    border-radius: 12px 12px 0 0;
+}
+
+.lang-option:last-child {
+    border-radius: 0 0 12px 12px;
+}
+
+.lang-option:hover {
+    background: #FDF2F8;
+}
+
+.lang-option.current {
+    background: #FDF2F8;
+    color: #F8C8DC;
+    font-weight: 500;
+}
+
+.lang-option-flag {
+    font-size: 1.25rem;
+}
+
+.lang-option-name {
+    font-size: 0.9rem;
+}
+
+/* Mobile Toggle */
+.mobile-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: transparent;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+@media (min-width: 1024px) {
+    .mobile-toggle {
+        display: none;
+    }
+}
+
+.mobile-toggle:hover {
+    background: #FDF2F8;
+}
+
+.hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 16px;
+    position: relative;
+}
+
+.hamburger span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: #4B5563;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.hamburger span:nth-child(1) {
+    position: absolute;
+    top: 0;
+}
+
+.hamburger span:nth-child(2) {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hamburger span:nth-child(3) {
+    position: absolute;
+    bottom: 0;
+}
+
+.mobile-toggle.active .hamburger span:nth-child(1) {
+    top: 50%;
+    transform: translateY(-50%) rotate(45deg);
+}
+
+.mobile-toggle.active .hamburger span:nth-child(2) {
+    opacity: 0;
+}
+
+.mobile-toggle.active .hamburger span:nth-child(3) {
+    bottom: 50%;
+    transform: translateY(50%) rotate(-45deg);
+}
+
+/* Mobile Navigation */
+.mobile-nav {
+    display: none;
+    border-top: 1px solid #F3F4F6;
+    background: white;
+}
+
+.mobile-nav.open {
+    display: block;
+}
+
+@media (min-width: 1024px) {
+    .mobile-nav {
+        display: none !important;
+    }
+}
+
+.mobile-nav-inner {
+    padding: 1rem 20px 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.mobile-nav-link {
+    display: block;
+    padding: 0.875rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #4B5563;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 0.2s ease;
+}
+
+.mobile-nav-link:hover,
+.mobile-nav-link.active {
+    background: #FDF2F8;
+    color: #F8C8DC;
+}
+
+/* Search Overlay */
+.search-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: 200;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.search-overlay.open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.search-modal {
+    max-width: 600px;
+    margin: 80px auto 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    transform: translateY(-20px);
+    transition: transform 0.3s ease;
+}
+
+@media (min-width: 640px) {
+    .search-modal {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.search-overlay.open .search-modal {
+    transform: translateY(0);
+}
+
+.search-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid #F3F4F6;
+}
+
+.search-header h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0;
+}
+
+.search-close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border: none;
+    background: transparent;
+    border-radius: 50%;
+    color: #6B7280;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.search-close:hover {
+    background: #FDF2F8;
+    color: #F8C8DC;
+}
+
+.search-close svg {
+    width: 20px;
+    height: 20px;
+}
+
+.search-body {
+    padding: 1.25rem;
+}
+
+.search-input-wrap {
+    position: relative;
+}
+
+.search-input-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    color: #9CA3AF;
+}
+
+.search-input {
+    width: 100%;
+    padding: 0.875rem 1rem 0.875rem 3rem;
+    border: 2px solid #E5E7EB;
+    border-radius: 12px;
+    font-size: 1rem;
+    color: #1F2937;
+    transition: border-color 0.2s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #F8C8DC;
+}
+
+.search-input::placeholder {
+    color: #9CA3AF;
+}
+
+.search-results {
+    margin-top: 1rem;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Mobile Menu Toggle
+    const mobileToggle = document.getElementById('mobile-menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    
+    if (mobileToggle && mobileMenu) {
+        mobileToggle.addEventListener('click', function() {
+            this.classList.toggle('active');
+            mobileMenu.classList.toggle('open');
+        });
+    }
+    
+    // Language Switcher
+    const langToggle = document.getElementById('lang-toggle');
+    const langSwitcher = langToggle?.closest('.lang-switcher');
+    
+    if (langToggle && langSwitcher) {
+        langToggle.addEventListener('click', function(e) {
+            e.stopPropagation();
+            langSwitcher.classList.toggle('open');
+        });
+        
+        document.addEventListener('click', function(e) {
+            if (!langSwitcher.contains(e.target)) {
+                langSwitcher.classList.remove('open');
+            }
+        });
+    }
+    
+    // Search Overlay
+    const searchToggle = document.getElementById('search-toggle');
+    const searchOverlay = document.getElementById('search-overlay');
+    const searchClose = document.getElementById('search-close');
+    const searchInput = searchOverlay?.querySelector('.search-input');
+    
+    if (searchToggle && searchOverlay) {
+        searchToggle.addEventListener('click', function() {
+            searchOverlay.classList.add('open');
+            setTimeout(() => searchInput?.focus(), 300);
+        });
+        
+        searchClose?.addEventListener('click', function() {
+            searchOverlay.classList.remove('open');
+        });
+        
+        searchOverlay.addEventListener('click', function(e) {
+            if (e.target === searchOverlay) {
+                searchOverlay.classList.remove('open');
+            }
+        });
+        
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && searchOverlay.classList.contains('open')) {
+                searchOverlay.classList.remove('open');
+            }
+        });
+    }
+});
+</script>
