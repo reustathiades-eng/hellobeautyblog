@@ -829,3 +829,10 @@ footer .grid > div {
 .pl-0 {
     padding-left: 0 !important;
 }
+
+/* Responsive padding for header */
+@media (min-width: 1024px) {
+    header > div:first-child {
+        padding: 0 100px !important;
+    }
+}

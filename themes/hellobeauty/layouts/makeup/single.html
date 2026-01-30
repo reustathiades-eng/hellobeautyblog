@@ -2,7 +2,7 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article style="max-width: 1200px; margin: 0 auto; padding: 3rem 100px;">
+<article style="max-width: 1200px; margin: 0 auto; padding: 3rem 20px;">
     
     <!-- Layout 2 colonnes -->
     <div class="grid grid-cols-1 lg:grid-cols-2 items-start" style="gap: 1.5rem;">
@@ -61,4 +61,10 @@
         <div class="prose prose-lg max-w-none">{{ .Content }}</div>
     </div>
 </article>
+
+<style>
+@media (min-width: 1024px) {
+    article { padding: 3rem 100px !important; }
+}
+</style>
 {{ end }}

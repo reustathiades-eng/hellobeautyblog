@@ -1,5 +1,5 @@
 <footer class="bg-white border-t border-border mt-16">
-    <div style="max-width: 1200px; margin: 0 auto; padding: 3rem 100px;">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 3rem 20px;">
         
         <!-- 4 colonnes centrées -->
         <div class="flex justify-center">
@@ -47,9 +47,16 @@
     
     <!-- Bottom -->
     <div class="border-t border-border">
-        <div style="max-width: 1200px; margin: 0 auto; padding: 1.5rem 100px; text-align: center;">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px; text-align: center;">
             <p class="text-textLight text-sm">© 2026 Hello Beauty Blog. All rights reserved.</p>
             <p class="text-textLight text-xs mt-1">This site contains affiliate links.</p>
         </div>
     </div>
 </footer>
+
+<style>
+@media (min-width: 1024px) {
+    footer > div:first-child { padding: 3rem 100px !important; }
+    footer > div:last-child > div { padding: 1.5rem 100px !important; }
+}
+</style>
