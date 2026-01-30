@@ -42,9 +42,11 @@
             {{ with .Params.shortDescription }}<p class="text-gray-700 mb-6">{{ . }}</p>{{ end }}
             
             <!-- MAKEUP Characteristics -->
+            {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
             <div class="border-t border-gray-200 pt-6">
                 <h2 class="text-lg font-semibold mb-4">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
                 <div class="grid grid-cols-2 gap-4 text-sm">
+                    {{ with .Params.brand }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
                     {{ with .Params.coverage }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
                     {{ with .Params.finish }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
                     {{ with .Params.longevity }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
@@ -52,10 +54,13 @@
                     {{ with .Params.spf }}<div><span class="text-gray-500">SPF:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
                 </div>
             </div>
+            {{ end }}
         </div>
     </div>
     
-    <!-- Contenu article -->
-    <div class="prose prose-lg max-w-none">{{ .Content }}</div>
+    <!-- Séparateur + marge avant contenu -->
+    <div class="border-t border-gray-200 pt-10 mt-8">
+        <div class="prose prose-lg max-w-none">{{ .Content }}</div>
+    </div>
 </article>
 {{ end }}

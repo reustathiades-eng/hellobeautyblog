@@ -13,6 +13,14 @@ images:
   - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
+brand: "Benefit Cosmetics"
+productName: "Chachatint"
+productType: "Tinte para Labios y Mejillas"
+rating: 4
+coverage: "Transparente a Modulable"
+finish: "Acabado Natural"
+longevity: "6-8 horas"
+skinType: "Todo tipo de piel"
 translationKey: "benefit-chachatint"
 ---
 
