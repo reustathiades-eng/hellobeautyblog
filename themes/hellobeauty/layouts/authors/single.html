@@ -1,0 +1,376 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<article class="author-page"{{ if eq $lang "ar" }} dir="rtl"{{ end }}>
+    <!-- Author Header -->
+    <header class="author-header">
+        <div class="author-header-container">
+            <div class="author-portrait">
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager">
+            </div>
+            <div class="author-meta">
+                <span class="author-role-badge">{{ .Params.role }}</span>
+                <h1 class="author-title">{{ .Title }}</h1>
+                <p class="author-tagline">{{ .Params.tagline }}</p>
+                
+                <!-- Stats -->
+                <div class="author-stats">
+                    <div class="author-stat">
+                        <span class="author-stat-number">{{ .Params.articles_count | default "50+" }}</span>
+                        <span class="author-stat-label">
+                            {{ if eq $lang "fr" }}Articles{{ else if eq $lang "de" }}Artikel{{ else if eq $lang "es" }}Artículos{{ else }}Articles{{ end }}
+                        </span>
+                    </div>
+                    <div class="author-stat">
+                        <span class="author-stat-number">{{ .Params.years_experience | default "10+" }}</span>
+                        <span class="author-stat-label">
+                            {{ if eq $lang "fr" }}Années d'exp.{{ else if eq $lang "de" }}Jahre Erfahrung{{ else if eq $lang "es" }}Años exp.{{ else }}Years Exp.{{ end }}
+                        </span>
+                    </div>
+                    <div class="author-stat">
+                        <span class="author-stat-number">{{ .Params.specialties_count | default "5" }}</span>
+                        <span class="author-stat-label">
+                            {{ if eq $lang "fr" }}Spécialités{{ else if eq $lang "de" }}Spezialgebiete{{ else if eq $lang "es" }}Especialidades{{ else }}Specialties{{ end }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!-- Author Bio -->
+    <section class="author-bio-section">
+        <div class="author-bio-container">
+            <div class="author-bio-content">
+                {{ .Content }}
+            </div>
+            
+            <!-- Specialties -->
+            {{ with .Params.specialties }}
+            <div class="author-specialties">
+                <h3>
+                    {{ if eq $lang "fr" }}Domaines d'expertise
+                    {{ else if eq $lang "de" }}Fachgebiete
+                    {{ else if eq $lang "es" }}Áreas de especialización
+                    {{ else }}Areas of Expertise{{ end }}
+                </h3>
+                <div class="specialties-grid">
+                    {{ range . }}
+                    <span class="specialty-tag">{{ . }}</span>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+            
+            <!-- Credentials -->
+            {{ with .Params.credentials }}
+            <div class="author-credentials">
+                <h3>
+                    {{ if eq $lang "fr" }}Certifications & Formation
+                    {{ else if eq $lang "de" }}Zertifizierungen & Ausbildung
+                    {{ else if eq $lang "es" }}Certificaciones & Formación
+                    {{ else }}Credentials & Training{{ end }}
+                </h3>
+                <ul class="credentials-list">
+                    {{ range . }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+    
+    <!-- Author's Articles -->
+    {{ $authorSlug := .File.ContentBaseName }}
+    {{ $authorArticles := where site.RegularPages "Params.author_slug" $authorSlug }}
+    {{ with first 8 $authorArticles }}
+    <section class="author-articles-section">
+        <div class="author-articles-container">
+            <h2>
+                {{ if eq $lang "fr" }}Articles de {{ $.Title }}
+                {{ else if eq $lang "de" }}Artikel von {{ $.Title }}
+                {{ else if eq $lang "es" }}Artículos de {{ $.Title }}
+                {{ else }}Articles by {{ $.Title }}{{ end }}
+            </h2>
+            <div class="articles-grid">
+                {{ range . }}
+                {{ partial "product-card.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+</article>
+
+<style>
+/* Author Page Styles */
+.author-page {
+    background: white;
+}
+
+.author-header {
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 50%, #F8C8DC20 100%);
+    padding: 4rem 1.5rem 3rem;
+}
+
+.author-header-container {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+}
+
+@media (min-width: 768px) {
+    .author-header-container {
+        flex-direction: row;
+        text-align: left;
+        gap: 3rem;
+    }
+}
+
+.author-portrait {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid white;
+    box-shadow: 0 10px 40px rgba(248, 200, 220, 0.3);
+    flex-shrink: 0;
+}
+
+@media (min-width: 768px) {
+    .author-portrait {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+.author-portrait img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.author-meta {
+    flex: 1;
+}
+
+.author-role-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #F8C8DC;
+    background: white;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    margin-bottom: 1rem;
+    border: 1px solid #F8C8DC40;
+}
+
+.author-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+    .author-title {
+        font-size: 3rem;
+    }
+}
+
+.author-tagline {
+    font-size: 1.125rem;
+    color: #6B7280;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.author-stats {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .author-stats {
+        justify-content: flex-start;
+    }
+}
+
+.author-stat {
+    text-align: center;
+}
+
+.author-stat-number {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #F8C8DC;
+}
+
+.author-stat-label {
+    font-size: 0.75rem;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Bio Section */
+.author-bio-section {
+    padding: 4rem 1.5rem;
+}
+
+.author-bio-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.author-bio-content {
+    font-size: 1.0625rem;
+    line-height: 1.9;
+    color: #4B5563;
+}
+
+.author-bio-content p {
+    margin-bottom: 1.5rem;
+}
+
+.author-bio-content h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #1F2937;
+    margin: 2.5rem 0 1rem;
+}
+
+/* Specialties */
+.author-specialties {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #E5E7EB;
+}
+
+.author-specialties h3,
+.author-credentials h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1F2937;
+    margin-bottom: 1rem;
+}
+
+.specialties-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.specialty-tag {
+    background: #FDF2F8;
+    color: #1F2937;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-size: 0.875rem;
+    border: 1px solid #F8C8DC40;
+}
+
+/* Credentials */
+.author-credentials {
+    margin-top: 2rem;
+}
+
+.credentials-list {
+    list-style: none;
+    padding: 0;
+}
+
+.credentials-list li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #4B5563;
+}
+
+.credentials-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: #F8C8DC;
+    font-weight: bold;
+}
+
+/* Articles Section */
+.author-articles-section {
+    padding: 4rem 1.5rem;
+    background: #FAFAFA;
+}
+
+.author-articles-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.author-articles-section h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .articles-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .articles-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* RTL Support */
+[dir="rtl"] .author-header-container {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    [dir="rtl"] .author-header-container {
+        text-align: right;
+        flex-direction: row-reverse;
+    }
+    
+    [dir="rtl"] .author-stats {
+        justify-content: flex-end;
+    }
+}
+
+[dir="rtl"] .credentials-list li {
+    padding-left: 0;
+    padding-right: 1.5rem;
+}
+
+[dir="rtl"] .credentials-list li::before {
+    left: auto;
+    right: 0;
+}
+</style>
+
+{{ end }}
