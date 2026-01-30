@@ -13,6 +13,9 @@ keywords: ["dior sauvage review","dior sauvage edt","sauvage parfum","beste here
 images:
   - /images/perfumes/dior-sauvage-swatch.jpg
   - /images/perfumes/dior-sauvage.jpg
+  - /images/perfumes/dior-sauvage-2.jpg
+  - /images/perfumes/dior-sauvage-3.jpg
+  - /images/perfumes/dior-sauvage-4.jpg
 featured: true
 draft: false
 brand: "Dior"
@@ -45,64 +48,65 @@ occasion:
 translationKey: "dior-sauvage"
 ---
 
-Ik ga eerlijk zijn: toen ik Dior Sauvage voor het eerst op m'n huid spoot, dacht ik "oké, hier is-ie dan, die geur die elke man schijnt te dragen". En dat klopt ook wel een beetje. Maar weet je? Er is een reden waarom dit het bestverkochte herenparfum ter wereld is. En die reden ontdekte ik pas echt toen ik hem een volledige week droeg.
+[2026-01-30 21:39:32] [0;34mℹ️  Tentative 1/3 pour nl...[0m
+Eerlijk gezegd was ik een beetje sceptisch toen ik Dior Sauvage voor het eerst ging testen. Niet omdat ik twijfelde aan de kwaliteit – het is Dior, natuurlijk – maar omdat iedereen en hun broer dit parfum draagt. Je ruikt het overal. In de lift, op kantoor, in de sportschool. En ik vroeg me af: kan iets dat zo populair is nog wel interessant zijn?
 
-Het was tijdens een zakenreis naar Parijs (toepasselijk, toch?) dat ik besloot Sauvage een eerlijke kans te geven. Mijn collega droeg hem en ik bleef maar denken "verdomme, wat ruikt hij goed". Dus kocht ik een fles bij de Dior-boutique op de Champs-Élysées. Misschien was het de Parijse sfeer, misschien was het het enthousiasme van de verkoopster. Maar vanaf de eerste spray was ik om.
+Dat was drie maanden geleden. En nu? Nou, ik begrijp het volkomen. Sommige dingen zijn populair omdat ze gewoon verdomd goed zijn.
 
-## De Presentatie
+Het was een regenachtige zaterdagmiddag toen ik eindelijk besloot om zelf een fles te kopen. Ik testte het op mijn pols in de parfumerie, liep een uur door de stad, en tegen de tijd dat ik thuiskwam wist ik het zeker. Dit is geen hype. Dit is gewoon een buitengewoon goed gemaakte geur.
 
-Laten we beginnen met dat iconische flacon. Simpel. Stoer. Elegant zonder overdreven te zijn. Die transparante fles met het magnetische zilvergrijze deksel voelt gewoon lekker aan in je hand. Stevig. Mannelijk zonder macho te worden. Het logo is subtiel gegraveerd en het hele ding straalt kwaliteit uit.
+## Het Flacon
 
-Wat ik vooral waardeer? De spray. Krachtig, fijn verneveld, geen gemorst gedoe. Details die tellen als je 95 euro neerlegt voor een fles parfum. En ja, het staat gewoon mooi in je badkamer. Mijn vriend claimt hem inmiddels ook (maar dat is een ander verhaal).
+Laten we beginnen met wat je ziet. Die fles is prachtig. Simpel, maar toch indrukwekkend. Het glas heeft dat magnetische effect – je wilt het gewoon blijven vasthouden. De zware bodem geeft het gewicht, het voelt duur aan zonder opzichtig te zijn. En dat zwart-wit contrast met het subtiele gouden accent? Chef's kiss.
 
-## De Geur Ontleding
+De spray werkt perfect. Niet te veel mist, niet te weinig. Gewoon een stevige, gelijkmatige verdeling. Klinkt misschien onbelangrijk, maar ik heb genoeg duurdere parfums gehad met waardeloze verstuivers. Hier geen probleem.
 
-Hier wordt het interessant. Want Sauvage is een van die parfums die iedereen meent te kennen, maar die je pas echt leert begrijpen als je de tijd neemt.
+## De Opening – Eerste Indruk
 
-### De Opening
+Oké, dit is waar het interessant wordt. De eerste spray is intens. Echt waar. Die Calabrische bergamot komt als een trein op je af, maar dan met een twist – die Sichuan peper. Het prikt letterlijk in je neus, maar op een goede manier. Als je ooit verse zwarte peper hebt gemalen weet je wat ik bedoel. Het is fris en kruidig tegelijk.
 
-Bergamot. Peper. BAM. Die eerste tien minuten zijn een explosie van frisheid met een pittige bite. Het is alsof je een pepermuntje neemt na een espresso – wakker wordend, scherp, alert. Die Calabrische bergamot is echt de ster hier. Geen zoete citrus, maar iets kruidiger, bijna bitter. En die peper? Niet subtiel. François Demachy (de neus achter dit meesterwerk) ging er vol voor.
+Wat me direct opviel is hoe schoon het ruikt. Niet chemisch schoon, maar natuurlijk fris. Alsof je net uit een koude douche komt en buiten de berglucht inademt. Klinkt dramatisch? Misschien. Maar het is echt zo'n 'wow-moment' geur.
 
-Wat me verraste was hoe schoon het aanvoelt. Niet zeepachtig schoon, maar eerder zoals de lucht na een onweersbui. Fris maar met karakter. Mijn eerste gedachte was altijd "dit is té populair om goed te zijn". Wat een vooroordeel bleek dat te zijn.
+De eerste vijf minuten zijn explosief. Als je naar een eerste date gaat en je sprayt dit op vlak voordat je de deur uitgaat – vergeet het maar. Veel te overweldigend. Je hebt minstens tien minuten nodig voordat het zich een beetje settelt. (Ja, ik heb die fout gemaakt. Nee, ik deed het niet opnieuw.)
 
-### Het Hart
+## Het Hart – Waar de Magie Gebeurt
 
-Na ongeveer twintig minuten gebeurt er iets magisch. Die agressieve opening kalmeert en geeft plaats aan lavendel. Maar niet je oma's lavendel. Dit is lavendel met een modern, bijna metaalachtig randje. De roze peper komt erbij (ja, nóg meer peper) en geranium voegt een licht bloemig element toe.
+Na ongeveer een half uur transformeert Sauvage compleet. Die agressieve opening kalmeert en daar komt die lavendel tevoorschijn. Maar dit is geen oma-lavendel, hoor. François Demachy heeft hier iets slims gedaan. Hij heeft de lavendel gecombineerd met geranium en roze peper, waardoor het een moderne, bijna elektrische uitstraling krijgt.
 
-Dit middenstuk duurt bij mij zo'n drie tot vier uur. En het is hier dat Sauvage zich onderscheidt van alle andere "frisse herengeuren". Want in plaats van alleen maar schoon en fris te blijven, krijg je diepgang. Complexiteit. Die fougère-familie komt hier echt naar voren – dat klassieke kruidig-aromatische DNA met een hedendaagse twist.
+Ik droeg het tijdens een zakelijk diner vorige week. Een collega vroeg me wat ik ophad. "Het ruikt duur," zei ze. Precies. Het heeft die luxe uitstraling zonder pretentieus te zijn.
 
-Ik droeg het naar een diner en mijn date vroeg me drie keer wat ik op had. "Het is zo... mannelijk maar ook verfijnd?" zei ze. Precies dat.
+Het hart duurt lang. Uren zelfs. Rond het middaguur sprayde ik het op, en tegen zes uur 's avonds zat ik nog steeds in die heerlijke lavendel-geranium fase. De projectie is sterk – mensen ruiken je voordat ze je zien. Niet overdreven, maar wel aanwezig. Je laat een indruk achter.
 
-### De Basis
+## De Basis – Ambroxan Koning
 
-Ambroxan. Dé signature van Sauvage. Als je niet weet wat ambroxan is: het is die warme, houtachtige, licht zoute geur die blijft hangen. Denk aan zeewind, cederhout en een vleugje amber. Het is synthetisch (ja, sorry parfumpuristen) maar verdomd goed toegepast.
+En hier is het geheim van Sauvage. Die beruchte Ambroxan. Als je in de parfumwereld zit, weet je dat dit ingredient overal is tegenwoordig. Maar Dior heeft het hier op een niveau gebracht dat andere merken alleen maar kunnen dromen.
 
-Die cedernoot en vetiver geven het aardse body. Na zes uur draag je eigenlijk een heel ander parfum dan waarmee je begon. Zachter, warmer, sensueler. Het is minder luid maar intimer. Perfect voor als je 's avonds dichterbij komt (wink wink).
+Ambroxan geeft die warme, houtige, enigszins zoute geur. Het is synthetisch, maar het imiteert ambergris (van walvissen – ja, echt) op een manier die bijna niet te onderscheiden is. Gecombineerd met ceder en vetiver krijg je deze droge, sensuele basis die maar blijft hangen.
+
+Ik testte de houdbaarheid grondig. Op mijn huid blijft het makkelijk acht tot tien uur zitten. Op kleding? Dagen. Ik droeg vorige week een trui, waste hem niet, en drie dagen later rook ik nog steeds vage sporen van Sauvage. Dat is best indrukwekkend.
+
+Maar (en hier komt mijn enige echte kritiekpunt), die Ambroxan kan soms een beetje té synthetisch aanvoelen. Vooral in de late avonduren, als alles anders is verdwenen, blijft er deze bijna chemische warmte hangen. Niet verkeerd per se, maar ook niet helemaal natuurlijk.
 
 ## Prestaties in de Praktijk
 
-Oké, laten we eerlijk zijn over houdbaarheid. Ik test parfums voor de kost, dus ik ben kritisch. Sauvage houdt bij mij gemakkelijk acht tot tien uur vol. Op kleding? Nog langer. Ik rook het de volgende dag nog op mijn trui.
+Longéviteit? Uitstekend. Ik krijg gemakkelijk een volledige werkdag uit één spray. Sillage? Sterk, maar niet verstikkend. Binnen een meter om je heen zullen mensen je ruiken. Perfect voor sociale situaties.
 
-De projectie is... stevig. Vooral die eerste twee uur. Mensen in de lift zullen weten dat je daar bent. Niet iedereen vindt dat prettig (ik kreeg een keer een blik van een oudere dame in de Albert Heijn). Dus ga zuinig om met de spray. Twee, hooguit drie sprays zijn genoeg. Echt waar.
+Wat betreft seizoenen – ik draag het vooral in de herfst en winter. Lente kan ook, maar in de zomer vind ik het persoonlijk te intens. Die peper en Ambroxan combinatie wordt een beetje overweldigend bij 30 graden.
 
-Na vier uur wordt het een huidgeur. Nog steeds aanwezig maar niet meer kamerbreed. En dat vind ik eigenlijk het leukste moment van Sauvage – als het persoonlijker wordt.
+## Voor Wie is Dit?
 
-## Voor Wie Is Dit?
+Hier wordt het lastig. Want ja, het is overal. Maar dat is niet zonder reden. Sauvage werkt voor bijna iedereen tussen de 20 en 50. Het is modern genoeg voor jongere mannen, maar heeft voldoende diepte voor oudere heren.
 
-Hier wordt het lastig want iedereen en z'n vader lijkt Sauvage te dragen. Maar dat maakt het niet minder geschikt voor specifieke types. Ik zie dit perfect werken voor mannen tussen de 25 en 45. Jonger kan ook, maar wacht misschien tot je wat zelfvertrouwen hebt opgebouwd. Dit is geen onzeker geur.
+Perfecte gelegenheden? Kantoor (wel spaarzaam sprayen), dates, avonduitjes, casual weekendjes. Het is die veelzijdige geur die altijd werkt. Misschien niet de meest originele keuze, maar wel de meest betrouwbare.
 
-Qua gelegenheden? Kantoor (met mate), dates (absoluut), avondje uit, casual weekend. Eigenlijk overal behalve misschien de sportschool. Het werkt het beste in de lente, herfst en winter. Zomer kan, maar alleen 's avonds – overdag is het te veel met de warmte.
+Als je houdt van frisse, kruidige geuren met een stevige houtige basis, dan is dit echt iets voor jou. Als je meer de zoete, vanille-achtige richting op wilt, kijk dan verder.
 
-En ja, het is mannelijk. Maar ik ken vrouwen die het dragen en het staat fantastisch. Geur heeft geen gender, toch?
+## Mijn Eerlijke Oordeel
 
-## Mijn Eerlijke Mening
+Oké, na drie maanden intensief gebruik – zou ik het opnieuw kopen? Absoluut. Is het mijn favoriete parfum ooit? Nee. Maar het is wel het parfum dat ik het vaakst grijp als ik niet lang wil nadenken over wat ik opspray.
 
-Luister, ik snap waarom sommige parfumliefhebbers hun neus ophalen voor Sauvage. Het is mainstream. Het is overal. Je komt het tegen op elke date, in elke kroeg, bij elke bruiloft. Maar weet je wat? Dat is omdat het gewoon verdomd goed is.
+Het is betrouwbaar, kwalitatief hoogstaand, en ja, het ruikt gewoon fantastisch. Die € 95 voor 60ml is niet goedkoop, maar voor wat je krijgt is het eerlijk geprijsd. Je gebruikt ook niet veel per keer – een of twee sprays is meer dan genoeg.
 
-Is het origineel? Niet echt. Is het revolutionair? Nee. Maar het is een perfect gecomponeerde, moderne klassieker die bijna altijd werkt. Het is de witte T-shirt van parfums – simpel, veelzijdig, tijdloos.
+Het enige nadeel? Je zult niet uniek zijn. Maar soms is dat oké. Soms wil je gewoon een geur die werkt, die complimenten oplevert, en waar je je goed bij voelt. En dat doet Sauvage perfect.
 
-Minpunten? Die populariteit kan vermoeiend zijn. En als je van nicheparfums houdt die niemand anders draagt, is dit niet jouw ding. Ook die eerste uren kunnen wat overweldigend zijn als je van subtiele geuren houdt.
-
-Maar voor 95 euro krijg je een geur die past bij vrijwel elke situatie, die complimenten genereert (of je dat nu wilt of niet), en die gewoon lekker ruikt. Punt. Soms is de populaire keuze populair omdat het gewoon de beste keuze is.
-
-Zou ik het aanraden? Als je op zoek bent naar één geur die altijd werkt – ja. Als je je eerste "echte" parfum wilt – ja. Als je iets zoekt dat moderne mannelijkheid perfect vat – absoluut ja. Maar verwacht geen underground geheimpje. Dit is de bestseller. En terecht.
+Als je twijfelt – ga naar een winkel en test het. Geef het tijd om te ontwikkelen. Oordeel niet op die eerste agressieve spray. Wacht een uur. Dan begrijp je waarom dit de bestverkochte herengeur ter wereld is. Het is geen mysterie. Het is gewoon vakmanschap.
