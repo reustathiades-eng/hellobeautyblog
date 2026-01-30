@@ -1,3 +1,7 @@
+# =============================================================================
+# HELLO BEAUTY BLOG - Configuration Principale
+# =============================================================================
+
 baseURL: "https://hellobeautyblog.com/"
 title: "Hello Beauty Blog"
 languageCode: "en"
@@ -21,14 +25,7 @@ taxonomies:
   tag: "tags"
   ingredient: "ingredients"
 
-permalinks:
-  perfumes: "/perfumes/:slug/"
-  skincare: "/skincare/:slug/"
-  makeup: "/makeup/:slug/"
-  haircare: "/haircare/:slug/"
-  guides: "/guides/:slug/"
-  blog: "/blog/:slug/"
-  brands: "/brands/:slug/"
+# Permalinks are now defined per-language in languages.yaml
 
 paginate: 24
 paginatePath: "page"

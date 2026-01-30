@@ -1,0 +1,470 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<article class="product-page">
+    <div class="product-container">
+        
+        <!-- Breadcrumb -->
+        <nav class="breadcrumb">
+            <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else if eq $lang "it" }}Home{{ else if eq $lang "pt" }}Início{{ else if eq $lang "nl" }}Home{{ else if eq $lang "pl" }}Strona główna{{ else if eq $lang "tr" }}Ana Sayfa{{ else }}Home{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <a href="/{{ $lang }}/perfumes/">{{ if eq $lang "fr" }}Parfums{{ else if eq $lang "de" }}Parfüm{{ else if eq $lang "es" }}Perfumes{{ else if eq $lang "ja" }}香水{{ else if eq $lang "ko" }}향수{{ else if eq $lang "zh" }}香水{{ else if eq $lang "ar" }}العطور{{ else if eq $lang "hi" }}इत्र{{ else if eq $lang "it" }}Profumi{{ else if eq $lang "pt" }}Perfumes{{ else if eq $lang "nl" }}Parfum{{ else if eq $lang "pl" }}Perfumy{{ else if eq $lang "tr" }}Parfüm{{ else }}Perfumes{{ end }}</a>
+            <span class="breadcrumb-sep">›</span>
+            <span class="breadcrumb-current">{{ .Title }}</span>
+        </nav>
+        
+        <!-- Product Header Section -->
+        <div class="product-header">
+            
+            <!-- Product Image Carousel -->
+            <div class="product-gallery">
+                {{ if .Params.images }}
+                <div class="carousel-container">
+                    <!-- Main Image -->
+                    <div class="carousel-main">
+                        <button class="carousel-btn prev" onclick="changeSlide(-1)" aria-label="Previous">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M15 18l-6-6 6-6"/>
+                            </svg>
+                        </button>
+                        <div class="carousel-viewport">
+                            {{ range $index, $image := .Params.images }}
+                            <div class="carousel-slide {{ if eq $index 0 }}active{{ end }}" data-index="{{ $index }}">
+                                <img src="{{ $image }}" alt="{{ $.Title }} - Image {{ add $index 1 }}" loading="{{ if eq $index 0 }}eager{{ else }}lazy{{ end }}">
+                            </div>
+                            {{ end }}
+                        </div>
+                        <button class="carousel-btn next" onclick="changeSlide(1)" aria-label="Next">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M9 18l6-6-6-6"/>
+                            </svg>
+                        </button>
+                    </div>
+                    
+                    <!-- Thumbnails -->
+                    {{ if gt (len .Params.images) 1 }}
+                    <div class="carousel-thumbnails">
+                        {{ range $index, $image := .Params.images }}
+                        <button class="thumbnail {{ if eq $index 0 }}active{{ end }}" onclick="goToSlide({{ $index }})" data-index="{{ $index }}">
+                            <img src="{{ $image }}" alt="Thumbnail {{ add $index 1 }}">
+                        </button>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    
+                    <!-- Dots indicator for mobile -->
+                    {{ if gt (len .Params.images) 1 }}
+                    <div class="carousel-dots">
+                        {{ range $index, $image := .Params.images }}
+                        <button class="dot {{ if eq $index 0 }}active{{ end }}" onclick="goToSlide({{ $index }})" data-index="{{ $index }}"></button>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                </div>
+                {{ else }}
+                <div class="product-image-placeholder">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                    </svg>
+                </div>
+                {{ end }}
+            </div>
+            
+            <!-- Product Info -->
+            <div class="product-info">
+                
+                {{ with .Params.brand }}
+                <a href="/{{ $lang }}/brands/{{ . | urlize }}/" class="product-brand">{{ . }}</a>
+                {{ end }}
+                
+                <h1 class="product-title">{{ .Params.productName | default .Title }}</h1>
+                
+                {{ with .Params.concentration }}
+                <p class="product-type">{{ . }}</p>
+                {{ end }}
+                
+                <!-- Rating -->
+                <div class="product-rating">
+                    <div class="rating-stars">
+                        {{ $rating := .Params.rating | default 0 }}
+                        {{ range seq 5 }}
+                        <svg class="star {{ if le . $rating }}filled{{ end }}" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                        </svg>
+                        {{ end }}
+                    </div>
+                    <span class="rating-count">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
+                </div>
+                
+                <!-- Fragrance Notes -->
+                {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
+                <div class="fragrance-pyramid">
+                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Pyramide Olfactive{{ else if eq $lang "de" }}Duftpyramide{{ else if eq $lang "es" }}Pirámide Olfativa{{ else }}Fragrance Notes{{ end }}</h3>
+                    <div class="notes-grid">
+                        {{ with .Params.topNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de tête{{ else if eq $lang "de" }}Kopfnote{{ else if eq $lang "es" }}Notas de salida{{ else }}Top Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag top">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.heartNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de cœur{{ else if eq $lang "de" }}Herznote{{ else if eq $lang "es" }}Notas de corazón{{ else }}Heart Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag heart">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.baseNotes }}
+                        <div class="note-group">
+                            <span class="note-label">{{ if eq $lang "fr" }}Notes de fond{{ else if eq $lang "de" }}Basisnote{{ else if eq $lang "es" }}Notas de fondo{{ else }}Base Notes{{ end }}</span>
+                            <div class="note-tags">
+                                {{ range . }}<span class="note-tag base">{{ . }}</span>{{ end }}
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                {{ end }}
+                
+            </div>
+        </div>
+        
+        <!-- Perfume Characteristics - Full Width -->
+        {{ if or .Params.longevity .Params.sillage .Params.season .Params.occasion .Params.concentration }}
+        <div class="product-specs-fullwidth">
+            <h3 class="specs-title">
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+                </svg>
+                {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}
+            </h3>
+            <div class="specs-grid-horizontal">
+                {{ with .Params.concentration }}
+                <div class="spec-card">
+                    <span class="spec-icon">💧</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Concentration{{ else }}Concentration{{ end }}</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.longevity }}
+                <div class="spec-card">
+                    <span class="spec-icon">⏱️</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else }}Longevity{{ end }}</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.sillage }}
+                <div class="spec-card">
+                    <span class="spec-icon">🌬️</span>
+                    <span class="spec-label">Sillage</span>
+                    <span class="spec-value">{{ . }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.season }}
+                <div class="spec-card">
+                    <span class="spec-icon">🗓️</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Saison{{ else }}Season{{ end }}</span>
+                    <span class="spec-value">{{ delimit . ", " }}</span>
+                </div>
+                {{ end }}
+                {{ with .Params.occasion }}
+                <div class="spec-card">
+                    <span class="spec-icon">✨</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Occasion{{ else }}Occasion{{ end }}</span>
+                    <span class="spec-value">{{ delimit . ", " }}</span>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        
+        <!-- Article Content -->
+        <div class="product-content">
+            <div class="content-wrapper">
+                {{ .Content }}
+            </div>
+            
+            <!-- Author Bio Section -->
+            {{ with .Params.author }}
+            <div class="author-box">
+                <div class="author-avatar">
+                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+                    <img src="/images/authors/{{ $authorSlug }}.jpg" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                    <div class="author-avatar-fallback">
+                        <span>{{ substr . 0 1 }}</span>
+                    </div>
+                </div>
+                <div class="author-info">
+                    <div class="author-label">{{ if eq $lang "fr" }}À propos de l'auteur{{ else if eq $lang "de" }}Über den Autor{{ else if eq $lang "es" }}Sobre el autor{{ else if eq $lang "it" }}Sull'autore{{ else if eq $lang "pt" }}Sobre o autor{{ else if eq $lang "nl" }}Over de auteur{{ else if eq $lang "pl" }}O autorze{{ else if eq $lang "tr" }}Yazar Hakkında{{ else if eq $lang "ja" }}著者について{{ else if eq $lang "ko" }}저자 소개{{ else if eq $lang "zh" }}关于作者{{ else if eq $lang "ar" }}عن الكاتب{{ else if eq $lang "hi" }}लेखक के बारे में{{ else }}About the Author{{ end }}</div>
+                    <h4 class="author-name">{{ . }}</h4>
+                    <p class="author-bio">
+                        {{ if eq . "Emma Collins" }}
+                            {{ if eq $lang "fr" }}Emma Collins est une experte en parfumerie et critique olfactive avec plus de 15 ans d'expérience dans l'industrie de la beauté. Passionnée par l'art de la parfumerie, elle partage ses découvertes et analyses détaillées pour vous guider dans l'univers des fragrances.
+                            {{ else if eq $lang "de" }}Emma Collins ist eine Parfüm-Expertin und Duftkritikerin mit über 15 Jahren Erfahrung in der Beauty-Branche. Mit ihrer Leidenschaft für die Kunst der Parfümerie teilt sie ihre Entdeckungen und detaillierten Analysen, um Sie durch die Welt der Düfte zu führen.
+                            {{ else if eq $lang "es" }}Emma Collins es una experta en perfumería y crítica olfativa con más de 15 años de experiencia en la industria de la belleza. Apasionada por el arte de la perfumería, comparte sus descubrimientos y análisis detallados para guiarle en el mundo de las fragancias.
+                            {{ else if eq $lang "it" }}Emma Collins è un'esperta di profumeria e critica olfattiva con oltre 15 anni di esperienza nel settore della bellezza. Appassionata dell'arte della profumeria, condivide le sue scoperte e analisi dettagliate per guidarvi nel mondo delle fragranze.
+                            {{ else if eq $lang "pt" }}Emma Collins é uma especialista em perfumaria e crítica olfativa com mais de 15 anos de experiência na indústria da beleza. Apaixonada pela arte da perfumaria, ela compartilha suas descobertas e análises detalhadas para guiá-lo no mundo das fragrâncias.
+                            {{ else if eq $lang "nl" }}Emma Collins is een parfum-expert en geurcritica met meer dan 15 jaar ervaring in de beauty-industrie. Met haar passie voor de kunst van parfumerie deelt ze haar ontdekkingen en gedetailleerde analyses om u door de wereld van geuren te leiden.
+                            {{ else if eq $lang "pl" }}Emma Collins jest ekspertem od perfum i krytykiem zapachowym z ponad 15-letnim doświadczeniem w branży kosmetycznej. Z pasją do sztuki perfumiarskiej dzieli się swoimi odkryciami i szczegółowymi analizami, aby przeprowadzić Cię przez świat zapachów.
+                            {{ else if eq $lang "tr" }}Emma Collins, güzellik sektöründe 15 yılı aşkın deneyime sahip bir parfüm uzmanı ve koku eleştirmenidir. Parfümeri sanatına olan tutkusuyla, keşiflerini ve detaylı analizlerini paylaşarak sizi koku dünyasında yönlendiriyor.
+                            {{ else if eq $lang "ja" }}エマ・コリンズは、ビューティー業界で15年以上の経験を持つ香水の専門家であり、香りの批評家です。香水の芸術に情熱を注ぎ、彼女の発見と詳細な分析を共有して、フレグランスの世界をご案内します。
+                            {{ else if eq $lang "ko" }}에마 콜린스는 뷰티 업계에서 15년 이상의 경험을 가진 향수 전문가이자 향기 비평가입니다. 향수 예술에 대한 열정으로 그녀의 발견과 상세한 분석을 공유하여 향기의 세계를 안내합니다.
+                            {{ else if eq $lang "zh" }}艾玛·柯林斯是一位香水专家和嗅觉评论家，在美容行业拥有超过15年的经验。她热爱香水艺术，通过分享她的发现和详细分析，带您领略香氛世界。
+                            {{ else if eq $lang "ar" }}إيما كولينز خبيرة في العطور وناقدة للروائح مع أكثر من 15 عامًا من الخبرة في صناعة التجميل. شغوفة بفن صناعة العطور، تشارك اكتشافاتها وتحليلاتها التفصيلية لإرشادك في عالم العطور.
+                            {{ else if eq $lang "hi" }}एम्मा कॉलिन्स एक परफ्यूम विशेषज्ञ और सुगंध समीक्षक हैं जिनके पास सौंदर्य उद्योग में 15 से अधिक वर्षों का अनुभव है। परफ्यूमरी की कला के प्रति जुनूनी, वह अपनी खोजों और विस्तृत विश्लेषण साझा करती हैं ताकि आपको सुगंध की दुनिया में मार्गदर्शन मिल सके।
+                            {{ else }}Emma Collins is a fragrance expert and scent critic with over 15 years of experience in the beauty industry. Passionate about the art of perfumery, she shares her discoveries and detailed analyses to guide you through the world of fragrances.
+                            {{ end }}
+                        {{ else if eq . "Sofia Martinez" }}
+                            {{ if eq $lang "fr" }}Sofia Martinez est une maquilleuse professionnelle avec 12 ans d'expérience dans la beauté mode et éditoriale. Elle a travaillé avec les plus grandes marques de beauté et partage son expertise pour vous aider à trouver votre look parfait.
+                            {{ else }}Sofia Martinez is a professional makeup artist with 12 years of experience in fashion and editorial beauty. She has worked with major beauty brands and shares her expertise to help you find your perfect look.
+                            {{ end }}
+                        {{ else }}
+                            {{ if eq $lang "fr" }}Rédacteur passionné chez HelloBeautyBlog, spécialisé dans les tendances beauté et les conseils experts.
+                            {{ else }}Passionate writer at HelloBeautyBlog, specialized in beauty trends and expert advice.
+                            {{ end }}
+                        {{ end }}
+                    </p>
+                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+                    <a href="/{{ $lang }}/about/{{ $authorSlug }}/" class="author-link">
+                        {{ if eq $lang "fr" }}Voir tous ses articles{{ else if eq $lang "de" }}Alle Artikel ansehen{{ else if eq $lang "es" }}Ver todos los artículos{{ else }}View all articles{{ end }} →
+                    </a>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        
+    </div>
+</article>
+
+<style>
+/* Base Styles */
+.product-page { background: #FAFAFA; min-height: 100vh; }
+.product-container { max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px 4rem; }
+@media (min-width: 1024px) { .product-container { padding: 2rem 40px 5rem; } }
+
+/* Breadcrumb */
+.breadcrumb { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.85rem; }
+.breadcrumb a { color: #6B7280; text-decoration: none; transition: color 0.2s ease; }
+.breadcrumb a:hover { color: #F8C8DC; }
+.breadcrumb-sep { color: #D1D5DB; }
+.breadcrumb-current { color: #9CA3AF; }
+
+/* Product Header */
+.product-header { display: grid; grid-template-columns: 1fr; gap: 2rem; background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
+@media (min-width: 768px) { .product-header { grid-template-columns: 1fr 1fr; gap: 2.5rem; padding: 2rem; } }
+@media (min-width: 1024px) { .product-header { gap: 3rem; padding: 2.5rem; } }
+
+/* Gallery / Carousel */
+.product-gallery { display: flex; flex-direction: column; }
+.carousel-container { width: 100%; }
+.carousel-main { position: relative; display: flex; align-items: center; gap: 0.5rem; }
+.carousel-viewport { flex: 1; position: relative; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 1; }
+.carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.4s ease; display: flex; align-items: center; justify-content: center; padding: 1rem; }
+.carousel-slide.active { opacity: 1; }
+.carousel-slide img { max-width: 100%; max-height: 100%; object-fit: contain; }
+.carousel-btn { flex-shrink: 0; width: 40px; height: 40px; border-radius: 50%; border: none; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s ease; z-index: 2; }
+.carousel-btn:hover { background: #F8C8DC; transform: scale(1.05); }
+.carousel-btn svg { width: 20px; height: 20px; color: #374151; }
+.carousel-thumbnails { display: none; gap: 0.5rem; margin-top: 1rem; justify-content: center; }
+@media (min-width: 768px) { .carousel-thumbnails { display: flex; } }
+.thumbnail { width: 60px; height: 60px; border-radius: 8px; overflow: hidden; border: 2px solid transparent; cursor: pointer; padding: 0; background: #F3F4F6; transition: all 0.2s ease; }
+.thumbnail:hover { border-color: #E8A8BC; }
+.thumbnail.active { border-color: #F8C8DC; box-shadow: 0 0 0 2px rgba(248, 200, 220, 0.3); }
+.thumbnail img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
+.carousel-dots { display: flex; justify-content: center; gap: 0.5rem; margin-top: 1rem; }
+@media (min-width: 768px) { .carousel-dots { display: none; } }
+.dot { width: 8px; height: 8px; border-radius: 50%; border: none; background: #E5E7EB; cursor: pointer; padding: 0; transition: all 0.2s ease; }
+.dot.active { background: #F8C8DC; width: 24px; border-radius: 4px; }
+
+/* Product Info */
+.product-info { display: flex; flex-direction: column; }
+.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; text-decoration: none; margin-bottom: 0.75rem; transition: color 0.2s ease; }
+.product-brand:hover { color: #e8a8bc; }
+.product-title { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
+@media (min-width: 768px) { .product-title { font-size: 2.25rem; } }
+.product-type { font-size: 1rem; color: #6B7280; margin: 0 0 1rem; }
+.product-rating { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; }
+.rating-stars { display: flex; gap: 0.15rem; }
+.star { width: 18px; height: 18px; color: #E5E7EB; }
+.star.filled { color: #F8C8DC; }
+.rating-count { font-size: 0.85rem; color: #9CA3AF; }
+
+/* Fragrance Pyramid */
+.fragrance-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; }
+.pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
+.notes-grid { display: flex; flex-direction: column; gap: 1rem; }
+.note-label { display: block; font-size: 0.75rem; font-weight: 600; color: #6B7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
+.note-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.note-tag { display: inline-block; padding: 0.3rem 0.7rem; font-size: 0.8rem; font-weight: 500; border-radius: 20px; }
+.note-tag.top { background: #FEFCE8; color: #A16207; }
+.note-tag.heart { background: #FDF2F8; color: #9D174D; }
+.note-tag.base { background: #F5F5F4; color: #57534E; }
+
+/* Characteristics - Full Width */
+.product-specs-fullwidth { background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
+@media (min-width: 768px) { .product-specs-fullwidth { padding: 2rem; } }
+.specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #1F2937; margin: 0 0 1.25rem; }
+.specs-title svg { width: 20px; height: 20px; color: #F8C8DC; }
+.specs-grid-horizontal { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+@media (min-width: 768px) { .specs-grid-horizontal { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 1024px) { .specs-grid-horizontal { grid-template-columns: repeat(5, 1fr); } }
+.spec-card { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 1rem; background: linear-gradient(145deg, #FAFAFA 0%, #F5F5F5 100%); border-radius: 12px; transition: transform 0.2s ease; }
+.spec-card:hover { transform: translateY(-2px); }
+.spec-icon { font-size: 1.5rem; margin-bottom: 0.5rem; }
+.spec-label { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #6B7280; margin-bottom: 0.25rem; }
+.spec-value { font-size: 0.85rem; font-weight: 600; color: #1F2937; }
+
+/* Content */
+.product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+@media (min-width: 768px) { .product-content { padding: 2.5rem; } }
+@media (min-width: 1024px) { .product-content { padding: 3rem; } }
+.content-wrapper { max-width: 800px; margin: 0 auto; }
+.content-wrapper h2 { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 600; color: #1F2937; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #F8C8DC; }
+.content-wrapper h2:first-child { margin-top: 0; }
+.content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 500; color: #374151; margin: 1.5rem 0 0.75rem; }
+.content-wrapper p { font-size: 1rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
+.content-wrapper strong { font-weight: 600; color: #1F2937; }
+
+/* Author Box */
+.author-box {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid #F3F4F6;
+}
+
+.author-avatar {
+    flex-shrink: 0;
+    position: relative;
+}
+
+.author-avatar img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #F8C8DC;
+}
+
+.author-avatar-fallback {
+    display: none;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%);
+    align-items: center;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+}
+
+.author-info {
+    flex: 1;
+}
+
+.author-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #F8C8DC;
+    margin-bottom: 0.25rem;
+}
+
+.author-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin: 0 0 0.75rem;
+}
+
+.author-bio {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #4B5563;
+    margin: 0 0 1rem;
+}
+
+.author-link {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #F8C8DC;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.author-link:hover {
+    color: #E8A8BC;
+}
+
+@media (max-width: 640px) {
+    .author-box {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}
+
+/* Placeholder */
+.product-image-placeholder { width: 100%; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
+.product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
+</style>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelectorAll('.carousel-slide');
+const thumbnails = document.querySelectorAll('.thumbnail');
+const dots = document.querySelectorAll('.dot');
+const totalSlides = slides.length;
+
+function updateSlide() {
+    slides.forEach((slide, index) => {
+        slide.classList.toggle('active', index === currentSlide);
+    });
+    thumbnails.forEach((thumb, index) => {
+        thumb.classList.toggle('active', index === currentSlide);
+    });
+    dots.forEach((dot, index) => {
+        dot.classList.toggle('active', index === currentSlide);
+    });
+}
+
+function changeSlide(direction) {
+    currentSlide = (currentSlide + direction + totalSlides) % totalSlides;
+    updateSlide();
+}
+
+function goToSlide(index) {
+    currentSlide = index;
+    updateSlide();
+}
+
+// Touch/Swipe support
+let touchStartX = 0;
+let touchEndX = 0;
+
+const viewport = document.querySelector('.carousel-viewport');
+if (viewport) {
+    viewport.addEventListener('touchstart', e => {
+        touchStartX = e.changedTouches[0].screenX;
+    }, false);
+
+    viewport.addEventListener('touchend', e => {
+        touchEndX = e.changedTouches[0].screenX;
+        if (touchEndX < touchStartX - 50) changeSlide(1);
+        if (touchEndX > touchStartX + 50) changeSlide(-1);
+    }, false);
+}
+</script>
+{{ end }}

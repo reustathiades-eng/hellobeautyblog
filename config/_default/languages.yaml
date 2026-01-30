@@ -1,10 +1,7 @@
 # =============================================================================
 # HELLO BEAUTY BLOG - Configuration des 14 Langues
+# Avec slugs de catégories traduits
 # =============================================================================
-
-# -----------------------------------------------------------------------------
-# PRIORITÉ HAUTE (TOP 5)
-# -----------------------------------------------------------------------------
 
 en:
   languageName: "English"
@@ -17,6 +14,22 @@ en:
     flag: "🇺🇸"
     dateFormat: "January 2, 2006"
     region: "US, UK, Australia"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
   menu:
     main:
       - identifier: perfumes
@@ -37,15 +50,15 @@ en:
         weight: 4
       - identifier: guides
         name: "Guides"
-        url: "/guides/"
+        url: "/en/guides/"
         weight: 5
       - identifier: blog
         name: "Blog"
-        url: "/blog/"
+        url: "/en/blog/"
         weight: 6
       - identifier: brands
         name: "Brands"
-        url: "/brands/"
+        url: "/en/brands/"
         weight: 7
 
 fr:
@@ -58,22 +71,38 @@ fr:
   params:
     flag: "🇫🇷"
     dateFormat: "2 January 2006"
-    region: "France, Belgique, Suisse, Canada"
+    region: "France, Belgium, Switzerland, Canada"
+    slugs:
+      perfumes: "parfums"
+      skincare: "soins"
+      makeup: "maquillage"
+      haircare: "cheveux"
+      guides: "guides"
+      blog: "blog"
+      brands: "marques"
+  permalinks:
+    perfumes: "/parfums/:slug/"
+    skincare: "/soins/:slug/"
+    makeup: "/maquillage/:slug/"
+    haircare: "/cheveux/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marques/:slug/"
   menu:
     main:
-      - identifier: parfums
+      - identifier: perfumes
         name: "Parfums"
         url: "/fr/parfums/"
         weight: 1
-      - identifier: soins
+      - identifier: skincare
         name: "Soins"
         url: "/fr/soins/"
         weight: 2
-      - identifier: maquillage
+      - identifier: makeup
         name: "Maquillage"
         url: "/fr/maquillage/"
         weight: 3
-      - identifier: cheveux
+      - identifier: haircare
         name: "Cheveux"
         url: "/fr/cheveux/"
         weight: 4
@@ -85,167 +114,53 @@ fr:
         name: "Blog"
         url: "/fr/blog/"
         weight: 6
-      - identifier: marques
+      - identifier: brands
         name: "Marques"
         url: "/fr/marques/"
         weight: 7
 
-zh:
-  languageName: "中文"
-  languageCode: "zh-CN"
-  weight: 3
-  title: "Hello Beauty Blog - 美丽博客"
-  description: "香水、护肤、化妆和护发的终极指南"
-  contentDir: "content/zh"
-  params:
-    flag: "🇨🇳"
-    dateFormat: "2006年1月2日"
-    region: "中国"
-  menu:
-    main:
-      - identifier: perfumes
-        name: "香水"
-        url: "/zh/香水/"
-        weight: 1
-      - identifier: skincare
-        name: "护肤"
-        url: "/zh/护肤/"
-        weight: 2
-      - identifier: makeup
-        name: "化妆"
-        url: "/zh/化妆/"
-        weight: 3
-      - identifier: haircare
-        name: "护发"
-        url: "/zh/护发/"
-        weight: 4
-      - identifier: guides
-        name: "指南"
-        url: "/zh/指南/"
-        weight: 5
-      - identifier: blog
-        name: "博客"
-        url: "/zh/博客/"
-        weight: 6
-      - identifier: brands
-        name: "品牌"
-        url: "/zh/品牌/"
-        weight: 7
-
-ja:
-  languageName: "日本語"
-  languageCode: "ja-JP"
-  weight: 4
-  title: "Hello Beauty Blog - ビューティーブログ"
-  description: "香水、スキンケア、メイクアップ、ヘアケアの究極ガイド"
-  contentDir: "content/ja"
-  params:
-    flag: "🇯🇵"
-    dateFormat: "2006年1月2日"
-    region: "日本"
-  menu:
-    main:
-      - identifier: perfumes
-        name: "香水"
-        url: "/ja/香水/"
-        weight: 1
-      - identifier: skincare
-        name: "スキンケア"
-        url: "/ja/スキンケア/"
-        weight: 2
-      - identifier: makeup
-        name: "メイク"
-        url: "/ja/メイク/"
-        weight: 3
-      - identifier: haircare
-        name: "ヘアケア"
-        url: "/ja/ヘアケア/"
-        weight: 4
-      - identifier: guides
-        name: "ガイド"
-        url: "/ja/ガイド/"
-        weight: 5
-      - identifier: blog
-        name: "ブログ"
-        url: "/ja/ブログ/"
-        weight: 6
-      - identifier: brands
-        name: "ブランド"
-        url: "/ja/ブランド/"
-        weight: 7
-
-ko:
-  languageName: "한국어"
-  languageCode: "ko-KR"
-  weight: 5
-  title: "Hello Beauty Blog - 뷰티 블로그"
-  description: "향수, 스킨케어, 메이크업, 헤어케어 완벽 가이드"
-  contentDir: "content/ko"
-  params:
-    flag: "🇰🇷"
-    dateFormat: "2006년 1월 2일"
-    region: "대한민국"
-  menu:
-    main:
-      - identifier: perfumes
-        name: "향수"
-        url: "/ko/향수/"
-        weight: 1
-      - identifier: skincare
-        name: "스킨케어"
-        url: "/ko/스킨케어/"
-        weight: 2
-      - identifier: makeup
-        name: "메이크업"
-        url: "/ko/메이크업/"
-        weight: 3
-      - identifier: haircare
-        name: "헤어케어"
-        url: "/ko/헤어케어/"
-        weight: 4
-      - identifier: guides
-        name: "가이드"
-        url: "/ko/가이드/"
-        weight: 5
-      - identifier: blog
-        name: "블로그"
-        url: "/ko/블로그/"
-        weight: 6
-      - identifier: brands
-        name: "브랜드"
-        url: "/ko/브랜드/"
-        weight: 7
-
-# -----------------------------------------------------------------------------
-# PRIORITÉ HAUTE (HIGH)
-# -----------------------------------------------------------------------------
-
 de:
   languageName: "Deutsch"
   languageCode: "de-DE"
-  weight: 6
+  weight: 3
   title: "Hello Beauty Blog"
-  description: "Ihr ultimativer Guide für Parfüm, Hautpflege, Make-up und Haarpflege"
+  description: "Ihr ultimativer Guide für Parfums, Hautpflege, Make-up und Haarpflege"
   contentDir: "content/de"
   params:
     flag: "🇩🇪"
     dateFormat: "2. January 2006"
-    region: "Deutschland, Österreich, Schweiz"
+    region: "Germany, Austria, Switzerland"
+    slugs:
+      perfumes: "parfum"
+      skincare: "hautpflege"
+      makeup: "make-up"
+      haircare: "haarpflege"
+      guides: "ratgeber"
+      blog: "blog"
+      brands: "marken"
+  permalinks:
+    perfumes: "/parfum/:slug/"
+    skincare: "/hautpflege/:slug/"
+    makeup: "/make-up/:slug/"
+    haircare: "/haarpflege/:slug/"
+    guides: "/ratgeber/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marken/:slug/"
   menu:
     main:
-      - identifier: parfums
-        name: "Parfüm"
-        url: "/de/parfums/"
+      - identifier: perfumes
+        name: "Parfum"
+        url: "/de/parfum/"
         weight: 1
-      - identifier: hautpflege
+      - identifier: skincare
         name: "Hautpflege"
         url: "/de/hautpflege/"
         weight: 2
       - identifier: makeup
         name: "Make-up"
-        url: "/de/makeup/"
+        url: "/de/make-up/"
         weight: 3
-      - identifier: haarpflege
+      - identifier: haircare
         name: "Haarpflege"
         url: "/de/haarpflege/"
         weight: 4
@@ -257,7 +172,7 @@ de:
         name: "Blog"
         url: "/de/blog/"
         weight: 6
-      - identifier: marken
+      - identifier: brands
         name: "Marken"
         url: "/de/marken/"
         weight: 7
@@ -265,33 +180,49 @@ de:
 es:
   languageName: "Español"
   languageCode: "es-ES"
-  weight: 7
+  weight: 4
   title: "Hello Beauty Blog"
   description: "Tu guía definitiva de perfumes, cuidado de la piel, maquillaje y cabello"
   contentDir: "content/es"
   params:
     flag: "🇪🇸"
     dateFormat: "2 de January de 2006"
-    region: "España, América Latina"
+    region: "Spain, Latin America"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "cuidado-piel"
+      makeup: "maquillaje"
+      haircare: "cabello"
+      guides: "guias"
+      blog: "blog"
+      brands: "marcas"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/cuidado-piel/:slug/"
+    makeup: "/maquillaje/:slug/"
+    haircare: "/cabello/:slug/"
+    guides: "/guias/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marcas/:slug/"
   menu:
     main:
       - identifier: perfumes
         name: "Perfumes"
         url: "/es/perfumes/"
         weight: 1
-      - identifier: cuidado
-        name: "Cuidado"
-        url: "/es/cuidado/"
+      - identifier: skincare
+        name: "Cuidado Piel"
+        url: "/es/cuidado-piel/"
         weight: 2
-      - identifier: maquillaje
+      - identifier: makeup
         name: "Maquillaje"
         url: "/es/maquillaje/"
         weight: 3
-      - identifier: cabello
+      - identifier: haircare
         name: "Cabello"
         url: "/es/cabello/"
         weight: 4
-      - identifier: guias
+      - identifier: guides
         name: "Guías"
         url: "/es/guias/"
         weight: 5
@@ -299,113 +230,41 @@ es:
         name: "Blog"
         url: "/es/blog/"
         weight: 6
-      - identifier: marcas
+      - identifier: brands
         name: "Marcas"
         url: "/es/marcas/"
         weight: 7
 
-pt:
-  languageName: "Português"
-  languageCode: "pt-BR"
-  weight: 8
-  title: "Hello Beauty Blog"
-  description: "Seu guia definitivo de perfumes, cuidados com a pele, maquiagem e cabelo"
-  contentDir: "content/pt"
-  params:
-    flag: "🇧🇷"
-    dateFormat: "2 de January de 2006"
-    region: "Brasil, Portugal"
-  menu:
-    main:
-      - identifier: perfumes
-        name: "Perfumes"
-        url: "/pt/perfumes/"
-        weight: 1
-      - identifier: cuidados
-        name: "Cuidados"
-        url: "/pt/cuidados/"
-        weight: 2
-      - identifier: maquiagem
-        name: "Maquiagem"
-        url: "/pt/maquiagem/"
-        weight: 3
-      - identifier: cabelo
-        name: "Cabelo"
-        url: "/pt/cabelo/"
-        weight: 4
-      - identifier: guias
-        name: "Guias"
-        url: "/pt/guias/"
-        weight: 5
-      - identifier: blog
-        name: "Blog"
-        url: "/pt/blog/"
-        weight: 6
-      - identifier: marcas
-        name: "Marcas"
-        url: "/pt/marcas/"
-        weight: 7
-
-hi:
-  languageName: "हिन्दी"
-  languageCode: "hi-IN"
-  weight: 9
-  title: "Hello Beauty Blog - ब्यूटी ब्लॉग"
-  description: "इत्र, त्वचा की देखभाल, मेकअप और बालों की देखभाल के लिए आपकी अंतिम गाइड"
-  contentDir: "content/hi"
-  params:
-    flag: "🇮🇳"
-    dateFormat: "2 January 2006"
-    region: "भारत"
-  menu:
-    main:
-      - identifier: perfumes
-        name: "इत्र"
-        url: "/hi/इत्र/"
-        weight: 1
-      - identifier: skincare
-        name: "त्वचा देखभाल"
-        url: "/hi/त्वचा-देखभाल/"
-        weight: 2
-      - identifier: makeup
-        name: "मेकअप"
-        url: "/hi/मेकअप/"
-        weight: 3
-      - identifier: haircare
-        name: "बाल देखभाल"
-        url: "/hi/बाल-देखभाल/"
-        weight: 4
-      - identifier: guides
-        name: "गाइड"
-        url: "/hi/गाइड/"
-        weight: 5
-      - identifier: blog
-        name: "ब्लॉग"
-        url: "/hi/ब्लॉग/"
-        weight: 6
-      - identifier: brands
-        name: "ब्रांड"
-        url: "/hi/ब्रांड/"
-        weight: 7
-
-# -----------------------------------------------------------------------------
-# PRIORITÉ MOYENNE (MEDIUM)
-# -----------------------------------------------------------------------------
-
 it:
   languageName: "Italiano"
   languageCode: "it-IT"
-  weight: 10
+  weight: 5
   title: "Hello Beauty Blog"
-  description: "La tua guida definitiva a profumi, cura della pelle, trucco e capelli"
+  description: "La tua guida definitiva per profumi, skincare, trucco e capelli"
   contentDir: "content/it"
   params:
     flag: "🇮🇹"
     dateFormat: "2 January 2006"
-    region: "Italia"
+    region: "Italy"
+    slugs:
+      perfumes: "profumi"
+      skincare: "skincare"
+      makeup: "trucco"
+      haircare: "capelli"
+      guides: "guide"
+      blog: "blog"
+      brands: "marchi"
+  permalinks:
+    perfumes: "/profumi/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/trucco/:slug/"
+    haircare: "/capelli/:slug/"
+    guides: "/guide/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marchi/:slug/"
   menu:
     main:
-      - identifier: profumi
+      - identifier: perfumes
         name: "Profumi"
         url: "/it/profumi/"
         weight: 1
@@ -413,15 +272,15 @@ it:
         name: "Skincare"
         url: "/it/skincare/"
         weight: 2
-      - identifier: trucco
+      - identifier: makeup
         name: "Trucco"
         url: "/it/trucco/"
         weight: 3
-      - identifier: capelli
+      - identifier: haircare
         name: "Capelli"
         url: "/it/capelli/"
         weight: 4
-      - identifier: guide
+      - identifier: guides
         name: "Guide"
         url: "/it/guide/"
         weight: 5
@@ -429,41 +288,115 @@ it:
         name: "Blog"
         url: "/it/blog/"
         weight: 6
-      - identifier: marchi
+      - identifier: brands
         name: "Marchi"
         url: "/it/marchi/"
+        weight: 7
+
+pt:
+  languageName: "Português"
+  languageCode: "pt-BR"
+  weight: 6
+  title: "Hello Beauty Blog"
+  description: "Seu guia definitivo para perfumes, skincare, maquiagem e cabelos"
+  contentDir: "content/pt"
+  params:
+    flag: "🇧🇷"
+    dateFormat: "2 de January de 2006"
+    region: "Brazil, Portugal"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "maquiagem"
+      haircare: "cabelos"
+      guides: "guias"
+      blog: "blog"
+      brands: "marcas"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/maquiagem/:slug/"
+    haircare: "/cabelos/:slug/"
+    guides: "/guias/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marcas/:slug/"
+  menu:
+    main:
+      - identifier: perfumes
+        name: "Perfumes"
+        url: "/pt/perfumes/"
+        weight: 1
+      - identifier: skincare
+        name: "Skincare"
+        url: "/pt/skincare/"
+        weight: 2
+      - identifier: makeup
+        name: "Maquiagem"
+        url: "/pt/maquiagem/"
+        weight: 3
+      - identifier: haircare
+        name: "Cabelos"
+        url: "/pt/cabelos/"
+        weight: 4
+      - identifier: guides
+        name: "Guias"
+        url: "/pt/guias/"
+        weight: 5
+      - identifier: blog
+        name: "Blog"
+        url: "/pt/blog/"
+        weight: 6
+      - identifier: brands
+        name: "Marcas"
+        url: "/pt/marcas/"
         weight: 7
 
 nl:
   languageName: "Nederlands"
   languageCode: "nl-NL"
-  weight: 11
+  weight: 7
   title: "Hello Beauty Blog"
-  description: "Jouw ultieme gids voor parfum, huidverzorging, make-up en haarverzorging"
+  description: "Jouw ultieme gids voor parfums, huidverzorging, make-up en haarverzorging"
   contentDir: "content/nl"
   params:
     flag: "🇳🇱"
     dateFormat: "2 January 2006"
-    region: "Nederland, België"
+    region: "Netherlands, Belgium"
+    slugs:
+      perfumes: "parfum"
+      skincare: "huidverzorging"
+      makeup: "make-up"
+      haircare: "haarverzorging"
+      guides: "gidsen"
+      blog: "blog"
+      brands: "merken"
+  permalinks:
+    perfumes: "/parfum/:slug/"
+    skincare: "/huidverzorging/:slug/"
+    makeup: "/make-up/:slug/"
+    haircare: "/haarverzorging/:slug/"
+    guides: "/gidsen/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/merken/:slug/"
   menu:
     main:
-      - identifier: parfum
+      - identifier: perfumes
         name: "Parfum"
         url: "/nl/parfum/"
         weight: 1
-      - identifier: huidverzorging
+      - identifier: skincare
         name: "Huidverzorging"
         url: "/nl/huidverzorging/"
         weight: 2
       - identifier: makeup
         name: "Make-up"
-        url: "/nl/makeup/"
+        url: "/nl/make-up/"
         weight: 3
-      - identifier: haarverzorging
+      - identifier: haircare
         name: "Haarverzorging"
         url: "/nl/haarverzorging/"
         weight: 4
-      - identifier: gidsen
+      - identifier: guides
         name: "Gidsen"
         url: "/nl/gidsen/"
         weight: 5
@@ -471,7 +404,7 @@ nl:
         name: "Blog"
         url: "/nl/blog/"
         weight: 6
-      - identifier: merken
+      - identifier: brands
         name: "Merken"
         url: "/nl/merken/"
         weight: 7
@@ -479,33 +412,49 @@ nl:
 pl:
   languageName: "Polski"
   languageCode: "pl-PL"
-  weight: 12
+  weight: 8
   title: "Hello Beauty Blog"
-  description: "Twój ostateczny przewodnik po perfumach, pielęgnacji skóry, makijażu i włosach"
+  description: "Twój przewodnik po perfumach, pielęgnacji skóry, makijażu i włosach"
   contentDir: "content/pl"
   params:
     flag: "🇵🇱"
     dateFormat: "2 January 2006"
-    region: "Polska"
+    region: "Poland"
+    slugs:
+      perfumes: "perfumy"
+      skincare: "pielegnacja"
+      makeup: "makijaz"
+      haircare: "wlosy"
+      guides: "poradniki"
+      blog: "blog"
+      brands: "marki"
+  permalinks:
+    perfumes: "/perfumy/:slug/"
+    skincare: "/pielegnacja/:slug/"
+    makeup: "/makijaz/:slug/"
+    haircare: "/wlosy/:slug/"
+    guides: "/poradniki/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/marki/:slug/"
   menu:
     main:
-      - identifier: perfumy
+      - identifier: perfumes
         name: "Perfumy"
         url: "/pl/perfumy/"
         weight: 1
-      - identifier: pielegnacja
+      - identifier: skincare
         name: "Pielęgnacja"
         url: "/pl/pielegnacja/"
         weight: 2
-      - identifier: makijaz
+      - identifier: makeup
         name: "Makijaż"
         url: "/pl/makijaz/"
         weight: 3
-      - identifier: wlosy
+      - identifier: haircare
         name: "Włosy"
         url: "/pl/wlosy/"
         weight: 4
-      - identifier: poradniki
+      - identifier: guides
         name: "Poradniki"
         url: "/pl/poradniki/"
         weight: 5
@@ -513,7 +462,7 @@ pl:
         name: "Blog"
         url: "/pl/blog/"
         weight: 6
-      - identifier: marki
+      - identifier: brands
         name: "Marki"
         url: "/pl/marki/"
         weight: 7
@@ -521,84 +470,348 @@ pl:
 tr:
   languageName: "Türkçe"
   languageCode: "tr-TR"
-  weight: 13
+  weight: 9
   title: "Hello Beauty Blog"
-  description: "Parfüm, cilt bakımı, makyaj ve saç bakımı için nihai rehberiniz"
+  description: "Parfümler, cilt bakımı, makyaj ve saç bakımı için rehberiniz"
   contentDir: "content/tr"
   params:
     flag: "🇹🇷"
     dateFormat: "2 January 2006"
-    region: "Türkiye"
+    region: "Turkey"
+    slugs:
+      perfumes: "parfum"
+      skincare: "cilt-bakimi"
+      makeup: "makyaj"
+      haircare: "sac-bakimi"
+      guides: "rehber"
+      blog: "blog"
+      brands: "markalar"
+  permalinks:
+    perfumes: "/parfum/:slug/"
+    skincare: "/cilt-bakimi/:slug/"
+    makeup: "/makyaj/:slug/"
+    haircare: "/sac-bakimi/:slug/"
+    guides: "/rehber/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/markalar/:slug/"
   menu:
     main:
-      - identifier: parfum
+      - identifier: perfumes
         name: "Parfüm"
-        url: "/tr/parfumler/"
+        url: "/tr/parfum/"
         weight: 1
-      - identifier: ciltbakimi
+      - identifier: skincare
         name: "Cilt Bakımı"
         url: "/tr/cilt-bakimi/"
         weight: 2
-      - identifier: makyaj
+      - identifier: makeup
         name: "Makyaj"
         url: "/tr/makyaj/"
         weight: 3
-      - identifier: sacbakimi
+      - identifier: haircare
         name: "Saç Bakımı"
         url: "/tr/sac-bakimi/"
         weight: 4
-      - identifier: rehberler
-        name: "Rehberler"
-        url: "/tr/rehberler/"
+      - identifier: guides
+        name: "Rehber"
+        url: "/tr/rehber/"
         weight: 5
       - identifier: blog
         name: "Blog"
         url: "/tr/blog/"
         weight: 6
-      - identifier: markalar
+      - identifier: brands
         name: "Markalar"
         url: "/tr/markalar/"
+        weight: 7
+
+ja:
+  languageName: "日本語"
+  languageCode: "ja-JP"
+  weight: 10
+  title: "Hello Beauty Blog"
+  description: "香水、スキンケア、メイクアップ、ヘアケアの究極ガイド"
+  contentDir: "content/ja"
+  params:
+    flag: "🇯🇵"
+    dateFormat: "2006年1月2日"
+    region: "Japan"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
+  menu:
+    main:
+      - identifier: perfumes
+        name: "香水"
+        url: "/ja/perfumes/"
+        weight: 1
+      - identifier: skincare
+        name: "护肤"
+        url: "/ja/skincare/"
+        weight: 2
+      - identifier: makeup
+        name: "化妆"
+        url: "/ja/makeup/"
+        weight: 3
+      - identifier: haircare
+        name: "护发"
+        url: "/ja/haircare/"
+        weight: 4
+      - identifier: guides
+        name: "指南"
+        url: "/ja/guides/"
+        weight: 5
+      - identifier: blog
+        name: "博客"
+        url: "/ja/blog/"
+        weight: 6
+      - identifier: brands
+        name: "品牌"
+        url: "/ja/brands/"
+        weight: 7
+
+ko:
+  languageName: "한국어"
+  languageCode: "ko-KR"
+  weight: 11
+  title: "Hello Beauty Blog"
+  description: "향수, 스킨케어, 메이크업, 헤어케어 가이드"
+  contentDir: "content/ko"
+  params:
+    flag: "🇰🇷"
+    dateFormat: "2006년 1월 2일"
+    region: "South Korea"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
+  menu:
+    main:
+      - identifier: perfumes
+        name: "향수"
+        url: "/ko/perfumes/"
+        weight: 1
+      - identifier: skincare
+        name: "스킨케어"
+        url: "/ko/skincare/"
+        weight: 2
+      - identifier: makeup
+        name: "메이크업"
+        url: "/ko/makeup/"
+        weight: 3
+      - identifier: haircare
+        name: "헤어케어"
+        url: "/ko/haircare/"
+        weight: 4
+      - identifier: guides
+        name: "가이드"
+        url: "/ko/guides/"
+        weight: 5
+      - identifier: blog
+        name: "블로그"
+        url: "/ko/blog/"
+        weight: 6
+      - identifier: brands
+        name: "브랜드"
+        url: "/ko/brands/"
+        weight: 7
+
+zh:
+  languageName: "中文"
+  languageCode: "zh-CN"
+  weight: 12
+  title: "Hello Beauty Blog"
+  description: "香水、护肤、化妆和护发的终极指南"
+  contentDir: "content/zh"
+  params:
+    flag: "🇨🇳"
+    dateFormat: "2006年1月2日"
+    region: "China, Taiwan, Hong Kong"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
+  menu:
+    main:
+      - identifier: perfumes
+        name: "香水"
+        url: "/zh/perfumes/"
+        weight: 1
+      - identifier: skincare
+        name: "护肤"
+        url: "/zh/skincare/"
+        weight: 2
+      - identifier: makeup
+        name: "化妆"
+        url: "/zh/makeup/"
+        weight: 3
+      - identifier: haircare
+        name: "护发"
+        url: "/zh/haircare/"
+        weight: 4
+      - identifier: guides
+        name: "指南"
+        url: "/zh/guides/"
+        weight: 5
+      - identifier: blog
+        name: "博客"
+        url: "/zh/blog/"
+        weight: 6
+      - identifier: brands
+        name: "品牌"
+        url: "/zh/brands/"
         weight: 7
 
 ar:
   languageName: "العربية"
   languageCode: "ar-SA"
-  weight: 14
-  title: "Hello Beauty Blog - مدونة الجمال"
-  description: "دليلك النهائي للعطور والعناية بالبشرة والمكياج والعناية بالشعر"
+  weight: 13
+  title: "Hello Beauty Blog"
+  description: "دليلك الشامل للعطور والعناية بالبشرة والمكياج والشعر"
   contentDir: "content/ar"
   params:
     flag: "🇸🇦"
     dateFormat: "2 January 2006"
-    region: "الشرق الأوسط"
+    region: "Middle East"
     rtl: true
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
   menu:
     main:
       - identifier: perfumes
-        name: "عطور"
-        url: "/ar/عطور/"
+        name: "العطور"
+        url: "/ar/perfumes/"
         weight: 1
       - identifier: skincare
         name: "العناية بالبشرة"
-        url: "/ar/العناية-بالبشرة/"
+        url: "/ar/skincare/"
         weight: 2
       - identifier: makeup
-        name: "مكياج"
-        url: "/ar/مكياج/"
+        name: "المكياج"
+        url: "/ar/makeup/"
         weight: 3
       - identifier: haircare
         name: "العناية بالشعر"
-        url: "/ar/العناية-بالشعر/"
+        url: "/ar/haircare/"
         weight: 4
       - identifier: guides
-        name: "أدلة"
-        url: "/ar/أدلة/"
+        name: "الدليل"
+        url: "/ar/guides/"
         weight: 5
       - identifier: blog
-        name: "مدونة"
-        url: "/ar/مدونة/"
+        name: "المدونة"
+        url: "/ar/blog/"
         weight: 6
       - identifier: brands
-        name: "ماركات"
-        url: "/ar/ماركات/"
+        name: "العلامات"
+        url: "/ar/brands/"
+        weight: 7
+
+hi:
+  languageName: "हिन्दी"
+  languageCode: "hi-IN"
+  weight: 14
+  title: "Hello Beauty Blog"
+  description: "इत्र, स्किनकेयर, मेकअप और हेयरकेयर के लिए आपकी अंतिम गाइड"
+  contentDir: "content/hi"
+  params:
+    flag: "🇮🇳"
+    dateFormat: "2 January 2006"
+    region: "India"
+    slugs:
+      perfumes: "perfumes"
+      skincare: "skincare"
+      makeup: "makeup"
+      haircare: "haircare"
+      guides: "guides"
+      blog: "blog"
+      brands: "brands"
+  permalinks:
+    perfumes: "/perfumes/:slug/"
+    skincare: "/skincare/:slug/"
+    makeup: "/makeup/:slug/"
+    haircare: "/haircare/:slug/"
+    guides: "/guides/:slug/"
+    blog: "/blog/:slug/"
+    brands: "/brands/:slug/"
+  menu:
+    main:
+      - identifier: perfumes
+        name: "इत्र"
+        url: "/hi/perfumes/"
+        weight: 1
+      - identifier: skincare
+        name: "स्किनकेयर"
+        url: "/hi/skincare/"
+        weight: 2
+      - identifier: makeup
+        name: "मेकअप"
+        url: "/hi/makeup/"
+        weight: 3
+      - identifier: haircare
+        name: "हेयरकेयर"
+        url: "/hi/haircare/"
+        weight: 4
+      - identifier: guides
+        name: "गाइड"
+        url: "/hi/guides/"
+        weight: 5
+      - identifier: blog
+        name: "ब्लॉग"
+        url: "/hi/blog/"
+        weight: 6
+      - identifier: brands
+        name: "ब्रांड"
+        url: "/hi/brands/"
         weight: 7
