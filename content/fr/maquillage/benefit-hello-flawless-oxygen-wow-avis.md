@@ -8,7 +8,7 @@ authorSlug: "sofia-martinez"
 categories: ["maquillage"]
 tags: ["benefit", "foundation", "hello flawless", "spf makeup"]
 images:
-  - /images/maquillage/benefit-hello-flawless-oxygen-wow-avis.jpg
+  - /images/makeup/benefit-hello-flawless-oxygen-wow-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-hello-flawless-oxygen-wow"

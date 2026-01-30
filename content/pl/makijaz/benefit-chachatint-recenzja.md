@@ -9,7 +9,7 @@ categories: ["Makijaż"]
 tags: ["benefit", "chachatint", "tint do ust", "róż płynny", "naturalny makijaż"]
 keywords: ["benefit chachatint", "chachatint recenzja", "tint policzki usta"]
 images:
-  - /images/makijaz/benefit-chachatint-recenzja.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

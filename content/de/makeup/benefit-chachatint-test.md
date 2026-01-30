@@ -9,7 +9,7 @@ categories: ["Makeup"]
 tags: ["benefit", "chachatint", "lippenfarbe", "wangenfarbe", "natürliches makeup"]
 keywords: ["benefit chachatint", "chachatint test", "lippen wangen tint"]
 images:
-  - /images/makeup/benefit-chachatint-test.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

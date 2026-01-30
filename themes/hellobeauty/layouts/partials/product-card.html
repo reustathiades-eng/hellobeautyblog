@@ -9,7 +9,7 @@
     <!-- Image -->
     <a href="{{ .Permalink }}" class="block relative overflow-hidden">
         <div class="aspect-square bg-background">
-            {{ with .Params.image }}
+            {{ with index .Params.images 0 }}
             <img src="{{ . }}" 
                  alt="{{ $.Title }}"
                  loading="lazy"

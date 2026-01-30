@@ -9,7 +9,7 @@ categories: ["مكياج"]
 tags: ["benefit", "chachatint", "صبغة شفاه", "بلاش سائل", "مكياج طبيعي"]
 keywords: ["benefit chachatint", "chachatint مراجعة", "صبغة خدود شفاه"]
 images:
-  - /images/مكياج/benefit-chachatint-مراجعة.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

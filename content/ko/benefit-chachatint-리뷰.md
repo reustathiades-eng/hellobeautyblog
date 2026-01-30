@@ -9,7 +9,7 @@ categories: ["메이크업"]
 tags: ["benefit", "chachatint", "립 틴트", "리퀴드 치크", "내추럴 메이크업"]
 keywords: ["benefit chachatint", "chachatint 리뷰", "립 치크 틴트"]
 images:
-  - /images/메이크업/benefit-chachatint-리뷰.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

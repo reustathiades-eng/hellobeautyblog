@@ -9,7 +9,7 @@ categories: ["Maquillage"]
 tags: ["benefit", "chachatint", "teinture lèvres", "blush liquide", "maquillage naturel"]
 keywords: ["benefit chachatint", "chachatint avis", "teinture joues lèvres"]
 images:
-  - /images/maquillage/benefit-chachatint-avis.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

@@ -9,7 +9,7 @@ categories: ["化妆"]
 tags: ["benefit", "chachatint", "唇颊染", "液体腮红", "自然妆容"]
 keywords: ["benefit chachatint", "chachatint测评", "唇颊染液"]
 images:
-  - /images/化妆/benefit-chachatint-测评.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

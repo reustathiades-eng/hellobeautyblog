@@ -9,7 +9,7 @@ categories: ["Maquiagem"]
 tags: ["benefit", "chachatint", "tint lábios", "blush líquido", "maquiagem natural"]
 keywords: ["benefit chachatint", "chachatint resenha", "tint bochechas lábios"]
 images:
-  - /images/maquiagem/benefit-chachatint-resenha.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

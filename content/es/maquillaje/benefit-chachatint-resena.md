@@ -9,7 +9,7 @@ categories: ["Maquillaje"]
 tags: ["benefit", "chachatint", "tinte labios", "rubor líquido", "maquillaje natural"]
 keywords: ["benefit chachatint", "chachatint reseña", "tinte mejillas labios"]
 images:
-  - /images/maquillaje/benefit-chachatint-resena.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

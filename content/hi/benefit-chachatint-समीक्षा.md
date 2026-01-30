@@ -9,7 +9,7 @@ categories: ["मेकअप"]
 tags: ["benefit", "chachatint", "लिप टिंट", "लिक्विड ब्लश", "नेचुरल मेकअप"]
 keywords: ["benefit chachatint", "chachatint समीक्षा", "लिप चीक टिंट"]
 images:
-  - /images/मेकअप/benefit-chachatint-समीक्षा.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

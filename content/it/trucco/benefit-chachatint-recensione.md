@@ -9,7 +9,7 @@ categories: ["Trucco"]
 tags: ["benefit", "chachatint", "tinta labbra", "blush liquido", "trucco naturale"]
 keywords: ["benefit chachatint", "chachatint recensione", "tinta guance labbra"]
 images:
-  - /images/trucco/benefit-chachatint-recensione.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

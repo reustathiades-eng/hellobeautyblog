@@ -8,10 +8,10 @@ author: "Sonja"
 categories: ["Skincare", "Blog"]
 tags: ["lip treatment", "skin care", "skincare", "tips", "best of beauty", "health", "reviews"]
 images:
-  - /images/skincare/soft-supple-lips.jpg
+  - /images/skincare/soft-supple-lips-tips.jpg
 ---
 
-![Soft Supple Lips](/images/skincare/soft-supple-lips.jpg)
+![Soft Supple Lips](/images/skincare/soft-supple-lips-tips.jpg)
 
 **It's easy for lips to get dry any time of year.** The heat and sun exposure of summer can easily dry out lips and leave them flaky or cracked while the chilly temps of fall and winter can surely do a number on them. But you can get your lips into a soft, supple state in no time and keep them that way by sticking to a few simple dos and don'ts.
 

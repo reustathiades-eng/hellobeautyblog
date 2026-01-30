@@ -9,7 +9,7 @@ categories: ["メイク"]
 tags: ["benefit", "chachatint", "リップティント", "リキッドチーク", "ナチュラルメイク"]
 keywords: ["benefit chachatint", "chachatint レビュー", "リップチークティント"]
 images:
-  - /images/メイク/benefit-chachatint-レビュー.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"

@@ -8,7 +8,7 @@ authorSlug: "sofia-martin"
 categories: ["zh"]
 tags: ["benefit", "眼部打底", "stay dont stray"]
 images:
-  - /images/zh/benefit-stay-dont-stray-测评.jpg
+  - /images/makeup/benefit-stay-dont-stray-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-stay-dont-stray"

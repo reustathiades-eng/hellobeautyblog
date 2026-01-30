@@ -8,7 +8,7 @@ authorSlug: "sofia-martinez"
 categories: ["ko"]
 tags: ["benefit", "eyeshadow primer", "stay dont stray"]
 images:
-  - /images/ko/benefit-stay-dont-stray-리뷰.jpg
+  - /images/makeup/benefit-stay-dont-stray-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-stay-dont-stray"

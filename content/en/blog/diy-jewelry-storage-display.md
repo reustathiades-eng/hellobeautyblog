@@ -8,10 +8,10 @@ author: "Sonja"
 categories: ["Blog", "DIY"]
 tags: ["DIY", "how to", "jewelry", "organization", "tips & tricks"]
 images:
-  - /images/blog/diy-jewelry-board.jpg
+  - /images/blog/diy-jewelry-storage-display.jpg
 ---
 
-![DIY Jewelry Board Organizer](/images/blog/diy-jewelry-board.jpg)
+![DIY Jewelry Board Organizer](/images/blog/diy-jewelry-storage-display.jpg)
 
 **I have quite a few necklaces.** But I don't like to store them in a jewelry box, because I find it hard to see what I have and then I don't end up wearing them. I came up with an easy, elegant, inexpensive DIY solution that allows me to store, organize *and* display my necklaces and bracelets. It also serves as a pretty wall decoration.
 

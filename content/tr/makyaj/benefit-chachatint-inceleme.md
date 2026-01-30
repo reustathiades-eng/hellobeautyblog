@@ -9,7 +9,7 @@ categories: ["Makyaj"]
 tags: ["benefit", "chachatint", "dudak boyası", "likit allık", "doğal makyaj"]
 keywords: ["benefit chachatint", "chachatint inceleme", "yanak dudak tınlama"]
 images:
-  - /images/makyaj/benefit-chachatint-inceleme.jpg
+  - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
 translationKey: "benefit-chachatint"
