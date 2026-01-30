@@ -10,7 +10,7 @@
         <!-- Colonne gauche : Image -->
         <div class="flex justify-center lg:justify-start">
             {{ with index .Params.images 0 }}
-            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 320px; width: 100%">
+            <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 480px; width: 100%">
             {{ else }}
             <div class="max-w-xs w-full aspect-square bg-gray-100 rounded-xl flex items-center justify-center">
                 <svg class="w-16 h-16 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
