@@ -730,3 +730,63 @@ textarea::placeholder {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
+
+/* -----------------------------------------------------------------------------
+   11. TYPOGRAPHY - H2 & H3 STYLING
+   ----------------------------------------------------------------------------- */
+
+.prose h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+    color: #1F2937;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #F8C8DC;
+}
+
+.prose h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 1.35rem;
+    color: #374151;
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    position: relative;
+    padding-left: 1rem;
+}
+
+.prose h3::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.2em;
+    bottom: 0.2em;
+    width: 3px;
+    background: #F8C8DC;
+    border-radius: 2px;
+}
+
+/* -----------------------------------------------------------------------------
+   12. FOOTER CENTERING
+   ----------------------------------------------------------------------------- */
+
+@media (min-width: 1024px) {
+    .footer-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 3rem;
+        text-align: left;
+    }
+}
+
+.footer-grid {
+    text-align: center;
+}
+
+@media (min-width: 1024px) {
+    .footer-grid {
+        text-align: left;
+    }
+}
