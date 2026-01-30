@@ -12,6 +12,7 @@ images:
   - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Benefit's Chachatint behoort inmiddels tot die producten waar iedereen wel eens van gehoord heeft. En niet zonder reden. Deze vloeibare lip- en wangtint in een vrolijke mango-koraal kleur belooft een natuurlijke, gezonde glow die doet denken aan een dag op het strand. Maar levert dit cultproduct werkelijk wat het belooft?

@@ -12,6 +12,7 @@ images:
   - /images/maquiagem/benefit-chachatint-resenha.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Sabe aquele produto que você guarda na necessaire com tanto carinho que até hesita em usar? O Benefit Chachatint sempre foi assim para mim. Mas depois de anos trabalhando com maquiagem, aprendi uma coisa: produtos bons existem para serem usados (e amados).

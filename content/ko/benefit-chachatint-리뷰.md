@@ -12,6 +12,7 @@ images:
   - /images/메이크업/benefit-chachatint-리뷰.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 베네핏의 차차틴트는 출시 이후 꾸준히 사랑받고 있는 컬트 제품입니다. 망고 코랄 컬러의 이 리퀴드 틴트는 입술과 볼 모두에 사용할 수 있어 휴대성과 실용성을 동시에 갖췄습니다.

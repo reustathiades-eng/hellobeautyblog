@@ -12,6 +12,7 @@ images:
   - /images/مكياج/benefit-chachatint-مراجعة.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 كم مرة وجدت حضرتك نفسك أمام المرآة تبحثين عن ذلك التوهج الطبيعي الذي يبدو وكأنك عدت لتوّك من يوم مشمس على الشاطئ؟ Chachatint من Benefit واحد من تلك المنتجات النادرة التي تعطي هذا التأثير بسهولة مذهلة.

@@ -12,6 +12,7 @@ images:
   - /images/makyaj/benefit-chachatint-inceleme.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Benefit'in ünlü tint ailesinin bu neşeli üyesiyle tanışmak, gerçekten keyifli bir deneyim. Chachatint, adından da anlaşılacağı gibi, size tatildeymiş gibi hissettiren o mango-mercan tonuyla dikkat çekiyor.

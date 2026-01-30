@@ -12,6 +12,7 @@ images:
   - /images/makijaz/benefit-chachatint-recenzja.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Pierwszy raz zetknęłam się z Chachatint podczas sesji zdjęciowej na plaży. Potrzebowałam czegoś, co wytrzyma upał, wilgoć i da modelce naturalny rumieniec jak po całym dniu na słońcu. I muszę przyznać – trafiłam w dziesiątkę.

@@ -12,6 +12,7 @@ images:
   - /images/メイク/benefit-chachatint-レビュー.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 マンゴーコーラルって聞いて、ピンとこない方もいるかもしれません。でもこの絶妙な色味こそ、Benefitの**Chachatint**が長年愛され続けている理由なんです。

@@ -12,6 +12,7 @@ images:
   - /images/makeup/benefit-chachatint-test.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Benefit hat mit seinen Tints eine kleine Revolution in der Make-up-Welt ausgelöst. Der Chachatint in seinem unverkennbaren Mango-Korall-Ton verspricht frische Farbe für Lippen und Wangen – wie nach einem Tag in der Sonne. Aber hält das Kultprodukt wirklich, was es verspricht?

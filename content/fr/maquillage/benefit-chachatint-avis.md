@@ -12,6 +12,7 @@ images:
   - /images/maquillage/benefit-chachatint-avis.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Certains produits traversent les années sans prendre une ride. Le Chachatint de Benefit fait partie de ces incontournables qui méritent qu'on s'y attarde. Cette petite teinture liquide mangue-corail promet un effet bonne mine naturel avec une tenue d'enfer. Mais tient-elle vraiment ses promesses?

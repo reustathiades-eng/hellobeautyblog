@@ -12,6 +12,7 @@ images:
   - /images/化妆/benefit-chachatint-测评.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 说起Benefit家的染唇颊系列，Chachatint绝对是让人一见倾心的那一支。这抹芒果珊瑚色就像夏日海滩上的晚霞，温暖又充满活力。我已经用完两瓶了，今天就和您聊聊这款经典产品的方方面面。

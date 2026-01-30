@@ -12,6 +12,7 @@ images:
   - /images/trucco/benefit-chachatint-recensione.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Quante volte Le è capitato di desiderare quel colorito appena baciato dal sole anche in pieno inverno? Benefit Chachatint è uno di quei prodotti che, una volta provati, diventano compagni inseparabili. E non lo dico solo per mestiere.

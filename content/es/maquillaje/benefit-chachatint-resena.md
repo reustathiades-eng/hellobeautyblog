@@ -12,6 +12,7 @@ images:
   - /images/maquillaje/benefit-chachatint-resena.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 Cuando Benefit lanzó Chachatint, prometió algo que todos buscamos: ese aspecto de buena cara sin esfuerzo aparente. Y vaya si cumplió. Este tinte líquido en tono mango-coral se ha convertido en uno de esos productos de culto que aparecen constantemente en los neceseres de maquilladores profesionales y amantes del maquillaje por igual.

@@ -12,6 +12,7 @@ images:
   - /images/makeup/benefit-chachatint-review.jpg
 featured: false
 draft: false
+translationKey: "benefit-chachatint"
 ---
 
 I'll be honest—I was skeptical about liquid stains for years. Too many formulas had left me with patchy, uneven color that looked more "amateur hour" than "sun-kissed goddess." But then Benefit's Chachatint landed on my vanity, and I had to eat my words.
