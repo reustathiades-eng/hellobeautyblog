@@ -1,11 +1,11 @@
 <footer class="bg-white border-t border-border mt-16">
-    <div class="max-w-5xl mx-auto px-6 py-12">
+    <div class="max-w-6xl mx-auto px-12 lg:px-24 py-12">
         
-        <!-- 4 colonnes centrées -->
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-10 text-center">
+        <!-- 4 colonnes -->
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-10">
             
-            <!-- Brand -->
-            <div>
+            <!-- Brand - centré -->
+            <div class="text-center">
                 <a href="/{{ .Language.Lang }}/" class="inline-block mb-4">
                     <span class="text-2xl font-heading font-bold text-primary">Hello</span>
                     <span class="text-2xl font-heading font-light text-text">Beauty</span>
@@ -13,8 +13,8 @@
                 <p class="text-textLight text-sm">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
             </div>
             
-            <!-- Categories -->
-            <div>
+            <!-- Categories - centré -->
+            <div class="text-center">
                 <h4 class="font-heading font-semibold text-text mb-4">Categories</h4>
                 <a href="/{{ .Language.Lang }}/perfumes/" class="block text-textLight hover:text-primary text-sm mb-2">Perfumes</a>
                 <a href="/{{ .Language.Lang }}/skincare/" class="block text-textLight hover:text-primary text-sm mb-2">Skincare</a>
@@ -22,8 +22,8 @@
                 <a href="/{{ .Language.Lang }}/haircare/" class="block text-textLight hover:text-primary text-sm">Haircare</a>
             </div>
             
-            <!-- Information -->
-            <div>
+            <!-- Information - centré -->
+            <div class="text-center">
                 <h4 class="font-heading font-semibold text-text mb-4">Information</h4>
                 <a href="/{{ .Language.Lang }}/about/" class="block text-textLight hover:text-primary text-sm mb-2">About Us</a>
                 <a href="/{{ .Language.Lang }}/contact/" class="block text-textLight hover:text-primary text-sm mb-2">Contact</a>
@@ -31,21 +31,21 @@
                 <a href="/{{ .Language.Lang }}/terms/" class="block text-textLight hover:text-primary text-sm">Terms of Use</a>
             </div>
             
-            <!-- Newsletter -->
-            <div>
+            <!-- Newsletter - centré -->
+            <div class="text-center">
                 <h4 class="font-heading font-semibold text-text mb-4">Newsletter</h4>
                 <p class="text-textLight text-sm mb-4">Get the latest beauty news.</p>
                 <form action="https://formspree.io/f/" method="POST">
-                    <input type="email" name="email" required placeholder="Your email" class="w-full px-4 py-2 mb-2 rounded-lg border border-border text-sm">
+                    <input type="email" name="email" required placeholder="Your email" class="w-full px-4 py-2 mb-2 rounded-lg border border-border text-sm text-center">
                     <button type="submit" class="w-full px-4 py-2 bg-primary text-text font-medium text-sm rounded-lg">Subscribe</button>
                 </form>
             </div>
         </div>
     </div>
     
-    <!-- Bottom -->
+    <!-- Bottom - centré -->
     <div class="border-t border-border">
-        <div class="max-w-5xl mx-auto px-6 py-6 text-center">
+        <div class="max-w-6xl mx-auto px-12 lg:px-24 py-6 text-center">
             <p class="text-textLight text-sm">© 2026 Hello Beauty Blog. All rights reserved.</p>
             <p class="text-textLight text-xs mt-1">This site contains affiliate links.</p>
         </div>

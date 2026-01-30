@@ -2,13 +2,13 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-<article class="max-w-6xl mx-auto px-6 lg:px-12 py-12">
+<article class="max-w-6xl mx-auto px-12 lg:px-24 py-12">
     
     <!-- Layout 2 colonnes -->
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-start">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 lg:gap-6 items-start">
         
         <!-- Image -->
-        <div class="flex justify-center">
+        <div class="flex justify-center lg:justify-end">
             {{ with index .Params.images 0 }}
             <img src="{{ . }}" alt="{{ $.Title }}" class="rounded-xl shadow-lg" style="max-width: 450px; width: 100%">
             {{ else }}
@@ -20,14 +20,14 @@
             {{ end }}
         </div>
         
-        <!-- Infos produit -->
-        <div class="flex flex-col justify-center">
-            {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wider mb-3">{{ . }}</p>{{ end }}
-            <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-3">{{ .Params.productName | default .Title }}</h1>
-            {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-5">{{ . }}</p>{{ end }}
+        <!-- Infos produit - alignées à gauche -->
+        <div class="flex flex-col justify-start text-left">
+            {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wider mb-2">{{ . }}</p>{{ end }}
+            <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-2">{{ .Params.productName | default .Title }}</h1>
+            {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-4">{{ . }}</p>{{ end }}
             
             <!-- Rating -->
-            <div class="flex items-center gap-2 mb-6">
+            <div class="flex items-center gap-2 mb-5">
                 <div class="flex">
                     {{ $rating := .Params.rating | default 0 }}
                     {{ range seq 5 }}
@@ -41,9 +41,9 @@
             
             <!-- Characteristics -->
             {{ if or .Params.brand .Params.coverage .Params.finish .Params.longevity .Params.skinType .Params.spf }}
-            <div class="bg-gray-50 rounded-xl p-6">
-                <h2 class="text-base font-semibold mb-4 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
-                <div class="space-y-3 text-sm">
+            <div class="bg-gray-50 rounded-xl p-5">
+                <h2 class="text-base font-semibold mb-3 text-gray-800">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
+                <div class="space-y-2 text-sm">
                     {{ with .Params.brand }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else }}Brand{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
                     {{ with .Params.coverage }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Couvrance{{ else if eq $lang "de" }}Deckkraft{{ else if eq $lang "es" }}Cobertura{{ else }}Coverage{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
                     {{ with .Params.finish }}<div class="flex justify-between"><span class="text-gray-500">{{ if eq $lang "fr" }}Fini{{ else if eq $lang "de" }}Finish{{ else if eq $lang "es" }}Acabado{{ else }}Finish{{ end }}</span><span class="font-medium text-gray-800">{{ . }}</span></div>{{ end }}
