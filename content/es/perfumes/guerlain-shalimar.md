@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:03:13] [0;34mℹ️  Tentative 1/3 pour es...[0m
 La primera vez que me puse Shalimar fue hace años, en una perfumería de Madrid donde mi abuela solía comprar sus fragancias. Recuerdo que la dependienta, una señora mayor con un gusto exquisito, me dijo: "Niña, esto no es para cualquiera. Esto es historia pura." Y vaya si tenía razón.
 
 Shalimar no es un perfume más. Es *el* perfume oriental. El que lo empezó todo en 1925, cuando Jacques Guerlain decidió revolucionar la perfumería con una vainilla que nadie había olido antes. Casi cien años después, aquí estoy yo, probándolo durante semanas para contaros si realmente merece la leyenda que lo rodea.

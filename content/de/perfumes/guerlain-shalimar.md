@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:02:10] [0;34mℹ️  Tentative 1/3 pour de...[0m
 Ehrlich gesagt, ich war nervös. Shalimar von Guerlain – das ist nicht irgendein Parfum. Das ist eine Legende. Fast hundert Jahre alt. Meine Großmutter trug es, meine Mutter besitzt eine Flasche. Und jetzt ich, mit meiner Flasche Eau de Parfum, an einem verregneten Novemberabend in meiner Wohnung. Die Frage war: Ist das noch zeitgemäß? Oder nur ein schönes Museum?
 
 Die erste Vaporisation war... überraschend. Ich hatte erwartet, von etwas Verstaubtem erschlagen zu werden. Stattdessen? Frische Bergamotte und Zitrus, die mich anlächelten. Klar, dahinter lauerte schon diese tiefe, warme Welt. Aber der Einstieg war viel zugänglicher als gedacht. Vielleicht liegt es daran, dass ich die Eau de Parfum-Konzentration gewählt habe und nicht das noch intensivere Parfum. Trotzdem – Shalimar bleibt Shalimar. Das ist kein Duft für schüchterne Seelen.

@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:04:07] [0;34mℹ️  Tentative 1/3 pour it...[0m
 La prima volta che ho indossato Shalimar avevo diciannove anni. Me lo prestò mia zia durante un matrimonio elegante, convinta che il mio solito profumo dolce non fosse all'altezza dell'occasione. Ricordo ancora la sua frase: "Questo non è un profumo per ragazzine." Aveva ragione. Allora non ero pronta. Quel mix opulento di vaniglia e spezie mi sembrava troppo, quasi soffocante. Dieci anni dopo, eccomi qui a scrivere questa recensione con il polso profumato di Shalimar. E finalmente capisco.
 
 Guerlain ha creato questo capolavoro nel 1925, e parliamo di quasi un secolo fa. Jacques Guerlain si è ispirato ai giardini di Shalimar a Lahore, in Pakistan, dove l'imperatore Mughal Shah Jahan costruì questi luoghi magnifici per la sua amata. Romantico? Assolutamente. Ma la vera domanda è: un profumo nato nel 1925 può ancora dire qualcosa oggi?

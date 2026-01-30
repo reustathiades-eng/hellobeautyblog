@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:08:33] [0;34mℹ️  Tentative 1/3 pour tr...[0m
 Bazı parfümler sadece koku değil, birer efsanedir. Shalimar tam da böyle bir parfüm. İlk kez annemin makyaj masasında gördüğümde henüz on yaşındaydım. O mavi Art Deco şişe, içindeki altın rengi sıvı... Dokunmaya cesaret edemezdim bile. Yıllar sonra, kendi param ile aldığımda, sanki bir hazineye sahip olmuş gibi hissettim kendimi.
 
 1925'ten beri var olan bir parfümü 2024'te incelemek garip gelebilir size. Ama Shalimar'ın özelliği işte bu — zamana meydan okuyor. Geçen ay, yirmi beş yaşındaki kuzenimle beraberdik, parfümümü sordu. "Ninelerinki gibi kokmuyor mu?" dedi. Güldüm. Evet, belki onların da parfümüydü. Ama bugün sürünce, hâlâ modern, hâlâ alımlı, hâlâ baştan çıkarıcı.

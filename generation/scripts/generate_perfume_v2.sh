@@ -66,6 +66,11 @@ log_success() {
 }
 
 log_error() {
+
+# Versions stderr pour éviter capture dans content
+log_info_stderr() { echo -e "\033[0;34mℹ️  $1\033[0m" >&2; log "$1"; }
+log_warning_stderr() { echo -e "\033[0;33m⚠️  $1\033[0m" >&2; log "$1"; }
+log_error_stderr() { echo -e "\033[0;31m❌ $1\033[0m" >&2; log "$1"; }
     log "${RED}❌ $1${NC}"
 }
 
@@ -282,7 +287,7 @@ generate_content_with_retry() {
     local CONTENT=""
     
     while [ $ATTEMPT -le $MAX_RETRIES ]; do
-        log_info "Tentative $ATTEMPT/$MAX_RETRIES pour $LANG..."
+        log_info_stderr "Tentative $ATTEMPT/$MAX_RETRIES pour $LANG..."
         
         CONTENT=$(generate_content "$PERFUME_SLUG" "$LANG")
         local EXIT_CODE=$?
@@ -292,16 +297,16 @@ generate_content_with_retry() {
             return 0
         fi
         
-        log_warning "Tentative $ATTEMPT échouée pour $LANG"
+        log_warning_stderr "Tentative $ATTEMPT échouée pour $LANG"
         ((ATTEMPT++))
         
         if [ $ATTEMPT -le $MAX_RETRIES ]; then
-            log_info "Pause de ${PAUSE_BETWEEN_RETRIES}s avant retry..."
+            log_info_stderr "Pause de ${PAUSE_BETWEEN_RETRIES}s avant retry..."
             sleep $PAUSE_BETWEEN_RETRIES
         fi
     done
     
-    log_error "Échec après $MAX_RETRIES tentatives pour $LANG"
+    log_error_stderr "Échec après $MAX_RETRIES tentatives pour $LANG"
     return 1
 }
 
@@ -646,7 +651,7 @@ main() {
         
         # Pause entre les langues (sauf pour la dernière)
         if [ $CURRENT -lt $TOTAL ]; then
-            log_info "Pause de ${PAUSE_BETWEEN_LANGS}s..."
+            log_info_stderr "Pause de ${PAUSE_BETWEEN_LANGS}s..."
             sleep $PAUSE_BETWEEN_LANGS
         fi
     done

@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:07:22] [0;34mℹ️  Tentative 1/3 pour pl...[0m
 Szczerze mówiąc, długo się zastanawiałam, czy mam odwagę napisać o Shalimar. To jak recenzowanie Mony Lisy, rozumiecie? Perfumy, które istnieją od 1925 roku, stworzone przez samego Jacques'a Guerlain. Legenda, ikona, klasyka – te wszystkie wielkie słowa, które zwykle unikam w recenzjach. Ale w przypadku Shalimar? Pasują idealnie.
 
 Pierwszy raz spróbowałam Shalimar na nadgarstku mojej babci. Miałam wtedy może dziesięć lat i wydawało mi się to zbyt intensywne, zbyt dorosłe. Pachniało tajemnicą i czymś, czego jeszcze nie rozumiałam. Dwadzieścia lat później, w paryskim sklepie Guerlain na Polach Elizejskich, znów sięgnęłam po ten kultowy flakon. I wtedy to do mnie dotarło – teraz byłam gotowa.

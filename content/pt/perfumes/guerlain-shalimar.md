@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:05:14] [0;34mℹ️  Tentative 1/3 pour pt...[0m
 Tem perfumes que são lendas. E depois tem Shalimar. Quando finalmente decidi testar este ícone da Guerlain (sim, demorei anos a ganhar coragem), estava numa tarde chuvosa de outubro. Entrei na perfumaria com aquela sensação de "hoje é o dia". Porque Shalimar não é um perfume qualquer — é O perfume oriental. Criado em 1925 por Jacques Guerlain, inspirado na história de amor do imperador Shah Jahan pela sua esposa Mumtaz Mahal. Quase cem anos depois, ainda se fala dele. E agora entendo porquê.
 
 A primeira vaporização? Intimidante. Não vou mentir. Este não é um perfume para quem procura algo discreto ou fácil de usar. É presença pura. Mas também é absolutamente fascinante, de uma forma que poucos perfumes modernos conseguem ser.

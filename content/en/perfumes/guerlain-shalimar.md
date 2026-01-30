@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:00:27] [0;34mℹ️  Tentative 1/3 pour en...[0m
 I'll never forget the first time I encountered Shalimar. My grandmother wore it religiously, and I used to think it smelled "old." Funny how things change. Fast forward twenty years, and here I am, completely obsessed with what might be the most important perfume ever created.
 
 Last November, I finally bought my own bottle. Not because I needed another vanilla fragrance (trust me, I have plenty). But because ignoring Shalimar felt like calling yourself a wine lover while never trying a proper Bordeaux. Some classics demand your attention, whether you're ready or not.

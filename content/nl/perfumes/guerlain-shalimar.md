@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:06:12] [0;34mℹ️  Tentative 1/3 pour nl...[0m
 Eerlijk gezegd dacht ik dat ik wel wist wat me te wachten stond toen ik Shalimar voor het eerst zou proberen. Een parfum uit 1925? Dat moet wel stoffig zijn, gedateerd, iets voor mijn oma. Wat was ik verkeerd.
 
 Het was tijdens een bezoek aan de Bijenkorf vorig najaar. De Guerlain-counter stond vol met moderne flacons, maar daar, achteraan, stond dit iconische blauwe flesje. De verkoopster zag me kijken en glimlachte. "Durf je?" vroeg ze. En toen spoot ze het op mijn pols. Die eerste seconde? Pure verwarring. De volgende tien minuten? Absolute fascinatie. Ik ben nu zes maanden verder en Shalimar heeft mijn hele perspectief op parfum veranderd.

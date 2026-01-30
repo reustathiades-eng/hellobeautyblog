@@ -48,7 +48,6 @@ occasion:
 translationKey: "dior-sauvage"
 ---
 
-[2026-01-30 21:39:32] [0;34mℹ️  Tentative 1/3 pour nl...[0m
 Eerlijk gezegd was ik een beetje sceptisch toen ik Dior Sauvage voor het eerst ging testen. Niet omdat ik twijfelde aan de kwaliteit – het is Dior, natuurlijk – maar omdat iedereen en hun broer dit parfum draagt. Je ruikt het overal. In de lift, op kantoor, in de sportschool. En ik vroeg me af: kan iets dat zo populair is nog wel interessant zijn?
 
 Dat was drie maanden geleden. En nu? Nou, ik begrijp het volkomen. Sommige dingen zijn populair omdat ze gewoon verdomd goed zijn.

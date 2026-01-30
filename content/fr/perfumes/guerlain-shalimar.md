@@ -49,7 +49,6 @@ occasion:
 translationKey: "guerlain-shalimar"
 ---
 
-[2026-01-30 22:01:13] [0;34mℹ️  Tentative 1/3 pour fr...[0m
 J'ai découvert Shalimar dans la collection de parfums de ma grand-mère. J'avais seize ans et je fouillais dans sa commode Art Déco (avec permission, promis). Ce flacon bleu mythique en forme de fontaine, je l'avais vu mille fois sans vraiment le remarquer. Ce jour-là, je l'ai vaporisé. Et honnêtement ? J'ai détesté. Trop fort, trop adulte, trop... tout. 
 
 Quinze ans plus tard, je le retrouve sur ma table de travail pour cette critique. Et là, miracle. Ou plutôt, j'ai grandi. Parce que Shalimar, c'est pas un parfum pour débutante. C'est une leçon d'histoire de la parfumerie, une déclaration, un patrimoine dans un flacon.
