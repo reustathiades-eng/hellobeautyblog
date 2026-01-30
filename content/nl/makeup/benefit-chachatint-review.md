@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint Review: De Veelzijdige Mango-Koraal Tint Voor Lippen en Wangen"
+slug: "benefit-chachatint-review"
 description: "Onze eerlijke review van Benefit Chachatint: de cultfavoriet vloeibare lip- en wangtint in mango-koraal voor een natuurlijke sun-kissed glow. Ontdek of het product aan de verwachtingen voldoet."
 date: 2011-05-20
 lastmod: 2026-01-30

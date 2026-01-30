@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Primer Occhi: Recensione Completa 2025"
+slug: "benefit-stay-dont-stray-recensione"
 description: "Recensione professionale del primer occhi Benefit Stay Don't Stray. Dual-purpose formula che previene le pieghe e prolunga la tenuta dell'ombretto fino a 10 ore."
 date: 2011-07-20
 lastmod: 2026-01-30

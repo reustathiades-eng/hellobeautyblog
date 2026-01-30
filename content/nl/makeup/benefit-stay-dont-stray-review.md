@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Review: Oogschaduw Primer Die Echt Werkt"
+slug: "benefit-stay-dont-stray-review"
 description: "Professionele makeup artist test Benefit Stay Don't Stray eyeshadow primer. Dual-purpose formule voorkomt plooien en verlengt draagduur tot 10 uur."
 date: 2011-07-20
 lastmod: 2026-01-30

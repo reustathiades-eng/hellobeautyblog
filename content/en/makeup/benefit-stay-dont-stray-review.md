@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Eyeshadow Primer: Professional Review & Application Guide"
+slug: "benefit-stay-dont-stray-review"
 description: "Professional makeup artist Sofia Martinez reviews Benefit's dual-purpose Stay Don't Stray primer—performance testing, application techniques, and honest wear analysis."
 date: 2011-07-20
 lastmod: 2026-01-30

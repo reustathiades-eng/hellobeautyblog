@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Göz Farı Bazı İncelemesi: Profesyonel Değerlendirme"
+slug: "benefit-stay-dont-stray-inceleme"
 description: "Benefit Stay Don't Stray göz farı bazı incelemesi. 10 saatlik kalıcılık, kırışıklık önleme ve çift amaçlı kullanım. Profesyonel makyaj sanatçısı tavsiyesi."
 date: 2011-07-20
 lastmod: 2026-01-30

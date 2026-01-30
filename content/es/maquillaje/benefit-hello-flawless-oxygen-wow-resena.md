@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation: Análisis Completo"
+slug: "benefit-hello-flawless-oxygen-wow-resena"
 description: "Descubra todo sobre la base líquida Hello Flawless de Benefit: fórmula oxigenada, SPF 25, cobertura media y acabado natural. Análisis de experta."
 date: 2011-06-15
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray 眼部打底膏深度测评：双效合一的持妆利器"
+slug: "benefit-stay-dont-stray-测评"
 description: "专业彩妆师Sofia Martinez深度测评Benefit Stay Don't Stray眼部打底膏，解析其防晕染配方、双重用途及10小时持妆表现，助您打造完美眼妆。"
 date: 2011-07-20
 lastmod: 2026-01-30

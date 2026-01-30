@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray : L'Avis d'une Pro sur ce Primer Yeux Polyvalent"
+slug: "benefit-stay-dont-stray-avis"
 description: "Découvrez mon test complet du primer paupières Benefit Stay Don't Stray : performance anti-plis, double usage et tenue longue durée analysés par une pro."
 date: 2011-07-20
 lastmod: 2026-01-30

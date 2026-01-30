@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray – Baza pod Cienie, Która Naprawdę Działa"
+slug: "benefit-stay-dont-stray-recenzja"
 description: "Recenzja Benefit Stay Don't Stray – baza pod cienie zapobiegająca marszczeniu, wydłużająca trwałość makijażu do 10 godzin. Czy warto?"
 date: 2011-07-20
 lastmod: 2026-01-30

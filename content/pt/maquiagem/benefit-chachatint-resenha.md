@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint: Resenha Completa do Tint Coral Multifuncional"
+slug: "benefit-chachatint-resenha"
 description: "Resenha do Benefit Chachatint, o tint líquido manga-coral para lábios e bochechas. Descubra se esse cult product vale a pena para um visual natural sun-kissed."
 date: 2011-05-20
 lastmod: 2026-01-30

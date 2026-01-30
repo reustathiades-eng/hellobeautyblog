@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation: Análise Completa e Honesta"
+slug: "benefit-hello-flawless-oxygen-wow-resenha"
 description: "Base líquida com SPF 25 da Benefit promete cobertura impecável e acabamento natural. Descubra se o Hello Flawless realmente vale a pena na rotina de maquiagem."
 date: 2011-06-15
 lastmod: 2026-01-30

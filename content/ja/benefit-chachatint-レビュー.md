@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint レビュー：マンゴーコーラルの血色感が最高すぎる件"
+slug: "benefit-chachatint-レビュー"
 description: "Benefitのカルト的人気商品Chachatintを徹底レビュー。マンゴーコーラルのリキッドティントが叶える自然な血色感と、速乾・長持ちの実力を、プロのメイクアップアーティストが本音で語ります。"
 date: 2011-05-20
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint: Análisis Completo del Tinte Mango-Coral Que Conquista"
+slug: "benefit-chachatint-resena"
 description: "Reseña profesional del Benefit Chachatint, el icónico tinte líquido para labios y mejillas en tono mango-coral. Descubra si este producto culto merece la pena."
 date: 2011-05-20
 lastmod: 2026-01-30

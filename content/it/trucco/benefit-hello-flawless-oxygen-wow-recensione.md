@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation: Recensione Completa"
+slug: "benefit-hello-flawless-oxygen-wow-recensione"
 description: "Recensione professionale del fondotinta Benefit Hello Flawless Oxygen Wow: formula ossigenata, SPF 25, copertura media e finish naturale. Scopra tutti i dettagli."
 date: 2011-06-15
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint : Mon Avis sur cette Teinture Mangue-Corail Iconique"
+slug: "benefit-chachatint-avis"
 description: "Découvrez mon test complet du Benefit Chachatint, cette teinture lèvres et joues couleur mangue-corail qui promet un effet bonne mine naturel et longue tenue."
 date: 2011-05-20
 lastmod: 2026-01-30

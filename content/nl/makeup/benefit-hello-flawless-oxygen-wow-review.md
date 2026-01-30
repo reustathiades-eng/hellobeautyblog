@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation Review - Alles wat u moet weten"
+slug: "benefit-hello-flawless-oxygen-wow-review"
 description: "Ontdek waarom Benefit's Hello Flawless Oxygen Wow Foundation een bestseller is. Expert review over dekking, finish en de unieke zuurstof-technologie."
 date: 2011-06-15
 lastmod: 2026-01-30

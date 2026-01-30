@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint: La Tinta Mango-Corallo Che Ho Sempre in Borsa"
+slug: "benefit-chachatint-recensione"
 description: "Recensione completa di Benefit Chachatint, la tinta liquida labbra e guance dal colore mango-corallo perfetto per un effetto naturale e luminoso. Scopra tutti i segreti d'uso."
 date: 2011-05-20
 lastmod: 2026-01-30

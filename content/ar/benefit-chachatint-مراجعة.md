@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint: صبغة المانجو المرجانية التي أحدثت ثورة في عالم المكياج الطبيعي"
+slug: "benefit-chachatint-مراجعة"
 description: "مراجعة شاملة لـ Benefit Chachatint - صبغة سائلة للشفاه والخدود بلون المانجو المرجاني تمنح إطلالة sun-kissed طبيعية تدوم طويلاً"
 date: 2011-05-20
 lastmod: 2026-01-30

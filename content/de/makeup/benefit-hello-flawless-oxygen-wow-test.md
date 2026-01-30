@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation im Test – Erfahrungen & Tipps"
+slug: "benefit-hello-flawless-oxygen-wow-test"
 description: "Professioneller Test der Benefit Hello Flawless Oxygen Wow Foundation. Sauerstoff-Technologie, SPF 25 und natürliches Finish – lohnt sich der Hype?"
 date: 2011-06-15
 lastmod: 2026-01-30

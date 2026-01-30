@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray: Prebase de Ojos Que Mantiene Todo en Su Lugar"
+slug: "benefit-stay-dont-stray-resena"
 description: "Análisis profesional del primer Benefit Stay Don't Stray. Previene arrugas, uso dual para párpados y corrector, extiende el maquillaje hasta 10 horas."
 date: 2011-07-20
 lastmod: 2026-01-30

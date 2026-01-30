@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint İnceleme: Mango-Mercan Rengi Dudak ve Yanak Boyası"
+slug: "benefit-chachatint-inceleme"
 description: "Benefit Chachatint inceleme: Mango-mercan tonunda doğal görünüm sağlayan, uzun süre kalıcı sıvı dudak ve yanak boyasının tüm detayları."
 date: 2011-05-20
 lastmod: 2026-01-30

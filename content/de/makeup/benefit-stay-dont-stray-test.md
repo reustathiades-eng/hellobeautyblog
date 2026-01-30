@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Eyeshadow Primer – Langanhaltender Lidschatten-Halt im Test"
+slug: "benefit-stay-dont-stray-test"
 description: "Professioneller Test des Benefit Stay Don't Stray Primers. Verhindert Lidschatten-Absetzen für 10+ Stunden. Doppelfunktion für Augen und Concealer."
 date: 2011-07-20
 lastmod: 2026-01-30

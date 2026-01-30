@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation Review: Is It Worth the Hype?"
+slug: "benefit-hello-flawless-oxygen-wow-review"
 description: "Professional makeup artist Sofia Martinez reviews Benefit's Hello Flawless Oxygen Wow Foundation. Brightening, SPF 25, oxygen-infused technology—does it deliver?"
 date: 2011-06-15
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow : Mon Avis Complet sur ce Fond de Teint"
+slug: "benefit-hello-flawless-oxygen-wow-avis"
 description: "Découvrez mon test détaillé du fond de teint Benefit Hello Flawless Oxygen Wow : formule oxygénée, SPF 25, couvrance moyenne et fini naturel parfait."
 date: 2011-06-15
 lastmod: 2026-01-30

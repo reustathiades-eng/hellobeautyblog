@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow粉底液完整测评：轻盈无瑕的氧气美肌秘密"
+slug: "benefit-hello-flawless-oxygen-wow-测评"
 description: "专业彩妆师Sofia深度测评Benefit明星产品Hello Flawless粉底液。SPF25防晒、氧气科技、中等遮瑕力，打造自然透亮底妆。"
 date: 2011-06-15
 lastmod: 2026-01-30

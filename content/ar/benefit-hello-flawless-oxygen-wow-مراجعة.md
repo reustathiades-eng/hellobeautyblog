@@ -1,5 +1,6 @@
 ---
 title: "مراجعة كريم أساس Benefit Hello Flawless Oxygen Wow: تجربة احترافية"
+slug: "benefit-hello-flawless-oxygen-wow-مراجعة"
 description: "مراجعة شاملة لكريم أساس بنفت هيلو فلوليس من خبيرة مكياج. تغطية متوسطة، عامل حماية SPF 25، وتقنية الأكسجين للبشرة النضرة."
 date: 2011-06-15
 lastmod: 2026-01-30

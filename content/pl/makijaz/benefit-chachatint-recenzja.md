@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint – Recenzja Kultowego Tintu w Odcieniu Mango"
+slug: "benefit-chachatint-recenzja"
 description: "Kultowy tint Benefit Chachatint w koralowo-mango kolorze. Sprawdzam, czy naprawdę daje efekt sun-kissed i jak sprawdza się na ustach i policzkach."
 date: 2011-05-20
 lastmod: 2026-01-30

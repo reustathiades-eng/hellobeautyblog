@@ -1,5 +1,6 @@
 ---
 title: "مراجعة برايمر Benefit Stay Don't Stray للآيشادو - تجربتي الصادقة"
+slug: "benefit-stay-dont-stray-مراجعة"
 description: "تجربتي مع برايمر Benefit Stay Don't Stray المزدوج الاستخدام. هل يمنع التكسر ويثبت المكياج 10 ساعات فعلاً؟ مراجعة شاملة من خبيرة تجميل"
 date: 2011-07-20
 lastmod: 2026-01-30

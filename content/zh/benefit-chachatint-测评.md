@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint测评：一抹芒果色的夏日好气色"
+slug: "benefit-chachatint-测评"
 description: "专业化妆师Sofia Martinez深度测评Benefit Chachatint芒果珊瑚色唇颊染。这款经典液体腮红能否带来自然sun-kissed效果？速干持久的表现如何？从质地、显色度到实际使用体验，为您揭秘这支明星产品的真实表现，助您打造元气满满的自然妆容。"
 date: 2011-05-20
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow – recenzja podkładu z SPF 25"
+slug: "benefit-hello-flawless-oxygen-wow-recenzja"
 description: "Profesjonalna recenzja kultowego podkładu Benefit Hello Flawless Oxygen Wow. Technologia tlenowa, naturalny finisz i SPF 25 w jednym produkcie."
 date: 2011-06-15
 lastmod: 2026-01-30

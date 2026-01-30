@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint im Test: Der Mango-Korall Tint für Lippen und Wangen"
+slug: "benefit-chachatint-test"
 description: "Professioneller Test des Benefit Chachatint – flüssiger Lippen- und Wangentint in Mango-Korall. Langanhaltend, natürlicher Glow und Sun-Kissed-Look."
 date: 2011-05-20
 lastmod: 2026-01-30

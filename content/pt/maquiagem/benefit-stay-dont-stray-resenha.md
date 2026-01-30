@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray: Primer de Sombra que Realmente Funciona"
+slug: "benefit-stay-dont-stray-resenha"
 description: "Análise completa do primer de sombra Benefit Stay Don't Stray. Previne vincos, dupla função e 10 horas de duração. Descubra se vale a pena para você."
 date: 2011-07-20
 lastmod: 2026-01-30

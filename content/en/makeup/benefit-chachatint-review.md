@@ -1,5 +1,6 @@
 ---
 title: "Benefit Chachatint Review: The Mango-Coral Stain That Changed My Mind About Liquid Blush"
+slug: "benefit-chachatint-review"
 description: "Professional makeup artist Sofia Martinez reviews Benefit Chachatint, the cult-favorite mango-coral lip and cheek stain that delivers a natural sun-kissed glow."
 date: 2011-05-20
 lastmod: 2026-01-30

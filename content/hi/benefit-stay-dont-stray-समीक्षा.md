@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray Eyeshadow Primer समीक्षा - Sofia Martinez"
+slug: "benefit-stay-dont-stray-समीक्षा"
 description: "Benefit Stay Don't Stray primer की विस्तृत समीक्षा। क्या यह आईशैडो को 10 घंटे तक टिकाता है? मेकअप आर्टिस्ट की राय पढ़ें।"
 date: 2011-07-20
 lastmod: 2026-01-30

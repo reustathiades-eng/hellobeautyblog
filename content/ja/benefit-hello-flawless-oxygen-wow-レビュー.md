@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow ファンデーション完全レビュー｜プロが語る本音"
+slug: "benefit-hello-flawless-oxygen-wow-レビュー"
 description: "プロメイクアップアーティストがBenefit Hello Flawless Oxygen Wowファンデーションを徹底検証。酸素注入技術とSPF25を搭載した軽やかな仕上がりの秘密をご紹介いたします。"
 date: 2011-06-15
 lastmod: 2026-01-30

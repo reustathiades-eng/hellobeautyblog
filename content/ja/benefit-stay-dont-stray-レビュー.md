@@ -1,5 +1,6 @@
 ---
 title: "Benefit Stay Don't Stray アイシャドウプライマー徹底レビュー｜メイクアップアーティストが検証"
+slug: "benefit-stay-dont-stray-レビュー"
 description: "メイクアップアーティストのソフィア・マルティネスがBenefit Stay Don't Strayプライマーを徹底検証。ヨレ防止効果と10時間持続力を実際の現場で試しました。"
 date: 2011-07-20
 lastmod: 2026-01-30

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Hello Flawless Oxygen Wow Foundation İncelemesi ve Deneyimlerim"
+slug: "benefit-hello-flawless-oxygen-wow-inceleme"
 description: "Benefit'in çok satan Hello Flawless Oxygen Wow fondötenini profesyonel makyaj sanatçısı gözüyle inceledim. SPF 25 korumalı oksijen teknolojisi hakkında her şey."
 date: 2011-06-15
 lastmod: 2026-01-30
