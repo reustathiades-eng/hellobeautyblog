@@ -1,9 +1,323 @@
 <!-- =============================================================================
      HELLO BEAUTY BLOG - Footer
-     Design: Fresh & Modern, Responsive
+     Design: Fresh & Modern, Responsive, Multilingual
 ============================================================================= -->
 
-<footer class="bg-gradient-to-b from-white to-gray-50 border-t border-gray-100 mt-20">
+{{ $lang := .Language.Lang }}
+
+<!-- Traductions des textes du footer -->
+{{ $tagline := "Your ultimate guide to perfumes, skincare, makeup and haircare." }}
+{{ $categories := "Categories" }}
+{{ $information := "Information" }}
+{{ $newsletter := "Newsletter" }}
+{{ $newsletterText := "Get the latest beauty tips and exclusive offers delivered to your inbox." }}
+{{ $emailPlaceholder := "Enter your email" }}
+{{ $subscribe := "Subscribe" }}
+{{ $aboutUs := "About Us" }}
+{{ $contact := "Contact" }}
+{{ $privacyPolicy := "Privacy Policy" }}
+{{ $termsOfUse := "Terms of Use" }}
+{{ $copyright := "© 2026 Hello Beauty Blog. All rights reserved." }}
+{{ $affiliateNotice := "This site contains affiliate links." }}
+
+<!-- Slugs des catégories par langue -->
+{{ $perfumesSlug := "perfumes" }}
+{{ $skincareSlug := "skincare" }}
+{{ $makeupSlug := "makeup" }}
+{{ $haircareSlug := "haircare" }}
+{{ $guidesSlug := "guides" }}
+
+<!-- Noms des catégories -->
+{{ $perfumesName := "Perfumes" }}
+{{ $skincareName := "Skincare" }}
+{{ $makeupName := "Makeup" }}
+{{ $haircareName := "Haircare" }}
+{{ $guidesName := "Guides" }}
+
+{{ if eq $lang "fr" }}
+    {{ $tagline = "Votre guide ultime pour les parfums, soins, maquillage et cheveux." }}
+    {{ $categories = "Catégories" }}
+    {{ $information = "Informations" }}
+    {{ $newsletter = "Newsletter" }}
+    {{ $newsletterText = "Recevez les derniers conseils beauté et offres exclusives." }}
+    {{ $emailPlaceholder = "Votre email" }}
+    {{ $subscribe = "S'abonner" }}
+    {{ $aboutUs = "À propos" }}
+    {{ $contact = "Contact" }}
+    {{ $privacyPolicy = "Confidentialité" }}
+    {{ $termsOfUse = "Conditions d'utilisation" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Tous droits réservés." }}
+    {{ $affiliateNotice = "Ce site contient des liens d'affiliation." }}
+    {{ $perfumesSlug = "parfums" }}
+    {{ $skincareSlug = "soins" }}
+    {{ $makeupSlug = "maquillage" }}
+    {{ $haircareSlug = "cheveux" }}
+    {{ $perfumesName = "Parfums" }}
+    {{ $skincareName = "Soins" }}
+    {{ $makeupName = "Maquillage" }}
+    {{ $haircareName = "Cheveux" }}
+{{ else if eq $lang "de" }}
+    {{ $tagline = "Ihr ultimativer Guide für Parfums, Hautpflege, Make-up und Haarpflege." }}
+    {{ $categories = "Kategorien" }}
+    {{ $information = "Information" }}
+    {{ $newsletter = "Newsletter" }}
+    {{ $newsletterText = "Erhalten Sie die neuesten Beauty-Tipps und exklusiven Angebote." }}
+    {{ $emailPlaceholder = "Ihre E-Mail" }}
+    {{ $subscribe = "Abonnieren" }}
+    {{ $aboutUs = "Über uns" }}
+    {{ $contact = "Kontakt" }}
+    {{ $privacyPolicy = "Datenschutz" }}
+    {{ $termsOfUse = "Nutzungsbedingungen" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Alle Rechte vorbehalten." }}
+    {{ $affiliateNotice = "Diese Seite enthält Affiliate-Links." }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "hautpflege" }}
+    {{ $makeupSlug = "make-up" }}
+    {{ $haircareSlug = "haarpflege" }}
+    {{ $guidesSlug = "ratgeber" }}
+    {{ $perfumesName = "Parfüm" }}
+    {{ $skincareName = "Hautpflege" }}
+    {{ $makeupName = "Make-up" }}
+    {{ $haircareName = "Haarpflege" }}
+    {{ $guidesName = "Ratgeber" }}
+{{ else if eq $lang "es" }}
+    {{ $tagline = "Tu guía definitiva de perfumes, cuidado de la piel, maquillaje y cabello." }}
+    {{ $categories = "Categorías" }}
+    {{ $information = "Información" }}
+    {{ $newsletter = "Boletín" }}
+    {{ $newsletterText = "Recibe los últimos consejos de belleza y ofertas exclusivas." }}
+    {{ $emailPlaceholder = "Tu email" }}
+    {{ $subscribe = "Suscribirse" }}
+    {{ $aboutUs = "Sobre nosotros" }}
+    {{ $contact = "Contacto" }}
+    {{ $privacyPolicy = "Privacidad" }}
+    {{ $termsOfUse = "Términos de uso" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Todos los derechos reservados." }}
+    {{ $affiliateNotice = "Este sitio contiene enlaces de afiliados." }}
+    {{ $skincareSlug = "cuidado-piel" }}
+    {{ $makeupSlug = "maquillaje" }}
+    {{ $haircareSlug = "cabello" }}
+    {{ $guidesSlug = "guias" }}
+    {{ $perfumesName = "Perfumes" }}
+    {{ $skincareName = "Cuidado Piel" }}
+    {{ $makeupName = "Maquillaje" }}
+    {{ $haircareName = "Cabello" }}
+    {{ $guidesName = "Guías" }}
+{{ else if eq $lang "it" }}
+    {{ $tagline = "La tua guida definitiva a profumi, skincare, trucco e capelli." }}
+    {{ $categories = "Categorie" }}
+    {{ $information = "Informazioni" }}
+    {{ $newsletter = "Newsletter" }}
+    {{ $newsletterText = "Ricevi gli ultimi consigli di bellezza e offerte esclusive." }}
+    {{ $emailPlaceholder = "La tua email" }}
+    {{ $subscribe = "Iscriviti" }}
+    {{ $aboutUs = "Chi siamo" }}
+    {{ $contact = "Contatti" }}
+    {{ $privacyPolicy = "Privacy" }}
+    {{ $termsOfUse = "Termini di utilizzo" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Tutti i diritti riservati." }}
+    {{ $affiliateNotice = "Questo sito contiene link di affiliazione." }}
+    {{ $perfumesSlug = "profumi" }}
+    {{ $makeupSlug = "trucco" }}
+    {{ $haircareSlug = "capelli" }}
+    {{ $guidesSlug = "guide" }}
+    {{ $perfumesName = "Profumi" }}
+    {{ $skincareName = "Skincare" }}
+    {{ $makeupName = "Trucco" }}
+    {{ $haircareName = "Capelli" }}
+    {{ $guidesName = "Guide" }}
+{{ else if eq $lang "pt" }}
+    {{ $tagline = "Seu guia definitivo para perfumes, skincare, maquiagem e cabelos." }}
+    {{ $categories = "Categorias" }}
+    {{ $information = "Informações" }}
+    {{ $newsletter = "Newsletter" }}
+    {{ $newsletterText = "Receba as últimas dicas de beleza e ofertas exclusivas." }}
+    {{ $emailPlaceholder = "Seu email" }}
+    {{ $subscribe = "Inscrever-se" }}
+    {{ $aboutUs = "Sobre nós" }}
+    {{ $contact = "Contato" }}
+    {{ $privacyPolicy = "Privacidade" }}
+    {{ $termsOfUse = "Termos de uso" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Todos os direitos reservados." }}
+    {{ $affiliateNotice = "Este site contém links de afiliados." }}
+    {{ $makeupSlug = "maquiagem" }}
+    {{ $haircareSlug = "cabelos" }}
+    {{ $guidesSlug = "guias" }}
+    {{ $perfumesName = "Perfumes" }}
+    {{ $skincareName = "Skincare" }}
+    {{ $makeupName = "Maquiagem" }}
+    {{ $haircareName = "Cabelos" }}
+    {{ $guidesName = "Guias" }}
+{{ else if eq $lang "nl" }}
+    {{ $tagline = "Jouw ultieme gids voor parfums, huidverzorging, make-up en haarverzorging." }}
+    {{ $categories = "Categorieën" }}
+    {{ $information = "Informatie" }}
+    {{ $newsletter = "Nieuwsbrief" }}
+    {{ $newsletterText = "Ontvang de laatste beautytips en exclusieve aanbiedingen." }}
+    {{ $emailPlaceholder = "Je e-mail" }}
+    {{ $subscribe = "Abonneren" }}
+    {{ $aboutUs = "Over ons" }}
+    {{ $contact = "Contact" }}
+    {{ $privacyPolicy = "Privacy" }}
+    {{ $termsOfUse = "Gebruiksvoorwaarden" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Alle rechten voorbehouden." }}
+    {{ $affiliateNotice = "Deze site bevat affiliate links." }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "huidverzorging" }}
+    {{ $makeupSlug = "make-up" }}
+    {{ $haircareSlug = "haarverzorging" }}
+    {{ $guidesSlug = "gidsen" }}
+    {{ $perfumesName = "Parfum" }}
+    {{ $skincareName = "Huidverzorging" }}
+    {{ $makeupName = "Make-up" }}
+    {{ $haircareName = "Haarverzorging" }}
+    {{ $guidesName = "Gidsen" }}
+{{ else if eq $lang "pl" }}
+    {{ $tagline = "Twój przewodnik po perfumach, pielęgnacji, makijażu i włosach." }}
+    {{ $categories = "Kategorie" }}
+    {{ $information = "Informacje" }}
+    {{ $newsletter = "Newsletter" }}
+    {{ $newsletterText = "Otrzymuj najnowsze porady urodowe i ekskluzywne oferty." }}
+    {{ $emailPlaceholder = "Twój email" }}
+    {{ $subscribe = "Subskrybuj" }}
+    {{ $aboutUs = "O nas" }}
+    {{ $contact = "Kontakt" }}
+    {{ $privacyPolicy = "Prywatność" }}
+    {{ $termsOfUse = "Regulamin" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Wszelkie prawa zastrzeżone." }}
+    {{ $affiliateNotice = "Ta strona zawiera linki afiliacyjne." }}
+    {{ $perfumesSlug = "perfumy" }}
+    {{ $skincareSlug = "pielegnacja" }}
+    {{ $makeupSlug = "makijaz" }}
+    {{ $haircareSlug = "wlosy" }}
+    {{ $guidesSlug = "poradniki" }}
+    {{ $perfumesName = "Perfumy" }}
+    {{ $skincareName = "Pielęgnacja" }}
+    {{ $makeupName = "Makijaż" }}
+    {{ $haircareName = "Włosy" }}
+    {{ $guidesName = "Poradniki" }}
+{{ else if eq $lang "tr" }}
+    {{ $tagline = "Parfümler, cilt bakımı, makyaj ve saç bakımı için rehberiniz." }}
+    {{ $categories = "Kategoriler" }}
+    {{ $information = "Bilgi" }}
+    {{ $newsletter = "Bülten" }}
+    {{ $newsletterText = "En son güzellik ipuçlarını ve özel teklifleri alın." }}
+    {{ $emailPlaceholder = "E-postanız" }}
+    {{ $subscribe = "Abone ol" }}
+    {{ $aboutUs = "Hakkımızda" }}
+    {{ $contact = "İletişim" }}
+    {{ $privacyPolicy = "Gizlilik" }}
+    {{ $termsOfUse = "Kullanım Şartları" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. Tüm hakları saklıdır." }}
+    {{ $affiliateNotice = "Bu site affiliate linkler içerir." }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "cilt-bakimi" }}
+    {{ $makeupSlug = "makyaj" }}
+    {{ $haircareSlug = "sac-bakimi" }}
+    {{ $guidesSlug = "rehber" }}
+    {{ $perfumesName = "Parfüm" }}
+    {{ $skincareName = "Cilt Bakımı" }}
+    {{ $makeupName = "Makyaj" }}
+    {{ $haircareName = "Saç Bakımı" }}
+    {{ $guidesName = "Rehber" }}
+{{ else if eq $lang "ja" }}
+    {{ $tagline = "香水、スキンケア、メイク、ヘアケアの究極ガイド。" }}
+    {{ $categories = "カテゴリー" }}
+    {{ $information = "情報" }}
+    {{ $newsletter = "ニュースレター" }}
+    {{ $newsletterText = "最新のビューティーティップスとお得な情報をお届けします。" }}
+    {{ $emailPlaceholder = "メールアドレス" }}
+    {{ $subscribe = "登録" }}
+    {{ $aboutUs = "私たちについて" }}
+    {{ $contact = "お問い合わせ" }}
+    {{ $privacyPolicy = "プライバシー" }}
+    {{ $termsOfUse = "利用規約" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. All rights reserved." }}
+    {{ $affiliateNotice = "このサイトにはアフィリエイトリンクが含まれています。" }}
+    {{ $perfumesName = "香水" }}
+    {{ $skincareName = "スキンケア" }}
+    {{ $makeupName = "メイク" }}
+    {{ $haircareName = "ヘアケア" }}
+    {{ $guidesName = "ガイド" }}
+{{ else if eq $lang "ko" }}
+    {{ $tagline = "향수, 스킨케어, 메이크업, 헤어케어의 궁극적인 가이드." }}
+    {{ $categories = "카테고리" }}
+    {{ $information = "정보" }}
+    {{ $newsletter = "뉴스레터" }}
+    {{ $newsletterText = "최신 뷰티 팁과 특별 혜택을 받아보세요." }}
+    {{ $emailPlaceholder = "이메일 주소" }}
+    {{ $subscribe = "구독" }}
+    {{ $aboutUs = "소개" }}
+    {{ $contact = "문의" }}
+    {{ $privacyPolicy = "개인정보" }}
+    {{ $termsOfUse = "이용약관" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. All rights reserved." }}
+    {{ $affiliateNotice = "이 사이트에는 제휴 링크가 포함되어 있습니다." }}
+    {{ $perfumesName = "향수" }}
+    {{ $skincareName = "스킨케어" }}
+    {{ $makeupName = "메이크업" }}
+    {{ $haircareName = "헤어케어" }}
+    {{ $guidesName = "가이드" }}
+{{ else if eq $lang "zh" }}
+    {{ $tagline = "香水、护肤、化妆和护发的终极指南。" }}
+    {{ $categories = "分类" }}
+    {{ $information = "信息" }}
+    {{ $newsletter = "订阅" }}
+    {{ $newsletterText = "获取最新的美容技巧和独家优惠。" }}
+    {{ $emailPlaceholder = "您的邮箱" }}
+    {{ $subscribe = "订阅" }}
+    {{ $aboutUs = "关于我们" }}
+    {{ $contact = "联系我们" }}
+    {{ $privacyPolicy = "隐私政策" }}
+    {{ $termsOfUse = "使用条款" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. 保留所有权利。" }}
+    {{ $affiliateNotice = "本站包含联盟链接。" }}
+    {{ $perfumesName = "香水" }}
+    {{ $skincareName = "护肤" }}
+    {{ $makeupName = "化妆" }}
+    {{ $haircareName = "护发" }}
+    {{ $guidesName = "指南" }}
+{{ else if eq $lang "ar" }}
+    {{ $tagline = "دليلك الشامل للعطور والعناية بالبشرة والمكياج والشعر." }}
+    {{ $categories = "الفئات" }}
+    {{ $information = "معلومات" }}
+    {{ $newsletter = "النشرة الإخبارية" }}
+    {{ $newsletterText = "احصل على أحدث نصائح الجمال والعروض الحصرية." }}
+    {{ $emailPlaceholder = "بريدك الإلكتروني" }}
+    {{ $subscribe = "اشترك" }}
+    {{ $aboutUs = "من نحن" }}
+    {{ $contact = "اتصل بنا" }}
+    {{ $privacyPolicy = "الخصوصية" }}
+    {{ $termsOfUse = "شروط الاستخدام" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. جميع الحقوق محفوظة." }}
+    {{ $affiliateNotice = "يحتوي هذا الموقع على روابط تابعة." }}
+    {{ $perfumesName = "عطور" }}
+    {{ $skincareName = "العناية بالبشرة" }}
+    {{ $makeupName = "مكياج" }}
+    {{ $haircareName = "العناية بالشعر" }}
+    {{ $guidesName = "أدلة" }}
+{{ else if eq $lang "hi" }}
+    {{ $tagline = "परफ्यूम, स्किनकेयर, मेकअप और हेयरकेयर के लिए आपका अंतिम गाइड।" }}
+    {{ $categories = "श्रेणियाँ" }}
+    {{ $information = "जानकारी" }}
+    {{ $newsletter = "न्यूज़लेटर" }}
+    {{ $newsletterText = "नवीनतम ब्यूटी टिप्स और विशेष ऑफर प्राप्त करें।" }}
+    {{ $emailPlaceholder = "आपका ईमेल" }}
+    {{ $subscribe = "सब्सक्राइब" }}
+    {{ $aboutUs = "हमारे बारे में" }}
+    {{ $contact = "संपर्क" }}
+    {{ $privacyPolicy = "गोपनीयता" }}
+    {{ $termsOfUse = "उपयोग की शर्तें" }}
+    {{ $copyright = "© 2026 Hello Beauty Blog. सर्वाधिकार सुरक्षित।" }}
+    {{ $affiliateNotice = "इस साइट में एफिलिएट लिंक शामिल हैं।" }}
+    {{ $perfumesName = "परफ्यूम" }}
+    {{ $skincareName = "स्किनकेयर" }}
+    {{ $makeupName = "मेकअप" }}
+    {{ $haircareName = "हेयरकेयर" }}
+    {{ $guidesName = "गाइड" }}
+{{ end }}
+
+<footer class="bg-gradient-to-b from-white to-gray-50 border-t border-gray-100 mt-20"{{ if eq $lang "ar" }} dir="rtl"{{ end }}>
     
     <!-- Main Footer Content -->
     <div class="footer-container">
@@ -11,11 +325,11 @@
             
             <!-- Column 1: Brand -->
             <div class="footer-col">
-                <a href="/{{ .Language.Lang }}/" class="footer-logo">
+                <a href="/{{ $lang }}/" class="footer-logo">
                     <span class="logo-hello">Hello</span>
                     <span class="logo-beauty">Beauty</span>
                 </a>
-                <p class="footer-tagline">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
+                <p class="footer-tagline">{{ $tagline }}</p>
                 <div class="footer-social">
                     <a href="#" aria-label="Instagram" class="social-link">
                         <svg class="social-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
@@ -31,34 +345,34 @@
             
             <!-- Column 2: Categories -->
             <div class="footer-col">
-                <h4 class="footer-title">Categories</h4>
+                <h4 class="footer-title">{{ $categories }}</h4>
                 <nav class="footer-nav">
-                    <a href="/{{ .Language.Lang }}/perfumes/">Perfumes</a>
-                    <a href="/{{ .Language.Lang }}/skincare/">Skincare</a>
-                    <a href="/{{ .Language.Lang }}/makeup/">Makeup</a>
-                    <a href="/{{ .Language.Lang }}/haircare/">Haircare</a>
-                    <a href="/{{ .Language.Lang }}/guides/">Guides</a>
+                    <a href="/{{ $lang }}/{{ $perfumesSlug }}/">{{ $perfumesName }}</a>
+                    <a href="/{{ $lang }}/{{ $skincareSlug }}/">{{ $skincareName }}</a>
+                    <a href="/{{ $lang }}/{{ $makeupSlug }}/">{{ $makeupName }}</a>
+                    <a href="/{{ $lang }}/{{ $haircareSlug }}/">{{ $haircareName }}</a>
+                    <a href="/{{ $lang }}/{{ $guidesSlug }}/">{{ $guidesName }}</a>
                 </nav>
             </div>
             
             <!-- Column 3: Information -->
             <div class="footer-col">
-                <h4 class="footer-title">Information</h4>
+                <h4 class="footer-title">{{ $information }}</h4>
                 <nav class="footer-nav">
-                    <a href="/{{ .Language.Lang }}/about/">About Us</a>
-                    <a href="/{{ .Language.Lang }}/contact/">Contact</a>
-                    <a href="/{{ .Language.Lang }}/privacy/">Privacy Policy</a>
-                    <a href="/{{ .Language.Lang }}/terms/">Terms of Use</a>
+                    <a href="/{{ $lang }}/about/">{{ $aboutUs }}</a>
+                    <a href="/{{ $lang }}/contact/">{{ $contact }}</a>
+                    <a href="/{{ $lang }}/privacy/">{{ $privacyPolicy }}</a>
+                    <a href="/{{ $lang }}/terms/">{{ $termsOfUse }}</a>
                 </nav>
             </div>
             
             <!-- Column 4: Newsletter -->
             <div class="footer-col">
-                <h4 class="footer-title">Newsletter</h4>
-                <p class="newsletter-text">Get the latest beauty tips and exclusive offers delivered to your inbox.</p>
+                <h4 class="footer-title">{{ $newsletter }}</h4>
+                <p class="newsletter-text">{{ $newsletterText }}</p>
                 <form action="#" method="POST" class="newsletter-form">
-                    <input type="email" name="email" required placeholder="Enter your email" class="newsletter-input">
-                    <button type="submit" class="newsletter-btn">Subscribe</button>
+                    <input type="email" name="email" required placeholder="{{ $emailPlaceholder }}" class="newsletter-input">
+                    <button type="submit" class="newsletter-btn">{{ $subscribe }}</button>
                 </form>
             </div>
         </div>
@@ -67,8 +381,8 @@
     <!-- Bottom Bar -->
     <div class="footer-bottom">
         <div class="footer-bottom-inner">
-            <p>© 2026 Hello Beauty Blog. All rights reserved.</p>
-            <p class="affiliate-notice">This site contains affiliate links.</p>
+            <p>{{ $copyright }}</p>
+            <p class="affiliate-notice">{{ $affiliateNotice }}</p>
         </div>
     </div>
 </footer>
@@ -109,6 +423,11 @@
     }
 }
 
+/* RTL Support */
+[dir="rtl"] .footer-grid {
+    text-align: right;
+}
+
 /* Footer Column */
 .footer-col {
     display: flex;
@@ -120,6 +439,10 @@
         grid-column: span 2;
         text-align: center;
         align-items: center;
+    }
+    
+    [dir="rtl"] .footer-col:first-child {
+        text-align: center;
     }
 }
 
@@ -142,6 +465,11 @@
     font-weight: 300;
     color: #1F2937;
     margin-left: 0.25rem;
+}
+
+[dir="rtl"] .logo-beauty {
+    margin-left: 0;
+    margin-right: 0.25rem;
 }
 
 .footer-tagline {
