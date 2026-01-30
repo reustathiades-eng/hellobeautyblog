@@ -596,13 +596,71 @@
                 <img src="/images/hero/hero-main.webp" alt="Hello Beauty - Luxury Perfumes and Skincare" class="hero-image" loading="eager">
                 <div class="hero-image-decoration"></div>
             </div>
-            <!-- Floating product cards -->
-            <div class="floating-card floating-card-1">
-                <img src="/images/hero/floating-perfume.webp" alt="Featured Perfume">
-            </div>
-            <div class="floating-card floating-card-2">
-                <img src="/images/hero/floating-skincare.webp" alt="Featured Skincare">
-            </div>
+            
+            <!-- Dynamic Floating Product Cards -->
+            {{ $perfumesSlugLocal := "perfumes" }}
+            {{ if eq $lang "fr" }}{{ $perfumesSlugLocal = "parfums" }}
+            {{ else if eq $lang "de" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "it" }}{{ $perfumesSlugLocal = "profumi" }}
+            {{ else if eq $lang "nl" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "pl" }}{{ $perfumesSlugLocal = "perfumy" }}
+            {{ else if eq $lang "tr" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ end }}
+            
+            <!-- Latest Women's Perfume -->
+            {{ $womenPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Women" }}
+            {{ $latestWomen := first 1 (sort $womenPerfumes "Date" "desc") }}
+            {{ range $latestWomen }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-1" title="{{ .Params.brand }} {{ .Params.productName }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Femme{{ else }}Women{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Men's Perfume -->
+            {{ $menPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Men" }}
+            {{ $latestMen := first 1 (sort $menPerfumes "Date" "desc") }}
+            {{ range $latestMen }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-2" title="{{ .Params.brand }} {{ .Params.productName }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Homme{{ else }}Men{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Skincare -->
+            {{ $skincare := where site.RegularPages "Section" "skincare" }}
+            {{ $latestSkincare := first 1 (sort $skincare "Date" "desc") }}
+            {{ range $latestSkincare }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-3" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Soins{{ else }}Skincare{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Makeup -->
+            {{ $makeup := where site.RegularPages "Section" "makeup" }}
+            {{ $latestMakeup := first 1 (sort $makeup "Date" "desc") }}
+            {{ range $latestMakeup }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-4" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Maquillage{{ else }}Makeup{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Haircare -->
+            {{ $haircare := where site.RegularPages "Section" "haircare" }}
+            {{ $latestHaircare := first 1 (sort $haircare "Date" "desc") }}
+            {{ range $latestHaircare }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-5" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Cheveux{{ else }}Haircare{{ end }}</span>
+            </a>
+            {{ end }}
         </div>
     </div>
     
@@ -1237,38 +1295,601 @@
     pointer-events: none;
 }
 
+/* Scroll Indicator */
+.scroll-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    color: #9CA3AF;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    animation: bounce 2s infinite;
+}
+
+.scroll-indicator svg {
+    width: 20px;
+    height: 20px;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50% { transform: translateX(-50%) translateY(10px); }
+}
+
+/* ==========================================================================
+   INTRO SECTION (SEO)
+   ========================================================================== */
+.intro-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.intro-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intro-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1.5rem;
+    background: #FDF2F8;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F8C8DC;
+}
+
+.intro-icon svg {
+    width: 30px;
+    height: 30px;
+}
+
+.intro-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+}
+
+.intro-text {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: #6B7280;
+}
+
+.intro-text p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   CATEGORIES SECTION
+   ========================================================================== */
+.categories-section {
+    padding: 5rem 1.5rem;
+    background: #FAFAFA;
+}
+
+.categories-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+    }
+}
+
+.section-subtitle {
+    font-size: 1.0625rem;
+    color: #6B7280;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .categories-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .categories-grid {
+        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-rows: repeat(2, 1fr);
+    }
+    
+    .category-featured {
+        grid-row: span 2;
+    }
+}
+
+.category-card {
+    position: relative;
+    border-radius: 24px;
+    overflow: hidden;
+    text-decoration: none;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.category-image {
+    position: absolute;
+    inset: 0;
+}
+
+.category-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.category-card:hover .category-image img {
+    transform: scale(1.05);
+}
+
+.category-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0) 100%);
+}
+
+.category-content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+    color: white;
+}
+
+.category-icon {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    display: block;
+    margin-bottom: 0.75rem;
+}
+
+.category-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.category-desc {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.category-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #F8C8DC;
+    transition: color 0.2s ease;
+}
+
+.category-card:hover .category-link {
+    color: white;
+}
+
+/* ==========================================================================
+   LATEST PRODUCTS SECTION
+   ========================================================================== */
+.latest-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.latest-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .section-header-flex {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+        text-align: left;
+    }
+}
+
+.view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #F8C8DC;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.view-all-link:hover {
+    color: #e0a0b8;
+}
+
+.view-all-link svg {
+    width: 20px;
+    height: 20px;
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .products-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .products-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* ==========================================================================
+   WHY US SECTION
+   ========================================================================== */
+.why-section {
+    padding: 5rem 1.5rem;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.why-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.why-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .why-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .why-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.why-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.why-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.why-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 1.25rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.why-icon svg {
+    width: 32px;
+    height: 32px;
+}
+
+.why-icon-1 { background: #FEF3C7; color: #F59E0B; }
+.why-icon-2 { background: #D1FAE5; color: #10B981; }
+.why-icon-3 { background: #DBEAFE; color: #3B82F6; }
+.why-icon-4 { background: #FCE7F3; color: #EC4899; }
+
+.why-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+.why-text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #6B7280;
+}
+
+/* ==========================================================================
+   SEO BOTTOM SECTION
+   ========================================================================== */
+.seo-section {
+    padding: 4rem 1.5rem;
+    background: #FAFAFA;
+    border-top: 1px solid #E5E7EB;
+}
+
+.seo-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.seo-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.seo-content {
+    font-size: 0.9375rem;
+    line-height: 1.8;
+    color: #6B7280;
+    text-align: justify;
+}
+
+.seo-content p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   RTL SUPPORT
+   ========================================================================== */
+[dir="rtl"] .hero-content {
+    text-align: right;
+}
+
+[dir="rtl"] .hero-cta {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .hero-stats {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .btn-icon-right {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .view-all-link svg {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .category-link {
+    direction: rtl;
+}
+
+/* ==========================================================================
+   EXPERTS SECTION
+   ========================================================================== */
+.experts-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.experts-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.experts-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .experts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .experts-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.expert-card {
+    display: block;
+    text-decoration: none;
+    background: #FAFAFA;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.expert-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(248, 200, 220, 0.2);
+    border-color: #F8C8DC;
+    background: white;
+}
+
+.expert-image {
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.expert-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.expert-card:hover .expert-image img {
+    transform: scale(1.05);
+}
+
+.expert-info {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.expert-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin-bottom: 0.25rem;
+}
+
+.expert-role {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F8C8DC;
+    background: #FDF2F8;
+    padding: 0.25rem 0.75rem;
+    border-radius: 50px;
+    margin-bottom: 0.75rem;
+}
+
+.expert-bio {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: #6B7280;
+    margin: 0;
+}
+
+/* RTL support for experts */
+[dir="rtl"] .expert-info {
+    text-align: center;
+}
+</style>
+
 .floating-card {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     background: white;
-    border-radius: 20px;
-    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-    padding: 0.75rem;
+    border-radius: 16px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.12);
+    padding: 0.5rem;
     animation: float 6s ease-in-out infinite;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.floating-card:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 15px 50px rgba(248, 200, 220, 0.4);
+    z-index: 10;
 }
 
 .floating-card img {
     width: 100%;
-    height: 100%;
+    height: 60px;
     object-fit: contain;
+    border-radius: 8px;
 }
 
+.floating-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-top: 0.25rem;
+    text-align: center;
+    white-space: nowrap;
+}
+
+/* Position des 5 cards autour de l'image hero */
 .floating-card-1 {
-    top: 10%;
-    left: -50px;
+    top: 5%;
+    left: -30px;
     animation-delay: 0s;
 }
 
 .floating-card-2 {
-    bottom: 15%;
+    top: 35%;
+    left: -60px;
+    animation-delay: 1.2s;
+}
+
+.floating-card-3 {
+    top: 65%;
+    left: -30px;
+    animation-delay: 2.4s;
+}
+
+.floating-card-4 {
+    top: 20%;
     right: -40px;
-    animation-delay: 3s;
+    animation-delay: 0.6s;
+}
+
+.floating-card-5 {
+    bottom: 10%;
+    right: -50px;
+    animation-delay: 1.8s;
 }
 
 @keyframes float {
     0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-20px); }
+    50% { transform: translateY(-15px); }
 }
 
 /* Scroll Indicator */
