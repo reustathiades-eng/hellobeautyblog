@@ -1,62 +1,314 @@
-<footer class="bg-white border-t border-gray-200 mt-16">
-    <div style="max-width: 1200px; margin: 0 auto; padding: 3rem 20px;">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+<!-- =============================================================================
+     HELLO BEAUTY BLOG - Footer
+     Design: Fresh & Modern, Responsive
+============================================================================= -->
+
+<footer class="bg-gradient-to-b from-white to-gray-50 border-t border-gray-100 mt-20">
+    
+    <!-- Main Footer Content -->
+    <div class="footer-container">
+        <div class="footer-grid">
             
-            <!-- Brand -->
-            <div class="text-center md:text-left">
-                <a href="/{{ .Language.Lang }}/" class="inline-block mb-3">
-                    <span class="text-xl font-heading font-bold text-primary">Hello</span>
-                    <span class="text-xl font-heading font-light text-gray-800">Beauty</span>
+            <!-- Column 1: Brand -->
+            <div class="footer-col">
+                <a href="/{{ .Language.Lang }}/" class="footer-logo">
+                    <span class="logo-hello">Hello</span>
+                    <span class="logo-beauty">Beauty</span>
                 </a>
-                <p class="text-gray-500 text-sm">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
-            </div>
-            
-            <!-- Categories -->
-            <div class="text-center md:text-left">
-                <h4 class="font-semibold text-gray-800 mb-3">Categories</h4>
-                <div class="space-y-2">
-                    <a href="/{{ .Language.Lang }}/perfumes/" class="block text-gray-500 hover:text-primary text-sm">Perfumes</a>
-                    <a href="/{{ .Language.Lang }}/skincare/" class="block text-gray-500 hover:text-primary text-sm">Skincare</a>
-                    <a href="/{{ .Language.Lang }}/makeup/" class="block text-gray-500 hover:text-primary text-sm">Makeup</a>
-                    <a href="/{{ .Language.Lang }}/haircare/" class="block text-gray-500 hover:text-primary text-sm">Haircare</a>
+                <p class="footer-tagline">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
+                <div class="footer-social">
+                    <a href="#" aria-label="Instagram" class="social-link">
+                        <svg class="social-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                    </a>
+                    <a href="#" aria-label="Pinterest" class="social-link">
+                        <svg class="social-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z"/></svg>
+                    </a>
+                    <a href="#" aria-label="TikTok" class="social-link">
+                        <svg class="social-icon" fill="currentColor" viewBox="0 0 24 24"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/></svg>
+                    </a>
                 </div>
             </div>
             
-            <!-- Information -->
-            <div class="text-center md:text-left">
-                <h4 class="font-semibold text-gray-800 mb-3">Information</h4>
-                <div class="space-y-2">
-                    <a href="/{{ .Language.Lang }}/about/" class="block text-gray-500 hover:text-primary text-sm">About Us</a>
-                    <a href="/{{ .Language.Lang }}/contact/" class="block text-gray-500 hover:text-primary text-sm">Contact</a>
-                    <a href="/{{ .Language.Lang }}/privacy/" class="block text-gray-500 hover:text-primary text-sm">Privacy Policy</a>
-                    <a href="/{{ .Language.Lang }}/terms/" class="block text-gray-500 hover:text-primary text-sm">Terms of Use</a>
-                </div>
+            <!-- Column 2: Categories -->
+            <div class="footer-col">
+                <h4 class="footer-title">Categories</h4>
+                <nav class="footer-nav">
+                    <a href="/{{ .Language.Lang }}/perfumes/">Perfumes</a>
+                    <a href="/{{ .Language.Lang }}/skincare/">Skincare</a>
+                    <a href="/{{ .Language.Lang }}/makeup/">Makeup</a>
+                    <a href="/{{ .Language.Lang }}/haircare/">Haircare</a>
+                    <a href="/{{ .Language.Lang }}/guides/">Guides</a>
+                </nav>
             </div>
             
-            <!-- Newsletter -->
-            <div class="text-center md:text-left">
-                <h4 class="font-semibold text-gray-800 mb-3">Newsletter</h4>
-                <p class="text-gray-500 text-sm mb-3">Get the latest beauty news.</p>
-                <form action="#" method="POST">
-                    <input type="email" name="email" required placeholder="Your email" class="w-full px-3 py-2 mb-2 rounded border border-gray-300 text-sm">
-                    <button type="submit" class="w-full px-3 py-2 bg-primary text-gray-800 font-medium text-sm rounded hover:bg-primary/80">Subscribe</button>
+            <!-- Column 3: Information -->
+            <div class="footer-col">
+                <h4 class="footer-title">Information</h4>
+                <nav class="footer-nav">
+                    <a href="/{{ .Language.Lang }}/about/">About Us</a>
+                    <a href="/{{ .Language.Lang }}/contact/">Contact</a>
+                    <a href="/{{ .Language.Lang }}/privacy/">Privacy Policy</a>
+                    <a href="/{{ .Language.Lang }}/terms/">Terms of Use</a>
+                </nav>
+            </div>
+            
+            <!-- Column 4: Newsletter -->
+            <div class="footer-col">
+                <h4 class="footer-title">Newsletter</h4>
+                <p class="newsletter-text">Get the latest beauty tips and exclusive offers delivered to your inbox.</p>
+                <form action="#" method="POST" class="newsletter-form">
+                    <input type="email" name="email" required placeholder="Enter your email" class="newsletter-input">
+                    <button type="submit" class="newsletter-btn">Subscribe</button>
                 </form>
             </div>
         </div>
     </div>
     
-    <!-- Bottom -->
-    <div class="border-t border-gray-200">
-        <div style="max-width: 1200px; margin: 0 auto; padding: 1rem 20px;" class="flex flex-col md:flex-row justify-between items-center text-center md:text-left">
-            <p class="text-gray-400 text-xs">© 2026 Hello Beauty Blog. All rights reserved.</p>
-            <p class="text-gray-400 text-xs mt-1 md:mt-0">This site contains affiliate links.</p>
+    <!-- Bottom Bar -->
+    <div class="footer-bottom">
+        <div class="footer-bottom-inner">
+            <p>© 2026 Hello Beauty Blog. All rights reserved.</p>
+            <p class="affiliate-notice">This site contains affiliate links.</p>
         </div>
     </div>
 </footer>
 
 <style>
+/* Footer Container */
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 20px 3rem;
+}
+
 @media (min-width: 1024px) {
-    footer > div:first-child { padding: 3rem 100px !important; }
-    footer > div:last-child > div { padding: 1rem 100px !important; }
+    .footer-container {
+        padding: 4rem 100px 3rem;
+    }
+}
+
+/* Footer Grid */
+.footer-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    text-align: center;
+}
+
+@media (min-width: 640px) {
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+        text-align: left;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer-grid {
+        grid-template-columns: 1.5fr 1fr 1fr 1.3fr;
+        gap: 3rem;
+    }
+}
+
+/* Footer Column */
+.footer-col {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+    .footer-col:first-child {
+        grid-column: span 2;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+/* Logo */
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.logo-hello {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #F8C8DC;
+}
+
+.logo-beauty {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    font-weight: 300;
+    color: #1F2937;
+    margin-left: 0.25rem;
+}
+
+.footer-tagline {
+    color: #6B7280;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    max-width: 280px;
+    margin: 0 auto 1.25rem;
+}
+
+@media (min-width: 640px) {
+    .footer-tagline {
+        margin: 0 0 1.25rem;
+    }
+}
+
+/* Social Icons */
+.footer-social {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+}
+
+@media (min-width: 640px) {
+    .footer-social {
+        justify-content: flex-start;
+    }
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #FDF2F8;
+    color: #F8C8DC;
+    transition: all 0.2s ease;
+}
+
+.social-link:hover {
+    background: #F8C8DC;
+    color: white;
+    transform: translateY(-2px);
+}
+
+.social-icon {
+    width: 18px;
+    height: 18px;
+}
+
+/* Footer Titles */
+.footer-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin-bottom: 1.25rem;
+    position: relative;
+}
+
+/* Footer Navigation */
+.footer-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.footer-nav a {
+    color: #6B7280;
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-nav a:hover {
+    color: #F8C8DC;
+}
+
+/* Newsletter */
+.newsletter-text {
+    color: #6B7280;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.newsletter-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    transition: border-color 0.2s ease;
+}
+
+.newsletter-input:focus {
+    outline: none;
+    border-color: #F8C8DC;
+}
+
+.newsletter-input::placeholder {
+    color: #9CA3AF;
+}
+
+.newsletter-btn {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: #F8C8DC;
+    color: #1F2937;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.newsletter-btn:hover {
+    background: #f0b4cc;
+    transform: translateY(-1px);
+}
+
+/* Footer Bottom */
+.footer-bottom {
+    border-top: 1px solid #E5E7EB;
+    background: #FAFAFA;
+}
+
+.footer-bottom-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.25rem 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    text-align: center;
+}
+
+@media (min-width: 640px) {
+    .footer-bottom-inner {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer-bottom-inner {
+        padding: 1.25rem 100px;
+    }
+}
+
+.footer-bottom p {
+    color: #9CA3AF;
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+.affiliate-notice {
+    font-style: italic;
 }
 </style>
