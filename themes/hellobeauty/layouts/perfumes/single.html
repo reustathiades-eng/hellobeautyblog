@@ -1,248 +1,67 @@
-{{ define "title" }}{{ .Title }} - {{ .Params.brand }} | {{ .Site.Title }}{{ end }}
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
-
-<article class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12">
+<article class="max-w-6xl mx-auto px-4 py-12">
     
-    <!-- Breadcrumb -->
-    <nav class="mb-6 text-sm" aria-label="Breadcrumb">
-        <ol class="flex items-center space-x-2 text-textLight">
-            <li><a href="/{{ $lang }}/" class="hover:text-primary">{{ if eq $lang "fr" }}Accueil{{ else }}Home{{ end }}</a></li>
-            <li><span class="mx-2">/</span></li>
-            <li><a href="/{{ $lang }}/{{ if eq $lang "fr" }}parfums{{ else }}perfumes{{ end }}/" class="hover:text-primary">
-                {{ if eq $lang "fr" }}Parfums{{ else if eq $lang "de" }}Parfüm{{ else if eq $lang "es" }}Perfumes{{ else }}Perfumes{{ end }}
-            </a></li>
-            <li><span class="mx-2">/</span></li>
-            <li class="text-text font-medium">{{ .Title }}</li>
-        </ol>
-    </nav>
-    
-    <!-- Product Layout -->
-    <div class="product-single">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-12">
         
-        <!-- Gallery -->
-        <div class="product-single__gallery">
-            {{ with .Params.image }}
-            <img src="{{ . }}" 
-                 alt="{{ $.Title }}"
-                 class="w-full h-full object-contain p-8">
+        <div class="flex justify-center lg:justify-start">
+            {{ with index .Params.images 0 }}
+            <img src="{{ . }}" alt="{{ $.Title }}" class="max-w-sm w-full rounded-xl shadow-lg">
             {{ else }}
-            <div class="w-full h-full flex items-center justify-center bg-background">
-                <svg class="w-32 h-32 text-textLight" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" 
-                          d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+            <div class="max-w-sm w-full aspect-square bg-gray-100 rounded-xl flex items-center justify-center">
+                <svg class="w-16 h-16 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                 </svg>
             </div>
             {{ end }}
         </div>
         
-        <!-- Product Info -->
-        <div class="product-single__info">
+        <div>
+            {{ with .Params.brand }}<p class="text-sm text-gray-500 uppercase tracking-wide mb-2">{{ . }}</p>{{ end }}
+            <h1 class="text-3xl lg:text-4xl font-heading font-bold mb-2">{{ .Params.productName | default .Title }}</h1>
+            {{ with .Params.productType }}<p class="text-lg text-gray-600 mb-4">{{ . }}</p>{{ end }}
             
-            <!-- Brand -->
-            {{ with .Params.brand }}
-            <p class="text-sm uppercase tracking-wider text-textLight">{{ . }}</p>
-            {{ end }}
-            
-            <!-- Title -->
-            <h1 class="text-3xl lg:text-4xl font-heading font-bold text-text">{{ .Title }}</h1>
-            
-            <!-- Concentration -->
-            {{ with .Params.concentration }}
-            <p class="text-lg text-textLight">{{ . }}</p>
-            {{ end }}
-            
-            <!-- Rating -->
-            {{ with .Params.rating }}
-            <div class="flex items-center gap-3">
-                <div class="rating">
-                    {{ $rating := . }}
+            <div class="flex items-center gap-2 mb-6">
+                <div class="flex">
+                    {{ $rating := .Params.rating | default 0 }}
                     {{ range seq 5 }}
-                    <svg class="rating__star w-5 h-5 {{ if gt . $rating }}rating__star--empty{{ end }}" viewBox="0 0 20 20">
+                    <svg class="w-5 h-5 {{ if le . $rating }}text-primary{{ else }}text-gray-300{{ end }}" fill="currentColor" viewBox="0 0 20 20">
                         <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
                     </svg>
                     {{ end }}
                 </div>
-                <span class="text-textLight">({{ . }}/5)</span>
+                <span class="text-gray-500">({{ .Params.reviewCount | default 0 }} {{ if eq $lang "fr" }}avis{{ else if eq $lang "de" }}Bewertungen{{ else if eq $lang "es" }}reseñas{{ else }}reviews{{ end }})</span>
             </div>
-            {{ end }}
             
-            <!-- Price -->
-            {{ with .Params.price }}
-            <div class="flex items-baseline gap-3">
-                <span class="text-2xl font-bold text-primary">{{ . }}</span>
-                {{ with $.Params.originalPrice }}
-                <span class="text-lg text-textLight line-through">{{ . }}</span>
-                {{ end }}
-            </div>
-            {{ end }}
+            {{ with .Params.shortDescription }}<p class="text-gray-700 mb-6">{{ . }}</p>{{ end }}
             
-            <!-- Short Description -->
-            {{ with .Params.description }}
-            <p class="text-textLight leading-relaxed">{{ . }}</p>
-            {{ end }}
-            
-            <!-- Notes Pyramid -->
+            <!-- PERFUME Notes -->
             {{ if or .Params.topNotes .Params.heartNotes .Params.baseNotes }}
-            <div class="border-t border-border pt-6 mt-6">
-                <h2 class="text-lg font-heading font-semibold mb-4">
-                    {{ if eq $lang "fr" }}Pyramide Olfactive{{ else if eq $lang "de" }}Duftnoten{{ else if eq $lang "es" }}Pirámide Olfativa{{ else }}Fragrance Notes{{ end }}
-                </h2>
-                <div class="notes-pyramid">
-                    {{ with .Params.topNotes }}
-                    <div class="notes-pyramid__level">
-                        <p class="notes-pyramid__title">
-                            {{ if eq $lang "fr" }}Tête{{ else if eq $lang "de" }}Kopf{{ else if eq $lang "es" }}Salida{{ else }}Top{{ end }}
-                        </p>
-                        <div class="flex flex-wrap justify-center gap-1">
-                            {{ range . }}
-                            <span class="tag">{{ . }}</span>
-                            {{ end }}
-                        </div>
-                    </div>
-                    {{ end }}
-                    
-                    {{ with .Params.heartNotes }}
-                    <div class="notes-pyramid__level">
-                        <p class="notes-pyramid__title">
-                            {{ if eq $lang "fr" }}Cœur{{ else if eq $lang "de" }}Herz{{ else if eq $lang "es" }}Corazón{{ else }}Heart{{ end }}
-                        </p>
-                        <div class="flex flex-wrap justify-center gap-1">
-                            {{ range . }}
-                            <span class="tag">{{ . }}</span>
-                            {{ end }}
-                        </div>
-                    </div>
-                    {{ end }}
-                    
-                    {{ with .Params.baseNotes }}
-                    <div class="notes-pyramid__level">
-                        <p class="notes-pyramid__title">
-                            {{ if eq $lang "fr" }}Fond{{ else if eq $lang "de" }}Basis{{ else if eq $lang "es" }}Fondo{{ else }}Base{{ end }}
-                        </p>
-                        <div class="flex flex-wrap justify-center gap-1">
-                            {{ range . }}
-                            <span class="tag">{{ . }}</span>
-                            {{ end }}
-                        </div>
-                    </div>
-                    {{ end }}
+            <div class="border-t border-gray-200 pt-6">
+                <h2 class="text-lg font-semibold mb-4">{{ if eq $lang "fr" }}Notes olfactives{{ else if eq $lang "de" }}Duftnoten{{ else if eq $lang "es" }}Notas olfativas{{ else }}Fragrance Notes{{ end }}</h2>
+                <div class="grid grid-cols-3 gap-4 text-center text-sm">
+                    {{ with .Params.topNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Tête{{ else if eq $lang "de" }}Kopf{{ else if eq $lang "es" }}Salida{{ else }}Top{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
+                    {{ with .Params.heartNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Cœur{{ else if eq $lang "de" }}Herz{{ else if eq $lang "es" }}Corazón{{ else }}Heart{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
+                    {{ with .Params.baseNotes }}<div><p class="font-medium text-gray-500 uppercase text-xs mb-2">{{ if eq $lang "fr" }}Fond{{ else if eq $lang "de" }}Basis{{ else if eq $lang "es" }}Fondo{{ else }}Base{{ end }}</p>{{ range . }}<span class="block text-gray-700">{{ . }}</span>{{ end }}</div>{{ end }}
                 </div>
             </div>
             {{ end }}
             
-            <!-- Characteristics -->
-            {{ if or .Params.longevity .Params.sillage .Params.season .Params.occasion }}
-            <div class="border-t border-border pt-6 mt-6">
-                <h2 class="text-lg font-heading font-semibold mb-4">
-                    {{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}
-                </h2>
-                <dl class="grid grid-cols-2 gap-4">
-                    {{ with .Params.longevity }}
-                    <div>
-                        <dt class="text-xs uppercase tracking-wider text-textLight mb-1">
-                            {{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}
-                        </dt>
-                        <dd class="font-medium">{{ . }}</dd>
-                    </div>
-                    {{ end }}
-                    {{ with .Params.sillage }}
-                    <div>
-                        <dt class="text-xs uppercase tracking-wider text-textLight mb-1">
-                            {{ if eq $lang "fr" }}Sillage{{ else if eq $lang "de" }}Sillage{{ else if eq $lang "es" }}Estela{{ else }}Sillage{{ end }}
-                        </dt>
-                        <dd class="font-medium">{{ . }}</dd>
-                    </div>
-                    {{ end }}
-                    {{ with .Params.season }}
-                    <div>
-                        <dt class="text-xs uppercase tracking-wider text-textLight mb-1">
-                            {{ if eq $lang "fr" }}Saison{{ else if eq $lang "de" }}Saison{{ else if eq $lang "es" }}Temporada{{ else }}Season{{ end }}
-                        </dt>
-                        <dd class="font-medium">
-                            {{ if reflect.IsSlice . }}{{ delimit . ", " }}{{ else }}{{ . }}{{ end }}
-                        </dd>
-                    </div>
-                    {{ end }}
-                    {{ with .Params.occasion }}
-                    <div>
-                        <dt class="text-xs uppercase tracking-wider text-textLight mb-1">
-                            {{ if eq $lang "fr" }}Occasion{{ else if eq $lang "de" }}Anlass{{ else if eq $lang "es" }}Ocasión{{ else }}Occasion{{ end }}
-                        </dt>
-                        <dd class="font-medium">
-                            {{ if reflect.IsSlice . }}{{ delimit . ", " }}{{ else }}{{ . }}{{ end }}
-                        </dd>
-                    </div>
-                    {{ end }}
-                </dl>
-            </div>
-            {{ end }}
-            
-            <!-- Affiliate Button -->
-            <div class="border-t border-border pt-6 mt-6">
-                <a href="{{ .Params.affiliateUrl | default "#" }}" 
-                   target="_blank" 
-                   rel="noopener sponsored"
-                   class="affiliate-btn w-full">
-                    <svg class="affiliate-btn__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                              d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"/>
-                    </svg>
-                    {{ if eq $lang "fr" }}Acheter maintenant{{ else if eq $lang "de" }}Jetzt kaufen{{ else if eq $lang "es" }}Comprar ahora{{ else }}Buy Now{{ end }}
-                </a>
-                <p class="text-xs text-textLight text-center mt-3">
-                    {{ if eq $lang "fr" }}Lien affilié - nous pouvons recevoir une commission{{ else if eq $lang "de" }}Affiliate-Link - wir können eine Provision erhalten{{ else if eq $lang "es" }}Enlace de afiliado - podemos recibir una comisión{{ else }}Affiliate link - we may earn a commission{{ end }}
-                </p>
+            <!-- PERFUME Characteristics -->
+            <div class="border-t border-gray-200 pt-6 mt-6">
+                <h2 class="text-lg font-semibold mb-4">{{ if eq $lang "fr" }}Caractéristiques{{ else if eq $lang "de" }}Eigenschaften{{ else if eq $lang "es" }}Características{{ else }}Characteristics{{ end }}</h2>
+                <div class="grid grid-cols-2 gap-4 text-sm">
+                    {{ with .Params.concentration }}<div><span class="text-gray-500">Concentration:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.longevity }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Tenue{{ else if eq $lang "de" }}Haltbarkeit{{ else if eq $lang "es" }}Duración{{ else }}Longevity{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.sillage }}<div><span class="text-gray-500">Sillage:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
+                    {{ with .Params.season }}<div><span class="text-gray-500">{{ if eq $lang "fr" }}Saison{{ else if eq $lang "de" }}Jahreszeit{{ else if eq $lang "es" }}Temporada{{ else }}Season{{ end }}:</span> <span class="font-medium">{{ . }}</span></div>{{ end }}
+                </div>
             </div>
         </div>
     </div>
     
-    <!-- Full Content -->
-    {{ with .Content }}
-    <div class="max-w-3xl mx-auto mt-12 prose prose-lg">
-        {{ . }}
-    </div>
-    {{ end }}
-    
-    <!-- Related Products -->
-    {{ $related := site.RegularPages.Related . | first 4 }}
-    {{ with $related }}
-    <section class="mt-16 border-t border-border pt-12">
-        <h2 class="text-2xl font-heading font-semibold mb-8 text-center">
-            {{ if eq $lang "fr" }}Vous aimerez aussi{{ else if eq $lang "de" }}Das könnte Ihnen auch gefallen{{ else if eq $lang "es" }}También te puede gustar{{ else }}You May Also Like{{ end }}
-        </h2>
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
-            {{ range . }}
-            {{ partial "product-card.html" . }}
-            {{ end }}
-        </div>
-    </section>
-    {{ end }}
-    
+    <div class="prose prose-lg max-w-none">{{ .Content }}</div>
 </article>
-
-<!-- Schema.org Product -->
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "{{ .Title }}",
-    "brand": {
-        "@type": "Brand",
-        "name": "{{ .Params.brand }}"
-    },
-    "description": "{{ .Params.description }}",
-    {{ with .Params.image }}"image": "{{ . | absURL }}",{{ end }}
-    {{ with .Params.rating }}
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "{{ . }}",
-        "bestRating": "5",
-        "worstRating": "1"
-    },
-    {{ end }}
-    "category": "Perfume"
-}
-</script>
 {{ end }}
