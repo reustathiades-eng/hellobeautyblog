@@ -6,7 +6,11 @@
         <h1 class="text-4xl font-heading font-bold mb-4">{{ .Title }}</h1>
         <p class="text-textLight">{{ .Date.Format "January 2, 2006" }}</p>
     </header>
-    {{ with index .Params.images 0 }}<img src="{{ . }}" alt="{{ $.Title }}" class="w-full rounded-xl mb-8">{{ end }}
+    {{ with index .Params.images 0 }}
+    <div class="mb-8 flex justify-center">
+        <img src="{{ . }}" alt="{{ $.Title }}" class="max-w-md lg:max-w-lg rounded-xl shadow-lg">
+    </div>
+    {{ end }}
     <div class="prose prose-lg max-w-none">{{ .Content }}</div>
 </article>
 {{ end }}
