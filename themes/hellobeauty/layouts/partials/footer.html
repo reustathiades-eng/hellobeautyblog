@@ -1,62 +1,53 @@
 <footer class="bg-white border-t border-border mt-16">
-    <div class="max-w-6xl mx-auto px-6 lg:px-12 py-12 lg:py-16">
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+    <div class="max-w-5xl mx-auto px-6 py-12">
+        
+        <!-- 4 colonnes centrées -->
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-10 text-center">
             
-            <!-- Brand Column -->
-            <div class="text-center lg:text-left">
+            <!-- Brand -->
+            <div>
                 <a href="/{{ .Language.Lang }}/" class="inline-block mb-4">
                     <span class="text-2xl font-heading font-bold text-primary">Hello</span>
                     <span class="text-2xl font-heading font-light text-text">Beauty</span>
                 </a>
-                <p class="text-textLight text-sm leading-relaxed mb-4">
-                    {{ if eq .Language.Lang "fr" }}Votre guide ultime des parfums, soins, maquillage et cheveux.
-                    {{ else if eq .Language.Lang "de" }}Ihr ultimativer Guide für Parfüm, Hautpflege, Make-up und Haarpflege.
-                    {{ else if eq .Language.Lang "es" }}Tu guía definitiva de perfumes, cuidado de la piel, maquillaje y cabello.
-                    {{ else }}Your ultimate guide to perfumes, skincare, makeup and haircare.{{ end }}
-                </p>
+                <p class="text-textLight text-sm">Your ultimate guide to perfumes, skincare, makeup and haircare.</p>
             </div>
             
             <!-- Categories -->
-            <div class="text-center lg:text-left">
-                <h4 class="font-heading font-semibold text-text mb-4">{{ if eq .Language.Lang "fr" }}Catégories{{ else if eq .Language.Lang "de" }}Kategorien{{ else if eq .Language.Lang "es" }}Categorías{{ else }}Categories{{ end }}</h4>
-                <ul class="space-y-2 list-none pl-0">
-                    <li><a href="/{{ .Language.Lang }}/perfumes/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Parfums{{ else if eq .Language.Lang "de" }}Parfüm{{ else if eq .Language.Lang "es" }}Perfumes{{ else }}Perfumes{{ end }}</a></li>
-                    <li><a href="/{{ .Language.Lang }}/skincare/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Soins{{ else if eq .Language.Lang "de" }}Hautpflege{{ else if eq .Language.Lang "es" }}Cuidado{{ else }}Skincare{{ end }}</a></li>
-                    <li><a href="/{{ .Language.Lang }}/makeup/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Maquillage{{ else if eq .Language.Lang "de" }}Make-up{{ else if eq .Language.Lang "es" }}Maquillaje{{ else }}Makeup{{ end }}</a></li>
-                    <li><a href="/{{ .Language.Lang }}/haircare/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Cheveux{{ else if eq .Language.Lang "de" }}Haarpflege{{ else if eq .Language.Lang "es" }}Cabello{{ else }}Haircare{{ end }}</a></li>
-                </ul>
+            <div>
+                <h4 class="font-heading font-semibold text-text mb-4">Categories</h4>
+                <a href="/{{ .Language.Lang }}/perfumes/" class="block text-textLight hover:text-primary text-sm mb-2">Perfumes</a>
+                <a href="/{{ .Language.Lang }}/skincare/" class="block text-textLight hover:text-primary text-sm mb-2">Skincare</a>
+                <a href="/{{ .Language.Lang }}/makeup/" class="block text-textLight hover:text-primary text-sm mb-2">Makeup</a>
+                <a href="/{{ .Language.Lang }}/haircare/" class="block text-textLight hover:text-primary text-sm">Haircare</a>
             </div>
             
             <!-- Information -->
-            <div class="text-center lg:text-left">
+            <div>
                 <h4 class="font-heading font-semibold text-text mb-4">Information</h4>
-                <ul class="space-y-2 list-none pl-0">
-                    <li><a href="/{{ .Language.Lang }}/about/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}À propos{{ else if eq .Language.Lang "de" }}Über uns{{ else if eq .Language.Lang "es" }}Nosotros{{ else }}About Us{{ end }}</a></li>
-                    <li><a href="/{{ .Language.Lang }}/contact/" class="text-textLight hover:text-primary text-sm transition-colors">Contact</a></li>
-                    <li><a href="/{{ .Language.Lang }}/privacy/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Confidentialité{{ else if eq .Language.Lang "de" }}Datenschutz{{ else if eq .Language.Lang "es" }}Privacidad{{ else }}Privacy Policy{{ end }}</a></li>
-                    <li><a href="/{{ .Language.Lang }}/terms/" class="text-textLight hover:text-primary text-sm transition-colors">{{ if eq .Language.Lang "fr" }}Conditions{{ else if eq .Language.Lang "de" }}AGB{{ else if eq .Language.Lang "es" }}Términos{{ else }}Terms of Use{{ end }}</a></li>
-                </ul>
+                <a href="/{{ .Language.Lang }}/about/" class="block text-textLight hover:text-primary text-sm mb-2">About Us</a>
+                <a href="/{{ .Language.Lang }}/contact/" class="block text-textLight hover:text-primary text-sm mb-2">Contact</a>
+                <a href="/{{ .Language.Lang }}/privacy/" class="block text-textLight hover:text-primary text-sm mb-2">Privacy Policy</a>
+                <a href="/{{ .Language.Lang }}/terms/" class="block text-textLight hover:text-primary text-sm">Terms of Use</a>
             </div>
             
             <!-- Newsletter -->
-            <div class="text-center lg:text-left">
+            <div>
                 <h4 class="font-heading font-semibold text-text mb-4">Newsletter</h4>
-                <p class="text-textLight text-sm mb-4">{{ if eq .Language.Lang "fr" }}Recevez nos dernières actualités beauté.{{ else if eq .Language.Lang "de" }}Erhalten Sie die neuesten Beauty-News.{{ else if eq .Language.Lang "es" }}Recibe las últimas novedades de belleza.{{ else }}Get the latest beauty news delivered to your inbox.{{ end }}</p>
-                <form action="https://formspree.io/f/" method="POST" class="space-y-3">
-                    <input type="email" name="email" required placeholder="{{ if eq .Language.Lang "fr" }}Votre email{{ else if eq .Language.Lang "de" }}Ihre E-Mail{{ else if eq .Language.Lang "es" }}Tu email{{ else }}Your email{{ end }}" class="w-full px-4 py-2 rounded-lg border border-border bg-background text-text text-sm focus:outline-none focus:ring-2 focus:ring-primary">
-                    <button type="submit" class="w-full px-4 py-2 bg-primary hover:bg-primary/90 text-text font-medium text-sm rounded-lg transition-colors">{{ if eq .Language.Lang "fr" }}S'abonner{{ else if eq .Language.Lang "de" }}Abonnieren{{ else if eq .Language.Lang "es" }}Suscribirse{{ else }}Subscribe{{ end }}</button>
+                <p class="text-textLight text-sm mb-4">Get the latest beauty news.</p>
+                <form action="https://formspree.io/f/" method="POST">
+                    <input type="email" name="email" required placeholder="Your email" class="w-full px-4 py-2 mb-2 rounded-lg border border-border text-sm">
+                    <button type="submit" class="w-full px-4 py-2 bg-primary text-text font-medium text-sm rounded-lg">Subscribe</button>
                 </form>
             </div>
         </div>
     </div>
     
-    <!-- Bottom Bar -->
+    <!-- Bottom -->
     <div class="border-t border-border">
-        <div class="max-w-6xl mx-auto px-6 lg:px-12 py-6">
-            <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0 text-center md:text-left">
-                <p class="text-textLight text-sm">© 2026 Hello Beauty Blog. All rights reserved.</p>
-                <p class="text-textLight text-xs">This site contains affiliate links.</p>
-            </div>
+        <div class="max-w-5xl mx-auto px-6 py-6 text-center">
+            <p class="text-textLight text-sm">© 2026 Hello Beauty Blog. All rights reserved.</p>
+            <p class="text-textLight text-xs mt-1">This site contains affiliate links.</p>
         </div>
     </div>
 </footer>
