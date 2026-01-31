@@ -4,6 +4,13 @@
 {{ $lang := .Language.Lang }}
 
 <!-- ============================================================================
+     LOAD DATA FROM JSON
+============================================================================= -->
+{{ $homepage := .Site.Data.homepage }}
+{{ $introFromData := index $homepage.intro $lang }}
+{{ $bottomFromData := index $homepage.bottom $lang }}
+
+<!-- ============================================================================
      TRADUCTIONS - 14 langues
 ============================================================================= -->
 
@@ -14,9 +21,9 @@
 {{ $heroCTA := "Explore Perfumes" }}
 {{ $heroSecondaryCTA := "Browse All Categories" }}
 
-<!-- Intro SEO -->
+<!-- Intro SEO - Now loaded from data -->
 {{ $introTitle := "Your Trusted Beauty Companion" }}
-{{ $introText := "[SEO_INTRO_TEXT]" }}
+{{ $introText := $introFromData | default "[SEO_INTRO_TEXT]" }}
 
 <!-- Categories -->
 {{ $categoriesTitle := "Explore by Category" }}
@@ -53,9 +60,9 @@
 {{ $why4Title := "Updated Daily" }}
 {{ $why4Text := "Fresh content and the latest product releases, reviewed as soon as they launch." }}
 
-<!-- SEO Bottom -->
+<!-- SEO Bottom - Now loaded from data -->
 {{ $seoTitle := "About Hello Beauty Blog" }}
-{{ $seoText := "[SEO_BOTTOM_TEXT]" }}
+{{ $seoText := $bottomFromData | default "[SEO_BOTTOM_TEXT]" }}
 
 <!-- ============================================================================
      TRADUCTIONS FRANÇAIS

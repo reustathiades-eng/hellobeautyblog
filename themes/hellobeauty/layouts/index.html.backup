@@ -1,0 +1,2421 @@
+{{ define "title" }}{{ .Site.Title }} - {{ .Site.Params.description }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+
+<!-- ============================================================================
+     TRADUCTIONS - 14 langues
+============================================================================= -->
+
+<!-- Hero Section -->
+{{ $heroTitle := "Discover Your Perfect" }}
+{{ $heroHighlight := "Beauty" }}
+{{ $heroSubtitle := "Expert reviews, honest recommendations, and the ultimate guide to perfumes, skincare, makeup and haircare." }}
+{{ $heroCTA := "Explore Perfumes" }}
+{{ $heroSecondaryCTA := "Browse All Categories" }}
+
+<!-- Intro SEO -->
+{{ $introTitle := "Your Trusted Beauty Companion" }}
+{{ $introText := "[SEO_INTRO_TEXT]" }}
+
+<!-- Categories -->
+{{ $categoriesTitle := "Explore by Category" }}
+{{ $categoriesSubtitle := "Find exactly what you're looking for" }}
+{{ $catPerfumes := "Perfumes" }}
+{{ $catPerfumesDesc := "Discover your signature scent" }}
+{{ $catSkincare := "Skincare" }}
+{{ $catSkincareDesc := "Reveal your natural glow" }}
+{{ $catMakeup := "Makeup" }}
+{{ $catMakeupDesc := "Express your unique style" }}
+{{ $catHaircare := "Haircare" }}
+{{ $catHaircareDesc := "Achieve your dream hair" }}
+
+<!-- Slugs -->
+{{ $perfumesSlug := "perfumes" }}
+{{ $skincareSlug := "skincare" }}
+{{ $makeupSlug := "makeup" }}
+{{ $haircareSlug := "haircare" }}
+
+<!-- Latest Products -->
+{{ $latestTitle := "New Arrivals" }}
+{{ $latestSubtitle := "The latest additions to our collection" }}
+{{ $viewAll := "View all" }}
+
+<!-- Why Us -->
+{{ $whyTitle := "Why Hello Beauty?" }}
+{{ $whySubtitle := "What makes us different" }}
+{{ $why1Title := "Expert Reviews" }}
+{{ $why1Text := "In-depth analysis by beauty professionals with years of experience in the industry." }}
+{{ $why2Title := "100% Independent" }}
+{{ $why2Text := "Honest opinions without brand influence. We buy and test products ourselves." }}
+{{ $why3Title := "Multilingual" }}
+{{ $why3Text := "Content available in 14 languages to serve beauty lovers worldwide." }}
+{{ $why4Title := "Updated Daily" }}
+{{ $why4Text := "Fresh content and the latest product releases, reviewed as soon as they launch." }}
+
+<!-- SEO Bottom -->
+{{ $seoTitle := "About Hello Beauty Blog" }}
+{{ $seoText := "[SEO_BOTTOM_TEXT]" }}
+
+<!-- ============================================================================
+     TRADUCTIONS FRANÇAIS
+============================================================================= -->
+{{ if eq $lang "fr" }}
+    {{ $heroTitle = "Révélez Votre" }}
+    {{ $heroHighlight = "Beauté" }}
+    {{ $heroSubtitle = "Avis d'experts, recommandations sincères et guide ultime des parfums, soins, maquillage et cheveux." }}
+    {{ $heroCTA = "Explorer les Parfums" }}
+    {{ $heroSecondaryCTA = "Toutes les Catégories" }}
+    {{ $introTitle = "Votre Compagnon Beauté de Confiance" }}
+    {{ $categoriesTitle = "Explorer par Catégorie" }}
+    {{ $categoriesSubtitle = "Trouvez exactement ce que vous cherchez" }}
+    {{ $catPerfumes = "Parfums" }}
+    {{ $catPerfumesDesc = "Découvrez votre signature olfactive" }}
+    {{ $catSkincare = "Soins" }}
+    {{ $catSkincareDesc = "Révélez votre éclat naturel" }}
+    {{ $catMakeup = "Maquillage" }}
+    {{ $catMakeupDesc = "Exprimez votre style unique" }}
+    {{ $catHaircare = "Cheveux" }}
+    {{ $catHaircareDesc = "Obtenez la chevelure de vos rêves" }}
+    {{ $perfumesSlug = "parfums" }}
+    {{ $skincareSlug = "soins" }}
+    {{ $makeupSlug = "maquillage" }}
+    {{ $haircareSlug = "cheveux" }}
+    {{ $latestTitle = "Nouveautés" }}
+    {{ $latestSubtitle = "Les dernières additions à notre collection" }}
+    {{ $viewAll = "Voir tout" }}
+    {{ $whyTitle = "Pourquoi Hello Beauty ?" }}
+    {{ $whySubtitle = "Ce qui nous différencie" }}
+    {{ $why1Title = "Avis d'Experts" }}
+    {{ $why1Text = "Analyses approfondies par des professionnels de la beauté avec des années d'expérience." }}
+    {{ $why2Title = "100% Indépendant" }}
+    {{ $why2Text = "Opinions honnêtes sans influence des marques. Nous achetons et testons nous-mêmes." }}
+    {{ $why3Title = "Multilingue" }}
+    {{ $why3Text = "Contenu disponible en 14 langues pour les passionnés de beauté du monde entier." }}
+    {{ $why4Title = "Mis à Jour Quotidiennement" }}
+    {{ $why4Text = "Contenu frais et dernières sorties produits, testées dès leur lancement." }}
+    {{ $seoTitle = "À Propos de Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS ALLEMAND
+============================================================================= -->
+{{ else if eq $lang "de" }}
+    {{ $heroTitle = "Entdecken Sie Ihre Perfekte" }}
+    {{ $heroHighlight = "Schönheit" }}
+    {{ $heroSubtitle = "Expertenrezensionen, ehrliche Empfehlungen und der ultimative Guide für Parfüm, Hautpflege, Make-up und Haarpflege." }}
+    {{ $heroCTA = "Parfüms Entdecken" }}
+    {{ $heroSecondaryCTA = "Alle Kategorien" }}
+    {{ $introTitle = "Ihr Vertrauenswürdiger Beauty-Begleiter" }}
+    {{ $categoriesTitle = "Nach Kategorie Erkunden" }}
+    {{ $categoriesSubtitle = "Finden Sie genau das, was Sie suchen" }}
+    {{ $catPerfumes = "Parfüm" }}
+    {{ $catPerfumesDesc = "Entdecken Sie Ihren Signaturduft" }}
+    {{ $catSkincare = "Hautpflege" }}
+    {{ $catSkincareDesc = "Enthüllen Sie Ihr natürliches Strahlen" }}
+    {{ $catMakeup = "Make-up" }}
+    {{ $catMakeupDesc = "Drücken Sie Ihren einzigartigen Stil aus" }}
+    {{ $catHaircare = "Haarpflege" }}
+    {{ $catHaircareDesc = "Erreichen Sie Ihr Traumhaar" }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "hautpflege" }}
+    {{ $makeupSlug = "make-up" }}
+    {{ $haircareSlug = "haarpflege" }}
+    {{ $latestTitle = "Neuheiten" }}
+    {{ $latestSubtitle = "Die neuesten Ergänzungen unserer Kollektion" }}
+    {{ $viewAll = "Alle ansehen" }}
+    {{ $whyTitle = "Warum Hello Beauty?" }}
+    {{ $whySubtitle = "Was uns unterscheidet" }}
+    {{ $why1Title = "Expertenrezensionen" }}
+    {{ $why1Text = "Tiefgehende Analysen von Beauty-Profis mit jahrelanger Erfahrung." }}
+    {{ $why2Title = "100% Unabhängig" }}
+    {{ $why2Text = "Ehrliche Meinungen ohne Markeneinfluss. Wir kaufen und testen selbst." }}
+    {{ $why3Title = "Mehrsprachig" }}
+    {{ $why3Text = "Inhalte in 14 Sprachen für Beauty-Liebhaber weltweit." }}
+    {{ $why4Title = "Täglich Aktualisiert" }}
+    {{ $why4Text = "Frische Inhalte und neueste Produktveröffentlichungen, getestet sobald sie erscheinen." }}
+    {{ $seoTitle = "Über Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS ESPAGNOL
+============================================================================= -->
+{{ else if eq $lang "es" }}
+    {{ $heroTitle = "Descubre Tu" }}
+    {{ $heroHighlight = "Belleza" }}
+    {{ $heroSubtitle = "Reseñas expertas, recomendaciones honestas y la guía definitiva de perfumes, cuidado de la piel, maquillaje y cabello." }}
+    {{ $heroCTA = "Explorar Perfumes" }}
+    {{ $heroSecondaryCTA = "Todas las Categorías" }}
+    {{ $introTitle = "Tu Compañero de Belleza de Confianza" }}
+    {{ $categoriesTitle = "Explorar por Categoría" }}
+    {{ $categoriesSubtitle = "Encuentra exactamente lo que buscas" }}
+    {{ $catPerfumes = "Perfumes" }}
+    {{ $catPerfumesDesc = "Descubre tu fragancia única" }}
+    {{ $catSkincare = "Cuidado Piel" }}
+    {{ $catSkincareDesc = "Revela tu brillo natural" }}
+    {{ $catMakeup = "Maquillaje" }}
+    {{ $catMakeupDesc = "Expresa tu estilo único" }}
+    {{ $catHaircare = "Cabello" }}
+    {{ $catHaircareDesc = "Consigue el cabello de tus sueños" }}
+    {{ $skincareSlug = "cuidado-piel" }}
+    {{ $makeupSlug = "maquillaje" }}
+    {{ $haircareSlug = "cabello" }}
+    {{ $latestTitle = "Novedades" }}
+    {{ $latestSubtitle = "Las últimas incorporaciones a nuestra colección" }}
+    {{ $viewAll = "Ver todo" }}
+    {{ $whyTitle = "¿Por Qué Hello Beauty?" }}
+    {{ $whySubtitle = "Lo que nos hace diferentes" }}
+    {{ $why1Title = "Reseñas Expertas" }}
+    {{ $why1Text = "Análisis profundos por profesionales de belleza con años de experiencia." }}
+    {{ $why2Title = "100% Independiente" }}
+    {{ $why2Text = "Opiniones honestas sin influencia de marcas. Compramos y probamos nosotros mismos." }}
+    {{ $why3Title = "Multilingüe" }}
+    {{ $why3Text = "Contenido disponible en 14 idiomas para amantes de la belleza en todo el mundo." }}
+    {{ $why4Title = "Actualizado Diariamente" }}
+    {{ $why4Text = "Contenido fresco y últimos lanzamientos, reseñados tan pronto como salen." }}
+    {{ $seoTitle = "Sobre Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS ITALIEN
+============================================================================= -->
+{{ else if eq $lang "it" }}
+    {{ $heroTitle = "Scopri la Tua" }}
+    {{ $heroHighlight = "Bellezza" }}
+    {{ $heroSubtitle = "Recensioni esperte, raccomandazioni oneste e la guida definitiva a profumi, skincare, trucco e capelli." }}
+    {{ $heroCTA = "Esplora Profumi" }}
+    {{ $heroSecondaryCTA = "Tutte le Categorie" }}
+    {{ $introTitle = "Il Tuo Compagno di Bellezza Affidabile" }}
+    {{ $categoriesTitle = "Esplora per Categoria" }}
+    {{ $categoriesSubtitle = "Trova esattamente ciò che cerchi" }}
+    {{ $catPerfumes = "Profumi" }}
+    {{ $catPerfumesDesc = "Scopri la tua fragranza distintiva" }}
+    {{ $catSkincare = "Skincare" }}
+    {{ $catSkincareDesc = "Rivela il tuo splendore naturale" }}
+    {{ $catMakeup = "Trucco" }}
+    {{ $catMakeupDesc = "Esprimi il tuo stile unico" }}
+    {{ $catHaircare = "Capelli" }}
+    {{ $catHaircareDesc = "Ottieni i capelli dei tuoi sogni" }}
+    {{ $perfumesSlug = "profumi" }}
+    {{ $makeupSlug = "trucco" }}
+    {{ $haircareSlug = "capelli" }}
+    {{ $latestTitle = "Novità" }}
+    {{ $latestSubtitle = "Le ultime aggiunte alla nostra collezione" }}
+    {{ $viewAll = "Vedi tutto" }}
+    {{ $whyTitle = "Perché Hello Beauty?" }}
+    {{ $whySubtitle = "Cosa ci rende diversi" }}
+    {{ $why1Title = "Recensioni Esperte" }}
+    {{ $why1Text = "Analisi approfondite da professionisti della bellezza con anni di esperienza." }}
+    {{ $why2Title = "100% Indipendente" }}
+    {{ $why2Text = "Opinioni oneste senza influenza dei brand. Acquistiamo e testiamo noi stessi." }}
+    {{ $why3Title = "Multilingue" }}
+    {{ $why3Text = "Contenuti disponibili in 14 lingue per gli amanti della bellezza in tutto il mondo." }}
+    {{ $why4Title = "Aggiornato Quotidianamente" }}
+    {{ $why4Text = "Contenuti freschi e ultimi lanci, recensiti appena disponibili." }}
+    {{ $seoTitle = "Info su Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS PORTUGAIS
+============================================================================= -->
+{{ else if eq $lang "pt" }}
+    {{ $heroTitle = "Descubra Sua" }}
+    {{ $heroHighlight = "Beleza" }}
+    {{ $heroSubtitle = "Análises especializadas, recomendações honestas e o guia definitivo de perfumes, skincare, maquiagem e cabelos." }}
+    {{ $heroCTA = "Explorar Perfumes" }}
+    {{ $heroSecondaryCTA = "Todas as Categorias" }}
+    {{ $introTitle = "Seu Companheiro de Beleza Confiável" }}
+    {{ $categoriesTitle = "Explorar por Categoria" }}
+    {{ $categoriesSubtitle = "Encontre exatamente o que procura" }}
+    {{ $catPerfumes = "Perfumes" }}
+    {{ $catPerfumesDesc = "Descubra sua fragrância única" }}
+    {{ $catSkincare = "Skincare" }}
+    {{ $catSkincareDesc = "Revele seu brilho natural" }}
+    {{ $catMakeup = "Maquiagem" }}
+    {{ $catMakeupDesc = "Expresse seu estilo único" }}
+    {{ $catHaircare = "Cabelos" }}
+    {{ $catHaircareDesc = "Conquiste o cabelo dos seus sonhos" }}
+    {{ $makeupSlug = "maquiagem" }}
+    {{ $haircareSlug = "cabelos" }}
+    {{ $latestTitle = "Novidades" }}
+    {{ $latestSubtitle = "As últimas adições à nossa coleção" }}
+    {{ $viewAll = "Ver tudo" }}
+    {{ $whyTitle = "Por Que Hello Beauty?" }}
+    {{ $whySubtitle = "O que nos torna diferentes" }}
+    {{ $why1Title = "Análises Especializadas" }}
+    {{ $why1Text = "Análises aprofundadas por profissionais de beleza com anos de experiência." }}
+    {{ $why2Title = "100% Independente" }}
+    {{ $why2Text = "Opiniões honestas sem influência de marcas. Compramos e testamos nós mesmos." }}
+    {{ $why3Title = "Multilíngue" }}
+    {{ $why3Text = "Conteúdo disponível em 14 idiomas para amantes da beleza em todo o mundo." }}
+    {{ $why4Title = "Atualizado Diariamente" }}
+    {{ $why4Text = "Conteúdo fresco e últimos lançamentos, avaliados assim que são lançados." }}
+    {{ $seoTitle = "Sobre Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS NÉERLANDAIS
+============================================================================= -->
+{{ else if eq $lang "nl" }}
+    {{ $heroTitle = "Ontdek Jouw Perfecte" }}
+    {{ $heroHighlight = "Schoonheid" }}
+    {{ $heroSubtitle = "Expertbeoordelingen, eerlijke aanbevelingen en de ultieme gids voor parfums, huidverzorging, make-up en haarverzorging." }}
+    {{ $heroCTA = "Ontdek Parfums" }}
+    {{ $heroSecondaryCTA = "Alle Categorieën" }}
+    {{ $introTitle = "Jouw Betrouwbare Beauty Partner" }}
+    {{ $categoriesTitle = "Verken per Categorie" }}
+    {{ $categoriesSubtitle = "Vind precies wat je zoekt" }}
+    {{ $catPerfumes = "Parfum" }}
+    {{ $catPerfumesDesc = "Ontdek jouw kenmerkende geur" }}
+    {{ $catSkincare = "Huidverzorging" }}
+    {{ $catSkincareDesc = "Onthul je natuurlijke glans" }}
+    {{ $catMakeup = "Make-up" }}
+    {{ $catMakeupDesc = "Druk je unieke stijl uit" }}
+    {{ $catHaircare = "Haarverzorging" }}
+    {{ $catHaircareDesc = "Bereik je droomhaar" }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "huidverzorging" }}
+    {{ $makeupSlug = "make-up" }}
+    {{ $haircareSlug = "haarverzorging" }}
+    {{ $latestTitle = "Nieuw Binnen" }}
+    {{ $latestSubtitle = "De nieuwste toevoegingen aan onze collectie" }}
+    {{ $viewAll = "Bekijk alles" }}
+    {{ $whyTitle = "Waarom Hello Beauty?" }}
+    {{ $whySubtitle = "Wat ons anders maakt" }}
+    {{ $why1Title = "Expertbeoordelingen" }}
+    {{ $why1Text = "Diepgaande analyses door beautyprofessionals met jarenlange ervaring." }}
+    {{ $why2Title = "100% Onafhankelijk" }}
+    {{ $why2Text = "Eerlijke meningen zonder merkinvloed. We kopen en testen zelf." }}
+    {{ $why3Title = "Meertalig" }}
+    {{ $why3Text = "Content beschikbaar in 14 talen voor beautyliefhebbers wereldwijd." }}
+    {{ $why4Title = "Dagelijks Bijgewerkt" }}
+    {{ $why4Text = "Verse content en nieuwste productreleases, beoordeeld zodra ze uitkomen." }}
+    {{ $seoTitle = "Over Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS POLONAIS
+============================================================================= -->
+{{ else if eq $lang "pl" }}
+    {{ $heroTitle = "Odkryj Swoje Idealne" }}
+    {{ $heroHighlight = "Piękno" }}
+    {{ $heroSubtitle = "Eksperckie recenzje, szczere rekomendacje i kompletny przewodnik po perfumach, pielęgnacji, makijażu i włosach." }}
+    {{ $heroCTA = "Odkryj Perfumy" }}
+    {{ $heroSecondaryCTA = "Wszystkie Kategorie" }}
+    {{ $introTitle = "Twój Zaufany Towarzysz Urody" }}
+    {{ $categoriesTitle = "Przeglądaj według Kategorii" }}
+    {{ $categoriesSubtitle = "Znajdź dokładnie to, czego szukasz" }}
+    {{ $catPerfumes = "Perfumy" }}
+    {{ $catPerfumesDesc = "Odkryj swój charakterystyczny zapach" }}
+    {{ $catSkincare = "Pielęgnacja" }}
+    {{ $catSkincareDesc = "Odkryj swój naturalny blask" }}
+    {{ $catMakeup = "Makijaż" }}
+    {{ $catMakeupDesc = "Wyraź swój unikalny styl" }}
+    {{ $catHaircare = "Włosy" }}
+    {{ $catHaircareDesc = "Osiągnij włosy marzeń" }}
+    {{ $perfumesSlug = "perfumy" }}
+    {{ $skincareSlug = "pielegnacja" }}
+    {{ $makeupSlug = "makijaz" }}
+    {{ $haircareSlug = "wlosy" }}
+    {{ $latestTitle = "Nowości" }}
+    {{ $latestSubtitle = "Najnowsze dodatki do naszej kolekcji" }}
+    {{ $viewAll = "Zobacz wszystko" }}
+    {{ $whyTitle = "Dlaczego Hello Beauty?" }}
+    {{ $whySubtitle = "Co nas wyróżnia" }}
+    {{ $why1Title = "Eksperckie Recenzje" }}
+    {{ $why1Text = "Dogłębne analizy od profesjonalistów beauty z wieloletnim doświadczeniem." }}
+    {{ $why2Title = "100% Niezależni" }}
+    {{ $why2Text = "Szczere opinie bez wpływu marek. Sami kupujemy i testujemy." }}
+    {{ $why3Title = "Wielojęzyczny" }}
+    {{ $why3Text = "Treści dostępne w 14 językach dla miłośników urody na całym świecie." }}
+    {{ $why4Title = "Codziennie Aktualizowany" }}
+    {{ $why4Text = "Świeże treści i najnowsze produkty, recenzowane zaraz po premierze." }}
+    {{ $seoTitle = "O Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS TURC
+============================================================================= -->
+{{ else if eq $lang "tr" }}
+    {{ $heroTitle = "Mükemmel Güzelliğinizi" }}
+    {{ $heroHighlight = "Keşfedin" }}
+    {{ $heroSubtitle = "Uzman incelemeleri, dürüst öneriler ve parfüm, cilt bakımı, makyaj ve saç bakımı için kapsamlı rehber." }}
+    {{ $heroCTA = "Parfümleri Keşfet" }}
+    {{ $heroSecondaryCTA = "Tüm Kategoriler" }}
+    {{ $introTitle = "Güvenilir Güzellik Rehberiniz" }}
+    {{ $categoriesTitle = "Kategoriye Göre Keşfet" }}
+    {{ $categoriesSubtitle = "Aradığınızı tam olarak bulun" }}
+    {{ $catPerfumes = "Parfüm" }}
+    {{ $catPerfumesDesc = "İmza kokunuzu keşfedin" }}
+    {{ $catSkincare = "Cilt Bakımı" }}
+    {{ $catSkincareDesc = "Doğal parlaklığınızı ortaya çıkarın" }}
+    {{ $catMakeup = "Makyaj" }}
+    {{ $catMakeupDesc = "Benzersiz tarzınızı ifade edin" }}
+    {{ $catHaircare = "Saç Bakımı" }}
+    {{ $catHaircareDesc = "Hayalinizdeki saçlara kavuşun" }}
+    {{ $perfumesSlug = "parfum" }}
+    {{ $skincareSlug = "cilt-bakimi" }}
+    {{ $makeupSlug = "makyaj" }}
+    {{ $haircareSlug = "sac-bakimi" }}
+    {{ $latestTitle = "Yeni Gelenler" }}
+    {{ $latestSubtitle = "Koleksiyonumuza en son eklenenler" }}
+    {{ $viewAll = "Tümünü gör" }}
+    {{ $whyTitle = "Neden Hello Beauty?" }}
+    {{ $whySubtitle = "Bizi farklı kılan" }}
+    {{ $why1Title = "Uzman İncelemeleri" }}
+    {{ $why1Text = "Yıllarca deneyime sahip güzellik profesyonellerinden derinlemesine analizler." }}
+    {{ $why2Title = "%100 Bağımsız" }}
+    {{ $why2Text = "Marka etkisi olmadan dürüst görüşler. Kendimiz satın alıp test ediyoruz." }}
+    {{ $why3Title = "Çok Dilli" }}
+    {{ $why3Text = "Dünya genelindeki güzellik tutkunları için 14 dilde içerik." }}
+    {{ $why4Title = "Günlük Güncelleme" }}
+    {{ $why4Text = "Taze içerik ve en yeni ürün çıkışları, piyasaya çıkar çıkmaz inceleniyor." }}
+    {{ $seoTitle = "Hello Beauty Blog Hakkında" }}
+
+<!-- ============================================================================
+     TRADUCTIONS JAPONAIS
+============================================================================= -->
+{{ else if eq $lang "ja" }}
+    {{ $heroTitle = "あなたの理想の" }}
+    {{ $heroHighlight = "美しさを発見" }}
+    {{ $heroSubtitle = "専門家のレビュー、正直なおすすめ、香水・スキンケア・メイク・ヘアケアの究極ガイド。" }}
+    {{ $heroCTA = "香水を探す" }}
+    {{ $heroSecondaryCTA = "全カテゴリー" }}
+    {{ $introTitle = "信頼できるビューティーパートナー" }}
+    {{ $categoriesTitle = "カテゴリーで探す" }}
+    {{ $categoriesSubtitle = "お探しのものを見つけてください" }}
+    {{ $catPerfumes = "香水" }}
+    {{ $catPerfumesDesc = "あなたの香りを見つける" }}
+    {{ $catSkincare = "スキンケア" }}
+    {{ $catSkincareDesc = "自然な輝きを引き出す" }}
+    {{ $catMakeup = "メイク" }}
+    {{ $catMakeupDesc = "あなただけのスタイルを表現" }}
+    {{ $catHaircare = "ヘアケア" }}
+    {{ $catHaircareDesc = "理想の髪を手に入れる" }}
+    {{ $latestTitle = "新着" }}
+    {{ $latestSubtitle = "コレクションへの最新追加" }}
+    {{ $viewAll = "すべて見る" }}
+    {{ $whyTitle = "Hello Beautyを選ぶ理由" }}
+    {{ $whySubtitle = "私たちの違い" }}
+    {{ $why1Title = "専門家レビュー" }}
+    {{ $why1Text = "長年の経験を持つビューティープロフェッショナルによる詳細な分析。" }}
+    {{ $why2Title = "100%独立" }}
+    {{ $why2Text = "ブランドの影響なしの正直な意見。自分たちで購入しテストしています。" }}
+    {{ $why3Title = "多言語対応" }}
+    {{ $why3Text = "世界中のビューティーラバーのために14言語でコンテンツを提供。" }}
+    {{ $why4Title = "毎日更新" }}
+    {{ $why4Text = "新鮮なコンテンツと最新製品、発売後すぐにレビュー。" }}
+    {{ $seoTitle = "Hello Beauty Blogについて" }}
+
+<!-- ============================================================================
+     TRADUCTIONS CORÉEN
+============================================================================= -->
+{{ else if eq $lang "ko" }}
+    {{ $heroTitle = "당신만의 완벽한" }}
+    {{ $heroHighlight = "아름다움을 발견하세요" }}
+    {{ $heroSubtitle = "전문가 리뷰, 솔직한 추천, 향수·스킨케어·메이크업·헤어케어 완벽 가이드." }}
+    {{ $heroCTA = "향수 탐색" }}
+    {{ $heroSecondaryCTA = "전체 카테고리" }}
+    {{ $introTitle = "신뢰할 수 있는 뷰티 파트너" }}
+    {{ $categoriesTitle = "카테고리별 탐색" }}
+    {{ $categoriesSubtitle = "원하는 것을 정확히 찾아보세요" }}
+    {{ $catPerfumes = "향수" }}
+    {{ $catPerfumesDesc = "나만의 시그니처 향 발견" }}
+    {{ $catSkincare = "스킨케어" }}
+    {{ $catSkincareDesc = "자연스러운 광채 발휘" }}
+    {{ $catMakeup = "메이크업" }}
+    {{ $catMakeupDesc = "나만의 스타일 표현" }}
+    {{ $catHaircare = "헤어케어" }}
+    {{ $catHaircareDesc = "꿈의 머릿결 완성" }}
+    {{ $latestTitle = "신상품" }}
+    {{ $latestSubtitle = "컬렉션에 새로 추가된 제품" }}
+    {{ $viewAll = "전체 보기" }}
+    {{ $whyTitle = "왜 Hello Beauty인가요?" }}
+    {{ $whySubtitle = "우리가 다른 이유" }}
+    {{ $why1Title = "전문가 리뷰" }}
+    {{ $why1Text = "수년간의 경험을 가진 뷰티 전문가들의 심층 분석." }}
+    {{ $why2Title = "100% 독립적" }}
+    {{ $why2Text = "브랜드 영향 없는 솔직한 의견. 직접 구매하고 테스트합니다." }}
+    {{ $why3Title = "다국어 지원" }}
+    {{ $why3Text = "전 세계 뷰티 애호가를 위한 14개 언어 콘텐츠." }}
+    {{ $why4Title = "매일 업데이트" }}
+    {{ $why4Text = "신선한 콘텐츠와 최신 제품, 출시 즉시 리뷰." }}
+    {{ $seoTitle = "Hello Beauty Blog 소개" }}
+
+<!-- ============================================================================
+     TRADUCTIONS CHINOIS
+============================================================================= -->
+{{ else if eq $lang "zh" }}
+    {{ $heroTitle = "发现您的完美" }}
+    {{ $heroHighlight = "美丽" }}
+    {{ $heroSubtitle = "专家测评、真诚推荐，香水、护肤、化妆、护发的终极指南。" }}
+    {{ $heroCTA = "探索香水" }}
+    {{ $heroSecondaryCTA = "所有分类" }}
+    {{ $introTitle = "您值得信赖的美妆伙伴" }}
+    {{ $categoriesTitle = "按分类浏览" }}
+    {{ $categoriesSubtitle = "找到您想要的" }}
+    {{ $catPerfumes = "香水" }}
+    {{ $catPerfumesDesc = "发现专属于您的香味" }}
+    {{ $catSkincare = "护肤" }}
+    {{ $catSkincareDesc = "展现自然光彩" }}
+    {{ $catMakeup = "化妆" }}
+    {{ $catMakeupDesc = "表达独特风格" }}
+    {{ $catHaircare = "护发" }}
+    {{ $catHaircareDesc = "拥有梦想秀发" }}
+    {{ $latestTitle = "新品上架" }}
+    {{ $latestSubtitle = "系列最新产品" }}
+    {{ $viewAll = "查看全部" }}
+    {{ $whyTitle = "为什么选择 Hello Beauty？" }}
+    {{ $whySubtitle = "我们的不同之处" }}
+    {{ $why1Title = "专家测评" }}
+    {{ $why1Text = "拥有多年经验的美妆专业人士深度分析。" }}
+    {{ $why2Title = "100%独立" }}
+    {{ $why2Text = "不受品牌影响的真实意见。我们自己购买并测试。" }}
+    {{ $why3Title = "多语言" }}
+    {{ $why3Text = "为全球美妆爱好者提供14种语言的内容。" }}
+    {{ $why4Title = "每日更新" }}
+    {{ $why4Text = "新鲜内容和最新产品，上市即测评。" }}
+    {{ $seoTitle = "关于 Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS ARABE
+============================================================================= -->
+{{ else if eq $lang "ar" }}
+    {{ $heroTitle = "اكتشفي جمالك" }}
+    {{ $heroHighlight = "المثالي" }}
+    {{ $heroSubtitle = "مراجعات خبراء، توصيات صادقة، ودليلك الشامل للعطور والعناية بالبشرة والمكياج والشعر." }}
+    {{ $heroCTA = "اكتشفي العطور" }}
+    {{ $heroSecondaryCTA = "جميع الفئات" }}
+    {{ $introTitle = "رفيقك الموثوق في عالم الجمال" }}
+    {{ $categoriesTitle = "تصفحي حسب الفئة" }}
+    {{ $categoriesSubtitle = "اعثري على ما تبحثين عنه بالضبط" }}
+    {{ $catPerfumes = "عطور" }}
+    {{ $catPerfumesDesc = "اكتشفي عطرك المميز" }}
+    {{ $catSkincare = "العناية بالبشرة" }}
+    {{ $catSkincareDesc = "أظهري إشراقتك الطبيعية" }}
+    {{ $catMakeup = "مكياج" }}
+    {{ $catMakeupDesc = "عبّري عن أسلوبك الفريد" }}
+    {{ $catHaircare = "العناية بالشعر" }}
+    {{ $catHaircareDesc = "احصلي على شعر أحلامك" }}
+    {{ $latestTitle = "وصل حديثاً" }}
+    {{ $latestSubtitle = "أحدث الإضافات لمجموعتنا" }}
+    {{ $viewAll = "عرض الكل" }}
+    {{ $whyTitle = "لماذا Hello Beauty؟" }}
+    {{ $whySubtitle = "ما يميزنا" }}
+    {{ $why1Title = "مراجعات خبراء" }}
+    {{ $why1Text = "تحليلات معمقة من محترفي التجميل ذوي الخبرة الطويلة." }}
+    {{ $why2Title = "مستقلون 100%" }}
+    {{ $why2Text = "آراء صادقة دون تأثير العلامات التجارية. نشتري ونختبر بأنفسنا." }}
+    {{ $why3Title = "متعدد اللغات" }}
+    {{ $why3Text = "محتوى متاح بـ 14 لغة لمحبي الجمال حول العالم." }}
+    {{ $why4Title = "تحديث يومي" }}
+    {{ $why4Text = "محتوى جديد وأحدث المنتجات، نراجعها فور إطلاقها." }}
+    {{ $seoTitle = "عن Hello Beauty Blog" }}
+
+<!-- ============================================================================
+     TRADUCTIONS HINDI
+============================================================================= -->
+{{ else if eq $lang "hi" }}
+    {{ $heroTitle = "अपनी परफेक्ट" }}
+    {{ $heroHighlight = "ब्यूटी खोजें" }}
+    {{ $heroSubtitle = "विशेषज्ञ समीक्षाएं, ईमानदार सिफारिशें, और परफ्यूम, स्किनकेयर, मेकअप और हेयरकेयर की संपूर्ण गाइड।" }}
+    {{ $heroCTA = "परफ्यूम एक्सप्लोर करें" }}
+    {{ $heroSecondaryCTA = "सभी कैटेगरी" }}
+    {{ $introTitle = "आपका विश्वसनीय ब्यूटी साथी" }}
+    {{ $categoriesTitle = "कैटेगरी के अनुसार एक्सप्लोर करें" }}
+    {{ $categoriesSubtitle = "जो चाहिए वो खोजें" }}
+    {{ $catPerfumes = "परफ्यूम" }}
+    {{ $catPerfumesDesc = "अपनी सिग्नेचर खुशबू खोजें" }}
+    {{ $catSkincare = "स्किनकेयर" }}
+    {{ $catSkincareDesc = "अपनी प्राकृतिक चमक दिखाएं" }}
+    {{ $catMakeup = "मेकअप" }}
+    {{ $catMakeupDesc = "अपना अनोखा स्टाइल व्यक्त करें" }}
+    {{ $catHaircare = "हेयरकेयर" }}
+    {{ $catHaircareDesc = "सपनों के बाल पाएं" }}
+    {{ $latestTitle = "नए आगमन" }}
+    {{ $latestSubtitle = "हमारे कलेक्शन में नवीनतम जोड़" }}
+    {{ $viewAll = "सभी देखें" }}
+    {{ $whyTitle = "Hello Beauty क्यों?" }}
+    {{ $whySubtitle = "हम क्यों अलग हैं" }}
+    {{ $why1Title = "विशेषज्ञ समीक्षाएं" }}
+    {{ $why1Text = "वर्षों के अनुभव वाले ब्यूटी प्रोफेशनल्स द्वारा गहन विश्लेषण।" }}
+    {{ $why2Title = "100% स्वतंत्र" }}
+    {{ $why2Text = "ब्रांड प्रभाव के बिना ईमानदार राय। हम खुद खरीदते और टेस्ट करते हैं।" }}
+    {{ $why3Title = "बहुभाषी" }}
+    {{ $why3Text = "दुनिया भर के ब्यूटी लवर्स के लिए 14 भाषाओं में सामग्री।" }}
+    {{ $why4Title = "रोज़ अपडेट" }}
+    {{ $why4Text = "ताज़ा सामग्री और नवीनतम उत्पाद, लॉन्च होते ही समीक्षित।" }}
+    {{ $seoTitle = "Hello Beauty Blog के बारे में" }}
+{{ end }}
+
+
+<!-- ============================================================================
+     SECTION 1: HERO
+============================================================================= -->
+<section class="hero-section"{{ if eq $lang "ar" }} dir="rtl"{{ end }}>
+    <div class="hero-background">
+        <div class="hero-gradient"></div>
+        <div class="hero-pattern"></div>
+    </div>
+    
+    <div class="hero-container">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                {{ $heroTitle }} <span class="hero-highlight">{{ $heroHighlight }}</span>
+            </h1>
+            <p class="hero-subtitle">{{ $heroSubtitle }}</p>
+            <div class="hero-cta">
+                <a href="/{{ $lang }}/{{ $perfumesSlug }}/" class="btn-primary">
+                    <svg class="btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                    </svg>
+                    {{ $heroCTA }}
+                </a>
+                <a href="#categories" class="btn-secondary">
+                    {{ $heroSecondaryCTA }}
+                    <svg class="btn-icon-right" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                    </svg>
+                </a>
+            </div>
+            
+            <!-- Stats -->
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">500+</span>
+                    <span class="stat-label">{{ if eq $lang "fr" }}Produits testés{{ else if eq $lang "de" }}Getestete Produkte{{ else if eq $lang "es" }}Productos probados{{ else }}Products Reviewed{{ end }}</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat">
+                    <span class="stat-number">14</span>
+                    <span class="stat-label">{{ if eq $lang "fr" }}Langues{{ else if eq $lang "de" }}Sprachen{{ else if eq $lang "es" }}Idiomas{{ else }}Languages{{ end }}</span>
+                </div>
+                <div class="stat-divider"></div>
+                <div class="stat">
+                    <span class="stat-number">100%</span>
+                    <span class="stat-label">{{ if eq $lang "fr" }}Indépendant{{ else if eq $lang "de" }}Unabhängig{{ else if eq $lang "es" }}Independiente{{ else }}Independent{{ end }}</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-visual">
+            <div class="hero-image-container">
+                <img src="/images/hero/hero-main.webp" alt="Hello Beauty - Luxury Perfumes and Skincare" class="hero-image" loading="eager">
+                <div class="hero-image-decoration"></div>
+            </div>
+            
+            <!-- Dynamic Floating Product Cards -->
+            {{ $perfumesSlugLocal := "perfumes" }}
+            {{ if eq $lang "fr" }}{{ $perfumesSlugLocal = "parfums" }}
+            {{ else if eq $lang "de" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "it" }}{{ $perfumesSlugLocal = "profumi" }}
+            {{ else if eq $lang "nl" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "pl" }}{{ $perfumesSlugLocal = "perfumy" }}
+            {{ else if eq $lang "tr" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ end }}
+            
+            <!-- Latest Women's Perfume -->
+            {{ $womenPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Women" }}
+            {{ $latestWomen := first 1 (sort $womenPerfumes "Date" "desc") }}
+            {{ range $latestWomen }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-1" title="{{ .Params.brand }} {{ .Params.productName }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Femme{{ else }}Women{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Men's Perfume -->
+            {{ $menPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Men" }}
+            {{ $latestMen := first 1 (sort $menPerfumes "Date" "desc") }}
+            {{ range $latestMen }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-2" title="{{ .Params.brand }} {{ .Params.productName }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Homme{{ else }}Men{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Skincare -->
+            {{ $skincare := where site.RegularPages "Section" "skincare" }}
+            {{ $latestSkincare := first 1 (sort $skincare "Date" "desc") }}
+            {{ range $latestSkincare }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-3" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Soins{{ else }}Skincare{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Makeup -->
+            {{ $makeup := where site.RegularPages "Section" "makeup" }}
+            {{ $latestMakeup := first 1 (sort $makeup "Date" "desc") }}
+            {{ range $latestMakeup }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-4" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Maquillage{{ else }}Makeup{{ end }}</span>
+            </a>
+            {{ end }}
+            
+            <!-- Latest Haircare -->
+            {{ $haircare := where site.RegularPages "Section" "haircare" }}
+            {{ $latestHaircare := first 1 (sort $haircare "Date" "desc") }}
+            {{ range $latestHaircare }}
+            <a href="{{ .Permalink }}" class="floating-card floating-card-5" title="{{ .Title }}">
+                {{ $img := index .Params.images 0 }}
+                <img src="{{ $img }}" alt="{{ .Title }}">
+                <span class="floating-label">{{ if eq $lang "fr" }}Cheveux{{ else }}Haircare{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+    
+    <!-- Scroll indicator -->
+    <div class="scroll-indicator">
+        <span>Scroll</span>
+        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"/>
+        </svg>
+    </div>
+</section>
+
+<!-- ============================================================================
+     SECTION 2: INTRO SEO
+============================================================================= -->
+<section class="intro-section">
+    <div class="intro-container">
+        <div class="intro-icon">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+            </svg>
+        </div>
+        <h2 class="intro-title">{{ $introTitle }}</h2>
+        <div class="intro-text">
+            <p>{{ $introText }}</p>
+        </div>
+    </div>
+</section>
+
+<!-- ============================================================================
+     SECTION 3: CATEGORIES
+============================================================================= -->
+<section id="categories" class="categories-section">
+    <div class="categories-container">
+        <div class="section-header">
+            <h2 class="section-title">{{ $categoriesTitle }}</h2>
+            <p class="section-subtitle">{{ $categoriesSubtitle }}</p>
+        </div>
+        
+        <div class="categories-grid">
+            <!-- Perfumes - Featured (larger) -->
+            <a href="/{{ $lang }}/{{ $perfumesSlug }}/" class="category-card category-featured">
+                <div class="category-image">
+                    <img src="/images/categories/perfumes.webp?v=2" alt="{{ $catPerfumes }}" loading="lazy">
+                    <div class="category-overlay"></div>
+                </div>
+                <div class="category-content">
+                    <div class="category-icon"><img src="/images/icons/icon-perfumes.webp?v=2" alt=""></div>
+                    <h3 class="category-name">{{ $catPerfumes }}</h3>
+                    <p class="category-desc">{{ $catPerfumesDesc }}</p>
+                    <span class="category-link">
+                        {{ $viewAll }} →
+                    </span>
+                </div>
+            </a>
+            
+            <!-- Other categories -->
+            <a href="/{{ $lang }}/{{ $skincareSlug }}/" class="category-card">
+                <div class="category-image">
+                    <img src="/images/categories/skincare.webp?v=2" alt="{{ $catSkincare }}" loading="lazy">
+                    <div class="category-overlay"></div>
+                </div>
+                <div class="category-content">
+                    <div class="category-icon"><img src="/images/icons/icon-skincare.webp?v=2" alt=""></div>
+                    <h3 class="category-name">{{ $catSkincare }}</h3>
+                    <p class="category-desc">{{ $catSkincareDesc }}</p>
+                    <span class="category-link">{{ $viewAll }} →</span>
+                </div>
+            </a>
+            
+            <a href="/{{ $lang }}/{{ $makeupSlug }}/" class="category-card">
+                <div class="category-image">
+                    <img src="/images/categories/makeup.webp?v=2" alt="{{ $catMakeup }}" loading="lazy">
+                    <div class="category-overlay"></div>
+                </div>
+                <div class="category-content">
+                    <div class="category-icon"><img src="/images/icons/icon-makeup.webp?v=2" alt=""></div>
+                    <h3 class="category-name">{{ $catMakeup }}</h3>
+                    <p class="category-desc">{{ $catMakeupDesc }}</p>
+                    <span class="category-link">{{ $viewAll }} →</span>
+                </div>
+            </a>
+            
+            <a href="/{{ $lang }}/{{ $haircareSlug }}/" class="category-card">
+                <div class="category-image">
+                    <img src="/images/categories/haircare.webp?v=2" alt="{{ $catHaircare }}" loading="lazy">
+                    <div class="category-overlay"></div>
+                </div>
+                <div class="category-content">
+                    <div class="category-icon"><img src="/images/icons/icon-haircare.webp?v=2" alt=""></div>
+                    <h3 class="category-name">{{ $catHaircare }}</h3>
+                    <p class="category-desc">{{ $catHaircareDesc }}</p>
+                    <span class="category-link">{{ $viewAll }} →</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- ============================================================================
+     SECTION 4: NEW ARRIVALS (Latest Products)
+============================================================================= -->
+{{ $allProducts := where site.RegularPages "Section" "in" (slice "perfumes" "skincare" "makeup" "haircare") }}
+{{ $latestProducts := first 8 (sort $allProducts "Date" "desc") }}
+{{ if $latestProducts }}
+<section class="latest-section">
+    <div class="latest-container">
+        <div class="section-header-flex">
+            <div>
+                <h2 class="section-title">{{ $latestTitle }}</h2>
+                <p class="section-subtitle">{{ $latestSubtitle }}</p>
+            </div>
+            <a href="/{{ $lang }}/{{ $perfumesSlug }}/" class="view-all-link">
+                {{ $viewAll }} 
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                </svg>
+            </a>
+        </div>
+        
+        <div class="products-grid">
+            {{ range $latestProducts }}
+            {{ partial "product-card.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+<!-- ============================================================================
+     SECTION 5: WHY US
+============================================================================= -->
+<section class="why-section">
+    <div class="why-container">
+        <div class="section-header">
+            <h2 class="section-title">{{ $whyTitle }}</h2>
+            <p class="section-subtitle">{{ $whySubtitle }}</p>
+        </div>
+        
+        <div class="why-grid">
+            <div class="why-card">
+                <div class="why-icon why-icon-1">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"/>
+                    </svg>
+                </div>
+                <h3 class="why-title">{{ $why1Title }}</h3>
+                <p class="why-text">{{ $why1Text }}</p>
+            </div>
+            
+            <div class="why-card">
+                <div class="why-icon why-icon-2">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                    </svg>
+                </div>
+                <h3 class="why-title">{{ $why2Title }}</h3>
+                <p class="why-text">{{ $why2Text }}</p>
+            </div>
+            
+            <div class="why-card">
+                <div class="why-icon why-icon-3">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                    </svg>
+                </div>
+                <h3 class="why-title">{{ $why3Title }}</h3>
+                <p class="why-text">{{ $why3Text }}</p>
+            </div>
+            
+            <div class="why-card">
+                <div class="why-icon why-icon-4">
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                    </svg>
+                </div>
+                <h3 class="why-title">{{ $why4Title }}</h3>
+                <p class="why-text">{{ $why4Text }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============================================================================
+<!-- ============================================================================
+     SECTION 6: MEET OUR EXPERTS
+============================================================================= -->
+<section class="experts-section">
+    <div class="experts-container">
+        <div class="section-header">
+            <h2 class="section-title">
+                {{ if eq $lang "fr" }}Rencontrez Nos Experts
+                {{ else if eq $lang "de" }}Lernen Sie Unsere Experten Kennen
+                {{ else if eq $lang "es" }}Conozca a Nuestros Expertos
+                {{ else if eq $lang "it" }}Incontra i Nostri Esperti
+                {{ else if eq $lang "pt" }}Conheça Nossos Especialistas
+                {{ else if eq $lang "nl" }}Maak Kennis met Onze Experts
+                {{ else if eq $lang "pl" }}Poznaj Naszych Ekspertów
+                {{ else if eq $lang "tr" }}Uzmanlarımızla Tanışın
+                {{ else if eq $lang "ja" }}エキスパートのご紹介
+                {{ else if eq $lang "ko" }}전문가를 만나보세요
+                {{ else if eq $lang "zh" }}认识我们的专家
+                {{ else if eq $lang "ar" }}تعرف على خبرائنا
+                {{ else if eq $lang "hi" }}हमारे विशेषज्ञों से मिलें
+                {{ else }}Meet Our Experts{{ end }}
+            </h2>
+            <p class="section-subtitle">
+                {{ if eq $lang "fr" }}Les passionnés derrière chaque recommandation
+                {{ else if eq $lang "de" }}Die Leidenschaftlichen hinter jeder Empfehlung
+                {{ else if eq $lang "es" }}Los apasionados detrás de cada recomendación
+                {{ else if eq $lang "it" }}Gli appassionati dietro ogni raccomandazione
+                {{ else if eq $lang "pt" }}Os apaixonados por trás de cada recomendação
+                {{ else if eq $lang "nl" }}De gepassioneerden achter elke aanbeveling
+                {{ else if eq $lang "pl" }}Pasjonaci stojący za każdą rekomendacją
+                {{ else if eq $lang "tr" }}Her önerinin arkasındaki tutkulu uzmanlar
+                {{ else if eq $lang "ja" }}すべてのおすすめの背後にある情熱
+                {{ else if eq $lang "ko" }}모든 추천 뒤에 있는 열정적인 전문가들
+                {{ else if eq $lang "zh" }}每个推荐背后的热情专家
+                {{ else if eq $lang "ar" }}الشغوفون وراء كل توصية
+                {{ else if eq $lang "hi" }}हर सिफारिश के पीछे जुनूनी विशेषज्ञ
+                {{ else }}The passionate minds behind every recommendation{{ end }}
+            </p>
+        </div>
+        
+        <div class="experts-grid">
+            <!-- Expert 1: Sophie Laurent - Perfume Expert -->
+            <a href="/{{ $lang }}/authors/sophie-laurent/" class="expert-card">
+                <div class="expert-image">
+                    <img src="/images/authors/sophie-laurent.webp" alt="Sophie Laurent" loading="lazy">
+                </div>
+                <div class="expert-info">
+                    <h3 class="expert-name">Sophie Laurent</h3>
+                    <span class="expert-role">
+                        {{ if eq $lang "fr" }}Experte Parfums
+                        {{ else if eq $lang "de" }}Parfüm-Expertin
+                        {{ else if eq $lang "es" }}Experta en Perfumes
+                        {{ else if eq $lang "it" }}Esperta di Profumi
+                        {{ else if eq $lang "pt" }}Especialista em Perfumes
+                        {{ else if eq $lang "nl" }}Parfum Expert
+                        {{ else if eq $lang "pl" }}Ekspert Perfum
+                        {{ else if eq $lang "tr" }}Parfüm Uzmanı
+                        {{ else if eq $lang "ja" }}香水エキスパート
+                        {{ else if eq $lang "ko" }}향수 전문가
+                        {{ else if eq $lang "zh" }}香水专家
+                        {{ else if eq $lang "ar" }}خبيرة العطور
+                        {{ else if eq $lang "hi" }}परफ्यूम विशेषज्ञ
+                        {{ else }}Perfume Expert{{ end }}
+                    </span>
+                    <p class="expert-bio">
+                        {{ if eq $lang "fr" }}Nez certifiée avec 12 ans d'expérience dans l'industrie de la parfumerie de luxe à Paris et Grasse.
+                        {{ else if eq $lang "de" }}Zertifizierte Nase mit 12 Jahren Erfahrung in der Luxusparfümindustrie in Paris und Grasse.
+                        {{ else if eq $lang "es" }}Nariz certificada con 12 años de experiencia en la industria del perfume de lujo en París y Grasse.
+                        {{ else if eq $lang "it" }}Naso certificato con 12 anni di esperienza nell'industria della profumeria di lusso a Parigi e Grasse.
+                        {{ else if eq $lang "pt" }}Nariz certificada com 12 anos de experiência na indústria de perfumaria de luxo em Paris e Grasse.
+                        {{ else }}Certified nose with 12 years of experience in the luxury perfume industry in Paris and Grasse.{{ end }}
+                    </p>
+                </div>
+            </a>
+            
+            <!-- Expert 2: Emma Chen - Skincare Specialist -->
+            <a href="/{{ $lang }}/authors/emma-chen/" class="expert-card">
+                <div class="expert-image">
+                    <img src="/images/authors/emma-chen.webp" alt="Emma Chen" loading="lazy">
+                </div>
+                <div class="expert-info">
+                    <h3 class="expert-name">Emma Chen</h3>
+                    <span class="expert-role">
+                        {{ if eq $lang "fr" }}Spécialiste Skincare
+                        {{ else if eq $lang "de" }}Hautpflege-Spezialistin
+                        {{ else if eq $lang "es" }}Especialista en Skincare
+                        {{ else if eq $lang "it" }}Specialista Skincare
+                        {{ else if eq $lang "pt" }}Especialista em Skincare
+                        {{ else if eq $lang "nl" }}Huidverzorging Specialist
+                        {{ else if eq $lang "pl" }}Specjalista Pielęgnacji
+                        {{ else if eq $lang "tr" }}Cilt Bakımı Uzmanı
+                        {{ else if eq $lang "ja" }}スキンケアスペシャリスト
+                        {{ else if eq $lang "ko" }}스킨케어 전문가
+                        {{ else if eq $lang "zh" }}护肤专家
+                        {{ else if eq $lang "ar" }}أخصائية العناية بالبشرة
+                        {{ else if eq $lang "hi" }}स्किनकेयर विशेषज्ञ
+                        {{ else }}Skincare Specialist{{ end }}
+                    </span>
+                    <p class="expert-bio">
+                        {{ if eq $lang "fr" }}Dermatologue cosmétique formée à Séoul, spécialisée dans les rituels de beauté coréens et japonais.
+                        {{ else if eq $lang "de" }}Kosmetische Dermatologin, ausgebildet in Seoul, spezialisiert auf koreanische und japanische Schönheitsrituale.
+                        {{ else if eq $lang "es" }}Dermatóloga cosmética formada en Seúl, especializada en rituales de belleza coreanos y japoneses.
+                        {{ else if eq $lang "it" }}Dermatologa cosmetica formata a Seoul, specializzata in rituali di bellezza coreani e giapponesi.
+                        {{ else if eq $lang "pt" }}Dermatologista cosmética formada em Seul, especializada em rituais de beleza coreanos e japoneses.
+                        {{ else }}Cosmetic dermatologist trained in Seoul, specialized in Korean and Japanese beauty rituals.{{ end }}
+                    </p>
+                </div>
+            </a>
+            
+            <!-- Expert 3: Isabella Romano - Makeup Artist -->
+            <a href="/{{ $lang }}/authors/isabella-romano/" class="expert-card">
+                <div class="expert-image">
+                    <img src="/images/authors/isabella-romano.webp" alt="Isabella Romano" loading="lazy">
+                </div>
+                <div class="expert-info">
+                    <h3 class="expert-name">Isabella Romano</h3>
+                    <span class="expert-role">
+                        {{ if eq $lang "fr" }}Maquilleuse Professionnelle
+                        {{ else if eq $lang "de" }}Professionelle Maskenbildnerin
+                        {{ else if eq $lang "es" }}Maquilladora Profesional
+                        {{ else if eq $lang "it" }}Truccatrice Professionista
+                        {{ else if eq $lang "pt" }}Maquiadora Profissional
+                        {{ else if eq $lang "nl" }}Professionele Visagist
+                        {{ else if eq $lang "pl" }}Profesjonalna Wizażystka
+                        {{ else if eq $lang "tr" }}Profesyonel Makyaj Sanatçısı
+                        {{ else if eq $lang "ja" }}プロのメイクアップアーティスト
+                        {{ else if eq $lang "ko" }}프로 메이크업 아티스트
+                        {{ else if eq $lang "zh" }}专业化妆师
+                        {{ else if eq $lang "ar" }}فنانة مكياج محترفة
+                        {{ else if eq $lang "hi" }}प्रोफेशनल मेकअप आर्टिस्ट
+                        {{ else }}Professional Makeup Artist{{ end }}
+                    </span>
+                    <p class="expert-bio">
+                        {{ if eq $lang "fr" }}Maquilleuse de mode à Milan avec 15 ans d'expérience pour Vogue, Elle et les défilés haute couture.
+                        {{ else if eq $lang "de" }}Mode-Maskenbildnerin in Mailand mit 15 Jahren Erfahrung für Vogue, Elle und Haute-Couture-Shows.
+                        {{ else if eq $lang "es" }}Maquilladora de moda en Milán con 15 años de experiencia para Vogue, Elle y desfiles de alta costura.
+                        {{ else if eq $lang "it" }}Truccatrice di moda a Milano con 15 anni di esperienza per Vogue, Elle e sfilate di alta moda.
+                        {{ else if eq $lang "pt" }}Maquiadora de moda em Milão com 15 anos de experiência para Vogue, Elle e desfiles de alta-costura.
+                        {{ else }}Fashion makeup artist in Milan with 15 years of experience for Vogue, Elle and haute couture shows.{{ end }}
+                    </p>
+                </div>
+            </a>
+            
+            <!-- Expert 4: Olivia Taylor - Haircare Expert -->
+            <a href="/{{ $lang }}/authors/olivia-taylor/" class="expert-card">
+                <div class="expert-image">
+                    <img src="/images/authors/olivia-taylor.webp" alt="Olivia Taylor" loading="lazy">
+                </div>
+                <div class="expert-info">
+                    <h3 class="expert-name">Olivia Taylor</h3>
+                    <span class="expert-role">
+                        {{ if eq $lang "fr" }}Experte Capillaire
+                        {{ else if eq $lang "de" }}Haarpflege-Expertin
+                        {{ else if eq $lang "es" }}Experta Capilar
+                        {{ else if eq $lang "it" }}Esperta Capelli
+                        {{ else if eq $lang "pt" }}Especialista Capilar
+                        {{ else if eq $lang "nl" }}Haarverzorging Expert
+                        {{ else if eq $lang "pl" }}Ekspert Pielęgnacji Włosów
+                        {{ else if eq $lang "tr" }}Saç Bakımı Uzmanı
+                        {{ else if eq $lang "ja" }}ヘアケアエキスパート
+                        {{ else if eq $lang "ko" }}헤어케어 전문가
+                        {{ else if eq $lang "zh" }}护发专家
+                        {{ else if eq $lang "ar" }}خبيرة العناية بالشعر
+                        {{ else if eq $lang "hi" }}हेयरकेयर विशेषज्ञ
+                        {{ else }}Haircare Expert{{ end }}
+                    </span>
+                    <p class="expert-bio">
+                        {{ if eq $lang "fr" }}Trichologue certifiée et styliste à Londres, spécialisée dans les soins naturels et la santé du cuir chevelu.
+                        {{ else if eq $lang "de" }}Zertifizierte Trichologin und Stylistin in London, spezialisiert auf natürliche Pflege und Kopfhautgesundheit.
+                        {{ else if eq $lang "es" }}Tricóloga certificada y estilista en Londres, especializada en cuidados naturales y salud del cuero cabelludo.
+                        {{ else if eq $lang "it" }}Tricologa certificata e stilista a Londra, specializzata in cure naturali e salute del cuoio capelluto.
+                        {{ else if eq $lang "pt" }}Tricologista certificada e estilista em Londres, especializada em cuidados naturais e saúde do couro cabeludo.
+                        {{ else }}Certified trichologist and stylist in London, specialized in natural care and scalp health.{{ end }}
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+     SECTION 6: SEO BOTTOM TEXT
+============================================================================= -->
+<section class="seo-section">
+    <div class="seo-container">
+        <h2 class="seo-title">{{ $seoTitle }}</h2>
+        <div class="seo-content">
+            <p>{{ $seoText }}</p>
+        </div>
+    </div>
+</section>
+
+
+<!-- ============================================================================
+     STYLES
+============================================================================= -->
+<style>
+/* ==========================================================================
+   HERO SECTION
+   ========================================================================== */
+.hero-section {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 6rem 0 4rem;
+    overflow: hidden;
+}
+
+.hero-background {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+}
+
+.hero-gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 50%, #F8C8DC20 100%);
+}
+
+.hero-pattern {
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(#F8C8DC 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.3;
+}
+
+.hero-container {
+    position: relative;
+    z-index: 1;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    align-items: center;
+}
+
+@media (min-width: 1024px) {
+    .hero-container {
+        grid-template-columns: 1fr 1fr;
+        gap: 4rem;
+        padding: 0 4rem;
+    }
+}
+
+.hero-content {
+    text-align: center;
+}
+
+@media (min-width: 1024px) {
+    .hero-content {
+        text-align: left;
+    }
+}
+
+
+.hero-title {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .hero-title {
+        font-size: 3.5rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .hero-title {
+        font-size: 4rem;
+    }
+}
+
+.hero-highlight {
+    background: linear-gradient(135deg, #F8C8DC 0%, #f0a8c4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.hero-subtitle {
+    font-size: 1.125rem;
+    line-height: 1.7;
+    color: #6B7280;
+    margin-bottom: 2rem;
+    max-width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+    .hero-subtitle {
+        margin-left: 0;
+        font-size: 1.25rem;
+    }
+}
+
+.hero-cta {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 3rem;
+}
+
+@media (min-width: 640px) {
+    .hero-cta {
+        flex-direction: row;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .hero-cta {
+        justify-content: flex-start;
+    }
+}
+
+.btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #F8C8DC 0%, #f0b4cc 100%);
+    color: #1F2937;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(248, 200, 220, 0.4);
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(248, 200, 220, 0.5);
+    color: #1F2937;
+}
+
+.btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+    background: white;
+    color: #1F2937;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: 50px;
+    border: 2px solid #E5E7EB;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+    border-color: #F8C8DC;
+    background: #FDF2F8;
+    color: #1F2937;
+}
+
+.btn-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.btn-icon-right {
+    width: 16px;
+    height: 16px;
+}
+
+.hero-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 1024px) {
+    .hero-stats {
+        justify-content: flex-start;
+    }
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-number {
+    display: block;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #F8C8DC;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.stat-divider {
+    width: 1px;
+    height: 40px;
+    background: #E5E7EB;
+}
+
+/* Hero Visual */
+.hero-visual {
+    max-width: 450px;
+    position: relative;
+    display: none;
+}
+
+@media (min-width: 1024px) {
+    .hero-visual {
+    max-width: 450px;
+        display: block;
+    }
+}
+
+.hero-image-container {
+    max-height: 550px;
+    position: relative;
+    aspect-ratio: 4/5;
+    border-radius: 30px;
+    overflow: hidden;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+}
+
+.hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hero-image-decoration {
+    position: absolute;
+    inset: 0;
+    border: 3px solid #F8C8DC40;
+    border-radius: 30px;
+    pointer-events: none;
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    color: #9CA3AF;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    animation: bounce 2s infinite;
+}
+
+.scroll-indicator svg {
+    width: 20px;
+    height: 20px;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50% { transform: translateX(-50%) translateY(10px); }
+}
+
+/* ==========================================================================
+   INTRO SECTION (SEO)
+   ========================================================================== */
+.intro-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.intro-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intro-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1.5rem;
+    background: #FDF2F8;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F8C8DC;
+}
+
+.intro-icon svg {
+    width: 30px;
+    height: 30px;
+}
+
+.intro-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+}
+
+.intro-text {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: #6B7280;
+}
+
+.intro-text p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   CATEGORIES SECTION
+   ========================================================================== */
+.categories-section {
+    padding: 5rem 1.5rem;
+    background: #FAFAFA;
+}
+
+.categories-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+    }
+}
+
+.section-subtitle {
+    font-size: 1.0625rem;
+    color: #6B7280;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .categories-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .categories-grid {
+        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-rows: repeat(2, 1fr);
+    }
+    
+    .category-featured {
+        grid-row: span 2;
+    }
+}
+
+.category-card {
+    position: relative;
+    border-radius: 24px;
+    overflow: hidden;
+    text-decoration: none;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.category-image {
+    position: absolute;
+    inset: 0;
+}
+
+.category-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.category-card:hover .category-image img {
+    transform: scale(1.05);
+}
+
+.category-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0) 100%);
+}
+
+.category-content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+    color: white;
+}
+
+.category-icon {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-bottom: 0.75rem;
+    background: white;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.category-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transform: scale(2);
+}
+
+.category-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.category-desc {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.category-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #F8C8DC;
+    transition: color 0.2s ease;
+}
+
+.category-card:hover .category-link {
+    color: white;
+}
+
+/* ==========================================================================
+   LATEST PRODUCTS SECTION
+   ========================================================================== */
+.latest-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.latest-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .section-header-flex {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+        text-align: left;
+    }
+}
+
+.view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #F8C8DC;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.view-all-link:hover {
+    color: #e0a0b8;
+}
+
+.view-all-link svg {
+    width: 20px;
+    height: 20px;
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .products-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .products-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* ==========================================================================
+   WHY US SECTION
+   ========================================================================== */
+.why-section {
+    padding: 5rem 1.5rem;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.why-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.why-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .why-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .why-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.why-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.why-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.why-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 1.25rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.why-icon svg {
+    width: 32px;
+    height: 32px;
+}
+
+.why-icon-1 { background: #FEF3C7; color: #F59E0B; }
+.why-icon-2 { background: #D1FAE5; color: #10B981; }
+.why-icon-3 { background: #DBEAFE; color: #3B82F6; }
+.why-icon-4 { background: #FCE7F3; color: #EC4899; }
+
+.why-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+.why-text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #6B7280;
+}
+
+/* ==========================================================================
+   SEO BOTTOM SECTION
+   ========================================================================== */
+.seo-section {
+    padding: 4rem 1.5rem;
+    background: #FAFAFA;
+    border-top: 1px solid #E5E7EB;
+}
+
+.seo-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.seo-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.seo-content {
+    font-size: 0.9375rem;
+    line-height: 1.8;
+    color: #6B7280;
+    text-align: justify;
+}
+
+.seo-content p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   RTL SUPPORT
+   ========================================================================== */
+[dir="rtl"] .hero-content {
+    text-align: right;
+}
+
+[dir="rtl"] .hero-cta {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .hero-stats {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .btn-icon-right {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .view-all-link svg {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .category-link {
+    direction: rtl;
+}
+
+/* ==========================================================================
+   EXPERTS SECTION
+   ========================================================================== */
+.experts-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.experts-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.experts-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .experts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .experts-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.expert-card {
+    display: block;
+    text-decoration: none;
+    background: #FAFAFA;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.expert-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(248, 200, 220, 0.2);
+    border-color: #F8C8DC;
+    background: white;
+}
+
+.expert-image {
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.expert-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.expert-card:hover .expert-image img {
+    transform: scale(1.05);
+}
+
+.expert-info {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.expert-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin-bottom: 0.25rem;
+}
+
+.expert-role {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F8C8DC;
+    background: #FDF2F8;
+    padding: 0.25rem 0.75rem;
+    border-radius: 50px;
+    margin-bottom: 0.75rem;
+}
+
+.expert-bio {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: #6B7280;
+    margin: 0;
+}
+
+/* RTL support for experts */
+[dir="rtl"] .expert-info {
+    text-align: center;
+}
+
+.floating-card {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.12);
+    padding: 0.5rem;
+    animation: float 6s ease-in-out infinite;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.floating-card:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 15px 50px rgba(248, 200, 220, 0.4);
+    z-index: 10;
+}
+
+.floating-card img {
+    width: 100%;
+    height: 60px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.floating-label {
+    font-size: 0.6rem;
+    font-weight: 600;
+    color: #6B7280;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-top: 0.25rem;
+    text-align: center;
+    white-space: nowrap;
+}
+
+/* Position des 5 cards autour de l'image hero */
+.floating-card-1 {
+    top: 5%;
+    left: -30px;
+    animation-delay: 0s;
+}
+
+.floating-card-2 {
+    top: 35%;
+    left: -60px;
+    animation-delay: 1.2s;
+}
+
+.floating-card-3 {
+    top: 65%;
+    left: -30px;
+    animation-delay: 2.4s;
+}
+
+.floating-card-4 {
+    top: 20%;
+    right: -40px;
+    animation-delay: 0.6s;
+}
+
+.floating-card-5 {
+    bottom: 10%;
+    right: -50px;
+    animation-delay: 1.8s;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    color: #9CA3AF;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    animation: bounce 2s infinite;
+}
+
+.scroll-indicator svg {
+    width: 20px;
+    height: 20px;
+}
+
+@keyframes bounce {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50% { transform: translateX(-50%) translateY(10px); }
+}
+
+/* ==========================================================================
+   INTRO SECTION (SEO)
+   ========================================================================== */
+.intro-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.intro-container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intro-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto 1.5rem;
+    background: #FDF2F8;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F8C8DC;
+}
+
+.intro-icon svg {
+    width: 30px;
+    height: 30px;
+}
+
+.intro-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.75rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+}
+
+.intro-text {
+    font-size: 1.0625rem;
+    line-height: 1.8;
+    color: #6B7280;
+}
+
+.intro-text p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   CATEGORIES SECTION
+   ========================================================================== */
+.categories-section {
+    padding: 5rem 1.5rem;
+    background: #FAFAFA;
+}
+
+.categories-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+    }
+}
+
+.section-subtitle {
+    font-size: 1.0625rem;
+    color: #6B7280;
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .categories-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .categories-grid {
+        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-rows: repeat(2, 1fr);
+    }
+    
+    .category-featured {
+        grid-row: span 2;
+    }
+}
+
+.category-card {
+    position: relative;
+    border-radius: 24px;
+    overflow: hidden;
+    text-decoration: none;
+    min-height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.category-image {
+    position: absolute;
+    inset: 0;
+}
+
+.category-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.category-card:hover .category-image img {
+    transform: scale(1.05);
+}
+
+.category-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, rgba(0,0,0,0) 100%);
+}
+
+.category-content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+    color: white;
+}
+
+
+.category-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.category-desc {
+    font-size: 0.9rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+}
+
+.category-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #F8C8DC;
+    transition: color 0.2s ease;
+}
+
+.category-card:hover .category-link {
+    color: white;
+}
+
+/* ==========================================================================
+   LATEST PRODUCTS SECTION
+   ========================================================================== */
+.latest-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.latest-container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.section-header-flex {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .section-header-flex {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+        text-align: left;
+    }
+}
+
+.view-all-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #F8C8DC;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.view-all-link:hover {
+    color: #e0a0b8;
+}
+
+.view-all-link svg {
+    width: 20px;
+    height: 20px;
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .products-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .products-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* ==========================================================================
+   WHY US SECTION
+   ========================================================================== */
+.why-section {
+    padding: 5rem 1.5rem;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.why-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.why-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .why-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .why-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.why-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.why-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.why-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 1.25rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.why-icon svg {
+    width: 32px;
+    height: 32px;
+}
+
+.why-icon-1 { background: #FEF3C7; color: #F59E0B; }
+.why-icon-2 { background: #D1FAE5; color: #10B981; }
+.why-icon-3 { background: #DBEAFE; color: #3B82F6; }
+.why-icon-4 { background: #FCE7F3; color: #EC4899; }
+
+.why-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    color: #1F2937;
+    margin-bottom: 0.75rem;
+}
+
+.why-text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: #6B7280;
+}
+
+/* ==========================================================================
+   SEO BOTTOM SECTION
+   ========================================================================== */
+.seo-section {
+    padding: 4rem 1.5rem;
+    background: #FAFAFA;
+    border-top: 1px solid #E5E7EB;
+}
+
+.seo-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.seo-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #1F2937;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.seo-content {
+    font-size: 0.9375rem;
+    line-height: 1.8;
+    color: #6B7280;
+    text-align: justify;
+}
+
+.seo-content p {
+    margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   RTL SUPPORT
+   ========================================================================== */
+[dir="rtl"] .hero-content {
+    text-align: right;
+}
+
+[dir="rtl"] .hero-cta {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .hero-stats {
+    justify-content: flex-end;
+}
+
+[dir="rtl"] .btn-icon-right {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .view-all-link svg {
+    transform: rotate(180deg);
+}
+
+[dir="rtl"] .category-link {
+    direction: rtl;
+}
+
+/* ==========================================================================
+   EXPERTS SECTION
+   ========================================================================== */
+.experts-section {
+    padding: 5rem 1.5rem;
+    background: white;
+}
+
+.experts-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.experts-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 640px) {
+    .experts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .experts-grid {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.expert-card {
+    display: block;
+    text-decoration: none;
+    background: #FAFAFA;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid transparent;
+}
+
+.expert-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(248, 200, 220, 0.2);
+    border-color: #F8C8DC;
+    background: white;
+}
+
+.expert-image {
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    background: linear-gradient(135deg, #FDF2F8 0%, #FFFFFF 100%);
+}
+
+.expert-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.expert-card:hover .expert-image img {
+    transform: scale(1.05);
+}
+
+.expert-info {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.expert-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1F2937;
+    margin-bottom: 0.25rem;
+}
+
+.expert-role {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #F8C8DC;
+    background: #FDF2F8;
+    padding: 0.25rem 0.75rem;
+    border-radius: 50px;
+    margin-bottom: 0.75rem;
+}
+
+.expert-bio {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: #6B7280;
+    margin: 0;
+}
+
+/* RTL support for experts */
+[dir="rtl"] .expert-info {
+    text-align: center;
+}
+</style>
+
+{{ end }}
