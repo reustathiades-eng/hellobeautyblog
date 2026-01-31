@@ -1,0 +1,96 @@
+{
+  "en": {
+    "intro_title": "Professional Makeup Reviews & Tutorials",
+    "intro": "From everyday essentials to red carpet glamour, explore makeup products tested by professional artists. Find your perfect foundation match, holy grail mascara, and signature lip color.",
+    "subcategories": {
+      "face": {
+        "title": "Face",
+        "items": [
+          {"name": "Foundation", "emoji": "🎨", "url": "/en/makeup/?cat=foundation"},
+          {"name": "Concealer", "emoji": "✨", "url": "/en/makeup/?cat=concealer"},
+          {"name": "Blush", "emoji": "🌸", "url": "/en/makeup/?cat=blush"},
+          {"name": "Highlighter", "emoji": "💫", "url": "/en/makeup/?cat=highlighter"},
+          {"name": "Powder", "emoji": "☁️", "url": "/en/makeup/?cat=powder"}
+        ]
+      },
+      "eyes": {
+        "title": "Eyes",
+        "items": [
+          {"name": "Mascara", "emoji": "👁️", "url": "/en/makeup/?cat=mascara"},
+          {"name": "Eyeliner", "emoji": "✒️", "url": "/en/makeup/?cat=eyeliner"},
+          {"name": "Eyeshadow", "emoji": "🎨", "url": "/en/makeup/?cat=eyeshadow"},
+          {"name": "Brows", "emoji": "〰️", "url": "/en/makeup/?cat=brows"}
+        ]
+      },
+      "lips": {
+        "title": "Lips",
+        "items": [
+          {"name": "Lipstick", "emoji": "💄", "url": "/en/makeup/?cat=lipstick"},
+          {"name": "Lip Gloss", "emoji": "💋", "url": "/en/makeup/?cat=gloss"},
+          {"name": "Lip Liner", "emoji": "✏️", "url": "/en/makeup/?cat=lipliner"}
+        ]
+      },
+      "nails": {
+        "title": "Nails",
+        "items": [
+          {"name": "Nail Polish", "emoji": "💅", "url": "/en/makeup/?cat=polish"},
+          {"name": "Nail Care", "emoji": "🤍", "url": "/en/makeup/?cat=nailcare"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "How do I find my foundation shade?", "answer": "Test on your jawline in natural light. The right shade disappears into your skin seamlessly."},
+      {"question": "Should I apply primer before makeup?", "answer": "Primer extends wear time and creates a smooth base. Choose one that addresses your skin concerns."},
+      {"question": "How often should I replace mascara?", "answer": "Every 3 months to prevent bacteria buildup and ensure optimal performance."}
+    ],
+    "seo_title": "About Our Makeup Collection",
+    "seo_bottom": "Hello Beauty Blog's makeup section features honest reviews from professional artists. We test everything from drugstore favorites to luxury splurges to help you build your perfect collection."
+  },
+  "fr": {
+    "intro_title": "Avis Maquillage Professionnels & Tutoriels",
+    "intro": "Des essentiels quotidiens au glamour tapis rouge, explorez les produits testés par des maquilleurs professionnels. Trouvez votre fond de teint parfait et votre rouge à lèvres signature.",
+    "subcategories": {
+      "face": {
+        "title": "Visage",
+        "items": [
+          {"name": "Fond de Teint", "emoji": "🎨", "url": "/fr/maquillage/?cat=fond-de-teint"},
+          {"name": "Correcteur", "emoji": "✨", "url": "/fr/maquillage/?cat=correcteur"},
+          {"name": "Blush", "emoji": "🌸", "url": "/fr/maquillage/?cat=blush"},
+          {"name": "Highlighter", "emoji": "💫", "url": "/fr/maquillage/?cat=highlighter"},
+          {"name": "Poudre", "emoji": "☁️", "url": "/fr/maquillage/?cat=poudre"}
+        ]
+      },
+      "eyes": {
+        "title": "Yeux",
+        "items": [
+          {"name": "Mascara", "emoji": "👁️", "url": "/fr/maquillage/?cat=mascara"},
+          {"name": "Eyeliner", "emoji": "✒️", "url": "/fr/maquillage/?cat=eyeliner"},
+          {"name": "Fards", "emoji": "🎨", "url": "/fr/maquillage/?cat=fards"},
+          {"name": "Sourcils", "emoji": "〰️", "url": "/fr/maquillage/?cat=sourcils"}
+        ]
+      },
+      "lips": {
+        "title": "Lèvres",
+        "items": [
+          {"name": "Rouge à Lèvres", "emoji": "💄", "url": "/fr/maquillage/?cat=rouge-a-levres"},
+          {"name": "Gloss", "emoji": "💋", "url": "/fr/maquillage/?cat=gloss"},
+          {"name": "Crayon", "emoji": "✏️", "url": "/fr/maquillage/?cat=crayon"}
+        ]
+      },
+      "nails": {
+        "title": "Ongles",
+        "items": [
+          {"name": "Vernis", "emoji": "💅", "url": "/fr/maquillage/?cat=vernis"},
+          {"name": "Soins Ongles", "emoji": "🤍", "url": "/fr/maquillage/?cat=soins-ongles"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "Comment trouver ma teinte de fond de teint ?", "answer": "Testez sur la mâchoire en lumière naturelle. La bonne teinte se fond dans votre peau."},
+      {"question": "Dois-je appliquer une base avant le maquillage ?", "answer": "La base prolonge la tenue et crée un fini lisse. Choisissez selon vos besoins."},
+      {"question": "Quand remplacer mon mascara ?", "answer": "Tous les 3 mois pour éviter les bactéries et garder une performance optimale."}
+    ],
+    "seo_title": "À Propos de Notre Collection Maquillage",
+    "seo_bottom": "La section maquillage de Hello Beauty Blog propose des avis honnêtes de maquilleurs professionnels. Nous testons tout, des favoris drugstore aux produits de luxe."
+  }
+}

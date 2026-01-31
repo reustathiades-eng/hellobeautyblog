@@ -1,0 +1,90 @@
+{
+  "en": {
+    "intro_title": "Expert Skincare Advice for Every Skin Type",
+    "intro": "From cleansers to serums, discover products that truly work. Our dermatologist-approved reviews help you build the perfect routine for healthy, glowing skin.",
+    "subcategories": {
+      "skin_type": {
+        "title": "By Skin Type",
+        "items": [
+          {"name": "Oily", "emoji": "💧", "url": "/en/skincare/?type=oily"},
+          {"name": "Dry", "emoji": "🏜️", "url": "/en/skincare/?type=dry"},
+          {"name": "Combination", "emoji": "⚖️", "url": "/en/skincare/?type=combination"},
+          {"name": "Sensitive", "emoji": "🌸", "url": "/en/skincare/?type=sensitive"},
+          {"name": "Normal", "emoji": "✨", "url": "/en/skincare/?type=normal"}
+        ]
+      },
+      "routine": {
+        "title": "By Routine Step",
+        "items": [
+          {"name": "Cleanser", "emoji": "🧴", "url": "/en/skincare/?step=cleanser"},
+          {"name": "Toner", "emoji": "💦", "url": "/en/skincare/?step=toner"},
+          {"name": "Serum", "emoji": "💎", "url": "/en/skincare/?step=serum"},
+          {"name": "Moisturizer", "emoji": "🧊", "url": "/en/skincare/?step=moisturizer"},
+          {"name": "SPF", "emoji": "☀️", "url": "/en/skincare/?step=spf"},
+          {"name": "Mask", "emoji": "🎭", "url": "/en/skincare/?step=mask"}
+        ]
+      },
+      "concern": {
+        "title": "By Concern",
+        "items": [
+          {"name": "Anti-Aging", "emoji": "⏰", "url": "/en/skincare/?concern=anti-aging"},
+          {"name": "Acne", "emoji": "🔴", "url": "/en/skincare/?concern=acne"},
+          {"name": "Hydration", "emoji": "💧", "url": "/en/skincare/?concern=hydration"},
+          {"name": "Brightening", "emoji": "✨", "url": "/en/skincare/?concern=brightening"},
+          {"name": "Pores", "emoji": "🔍", "url": "/en/skincare/?concern=pores"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "What order should I apply skincare?", "answer": "Follow this order: cleanser, toner, serum, eye cream, moisturizer, then SPF in the morning."},
+      {"question": "How often should I exfoliate?", "answer": "2-3 times per week for most skin types. Sensitive skin should start with once weekly."},
+      {"question": "Do I need SPF every day?", "answer": "Yes! UV rays penetrate clouds and windows. Daily SPF prevents aging and skin damage."}
+    ],
+    "seo_title": "About Our Skincare Reviews",
+    "seo_bottom": "Hello Beauty Blog provides honest, science-backed skincare reviews. We test products for weeks before sharing our verdict, focusing on ingredients that truly deliver results."
+  },
+  "fr": {
+    "intro_title": "Conseils Skincare d'Experts pour Chaque Type de Peau",
+    "intro": "Des nettoyants aux sérums, découvrez les produits qui fonctionnent vraiment. Nos avis approuvés par des dermatologues vous aident à construire votre routine idéale.",
+    "subcategories": {
+      "skin_type": {
+        "title": "Par Type de Peau",
+        "items": [
+          {"name": "Grasse", "emoji": "💧", "url": "/fr/soins/?type=grasse"},
+          {"name": "Sèche", "emoji": "🏜️", "url": "/fr/soins/?type=seche"},
+          {"name": "Mixte", "emoji": "⚖️", "url": "/fr/soins/?type=mixte"},
+          {"name": "Sensible", "emoji": "🌸", "url": "/fr/soins/?type=sensible"},
+          {"name": "Normale", "emoji": "✨", "url": "/fr/soins/?type=normale"}
+        ]
+      },
+      "routine": {
+        "title": "Par Étape de Routine",
+        "items": [
+          {"name": "Nettoyant", "emoji": "🧴", "url": "/fr/soins/?step=nettoyant"},
+          {"name": "Tonique", "emoji": "💦", "url": "/fr/soins/?step=tonique"},
+          {"name": "Sérum", "emoji": "💎", "url": "/fr/soins/?step=serum"},
+          {"name": "Crème", "emoji": "🧊", "url": "/fr/soins/?step=creme"},
+          {"name": "SPF", "emoji": "☀️", "url": "/fr/soins/?step=spf"},
+          {"name": "Masque", "emoji": "🎭", "url": "/fr/soins/?step=masque"}
+        ]
+      },
+      "concern": {
+        "title": "Par Préoccupation",
+        "items": [
+          {"name": "Anti-Âge", "emoji": "⏰", "url": "/fr/soins/?concern=anti-age"},
+          {"name": "Acné", "emoji": "🔴", "url": "/fr/soins/?concern=acne"},
+          {"name": "Hydratation", "emoji": "💧", "url": "/fr/soins/?concern=hydratation"},
+          {"name": "Éclat", "emoji": "✨", "url": "/fr/soins/?concern=eclat"},
+          {"name": "Pores", "emoji": "🔍", "url": "/fr/soins/?concern=pores"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "Dans quel ordre appliquer mes soins ?", "answer": "Suivez cet ordre : nettoyant, tonique, sérum, contour des yeux, crème, puis SPF le matin."},
+      {"question": "À quelle fréquence exfolier ?", "answer": "2-3 fois par semaine pour la plupart. Les peaux sensibles commencent à 1 fois par semaine."},
+      {"question": "Faut-il du SPF tous les jours ?", "answer": "Oui ! Les UV traversent nuages et vitres. Le SPF quotidien prévient le vieillissement."}
+    ],
+    "seo_title": "À Propos de Nos Avis Skincare",
+    "seo_bottom": "Hello Beauty Blog propose des avis skincare honnêtes et scientifiques. Nous testons les produits pendant des semaines avant de partager notre verdict."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "en": {
+    "intro_title": "Haircare Solutions for Every Hair Type",
+    "intro": "From fine and flat to thick and curly, discover products that transform your hair. Our trichologist-approved reviews help you achieve healthy, beautiful hair.",
+    "subcategories": {
+      "hair_type": {
+        "title": "By Hair Type",
+        "items": [
+          {"name": "Fine Hair", "emoji": "🪶", "url": "/en/haircare/?type=fine"},
+          {"name": "Thick Hair", "emoji": "🦁", "url": "/en/haircare/?type=thick"},
+          {"name": "Curly Hair", "emoji": "🌀", "url": "/en/haircare/?type=curly"},
+          {"name": "Straight Hair", "emoji": "📏", "url": "/en/haircare/?type=straight"},
+          {"name": "Color-Treated", "emoji": "🎨", "url": "/en/haircare/?type=colored"}
+        ]
+      },
+      "concern": {
+        "title": "By Concern",
+        "items": [
+          {"name": "Volume", "emoji": "📈", "url": "/en/haircare/?concern=volume"},
+          {"name": "Repair", "emoji": "🔧", "url": "/en/haircare/?concern=repair"},
+          {"name": "Hydration", "emoji": "💧", "url": "/en/haircare/?concern=hydration"},
+          {"name": "Dandruff", "emoji": "❄️", "url": "/en/haircare/?concern=dandruff"},
+          {"name": "Color Protection", "emoji": "🛡️", "url": "/en/haircare/?concern=color"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "How often should I wash my hair?", "answer": "It depends on your hair type. Oily hair may need daily washing, while dry or curly hair benefits from 2-3 times per week."},
+      {"question": "Should I use conditioner every time?", "answer": "Yes, but apply it mainly to the ends, avoiding the scalp to prevent oiliness."},
+      {"question": "How can I reduce hair damage?", "answer": "Use heat protectant, lower heat settings, and limit chemical treatments. Regular trims also prevent split ends from traveling up."}
+    ],
+    "seo_title": "About Our Haircare Reviews",
+    "seo_bottom": "Hello Beauty Blog's haircare section features expert-tested products for every hair type. From shampoos to treatments, we help you find solutions that truly work."
+  },
+  "fr": {
+    "intro_title": "Solutions Capillaires pour Chaque Type de Cheveux",
+    "intro": "Des cheveux fins aux boucles épaisses, découvrez les produits qui transforment vos cheveux. Nos avis approuvés par des trichologues vous aident à avoir des cheveux sains.",
+    "subcategories": {
+      "hair_type": {
+        "title": "Par Type de Cheveux",
+        "items": [
+          {"name": "Cheveux Fins", "emoji": "🪶", "url": "/fr/cheveux/?type=fins"},
+          {"name": "Cheveux Épais", "emoji": "🦁", "url": "/fr/cheveux/?type=epais"},
+          {"name": "Cheveux Bouclés", "emoji": "🌀", "url": "/fr/cheveux/?type=boucles"},
+          {"name": "Cheveux Lisses", "emoji": "📏", "url": "/fr/cheveux/?type=lisses"},
+          {"name": "Cheveux Colorés", "emoji": "🎨", "url": "/fr/cheveux/?type=colores"}
+        ]
+      },
+      "concern": {
+        "title": "Par Besoin",
+        "items": [
+          {"name": "Volume", "emoji": "📈", "url": "/fr/cheveux/?concern=volume"},
+          {"name": "Réparation", "emoji": "🔧", "url": "/fr/cheveux/?concern=reparation"},
+          {"name": "Hydratation", "emoji": "💧", "url": "/fr/cheveux/?concern=hydratation"},
+          {"name": "Pellicules", "emoji": "❄️", "url": "/fr/cheveux/?concern=pellicules"},
+          {"name": "Protection Couleur", "emoji": "🛡️", "url": "/fr/cheveux/?concern=couleur"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "À quelle fréquence laver mes cheveux ?", "answer": "Cela dépend de votre type. Les cheveux gras peuvent nécessiter un lavage quotidien, les secs ou bouclés 2-3 fois par semaine."},
+      {"question": "Dois-je utiliser un après-shampoing à chaque fois ?", "answer": "Oui, mais appliquez principalement sur les pointes, en évitant le cuir chevelu."},
+      {"question": "Comment réduire les dommages capillaires ?", "answer": "Utilisez un protecteur thermique, réduisez la chaleur et limitez les traitements chimiques. Les coupes régulières préviennent les fourches."}
+    ],
+    "seo_title": "À Propos de Nos Avis Capillaires",
+    "seo_bottom": "La section capillaire de Hello Beauty Blog présente des produits testés par des experts. Des shampoings aux traitements, nous vous aidons à trouver ce qui fonctionne."
+  }
+}

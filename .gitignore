@@ -23,3 +23,4 @@ Thumbs.db
 
 # Secrets
 generation/.secrets/
+.secrets

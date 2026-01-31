@@ -1,0 +1,80 @@
+{
+  "en": {
+    "intro_title": "Your Guide to Finding the Perfect Fragrance",
+    "intro": "Discover our curated collection of luxury perfumes, from timeless classics to modern masterpieces. Our expert reviewers test each fragrance to help you find your signature scent.",
+    "subcategories": {
+      "gender": {
+        "title": "Shop by Gender",
+        "items": [
+          {"name": "Women", "emoji": "👩", "url": "/en/perfumes/?filter=women"},
+          {"name": "Men", "emoji": "👨", "url": "/en/perfumes/?filter=men"},
+          {"name": "Unisex", "emoji": "⚧️", "url": "/en/perfumes/?filter=unisex"}
+        ]
+      },
+      "family": {
+        "title": "By Fragrance Family",
+        "items": [
+          {"name": "Floral", "emoji": "🌸", "url": "/en/perfumes/?family=floral"},
+          {"name": "Oriental", "emoji": "🌙", "url": "/en/perfumes/?family=oriental"},
+          {"name": "Woody", "emoji": "🌲", "url": "/en/perfumes/?family=woody"},
+          {"name": "Fresh", "emoji": "🍃", "url": "/en/perfumes/?family=fresh"}
+        ]
+      },
+      "occasion": {
+        "title": "By Occasion",
+        "items": [
+          {"name": "Everyday", "emoji": "☀️", "url": "/en/perfumes/?occasion=everyday"},
+          {"name": "Evening", "emoji": "🌃", "url": "/en/perfumes/?occasion=evening"},
+          {"name": "Summer", "emoji": "🏖️", "url": "/en/perfumes/?occasion=summer"},
+          {"name": "Winter", "emoji": "❄️", "url": "/en/perfumes/?occasion=winter"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "How do I choose the right perfume?", "answer": "Consider your personality and the occasions you'll wear it. Test on skin and wait 30 minutes for the dry-down."},
+      {"question": "What's the difference between EDP and EDT?", "answer": "Eau de Parfum has 15-20% oils and lasts 6-8 hours. Eau de Toilette has 5-15% and lasts 3-4 hours."},
+      {"question": "How should I store my perfumes?", "answer": "Keep them away from direct sunlight and heat. A cool, dark place like a drawer is ideal."}
+    ],
+    "seo_title": "About Our Perfume Collection",
+    "seo_bottom": "At Hello Beauty Blog, we independently test and review perfumes from the world's finest houses. Our collection features iconic fragrances from Chanel, Dior, and YSL alongside niche discoveries."
+  },
+  "fr": {
+    "intro_title": "Votre Guide pour Trouver le Parfum Idéal",
+    "intro": "Découvrez notre collection de parfums de luxe, des classiques intemporels aux créations modernes. Nos experts testent chaque fragrance pour vous aider à trouver votre signature olfactive.",
+    "subcategories": {
+      "gender": {
+        "title": "Par Genre",
+        "items": [
+          {"name": "Femme", "emoji": "👩", "url": "/fr/parfums/?filter=femme"},
+          {"name": "Homme", "emoji": "👨", "url": "/fr/parfums/?filter=homme"},
+          {"name": "Unisexe", "emoji": "⚧️", "url": "/fr/parfums/?filter=unisexe"}
+        ]
+      },
+      "family": {
+        "title": "Par Famille Olfactive",
+        "items": [
+          {"name": "Floral", "emoji": "🌸", "url": "/fr/parfums/?family=floral"},
+          {"name": "Oriental", "emoji": "🌙", "url": "/fr/parfums/?family=oriental"},
+          {"name": "Boisé", "emoji": "🌲", "url": "/fr/parfums/?family=boise"},
+          {"name": "Frais", "emoji": "🍃", "url": "/fr/parfums/?family=frais"}
+        ]
+      },
+      "occasion": {
+        "title": "Par Occasion",
+        "items": [
+          {"name": "Quotidien", "emoji": "☀️", "url": "/fr/parfums/?occasion=quotidien"},
+          {"name": "Soirée", "emoji": "🌃", "url": "/fr/parfums/?occasion=soiree"},
+          {"name": "Été", "emoji": "🏖️", "url": "/fr/parfums/?occasion=ete"},
+          {"name": "Hiver", "emoji": "❄️", "url": "/fr/parfums/?occasion=hiver"}
+        ]
+      }
+    },
+    "faq": [
+      {"question": "Comment choisir le bon parfum ?", "answer": "Considérez votre personnalité et les occasions. Testez sur la peau et attendez 30 minutes pour sentir le fond."},
+      {"question": "Quelle différence entre EDP et EDT ?", "answer": "L'Eau de Parfum contient 15-20% d'huiles et dure 6-8h. L'Eau de Toilette a 5-15% et dure 3-4h."},
+      {"question": "Comment conserver mes parfums ?", "answer": "Gardez-les à l'abri de la lumière et de la chaleur. Un tiroir frais et sombre est idéal."}
+    ],
+    "seo_title": "À Propos de Notre Collection de Parfums",
+    "seo_bottom": "Chez Hello Beauty Blog, nous testons indépendamment les parfums des plus grandes maisons. Notre collection présente des fragrances iconiques de Chanel, Dior et YSL."
+  }
+}
