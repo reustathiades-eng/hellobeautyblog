@@ -10,10 +10,10 @@ categories: ["Perfumes"]
 tags: ["Chanel", "floral aldehydic", "evening", "iconic perfume"]
 keywords: ["Chanel N°5 review", "N°5 perfume", "classic fragrance", "floral aldehydic", "Chanel perfume review"]
 images:
+  - /images/perfumes/chanel-no5-swatch.jpg
   - /images/perfumes/chanel-no5.jpg
   - /images/perfumes/chanel-no5-2.jpg
   - /images/perfumes/chanel-no5-3.jpg
-  - /images/perfumes/chanel-no5-swatch.jpg
 featured: false
 draft: false
 

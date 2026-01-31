@@ -10,8 +10,8 @@ categories: ["Perfumes"]
 tags: ["Hugo Boss", "floral woody", "date night", "office perfume"]
 keywords: ["Boss Alive review", "Hugo Boss perfume", "floral woody fragrance", "Boss Alive longevity", "modern floral perfume"]
 images:
-  - /images/perfumes/boss-alive.jpg
   - /images/perfumes/boss-alive-swatch.jpg
+  - /images/perfumes/boss-alive.jpg
 featured: false
 draft: false
 

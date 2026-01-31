@@ -10,10 +10,10 @@ categories: ["Perfumes"]
 tags: ["Chanel", "floral aldehídico", "ocasiones especiales", "perfume clásico"]
 keywords: ["Chanel N°5 review", "N°5 perfume", "Chanel perfume clásico", "mejor perfume floral", "perfume icónico"]
 images:
+  - /images/perfumes/chanel-no5-swatch.jpg
   - /images/perfumes/chanel-no5.jpg
   - /images/perfumes/chanel-no5-2.jpg
   - /images/perfumes/chanel-no5-3.jpg
-  - /images/perfumes/chanel-no5-swatch.jpg
 featured: false
 draft: false
 
