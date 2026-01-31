@@ -20,3 +20,6 @@ resources/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Secrets
+generation/.secrets/
