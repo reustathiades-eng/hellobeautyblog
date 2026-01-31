@@ -10,7 +10,7 @@
         <nav class="breadcrumb">
             <a href="/{{ $lang }}/">{{ if eq $lang "fr" }}Accueil{{ else if eq $lang "de" }}Startseite{{ else if eq $lang "es" }}Inicio{{ else if eq $lang "ja" }}ホーム{{ else if eq $lang "ko" }}홈{{ else if eq $lang "zh" }}首页{{ else if eq $lang "ar" }}الرئيسية{{ else if eq $lang "hi" }}होम{{ else if eq $lang "it" }}Home{{ else if eq $lang "pt" }}Início{{ else if eq $lang "nl" }}Home{{ else if eq $lang "pl" }}Strona główna{{ else if eq $lang "tr" }}Ana Sayfa{{ else }}Home{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
-            <a href="/{{ $lang }}/makeup/">{{ if eq $lang "fr" }}Maquillage{{ else if eq $lang "de" }}Make-up{{ else if eq $lang "es" }}Maquillaje{{ else if eq $lang "ja" }}メイク{{ else if eq $lang "ko" }}메이크업{{ else if eq $lang "zh" }}彩妆{{ else if eq $lang "ar" }}مكياج{{ else if eq $lang "hi" }}मेकअप{{ else if eq $lang "it" }}Trucco{{ else if eq $lang "pt" }}Maquiagem{{ else if eq $lang "nl" }}Make-up{{ else if eq $lang "pl" }}Makijaż{{ else if eq $lang "tr" }}Makyaj{{ else }}Makeup{{ end }}</a>
+            <a href="/{{ $lang }}/{{ .Section }}/">{{ if eq $lang "fr" }}Maquillage{{ else if eq $lang "de" }}Make-up{{ else if eq $lang "es" }}Maquillaje{{ else if eq $lang "ja" }}メイク{{ else if eq $lang "ko" }}메이크업{{ else if eq $lang "zh" }}彩妆{{ else if eq $lang "ar" }}مكياج{{ else if eq $lang "hi" }}मेकअप{{ else if eq $lang "it" }}Trucco{{ else if eq $lang "pt" }}Maquiagem{{ else if eq $lang "nl" }}Make-up{{ else if eq $lang "pl" }}Makijaż{{ else if eq $lang "tr" }}Makyaj{{ else }}Makeup{{ end }}</a>
             <span class="breadcrumb-sep">›</span>
             <span class="breadcrumb-current">{{ .Title }}</span>
         </nav>
