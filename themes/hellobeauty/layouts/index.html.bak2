@@ -605,69 +605,67 @@
             </div>
             
             <!-- Dynamic Floating Product Cards -->
-            {{ $perfumeSections := slice "perfumes" "parfums" "parfum" "profumi" "perfumy" }}
-            {{ $skincareSections := slice "skincare" "soins" "hautpflege" "cuidado-piel" "cuidados-pele" "huidverzorging" "pielegnacja" "cilt-bakimi" }}
-            {{ $makeupSections := slice "makeup" "maquillage" "make-up" "maquillaje" "trucco" "maquiagem" "makijaz" "makyaj" }}
-            {{ $haircareSections := slice "haircare" "cheveux" "haarpflege" "cabello" "capelli" "cabelos" "haarverzorging" "wlosy" "sac-bakimi" }}
+            {{ $perfumesSlugLocal := "perfumes" }}
+            {{ if eq $lang "fr" }}{{ $perfumesSlugLocal = "parfums" }}
+            {{ else if eq $lang "de" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "it" }}{{ $perfumesSlugLocal = "profumi" }}
+            {{ else if eq $lang "nl" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ else if eq $lang "pl" }}{{ $perfumesSlugLocal = "perfumy" }}
+            {{ else if eq $lang "tr" }}{{ $perfumesSlugLocal = "parfum" }}
+            {{ end }}
             
             <!-- Latest Women's Perfume -->
-            {{ $allPerfumes := where site.RegularPages "Section" "in" $perfumeSections }}
-            {{ $womenPerfumes := where $allPerfumes "Params.gender" "Women" }}
-            {{ $langWomenPerfumes := where $womenPerfumes "Lang" $lang }}
-            {{ $latestWomen := first 1 (sort $langWomenPerfumes "Date" "desc") }}
+            {{ $womenPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Women" }}
+            {{ $latestWomen := first 1 (sort $womenPerfumes "Date" "desc") }}
             {{ range $latestWomen }}
             <a href="{{ .Permalink }}" class="floating-card floating-card-1" title="{{ .Params.brand }} {{ .Params.productName }}">
                 {{ $img := index .Params.images 0 }}
                 <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
-                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Femme{{ else if eq $lang "de" }}Damenparfum{{ else if eq $lang "es" }}Perfume Mujer{{ else if eq $lang "it" }}Profumo Donna{{ else }}Women{{ end }}</span>
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Femme{{ else }}Women{{ end }}</span>
             </a>
             {{ end }}
             
             <!-- Latest Men's Perfume -->
-            {{ $menPerfumes := where $allPerfumes "Params.gender" "Men" }}
-            {{ $langMenPerfumes := where $menPerfumes "Lang" $lang }}
-            {{ $latestMen := first 1 (sort $langMenPerfumes "Date" "desc") }}
+            {{ $menPerfumes := where (where site.RegularPages "Section" "perfumes") "Params.gender" "Men" }}
+            {{ $latestMen := first 1 (sort $menPerfumes "Date" "desc") }}
             {{ range $latestMen }}
             <a href="{{ .Permalink }}" class="floating-card floating-card-2" title="{{ .Params.brand }} {{ .Params.productName }}">
                 {{ $img := index .Params.images 0 }}
                 <img src="{{ $img }}" alt="{{ .Params.brand }} {{ .Params.productName }}">
-                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Homme{{ else if eq $lang "de" }}Herrenparfum{{ else if eq $lang "es" }}Perfume Hombre{{ else if eq $lang "it" }}Profumo Uomo{{ else }}Men{{ end }}</span>
+                <span class="floating-label">{{ if eq $lang "fr" }}Parfum Homme{{ else }}Men{{ end }}</span>
             </a>
             {{ end }}
             
             <!-- Latest Skincare -->
-            {{ $allSkincare := where site.RegularPages "Section" "in" $skincareSections }}
-            {{ $langSkincare := where $allSkincare "Lang" $lang }}
-            {{ $latestSkincare := first 1 (sort $langSkincare "Date" "desc") }}
+            {{ $skincare := where site.RegularPages "Section" "skincare" }}
+            {{ $latestSkincare := first 1 (sort $skincare "Date" "desc") }}
             {{ range $latestSkincare }}
             <a href="{{ .Permalink }}" class="floating-card floating-card-3" title="{{ .Title }}">
                 {{ $img := index .Params.images 0 }}
                 <img src="{{ $img }}" alt="{{ .Title }}">
-                <span class="floating-label">{{ if eq $lang "fr" }}Soins{{ else if eq $lang "de" }}Hautpflege{{ else if eq $lang "es" }}Skincare{{ else if eq $lang "it" }}Skincare{{ else }}Skincare{{ end }}</span>
+                <span class="floating-label">{{ if eq $lang "fr" }}Soins{{ else }}Skincare{{ end }}</span>
             </a>
             {{ end }}
             
             <!-- Latest Makeup -->
-            {{ $allMakeup := where site.RegularPages "Section" "in" $makeupSections }}
-            {{ $langMakeup := where $allMakeup "Lang" $lang }}
-            {{ $latestMakeup := first 1 (sort $langMakeup "Date" "desc") }}
+            {{ $makeup := where site.RegularPages "Section" "makeup" }}
+            {{ $latestMakeup := first 1 (sort $makeup "Date" "desc") }}
             {{ range $latestMakeup }}
             <a href="{{ .Permalink }}" class="floating-card floating-card-4" title="{{ .Title }}">
                 {{ $img := index .Params.images 0 }}
                 <img src="{{ $img }}" alt="{{ .Title }}">
-                <span class="floating-label">{{ if eq $lang "fr" }}Maquillage{{ else if eq $lang "de" }}Make-up{{ else if eq $lang "es" }}Maquillaje{{ else if eq $lang "it" }}Trucco{{ else }}Makeup{{ end }}</span>
+                <span class="floating-label">{{ if eq $lang "fr" }}Maquillage{{ else }}Makeup{{ end }}</span>
             </a>
             {{ end }}
             
             <!-- Latest Haircare -->
-            {{ $allHaircare := where site.RegularPages "Section" "in" $haircareSections }}
-            {{ $langHaircare := where $allHaircare "Lang" $lang }}
-            {{ $latestHaircare := first 1 (sort $langHaircare "Date" "desc") }}
+            {{ $haircare := where site.RegularPages "Section" "haircare" }}
+            {{ $latestHaircare := first 1 (sort $haircare "Date" "desc") }}
             {{ range $latestHaircare }}
             <a href="{{ .Permalink }}" class="floating-card floating-card-5" title="{{ .Title }}">
                 {{ $img := index .Params.images 0 }}
                 <img src="{{ $img }}" alt="{{ .Title }}">
-                <span class="floating-label">{{ if eq $lang "fr" }}Cheveux{{ else if eq $lang "de" }}Haarpflege{{ else if eq $lang "es" }}Cabello{{ else if eq $lang "it" }}Capelli{{ else }}Haircare{{ end }}</span>
+                <span class="floating-label">{{ if eq $lang "fr" }}Cheveux{{ else }}Haircare{{ end }}</span>
             </a>
             {{ end }}
         </div>
@@ -772,8 +770,7 @@
 <!-- ============================================================================
      SECTION 4: NEW ARRIVALS (Latest Products)
 ============================================================================= -->
-{{ $allSections := slice "perfumes" "parfums" "parfum" "profumi" "perfumy" "skincare" "soins" "hautpflege" "cuidado-piel" "cuidados-pele" "huidverzorging" "pielegnacja" "cilt-bakimi" "makeup" "maquillage" "make-up" "maquillaje" "trucco" "maquiagem" "makijaz" "makyaj" "haircare" "cheveux" "haarpflege" "cabello" "capelli" "cabelos" "haarverzorging" "wlosy" "sac-bakimi" }}
-{{ $allProducts := where (where site.RegularPages "Section" "in" $allSections) "Lang" $lang }}
+{{ $allProducts := where site.RegularPages "Section" "in" (slice "perfumes" "skincare" "makeup" "haircare") }}
 {{ $latestProducts := first 8 (sort $allProducts "Date" "desc") }}
 {{ if $latestProducts }}
 <section class="latest-section">
