@@ -1,4 +1,4 @@
 ---
 title: "Perfumes"
-description: "Descubre nuestras reseñas de perfumes, pirámides olfativas y recomendaciones para mujer y hombre."
+description: "Descubre nuestra colección completa de fragancias para mujer, hombre y unisex."
 ---

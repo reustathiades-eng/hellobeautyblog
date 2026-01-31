@@ -1,4 +1,4 @@
 ---
 title: "Trucco"
-description: "Le ultime recensioni di prodotti trucco, tutorial e tendenze beauty."
+description: "Le ultime recensioni di prodotti makeup, tutorial e tendenze beauty."
 ---

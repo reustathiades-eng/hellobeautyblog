@@ -1,77 +1,124 @@
 # =============================================================================
-# REDIRECTIONS - HelloBeautyBlog
+# REDIRECTIONS - HelloBeautyBlog.com
+# Redirect English slugs to localized slugs for each language
 # =============================================================================
 
-# Root redirect
+# Root redirect to default language
 / /en/ 302
 
 # =============================================================================
-# REDIRECTIONS ANCIENNES URLS CATÉGORIES (301 permanent)
+# LEGACY URL REDIRECTS (from old WordPress site)
 # =============================================================================
+/2010/05/easy-elegant-diy-jewelry-storage-display/* /en/blog/diy-jewelry-storage-display/ 301
+/2011/09/love-your-lips-top-tips-and-beauty-picks-for-soft-supple-lips/* /en/skincare/soft-supple-lips-tips/ 301
 
-# FR: perfumes -> parfums
+# =============================================================================
+# FRANÇAIS (FR) - English slugs → French slugs
+# =============================================================================
 /fr/perfumes/* /fr/parfums/:splat 301
+/fr/perfumes /fr/parfums/ 301
 /fr/skincare/* /fr/soins/:splat 301
+/fr/skincare /fr/soins/ 301
 /fr/makeup/* /fr/maquillage/:splat 301
+/fr/makeup /fr/maquillage/ 301
 /fr/haircare/* /fr/cheveux/:splat 301
+/fr/haircare /fr/cheveux/ 301
 /fr/brands/* /fr/marques/:splat 301
+/fr/guides/* /fr/guides/:splat 301
 
-# DE: perfumes -> parfum
+# =============================================================================
+# ALLEMAND (DE) - English slugs → German slugs
+# =============================================================================
 /de/perfumes/* /de/parfum/:splat 301
+/de/perfumes /de/parfum/ 301
 /de/skincare/* /de/hautpflege/:splat 301
+/de/skincare /de/hautpflege/ 301
 /de/makeup/* /de/make-up/:splat 301
+/de/makeup /de/make-up/ 301
 /de/haircare/* /de/haarpflege/:splat 301
+/de/haircare /de/haarpflege/ 301
 /de/brands/* /de/marken/:splat 301
 /de/guides/* /de/ratgeber/:splat 301
 
-# ES
+# =============================================================================
+# ESPAGNOL (ES) - English slugs → Spanish slugs
+# =============================================================================
 /es/skincare/* /es/cuidado-piel/:splat 301
+/es/skincare /es/cuidado-piel/ 301
 /es/makeup/* /es/maquillaje/:splat 301
+/es/makeup /es/maquillaje/ 301
 /es/haircare/* /es/cabello/:splat 301
+/es/haircare /es/cabello/ 301
 /es/brands/* /es/marcas/:splat 301
 /es/guides/* /es/guias/:splat 301
 
-# IT
+# =============================================================================
+# ITALIEN (IT) - English slugs → Italian slugs
+# =============================================================================
 /it/perfumes/* /it/profumi/:splat 301
+/it/perfumes /it/profumi/ 301
 /it/makeup/* /it/trucco/:splat 301
+/it/makeup /it/trucco/ 301
 /it/haircare/* /it/capelli/:splat 301
+/it/haircare /it/capelli/ 301
 /it/brands/* /it/marchi/:splat 301
 /it/guides/* /it/guide/:splat 301
 
-# PT
+# =============================================================================
+# PORTUGAIS (PT) - English slugs → Portuguese slugs
+# =============================================================================
+/pt/skincare/* /pt/cuidados-pele/:splat 301
+/pt/skincare /pt/cuidados-pele/ 301
 /pt/makeup/* /pt/maquiagem/:splat 301
+/pt/makeup /pt/maquiagem/ 301
 /pt/haircare/* /pt/cabelos/:splat 301
+/pt/haircare /pt/cabelos/ 301
 /pt/brands/* /pt/marcas/:splat 301
 /pt/guides/* /pt/guias/:splat 301
 
-# NL
+# =============================================================================
+# NÉERLANDAIS (NL) - English slugs → Dutch slugs
+# =============================================================================
 /nl/perfumes/* /nl/parfum/:splat 301
+/nl/perfumes /nl/parfum/ 301
 /nl/skincare/* /nl/huidverzorging/:splat 301
+/nl/skincare /nl/huidverzorging/ 301
 /nl/makeup/* /nl/make-up/:splat 301
+/nl/makeup /nl/make-up/ 301
 /nl/haircare/* /nl/haarverzorging/:splat 301
+/nl/haircare /nl/haarverzorging/ 301
 /nl/brands/* /nl/merken/:splat 301
 /nl/guides/* /nl/gidsen/:splat 301
 
-# PL
+# =============================================================================
+# POLONAIS (PL) - English slugs → Polish slugs
+# =============================================================================
 /pl/perfumes/* /pl/perfumy/:splat 301
+/pl/perfumes /pl/perfumy/ 301
 /pl/skincare/* /pl/pielegnacja/:splat 301
+/pl/skincare /pl/pielegnacja/ 301
 /pl/makeup/* /pl/makijaz/:splat 301
+/pl/makeup /pl/makijaz/ 301
 /pl/haircare/* /pl/wlosy/:splat 301
+/pl/haircare /pl/wlosy/ 301
 /pl/brands/* /pl/marki/:splat 301
 /pl/guides/* /pl/poradniki/:splat 301
 
-# TR
+# =============================================================================
+# TURC (TR) - English slugs → Turkish slugs
+# =============================================================================
 /tr/perfumes/* /tr/parfum/:splat 301
+/tr/perfumes /tr/parfum/ 301
 /tr/skincare/* /tr/cilt-bakimi/:splat 301
+/tr/skincare /tr/cilt-bakimi/ 301
 /tr/makeup/* /tr/makyaj/:splat 301
+/tr/makeup /tr/makyaj/ 301
 /tr/haircare/* /tr/sac-bakimi/:splat 301
+/tr/haircare /tr/sac-bakimi/ 301
 /tr/brands/* /tr/markalar/:splat 301
-/tr/guides/* /tr/rehber/:splat 301
+/tr/guides/* /tr/rehberler/:splat 301
 
 # =============================================================================
-# MIGRATIONS ANCIENNES URLS WORDPRESS
+# JAPONAIS, CORÉEN, CHINOIS, ARABE, HINDI - Keep English slugs
 # =============================================================================
-
-/2010/05/easy-elegant-diy-jewelry-storage-display/ /en/blog/diy-jewelry-storage-display/ 301
-/2011/09/love-your-lips-top-tips-and-beauty-picks-for-soft-supple-lips/ /en/skincare/soft-supple-lips-tips/ 301
-
+# No redirects needed - these languages use English slugs
