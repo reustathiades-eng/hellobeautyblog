@@ -19,7 +19,7 @@ draft: false
 brand: "Giorgio Armani"
 productName: "Acqua di Giò"
 concentration: "Eau de Toilette"
-gender: "Homme"
+gender: "Men"
 price: "85 €"
 rating: 4.5
 topNotes:
