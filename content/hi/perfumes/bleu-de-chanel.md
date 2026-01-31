@@ -18,7 +18,7 @@ draft: false
 brand: "Chanel"
 productName: "Bleu de Chanel"
 concentration: "Eau de Parfum"
-gender: "पुरुष"
+gender: "Men"
 price: "125 €"
 rating: 4.6
 topNotes:

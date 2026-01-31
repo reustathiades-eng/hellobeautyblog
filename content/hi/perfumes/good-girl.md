@@ -19,7 +19,7 @@ draft: false
 brand: "Carolina Herrera"
 productName: "Good Girl"
 concentration: "Eau de Parfum"
-gender: "महिला"
+gender: "Women"
 price: "95 €"
 rating: 4.4
 topNotes:

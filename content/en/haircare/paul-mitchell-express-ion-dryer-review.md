@@ -1,6 +1,8 @@
 ---
 title: "Paul Mitchell Express Ion Dryer Review"
 date: 2011-04-25
+images:
+  - /images/haircare/paul-mitchell-express-ion-dryer-review.jpg
 categories: ["Haircare"]
 brand: "Paul Mitchell"
 productName: "Express Ion Dryer"

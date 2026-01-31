@@ -1,6 +1,8 @@
 ---
 title: "Living Proof No Frizz Review"
 date: 2010-09-15
+images:
+  - /images/haircare/living-proof-no-frizz-review.jpg
 categories: ["Haircare"]
 brand: "Living Proof"
 productName: "No Frizz"

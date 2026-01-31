@@ -21,7 +21,7 @@ draft: false
 brand: "Chanel"
 productName: "N°5"
 concentration: "浓香水"
-gender: "女士"
+gender: "Women"
 price: "€135"
 rating: 5
 

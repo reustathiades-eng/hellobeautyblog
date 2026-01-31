@@ -19,7 +19,7 @@ draft: false
 brand: "Dior"
 productName: "J'adore"
 concentration: "Eau de Parfum"
-gender: "Kadın"
+gender: "Women"
 price: "120 €"
 rating: 4.6
 topNotes:

@@ -20,7 +20,7 @@ draft: false
 brand: "샤넬"
 productName: "N°5"
 concentration: "오 드 퍼퓸"
-gender: "여성"
+gender: "Women"
 price: "€135"
 rating: 5
 

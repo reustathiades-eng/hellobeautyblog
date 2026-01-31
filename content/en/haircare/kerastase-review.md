@@ -1,6 +1,8 @@
 ---
 title: "Kérastase Review - The Secret to Shiny Hair"
 date: 2010-08-20
+images:
+  - /images/haircare/kerastase-review.jpg
 slug: kerastase-review
 brand: "Kérastase"
 tags: ["haircare", "Kérastase", "shiny hair"]

@@ -19,7 +19,7 @@ draft: false
 brand: "Paco Rabanne"
 productName: "1 Million"
 concentration: "Eau de Toilette"
-gender: "Hombre"
+gender: "Men"
 price: "80 €"
 rating: 4.3
 topNotes:

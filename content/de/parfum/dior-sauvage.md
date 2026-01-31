@@ -18,7 +18,7 @@ draft: false
 brand: "Dior"
 productName: "Sauvage"
 concentration: "Eau de Toilette"
-gender: "Herren"
+gender: "Men"
 price: "95 €"
 rating: 4.5
 topNotes:

@@ -19,7 +19,7 @@ draft: false
 brand: "Dior"
 productName: "Miss Dior"
 concentration: "Eau de Parfum"
-gender: "여성"
+gender: "Women"
 price: "110 €"
 rating: 4.5
 topNotes:

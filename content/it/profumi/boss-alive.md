@@ -17,7 +17,7 @@ draft: false
 brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
-gender: "Donna"
+gender: "Women"
 price: "89 €"
 rating: 4.5
 topNotes:

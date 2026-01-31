@@ -20,7 +20,7 @@ draft: false
 brand: "シャネル"
 productName: "N°5"
 concentration: "オードパルファム"
-gender: "女性用"
+gender: "Women"
 price: "€135"
 rating: 5
 

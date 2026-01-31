@@ -19,7 +19,7 @@ draft: false
 brand: "Guerlain"
 productName: "Shalimar"
 concentration: "Eau de Parfum"
-gender: "Donna"
+gender: "Women"
 price: "115 €"
 rating: 4.8
 topNotes:

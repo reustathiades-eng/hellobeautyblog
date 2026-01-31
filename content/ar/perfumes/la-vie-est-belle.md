@@ -19,7 +19,7 @@ draft: false
 brand: "Lancôme"
 productName: "La Vie Est Belle"
 concentration: "Eau de Parfum"
-gender: "نسائي"
+gender: "Women"
 price: "95 €"
 rating: 4.4
 topNotes:

@@ -19,7 +19,7 @@ draft: false
 brand: "Yves Saint Laurent"
 productName: "Black Opium"
 concentration: "Eau de Parfum"
-gender: "Donna"
+gender: "Women"
 price: "100 €"
 rating: 4.5
 topNotes:

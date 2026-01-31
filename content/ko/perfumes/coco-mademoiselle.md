@@ -18,7 +18,7 @@ draft: false
 brand: "Chanel"
 productName: "Coco Mademoiselle"
 concentration: "Eau de Parfum"
-gender: "여성"
+gender: "Women"
 price: "135 €"
 rating: 4.7
 topNotes:

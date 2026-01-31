@@ -20,7 +20,7 @@ draft: false
 brand: "شانيل"
 productName: "N°5"
 concentration: "أو دو بارفان"
-gender: "نساء"
+gender: "Women"
 price: "€135"
 rating: 5
 
