@@ -1,0 +1,7 @@
+---
+title: "Oriental Woody Perfumes"
+description: "The fusion of eastern spices and noble woods in oriental woody fragrances."
+emoji: "🪵"
+subcategory_type: "subfamily"
+subcategory_value: "oriental-woody"
+---
