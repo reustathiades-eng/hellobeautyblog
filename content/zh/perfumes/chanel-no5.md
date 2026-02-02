@@ -22,6 +22,12 @@ brand: "Chanel"
 productName: "N°5"
 concentration: "浓香水"
 gender: "Women"
+family: "floral"
+subfamily: "floral-aldehyde"
+occasion:
+  - "Evening"
+  - "Wedding"
+  - "Winter"
 price: "€135"
 rating: 5
 
@@ -50,10 +56,6 @@ season:
   - "秋季"
   - "冬季"
   - "春季"
-occasion:
-  - "晚间场合"
-  - "特殊场合"
-  - "正式活动"
 
 translationKey: "chanel-no5"
 ---

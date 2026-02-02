@@ -20,6 +20,12 @@ brand: "Dior"
 productName: "Miss Dior"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "floral"
+subfamily: "floral-fruity"
+occasion:
+  - "Everyday"
+  - "Romantic"
+  - "Wedding"
 price: "110 €"
 rating: 4.5
 topNotes:
@@ -40,10 +46,6 @@ season:
   - "Primavera"
   - "Estate"
   - "Autunno"
-occasion:
-  - "null"
-  - "Appuntamento"
-  - "null"
 translationKey: "miss-dior"
 ---
 

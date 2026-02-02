@@ -19,6 +19,12 @@ brand: "Chanel"
 productName: "Bleu de Chanel"
 concentration: "Eau de Parfum"
 gender: "Men"
+family: "woody"
+subfamily: "woody-aromatic"
+occasion:
+  - "Everyday"
+  - "Office"
+  - "Travel"
 price: "125 €"
 rating: 4.6
 topNotes:
@@ -42,11 +48,6 @@ season:
   - "Verão"
   - "Outono"
   - "Inverno"
-occasion:
-  - "null"
-  - "null"
-  - "Encontro"
-  - "Formal"
 translationKey: "bleu-de-chanel"
 ---
 

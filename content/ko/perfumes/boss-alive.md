@@ -18,6 +18,12 @@ brand: "Hugo Boss"
 productName: "Boss Alive"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "fresh"
+subfamily: "fresh-green"
+occasion:
+  - "Everyday"
+  - "Office"
+  - "Summer"
 price: "89 €"
 rating: 4.5
 topNotes:
@@ -38,10 +44,6 @@ season:
   - "봄"
   - "여름"
   - "가을"
-occasion:
-  - "오피스"
-  - "캐주얼"
-  - "데이트"
 translationKey: "boss-alive"
 ---
 

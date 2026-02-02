@@ -20,6 +20,12 @@ brand: "Dior"
 productName: "J'adore"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "floral"
+subfamily: "floral-white"
+occasion:
+  - "Evening"
+  - "Wedding"
+  - "Romantic"
 price: "120 €"
 rating: 4.6
 topNotes:
@@ -42,10 +48,6 @@ season:
   - "봄"
   - "여름"
   - "가을"
-occasion:
-  - "null"
-  - "데이트"
-  - "특별한 날"
 translationKey: "jadore"
 ---
 

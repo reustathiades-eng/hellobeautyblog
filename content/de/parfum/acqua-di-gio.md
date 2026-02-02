@@ -20,6 +20,12 @@ brand: "Giorgio Armani"
 productName: "Acqua di Giò"
 concentration: "Eau de Toilette"
 gender: "Men"
+family: "fresh"
+subfamily: "fresh-aquatic"
+occasion:
+  - "Everyday"
+  - "Summer"
+  - "Sport"
 price: "85 €"
 rating: 4.5
 topNotes:
@@ -41,11 +47,6 @@ sillage: "Moderat"
 season:
   - "Frühling"
   - "Sommer"
-occasion:
-  - "null"
-  - "Casual"
-  - "null"
-  - "null"
 translationKey: "acqua-di-gio"
 ---
 

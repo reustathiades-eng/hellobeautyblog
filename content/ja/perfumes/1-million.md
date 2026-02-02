@@ -20,6 +20,12 @@ brand: "Paco Rabanne"
 productName: "1 Million"
 concentration: "Eau de Toilette"
 gender: "Men"
+family: "woody"
+subfamily: "woody-spicy"
+occasion:
+  - "Evening"
+  - "Romantic"
+  - "Winter"
 price: "80 €"
 rating: 4.3
 topNotes:
@@ -41,10 +47,6 @@ season:
   - "秋"
   - "冬"
   - "春"
-occasion:
-  - "夜"
-  - "デート"
-  - "null"
 translationKey: "1-million"
 ---
 

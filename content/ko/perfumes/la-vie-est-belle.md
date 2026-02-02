@@ -20,6 +20,12 @@ brand: "Lancôme"
 productName: "La Vie Est Belle"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "floral"
+subfamily: "floral-fruity"
+occasion:
+  - "Everyday"
+  - "Romantic"
+  - "Office"
 price: "95 €"
 rating: 4.4
 topNotes:
@@ -40,10 +46,6 @@ season:
   - "가을"
   - "겨울"
   - "봄"
-occasion:
-  - "null"
-  - "데이트"
-  - "저녁"
 translationKey: "la-vie-est-belle"
 ---
 

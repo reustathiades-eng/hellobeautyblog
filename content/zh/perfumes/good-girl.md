@@ -20,6 +20,12 @@ brand: "Carolina Herrera"
 productName: "Good Girl"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "oriental"
+subfamily: "oriental-spicy"
+occasion:
+  - "Evening"
+  - "Romantic"
+  - "Winter"
 price: "95 €"
 rating: 4.4
 topNotes:
@@ -40,10 +46,6 @@ sillage: "浓郁"
 season:
   - "秋季"
   - "冬季"
-occasion:
-  - "晚间"
-  - "约会"
-  - "null"
 translationKey: "good-girl"
 ---
 

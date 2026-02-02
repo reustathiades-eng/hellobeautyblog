@@ -21,6 +21,12 @@ brand: "シャネル"
 productName: "N°5"
 concentration: "オードパルファム"
 gender: "Women"
+family: "floral"
+subfamily: "floral-aldehyde"
+occasion:
+  - "Evening"
+  - "Wedding"
+  - "Winter"
 price: "€135"
 rating: 5
 
@@ -47,10 +53,6 @@ season:
   - "秋"
   - "冬"
   - "春"
-occasion:
-  - "イブニング"
-  - "特別な日"
-  - "フォーマル"
 
 translationKey: "chanel-no5"
 ---

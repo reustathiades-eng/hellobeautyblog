@@ -24,3 +24,4 @@ Thumbs.db
 # Secrets
 generation/.secrets/
 .secrets
+docs/CREDENTIALS.md

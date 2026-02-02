@@ -20,6 +20,12 @@ brand: "Yves Saint Laurent"
 productName: "Black Opium"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "oriental"
+subfamily: "oriental-vanilla"
+occasion:
+  - "Evening"
+  - "Winter"
+  - "Romantic"
 price: "100 €"
 rating: 4.5
 topNotes:
@@ -40,10 +46,6 @@ sillage: "Fuerte"
 season:
   - "Otoño"
   - "Invierno"
-occasion:
-  - "Noche"
-  - "Cita"
-  - "null"
 translationKey: "black-opium"
 ---
 

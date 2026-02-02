@@ -21,6 +21,12 @@ brand: "شانيل"
 productName: "N°5"
 concentration: "أو دو بارفان"
 gender: "Women"
+family: "floral"
+subfamily: "floral-aldehyde"
+occasion:
+  - "Evening"
+  - "Wedding"
+  - "Winter"
 price: "€135"
 rating: 5
 
@@ -47,10 +53,6 @@ season:
   - "خريف"
   - "شتاء"
   - "ربيع"
-occasion:
-  - "مساء"
-  - "مناسبات خاصة"
-  - "رسمي"
 
 translationKey: "chanel-no5"
 ---

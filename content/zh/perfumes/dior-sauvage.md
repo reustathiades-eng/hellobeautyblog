@@ -19,6 +19,12 @@ brand: "Dior"
 productName: "Sauvage"
 concentration: "Eau de Toilette"
 gender: "Men"
+family: "woody"
+subfamily: "woody-spicy"
+occasion:
+  - "Everyday"
+  - "Office"
+  - "Sport"
 price: "95 €"
 rating: 4.5
 topNotes:
@@ -38,10 +44,6 @@ season:
   - "春季"
   - "秋季"
   - "冬季"
-occasion:
-  - "日常"
-  - "约会"
-  - "晚间"
 translationKey: "dior-sauvage"
 ---
 

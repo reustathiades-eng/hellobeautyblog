@@ -21,6 +21,12 @@ brand: "샤넬"
 productName: "N°5"
 concentration: "오 드 퍼퓸"
 gender: "Women"
+family: "floral"
+subfamily: "floral-aldehyde"
+occasion:
+  - "Evening"
+  - "Wedding"
+  - "Winter"
 price: "€135"
 rating: 5
 
@@ -47,10 +53,6 @@ season:
   - "가을"
   - "겨울"
   - "봄"
-occasion:
-  - "이브닝"
-  - "특별한 날"
-  - "포멀"
 
 translationKey: "chanel-no5"
 ---

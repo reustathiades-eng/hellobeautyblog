@@ -20,6 +20,12 @@ brand: "Guerlain"
 productName: "Shalimar"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "oriental"
+subfamily: "oriental-amber"
+occasion:
+  - "Evening"
+  - "Winter"
+  - "Wedding"
 price: "115 €"
 rating: 4.8
 topNotes:
@@ -42,10 +48,6 @@ sillage: "강함"
 season:
   - "가을"
   - "겨울"
-occasion:
-  - "저녁"
-  - "특별한 날"
-  - "포멀"
 translationKey: "guerlain-shalimar"
 ---
 

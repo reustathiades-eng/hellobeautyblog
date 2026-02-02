@@ -19,6 +19,12 @@ brand: "Chanel"
 productName: "Coco Mademoiselle"
 concentration: "Eau de Parfum"
 gender: "Women"
+family: "oriental"
+subfamily: "oriental-floral"
+occasion:
+  - "Everyday"
+  - "Office"
+  - "Travel"
 price: "135 €"
 rating: 4.7
 topNotes:
@@ -40,10 +46,6 @@ season:
   - "春季"
   - "夏季"
   - "秋季"
-occasion:
-  - "null"
-  - "null"
-  - "约会"
 translationKey: "coco-mademoiselle"
 ---
 
