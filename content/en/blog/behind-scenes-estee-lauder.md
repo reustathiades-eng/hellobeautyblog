@@ -1,5 +1,6 @@
 ---
 title: "Behind the Scenes at Estee Lauder"
+translationKey: "behind-scenes-estee-lauder"
 date: 2009-12-10
 categories: ["Blog"]
 brand: "Estée Lauder"

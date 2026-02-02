@@ -1,5 +1,6 @@
 ---
 title: "Benefit Bella Bamba Review with Swatches"
+translationKey: "benefit-bella-bamba-review-swatches"
 date: 2011-02-15
 categories: ["Makeup"]
 brand: "Benefit Cosmetics"

@@ -1,5 +1,6 @@
 ---
 title: "Benefit Brow Bar Birthday Gift"
+translationKey: "benefit-brow-bar-birthday-gift"
 date: 2011-03-10
 categories: ["Makeup"]
 brand: "Benefit Cosmetics"

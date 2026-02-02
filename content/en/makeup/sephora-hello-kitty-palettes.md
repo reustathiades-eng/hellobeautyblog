@@ -1,5 +1,6 @@
 ---
 title: "Sephora Hello Kitty Palettes"
+translationKey: "sephora-hello-kitty-palettes"
 date: 2012-08-15
 categories: ["Makeup"]
 brand: "Sephora"

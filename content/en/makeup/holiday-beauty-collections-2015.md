@@ -1,5 +1,6 @@
 ---
 title: "Holiday Beauty Collections 2015"
+translationKey: "holiday-beauty-collections-2015"
 date: 2015-11-15
 categories: ["Makeup"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Guerlain Fall 2010 Collection Review"
+translationKey: "guerlain-fall-2010-collection-review"
 date: 2010-10-10
 categories: ["Makeup"]
 brand: "Guerlain"

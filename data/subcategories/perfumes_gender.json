@@ -1,0 +1,870 @@
+{
+  "en": {
+    "Women": {
+      "intro_title": "Exquisite Women's Perfumes for Every Occasion",
+      "intro": "Discover our curated collection of women's perfumes, featuring sophisticated florals, captivating orientals, and fresh citrus compositions. From delicate eau de toilettes perfect for daytime wear to intense eau de parfums for evening elegance, explore fragrances that celebrate feminine grace. Each scent tells a unique story through carefully crafted top, heart, and base notes.",
+      "faq": [
+        {
+          "question": "What are the most popular fragrance families for women?",
+          "answer": "Floral, oriental, and fruity fragrances dominate women's perfumery. Floral scents featuring rose, jasmine, and peony remain timeless classics, while modern women also embrace woody and fresh compositions for versatility."
+        },
+        {
+          "question": "How do I choose the right women's perfume for my style?",
+          "answer": "Consider your lifestyle and preferences. Light florals suit romantic personalities, while bold orientals complement confident women. Test fragrances on your skin, as body chemistry affects how notes develop throughout the day."
+        },
+        {
+          "question": "What's the difference between eau de toilette and eau de parfum for women?",
+          "answer": "Eau de parfum contains 15-20% fragrance oils, offering longer wear and richer projection. Eau de toilette has 5-15% concentration, providing a lighter, more refreshing experience perfect for daily wear."
+        }
+      ],
+      "seo_title": "Women's Perfume Expertise at Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog specializes in curating the finest women's perfumes from prestigious houses and emerging niche brands. Our expert reviews and detailed fragrance analyses help you discover your signature scent. Trust our deep knowledge of feminine fragrances to guide your next perfume purchase decision."
+    },
+    "Men": {
+      "intro_title": "Sophisticated Men's Fragrances for Every Occasion",
+      "intro": "Discover our curated collection of men's perfumes featuring bold woody notes, fresh citrus accords, and warm spicy blends. From sophisticated eau de parfums to everyday colognes, these masculine fragrances showcase craftsmanship from renowned perfume houses. Each scent captures distinctive character through carefully selected base notes of sandalwood, cedar, and amber.",
+      "faq": [
+        {
+          "question": "What are the most popular fragrance families for men?",
+          "answer": "Woody, oriental, and fresh aromatic families dominate men's fragrances. Woody scents feature sandalwood and cedar, while oriental blends include spices and amber for warmth and sophistication."
+        },
+        {
+          "question": "How long do men's perfumes typically last?",
+          "answer": "Men's eau de parfums last 6-8 hours, while eau de toilettes provide 3-5 hours of wear. Concentration levels and skin chemistry affect longevity and projection."
+        },
+        {
+          "question": "Which masculine scents work best for professional settings?",
+          "answer": "Fresh citrus colognes and subtle woody fragrances are ideal for office environments. Avoid heavy oriental or overly sweet compositions that might be overwhelming in close quarters."
+        }
+      ],
+      "seo_title": "Premium Men's Perfume Collection",
+      "seo_bottom": "Hello Beauty Blog's men's perfume expertise spans decades of fragrance curation. Our specialists review masculine scents from niche artisans to luxury houses, providing authentic insights into woody, fresh, and oriental compositions that define modern masculine elegance and sophistication."
+    },
+    "Unisex": {
+      "intro_title": "Discover the Art of Unisex Perfumery",
+      "intro": "Unisex perfumes transcend traditional gender boundaries, offering sophisticated fragrance compositions that celebrate individual expression. These versatile scents feature balanced accords of fresh citrus, aromatic herbs, warm woods, and clean musks. Modern unisex fragrances embrace minimalist elegance and contemporary aesthetics, creating olfactory experiences that adapt beautifully to any wearer's unique skin chemistry and personal style.",
+      "faq": [
+        {
+          "question": "What makes a perfume truly unisex?",
+          "answer": "Unisex perfumes feature balanced notes that avoid traditionally masculine or feminine associations. They often incorporate neutral elements like citrus, woods, herbs, and clean musks that complement any wearer naturally."
+        },
+        {
+          "question": "How do unisex fragrances differ from traditional gendered perfumes?",
+          "answer": "Unisex fragrances focus on universal appeal rather than gender-specific marketing. They emphasize fresh, clean, or woody notes that smell equally appealing on different skin types and body chemistry."
+        },
+        {
+          "question": "Can couples share unisex perfumes?",
+          "answer": "Absolutely! Unisex perfumes are perfect for sharing, as they're designed to smell beautiful on anyone. The fragrance will develop slightly differently on each person's skin, creating unique yet harmonious scent profiles."
+        }
+      ],
+      "seo_title": "Premium Unisex Fragrance Collection",
+      "seo_bottom": "Hello Beauty Blog curates exceptional unisex perfumes from renowned niche and luxury houses. Our expert team selects versatile fragrances that celebrate modern perfumery's gender-neutral evolution. Discover contemporary scents that transcend traditional boundaries, offering sophisticated olfactory experiences for discerning fragrance enthusiasts seeking inclusive, high-quality perfumes."
+    }
+  },
+  "fr": {
+    "Women": {
+      "intro_title": "Parfums Féminins de Luxe et d'Exception",
+      "intro": "Découvrez notre sélection raffinée de parfums pour femmes, où chaque fragrance raconte une histoire unique. Des notes florales délicates aux compositions orientales sensuelles, en passant par les accords fruités pétillants et les essences boisées sophistiquées, notre collection célèbre la féminité sous toutes ses facettes. Chaque parfum féminin révèle votre personnalité avec élégance et caractère.",
+      "faq": [
+        {
+          "question": "Quelles sont les familles olfactives les plus populaires pour les parfums féminins ?",
+          "answer": "Les familles florales, orientales et fruités dominent l'univers des parfums féminins. Les compositions florales-fruitées et chyprées restent également très appréciées pour leur élégance intemporelle et leur sophistication naturelle."
+        },
+        {
+          "question": "Comment choisir un parfum féminin selon sa personnalité ?",
+          "answer": "Pour une personnalité romantique, privilégiez les floraux poudrés. Les femmes dynamiques opteront pour des compositions fraîches et pétillantes. Les personnalités mystérieuses préféreront les orientaux sensuels aux notes de vanille et d'ambre."
+        },
+        {
+          "question": "Quelle différence entre eau de toilette et eau de parfum pour femmes ?",
+          "answer": "L'eau de parfum contient 10-20% de concentré aromatique, offrant une tenue plus longue et une projection intense. L'eau de toilette, avec 5-15% de concentration, propose une fraîcheur plus légère, idéale pour un usage quotidien."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog, Expert Parfums Féminins",
+      "seo_bottom": "Hello Beauty Blog vous accompagne dans l'univers sophistiqué des parfums féminins de luxe. Notre expertise beauté vous guide vers les fragrances qui révèlent votre féminité avec authenticité. Découvrez nos conseils d'experts et notre sélection exclusive de parfums pour femmes, soigneusement choisie pour sublimer chaque personnalité féminine avec raffinement."
+    },
+    "Men": {
+      "intro_title": "Parfums Homme : Élégance et Caractère Masculin",
+      "intro": "Découvrez notre sélection exclusive de parfums pour homme, où se mêlent puissance et raffinement. Des fragrances boisées aux accords épicés, en passant par les notes fraîches et aquatiques, chaque essence révèle la personnalité masculine sous toutes ses facettes. Explorez des créations signées par les plus grands parfumeurs, alliant tradition et modernité pour une signature olfactive unique et mémorable.",
+      "faq": [
+        {
+          "question": "Quelles sont les familles olfactives préférées des hommes ?",
+          "answer": "Les hommes privilégient généralement les familles boisées, orientales et fougères. Les notes de cèdre, vétiver, bergamote et épices dominent souvent ces compositions masculines pour leur caractère affirmé et leur élégance naturelle."
+        },
+        {
+          "question": "Comment choisir un parfum homme selon l'occasion ?",
+          "answer": "Pour le bureau, optez pour des fragrances fraîches et discrètes. Le soir, privilégiez des parfums plus intenses aux notes boisées ou orientales. Les parfums aquatiques conviennent parfaitement aux activités sportives et décontractées."
+        },
+        {
+          "question": "Quelle est la différence entre eau de toilette et eau de parfum pour homme ?",
+          "answer": "L'eau de parfum contient 15-20% de concentré aromatique contre 8-12% pour l'eau de toilette. L'eau de parfum offre donc une tenue plus longue et une intensité supérieure, idéale pour les occasions spéciales."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog, Expert Parfums Masculins",
+      "seo_bottom": "Hello Beauty Blog vous accompagne dans l'univers des parfums masculins avec une expertise pointue. Notre équipe sélectionne rigoureusement chaque fragrance homme, des grands classiques aux créations contemporaines. Profitez de nos conseils personnalisés et découvrez les tendances olfactives qui définissent l'élégance masculine moderne."
+    },
+    "Unisex": {
+      "intro_title": "Parfums Unisexes : L'Art de la Fragrance Partagée",
+      "intro": "Les parfums unisexes transcendent les codes traditionnels de genre pour révéler des compositions olfactives universelles. Ces fragrances sophistiquées explorent des accords boisés, épicés ou aromatiques qui séduisent indifféremment. Notes de cèdre, bergamote, vétiver ou iris composent des sillages intemporels. L'art parfumeur moderne célèbre cette liberté créative où chacun peut exprimer sa personnalité unique à travers des senteurs partagées et harmonieuses.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes les plus populaires dans les parfums unisexes ?",
+          "answer": "Les parfums unisexes privilégient les notes boisées, aromatiques et épicées comme le cèdre, la bergamote, le vétiver, l'encens ou l'iris, créant des compositions équilibrées et universelles."
+        },
+        {
+          "question": "Comment choisir un parfum unisexe adapté à sa personnalité ?",
+          "answer": "Privilégiez des fragrances aux accords qui vous correspondent : fraîches et pétillantes, boisées et sophistiquées, ou orientales et mystérieuses. Testez sur peau pour révéler l'évolution olfactive."
+        },
+        {
+          "question": "Les parfums unisexes ont-ils une bonne tenue sur la peau ?",
+          "answer": "Les parfums unisexes offrent généralement une excellente longévité grâce à leurs compositions riches en notes de fond boisées et ambrées qui fixent durablement le sillage."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog et les Parfums Unisexes",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers raffiné des parfums unisexes de luxe. Notre expertise vous aide à découvrir des fragrances d'exception qui transcendent les genres, des compositions artisanales aux créations de maisons prestigieuses. Explorez notre sélection experte de parfums unisexes authentiques et trouvez votre signature olfactive idéale."
+    }
+  },
+  "de": {
+    "Women": {
+      "intro_title": "Exklusive Damendüfte für jeden Anlass entdecken",
+      "intro": "Tauchen Sie ein in die faszinierende Welt der Damendüfte, wo zeitlose Eleganz auf moderne Raffinesse trifft. Von blumigen Bouquets über orientalische Kompositionen bis hin zu frischen Zitrusnoten – unsere kuratierte Auswahl luxuriöser Damenperfums bietet für jeden Geschmack und Anlass den perfekten Duft. Entdecken Sie ikonische Klassiker und innovative Neukreationen renommierter Parfümhäuser.",
+      "faq": [
+        {
+          "question": "Welche Duftrichtungen sind bei Damenperfums am beliebtesten?",
+          "answer": "Blumige und orientalische Düfte dominieren bei Damenperfums. Besonders gefragt sind Rose, Jasmin, Vanille und Sandelholz sowie moderne Gourmand-Kompositionen mit süßen Nuancen."
+        },
+        {
+          "question": "Wie lange hält ein hochwertiges Damenperfum?",
+          "answer": "Qualitative Damendüfte halten je nach Konzentration 6-12 Stunden. Eau de Parfum bietet die beste Haltbarkeit, während Eau de Toilette leichter und frischer wirkt."
+        },
+        {
+          "question": "Welche Damendüfte eignen sich für den Alltag?",
+          "answer": "Für den Alltag empfehlen sich frische, leichte Kompositionen mit Zitrus-, Grün- oder dezenten Blütennoten. Diese wirken professionell und überwältigen nicht in geschlossenen Räumen."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Damenperfum Expertise",
+      "seo_bottom": "Hello Beauty Blog ist Ihr vertrauensvoller Experte für exklusive Damenperfums. Unser Redaktionsteam testet und bewertet sorgfältig die neuesten Damendüfte von Luxusmarken. Profitieren Sie von unseren detaillierten Bewertungen, Duftbeschreibungen und persönlichen Empfehlungen für Ihren perfekten Signature-Duft."
+    },
+    "Men": {
+      "intro_title": "Exklusive Herrendüfte für den modernen Mann",
+      "intro": "Entdecken Sie unsere erlesene Auswahl an Herrenparfüms, die Maskulinität und Eleganz vereinen. Von frischen Eau de Toilette bis zu intensiven Eau de Parfum – jeder Duft erzählt seine eigene Geschichte. Holzige Noten, würzige Akkorde und aromatische Kompositionen schaffen unverwechselbare Signaturen für jeden Anlass und Stil.",
+      "faq": [
+        {
+          "question": "Welche Duftrichtungen sind bei Herrenparfüms am beliebtesten?",
+          "answer": "Holzige, würzige und frische Kompositionen dominieren bei Herrendüften. Besonders gefragt sind Zedernholz, Sandelholz, Bergamotte, schwarzer Pfeffer und maritime Noten, die Maskulinität und Eleganz unterstreichen."
+        },
+        {
+          "question": "Wie unterscheiden sich Eau de Toilette und Eau de Parfum für Herren?",
+          "answer": "Herren-Eau de Parfum enthält 8-15% Duftöle und hält 6-8 Stunden, während Eau de Toilette mit 5-10% Konzentration etwa 3-5 Stunden anhält. EDT eignet sich für tagsüber, EDP für Abends."
+        },
+        {
+          "question": "Welche Herrendüfte eignen sich für Business und formelle Anlässe?",
+          "answer": "Für Business-Situationen empfehlen sich dezente, sophisticated Düfte mit frischen Zitrusnoten, aromatischen Kräutern oder subtilen Holznuancen. Vermeiden Sie zu intensive oder süße Kompositionen im professionellen Umfeld."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Herrenduft-Expertise",
+      "seo_bottom": "Hello Beauty Blog ist Ihr Spezialist für exklusive Herrenparfüms. Unser Expertenteam kuratiert sorgfältig die neuesten Herrendüfte von Luxusmarken und Nischenhäusern. Profitieren Sie von unserer langjährigen Erfahrung im Bereich maskuliner Parfümerie und finden Sie Ihren perfekten Signature-Duft bei uns."
+    },
+    "Unisex": {
+      "intro_title": "Unisex Parfums: Grenzenlose Duftvielfalt für alle",
+      "intro": "Unisex Parfums durchbrechen traditionelle Geschlechtergrenzen und schaffen zeitlose Dufterlebnisse für jeden. Diese geschlechtsneutralen Kompositionen vereinen maskuline Holznoten mit femininen Blütenakzenten zu harmonischen Kreationen. Von frischen Zitrusdüften bis hin zu warmen Orientalen - Unisex Parfums bieten vielseitige Duftsignaturen, die Individualität und moderne Eleganz verkörpern. Perfekt für Paare, die ihre Düfte teilen möchten.",
+      "faq": [
+        {
+          "question": "Was zeichnet Unisex Parfums aus?",
+          "answer": "Unisex Parfums kombinieren maskuline und feminine Duftnoten zu ausgewogenen Kompositionen. Sie verwenden oft neutrale Akkorde wie Zitrusfrüchte, Hölzer oder frische Kräuter, die von allen Geschlechtern getragen werden können."
+        },
+        {
+          "question": "Welche Duftfamilien sind bei Unisex Parfums beliebt?",
+          "answer": "Besonders beliebte Duftfamilien sind frische Zitrusdüfte, holzige Orientalen, grüne Kräuterkompositionen und aquatische Noten. Diese Kategorien bieten natürliche Balance zwischen traditionell männlichen und weiblichen Duftelementen."
+        },
+        {
+          "question": "Können Paare Unisex Parfums gemeinsam verwenden?",
+          "answer": "Ja, Unisex Parfums sind ideal zum Teilen. Durch die individuelle Hautchemie entwickelt derselbe Duft bei verschiedenen Personen unterschiedliche Nuancen, bleibt aber harmonisch und erkennbar für das Paar."
+        }
+      ],
+      "seo_title": "Premium Unisex Parfums bei Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog präsentiert die exklusivste Auswahl an Unisex Parfums von renommierten Parfumhäusern. Unsere Experten kuratieren geschlechtsneutrale Duftkompositionen, die moderne Eleganz und zeitlose Sophistication vereinen. Entdecken Sie grenzenloses Parfumerlebnis mit unseren sorgfältig ausgewählten Unisex-Kreationen für jeden Anlass."
+    }
+  },
+  "es": {
+    "Women": {
+      "intro_title": "Perfumes para Mujeres: Fragancias Femeninas Exclusivas",
+      "intro": "Descubre nuestra selecta colección de perfumes para mujeres, donde cada fragancia cuenta una historia única. Desde notas florales delicadas hasta composiciones orientales intensas, nuestros perfumes femeninos abrazan la diversidad de la feminidad moderna. Explora eau de parfum, eau de toilette y extraits de parfum de las mejores casas de perfumería internacional, diseñados especialmente para realzar tu personalidad y estilo único.",
+      "faq": [
+        {
+          "question": "¿Qué diferencia hay entre eau de parfum y eau de toilette para mujeres?",
+          "answer": "El eau de parfum contiene mayor concentración de aceites esenciales (15-20%) que el eau de toilette (5-15%), ofreciendo mayor duración y proyección en la piel femenina."
+        },
+        {
+          "question": "¿Cómo elegir el perfume femenino ideal según mi personalidad?",
+          "answer": "Las fragancias florales son perfectas para personalidades románticas, las orientales para mujeres sofisticadas, y las frescas cítricas para espíritus libres y energéticos."
+        },
+        {
+          "question": "¿Cuáles son las notas más populares en perfumes para mujeres?",
+          "answer": "Las notas más apreciadas incluyen rosa, jazmín, vainilla, sándalo, bergamota y pachulí, creando composiciones equilibradas entre frescura, elegancia y sensualidad femenina."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Expertos en Perfumería Femenina",
+      "seo_bottom": "En Hello Beauty Blog somos especialistas en perfumes para mujeres de lujo. Nuestro equipo de expertos selecciona cuidadosamente cada fragancia femenina, ofreciendo reseñas detalladas y guías personalizadas para ayudarte a encontrar tu perfume ideal. Descubre las últimas tendencias en perfumería femenina con nuestra experiencia y pasión por las fragancias exclusivas."
+    },
+    "Men": {
+      "intro_title": "Perfumes Masculinos: Elegancia y Distinción",
+      "intro": "Descubre nuestra exclusiva selección de perfumes masculinos que definen la elegancia moderna. Desde fragancias amaderadas intensas hasta composiciones frescas cítricas, cada perfume está diseñado para realzar la personalidad masculina. Nuestras fragancias combinan notas de salida vibrantes con fondos profundos de sándalo, vetiver y especias, creando aromas únicos que perduran durante todo el día.",
+      "faq": [
+        {
+          "question": "¿Qué tipos de fragancias masculinas son más populares?",
+          "answer": "Las fragancias amaderadas, cítricas y aromáticas son las más demandadas. Los perfumes con notas de bergamota, cedro y especias orientales destacan por su versatilidad y elegancia masculina."
+        },
+        {
+          "question": "¿Cuál es la duración promedio de un perfume masculino?",
+          "answer": "Los perfumes masculinos suelen durar entre 6 a 12 horas, dependiendo de la concentración. Los Eau de Parfum masculinos ofrecen mayor longevidad que las versiones Eau de Toilette."
+        },
+        {
+          "question": "¿Cómo elegir el perfume masculino ideal para cada ocasión?",
+          "answer": "Para el día, opta por fragancias frescas cítricas. Para la noche, elige perfumes intensos con notas amaderadas o especiadas que proyecten masculinidad y sofisticación."
+        }
+      ],
+      "seo_title": "Perfumes Masculinos de Lujo",
+      "seo_bottom": "Hello Beauty Blog se especializa en perfumes masculinos de alta gama, ofreciendo análisis expertos y recomendaciones personalizadas. Nuestro equipo de especialistas en perfumería masculina selecciona las mejores fragancias para el hombre moderno, garantizando autenticidad y calidad premium en cada reseña de nuestro catálogo masculino."
+    },
+    "Unisex": {
+      "intro_title": "Perfumes Unisex: Fragancias Sin Límites de Género",
+      "intro": "Descubre nuestra exclusiva colección de perfumes unisex, donde la sofisticación trasciende las barreras tradicionales. Estas fragancias versátiles combinan notas equilibradas que se adaptan perfectamente tanto a hombres como mujeres. Con composiciones aromáticas únicas que incluyen acordes amaderados, cítricos y florales en perfecta armonía, cada perfume unisex ofrece una experiencia olfativa moderna y atemporal que refleja la personalidad auténtica de quien lo porta.",
+      "faq": [
+        {
+          "question": "¿Qué características tienen los perfumes unisex?",
+          "answer": "Los perfumes unisex se caracterizan por tener composiciones equilibradas con notas que no se asocian tradicionalmente con un género específico, como acordes amaderados, cítricos frescos y especias suaves que resultan atractivos para cualquier persona."
+        },
+        {
+          "question": "¿Cómo elegir el perfume unisex ideal?",
+          "answer": "Para elegir un perfume unisex, considera tu preferencia por familias olfativas: si prefieres frescura opta por cítricos y acuáticos, para algo más sofisticado elige amaderados o orientales con notas equilibradas."
+        },
+        {
+          "question": "¿Los perfumes unisex duran igual que los tradicionales?",
+          "answer": "Sí, la duración de los perfumes unisex depende de su concentración y calidad de ingredientes, no del género. Muchos ofrecen excelente proyección y longevidad comparable a cualquier fragancia premium del mercado."
+        }
+      ],
+      "seo_title": "Perfumes Unisex de Lujo Premium",
+      "seo_bottom": "En Hello Beauty Blog somos expertos en perfumes unisex de alta gama, seleccionando cuidadosamente las mejores fragancias sin género de marcas prestigiosas. Nuestro catálogo incluye desde composiciones frescas y minimalistas hasta orientales complejos, todos con la calidad y exclusividad que caracterizan a las mejores casas perfumeras internacionales para el consumidor más exigente."
+    }
+  },
+  "pt": {
+    "Women": {
+      "intro_title": "Perfumes Femininos: Elegância e Sofisticação",
+      "intro": "Descubra a coleção exclusiva de perfumes femininos do Hello Beauty Blog, onde cada fragrância conta uma história única. Desde florais delicados a orientais intensos, oferecemos essências que realçam a personalidade feminina com notas de topo, meio e fundo cuidadosamente selecionadas. Perfumes que traduzem feminilidade, poder e elegância em cada borrifo.",
+      "faq": [
+        {
+          "question": "Qual a diferença entre eau de parfum e eau de toilette feminino?",
+          "answer": "Eau de parfum feminino possui concentração de 15-20% de essência, durando 6-8 horas. Eau de toilette tem 5-15% de concentração, sendo mais leve e durando 3-5 horas no corpo."
+        },
+        {
+          "question": "Como escolher o perfume feminino ideal para cada ocasião?",
+          "answer": "Para o dia, opte por florais frescos ou cítricos. Para a noite, escolha orientais ou amadeirados. Perfumes leves são ideais para trabalho, enquanto fragrâncias intensas combinam com eventos especiais."
+        },
+        {
+          "question": "Quais são as famílias olfativas mais populares em perfumes femininos?",
+          "answer": "As principais são: floral (rosas, jasmim), frutal (pêssego, maçã), oriental (baunilha, âmbar), chipre (bergamota, musgo) e amadeirado (sândalo, cedro), cada uma oferecendo personalidades distintas."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Perfumes Femininos Premium",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes femininos de luxo. Nossa curadoria seleciona as melhores fragrâncias femininas do mercado, oferecendo desde clássicos atemporais até lançamentos exclusivos. Encontre seu perfume ideal com nossa expertise em beleza premium e descubra essências que definem sua personalidade única."
+    },
+    "Men": {
+      "intro_title": "Perfumes Masculinos de Luxo e Sofisticação",
+      "intro": "Descubra a coleção exclusiva de perfumes masculinos que define elegância e personalidade. De fragrâncias amadeiradas e especiadas às composições frescas e cítricas, cada perfume masculino oferece uma assinatura olfativa única. Explore notas de bergamota, sândalo, vetiver e âmbar que criam experiências sensoriais marcantes para o homem contemporâneo que valoriza qualidade e distinção.",
+      "faq": [
+        {
+          "question": "Quais são as famílias olfativas mais populares em perfumes masculinos?",
+          "answer": "As famílias mais procuradas incluem amadeirada, aromática, oriental e fresca. Notas de cedro, bergamota, patchouli e especiarias são especialmente apreciadas pelo público masculino."
+        },
+        {
+          "question": "Como escolher o perfume masculino ideal para cada ocasião?",
+          "answer": "Para o dia, opte por fragrâncias frescas e cítricas. Para a noite, prefira composições amadeiradas ou orientais. Considere também a estação do ano e seu estilo pessoal."
+        },
+        {
+          "question": "Qual a diferença entre eau de toilette e eau de parfum masculinos?",
+          "answer": "Eau de parfum tem maior concentração de óleos essenciais (15-20%) e maior durabilidade. Eau de toilette é mais leve (5-15%) e ideal para uso diário."
+        }
+      ],
+      "seo_title": "Perfumes Masculinos de Qualidade Premium",
+      "seo_bottom": "O Hello Beauty Blog é referência em perfumaria masculina, oferecendo análises especializadas e seleções curadas dos melhores perfumes para homens. Nossa expertise garante que você encontre a fragrância perfeita que expressa sua personalidade e estilo único, com informações detalhadas sobre notas olfativas e performance."
+    },
+    "Unisex": {
+      "intro_title": "Perfumes Unissex: Elegância Sem Fronteiras de Gênero",
+      "intro": "Os perfumes unissex representam a liberdade olfativa moderna, combinando notas equilibradas que transcendem os limites tradicionais de gênero. Estas fragrâncias versáteis apresentam composições harmoniosas com acordes amadeirados, cítricos e aromáticos, criando perfumes sofisticados que se adaptam à personalidade única de cada utilizador, independentemente do género.",
+      "faq": [
+        {
+          "question": "O que caracteriza um perfume unissex?",
+          "answer": "Os perfumes unissex caracterizam-se por composições equilibradas que combinam notas tradicionalmente masculinas e femininas, criando fragrâncias versáteis que funcionam bem em qualquer pessoa, independentemente do género."
+        },
+        {
+          "question": "Como escolher o perfume unissex ideal?",
+          "answer": "Para escolher o perfume unissex ideal, considere as suas preferências olfativas pessoais, teste a fragrância na pele e observe como evolui ao longo do dia, focando-se em acordes que lhe transmitam confiança."
+        },
+        {
+          "question": "Os perfumes unissex são uma tendência recente?",
+          "answer": "Embora tenham ganho popularidade recentemente, os perfumes unissex têm raízes históricas profundas. Muitas casas de perfumaria tradicionais sempre criaram fragrâncias que transcendiam as convenções de género, celebrando a individualidade."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog e Perfumes Unissex",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes unissex de luxo, oferecendo análises detalhadas das melhores fragrâncias sem género do mercado. A nossa expertise em perfumaria permite-lhe descobrir composições únicas que reflectem a sua personalidade autêntica, com reviews profissionais e recomendações personalizadas para cada estilo olfativo."
+    }
+  },
+  "it": {
+    "Women": {
+      "intro_title": "Profumi da Donna: Eleganza e Sensualità",
+      "intro": "Scopri la nostra esclusiva collezione di profumi da donna, dove ogni fragranza racconta una storia unica di femminilità e raffinatezza. Dalle note floreali più delicate agli accordi orientali più intensi, dai profumi freschi e fruttati alle essenze gourmand più avvolgenti. Ogni profumo è stato selezionato per esaltare la personalità femminile con eleganza e carattere distintivo.",
+      "faq": [
+        {
+          "question": "Quali sono le famiglie olfattive più amate nei profumi femminili?",
+          "answer": "Le donne prediligono principalmente fragranze floreali, orientali e frutte. Le note di rosa, gelsomino, vaniglia e agrumi sono tra le più apprezzate per la loro eleganza e versatilità d'uso quotidiano."
+        },
+        {
+          "question": "Come scegliere il profumo da donna perfetto per ogni occasione?",
+          "answer": "Per il giorno preferisci fragranze fresche e leggere con note agrumate o floreali. Per la sera opta per profumi più intensi con accordi orientali, speziati o gourmand che lasciano una scia duratura."
+        },
+        {
+          "question": "Qual è la durata media di un profumo femminile sulla pelle?",
+          "answer": "La durata varia dalle 4-6 ore per le eau de toilette alle 8-12 ore per le eau de parfum. Le fragranze orientali e le basi legnose tendono a persistere più a lungo sulla pelle femminile."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Esperti in Profumi Femminili",
+      "seo_bottom": "Hello Beauty Blog è il punto di riferimento per chi cerca i migliori profumi da donna. Il nostro team di esperti seleziona accuratamente ogni fragranza femminile, dalle grandi maison ai brand emergenti, garantendo autenticità e qualità. Scopri recensioni dettagliate, guide all'acquisto e consigli personalizzati per trovare il tuo profumo ideale."
+    },
+    "Men": {
+      "intro_title": "Profumi Uomo: Eleganza e Carattere Distintivo",
+      "intro": "Scopri la nostra selezione esclusiva di profumi maschili, dove tradizione e innovazione si incontrano per creare fragranze iconiche. Dalle note legnose e speziate alle composizioni fresche e marine, ogni profumo uomo racconta una storia di raffinatezza e personalità. Esplora eau de toilette, eau de parfum e colonie delle migliori maison profumiere internazionali.",
+      "faq": [
+        {
+          "question": "Quali sono le note olfattive più apprezzate nei profumi uomo?",
+          "answer": "Le note più popolari includono legno di cedro, bergamotto, pepe nero, lavanda, vetiver e note marine. Queste creano composizioni maschili equilibrate e sofisticate."
+        },
+        {
+          "question": "Qual è la differenza tra eau de toilette e eau de parfum per uomo?",
+          "answer": "L'eau de parfum ha una concentrazione maggiore (15-20%) e durata più lunga, mentre l'eau de toilette è più leggera (5-15%) e ideale per l'uso quotidiano."
+        },
+        {
+          "question": "Come scegliere il profumo uomo giusto per ogni occasione?",
+          "answer": "Per il giorno preferisci fragranze fresche e agrumate, per la sera opta per note più intense e sensuali come ambra, oud o spezie orientali."
+        }
+      ],
+      "seo_title": "Profumi Uomo di Lusso su Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta nel mondo dei profumi maschili di lusso. Recensiamo e selezioniamo le migliori fragranze uomo delle maison più prestigiose, offrendo consigli professionali per aiutarti a trovare il profumo perfetto che esprima la tua personalità e stile unico."
+    },
+    "Unisex": {
+      "intro_title": "Profumi Unisex: Eleganza Senza Confini di Genere",
+      "intro": "I profumi unisex rappresentano l'evoluzione della profumeria contemporanea, dove le note olfattive trascendono i tradizionali confini di genere. Queste fragranze versatili combinano accordi freschi, speziati e legnosi che si adattano perfettamente a ogni personalità. Dalle composizioni marine ai bouquet orientali, i profumi unisex offrono un'esperienza sensoriale autentica e moderna, perfetta per chi cerca un'identità olfattiva unica e sofisticata.",
+      "faq": [
+        {
+          "question": "Cosa rende un profumo davvero unisex?",
+          "answer": "Un profumo unisex presenta un equilibrio armonioso tra note fresche, speziate e legnose, evitando accordi tipicamente femminili o maschili. Le composizioni privilegiano ingredienti versatili come bergamotto, cedro, pepe nero e muschi bianchi."
+        },
+        {
+          "question": "Come scegliere il profumo unisex ideale?",
+          "answer": "La scelta dipende dalle preferenze personali: opta per note marine e agrumate per la freschezza, legni preziosi per l'eleganza, o spezie orientali per un carattere deciso. Testa sempre la fragranza sulla pelle prima dell'acquisto."
+        },
+        {
+          "question": "I profumi unisex hanno buona durata?",
+          "answer": "Sì, molti profumi unisex offrono eccellente longevità grazie a basi ricche di legni, muschi e resine. Le concentrazioni Eau de Parfum garantiscono una persistenza ottimale durante tutta la giornata, mantenendo il carattere della fragranza."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Esperti in Profumi Unisex",
+      "seo_bottom": "Hello Beauty Blog è la tua guida autorevole nel mondo dei profumi unisex di lusso. Il nostro team di esperti seleziona esclusivamente fragranze versatili e raffinate, offrendo recensioni dettagliate e consigli personalizzati. Scopri la nostra curata collezione di profumi senza genere dalle maison più prestigiose, per un'esperienza olfattiva autentica e contemporanea."
+    }
+  },
+  "nl": {
+    "Women": {
+      "intro_title": "Luxe Damesparfums voor Elke Gelegenheid",
+      "intro": "Ontdek onze uitgebreide collectie damesparfums van wereldberoemde parfumhuizen. Van elegante florale geuren tot sensuele orientaalse composities, elke damesperfum vertelt een uniek verhaal. Of je nu op zoek bent naar een frisse dagelijkse geur of een verleidelijke avondparfum, onze selectie biedt voor elke vrouw de perfecte geurcompositie die haar persoonlijkheid onderstreept.",
+      "faq": [
+        {
+          "question": "Welke geurtypen zijn het populairst bij damesparfums?",
+          "answer": "Florale en fruitige geuren zijn zeer geliefd bij vrouwen, gevolgd door orientaalse en houtachtige composities. Populaire noten zijn roos, jasmijn, vanille en bergamot die perfecte balans creëren."
+        },
+        {
+          "question": "Hoe lang blijft een damesperfum op de huid zitten?",
+          "answer": "De houdbaarheid varieert van 4-12 uur afhankelijk van de concentratie. Eau de Parfum (EDP) houdt langer dan Eau de Toilette (EDT). Huidtype en klimaat beïnvloeden ook de geurprojectie."
+        },
+        {
+          "question": "Welke damesparfum past het best bij verschillende seizoenen?",
+          "answer": "Lente en zomer vragen om lichte, frisse geuren met citrus en floralen. Herfst en winter verdragen rijkere, warmere parfums met vanille, amber en houtachtige noten voor meer intensiteit."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Damesparfum Expertise",
+      "seo_bottom": "Hello Beauty Blog is dé autoriteit op het gebied van luxe damesparfums. Onze parfumexperts selecteren zorgvuldig de mooiste geuren voor de moderne vrouw. Met jarenlange ervaring in de parfumindustrie bieden wij authentieke reviews en professioneel advies over de nieuwste damesperfum trends en klassieke geurcomposities."
+    },
+    "Men": {
+      "intro_title": "Verfijnde Herenparfums Voor De Moderne Man",
+      "intro": "Ontdek onze exclusieve collectie herenparfums die masculiniteit en elegantie perfect combineren. Van frisse aquatische noten tot warme houtachtige akkoorden, elke geur vertelt een uniek verhaal. Of je nu kiest voor citrus, amber of moschus, onze zorgvuldig geselecteerde herengeuren bieden de perfecte olfactorische handtekening voor elke gelegenheid en persoonlijkheid.",
+      "faq": [
+        {
+          "question": "Welke geurnoten zijn het populairst bij herenparfums?",
+          "answer": "Populaire noten bij herengeuren zijn bergamot, cederhout, patchouli, amber en moschus. Deze creëren vaak frisse top-, bloemige hart- en warme basisnoten die perfect bij de mannelijke uitstraling passen."
+        },
+        {
+          "question": "Hoe lang blijft een herenparfum gemiddeld zitten?",
+          "answer": "De houdbaarheid van herenparfums varieert tussen 6-12 uur, afhankelijk van de concentratie. Eau de Parfum houdt langer aan dan Eau de Toilette door het hogere percentage parfumolie."
+        },
+        {
+          "question": "Wanneer draag ik best een lichte versus zware herengeur?",
+          "answer": "Lichte, frisse geuren zijn ideaal overdag en in de zomer, terwijl zwaardere, houtachtige of amberachtige parfums perfect zijn voor avondgelegenheden en koudere seizoenen."
+        }
+      ],
+      "seo_title": "Hello Beauty's Expertise In Herenparfums",
+      "seo_bottom": "Hello Beauty Blog is jouw vertrouwde gids in de wereld van exclusieve herenparfums. Onze beauty-experts selecteren alleen de meest verfijnde masculine geuren van topmerken. Ontdek de perfecte herengeur die jouw persoonlijkheid onderstreept en maak indruk met onze professioneel gecureerde parfumcollectie."
+    },
+    "Unisex": {
+      "intro_title": "Ontdek de Wereld van Unisex Parfums",
+      "intro": "Unisex parfums doorbreken traditionele gendergrenzen en bieden universele geuren die door iedereen gedragen kunnen worden. Deze moderne creaties combineren vaak frisse citrusnoten met warme houtsoorten en kruiden, waardoor tijdloze composities ontstaan. Van minimalistische clean scents tot complexe orientaalse blends - unisex geuren benadrukken de persoonlijke stijl boven conventie en maken parfum tot een vorm van zelfexpressie zonder grenzen.",
+      "faq": [
+        {
+          "question": "Wat maakt een parfum unisex?",
+          "answer": "Unisex parfums bevatten geurnoten die niet specifiek mannelijk of vrouwelijk zijn, zoals citrus, witte bloemen, cederhout en amber. Ze zijn ontworpen om op elke huid mooi te ruiken, ongeacht gender."
+        },
+        {
+          "question": "Ruiken unisex parfums anders op mannen dan op vrouwen?",
+          "answer": "Ja, door de natuurlijke pH-waarde en hormonen van de huid kan hetzelfde unisex parfum subtiel anders ruiken op verschillende personen, wat juist de charme is van deze geuren."
+        },
+        {
+          "question": "Welke geurnoten zijn populair in unisex parfums?",
+          "answer": "Populaire noten zijn bergamot, witte musk, sandelhout, iris, grijze amber en groene thee. Deze ingrediënten creëren evenwichtige composities die universeel aantrekkelijk zijn."
+        }
+      ],
+      "seo_title": "Hello Beauty's Unisex Parfum Expertise",
+      "seo_bottom": "Hello Beauty Blog is jouw vertrouwde gids in de fascinerende wereld van unisex parfums. Onze parfumexperts selecteren zorgvuldig de mooiste genderneutrale geuren en delen diepgaande kennis over niche merken, populaire huizen en opkomende trends in unisex parfumerie, zodat je de perfecte geur vindt die jouw unieke persoonlijkheid uitstraalt."
+    }
+  },
+  "pl": {
+    "Women": {
+      "intro_title": "Ekskluzywne Perfumy Damskie - Odkryj Swój Zapach",
+      "intro": "Nasze perfumy damskie to starannie wyselekcjonowana kolekcja najpiękniejszych kompozycji zapachowych stworzonych specjalnie dla kobiet. Od delikatnych nut kwiatowych po zmysłowe orientalne akordy - każdy flakon opowiada wyjątkową historię kobiecości. Znajdź swój idealny aromat wśród luksusowych marek i niszowych kreacji perfumeryjnych.",
+      "faq": [
+        {
+          "question": "Jakie rodzaje perfum damskich są najpopularniejsze?",
+          "answer": "Najchętniej wybierane to perfumy kwiatowe z nutami róży i piwonii, świeże cytrusowe na dzień oraz orientalne z wanilią i piżmem na wieczór."
+        },
+        {
+          "question": "Jak wybrać perfumy damskie dopasowane do okazji?",
+          "answer": "Na dzień wybieraj lekkie, świeże kompozycje cytrusowo-kwiatowe. Na wieczór sprawdzą się intensywniejsze orientalne lub drzewne z nutami ambry i piżma."
+        },
+        {
+          "question": "Jak długo utrzymują się dobre perfumy damskie?",
+          "answer": "Wysokiej jakości eau de parfum utrzymuje się 6-8 godzin, podczas gdy eau de toilette około 4-5 godzin. Trwałość zależy od koncentracji olejków eterycznych."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Ekspert Perfum Damskich",
+      "seo_bottom": "Hello Beauty Blog to zaufany ekspert w dziedzinie luksusowych perfum damskich. Nasz zespół specjalistów testuje i recenzuje najnowsze kompozycje zapachowe, pomagając kobietom odkryć ich idealny aromat. Znajdziesz u nas szczegółowe opisy nut zapachowych i profesjonalne porady perfumeryjne."
+    },
+    "Men": {
+      "intro_title": "Perfumy Męskie - Luksusowe Zapachy dla Panów",
+      "intro": "Odkryj wyjątkową kolekcję perfum męskich, która łączy w sobie klasyczne nuty drzewne, świeże akordy cytrusowe i głębokie aromaty orientalne. Nasze męskie kompozycje zapachowe to połączenie elegancji z nowoczesnym charakterem. Od świeżych wód kolońskich po intensywne eau de parfum - znajdź swój idealny zapach, który podkreśli Twoją osobowość i styl.",
+      "faq": [
+        {
+          "question": "Jakie nuty zapachowe dominują w perfumach męskich?",
+          "answer": "W męskich kompozycjach przeważają nuty drzewne jak cedr i dąb, świeże cytrusy, pikantne przyprawy oraz głębokie aromaty jak paczula czy wetiweria, które nadają charakterystyczny, męski charakter."
+        },
+        {
+          "question": "Jak długo utrzymują się męskie perfumy na skórze?",
+          "answer": "Trwałość zależy od koncentracji. Eau de toilette utrzymuje się 4-6 godzin, eau de parfum 6-8 godzin, a parfum nawet do 12 godzin. Męskie zapachy zazwyczaj mają dobrą projekcję."
+        },
+        {
+          "question": "Kiedy najlepiej aplikować męskie perfumy?",
+          "answer": "Perfumy należy nakładać na czyste punkty pulsacyjne - szyję, nadgarstki i za uszami. Najlepiej tuż po kąpieli, gdy skóra jest lekko wilgotna, co wydłuża trwałość zapachu."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Męskich Zapachów",
+      "seo_bottom": "Hello Beauty Blog to Twój przewodnik po świecie luksusowych perfum męskich. Nasz zespół ekspertów testuje i recenzuje najnowsze kompozycje zapachowe dla mężczyzn, pomagając wybrać idealny zapach. Odkryj z nami najlepsze męskie perfumy od renomowanych domów perfumeryjnych i niszowych marek."
+    },
+    "Unisex": {
+      "intro_title": "Perfumy Unisex - Ponadczasowa Elegancja",
+      "intro": "Perfumy unisex to kwintesencja nowoczesnej perfumerii, łącząca subtelność z wyrazistością. Te uniwersalne kompozycje zapachowe przekraczają tradycyjne granice płci, oferując harmonijne połączenie nut kwiatowych, drzewnych i orientalnych. Idealne dla osób poszukujących oryginalności i wyjątkowego charakteru w codziennym rytuale pielęgnacji. Odkryj kolekcję zapachów, które definiują nową erę perfumerii bez granic.",
+      "faq": [
+        {
+          "question": "Czym różnią się perfumy unisex od tradycyjnych zapachów?",
+          "answer": "Perfumy unisex charakteryzują się zbalansowaną kompozycją, która nie jest przypisana do konkretnej płci. Wykorzystują uniwersalne nuty zapachowe jak bergamotka, paczula czy białe piżmo, tworząc harmonijne aromaty dla każdego."
+        },
+        {
+          "question": "Jakie nuty zapachowe dominują w perfumach unisex?",
+          "answer": "W perfumach unisex przeważają nuty cytrusowe, drzewne, zielone i mineralne. Popularne składniki to cedr, wetyweria, białe kwiaty, bergamotka oraz świeże nuty wodne, które tworzą neutralne, ale wyraziste kompozycje."
+        },
+        {
+          "question": "Czy perfumy unisex są odpowiednie na każdą okazję?",
+          "answer": "Tak, perfumy unisex to idealne rozwiązanie na różne okazje. Ich uniwersalny charakter sprawia, że sprawdzają się zarówno w codziennych sytuacjach, jak i podczas eleganckich wydarzeń, oferując subtelną elegancję."
+        }
+      ],
+      "seo_title": "Perfumy Unisex w Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog to ekspert w dziedzinie luksusowych perfum unisex. Nasza starannie wyselekcjonowana kolekcja obejmuje najbardziej pożądane zapachy od prestiżowych marek perfumeryjnych. Odkryj wyjątkowe kompozycje zapachowe, które przekraczają konwencje i definiują nowoczesny styl życia. Zaufaj naszemu doświadczeniu w świecie ekskluzywnej perfumerii unisex."
+    }
+  },
+  "tr": {
+    "Women": {
+      "intro_title": "Kadın Parfümleri: Zarafet ve İnceliğin Buluşması",
+      "intro": "Kadın parfümleri, feminen karakteri yansıtan özel formülasyonlarıyla öne çıkar. Çiçeksi notalardan meyveli akkorlara, tatlı vanilya esanslarından egzotik baharatlara kadar geniş bir yelpazede sunulan bu kokular, kadının çok boyutlu doğasını mükemmel şekilde ifade eder. Premium kadın parfümleri, sofistike sillaj ve kalıcı performanslarıyla günlük kullanımdan özel davetlere kadar her anınızı değerli kılar.",
+      "faq": [
+        {
+          "question": "Kadın parfümlerinde hangi notalar daha popüler?",
+          "answer": "Kadın parfümlerinde çiçeksi notalar (gül, yasemin), meyveli akkorlar (şeftali, muz), tatlı vanilya ve amber notaları en çok tercih edilen esanslardır."
+        },
+        {
+          "question": "Kadın parfümü nasıl seçmeliyim?",
+          "answer": "Kişisel tarzınızı, yaşam tarzınızı ve hangi durumlarda kullanacağınızı göz önünde bulundurarak seçim yapmalısınız. Test edip birkaç saat beklemek önemlidir."
+        },
+        {
+          "question": "Kadın parfümleri erkek parfümlerinden nasıl farklıdır?",
+          "answer": "Kadın parfümleri genellikle daha çiçeksi, meyveli ve tatlı notalar içerir. Daha yumuşak sillaja sahip olup feminen bir karakter yansıtır."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Kadın Parfümleri",
+      "seo_bottom": "Hello Beauty Blog, kadın parfümleri konusundaki uzmanlığıyla size en kaliteli fragrансları sunar. Premium markaların eşsiz kadın kokularını keşfetmek ve size en uygun parfümü bulmak için güvenilir rehberiniziz. Lüks kadın parfümlerinin dünyasında profesyonel önerilerimizle tanışın ve kişisel tarzınızı yansıtan kokuyu bulun."
+    },
+    "Men": {
+      "intro_title": "Erkek Parfümleri: Maskülen Zarafet ve Güç",
+      "intro": "Erkek parfümleri, maskülen karakterin en güçlü ifadesidir. Woody, spicy ve fresh notalarla zenginleştirilmiş bu özel koleksiyonumuzda, her erkeğin kişiliğini yansıtan parfümler bulacaksınız. Cedarwood, bergamot ve vetiver gibi klasik erkek notalarından modern amber ve oud karışımlarına kadar geniş bir yelpazede premium erkek parfümlerini keşfedin. Günlük kullanımdan özel gecelere kadar her anınızı tamamlayacak maskülen fragrансlar sizi bekliyor.",
+      "faq": [
+        {
+          "question": "Erkek parfümü nasıl seçilir?",
+          "answer": "Kişisel tarzınıza ve kullanım amacınıza uygun parfüm seçin. Günlük için fresh, akşam için woody veya oriental notalar tercih edebilirsiniz. Önce test ederek karar verin."
+        },
+        {
+          "question": "Erkek parfümü hangi bölgelere sürülür?",
+          "answer": "Nabzın attığı noktalara uygulayın: boyun, bilekler ve göğüs bölgesi ideal yerlerdir. Aşırı kullanımdan kaçının, 2-3 püskürtme yeterlidir."
+        },
+        {
+          "question": "Erkek parfümlerinin kalıcılığı nasıl arttırılır?",
+          "answer": "Parfümü nemli cilde uygulayın, kıyafetlerinize değil vücudunuza sıkın. Aynı seriden duş jeli kullanmak da kalıcılığı arttırır."
+        }
+      ],
+      "seo_title": "Premium Erkek Parfümleri Hello Beauty Blog'da",
+      "seo_bottom": "Hello Beauty Blog olarak erkek parfümü kategorisinde en prestijli markaları sizlere sunuyoruz. Uzman ekibimiz tarafından seçilen maskülen fragrансlar, kalite garantisi ve hızlı teslimat avantajıyla kapınızda. Erkek parfümü alışverişinizde güvenilir adresiniz Hello Beauty Blog."
+    },
+    "Unisex": {
+      "intro_title": "Unisex Parfümler: Cinsiyet Sınırlarını Aşan Kokular",
+      "intro": "Unisex parfümler, kadın ve erkek arasındaki sınırları ortadan kaldıran modern parfümcülüğün en özgür ifade biçimidir. Bu koleksiyonumuzda, bergamot, amber, vetiver ve beyaz misk gibi dengeli notalarla yaratılmış, her cinsiyetten parfüm severin rahatlıkla kullanabileceği seçkin aromalar bulacaksınız. Ortak kullanım için ideal bu kokular, kişisel tarzınızı cinsiyet kalıplarından bağımsız olarak yansıtmanıza olanak tanır.",
+      "faq": [
+        {
+          "question": "Unisex parfümler nasıl formüle edilir?",
+          "answer": "Unisex parfümler, geleneksel kadınsı veya erkeksi notalar yerine nötr ve dengeli bileşenler kullanılarak formüle edilir. Amber, vetiver, bergamot gibi ortak sevilen notalar tercih edilir."
+        },
+        {
+          "question": "Unisex parfümler çiftler arasında paylaşılabilir mi?",
+          "answer": "Evet, unisex parfümler çiftler arasında rahatlıkla paylaşılabilir. Bu özellik hem ekonomik hem de pratik bir avantaj sağlar ve ortak parfüm deneyimi yaşatır."
+        },
+        {
+          "question": "Hangi notalar unisex parfümlerde en çok kullanılır?",
+          "answer": "Unisex parfümlerde genellikle bergamot, amber, vetiver, beyaz misk, sandalağaç ve taze baharatlar gibi dengeli ve nötr karakterdeki notalar tercih edilir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Unisex Parfüm Uzmanlığı",
+      "seo_bottom": "Hello Beauty Blog olarak, unisex parfüm kategorisinde en kaliteli ve özgün seçenekleri sizlerle buluşturuyoruz. Uzman parfüm editörlerimiz, cinsiyet ayrımı yapmayan bu özel koleksiyonu özenle seçiyor ve detaylı incelemelerle sunuyor. Unisex parfüm dünyasının en güncel trendlerini ve en beğenilen markalarını keşfedin."
+    }
+  },
+  "ar": {
+    "Women": {
+      "intro_title": "عطور نسائية فاخرة لكل امرأة عصرية",
+      "intro": "اكتشفي عالم العطور النسائية الساحر مع مجموعتنا المختارة بعناية من أرقى دور العطور العالمية. من العطور الزهرية الرومانسية إلى التركيبات الشرقية الجذابة، نقدم لك عطوراً نسائية تناسب شخصيتك وأسلوبك. تميزي بعبق فريد يعكس أنوثتك وثقتك بنفسك مع عطور نسائية طويلة الثبات تتركين بها انطباعاً لا يُنسى في كل مكان.",
+      "faq": [
+        {
+          "question": "ما هي أفضل العطور النسائية للاستخدام اليومي؟",
+          "answer": "العطور النسائية الزهرية الخفيفة والعطور المائية المنعشة هي الأنسب للاستخدام اليومي. تمنحك إحساساً بالانتعاش والأناقة دون أن تكون قوية بشكل مفرط في بيئة العمل أو الأنشطة النهارية."
+        },
+        {
+          "question": "كيف أختار العطر النسائي المناسب لشخصيتي؟",
+          "answer": "اختاري العطور الزهرية إذا كنت رومانسية وناعمة، العطور الشرقية للشخصية الجريئة والغامضة، والعطور الخشبية أو المسكية للمرأة العملية والقوية. جربي العطر على بشرتك قبل الشراء."
+        },
+        {
+          "question": "ما الفرق بين العطور النسائية النهارية والمسائية؟",
+          "answer": "العطور النسائية النهارية تكون خفيفة ومنعشة مع نوتات زهرية أو مائية، بينما العطور المسائية أكثر كثافة وغنى مع نوتات شرقية أو خشبية عميقة تناسب المناسبات الخاصة والسهرات."
+        }
+      ],
+      "seo_title": "خبراء العطور النسائية في هيلو بيوتي",
+      "seo_bottom": "يقدم موقع هيلو بيوتي بلوغ مجموعة حصرية من أفضل العطور النسائية العالمية والعربية. فريقنا من خبراء العطور يختار لك أرقى التركيبات النسائية التي تناسب ذوقك الراقي. اكتشفي معنا عطرك المثالي واحصلي على تجربة تسوق استثنائية مع ضمان الجودة والأصالة."
+    },
+    "Men": {
+      "intro_title": "عطور رجالية فاخرة لإطلالة مميزة ومتألقة",
+      "intro": "اكتشف مجموعتنا المتميزة من العطور الرجالية الفاخرة التي تجمع بين الأناقة والقوة. من العطور الخشبية العميقة إلى الروائح الشرقية الجذابة والعطور الرياضية المنعشة، نقدم لك أفضل الماركات العالمية التي تناسب شخصيتك المتميزة. كل عطر مصمم خصيصاً ليبرز جاذبيتك الطبيعية ويترك انطباعاً لا يُنسى أينما ذهبت.",
+      "faq": [
+        {
+          "question": "ما هي أفضل أنواع العطور الرجالية للاستخدام اليومي؟",
+          "answer": "العطور الخفيفة والمنعشة مثل العطور الحمضية والمائية هي الأنسب للاستخدام اليومي، حيث تمنحك انتعاشاً طوال اليوم دون أن تكون مزعجة للآخرين."
+        },
+        {
+          "question": "كيف أختار العطر المناسب لشخصيتي كرجل؟",
+          "answer": "اختر العطور الخشبية أو الجلدية للشخصية القوية، والعطور الشرقية للشخصية الجذابة، والعطور الرياضية المنعشة للشخصية النشطة والحيوية."
+        },
+        {
+          "question": "ما هي مدة ثبات العطور الرجالية عادة؟",
+          "answer": "العطور الرجالية عالية الجودة تدوم من 6-8 ساعات، بينما العطور الشرقية والخشبية قد تستمر لأكثر من 10 ساعات بفضل تركيزها العالي."
+        }
+      ],
+      "seo_title": "عطور رجالية فاخرة - هيلو بيوتي",
+      "seo_bottom": "يقدم هيلو بيوتي بلوج خبرة متخصصة في عالم العطور الرجالية الفاخرة، مع مجموعة منتقاة بعناية من أرقى الماركات العالمية. نساعدك في اختيار العطر المثالي الذي يعكس شخصيتك المتميزة ويمنحك الثقة والجاذبية في كل المناسبات."
+    },
+    "Unisex": {
+      "intro_title": "عطور الجنسين: عبير يحتضن الجميع",
+      "intro": "تتميز عطور الجنسين بتركيباتها المتوازنة التي تناسب الرجال والنساء على حد سواء. تحتوي هذه العطور على نوتات معتدلة تجمع بين النفحات الزهرية والخشبية والحمضية بتناغم مثالي. تركز دور العطور العالمية على إبداع تراكيب عطرية محايدة تحتوي على مكونات مثل الخشب الأبيض والمسك والعود، مما يخلق عبيراً أنيقاً يناسب جميع الأذواق ويعكس روح العصر الحديث.",
+      "faq": [
+        {
+          "question": "ما الذي يميز عطور الجنسين عن العطور التقليدية؟",
+          "answer": "تتميز عطور الجنسين بتركيباتها المتوازنة التي تمزج النوتات المختلفة بطريقة محايدة، مما يجعلها مناسبة للجميع دون التقيد بالنوع الاجتماعي التقليدي."
+        },
+        {
+          "question": "أي نوتات عطرية تهيمن على عطور الجنسين؟",
+          "answer": "تهيمن النوتات الخشبية والحمضية والمائية مع لمسات من المسك والتوابل الناعمة، إضافة إلى الأزهار البيضاء والأعشاب الطبيعية."
+        },
+        {
+          "question": "هل عطور الجنسين مناسبة لجميع المناسبات؟",
+          "answer": "نعم، تتميز عطور الجنسين بمرونتها وقدرتها على التأقلم مع مختلف المناسبات سواء الرسمية أو اليومية، مما يجعلها خياراً عملياً ومتعدد الاستخدامات."
+        }
+      ],
+      "seo_title": "عطور الجنسين في هالو بيوتي",
+      "seo_bottom": "يقدم موقع هالو بيوتي بلوغ مجموعة مختارة من أفضل عطور الجنسين من العلامات العالمية الفاخرة. نحن نختار لك العطور التي تجمع بين الأصالة والحداثة، مع تقديم مراجعات شاملة ونصائح خبراء العطور لمساعدتك في اختيار العبير المثالي الذي يناسب شخصيتك وأسلوب حياتك."
+    }
+  },
+  "zh": {
+    "Women": {
+      "intro_title": "探索女士香水的魅力世界",
+      "intro": "女士香水是展现女性独特魅力和个性的完美配饰。从清新花香调到神秘东方调，从日常淡香水到晚宴浓香精，每一款女士香水都诠释着不同的女性气质。无论您偏爱玫瑰、茉莉的经典花香，还是钟情于果香、木质调的现代混合香型，这里汇聚了世界知名香水品牌的精心之作，让您找到专属于自己的香氛印记。",
+      "faq": [
+        {
+          "question": "如何选择适合自己的女士香水？",
+          "answer": "选择女士香水时要考虑个人喜好、肤质和使用场合。建议先试闻前调、中调和后调的变化，在手腕上测试4-6小时观察香味演变，选择与自身气质相符的香调类型。"
+        },
+        {
+          "question": "女士香水应该喷在哪些部位？",
+          "answer": "女士香水最佳喷洒部位是脉搏跳动处，如手腕内侧、耳后、颈部和锁骨。这些部位体温较高，有助于香味的自然散发。避免直接喷在衣物上以免留下污渍。"
+        },
+        {
+          "question": "女士香水的保存期限是多久？",
+          "answer": "未开封的女士香水通常可保存3-5年，开封后建议在2-3年内使用完毕。应存放在阴凉干燥处，避免阳光直射和温度变化，保持香水的最佳品质和香味稳定性。"
+        }
+      ],
+      "seo_title": "Hello Beauty女士香水专区",
+      "seo_bottom": "Hello Beauty Blog致力于为女性提供最优质的香水选购指南。我们的美妆专家团队精选全球知名女士香水品牌，提供详细的香调分析、使用建议和真实评测。无论您寻找日常清香还是特殊场合的魅力香氛，都能在这里找到专业建议和心仪产品。"
+    },
+    "Men": {
+      "intro_title": "男士香水：彰显独特男性魅力",
+      "intro": "男士香水是展现个人品味与魅力的重要配饰。从清新的柑橘调到深邃的木质调，男士香水涵盖了各种香调组合，包括经典的东方调、运动感十足的海洋调以及成熟稳重的皮革调。无论是日常通勤、商务场合还是约会夜晚，选择合适的男士香水能够完美诠释现代男性的多面魅力，提升自信与吸引力。",
+      "faq": [
+        {
+          "question": "男士香水应该选择什么香调？",
+          "answer": "建议根据个人风格选择：年轻男性可选清新柑橘调或海洋调，成熟男性适合木质调或东方调，商务场合推荐淡雅的绿叶调或温和的香草调。"
+        },
+        {
+          "question": "男士香水的持香时间一般多久？",
+          "answer": "淡香水(EDT)通常持续3-5小时，浓香水(EDP)可持续6-8小时，香精(Parfum)能维持8小时以上。建议根据使用场景选择合适浓度。"
+        },
+        {
+          "question": "如何正确使用男士香水？",
+          "answer": "建议喷洒在脉搏点如手腕、颈部和胸前，距离皮肤15-20厘米。避免过量使用，一般2-3下即可，让香味自然散发而不会过于浓烈。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 男士香水专业指南",
+      "seo_bottom": "Hello Beauty Blog致力于为现代男性提供最专业的香水选购指南。我们的美妆专家团队深入研究各大奢华品牌的男士香水系列，从经典款到限量版，为您精选最适合的男士香水。信赖Hello Beauty Blog，发现属于您的独特男性魅力。"
+    },
+    "Unisex": {
+      "intro_title": "中性香水：突破性别界限的香氛艺术",
+      "intro": "中性香水代表着现代香氛界的革新趋势，摆脱传统性别束缚，创造出适合所有人的独特嗅觉体验。这些香水通常融合清新柑橘调、温暖木质调和精致花香调，营造出平衡而富有层次的香氛轮廓。无论是日常佩戴还是特殊场合，中性香水都能展现佩戴者的个性魅力，成为现代都市人群的理想选择。",
+      "faq": [
+        {
+          "question": "中性香水与传统男女香水有什么区别？",
+          "answer": "中性香水不局限于传统的性别化香调，通常采用更加平衡的香氛配比，既不过分阳刚也不过于柔美，创造出适合任何性别佩戴的和谐香氛体验。"
+        },
+        {
+          "question": "如何选择适合自己的中性香水？",
+          "answer": "选择中性香水时应关注个人喜好而非性别标签。建议先了解香水的前调、中调和后调，选择与自己气质和使用场景相符的香氛类型。"
+        },
+        {
+          "question": "中性香水适合哪些场合使用？",
+          "answer": "中性香水适用性极强，无论是商务场合、约会聚会还是日常生活都很合适。其平衡的香调特质使其成为四季皆宜的万能选择。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 中性香水精选",
+      "seo_bottom": "Hello Beauty Blog 致力于为您精选全球顶级中性香水品牌，从小众沙龙到知名大牌，我们的专业团队为您提供详尽的香氛评测和购买指南。探索突破性别界限的香氛世界，找到最适合您独特个性的中性香水，让香氛成为您最优雅的个人标识。"
+    }
+  },
+  "ja": {
+    "Women": {
+      "intro_title": "女性用香水の魅惑的な世界を探索",
+      "intro": "女性用香水は、エレガンスと魅力を演出する特別なアイテムです。フローラル、フルーティー、オリエンタルなど、女性らしい香調を中心とした豊富なバリエーションをご用意。トップノートからベースノートまで、繊細に調合された香りが女性の美しさを際立たせます。シャネル、ディオール、グッチなど世界的ブランドの最新作から定番まで幅広く取り揃えております。",
+      "faq": [
+        {
+          "question": "女性用香水はどのような香調が人気ですか？",
+          "answer": "フローラル、フルーティー、オリエンタル系が特に人気です。ローズ、ジャスミン、ピオニーなどの花の香りや、ベリー系、シトラス系の爽やかな香りが女性に愛され続けています。"
+        },
+        {
+          "question": "年代別におすすめの女性用香水はありますか？",
+          "answer": "20代には軽やかなフローラル系、30代にはエレガントなフルーティー系、40代以上には深みのあるオリエンタル系がおすすめです。ライフスタイルや好みに合わせて選ぶことが大切です。"
+        },
+        {
+          "question": "女性用香水の持続時間はどのくらいですか？",
+          "answer": "オードパルファムは6-8時間、オードトワレは3-5時間程度持続します。香りの濃度や肌質、季節によって変わりますが、女性用は繊細な香立ちが特徴的です。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogの女性用香水専門ガイド",
+      "seo_bottom": "Hello Beauty Blogは女性用香水の専門知識を持つラグジュアリー美容サイトです。最新のフレグランストレンドから選び方のコツまで、女性の香りの魅力を最大限に引き出す情報を提供。厳選された高品質な女性用香水コレクションで、あなたらしい香りとの出会いをサポートいたします。"
+    },
+    "Men": {
+      "intro_title": "洗練されたメンズフレグランスの世界",
+      "intro": "現代の男性にふさわしい、洗練されたメンズ香水コレクションをご紹介します。ウッディ、シトラス、スパイシーなど多彩なノートが織りなす香りは、ビジネスシーンからカジュアルな日常まで、あなたの魅力を引き立てます。トップ、ミドル、ベースノートが調和したオードトワレやオードパルファムで、印象深い男性を演出しましょう。持続性と深みのある香りが、自信に満ちたライフスタイルをサポートします。",
+      "faq": [
+        {
+          "question": "メンズ香水の選び方のポイントは何ですか？",
+          "answer": "年齢、使用シーン、季節を考慮することが重要です。20代はシトラス系、30代以降はウッディ系がおすすめ。ビジネスには上品で控えめな香り、プライベートには個性的な香りを選びましょう。"
+        },
+        {
+          "question": "メンズ香水の正しい付け方を教えてください。",
+          "answer": "首筋、手首、胸元など脈打つ部分に軽くスプレーします。こすらずに自然に乾かし、香水同士の重ね付けは避けましょう。適量は1〜2プッシュが目安です。"
+        },
+        {
+          "question": "人気のメンズ香水のノートにはどんなものがありますか？",
+          "answer": "ベルガモット、ラベンダーなどのトップノート、ローズ、ジャスミンのミドルノート、サンダルウッド、ムスクなどのベースノートが人気です。これらが調和して男性的な魅力を演出します。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのメンズ香水ガイド",
+      "seo_bottom": "Hello Beauty Blogは、一流ブランドのメンズ香水を厳選してご紹介するラグジュアリー美容サイトです。香水の専門知識を持つ編集部が、男性の魅力を最大限に引き出すフレグランス選びをサポート。トレンドから定番まで、幅広いメンズ香水の情報をお届けしています。"
+    },
+    "Unisex": {
+      "intro_title": "ユニセックス香水の魅力と選び方",
+      "intro": "ユニセックス香水は、性別を超えて愛される現代的なフレグランスです。フローラルとウッディノートの絶妙なバランス、シトラスの爽やかさとムスクの深みが調和した複雑な香調が特徴。トップノートからベースノートまで、男女問わず魅力的な印象を演出します。モダンなライフスタイルに寄り添う、洗練されたアロマの世界をお楽しみください。",
+      "faq": [
+        {
+          "question": "ユニセックス香水の特徴は何ですか？",
+          "answer": "性別に関係なく楽しめる香調設計が特徴です。フローラルとスパイシーノート、ウッディとフレッシュな要素をバランス良く調合し、誰にでも似合う洗練された香りを実現しています。"
+        },
+        {
+          "question": "ユニセックス香水はどのような場面に適していますか？",
+          "answer": "ビジネスシーンからカジュアルな日常まで幅広く対応。特にオフィスや公共の場でも好印象を与える、上品で控えめな香りが多く、TPOを選ばない使いやすさが魅力です。"
+        },
+        {
+          "question": "パートナーと香水を共有することはできますか？",
+          "answer": "ユニセックス香水は共有に最適です。同じ香水でも個人の肌質によって異なる表情を見せ、それぞれに似合う独特の香りに変化するため、お二人で楽しめます。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのユニセックス香水ガイド",
+      "seo_bottom": "Hello Beauty Blogは、ユニセックス香水の専門知識と豊富な商品知識でお客様をサポートいたします。香調の特徴から使用シーンまで、性別を超えて愛される香水選びのプロフェッショナルとして、あなたにぴったりのフレグランス探しをお手伝いします。"
+    }
+  },
+  "ko": {
+    "Women": {
+      "intro_title": "여성 향수의 우아한 세계를 탐험하세요",
+      "intro": "여성 향수는 개성과 매력을 표현하는 가장 섬세한 방법입니다. 플로럴, 프루티, 오리엔탈, 우디 등 다양한 향조가 여성의 다면적 매력을 완벽하게 연출합니다. 데일리 프래그런스부터 스페셜 오케이션을 위한 럭셔리 퍼퓸까지, 당신만의 시그니처 향을 찾아보세요. 톱노트부터 베이스노트까지 조화롭게 어우러진 여성 향수의 깊이 있는 향취를 경험하실 수 있습니다.",
+      "faq": [
+        {
+          "question": "여성 향수 선택 시 가장 중요한 고려사항은 무엇인가요?",
+          "answer": "개인의 라이프스타일과 선호하는 향조를 먼저 파악하는 것이 중요합니다. 피부 타입과 계절, 착용하는 상황에 따라 어울리는 향이 달라지므로 테스터를 통해 충분히 체험해보시기 바랍니다."
+        },
+        {
+          "question": "여성 향수의 지속력을 높이는 방법이 있나요?",
+          "answer": "맥박이 뛰는 부위인 손목, 목, 귀 뒤에 향수를 뿌려주세요. 또한 보습이 잘 된 피부에 향수를 사용하면 더 오래 지속됩니다. 옷보다는 피부에 직접 분사하는 것이 효과적입니다."
+        },
+        {
+          "question": "계절별 여성 향수 추천 기준은 어떻게 되나요?",
+          "answer": "봄여름에는 시트러스, 플로럴 계열의 가벼운 향이 좋고, 가을겨울에는 바닐라, 머스크 등이 포함된 따뜻하고 깊은 향을 추천합니다. 계절감에 맞는 향수 선택이 더욱 매력적인 인상을 줍니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그 여성 향수 전문가 가이드",
+      "seo_bottom": "헬로뷰티블로그는 여성 향수 분야의 전문 지식과 깊이 있는 리뷰를 제공합니다. 국내외 프리미엄 브랜드부터 니치 퍼퓸까지, 여성들을 위한 완벽한 향수 선택 가이드와 최신 트렌드 정보를 만나보세요. 당신만의 시그니처 향을 찾는 여정을 함께합니다."
+    },
+    "Men": {
+      "intro_title": "남성 향수 컬렉션 - 세련된 매력을 완성하세요",
+      "intro": "남성 향수는 개성과 매력을 표현하는 중요한 액세서리입니다. 우디, 스파이시, 시트러스 계열의 다양한 남성 전용 향수를 만나보세요. 비즈니스 미팅부터 데이트까지, 상황에 맞는 완벽한 시그니처 향을 찾아드립니다. 톱노트부터 베이스노트까지 깊이 있는 향의 조화로 남성다운 카리스마를 연출해보세요.",
+      "faq": [
+        {
+          "question": "남성 향수의 주요 향조는 무엇인가요?",
+          "answer": "남성 향수는 주로 우디, 스파이시, 머스크, 시트러스 계열이 특징입니다. 삼나무, 샌달우드, 후추, 베르가못 등이 대표적인 노트로 사용되어 남성스러운 매력을 연출합니다."
+        },
+        {
+          "question": "남성 향수 지속시간은 얼마나 되나요?",
+          "answer": "일반적으로 오드뚜왈렛은 4-6시간, 오드퍼퓸은 6-8시간 지속됩니다. 피부 타입과 사용량에 따라 차이가 있으며, 펄스 포인트에 발라주면 더 오래 지속됩니다."
+        },
+        {
+          "question": "남성 향수 사용법과 적정량은?",
+          "answer": "목, 손목, 귀 뒤 등 펄스 포인트에 2-3회 스프레이하는 것이 적당합니다. 과도한 사용은 피하고, 20cm 거리에서 분사하여 자연스럽게 향이 퍼지도록 하세요."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 남성 향수 전문 가이드",
+      "seo_bottom": "Hello Beauty Blog는 남성 향수 전문 리뷰와 추천으로 신뢰받는 뷰티 플랫폼입니다. 브랜드별 남성 향수 비교분석부터 시즌별 추천까지, 전문적이고 객관적인 정보를 제공합니다. 당신만의 시그니처 향을 찾는 여정을 함께하겠습니다."
+    },
+    "Unisex": {
+      "intro_title": "성별을 초월한 유니섹스 향수의 매력",
+      "intro": "유니섹스 향수는 남녀의 경계를 넘나드는 현대적인 향의 철학을 담고 있습니다. 베르가못, 시더우드, 화이트 머스크 등 중성적인 노트들이 조화롭게 블렌딩되어 착용자의 개성을 돋보이게 합니다. 젠더리스 뷰티 트렌드를 선도하는 럭셔리 브랜드들의 아이코닉한 유니섹스 프래그런스를 만나보세요. 성별에 구애받지 않는 세련되고 독창적인 향의 경험을 선사합니다.",
+      "faq": [
+        {
+          "question": "유니섹스 향수와 일반 향수의 차이점은 무엇인가요?",
+          "answer": "유니섹스 향수는 남성적이거나 여성적인 특성을 강조하지 않고, 중성적인 노트들로 구성되어 누구나 착용할 수 있도록 디자인된 향수입니다."
+        },
+        {
+          "question": "유니섹스 향수는 어떤 향 계열이 많나요?",
+          "answer": "시트러스, 우디, 아쿠아틱, 그린 계열의 노트가 주를 이루며, 라벤더, 베르가못, 시더우드, 화이트 머스크 등이 자주 사용됩니다."
+        },
+        {
+          "question": "유니섹스 향수를 선택할 때 주의사항은?",
+          "answer": "개인의 피부 타입과 라이프스타일을 고려하여 선택하는 것이 중요하며, 계절감과 착용 상황에 맞는 농도와 지속력을 확인해보세요."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 유니섹스 향수 가이드",
+      "seo_bottom": "Hello Beauty Blog는 젠더리스 뷰티의 선두주자로서 엄선된 유니섹스 향수 컬렉션을 제공합니다. 전문 조향사들의 리뷰와 상세한 노트 분석을 통해 성별을 초월한 완벽한 향수 선택을 도와드립니다. 럭셔리 유니섹스 프래그런스의 모든 것을 Hello Beauty Blog에서 만나보세요."
+    }
+  },
+  "hi": {
+    "Women": {
+      "intro_title": "महिलाओं के लिए खुशबू का संसार",
+      "intro": "महिलाओं के परफ्यूम की दुनिया में स्वागत है, जहां हर सुगंध आपकी व्यक्तित्व को दर्शाती है। फ्लोरल नोट्स से लेकर ओरिएंटल फ्रेगरेंस तक, यहां आपको मिलेंगे वे सभी खुशबू जो आपकी फेमिनिनिटी को बढ़ाती हैं। चाहे दिन हो या रात, हर मौके के लिए परफेक्ट फ्रेगरेंस चुनें और अपनी उपस्थिति को यादगार बनाएं।",
+      "faq": [
+        {
+          "question": "महिलाओं के परफ्यूम में कौन से नोट्स सबसे लोकप्रिय हैं?",
+          "answer": "महिलाओं के परफ्यूम में फ्लोरल, फ्रूटी, और वैनिला नोट्स सबसे लोकप्रिय हैं। रोज़, जैस्मिन, पीच, और बेरीज़ जैसी सुगंधें महिलाओं की पहली पसंद हैं।"
+        },
+        {
+          "question": "दिन और रात के लिए अलग परफ्यूम का चुनाव क्यों जरूरी है?",
+          "answer": "दिन के लिए हल्की और फ्रेश सुगंध बेहतर होती है जबकि रात के लिए इंटेंस और सेंसुअल फ्रेगरेंस परफेक्ट है। इससे आपकी पर्सनैलिटी सही तरीके से रिफ्लेक्ट होती है।"
+        },
+        {
+          "question": "महिलाओं के परफ्यूम की लॉन्गेविटी कैसे बढ़ाएं?",
+          "answer": "परफ्यूम को पल्स पॉइंट्स पर लगाएं जैसे कलाई, गर्दन और कानों के पीछे। मॉइस्चराइज़ड स्किन पर परफ्यूम ज्यादा देर तक टिकता है।"
+        }
+      ],
+      "seo_title": "प्रीमियम महिला परफ्यूम कलेक्शन",
+      "seo_bottom": "Hello Beauty Blog पर मिलता है महिलाओं के परफ्यूम का सबसे बेहतरीन कलेक्शन। हमारे एक्सपर्ट्स द्वारा सेलेक्टेड लग्जरी और डिज़ाइनर फ्रेगरेंस से अपनी पसंदीदा खुशबू चुनें। ऑथेंटिक प्रोडक्ट्स और बेस्ट प्राइसिंग की गारंटी के साथ।"
+    },
+    "Men": {
+      "intro_title": "पुरुषों के लिए प्रीमियम परफ्यूम कलेक्शन",
+      "intro": "Hello Beauty Blog पर पुरुषों के लिए विशेष रूप से डिज़ाइन किए गए लक्जरी परफ्यूम का व्यापक संग्रह खोजें। हमारे मेन्स फ्रेगरेंस रेंज में वुडी, स्पाइसी, फ्रेश और ओरिएंटल नोट्स के साथ प्रीमियम ब्रांड्स के परफ्यूम शामिल हैं। मर्दाना आकर्षण और कॉन्फिडेंस बढ़ाने वाले इन एक्सक्लूसिव कोलोन और ऑ डी टॉयलेट से अपनी पर्सनैलिटी को निखारें।",
+      "faq": [
+        {
+          "question": "पुरुषों के परफ्यूम में कौन से नोट्स सबसे लोकप्रिय हैं?",
+          "answer": "मेन्स परफ्यूम में वुडी, स्पाइसी, सिट्रस और मस्क नोट्स सबसे ज्यादा पसंद किए जाते हैं। ये नोट्स मर्दाना और आकर्षक खुशबू प्रदान करते हैं।"
+        },
+        {
+          "question": "ऑफिस के लिए कौन सा मेन्स परफ्यूम बेस्ट है?",
+          "answer": "ऑफिस वियर के लिए लाइट, फ्रेश सिट्रस या एक्वाटिक नोट्स वाले परफ्यूम चुनें। ये सब्टल होते हैं और पूरे दिन कम्फर्टेबल रहते हैं।"
+        },
+        {
+          "question": "पुरुषों के परफ्यूम की लॉन्गेविटी कैसे बढ़ाएं?",
+          "answer": "पल्स पॉइंट्स पर लगाएं, मॉइस्चराइज़्ड स्किन पर स्प्रे करें और परफ्यूम को रब न करें। ईडीपी वेरिएंट चुनने से भी बेहतर लॉन्गेविटी मिलती है।"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - मेन्स परफ्यूम एक्सपर्ट्स",
+      "seo_bottom": "Hello Beauty Blog में पुरुषों के परफ्यूम की दुनिया की गहरी समझ है। हमारे एक्सपर्ट्स द्वारा क्यूरेट किए गए प्रीमियम मेन्स फ्रेगरेंस कलेक्शन से अपनी परफेक्ट खुशबू खोजें। हर अवसर के लिए सही परफ्यूम चुनने में हमारी गाइड आपकी मदद करेगी।"
+    },
+    "Unisex": {
+      "intro_title": "यूनिसेक्स परफ्यूम्स - हर व्यक्तित्व के लिए",
+      "intro": "यूनिसेक्स परफ्यूम्स आज के समय की सबसे लोकप्रिय फ्रेग्रेंस कैटेगरी हैं जो किसी भी लिंग के लिए डिज़ाइन की गई हैं। ये खुशबू संतुलित नोट्स का उपयोग करती हैं जैसे सिट्रस, वुडी, मस्क और फ्लोरल एलिमेंट्स। हमारे कलेक्शन में प्रीमियम यूनिसेक्स परफ्यूम्स हैं जो व्यक्तित्व की अभिव्यक्ति को बढ़ाते हैं और हर अवसर के लिए उपयुक्त हैं।",
+      "faq": [
+        {
+          "question": "यूनिसेक्स परफ्यूम्स किस तरह अलग होते हैं?",
+          "answer": "यूनिसेक्स परफ्यूम्स में न्यूट्रल और बैलेंस्ड फ्रेग्रेंस नोट्स होते हैं। ये सिट्रस, वुडी, अर्थी और फ्रेश एलिमेंट्स का मिश्रण करते हैं जो सभी जेंडर के लिए आकर्षक होते हैं।"
+        },
+        {
+          "question": "कौन सी यूनिसेक्स फ्रेग्रेंस ऑफिस के लिए बेस्ट है?",
+          "answer": "ऑफिस के लिए हल्के सिट्रस, फ्रेश और क्लीन नोट्स वाली यूनिसेक्स परफ्यूम्स चुनें। ये प्रोफेशनल एनवायरनमेंट के लिए परफेक्ट होती हैं और बहुत ज्यादा इंटेंस नहीं होतीं।"
+        },
+        {
+          "question": "यूनिसेक्स परफ्यूम्स की लॉन्गेविटी कैसी होती है?",
+          "answer": "यूनिसेक्स परफ्यूम्स में बैलेंस्ड फॉर्मुलेशन होता है जो अच्छी लॉन्गेविटी प्रदान करता है। वुडी और मस्क बेस नोट्स के कारण ये 6-8 घंटे तक टिकती हैं।"
+        }
+      ],
+      "seo_title": "यूनिसेक्स परफ्यूम्स एक्सपर्ट गाइड",
+      "seo_bottom": "Hello Beauty Blog यूनिसेक्स परफ्यूम्स के क्षेत्र में विशेषज्ञता रखता है। हमारे एक्सपर्ट्स की टीम आपको बेस्ट यूनिसेक्स फ्रेग्रेंसेज के बारे में विस्तृत जानकारी, रिव्यूज और गाइडेंस प्रदान करती है। हमारा लक्ष्य आपको परफेक्ट यूनिसेक्स परफ्यूम चुनने में मदद करना है।"
+    }
+  }
+}

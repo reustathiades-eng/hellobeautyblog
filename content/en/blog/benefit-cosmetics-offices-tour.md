@@ -1,5 +1,6 @@
 ---
 title: "Benefit Cosmetics Offices Tour"
+translationKey: "benefit-cosmetics-offices-tour"
 date: 2011-02-20
 categories: ["Blog"]
 brand: "IT Cosmetics"

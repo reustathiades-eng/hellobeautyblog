@@ -1,5 +1,6 @@
 ---
 title: "Benefit Brow Tint Review"
+translationKey: "benefit-brow-tint-review"
 date: 2010-08-15
 categories: ["Makeup"]
 brand: "Benefit Cosmetics"

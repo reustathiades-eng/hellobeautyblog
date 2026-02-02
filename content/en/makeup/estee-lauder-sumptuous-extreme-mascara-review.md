@@ -1,5 +1,6 @@
 ---
 title: "Estée Lauder Sumptuous Extreme Mascara Review"
+translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: estee-lauder-sumptuous-extreme-mascara-review
 brand: "Estée Lauder"

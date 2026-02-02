@@ -1,4 +1,5 @@
 ---
 title: "हेयरकेयर"
+translationKey: "section-haircare"
 description: "स्वस्थ, चमकदार बालों के लिए विशेषज्ञ टिप्स और उत्पाद समीक्षाएं।"
 ---

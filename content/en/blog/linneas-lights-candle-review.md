@@ -1,5 +1,6 @@
 ---
 title: "Linneas Lights Candle Review - Home Scents for Summer"
+translationKey: "linneas-lights-candle-review"
 date: 2010-08-25
 slug: linneas-lights-candle-review
 tags: ["candles", "home fragrance", "Linneas Lights"]

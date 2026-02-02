@@ -1,5 +1,6 @@
 ---
 title: "Sephora Vending Machines"
+translationKey: "sephora-vending-machines"
 date: 2009-12-20
 categories: ["Blog"]
 brand: "Sephora"

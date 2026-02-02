@@ -1,5 +1,6 @@
 ---
 title: "Living Proof No Frizz Review"
+translationKey: "living-proof-no-frizz-review"
 date: 2010-09-15
 images:
   - /images/haircare/living-proof-no-frizz-review.jpg

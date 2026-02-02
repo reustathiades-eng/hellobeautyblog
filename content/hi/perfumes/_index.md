@@ -1,4 +1,5 @@
 ---
 title: "परफ्यूम"
+translationKey: "section-perfumes"
 description: "महिलाओं, पुरुषों और यूनिसेक्स के लिए हमारे पूर्ण फ्रेगरेंस कलेक्शन की खोज करें।"
 ---

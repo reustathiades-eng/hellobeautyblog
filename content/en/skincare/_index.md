@@ -1,5 +1,6 @@
 ---
 title: "Skincare"
+translationKey: "section-skincare"
 description: "Expert skincare tips, product reviews, and routines for healthy, glowing skin"
 ---
 

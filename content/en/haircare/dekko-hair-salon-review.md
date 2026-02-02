@@ -1,5 +1,6 @@
 ---
 title: "Dekko Hair Salon Review"
+translationKey: "dekko-hair-salon-review"
 date: 2010-07-20
 images:
   - /images/haircare/dekko-hair-salon-review.jpg

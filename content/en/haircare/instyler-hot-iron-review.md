@@ -1,5 +1,6 @@
 ---
 title: "InStyler Hot Iron Review - How to Use It"
+translationKey: "instyler-hot-iron-review"
 date: 2010-09-15
 images:
   - /images/haircare/instyler-hot-iron-review.jpg

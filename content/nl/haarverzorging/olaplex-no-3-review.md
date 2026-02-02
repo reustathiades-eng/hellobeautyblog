@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: De Revolutionaire Haarherstellende Behandeling"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["Haarverzorging"]
 brand: "Olaplex"

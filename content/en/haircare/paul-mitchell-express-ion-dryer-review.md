@@ -1,5 +1,6 @@
 ---
 title: "Paul Mitchell Express Ion Dryer Review"
+translationKey: "paul-mitchell-express-ion-dryer-review"
 date: 2011-04-25
 images:
   - /images/haircare/paul-mitchell-express-ion-dryer-review.jpg

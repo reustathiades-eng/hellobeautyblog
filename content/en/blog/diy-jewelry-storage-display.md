@@ -1,5 +1,6 @@
 ---
 title: "DIY: How to Make an Easy, Elegant Jewelry Organizer and Display"
+translationKey: "diy-jewelry-storage-display"
 description: "How to directions for making an easy, inexpensive, elegant DIY jewelry organizer and display board for necklaces and bracelets."
 keywords: ["jewelry board", "jewelry organizer", "DIY jewelry storage", "necklace display", "jewelry hanger", "how to store jewelry", "jewelry organization tips"]
 date: 2010-05-18

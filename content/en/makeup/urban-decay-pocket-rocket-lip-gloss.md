@@ -1,5 +1,6 @@
 ---
 title: "Urban Decay Pocket Rocket Lip Gloss Review"
+translationKey: "urban-decay-pocket-rocket-lip-gloss"
 date: 2010-07-20
 slug: urban-decay-pocket-rocket-lip-gloss
 brand: "Urban Decay"

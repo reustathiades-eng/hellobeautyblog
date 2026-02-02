@@ -1,5 +1,6 @@
 ---
 title: "Best Mascaras and Waterproof Tips"
+translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["Makeup"]
 ---

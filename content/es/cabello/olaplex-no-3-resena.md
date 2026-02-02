@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: El Tratamiento Reparador que Revoluciona tu Cabello"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 lastmod: 2026-01-30
 categories: ["Cabello"]

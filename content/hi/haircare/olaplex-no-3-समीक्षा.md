@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: क्रांतिकारी हेयर रिपेयर ट्रीटमेंट"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["हेयर केयर"]
 brand: "Olaplex"

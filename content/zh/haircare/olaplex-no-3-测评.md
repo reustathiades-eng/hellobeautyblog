@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3：革命性护发修复精华"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["护发"]
 brand: "Olaplex"

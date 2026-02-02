@@ -1,5 +1,6 @@
 ---
 title: "Estee Lauder Pure Color Gloss"
+translationKey: "estee-lauder-pure-color-gloss"
 date: 2010-07-25
 categories: ["Makeup"]
 brand: "Estée Lauder"

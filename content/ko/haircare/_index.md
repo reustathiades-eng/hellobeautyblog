@@ -1,4 +1,5 @@
 ---
 title: "헤어케어"
+translationKey: "section-haircare"
 description: "건강하고 윤기 나는 모발을 위한 전문가 팁과 제품 리뷰."
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: Rewolucyjna Kuracja Naprawcza do Włosów"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["Włosy"]
 brand: "Olaplex"

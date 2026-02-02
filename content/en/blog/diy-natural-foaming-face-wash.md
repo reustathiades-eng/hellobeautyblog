@@ -1,5 +1,6 @@
 ---
 title: "DIY Natural Foaming Face Wash - Beauty 101"
+translationKey: "diy-natural-foaming-face-wash"
 date: 2011-04-05
 slug: diy-natural-foaming-face-wash
 tags: ["DIY", "natural beauty", "face wash"]

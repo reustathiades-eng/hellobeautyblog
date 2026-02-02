@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: علاج إصلاح الشعر الثوري"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["العناية بالشعر"]
 brand: "Olaplex"

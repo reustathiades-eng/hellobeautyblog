@@ -1,5 +1,6 @@
 ---
 title: "Healthy DIY Microwave Popcorn"
+translationKey: "healthy-diy-microwave-popcorn"
 date: 2010-02-20
 categories: ["Blog"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Shu Uemura Leaving the US - Last Days Countdown"
+translationKey: "shu-uemura-leaving-us"
 date: 2010-05-10
 slug: shu-uemura-leaving-us
 tags: ["Shu Uemura", "beauty news", "San Francisco"]

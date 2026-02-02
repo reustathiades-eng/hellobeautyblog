@@ -1,5 +1,6 @@
 ---
 title: "Organic Island Shell Lip Balm Review"
+translationKey: "organic-island-shell-lip-balm-review"
 date: 2010-08-10
 categories: ["Makeup"]
 brand: "Organic Island"

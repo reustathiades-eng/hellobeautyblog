@@ -1,5 +1,6 @@
 ---
 title: "CoverGirl Lash Blast Fusion Review"
+translationKey: "covergirl-lash-blast-fusion-review"
 date: 2010-08-20
 categories: ["Makeup"]
 brand: "CoverGirl"

@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: 혁신적인 헤어 리페어 트리트먼트"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["헤어케어"]
 brand: "Olaplex"

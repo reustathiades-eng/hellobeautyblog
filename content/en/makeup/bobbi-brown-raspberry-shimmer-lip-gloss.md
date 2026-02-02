@@ -1,5 +1,6 @@
 ---
 title: "Bobbi Brown Raspberry Shimmer Lip Gloss Review"
+translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 date: 2010-07-15
 categories: ["Makeup"]
 brand: "Bobbi Brown"

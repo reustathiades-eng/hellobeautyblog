@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3：革命的なヘアリペアトリートメント"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["ヘアケア"]
 brand: "Olaplex"

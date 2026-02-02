@@ -1,4 +1,5 @@
 ---
 title: "향수"
+translationKey: "section-perfumes"
 description: "여성, 남성, 유니섹스를 위한 전체 향수 컬렉션을 만나보세요."
 ---

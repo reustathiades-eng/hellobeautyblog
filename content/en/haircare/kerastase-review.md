@@ -1,5 +1,6 @@
 ---
 title: "Kérastase Review - The Secret to Shiny Hair"
+translationKey: "kerastase-review"
 date: 2010-08-20
 images:
   - /images/haircare/kerastase-review.jpg

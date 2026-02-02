@@ -1,0 +1,1990 @@
+{
+  "en": {
+    "floral": {
+      "intro_title": "Discover the Enchanting World of Floral Perfumes",
+      "intro": "Floral perfumes represent the most beloved and timeless olfactory family in perfumery, capturing the essence of blooming gardens and romantic femininity. This classic fragrance category features heart notes of rose, jasmine, peony, lily of the valley, and violet, creating compositions that range from fresh and dewy to rich and intoxicating. Floral fragrances embody elegance, grace, and natural beauty.",
+      "faq": [
+        {
+          "question": "What are the most popular floral notes in perfumes?",
+          "answer": "Rose, jasmine, peony, lily of the valley, and violet are the most cherished floral notes. These blooms create the foundation of classic floral compositions, offering everything from fresh morning dew scents to opulent evening fragrances."
+        },
+        {
+          "question": "Are floral perfumes suitable for all seasons?",
+          "answer": "Yes, floral perfumes adapt beautifully to every season. Light, fresh florals like lily of the valley work perfectly for spring and summer, while rich, opulent florals with deeper base notes complement autumn and winter wardrobes."
+        },
+        {
+          "question": "How do floral perfumes differ from other fragrance families?",
+          "answer": "Floral perfumes focus primarily on flower essences as their main character, creating naturally feminine and romantic compositions. Unlike woody or oriental families, florals emphasize the pure, recognizable scent of blooming flowers and garden freshness."
+        }
+      ],
+      "seo_title": "Expert Floral Perfume Curation",
+      "seo_bottom": "Hello Beauty Blog curates the finest floral perfumes from prestigious luxury houses, offering expert insights into rose, jasmine, and peony compositions. Our beauty specialists provide detailed fragrance reviews, helping you discover your perfect floral signature scent that captures timeless femininity and garden-fresh elegance."
+    },
+    "oriental": {
+      "intro_title": "Oriental Perfumes: Exotic Luxury and Warmth",
+      "intro": "Oriental perfumes embody opulence and sensuality through rich, warm compositions built on precious ingredients like amber, vanilla, incense, and exotic spices. This distinguished olfactory family creates intoxicating fragrances that evoke mystery and sophistication. Oriental scents often feature resinous base notes, sweet balsams, and aromatic woods, delivering long-lasting, enveloping experiences perfect for evening wear and special occasions.",
+      "faq": [
+        {
+          "question": "What are the main characteristics of oriental perfumes?",
+          "answer": "Oriental perfumes feature warm, rich ingredients like amber, vanilla, spices, and resins. They're typically intense, long-lasting, and create sensual, mysterious compositions perfect for cooler weather and evening occasions."
+        },
+        {
+          "question": "Which notes define the oriental fragrance family?",
+          "answer": "Key oriental notes include amber, vanilla, benzoin, labdanum, incense, cinnamon, cardamom, and sandalwood. These ingredients create the family's signature warmth, sweetness, and exotic character that distinguishes oriental perfumes."
+        },
+        {
+          "question": "When should I wear oriental perfumes?",
+          "answer": "Oriental perfumes are ideal for evening events, romantic occasions, and cooler seasons. Their rich, intense nature makes them perfect for special moments when you want a memorable, sophisticated fragrance presence."
+        }
+      ],
+      "seo_title": "Expert Oriental Perfume Reviews",
+      "seo_bottom": "Hello Beauty Blog provides comprehensive oriental perfume reviews and expert recommendations. Our beauty specialists analyze the finest amber, vanilla, and spice-based fragrances, helping you discover luxurious oriental scents that match your sophisticated taste and lifestyle preferences."
+    },
+    "woody": {
+      "intro_title": "Woody Perfumes: Nature's Most Sophisticated Fragrances",
+      "intro": "Woody perfumes represent sophistication and timeless elegance in fragrance artistry. Built around precious woods like sandalwood, cedar, and oud, these compositions offer warm, grounding base notes that create lasting sillage. The woody olfactory family encompasses everything from creamy sandalwood to smoky vetiver, delivering both masculine strength and unisex appeal that transcends seasons.",
+      "faq": [
+        {
+          "question": "What are the main ingredients in woody perfumes?",
+          "answer": "Woody fragrances feature sandalwood, cedar, vetiver, oud, patchouli, and rosewood as core ingredients. These natural and synthetic wood notes create the family's signature warm, grounding character."
+        },
+        {
+          "question": "Are woody perfumes suitable for all seasons?",
+          "answer": "Yes, woody perfumes are versatile year-round fragrances. Lighter woody compositions work beautifully in spring and summer, while richer, smokier woods are perfect for autumn and winter wear."
+        },
+        {
+          "question": "How do woody perfumes differ from other fragrance families?",
+          "answer": "Woody perfumes offer exceptional longevity and depth compared to citrus or floral families. They provide sophisticated, grounding base notes that create intimate sillage and mature elegance."
+        }
+      ],
+      "seo_title": "Expert Woody Perfume Curation",
+      "seo_bottom": "Hello Beauty Blog curates the finest woody perfumes from prestigious niche and luxury houses. Our expert reviews guide you through sandalwood classics, rare oud compositions, and modern cedar innovations. Discover your signature woody fragrance through our carefully selected collection of sophisticated, long-lasting scents."
+    },
+    "fresh": {
+      "intro_title": "Fresh Perfumes: Clean, Crisp, and Invigorating Fragrances",
+      "intro": "Fresh perfumes embody the essence of cleanliness, vitality, and natural purity. This beloved olfactory family features zesty citrus notes like bergamot and lemon, aquatic accords that evoke ocean breezes, and crisp green elements including cucumber and mint. These light, airy compositions deliver an immediate burst of energy and sophistication, making them perfect for daily wear and warmer seasons.",
+      "faq": [
+        {
+          "question": "What ingredients define fresh perfumes?",
+          "answer": "Fresh perfumes typically contain citrus oils (lemon, bergamot, grapefruit), aquatic notes, green leaves, herbs like mint and basil, and marine accords that create clean, invigorating scents."
+        },
+        {
+          "question": "When should you wear fresh fragrances?",
+          "answer": "Fresh perfumes excel during daytime, warm weather, office environments, and casual occasions. Their clean, non-overwhelming nature makes them ideal for everyday wear and professional settings."
+        },
+        {
+          "question": "How long do fresh perfumes typically last?",
+          "answer": "Fresh fragrances generally have lighter longevity, lasting 3-6 hours on skin. Their volatile citrus and aquatic notes evaporate quickly, but this creates their signature clean, refreshing character."
+        }
+      ],
+      "seo_title": "Discover Fresh Perfumes at Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog curates the finest fresh perfumes from luxury and niche brands. Our expert reviews and detailed fragrance profiles help you discover clean, invigorating scents that match your lifestyle. Explore our carefully selected collection of citrus, aquatic, and green fragrances today."
+    },
+    "gourmand": {
+      "intro_title": "Gourmand Perfumes: Edible Elegance in Every Bottle",
+      "intro": "Gourmand perfumes transform delicious culinary ingredients into luxurious fragrances that awaken the senses. This olfactory family features edible notes like vanilla, chocolate, caramel, honey, and warm spices, creating compositions that are both comforting and sophisticated. These dessert-inspired scents blend sweet indulgence with refined artistry, offering wearers an irresistible sensory experience that's both familiar and mysteriously alluring.",
+      "faq": [
+        {
+          "question": "What makes a perfume gourmand?",
+          "answer": "Gourmand perfumes contain edible ingredients like vanilla, chocolate, caramel, or spices as dominant notes. These food-inspired elements create sweet, dessert-like fragrances that evoke culinary memories and comfort."
+        },
+        {
+          "question": "Are gourmand perfumes too sweet for everyday wear?",
+          "answer": "Modern gourmand fragrances offer diverse sweetness levels. Many feature balanced compositions with woody or floral notes that temper sweetness, making them perfectly suitable for daily wear."
+        },
+        {
+          "question": "Which season is best for wearing gourmand perfumes?",
+          "answer": "While gourmand scents excel in cooler months due to their warm, cozy nature, lighter gourmand compositions with fruity or floral elements work beautifully in spring and summer."
+        }
+      ],
+      "seo_title": "Discover Gourmand Perfumes at Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog curates the finest gourmand perfumes from luxury brands worldwide. Our beauty experts provide detailed reviews, ingredient analysis, and styling tips for dessert-inspired fragrances. Explore our comprehensive collection of sweet, edible scents and discover your perfect gourmand signature fragrance today."
+    },
+    "aromatic": {
+      "intro_title": "Discover the Fresh World of Aromatic Perfumes",
+      "intro": "Aromatic perfumes capture the essence of Mediterranean herbs and fresh botanicals, creating invigorating and natural fragrances. This distinguished olfactory family features lavender, rosemary, sage, and mint as signature notes, delivering crisp, clean compositions. Aromatic fragrances evoke sun-drenched gardens and morning dewdrops, offering a refreshing alternative to heavier scent families with their herbaceous character.",
+      "faq": [
+        {
+          "question": "What makes aromatic perfumes different from other fragrance families?",
+          "answer": "Aromatic perfumes are defined by their fresh herbal notes like lavender, rosemary, and sage. They offer a clean, natural scent profile that's distinctly different from floral or oriental families."
+        },
+        {
+          "question": "Are aromatic fragrances suitable for both men and women?",
+          "answer": "Yes, aromatic perfumes are inherently unisex due to their fresh, herbaceous nature. The clean botanical notes appeal to anyone seeking natural, refreshing fragrances regardless of gender."
+        },
+        {
+          "question": "When is the best time to wear aromatic perfumes?",
+          "answer": "Aromatic fragrances are perfect for daytime wear, especially during spring and summer. Their fresh, energizing qualities make them ideal for office settings and casual outdoor activities."
+        }
+      ],
+      "seo_title": "Expert Aromatic Perfume Guidance",
+      "seo_bottom": "Hello Beauty Blog curates the finest aromatic perfumes, offering expert insights into herbaceous fragrances and botanical compositions. Our luxury beauty specialists guide you through lavender-infused scents, sage-centered blends, and Mediterranean-inspired aromatic creations. Discover your perfect fresh fragrance with our comprehensive aromatic perfume collection and professional recommendations."
+    },
+    "chypre": {
+      "intro_title": "Sophisticated Chypre Perfumes: Timeless Olfactory Elegance",
+      "intro": "Chypre perfumes represent one of perfumery's most distinguished olfactory families, characterized by the harmonious blend of bergamot, oakmoss, and labdanum. This sophisticated fragrance structure creates a distinctive woody-mossy foundation with bright citrus top notes. Named after Cyprus, where François Coty first crafted this iconic composition in 1917, chypre fragrances embody refined elegance and mysterious allure, making them perfect for discerning fragrance connoisseurs.",
+      "faq": [
+        {
+          "question": "What makes a perfume belong to the chypre family?",
+          "answer": "A perfume is classified as chypre when it features the classic triad of bergamot citrus top notes, floral or fruity heart notes, and a distinctive base of oakmoss and labdanum, creating the signature woody-mossy character."
+        },
+        {
+          "question": "Are chypre perfumes better for specific occasions?",
+          "answer": "Chypre fragrances excel in sophisticated settings due to their elegant, mysterious character. They're perfect for evening events, professional environments, and cooler weather, offering refined complexity that commands attention without overwhelming."
+        },
+        {
+          "question": "How do modern chypre perfumes differ from vintage ones?",
+          "answer": "Modern chypre perfumes often substitute or reduce oakmoss due to IFRA regulations, using alternative woody-mossy accords. Contemporary interpretations may feature enhanced fruity or floral elements while maintaining the family's sophisticated structure."
+        }
+      ],
+      "seo_title": "Expert Chypre Perfume Reviews & Recommendations",
+      "seo_bottom": "Hello Beauty Blog's fragrance experts provide comprehensive chypre perfume reviews and recommendations. Our team analyzes composition complexity, longevity, and projection to help you discover your perfect woody-mossy fragrance. Trust our expertise to navigate this sophisticated olfactory family and find chypre perfumes that match your refined taste and lifestyle preferences."
+    }
+  },
+  "fr": {
+    "floral": {
+      "intro_title": "Parfums Floraux : L'Élégance des Jardins Éternels",
+      "intro": "La famille olfactive florale représente l'essence même de la féminité en parfumerie. Composée de notes emblématiques comme la rose, le jasmin, la pivoine et la fleur d'oranger, cette famille se caractérise par sa délicatesse romantique et sa sophistication naturelle. Les parfums floraux offrent une palette infinie, des bouquets poudrés aux compositions florales-fruitées modernes, séduisant par leur fraîcheur printanière et leur élégance intemporelle.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes florales les plus populaires en parfumerie ?",
+          "answer": "Les notes florales emblématiques incluent la rose de Bulgarie, le jasmin sambac, la pivoine, la fleur d'oranger, le muguet et la violette, chacune apportant sa signature olfactive unique."
+        },
+        {
+          "question": "Comment choisir un parfum floral selon sa personnalité ?",
+          "answer": "Les floraux poudrés conviennent aux personnalités romantiques, les floraux-frais aux tempéraments dynamiques, et les floraux-orientaux aux caractères passionnés et mystérieux."
+        },
+        {
+          "question": "Les parfums floraux conviennent-ils à toutes les saisons ?",
+          "answer": "Oui, les floraux légers et frais subliment le printemps-été, tandis que les compositions florales-boisées ou florales-ambrées s'épanouissent parfaitement en automne-hiver."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Votre Expert Parfums Floraux",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers raffiné des parfums floraux avec des sélections expertes et des conseils personnalisés. Notre équipe de spécialistes décrypte chaque composition florale pour vous aider à trouver votre signature olfactive parfaite, alliant tradition parfumée française et innovations contemporaines dans l'art de la parfumerie florale."
+    },
+    "oriental": {
+      "intro_title": "Parfums Orientaux : L'Art de la Séduction Mystérieuse",
+      "intro": "Les parfums orientaux incarnent l'opulence et le mystère avec leurs accords chaleureux et sensuels. Cette famille olfactive se distingue par ses notes de vanille, ambre, musc et épices exotiques comme la cannelle et le patchouli. Riches et capiteux, ces fragrances orientales dévoilent une signature olfactive intense et envoûtante, parfaite pour les soirées élégantes et les moments d'exception.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes caractéristiques des parfums orientaux ?",
+          "answer": "Les parfums orientaux se composent principalement de vanille, ambre, musc, épices chaudes, résines balsamiques et bois précieux comme le santal et l'oud, créant des accords profonds et chaleureux."
+        },
+        {
+          "question": "À quel moment porter un parfum de la famille orientale ?",
+          "answer": "Les fragrances orientales conviennent parfaitement aux soirées, saisons froides et occasions spéciales grâce à leur intensité et leur caractère sophistiqué qui rayonne dans l'intimité."
+        },
+        {
+          "question": "Comment reconnaître un parfum oriental authentique ?",
+          "answer": "Un vrai parfum oriental révèle une pyramide olfactive complexe avec des notes de fond persistantes, une texture veloutée et une évolution graduelle vers des accords épicés et balsamiques enveloppants."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Expertise Parfums Orientaux",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers fascinant des parfums orientaux avec des analyses détaillées et des recommandations expertes. Notre équipe de spécialistes décrypte les créations les plus raffinées de cette famille olfactive emblématique pour vous aider à trouver votre signature parfumée orientale idéale."
+    },
+    "woody": {
+      "intro_title": "Parfums Boisés : L'Essence de l'Élégance Naturelle",
+      "intro": "Les parfums boisés captivent par leur sophistication intemporelle et leur caractère profondément enraciné dans la nature. Cette famille olfactive noble s'articule autour d'ingrédients emblématiques comme le santal, le cèdre, le vétiver et l'oud. Chauds et enveloppants, ces parfums évoquent la force tranquille des forêts, offrant une signature olfactive à la fois moderne et authentique, parfaite pour exprimer une personnalité raffinée.",
+      "faq": [
+        {
+          "question": "Quels sont les ingrédients phares des parfums boisés ?",
+          "answer": "Le santal, le cèdre, le vétiver, l'oud et le patchouli constituent les piliers de cette famille. Ces essences naturelles apportent profondeur, chaleur et sophistication aux compositions parfumées."
+        },
+        {
+          "question": "Les parfums boisés conviennent-ils mieux aux hommes ou aux femmes ?",
+          "answer": "Les parfums boisés transcendent les genres. Leur caractère universel séduit autant les hommes que les femmes, offrant une élégance naturelle qui s'adapte à toutes les personnalités raffinées."
+        },
+        {
+          "question": "Quelle est la tenue des parfums de la famille boisée ?",
+          "answer": "Les parfums boisés excellent par leur longévité remarquable. Leurs molécules lourdes et profondes garantissent une tenue exceptionnelle, souvent supérieure à 8 heures sur la peau."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog et les Parfums Boisés",
+      "seo_bottom": "Hello Beauty Blog décrypte l'univers fascinant des parfums boisés avec expertise. Notre sélection rigoureuse met en lumière les créations les plus raffinées de cette famille olfactive noble. Découvrez nos analyses détaillées, conseils d'application et guides d'achat pour choisir votre signature boisée idéale."
+    },
+    "fresh": {
+      "intro_title": "Parfums Frais : L'Élégance de la Fraîcheur",
+      "intro": "La famille olfactive fraîche incarne la pureté et la vitalité en parfumerie. Caractérisée par des notes d'agrumes pétillants, d'herbes aromatiques et d'accords aquatiques, cette famille offre une sensation de propreté et d'énergie. Les parfums frais intègrent souvent la bergamote, le citron, la menthe ou les notes marines pour créer des compositions vivifiantes et intemporelles.",
+      "faq": [
+        {
+          "question": "Quels sont les ingrédients typiques des parfums frais ?",
+          "answer": "Les parfums frais privilégient les agrumes (citron, bergamote, pamplemousse), les herbes aromatiques (menthe, basilic), les notes aquatiques et les accords ozônés qui évoquent la brise marine."
+        },
+        {
+          "question": "À quel moment porter un parfum de la famille fraîche ?",
+          "answer": "Les parfums frais sont idéaux pour le quotidien, les matinées d'été, le sport ou le bureau. Leur caractère léger et énergisant convient parfaitement aux journées chaudes."
+        },
+        {
+          "question": "Comment reconnaître un parfum de la famille fraîche ?",
+          "answer": "Un parfum frais se reconnaît par sa vivacité immédiate, ses notes pétillantes en tête, sa sensation de propreté et son caractère rafraîchissant qui évoque l'eau et la nature."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog et les Parfums Frais",
+      "seo_bottom": "Hello Beauty Blog, votre référence en parfumerie de luxe, vous guide dans l'univers des parfums frais. Notre expertise vous aide à découvrir les créations les plus rafraîchissantes et à choisir la fragrance fraîche qui sublimera votre style avec élégance et authenticité."
+    },
+    "gourmand": {
+      "intro_title": "Parfums Gourmands : L'Art de la Séduction Sucrée",
+      "intro": "Les parfums gourmands transforment la parfumerie en véritable pâtisserie olfactive. Cette famille séduit par ses notes de vanille, caramel, chocolat, miel et épices douces qui évoquent desserts et délices culinaires. Nés dans les années 1990, ces fragrances créent une aura réconfortante et sensuelle, mêlant gourmandise et sophistication pour une expérience olfactive irrésistible.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes principales des parfums gourmands ?",
+          "answer": "Les parfums gourmands privilégient la vanille, le caramel, le chocolat, la praline, le miel, la cannelle et les fruits confits. Ces notes créent des accords sucrés et réconfortants rappelant la pâtisserie."
+        },
+        {
+          "question": "À quelle occasion porter un parfum gourmand ?",
+          "answer": "Les parfums gourmands conviennent parfaitement aux soirées romantiques, aux saisons froides et aux moments intimes. Leur sillage chaleureux et enveloppant crée une atmosphère séductrice et réconfortante."
+        },
+        {
+          "question": "Comment reconnaître un vrai parfum gourmand ?",
+          "answer": "Un parfum gourmand authentique développe des notes sucrées sans être écœurant. Il équilibre gourmandise et élégance, évoquant des saveurs culinaires tout en conservant sa sophistication parfumée."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Parfums Gourmands",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers envoûtant des parfums gourmands. Notre expertise vous aide à découvrir les créations les plus raffinées de cette famille olfactive, des vanilles les plus précieuses aux accords caramelisés les plus sophistiqués, pour une expérience parfumée gourmande et luxueuse."
+    },
+    "aromatic": {
+      "intro_title": "Parfums Aromatiques : L'Élégance Fraîche et Vivifiante",
+      "intro": "Les parfums aromatiques séduisent par leur fraîcheur herbacée et leur caractère vivifiant. Cette famille olfactive puise son essence dans les plantes aromatiques comme la lavande, le romarin, la sauge et le thym. Avec leurs notes vertes et camphrées, ces fragrances offrent une sensation de pureté et d'énergie naturelle, parfaites pour exprimer une élégance décontractée et moderne.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes principales des parfums aromatiques ?",
+          "answer": "Les parfums aromatiques se composent principalement de lavande, romarin, sauge, thym, basilic et estragon. Ces plantes méditerranéennes apportent fraîcheur herbacée et caractère naturel aux compositions parfumées."
+        },
+        {
+          "question": "À quelle occasion porter un parfum aromatique ?",
+          "answer": "Les parfums aromatiques conviennent parfaitement au quotidien, aux activités sportives et aux moments décontractés. Leur fraîcheur en fait des alliés idéaux pour le printemps et l'été."
+        },
+        {
+          "question": "Les parfums aromatiques sont-ils plutôt masculins ou féminins ?",
+          "answer": "Traditionnellement associés aux parfums masculins, les aromatiques séduisent aujourd'hui tous les genres. Leur caractère frais et naturel transcende les conventions pour s'adapter à chaque personnalité."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog et les Parfums Aromatiques",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers des parfums aromatiques avec expertise et passion. Notre sélection de fragrances herbacées révèle les plus belles créations olfactives de cette famille rafraîchissante. Découvrez nos analyses détaillées et conseils personnalisés pour trouver votre signature aromatique parfaite."
+    },
+    "chypre": {
+      "intro_title": "Parfums Chypre : L'Élégance Sophistiquée et Intemporelle",
+      "intro": "Les parfums chypre incarnent l'essence même de la sophistication olfactive. Cette famille emblématique se caractérise par un accord signature entre bergamote pétillante en tête, notes florales au cœur et fond boisé-mousse de chêne. Ces compositions complexes offrent un sillage mystérieux et raffiné, évoquant la nature méditerranéenne avec leurs facettes à la fois fraîches et sensuelles, parfaites pour les personnalités affirmées.",
+      "faq": [
+        {
+          "question": "Quelles sont les notes caractéristiques des parfums chypre ?",
+          "answer": "Les chypres reposent sur un accord classique : bergamote en tête, notes florales (rose, jasmin) au cœur, et un fond de mousse de chêne, patchouli et labdanum pour une signature boisée-mousse distinctive."
+        },
+        {
+          "question": "À quelle occasion porter un parfum chypre ?",
+          "answer": "Les chypres conviennent parfaitement aux soirées élégantes, aux saisons fraîches et aux moments où l'on souhaite affirmer sa personnalité avec sophistication et mystère."
+        },
+        {
+          "question": "Quelle est la différence entre chypre fruité et chypre floral ?",
+          "answer": "Le chypre fruité intègre des notes de fruits (cassis, pêche) pour plus de gourmandise, tandis que le chypre floral privilégie les essences florales comme la rose ou l'ylang-ylang."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Votre Expert Chypre",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers raffiné des parfums chypre avec une sélection experte des plus belles créations. Notre équipe de spécialistes décrypte pour vous les nuances de cette famille olfactive prestigieuse, des grands classiques aux créations contemporaines, pour vous aider à trouver votre signature chypre idéale."
+    }
+  },
+  "de": {
+    "floral": {
+      "intro_title": "Blumige Düfte: Die feminine Welt floraler Parfums",
+      "intro": "Florale Parfums verkörpern die Essenz der Weiblichkeit und natürlichen Eleganz. Diese Duftfamilie basiert auf kostbaren Blütenextrakten wie Rose, Jasmin, Maiglöckchen und Pfingstrose. Von zarten Soliflores bis hin zu opulenten Bouquets bieten florale Kompositionen eine beeindruckende Vielfalt. Sie vermitteln Romantik, Frische und zeitlose Sophistication - perfekt für Frauen, die ihre natürliche Ausstrahlung unterstreichen möchten.",
+      "faq": [
+        {
+          "question": "Was charakterisiert florale Parfums am besten?",
+          "answer": "Florale Düfte basieren hauptsächlich auf Blütenextrakten und -absolues. Sie wirken feminin, romantisch und natürlich. Typische Noten sind Rose, Jasmin, Pfingstrose und Maiglöckchen, oft ergänzt durch grüne oder pudrige Akzente."
+        },
+        {
+          "question": "Welche Untergruppen gibt es bei floralen Parfums?",
+          "answer": "Man unterscheidet zwischen Soliflores (einzelne Blüte), floralen Bouquets (Blütenmischungen), grün-floralen und orientalisch-floralen Kompositionen. Jede Kategorie bietet unterschiedliche Intensitäten und Charaktere für verschiedene Anlässe."
+        },
+        {
+          "question": "Zu welchen Anlässen eignen sich florale Düfte?",
+          "answer": "Florale Parfums sind vielseitig einsetzbar - von frischen Tagesduft bis zum eleganten Abendduf. Sie passen perfekt zu romantischen Anlässen, Frühlings- und Sommertagen sowie formellen Events, wo Weiblichkeit betont werden soll."
+        }
+      ],
+      "seo_title": "Florale Parfums bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert exquisite florale Parfums renommierter Luxusmarken. Unsere Expertise in der Duftberatung hilft Ihnen, das perfekte blumige Parfum zu finden. Entdecken Sie unsere kuratierte Auswahl femininer Düfte und profitieren Sie von fundiertem Parfumwissen unserer Beauty-Experten."
+    },
+    "oriental": {
+      "intro_title": "Orientalische Parfums - Sinnliche Duftkomposition Entdecken",
+      "intro": "Orientalische Parfums verkörpern pure Sinnlichkeit und Wärme durch ihre charakteristische Basis aus Amber, Vanille und kostbaren Harzen. Diese luxuriöse Duftfamilie kombiniert exotische Gewürze wie Zimt und Nelken mit opulenten Hölzern und süßen Noten. Oriental-Düfte schaffen eine geheimnisvolle, verführerische Aura und eignen sich besonders für abendliche Anlässe und die kälteren Monate.",
+      "faq": [
+        {
+          "question": "Was macht orientalische Parfums so besonders?",
+          "answer": "Orientalische Düfte zeichnen sich durch warme, sinnliche Basisnoten wie Amber, Vanille und Moschus aus. Sie kombinieren süße und würzige Elemente zu einer luxuriösen, langanhaltenden Komposition."
+        },
+        {
+          "question": "Wann sollte man orientalische Parfums tragen?",
+          "answer": "Oriental-Parfums eignen sich ideal für Abendveranstaltungen, romantische Anlässe und die kühleren Jahreszeiten. Ihre intensive Ausstrahlung macht sie perfekt für besondere Momente."
+        },
+        {
+          "question": "Welche Noten sind typisch für orientalische Düfte?",
+          "answer": "Charakteristische Noten sind Amber, Vanille, Weihrauch, Sandelholz, Zimt, Kardamom und Moschus. Diese schaffen die warme, geheimnisvolle Signatur der orientalischen Duftfamilie."
+        }
+      ],
+      "seo_title": "Orientalische Parfums bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert eine exklusive Auswahl orientalischer Parfums von Luxusmarken. Unsere Duftexperten analysieren jede Oriental-Komposition detailliert und bieten authentische Bewertungen. Entdecken Sie sinnliche Amber- und Vanille-Kreationen sowie die neuesten Trends der orientalischen Parfumerie in unserem professionellen Beauty-Magazin."
+    },
+    "woody": {
+      "intro_title": "Holzige Parfums - Charakterstark und Zeitlos Elegant",
+      "intro": "Holzige Parfums verkörpern Wärme, Tiefe und natürliche Eleganz. Diese Duftfamilie basiert auf edlen Hölzern wie Sandelholz, Zedernholz und Vetiver, die für ihre erdigen, cremigen und manchmal rauchigen Nuancen geschätzt werden. Holzige Noten verleihen Kompositionen Struktur und Beständigkeit, während sie gleichzeitig Sinnlichkeit und sophisticated Ausstrahlung vermitteln. Von puristischen Soliflores bis zu komplexen orientalisch-holzigen Kreationen bietet diese Familie vielseitige Dufterlebnisse.",
+      "faq": [
+        {
+          "question": "Welche Holznoten sind in Parfums am beliebtesten?",
+          "answer": "Sandelholz gilt als König der Holznoten mit seiner cremig-warmen Ausstrahlung. Zedernholz bringt trockene Eleganz, während Vetiver erdige Frische verleiht. Auch Oud, Rosenholz und Palisander sind geschätzte holzige Komponenten."
+        },
+        {
+          "question": "Passen holzige Düfte besser zu bestimmten Jahreszeiten?",
+          "answer": "Holzige Parfums sind besonders im Herbst und Winter beliebt, da ihre warmen, umhüllenden Eigenschaften perfekt zur kälteren Jahreszeit passen. Leichtere holzige Kompositionen mit frischen Akzenten funktionieren jedoch ganzjährig wunderbar."
+        },
+        {
+          "question": "Sind holzige Parfums eher maskulin oder feminin?",
+          "answer": "Holzige Noten gelten traditionell als maskulin, moderne Parfümerie zeigt jedoch, dass sie unisex sind. Viele holzige Damendüfte kombinieren warme Hölzer mit floralen oder fruchtigen Elementen für feminine Eleganz."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Holzige Parfum Expertise",
+      "seo_bottom": "Hello Beauty Blog ist Ihr vertrauensvoller Ratgeber für holzige Parfums. Unsere Experten analysieren die neuesten Launches, klassische Kreationen und aufstrebende Nischendüfte dieser zeitlosen Duftfamilie. Entdecken Sie fundierte Reviews, Duftvergleiche und Styling-Tipps für holzige Kompositionen, die Ihrem persönlichen Stil entsprechen."
+    },
+    "fresh": {
+      "intro_title": "Frische Düfte: Die belebende Welt der Fresh-Familie",
+      "intro": "Fresh-Parfums verkörpern Leichtigkeit und natürliche Eleganz. Diese Duftfamilie zeichnet sich durch erfrischende Zitrusnoten, grüne Blätter, Meeresbrise und aquatische Akkorde aus. Mit ihrer klaren, sauberen Ausstrahlung vermitteln frische Düfte ein Gefühl von Vitalität und Reinheit. Perfekt für den Alltag oder warme Sommertage, bieten diese Parfums eine belebende und moderne Interpretation klassischer Parfümerie.",
+      "faq": [
+        {
+          "question": "Welche Noten prägen Fresh-Parfums besonders?",
+          "answer": "Zitrusfrüchte wie Bergamotte und Limette, grüne Noten, Meerwasser-Akkorde und frische Kräuter wie Minze definieren diese lebendige Duftfamilie und sorgen für ihre charakteristische Frische."
+        },
+        {
+          "question": "Zu welchen Anlässen eignen sich frische Düfte?",
+          "answer": "Fresh-Parfums sind ideal für den Büroalltag, Sportaktivitäten, warme Sommertage und entspannte Freizeitmomente. Ihre leichte, unaufdringliche Art macht sie zu perfekten Begleitern für jeden Tag."
+        },
+        {
+          "question": "Wie lange halten Fresh-Parfums auf der Haut?",
+          "answer": "Frische Düfte haben meist eine leichtere Konzentration und halten 4-6 Stunden. Für längere Haltbarkeit empfiehlt sich das Auftragen auf Puls-Punkte und eine Auffrischung am Nachmittag."
+        }
+      ],
+      "seo_title": "Fresh-Parfums bei Hello Beauty Blog entdecken",
+      "seo_bottom": "Hello Beauty Blog präsentiert Ihnen die besten Fresh-Parfums mit ausführlichen Bewertungen und Expertentipps. Unsere Duft-Spezialisten testen jedes frische Parfum gründlich und bieten Ihnen fundierte Kaufberatung für Ihre perfekte Duftwahl. Entdecken Sie die Welt erfrischender Düfte mit uns."
+    },
+    "gourmand": {
+      "intro_title": "Gourmand-Parfums: Verführerische Düfte zum Anbeißen",
+      "intro": "Gourmand-Parfums entführen die Sinne in eine Welt süßer Verführung mit köstlichen Noten von Vanille, Karamell, Schokolade und gerösteten Nüssen. Diese appetitanregende Duftfamilie vereint orientalische Wärme mit modernen gourmandigen Akkorden. Von cremiger Tonkabohne bis hin zu würzigem Zimt schaffen diese Parfums eine unwiderstehliche, sinnliche Aura, die an exquisite Desserts und himmlische Leckereien erinnert.",
+      "faq": [
+        {
+          "question": "Was macht Gourmand-Parfums so besonders?",
+          "answer": "Gourmand-Düfte zeichnen sich durch essbare, süße Noten aus, die an Desserts erinnern. Vanille, Karamell und Schokolade verleihen ihnen eine warme, verführerische und tröstende Ausstrahlung."
+        },
+        {
+          "question": "Welche Inhaltsstoffe sind typisch für Gourmand-Parfums?",
+          "answer": "Klassische Gourmand-Noten umfassen Vanille, Tonkabohne, Karamell, Honig, Schokolade, geröstete Mandeln, Zimt und Praline. Diese Ingredienzien schaffen appetitanregende, süße Kompositionen."
+        },
+        {
+          "question": "Zu welcher Jahreszeit passen Gourmand-Düfte am besten?",
+          "answer": "Gourmand-Parfums entfalten ihre volle Wirkung in der kühleren Jahreszeit. Herbst und Winter unterstreichen ihre warmen, süßen Facetten perfekt und sorgen für gemütliche Atmosphäre."
+        }
+      ],
+      "seo_title": "Gourmand-Parfums bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert exklusive Gourmand-Parfums von renommierten Parfumhäusern. Unsere Experten kuratieren sorgfältig süße, verführerische Düfte mit authentischen Gourmand-Noten. Entdecken Sie bei uns die schönsten appetitanregenden Kompositionen mit Vanille, Karamell und orientalischen Gourmand-Akkorden für unvergessliche Dufterlebnisse."
+    },
+    "aromatic": {
+      "intro_title": "Aromatische Parfums - Frische und Natürlichkeit vereint",
+      "intro": "Aromatische Parfums verkörpern die pure Essenz der Natur mit ihrer charakteristischen Frische und Klarheit. Diese Duftfamilie zeichnet sich durch aromatische Kräuter wie Lavendel, Rosmarin und Thymian aus, ergänzt von grünen Blättern und mediterranen Nuancen. Mit ihrer belebenden und entspannenden Wirkung schaffen aromatische Kompositionen eine harmonische Balance zwischen Eleganz und natürlicher Authentizität.",
+      "faq": [
+        {
+          "question": "Welche Inhaltsstoffe definieren aromatische Parfums?",
+          "answer": "Aromatische Düfte basieren hauptsächlich auf Kräutern wie Lavendel, Rosmarin, Salbei und Thymian. Ergänzt werden sie oft durch grüne Noten, Zitrusfrüchte und holzige Basisnoten für mehr Tiefe und Komplexität."
+        },
+        {
+          "question": "Für welche Gelegenheiten eignen sich aromatische Düfte?",
+          "answer": "Aromatische Parfums sind vielseitig einsetzbar - ideal für den Alltag, das Büro und entspannte Momente. Ihre natürliche Frische macht sie besonders für Frühling und Sommer geeignet."
+        },
+        {
+          "question": "Unterscheiden sich aromatische Düfte für Damen und Herren?",
+          "answer": "Aromatische Düfte sind oft unisex konzipiert. Damenvarianten enthalten häufig florale Nuancen, während Herrendüfte mit holzigen oder würzigen Elementen verstärkt werden, um maskuline Akzente zu setzen."
+        }
+      ],
+      "seo_title": "Aromatische Düfte bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert exquisite aromatische Parfums der renommiertesten Parfumhäuser. Unsere Expertise in der Duftberatung hilft Ihnen, den perfekten aromatischen Duft zu finden, der Ihre natürliche Ausstrahlung unterstreicht. Entdecken Sie authentische Kräuterkompositionen und zeitlose aromatische Klassiker in unserem kuratierten Sortiment."
+    },
+    "chypre": {
+      "intro_title": "Chypre Parfums: Elegante Duftfamilie mit zeitloser Raffinesse",
+      "intro": "Die Chypre-Duftfamilie verkörpert seit Jahrhunderten pure Eleganz und Raffinesse. Diese charakteristische Parfumfamilie zeichnet sich durch die harmonische Kombination aus frischen Bergamotte-Noten, blumigen Herznoten und einer warmen Basis aus Eichenmoos, Labdanum und Patchouli aus. Chypre-Düfte vereinen Frische mit erdiger Tiefe und schaffen so komplexe, zeitlose Kompositionen, die besonders in der gehobenen Parfumerie geschätzt werden.",
+      "faq": [
+        {
+          "question": "Was sind die typischen Inhaltsstoffe von Chypre-Parfums?",
+          "answer": "Chypre-Düfte basieren klassisch auf Bergamotte in der Kopfnote, blumigen Mittelnoten wie Rose oder Jasmin und einer charakteristischen Basis aus Eichenmoos, Labdanum und Patchouli, die den erdigen Charakter prägt."
+        },
+        {
+          "question": "Für welche Anlässe eignen sich Chypre-Parfums am besten?",
+          "answer": "Chypre-Düfte sind vielseitig und elegant – perfekt für Business-Termine, formelle Anlässe und Abendveranstaltungen. Ihre sophisticated Ausstrahlung macht sie zur idealen Wahl für selbstbewusste Träger."
+        },
+        {
+          "question": "Wie unterscheiden sich moderne Chypre-Parfums von klassischen?",
+          "answer": "Moderne Chypre-Kreationen ergänzen die traditionelle Struktur oft mit fruchtigen Noten, Gourmand-Elementen oder intensiveren Hölzern, während sie die charakteristische moosig-erdige Basis beibehalten."
+        }
+      ],
+      "seo_title": "Chypre Parfums bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert die exquisitesten Chypre-Parfums der Luxusparfumerie. Unsere Experten kuratieren sorgfältig ausgewählte Düfte dieser zeitlosen Duftfamilie und bieten fundierte Bewertungen sowie Kaufberatung. Entdecken Sie die Eleganz klassischer und moderner Chypre-Kompositionen in unserem hochwertigen Sortiment für anspruchsvolle Duftliebhaber."
+    }
+  },
+  "es": {
+    "floral": {
+      "intro_title": "Perfumes Florales: Elegancia y Feminidad Pura",
+      "intro": "Los perfumes florales representan la familia olfativa más emblemática y versátil de la perfumería. Caracterizados por notas de rosa, jazmín, peonía, lirio y gardenia, estos fragrances capturan la esencia romántica y sofisticada de los jardines en flor. Desde composiciones monofloral hasta bouquets complejos, los perfumes florales ofrecen desde frescura matinal hasta sensualidad nocturna, adaptándose perfectamente a cada momento y personalidad femenina.",
+      "faq": [
+        {
+          "question": "¿Cuáles son las notas florales más populares en perfumería?",
+          "answer": "Las notas florales más codiciadas incluyen rosa búlgara, jazmín sambac, peonía, lirio de los valles, gardenia y neroli. Cada una aporta matices únicos: la rosa ofrece romance, el jazmín sensualidad y la peonía frescura delicada."
+        },
+        {
+          "question": "¿Los perfumes florales son apropiados para todas las estaciones?",
+          "answer": "Absolutamente. Los florales ligeros con notas de fresia y lirio son perfectos para primavera-verano, mientras que los florales orientales con rosa y especias funcionan magníficamente en otoño-invierno, ofreciendo versatilidad durante todo el año."
+        },
+        {
+          "question": "¿Cómo elegir el perfume floral ideal según mi personalidad?",
+          "answer": "Para personalidades románticas, opta por rosas y peonías. Las mujeres sofisticadas prefieren jazmín y gardenia. Si buscas frescura juvenil, elige florales acuáticos con notas de fresia, magnolia o azahar que aportan luminosidad natural."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes Florales de Lujo",
+      "seo_bottom": "Hello Beauty Blog es tu referencia especializada en perfumes florales de alta gama. Nuestros expertos en perfumería seleccionan las mejores fragancias florales del mercado, desde clásicos atemporales hasta lanzamientos exclusivos. Descubre reviews detalladas, guías de aplicación y las últimas tendencias en perfumería floral de lujo."
+    },
+    "oriental": {
+      "intro_title": "Perfumes Orientales: La Magia del Misterio",
+      "intro": "Los perfumes orientales representan la familia olfativa más seductora y enigmática de la perfumería de lujo. Caracterizados por sus notas cálidas de ámbar, vainilla, especias exóticas y maderas preciosas, estos fragancias evocan el misterio del Oriente. Con acordes de canela, cardamomo, sándalo y pachulí, los orientales crean una estela envolvente y sofisticada perfecta para ocasiones especiales y personalidades magnéticas.",
+      "faq": [
+        {
+          "question": "¿Qué ingredientes definen los perfumes orientales?",
+          "answer": "Las fragancias orientales se basan en ámbar, vainilla, especias como canela y cardamomo, maderas nobles como sándalo y pachulí, resinas balsámicas y notas dulces que crean su carácter cálido y envolvente distintivo."
+        },
+        {
+          "question": "¿Cuándo es mejor usar perfumes orientales?",
+          "answer": "Los orientales son ideales para la noche, ocasiones especiales, cenas románticas y estaciones frías. Su intensidad y calidez los convierten en la elección perfecta cuando buscas proyección y elegancia sofisticada."
+        },
+        {
+          "question": "¿Los perfumes orientales son solo para mujeres?",
+          "answer": "Absolutamente no. Existen orientales masculinos y unisex con maderas, especias y acordes ambarados. Muchas casas de lujo crean orientales que trascienden géneros, enfocándose en la personalidad y preferencias individuales del usuario."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes Orientales de Lujo",
+      "seo_bottom": "En Hello Beauty Blog somos especialistas en perfumes orientales de las mejores marcas de lujo. Descubre nuestra selección curada de fragancias orientales exclusivas, con análisis detallados de notas olfativas, proyección y ocasiones de uso. Tu guía definitiva para elegir el oriental perfecto que refleje tu personalidad sofisticada y misteriosa."
+    },
+    "woody": {
+      "intro_title": "Perfumes Amaderados: Elegancia Natural y Sofisticación",
+      "intro": "Los perfumes amaderados representan la familia olfativa más elegante y sofisticada de la perfumería. Caracterizados por notas de sándalo, cedro, oud y vetiver, estos fragancias ofrecen un carácter cálido, terroso y envolvente. Su personalidad distintiva combina fuerza y sensualidad, creando composiciones que evocan bosques ancestrales y maderas preciosas. Perfectos para quienes buscan una fragancia con presencia y distinción.",
+      "faq": [
+        {
+          "question": "¿Qué ingredientes definen los perfumes amaderados?",
+          "answer": "Las notas características incluyen sándalo, cedro, oud, vetiver, palo de rosa y pachulí. Estas materias primas aportan profundidad, calidez y una base sólida que define el carácter distintivo de esta familia olfativa."
+        },
+        {
+          "question": "¿Cuándo es mejor usar fragancias amaderadas?",
+          "answer": "Los perfumes amaderados son ideales para ocasiones especiales, eventos nocturnos y estaciones frías. Su carácter sofisticado y duradero los convierte en la elección perfecta para momentos que requieren elegancia y presencia."
+        },
+        {
+          "question": "¿Los perfumes amaderados son unisex?",
+          "answer": "Muchas fragancias amaderadas son perfectamente unisex debido a su carácter neutral y sofisticado. Las notas de madera trascienden géneros, ofreciendo elegancia tanto para hombres como mujeres que buscan distinción olfativa."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Expertos en Perfumes Amaderados",
+      "seo_bottom": "En Hello Beauty Blog, somos especialistas en perfumes amaderados de lujo. Nuestro equipo de expertos selecciona cuidadosamente las mejores fragancias con notas de sándalo, oud y cedro. Descubre nuestra exclusiva colección de perfumes amaderados y encuentra tu fragancia perfecta con la garantía de calidad que nos caracteriza."
+    },
+    "fresh": {
+      "intro_title": "Perfumes Frescos: Pureza y Vitalidad Natural",
+      "intro": "Los perfumes frescos representan la esencia de la pureza y la vitalidad en el mundo de la perfumería. Esta familia olfativa se caracteriza por notas vibrantes de cítricos, hierbas aromáticas y elementos acuáticos que evocan la brisa marina y los jardines matutinos. Con ingredientes como bergamota, limón, menta y notas marinas, estos fragancias ofrecen una sensación de limpieza y energía que revitaliza los sentidos.",
+      "faq": [
+        {
+          "question": "¿Qué características definen a los perfumes frescos?",
+          "answer": "Se distinguen por sus notas cítricas, acuáticas y verdes que proporcionan una sensación de limpieza, vitalidad y frescura natural. Son ideales para uso diario y climas cálidos."
+        },
+        {
+          "question": "¿Cuáles son los ingredientes principales de esta familia olfativa?",
+          "answer": "Incluyen cítricos como bergamota y limón, hierbas aromáticas como menta y romero, y notas acuáticas que recrean la brisa marina y la frescura del océano."
+        },
+        {
+          "question": "¿En qué ocasiones son más apropiados los perfumes frescos?",
+          "answer": "Son perfectos para el día, actividades deportivas, oficina y climas cálidos. Su versatilidad los convierte en una excelente opción para uso cotidiano y casual."
+        }
+      ],
+      "seo_title": "Expertos en Perfumería Fresca y Natural",
+      "seo_bottom": "En Hello Beauty Blog, somos especialistas en perfumes frescos de lujo. Nuestro equipo de expertos en perfumería selecciona cuidadosamente las mejores fragancias de esta familia olfativa, ofreciendo análisis detallados sobre notas cítricas, acuáticas y verdes. Descubre tu fragancia fresca ideal con nuestras recomendaciones profesionales y guías especializadas."
+    },
+    "gourmand": {
+      "intro_title": "Perfumes Gourmand: Una Experiencia Olfativa Deliciosa",
+      "intro": "Los perfumes gourmand despiertan los sentidos con notas que evocan delicias culinarias irresistibles. Esta familia olfativa se caracteriza por ingredientes como vainilla, caramelo, chocolate, miel y especias dulces que crean fragancias apetitosas y reconfortantes. Las notas gourmand transforman cada aplicación en una experiencia sensorial única, perfecta para quienes buscan perfumes cálidos, envolventes y seductores que despiertan recuerdos gastronómicos placenteros.",
+      "faq": [
+        {
+          "question": "¿Qué ingredientes definen los perfumes gourmand?",
+          "answer": "Los perfumes gourmand se caracterizan por notas dulces y comestibles como vainilla, caramelo, chocolate, miel, canela, café, almendras y frutas confitadas que evocan postres y delicias culinarias."
+        },
+        {
+          "question": "¿Cuándo es mejor usar fragancias gourmand?",
+          "answer": "Las fragancias gourmand son ideales para otoño e invierno, ocasiones nocturnas o momentos íntimos. Su calidez y dulzura las convierte en perfectas para crear una atmósfera acogedora y seductora."
+        },
+        {
+          "question": "¿Los perfumes gourmand son muy dulces?",
+          "answer": "Aunque contienen notas dulces, los perfumes gourmand bien equilibrados combinan estas notas con especias, maderas o acordes frescos para crear fragancias sofisticadas y no empalagosas."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes Gourmand Selectos",
+      "seo_bottom": "En Hello Beauty Blog somos especialistas en perfumes gourmand de lujo. Nuestro equipo de expertos selecciona cuidadosamente las mejores fragancias gourmand del mercado, ofreciendo reseñas detalladas y guías de compra para ayudarte a encontrar tu perfume dulce y seductor ideal. Descubre nuestra colección exclusiva de perfumes gourmand."
+    },
+    "aromatic": {
+      "intro_title": "Perfumes Aromáticos: Frescura Herbal y Elegancia Natural",
+      "intro": "Los perfumes aromáticos destacan por su carácter fresco y revitalizante, definidos por hierbas mediterráneas como lavanda, romero y tomillo. Esta familia olfativa combina notas especiadas con matices herbales, creando fragancias equilibradas que evocan jardines mediterráneos. Perfectos para quienes buscan sofisticación natural, los aromáticos ofrecen versatilidad única entre frescura y calidez especiada.",
+      "faq": [
+        {
+          "question": "¿Qué ingredientes definen a los perfumes aromáticos?",
+          "answer": "Las fragancias aromáticas se caracterizan por hierbas como lavanda, romero, salvia y tomillo, combinadas con especias suaves como pimienta rosa y cardamomo, creando un equilibrio entre frescura herbal y calidez especiada distintiva."
+        },
+        {
+          "question": "¿Cuándo es ideal usar perfumes de la familia aromática?",
+          "answer": "Los aromáticos son perfectos para uso diario, oficina y clima cálido. Su versatilidad los hace ideales desde mañana hasta noche, ofreciendo elegancia discreta que funciona en cualquier temporada del año."
+        },
+        {
+          "question": "¿Cómo se diferencian los aromáticos de otras familias olfativas?",
+          "answer": "A diferencia de los cítricos, los aromáticos incluyen hierbas mediterráneas que aportan profundidad. Se distinguen de los amaderados por su frescura herbal y de los florales por su carácter más verde y especiado."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes Aromáticos de Lujo",
+      "seo_bottom": "Hello Beauty Blog es tu referencia especializada en perfumes aromáticos de alta gama. Nuestros expertos seleccionan las mejores fragancias herbales y especiadas del mercado, ofreciendo guías detalladas sobre esta sofisticada familia olfativa. Descubre tu próximo aromático perfecto con nuestras recomendaciones profesionales y análisis especializados en perfumería de lujo."
+    },
+    "chypre": {
+      "intro_title": "Perfumes Chypre: Elegancia y Sofisticación Aromática",
+      "intro": "Los perfumes chypre representan una de las familias olfativas más elegantes y complejas de la perfumería moderna. Caracterizados por su estructura basada en bergamota, musgo de roble y pachulí, estos fragancias ofrecen un equilibrio perfecto entre frescura cítrica y profundidad terrosa. Su carácter sofisticado y misterioso los convierte en la elección ideal para quienes buscan una fragancia distintiva y atemporal.",
+      "faq": [
+        {
+          "question": "¿Qué ingredientes definen a los perfumes chypre?",
+          "answer": "Los perfumes chypre se caracterizan por la combinación de bergamota en salida, notas florales o frutales en corazón, y una base de musgo de roble, pachulí y labdanum que aporta su distintiva profundidad terrosa."
+        },
+        {
+          "question": "¿Cuál es el origen de la familia olfativa chypre?",
+          "answer": "El nombre proviene del perfume 'Chypre' de François Coty (1917), inspirado en la isla de Chipre. Esta creación estableció los códigos aromáticos que definen esta familia olfativa hasta la actualidad."
+        },
+        {
+          "question": "¿Para qué ocasiones son ideales los perfumes chypre?",
+          "answer": "Los perfumes chypre son perfectos para ocasiones elegantes, eventos nocturnos y uso profesional. Su carácter sofisticado y duradero los hace ideales para quienes buscan una presencia aromática distinguida y memorable."
+        }
+      ],
+      "seo_title": "Descubre Perfumes Chypre Premium",
+      "seo_bottom": "Hello Beauty Blog te guía en el fascinante mundo de los perfumes chypre, seleccionando las mejores fragancias de esta familia olfativa. Nuestros expertos analizan composiciones, longevidad y sillage para ayudarte a encontrar tu chypre perfecto. Descubre reseñas detalladas y recomendaciones exclusivas de las casas de perfumería más prestigiosas del mundo."
+    }
+  },
+  "pt": {
+    "floral": {
+      "intro_title": "Perfumes Florais: A Essência da Feminilidade",
+      "intro": "Os perfumes florais representam a família olfativa mais clássica e popular da perfumaria, caracterizada por notas de rosas, jasmim, peônias e lírios. Esta categoria encanta pela sua versatilidade, oferecendo desde composições delicadas e românticas até bouquets intensos e sofisticados. As fragrâncias florais evocam jardins em flor, transmitindo elegância natural e sensualidade atemporal que conquista mulheres de todas as idades.",
+      "faq": [
+        {
+          "question": "Quais são as principais notas florais em perfumaria?",
+          "answer": "As notas florais mais utilizadas incluem rosa, jasmim, peônia, lírio-do-vale, gardênia, tuberosa e íris. Cada uma oferece características únicas, desde a doçura romântica da rosa até a sensualidade intensa do jasmim."
+        },
+        {
+          "question": "Como escolher o perfume floral ideal para cada ocasião?",
+          "answer": "Perfumes florais frescos com peônia são perfeitos para o dia, enquanto composições com rosas e jasmim funcionam bem à noite. Para eventos especiais, opte por florais gourmands com notas de fundo mais intensas."
+        },
+        {
+          "question": "Os perfumes florais são adequados para todas as estações?",
+          "answer": "Sim, mas com variações. No verão, prefira florais aquáticos e frescos. No inverno, escolha florais orientais ou amadeirados com maior profundidade e durabilidade na pele."
+        }
+      ],
+      "seo_title": "Perfumes Florais de Luxo",
+      "seo_bottom": "No Hello Beauty Blog, você encontra as análises mais completas sobre perfumes florais de alta perfumaria. Nossa expertise em fragrâncias femininas garante recomendações precisas para cada tipo de personalidade e ocasião. Descubra sua próxima fragrância floral favorita através dos nossos reviews especializados e guias detalhados sobre as melhores composições florais do mercado."
+    },
+    "oriental": {
+      "intro_title": "Perfumes Orientais: Exotismo e Sensualidade em Fragrâncias",
+      "intro": "Os perfumes orientais representam uma das famílias olfativas mais sedutoras e misteriosas da perfumaria. Caracterizados por notas quentes como âmbar, baunilha, sândalo e especiarias exóticas, criam composições envolventes e sensuais. Estas fragrâncias evocam o luxo e a opulência do Oriente, oferecendo projeção intensa e longa duração, perfeitas para ocasiões especiais e noites românticas.",
+      "faq": [
+        {
+          "question": "Quais são as principais notas dos perfumes orientais?",
+          "answer": "As notas características incluem âmbar, baunilha, sândalo, patchouli, incenso, especiarias como canela e cravo, além de resinas preciosas que conferem calor e sensualidade às composições orientais."
+        },
+        {
+          "question": "Em que ocasiões usar perfumes da família oriental?",
+          "answer": "Perfumes orientais são ideais para eventos noturnos, encontros românticos, ocasiões especiais e clima frio. Sua intensidade e projeção os tornam perfeitos para momentos que exigem presença marcante."
+        },
+        {
+          "question": "Como escolher o perfume oriental ideal?",
+          "answer": "Considere sua personalidade e preferências: se gosta de doçura, opte por orientais gourmand; para algo mais místico, escolha orientais amadeirados com incenso e especiarias orientais clássicas."
+        }
+      ],
+      "seo_title": "Perfumes Orientais no Hello Beauty Blog",
+      "seo_bottom": "No Hello Beauty Blog, você encontra a mais completa seleção de perfumes orientais premium. Nossa curadoria especializada apresenta fragrâncias orientais de marcas luxury, com análises detalhadas das notas olfativas e guias de escolha para descobrir seu oriental perfeito. Explore o universo sedutor das fragrâncias orientais conosco."
+    },
+    "woody": {
+      "intro_title": "Perfumes Amadeirados: Elegância e Sofisticação Natural",
+      "intro": "Os perfumes amadeirados representam uma das famílias olfativas mais nobres e atemporais da perfumaria. Caracterizados por notas de sândalo, cedro, patchouli e vetiver, estes perfumes transmitem elegância, warmth e sofisticação. A família amadeirada oferece desde composições secas e lineares até criações cremosas e envolventes, sendo perfeita para quem busca fragrâncias duradouras com personalidade marcante.",
+      "faq": [
+        {
+          "question": "Quais são as principais notas dos perfumes amadeirados?",
+          "answer": "As notas clássicas incluem sândalo, cedro, patchouli, vetiver, oud e madeiras nobres. Estas matérias-primas conferem profundidade, warmth e longevidade às fragrâncias amadeiradas mais refinadas."
+        },
+        {
+          "question": "Perfumes amadeirados são adequados para que ocasiões?",
+          "answer": "Ideais para ocasiões formais, noites especiais e uso profissional. Sua sofisticação e presença marcante fazem dos amadeirados escolhas perfeitas para momentos que exigem elegância e distinção."
+        },
+        {
+          "question": "Como escolher o perfume amadeirado ideal?",
+          "answer": "Considere a intensidade desejada: amadeirados secos para elegância discreta, ou amadeirados orientais para maior sensualidade. Teste sempre na pele para avaliar como as notas se desenvolvem ao longo do tempo."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Especialista em Perfumes Amadeirados",
+      "seo_bottom": "No Hello Beauty Blog, oferecemos uma seleção criteriosa dos melhores perfumes amadeirados do mercado luxury. Nossa expertise em perfumaria garante recomendações precisas sobre sândalo, cedro, oud e outras madeiras nobres. Descubra fragrâncias amadeiradas que definem elegância e sofisticação em nossa curadoria especializada."
+    },
+    "fresh": {
+      "intro_title": "Perfumes Frescos: Pureza e Vitalidade em Cada Borrifo",
+      "intro": "A família olfativa dos perfumes frescos caracteriza-se pela sua leveza e sensação de limpeza imediata. Compostos por notas cítricas como bergamota e limão, acordes aquáticos e elementos verdes como petitgrain, estes perfumes transmitem energia e vitalidade. Perfeitos para o quotidiano, os frescos proporcionam uma sensação de bem-estar e frescura natural que desperta os sentidos.",
+      "faq": [
+        {
+          "question": "O que torna um perfume fresco diferente dos outros?",
+          "answer": "Os perfumes frescos destacam-se pelas notas cítricas, aquáticas e verdes que criam uma sensação imediata de limpeza e vitalidade, sendo mais leves que outras famílias olfativas."
+        },
+        {
+          "question": "Quanto tempo duram os perfumes frescos na pele?",
+          "answer": "Devido à volatilidade das notas cítricas, os perfumes frescos têm geralmente menor duração, entre 4-6 horas, sendo ideais para reaplicação ao longo do dia."
+        },
+        {
+          "question": "Quando é melhor usar perfumes da família fresca?",
+          "answer": "Os frescos são perfeitos para o dia-a-dia, clima quente, atividades desportivas e ambientes profissionais, proporcionando uma presença discreta mas revigorante."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Especialistas em Perfumes Frescos",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes frescos e ajudamos-te a descobrir as melhores fragrâncias desta família olfativa. Com análises detalhadas e recomendações personalizadas, encontra o perfume fresco perfeito para o teu estilo de vida e personalidade única."
+    },
+    "gourmand": {
+      "intro_title": "Perfumes Gourmand: A Sedução dos Aromas Doces",
+      "intro": "Os perfumes gourmand despertam sensações irresistíveis através de notas que remetem a delícias gastronômicas. Esta família olfativa caracteriza-se por acordes de baunilha, chocolate, caramelo, mel e especiarias doces, criando fragrâncias envolventes e sensuais. Inspirados na confeitaria e culinária, estes perfumes transformam ingredientes comestíveis em experiências olfativas luxuosas, proporcionando conforto e sofisticação através de composições cremosas e apetitosas que conquistam pelos contrastes entre doçura e elegância.",
+      "faq": [
+        {
+          "question": "Quais são as principais notas dos perfumes gourmand?",
+          "answer": "As notas características incluem baunilha, chocolate, caramelo, mel, canela, pralinê, café, amêndoas e acordes cremosos que evocam sobremesas e iguarias doces, criando fragrâncias irresistíveis e envolventes."
+        },
+        {
+          "question": "Os perfumes gourmand são adequados para que ocasiões?",
+          "answer": "São ideais para momentos íntimos, encontros românticos, eventos noturnos e estações mais frias. Sua natureza envolvente e sensual os torna perfeitos para ocasiões especiais e ambientes acolhedores."
+        },
+        {
+          "question": "Como escolher o perfume gourmand ideal?",
+          "answer": "Considere sua preferência por doçura, teste em diferentes estações e avalie a intensidade desejada. Fragrâncias gourmand variam de sutis a intensas, adaptando-se a personalidades e estilos diversos."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Especialistas em Perfumes Gourmand",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes gourmand de luxo. Nossa curadoria seleciona as mais refinadas fragrâncias desta família olfativa, oferecendo análises detalhadas sobre notas gourmand, marcas premium e tendências. Descubra conosco o universo sedutor dos perfumes que transformam aromas gastronômicos em experiências olfativas sofisticadas e inesquecíveis."
+    },
+    "aromatic": {
+      "intro_title": "Perfumes Aromáticos: Frescor e Elegância Natural",
+      "intro": "Os perfumes aromáticos caracterizam-se pela presença marcante de ervas frescas, especiarias e plantas medicinais. Esta família olfativa distingue-se pelas notas de lavanda, alecrim, manjericão e sálvia, criando fragrâncias revigorantes e sofisticadas. Tradicionalmente associados ao universo masculino, os aromáticos oferecem composições limpas, naturais e energizantes, perfeitas para quem busca elegância discreta e frescor duradouro.",
+      "faq": [
+        {
+          "question": "Quais são as principais notas dos perfumes aromáticos?",
+          "answer": "As notas características incluem lavanda, alecrim, manjericão, sálvia, tomilho e outras ervas frescas, frequentemente combinadas com cítricos e madeiras leves para maior complexidade."
+        },
+        {
+          "question": "Os perfumes aromáticos são apenas masculinos?",
+          "answer": "Embora tradicionalmente associados ao público masculino, muitos perfumes aromáticos modernos são unissex ou femininos, oferecendo frescor e naturalidade para todos os gostos."
+        },
+        {
+          "question": "Em que ocasiões usar fragrâncias aromáticas?",
+          "answer": "Ideais para o dia a dia, ambiente de trabalho e clima quente. Sua característica refrescante e discreta torna-os perfeitos para ocasiões casuais e profissionais."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Especialistas em Aromáticos",
+      "seo_bottom": "No Hello Beauty Blog, você encontra as melhores análises e recomendações de perfumes aromáticos. Nossa expertise em fragrâncias herbáceas e naturais ajuda você a descobrir o aromático perfeito. Confie em nosso conhecimento especializado para escolher sua próxima fragrância refrescante e sofisticada."
+    },
+    "chypre": {
+      "intro_title": "Perfumes Chypre: Elegância Sofisticada e Atemporal",
+      "intro": "Os perfumes chypre representam uma das famílias olfativas mais aristocráticas da perfumaria. Caracterizados pela harmonia entre bergamota cítrica, coração floral e base amadeirada com patchouli e musgo de carvalho, os chypres oferecem fragrâncias complexas e sofisticadas. Esta família olfativa evoca elegância clássica, personalidade marcante e refinamento atemporal, sendo perfeita para quem busca distinção e caráter único.",
+      "faq": [
+        {
+          "question": "O que define um perfume da família chypre?",
+          "answer": "Os perfumes chypre são definidos pela estrutura olfativa que combina notas cítricas de bergamota no topo, coração floral e base amadeirada com patchouli, musgo de carvalho e labdanum, criando fragrâncias sofisticadas e complexas."
+        },
+        {
+          "question": "Qual a ocasião ideal para usar fragrâncias chypre?",
+          "answer": "Os perfumes chypre são ideais para ocasiões especiais, ambientes profissionais sofisticados e eventos noturnos. Sua personalidade marcante e elegante os torna perfeitos para momentos que exigem distinção e refinamento."
+        },
+        {
+          "question": "Os perfumes chypre são adequados para que tipo de pessoa?",
+          "answer": "Os chypres são ideais para pessoas que apreciam fragrâncias sofisticadas, com personalidade marcante e elegância clássica. São perfeitos para quem busca um perfume distintivo, atemporal e que transmita confiança e refinamento."
+        }
+      ],
+      "seo_title": "Descubra os Melhores Perfumes Chypre",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes chypre e fragrâncias de luxo. Nossa curadoria selecionada apresenta as melhores opções desta família olfativa sofisticada, com análises detalhadas de composições, longevidade e projeção. Descubra a elegância atemporal dos chypres com nossa expertise em perfumaria de alta qualidade."
+    }
+  },
+  "it": {
+    "floral": {
+      "intro_title": "Profumi Floreali: L'Eleganza dei Fiori in Fragranza",
+      "intro": "I profumi floreali rappresentano la famiglia olfattiva più femminile e romantica della profumeria. Caratterizzati da note di rosa, gelsomino, peonia e fiori d'arancio, questi profumi evocano giardini in fiore e primavere eterne. Dal bouquet classico alle moderne interpretazioni gourmand, i profumi floreali offrono un ventaglio infinito di sfumature che spaziano dalla delicatezza powdery alla sensualità intensa, perfetti per ogni occasione e personalità.",
+      "faq": [
+        {
+          "question": "Quali sono le note floreali più utilizzate nei profumi?",
+          "answer": "Le note floreali più amate includono rosa, gelsomino, peonia, giglio della valle, iris e fiori d'arancio. Ogni fiore apporta caratteristiche uniche: la rosa dona romanticismo, il gelsomino sensualità e l'iris eleganza powdery."
+        },
+        {
+          "question": "I profumi floreali sono adatti solo alle donne?",
+          "answer": "Assolutamente no. Molti profumi floreali unisex combinano fiori con legni, spezie o note fresche. Anche i profumi maschili spesso includono note floreali come lavanda, geranio o rosa per aggiungere raffinatezza e modernità."
+        },
+        {
+          "question": "Come scegliere il profumo floreale perfetto?",
+          "answer": "Considera la stagione e l'occasione: profumi floreali freschi per l'estate, bouquet più ricchi per l'inverno. Testa sempre sulla pelle per valutare l'evoluzione delle note e scegli in base al tuo stile personale."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Esperti in Profumi Floreali",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta nel mondo dei profumi floreali di lusso. Il nostro team di specialisti in profumeria seleziona e recensisce le migliori fragranze floreali, dalle creazioni di nicchia ai grandi classici. Scopri consigli personalizzati, tendenze olfattive e tutto sui profumi floreali più esclusivi del momento."
+    },
+    "oriental": {
+      "intro_title": "Profumi Orientali: Fascino Esotico e Sensualità Avvolgente",
+      "intro": "I profumi orientali rappresentano una delle famiglie olfattive più affascinanti e sensuali della profumeria. Caratterizzati da note calde e avvolgenti come ambra, vaniglia, patchouli e spezie esotiche, questi profumi evocano atmosfere misteriose e seducenti. La loro sillage intensa e la persistenza eccezionale li rendono perfetti per chi desidera lasciare un'impronta olfattiva indimenticabile.",
+      "faq": [
+        {
+          "question": "Quali sono le note principali dei profumi orientali?",
+          "answer": "Le note tipiche includono ambra, vaniglia, patchouli, oud, legno di sandalo, spezie come cannella e cardamomo, muschio e resine balsamiche che creano composizioni calde e avvolgenti."
+        },
+        {
+          "question": "Quando è meglio indossare un profumo orientale?",
+          "answer": "I profumi orientali sono ideali per la sera, occasioni speciali e la stagione autunnale-invernale grazie alla loro intensità e calore che si esaltano con temperature più basse."
+        },
+        {
+          "question": "Come riconoscere un autentico profumo orientale?",
+          "answer": "Un vero profumo orientale si distingue per la presenza di note balsamiche, speziate e legnose, una proiezione intensa e una persistenza superiore alle 8 ore sulla pelle."
+        }
+      ],
+      "seo_title": "Profumi Orientali di Lusso su Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta nel mondo dei profumi orientali di lusso. Scopri la nostra selezione curata delle migliori fragranze orientali, con recensioni dettagliate, consigli di styling olfattivo e approfondimenti sulle maison più prestigiose. Trova il tuo profumo orientale perfetto con i nostri esperti."
+    },
+    "woody": {
+      "intro_title": "Profumi Legnosi: L'Eleganza della Natura",
+      "intro": "I profumi legnosi rappresentano una delle famiglie olfattive più sofisticate e versatili della profumeria. Caratterizzati da note calde e avvolgenti come sandalo, cedro, vetiver e patchouli, questi fragranze evocano la maestosità delle foreste e l'eleganza naturale del legno. Perfetti per chi cerca un profumo dal carattere deciso ma raffinato, i legnosi offrono una sillage duratura e una personalità inconfondibile, ideali sia per il giorno che per la sera.",
+      "faq": [
+        {
+          "question": "Quali sono le note legnose più apprezzate in profumeria?",
+          "answer": "Le note legnose più prestigiose includono sandalo, cedro dell'Atlante, vetiver, patchouli e legno di rosa. Questi ingredienti creano fragranze calde, sofisticate e dalla lunga persistenza sulla pelle."
+        },
+        {
+          "question": "I profumi legnosi sono adatti sia a uomini che donne?",
+          "answer": "Assolutamente sì. I profumi legnosi sono naturalmente unisex e si adattano perfettamente a entrambi i generi, offrendo eleganza e carattere a chiunque li indossi con grande versatilità d'uso."
+        },
+        {
+          "question": "Quando è meglio indossare un profumo della famiglia legnosa?",
+          "answer": "I profumi legnosi sono ideali per l'autunno e l'inverno, perfetti per serate eleganti e occasioni formali. La loro intensità li rende adatti anche per il lavoro e momenti di particolare raffinatezza."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Esperti in Profumi Legnosi",
+      "seo_bottom": "Hello Beauty Blog è la tua guida affidabile nel mondo dei profumi legnosi di lusso. Il nostro team di esperti seleziona accuratamente le migliori fragranze legnose, offrendo recensioni dettagliate e consigli personalizzati. Scopri la nostra collezione curata di profumi legnosi delle maison più prestigiose e trova la tua firma olfattiva ideale con la nostra consulenza specializzata."
+    },
+    "fresh": {
+      "intro_title": "Profumi Freschi: L'Eleganza della Naturalezza",
+      "intro": "I profumi freschi rappresentano la quintessenza della vitalità olfattiva, caratterizzati da note agrumate, marine e verdi che evocano sensazioni di purezza e naturalezza. Questa famiglia olfattiva si distingue per l'uso di bergamotto, limone, petitgrain e accordi acquatici che conferiscono luminosità e freschezza. Perfetti per ogni stagione, questi profumi esprimono un'eleganza spontanea e una sensualità discreta, ideali per chi cerca un profumo raffinato ma mai invadente.",
+      "faq": [
+        {
+          "question": "Quali sono le note principali dei profumi freschi?",
+          "answer": "I profumi freschi si basano su agrumi come bergamotto e limone, note verdi come petitgrain e galbano, e accordi acquatici o marini che conferiscono quella caratteristica sensazione di freschezza e vitalità."
+        },
+        {
+          "question": "Quando è meglio indossare un profumo fresco?",
+          "answer": "I profumi freschi sono versatili e adatti tutto l'anno, particolarmente indicati per il giorno, l'ufficio e le stagioni calde. Sono perfetti per chi preferisce fragranze discrete ma raffinate."
+        },
+        {
+          "question": "Quanto durano i profumi della famiglia fresh?",
+          "answer": "I profumi freschi tendono ad avere una durata media, generalmente 4-6 ore. La loro natura volatile li rende ideali per ritocchi durante la giornata e per layering con altri profumi."
+        }
+      ],
+      "seo_title": "Profumi Freschi su Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog è il punto di riferimento per i profumi freschi di lusso. Il nostro team di esperti seleziona le migliori fragranze della famiglia fresh, offrendo recensioni dettagliate e consigli personalizzati. Scopri la nostra curata collezione di profumi freschi e trova la tua fragranza ideale con i nostri approfondimenti esclusivi sulla profumeria contemporanea."
+    },
+    "gourmand": {
+      "intro_title": "Profumi Gourmand: L'Arte della Seduzione Golosa",
+      "intro": "I profumi gourmand rappresentano una delle famiglie olfattive più sensuali e innovative della profumeria moderna. Caratterizzati da note dolci e appetitose come vaniglia, cioccolato, caramello, miele e spezie calde, questi fragranze evocano delicate sensazioni culinarie. La famiglia gourmand trasforma ingredienti tipici della pasticceria in composizioni olfattive irresistibili, creando un'esperienza sensoriale che risveglia ricordi golosi e momenti di puro piacere.",
+      "faq": [
+        {
+          "question": "Quali sono le note principali dei profumi gourmand?",
+          "answer": "Le note caratteristiche includono vaniglia, cioccolato, caramello, miele, cannella, praline, mandorla dolce, zucchero di canna e note biscottate che creano un bouquet goloso e avvolgente."
+        },
+        {
+          "question": "I profumi gourmand sono adatti solo per l'inverno?",
+          "answer": "Sebbene siano perfetti per le stagioni fredde, molti gourmand moderni presentano versioni più leggere con note fruttate o floreali, rendendoli versatili tutto l'anno."
+        },
+        {
+          "question": "Come si abbinano i profumi gourmand al proprio stile?",
+          "answer": "I gourmand si adattano a personalità sensuali e romantiche, perfetti per serate speciali, appuntamenti intimi o quando si desidera lasciare una scia olfattiva memorabile e seducente."
+        }
+      ],
+      "seo_title": "Profumi Gourmand di Lusso su Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog seleziona i migliori profumi gourmand delle maison di lusso internazionali. La nostra expertise nella profumeria d'eccellenza garantisce recensioni approfondite e consigli personalizzati per scoprire le fragranze gourmand più raffinate e seducenti del panorama olfattivo contemporaneo."
+    },
+    "aromatic": {
+      "intro_title": "Profumi Aromatici: Freschezza e Carattere Mediterraneo",
+      "intro": "I profumi aromatici rappresentano una famiglia olfattiva caratterizzata da note fresche e vivaci, derivate principalmente da erbe aromatiche mediterranee come rosmarino, timo, lavanda e basilico. Questa famiglia olfattiva unisce la freschezza degli agrumi alla complessità delle spezie, creando fragranze versatili e dinamiche. Perfetti per chi cerca un profumo distintivo ma equilibrato, i profumi aromatici offrono una scia pulita e sofisticata.",
+      "faq": [
+        {
+          "question": "Quali sono le note principali dei profumi aromatici?",
+          "answer": "Le note principali includono erbe mediterranee come lavanda, rosmarino, timo e salvia, spesso accompagnate da agrumi freschi e spezie delicate come il pepe nero."
+        },
+        {
+          "question": "A chi si addicono i profumi aromatici?",
+          "answer": "Ideali per personalità dinamiche e raffinate, si adattano perfettamente sia all'uomo che alla donna moderna, offrendo versatilità dall'ufficio al tempo libero."
+        },
+        {
+          "question": "Quando utilizzare un profumo aromatico?",
+          "answer": "Perfetti per la primavera e l'estate, sono ideali durante il giorno per attività lavorative o casual, grazie alla loro freschezza non invasiva ma caratteristica."
+        }
+      ],
+      "seo_title": "Profumi Aromatici su Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta per scoprire i migliori profumi aromatici. Il nostro team seleziona accuratamente fragranze di lusso appartenenti alla famiglia aromatica, offrendoti recensioni dettagliate, consigli di utilizzo e le ultime novità del settore. Scopri la tua prossima fragranza aromatica ideale con i nostri approfondimenti specializzati."
+    },
+    "chypre": {
+      "intro_title": "Profumi Chypre: Eleganza Sofisticata e Senza Tempo",
+      "intro": "I profumi chypre rappresentano una delle famiglie olfattive più raffinate e complesse della profumeria. Caratterizzati dall'iconica triade di bergamotto in testa, rosa o gelsomino nel cuore e muschio di quercia in fondo, questi fragranze evocano un'eleganza misteriosa e sofisticata. Il contrasto tra la freschezza agrumata iniziale e la profondità terrosa del dry-down crea composizioni intramontabili, perfette per personalità decise e raffinate.",
+      "faq": [
+        {
+          "question": "Cosa rende unico un profumo chypre?",
+          "answer": "La struttura chypre si basa sulla combinazione di bergamotto, note floreali centrali e muschio di quercia, creando un contrasto distintivo tra freschezza e profondità che definisce questa famiglia olfattiva."
+        },
+        {
+          "question": "I profumi chypre sono adatti a tutte le stagioni?",
+          "answer": "I chypre sono versatili ma eccellono in autunno e inverno. La loro complessità e profondità li rendono ideali per occasioni serali e per chi cerca fragranze sofisticate."
+        },
+        {
+          "question": "Quale personalità si addice ai profumi chypre?",
+          "answer": "I chypre sono perfetti per personalità eleganti, misteriose e sicure di sé. Attraggono chi apprezza la complessità olfattiva e desidera distinguersi con raffinatezza senza ostentazione."
+        }
+      ],
+      "seo_title": "Scopri i Migliori Profumi Chypre",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta nel mondo dei profumi chypre di lusso. La nostra selezione curata include le migliori fragranze chypre contemporanee e classiche, con recensioni dettagliate e consigli personalizzati per trovare il tuo chypre ideale tra le creazioni più raffinate della profumeria internazionale."
+    }
+  },
+  "nl": {
+    "floral": {
+      "intro_title": "Bloemige Parfums: De Meest Geliefde Geurcategorie",
+      "intro": "Bloemige parfums vormen het hart van de parfumerie en vertegenwoordigen elegantie en vrouwelijkheid. Deze olfactorische familie kenmerkt zich door delicate bloemennoten zoals roos, jasmijn, pioenroos en lelietje-van-dalen. Van lichte eau de toilettes tot intense eau de parfums, bloemige geuren creëren een romantische en verfijnde uitstraling. Ze zijn tijdloos populair vanwege hun veelzijdigheid en universele aantrekkingskracht.",
+      "faq": [
+        {
+          "question": "Welke bloemen worden het meest gebruikt in bloemige parfums?",
+          "answer": "Roos, jasmijn, pioenroos, lelietje-van-dalen, iris en gardenia zijn klassieke ingrediënten. Deze edelste bloemen bepalen de karakteristieke zachte en romantische geur van bloemige parfums."
+        },
+        {
+          "question": "Zijn bloemige parfums alleen geschikt voor vrouwen?",
+          "answer": "Hoewel traditioneel geassocieerd met vrouwen, kiezen steeds meer mannen voor subtiele bloemige noten. Moderne unisex bloemige parfums combineren bloemen met houtige of frisse accenten."
+        },
+        {
+          "question": "Wanneer draag je het beste een bloemig parfum?",
+          "answer": "Bloemige parfums zijn perfect voor dagelijks gebruik, romantische gelegenheden en lente-zomer seizoenen. Hun veelzijdigheid maakt ze geschikt voor zowel kantoor als speciale momenten."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog's Bloemige Parfum Expertise",
+      "seo_bottom": "Hello Beauty Blog is uw specialist in bloemige parfums met uitgebreide kennis van de mooiste bloemengeuren. Onze parfumexperts selecteren zorgvuldig de beste bloemige composities van topmerken. Ontdek onze luxe collectie bloemige parfums en vind uw perfecte romantische geur bij Hello Beauty Blog, de autoriteit in hoogwaardige bloemenparfums."
+    },
+    "oriental": {
+      "intro_title": "Ontdek de Mystieke Wereld van Oriëntaalse Parfums",
+      "intro": "Oriëntaalse parfums belichamen luxe en mystiek met hun warme, sensuele karakter. Deze olfactorische familie kenmerkt zich door rijke ingrediënten zoals amber, vanille, sandelhout en exotische specerijen. Van zoete gourmand composities tot diepe, harsachtige akkoorden - oriëntaalse geuren creëren een betoverende aura die perfect past bij koelere seizoenen en elegante avondmomenten.",
+      "faq": [
+        {
+          "question": "Wat maakt een parfum oriëntaals?",
+          "answer": "Oriëntaalse parfums bevatten warme, exotische ingrediënten zoals amber, vanille, wierook, sandelhout en oosterse specerijen. Deze creëren een rijke, sensuele geurervaring die mystiek en luxe uitstraalt."
+        },
+        {
+          "question": "Wanneer draag ik best oriëntaalse parfums?",
+          "answer": "Deze parfums zijn ideaal voor koelere seizoenen, avondmomenten en speciale gelegenheden. Hun warme, intense karakter past perfect bij elegante outfits en romantische settings."
+        },
+        {
+          "question": "Zijn oriëntaalse geuren geschikt voor dagelijks gebruik?",
+          "answer": "Hoewel traditioneel avondparfums, zijn er tegenwoordig ook lichtere oriëntaalse varianten beschikbaar. Kies voor subtiele concentraties of moderne interpretaties voor dagelijks gebruik."
+        }
+      ],
+      "seo_title": "Oriëntaalse Parfums bij Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog biedt een zorgvuldig geselecteerde collectie oriëntaalse parfums van prestigieuze merken. Onze parfumexperts delen hun kennis over deze mystieke geurenfamilie en helpen je de perfecte oriëntaalse geur te vinden die past bij jouw persoonlijkheid en stijl."
+    },
+    "woody": {
+      "intro_title": "Houtachtige Parfums: Warme en Aardse Geursensaties",
+      "intro": "Houtachtige parfums vormen een van de meest gewaardeerde geurenfamilies in de parfumerie. Gekenmerkt door warme, aardse noten zoals sandelwood, cederhout, vetiver en patchouli, creëren deze geuren een diepgaande en sensuele sfeer. De houtfamilie biedt rijke, complexe composities die zowel troostend als mysterieus zijn, perfect voor liefhebbers van verfijnde en langdurige geuren.",
+      "faq": [
+        {
+          "question": "Wat zijn de belangrijkste ingrediënten in houtachtige parfums?",
+          "answer": "Houtachtige parfums bevatten voornamelijk sandelwood, cederhout, rozenhout, ebenhout, vetiver en patchouli. Deze natuurlijke essences geven de karakteristieke warme, droge en aardse geur die typisch is voor deze geurenfamilie."
+        },
+        {
+          "question": "Voor welke gelegenheden zijn woody parfums geschikt?",
+          "answer": "Houtachtige geuren zijn ideaal voor koelere seizoenen, avondgelegenheden en formele events. Hun warme, sensuele karakter maakt ze perfect voor romantische diners, zakelijke bijeenkomsten en speciale gelegenheden waar je een blijvende indruk wilt maken."
+        },
+        {
+          "question": "Hoe lang blijven houtachtige parfums hangen op de huid?",
+          "answer": "Woody parfums staan bekend om hun uitstekende houdbaarheid. Door de zware moleculen van houtessences blijven deze geuren doorgaans 6-8 uur goed merkbaar, met subtiele sporen die soms tot 12 uur kunnen aanhouden."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog's Houtachtige Parfum Expertise",
+      "seo_bottom": "Bij Hello Beauty Blog zijn we gespecialiseerd in het cureren van de mooiste houtachtige parfums van prestigieuze merken. Onze parfumexperts selecteren zorgvuldig elke woody geur en bieden diepgaande reviews en geurprofielen. Ontdek onze exclusieve collectie warme, sensuele houtgeuren die perfect passen bij jouw persoonlijke stijl en de Nederlandse parfumcultuur."
+    },
+    "fresh": {
+      "intro_title": "Frisse Parfums: Verkwikkende Geuren voor Elke Gelegenheid",
+      "intro": "Frisse parfums behoren tot de meest geliefde geurcategorieën dankzij hun verkwikkende en energieke karakter. Deze geurengroep wordt gedefinieerd door citrusnoten zoals bergamot, limoen en grapefruit, aangevuld met groene accenten en aquatische akkoorden. Frisse geuren zijn perfect voor dagelijks gebruik en warme seizoenen, waarbij ze een gevoel van zuiverheid en vitaliteit oproepen. De lichte, luchtige compositie maakt ze uitermate geschikt voor zowel professionele als casual gelegenheden.",
+      "faq": [
+        {
+          "question": "Welke ingrediënten zijn kenmerkend voor frisse parfums?",
+          "answer": "Frisse parfums bevatten voornamelijk citrusnoten zoals bergamot, citroen en grapefruit, aangevuld met groene bladeren, aquatische akkoorden en soms lichte floralen zoals lelietje-van-dalen."
+        },
+        {
+          "question": "Voor welke gelegenheden zijn frisse geuren het meest geschikt?",
+          "answer": "Frisse parfums zijn ideaal voor dagelijks gebruik, kantooromgevingen, sportactiviteiten en warme dagen. Hun lichte karakter maakt ze perfect voor professionele en casual situaties."
+        },
+        {
+          "question": "Hoe lang blijven frisse parfums op de huid ruiken?",
+          "answer": "Frisse geuren hebben doorgaans een lichtere houdbaarheid van 4-6 uur vanwege hun vluchtige citrus- en groene noten. Voor langere duurzaamheid kies varianten met houtachtige basisnoten."
+        }
+      ],
+      "seo_title": "Ontdek Premium Frisse Parfums",
+      "seo_bottom": "Hello Beauty Blog biedt uitgebreide expertise in frisse parfums en aquatische geuren. Onze beauty-experts selecteren zorgvuldig de beste citrusparfums en groene geuren voor Nederlandse parfumliefhebbers. Vertrouw op onze gedegen kennis van geurtrends en ontdek de perfecte frisse geur die bij jouw stijl en persoonlijkheid past."
+    },
+    "gourmand": {
+      "intro_title": "Gourmand Parfums: Verleidelijke Zoete Geuren",
+      "intro": "Gourmand parfums vormen een betoverende geurenfamilie die geïnspireerd is op eetbare ingrediënten. Deze verleidelijke geuren bevatten zoete noten zoals vanille, chocolade, karamel, honing en gebak. Met hun warme, troostende karakter creëren gourmand parfums een sensuele en speelse sfeer. Van subtiel zoet tot intens decadent, deze parfums roepen herinneringen op aan favoriete desserts en gezellige momenten.",
+      "faq": [
+        {
+          "question": "Wat zijn de belangrijkste ingrediënten in gourmand parfums?",
+          "answer": "Gourmand parfums bevatten voornamelijk zoete, eetbare noten zoals vanille, chocolade, karamel, honing, amandel, kokos en specerijen zoals kaneel en tonkaboon die een warme, verleidelijke geur creëren."
+        },
+        {
+          "question": "Voor welke gelegenheden zijn gourmand parfums geschikt?",
+          "answer": "Deze parfums zijn perfect voor koelere seizoenen, romantische avonden en casual gelegenheden. Hun warme, troostende karakter maakt ze ideaal voor herfst en winter, maar ook voor gezellige momenten."
+        },
+        {
+          "question": "Hoe verschillen gourmand parfums van andere geurenfamilies?",
+          "answer": "Gourmand parfums onderscheiden zich door hun eetbare, dessert-achtige karakter. Ze zijn zoeter en warmer dan frisse citrus- of bloemige geuren, en creëren een meer sensuele en speelse uitstraling."
+        }
+      ],
+      "seo_title": "Ontdek Luxe Gourmand Parfums",
+      "seo_bottom": "Hello Beauty Blog biedt een zorgvuldig geselecteerde collectie van de mooiste gourmand parfums. Onze experts delen diepgaande kennis over deze verleidelijke geurenfamilie, van klassieke vanille composities tot moderne chocolade creaties. Ontdek jouw perfecte zoete geur met onze deskundige reviews en geuradvies voor elke gourmand parfum liefhebber."
+    },
+    "aromatic": {
+      "intro_title": "Aromatische Parfums: Frisse Kracht van de Natuur",
+      "intro": "Aromatische parfums vormen een fascinerende geurenfamilie die gekenmerkt wordt door frisse, kruidenachtige en groene noten. Deze parfums bevatten essentiële oliën van kruiden zoals rozemarijn, lavendel, basilicum en tijm, aangevuld met citruselementen. De aromatische familie straalt vitaliteit en natuurlijke elegantie uit, perfect voor wie houdt van verfijnde, herkenbare geuren die zowel energiek als rustgevend zijn.",
+      "faq": [
+        {
+          "question": "Welke ingrediënten zijn kenmerkend voor aromatische parfums?",
+          "answer": "Aromatische parfums bevatten voornamelijk kruiden zoals lavendel, rozemarijn, basilicum, tijm en salie. Deze worden vaak gecombineerd met citrusnoten, groene bladeren en soms houtachtige basiselementen voor meer diepte."
+        },
+        {
+          "question": "Voor welke gelegenheden zijn aromatische geuren geschikt?",
+          "answer": "Aromatische parfums zijn veelzijdig en perfect voor dagelijks gebruik, kantoor, sport en casual gelegenheden. Hun frisse, natuurlijke karakter maakt ze ideaal voor warme dagen en actieve momenten."
+        },
+        {
+          "question": "Hoe lang blijven aromatische parfums hangen op de huid?",
+          "answer": "Aromatische parfums hebben meestal een gemiddelde tot goede houdbaarheid van 4-8 uur. Door hun natuurlijke samenstelling kunnen ze lichter zijn dan zwaardere geurenfamilies, maar moderne formuleringen verbeteren de longeviteit aanzienlijk."
+        }
+      ],
+      "seo_title": "Aromatische Parfums bij Hello Beauty Blog",
+      "seo_bottom": "Ontdek de beste aromatische parfums bij Hello Beauty Blog, jouw expert in luxe geuren. Onze zorgvuldig geselecteerde collectie aromatische parfums biedt frisse, kruidenachtige composities van topmerken. Van klassieke lavendel tot moderne groene akkoorden - vind jouw perfecte aromatische signature geur in onze uitgebreide selectie."
+    },
+    "chypre": {
+      "intro_title": "Chypre Parfums: Elegante en Verfijnde Geurfamilie",
+      "intro": "Chypre parfums behoren tot de meest elegante geurreflecties in de parfumerie. Deze sophisticated geurfamilie kenmerkt zich door de harmonieuze combinatie van bergamot, roos en eikenmosaccorden. Met hun warme, aardse karakter en subtiele poederachtige noten creëren chypre parfums een tijdloze uitstraling die zowel mysterieus als verfijnd is, perfect voor de moderne parfumliefhebber.",
+      "faq": [
+        {
+          "question": "Wat zijn de hoofdingrediënten van chypre parfums?",
+          "answer": "Chypre parfums bevatten traditioneel bergamot in de topnoot, bloemige hartnoten zoals roos of jasmijn, en een basis van eikenmosaccorden gecombineerd met patchouli en labdanum voor diepte en warmte."
+        },
+        {
+          "question": "Voor welke gelegenheid zijn chypre geuren geschikt?",
+          "answer": "Chypre parfums zijn veelzijdig en elegant, ideaal voor zakelijke bijeenkomsten, avondevenementen en formele gelegenheden. Hun sophisticated karakter maakt ze perfect voor herfst- en wintermaanden."
+        },
+        {
+          "question": "Hoe onderscheiden chypre parfums zich van andere geurfamilies?",
+          "answer": "Chypre parfums zijn uniek door hun contrast tussen frisse citrustoppen en warme, aardse basisnoten. Dit creëert een complexe, gebalanceerde geur die zowel fris als mysterieus aanvoelt."
+        }
+      ],
+      "seo_title": "Ontdek Premium Chypre Parfums bij Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog biedt uitgebreide expertise in chypre parfums met zorgvuldig geselecteerde luxury geuren. Onze parfumspecialisten delen professionele kennis over deze elegante geurfamilie, inclusief detailed reviews, draagadviezen en trends. Vertrouw op onze jarenlange ervaring in premium parfumerie voor de perfecte chypre geur."
+    }
+  },
+  "pl": {
+    "floral": {
+      "intro_title": "Perfumy kwiatowe - romantyczne kompozycje zapachowe",
+      "intro": "Perfumy kwiatowe stanowią najszerszą i najbardziej popularną rodzinę zapachową w perfumerii. Charakteryzują się delikatnością, kobiecością i romantycznym charakterem. W ich kompozycji dominują nuty róży, jaśminu, lilii, fiołka, piwonii czy magnolii. Te eleganckie zapachy doskonale oddają naturalne piękno kwiatów, tworząc harmonijne kompozycje idealne na każdą porę roku.",
+      "faq": [
+        {
+          "question": "Jakie składniki dominują w perfumach kwiatowych?",
+          "answer": "Główne składniki to róża, jaśmin, lilia, fiołek, piwonia, magnolia, neroli oraz ylang-ylang. Te nuty tworzą romantyczne i delikatne kompozycje zapachowe charakterystyczne dla tej rodziny perfum."
+        },
+        {
+          "question": "Czy perfumy kwiatowe pasują na każdą okazję?",
+          "answer": "Perfumy kwiatowe są uniwersalne i doskonale sprawdzą się zarówno na co dzień, jak i na specjalne okazje. Lżejsze kompozycje idealnie nadają się na dzień, a bardziej intensywne na wieczór."
+        },
+        {
+          "question": "Jak długo utrzymują się perfumy kwiatowe na skórze?",
+          "answer": "Trwałość zależy od koncentracji perfum i składu. Eau de parfum kwiatowe utrzymuje się 6-8 godzin, podczas gdy eau de toilette około 4-6 godzin na skórze."
+        }
+      ],
+      "seo_title": "Eksperci od perfum kwiatowych",
+      "seo_bottom": "Hello Beauty Blog to autorytет w świecie luksusowych perfum kwiatowych. Nasze doświadczenie w branży beauty pozwala nam przedstawić najlepsze kompozycje zapachowe z rodziny kwiatowej. Odkryj romantyczne i eleganckie nuty, które podkreślą Twoją kobiecość i styl w każdej sytuacji."
+    },
+    "oriental": {
+      "intro_title": "Orientalne Perfumy - Zmysłowa Podróż do Egzotyki",
+      "intro": "Orientalne perfumy to rodzina zapachowa charakteryzująca się ciepłymi, zmysłowymi i egzotycznymi nutami. Ich fundamentem są bogate składniki takie jak paczula, ambra, wanilia, drzewo sandałowe i kadzidło. Te luksusowe kompozycje emanują tajemniczością i intensywnością, tworząc aurę elegancji i wyrafinowania. Orientalne zapachy są idealne na wieczorne wyjścia i specjalne okazje.",
+      "faq": [
+        {
+          "question": "Jakie są główne nuty w orientalnych perfumach?",
+          "answer": "Orientalne perfumy opierają się na ciepłych nutach bazowych jak ambra, paczula, wanilia, piżmo, drzewo sandałowe oraz orientalnych przyprawach jak cynamon, kardamon i kadzidło, które nadają im charakterystyczną zmysłowość."
+        },
+        {
+          "question": "Kiedy najlepiej nosić orientalne perfumy?",
+          "answer": "Orientalne zapachy są idealne na wieczorne wyjścia, romantyczne kolacje i jesienno-zimową porę roku. Ich intensywność i ciepło sprawiają, że świetnie sprawdzają się w chłodniejszych miesiącach i eleganckich okazjach."
+        },
+        {
+          "question": "Czym różnią się orientalne perfumy od kwiatowych?",
+          "answer": "Orientalne perfumy są znacznie bardziej intensywne, ciepłe i zmysłowe niż kwiatowe. Podczas gdy kwiatowe bazują na delikatnych nutach róży czy jaśminu, orientalne wykorzystują egzotyczne składniki i żywice dla głębszego, bardziej tajemniczego charakteru."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Ekspert Orientalnych Perfum",
+      "seo_bottom": "Hello Beauty Blog to zaufany przewodnik po świecie orientalnych perfum. Nasze ekspertki perfumeryjne testują i recenzują najlepsze orientalne zapachy, pomagając wybierać idealne kompozycje. Odkryj z nami zmysłowe nuty orientu, poznaj historie luksusowych marek i znajdź swój idealny orientalny zapach w naszych szczegółowych opisach i rankingach."
+    },
+    "woody": {
+      "intro_title": "Perfumy Drzewne - Ciepłe Zapachy Pełne Charakteru",
+      "intro": "Perfumy drzewne to jedna z najbardziej eleganckich i uniwersalnych rodzin zapachowych. Charakteryzują się ciepłymi, głębokimi nutami drewna sandałowego, cedru, wetiweru i paczuli. Ta rodzina olfaktoryczna emanuje naturalnością i wyrafinowaniem, tworząc kompozycje zarówno świeże jak i sensualne. Nuty drzewne doskonale komponują się z kwiatowymi, cytrusowymi czy orientalnymi akordami, nadając perfumom trwałość i głębię.",
+      "faq": [
+        {
+          "question": "Jakie są główne składniki perfum drzewnych?",
+          "answer": "Podstawowe nuty to drewno sandałowe, cedr, wetimber, paczuli, drewno różane i oud. Te naturalne esencje tworzą ciepłą, zmysłową bazę kompozycji zapachowej."
+        },
+        {
+          "question": "Czy perfumy drzewne są odpowiednie dla kobiet i mężczyzn?",
+          "answer": "Tak, perfumy drzewne to uniwersalna rodzina zapachowa. Mogą być zarówno delikatne i kobiece z nutami kwiatowymi, jak i intensywne, męskie z korzennym akcentem."
+        },
+        {
+          "question": "Kiedy najlepiej nosić perfumy drzewne?",
+          "answer": "Perfumy drzewne sprawdzają się przez cały rok. Lżejsze kompozycje idealne na dzień, głębsze i bardziej intensywne na wieczór i chłodniejsze miesiące."
+        }
+      ],
+      "seo_title": "Perfumy Drzewne w Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog to ekspert w dziedzinie luksusowych perfum drzewnych. Nasza starannie wyselekcjonowana kolekcja obejmuje najpiękniejsze kompozycje zapachowe z nutami drewna sandałowego, cedru i paczuli. Odkryj wyjątkowe perfumy drzewne, które podkreślą Twój naturalny szyk i wyrafinowany gust."
+    },
+    "fresh": {
+      "intro_title": "Świeże Perfumy - Olfaktoryczna Rodzina Energii",
+      "intro": "Świeże perfumy to rodzina zapachów charakteryzująca się czystością i energetycznością. Oparte na nutach cytrusowych, wodnych i zielonych składnikach, tworzą kompozycje pełne życia i świeżości. Cytryny, bergamotka, grejpfrut i nuty morskie definiują tę kategorię. Idealne na dzień, emanują lekkością i naturalną elegancją, doskonale sprawdzając się w ciepłe dni.",
+      "faq": [
+        {
+          "question": "Jakie składniki dominują w świeżych perfumach?",
+          "answer": "Główne składniki to nuty cytrusowe (cytryna, bergamotka, grejpfrut), nuty wodne, zielone liście, eukaliptus oraz ozonu. Te komponenty tworzą charakterystyczną świeżość i czystość zapachu."
+        },
+        {
+          "question": "Kiedy najlepiej nosić świeże perfumy?",
+          "answer": "Świeże perfumy idealnie sprawdzają się w ciągu dnia, szczególnie w ciepłe miesiące. Doskonałe do pracy, spotkań biznesowych i codziennego użytku, gdy potrzebujemy energetycznego i dyskretnego zapachu."
+        },
+        {
+          "question": "Jak długo utrzymują się świeże perfumy na skórze?",
+          "answer": "Świeże perfumy zazwyczaj charakteryzują się lżejszą strukturą, więc ich trwałość wynosi 4-6 godzin. Nuty cytrusowe szybko się ulatniają, pozostawiając delikatne nuty bazowe."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Świeżych Perfum",
+      "seo_bottom": "Hello Beauty Blog specjalizuje się w analizie świeżych perfum i rodziny zapachowej fresh. Nasze recenzje pomagają odkryć najlepsze cytrusowe i wodne kompozycje. Eksperckie porady dotyczące wyboru świeżych zapachów na każdą okazję. Zaufaj naszemu doświadczeniu w świecie luksusowych perfum."
+    },
+    "gourmand": {
+      "intro_title": "Perfumy Gourmand - Słodkie Aromaty dla Zmysłów",
+      "intro": "Perfumy gourmand to wyjątkowa rodzina zapachowa, która oczarowuje słodkimi, smakowitymi nutami przypominającymi ulubione desery i przysmaki. Charakteryzują się domieszkami wanilii, karmelu, czekolady, migdałów oraz słodkich owoców. Te zmysłowe kompozycje tworzą ciepłą, przytulną aurę idealną na jesienne i zimowe wieczory. Gourmand to zapach dla osób ceniących oryginalność i słodką zmysłowość w perfumerii.",
+      "faq": [
+        {
+          "question": "Jakie są główne składniki perfum gourmand?",
+          "answer": "Charakterystyczne nuty to wanilia, karmel, czekolada, migdały, kokos, miód oraz słodkie owoce jak gruszka czy brzoskwinia. Często dodawane są przyprawy jak cynamon czy kardamon."
+        },
+        {
+          "question": "Kiedy najlepiej nosić perfumy gourmand?",
+          "answer": "Idealne na jesienne i zimowe wieczory, romantyczne randki oraz specjalne okazje. Ich ciepły, słodki charakter sprawdza się w chłodniejsze dni i kameralne sytuacje."
+        },
+        {
+          "question": "Czy perfumy gourmand są odpowiednie na co dzień?",
+          "answer": "Zależy od intensywności kompozycji. Delikatne gourmand można nosić codziennie, natomiast bardzo słodkie i ciężkie lepiej zarezerwować na specjalne okazje."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Perfum Gourmand",
+      "seo_bottom": "Hello Beauty Blog to renomowany portal beauty z szeroką wiedzą o perfumach gourmand. Nasze recenzje i porady pomogą Ci odkryć idealne słodkie kompozycje dopasowane do Twojego stylu. Zaufaj naszym ekspertom w wyborze wyjątkowych zapachów gourmand, które podkreślą Twoją zmysłową osobowość i dodadzą magii codziennym chwilom."
+    },
+    "aromatic": {
+      "intro_title": "Perfumy Aromatyczne - Świeżość Ziół i Przypraw",
+      "intro": "Perfumy aromatyczne to rodzina zapachowa charakteryzująca się świeżością ziół, przypraw i roślin aromatycznych. Lawendą, rozmarynem, szałwią i bazylią jako nutami głowy tworzą kompozycje pełne energii i naturalności. Ta kategoria perfum doskonale sprawdza się na co dzień, oferując uczucie świeżości i harmonii z naturą. Idealne dla osób ceniących czyste, zielone aromaty.",
+      "faq": [
+        {
+          "question": "Jakie składniki dominują w perfumach aromatycznych?",
+          "answer": "W perfumach aromatycznych przeważają zioła jak lawenda, rozmaryn, szałwia, bazylia oraz przyprawy i nuty zielone. Te naturalne składniki tworzą świeże, energetyzujące kompozycje zapachowe."
+        },
+        {
+          "question": "Czy perfumy aromatyczne nadają się na każdą porę roku?",
+          "answer": "Perfumy aromatyczne są uniwersalne, ale szczególnie popularne wiosną i latem. Ich świeża, ziołowa natura sprawia, że doskonale komponują się z cieplejszymi miesiącami."
+        },
+        {
+          "question": "Dla kogo są przeznaczone perfumy z rodziny aromatycznej?",
+          "answer": "Perfumy aromatyczne są unisex i odpowiadają osobom ceniącym naturalne, świeże zapachy. Idealne dla aktywnych ludzi szukających energetyzujących, nieprzytłaczających kompozycji zapachowych."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Perfum Aromatycznych",
+      "seo_bottom": "Hello Beauty Blog to najlepsze źródło wiedzy o perfumach aromatycznych w Polsce. Nasi eksperci dokładnie analizują kompozycje ziołowe i przyprawowe, pomagając wybrać idealny zapach aromatyczny. Odkryj z nami świat świeżych, naturalnych perfum i znajdź swoją ulubioną kompozycję z nutami lawendy, rozmarynu czy szałwii."
+    },
+    "chypre": {
+      "intro_title": "Rodzina Zapachowa Chypre - Elegancja i Wyrafinowanie",
+      "intro": "Perfumy chypre to jedna z najbardziej klasycznych i wyrafinowanych rodzin zapachowych w perfumerii. Charakteryzują się kontrastem świeżych nut cytrusowych w górze z ciepłą bazą drzewną i ziemistą. Kluczowe składniki to bergamotka, mech dębowy, paczula i labdanum. Ta rodzina zapachowa emanuje elegancją, dojrzałością i tajemniczością, tworząc kompozycje o niezwykłej głębi i złożoności.",
+      "faq": [
+        {
+          "question": "Jakie są charakterystyczne nuty zapachowe rodziny chypre?",
+          "answer": "Perfumy chypre budowane są na kontrastach: świeże cytrusy w głowie, kwiatowe lub zielone nuty w sercu oraz ciepła, ziemista baza z mchem dębowym, paczulą i labdanum."
+        },
+        {
+          "question": "Dla kogo są przeznaczone perfumy z rodziny chypre?",
+          "answer": "Zapachy chypre idealnie sprawdzają się u osób ceniących elegancję i wyrafinowanie. Doskonale komponują się z jesiennymi stylizacjami i wieczorowym dress code'em."
+        },
+        {
+          "question": "Czym różni się chypre od innych rodzin zapachowych?",
+          "answer": "Chypre wyróżnia się unikalną strukturą opartą na kontraście świeżości i ciepła, gdzie dominuje mech dębowy nadający charakterystyczny ziemisty, drzewny charakter."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Perfum Chypre",
+      "seo_bottom": "Hello Beauty Blog to Twoje źródło wiedzy o luksusowych perfumach chypre. Nasi eksperci pomagają odkryć najpiękniejsze kompozycje tej wyrafinowanej rodziny zapachowej. Znajdź idealny zapach chypre dopasowany do Twojego stylu i osobowości w naszej starannie wyselekcjonowanej kolekcji."
+    }
+  },
+  "tr": {
+    "floral": {
+      "intro_title": "Çiçeksi Parfümler: Zarafet ve Feminen Büyünün Adresi",
+      "intro": "Çiçeksi parfümler, parfümcülüğün en klasik ve romantik ailesini oluşturur. Gül, yasemin, sümbül, leylak ve papatya gibi çiçek notalarından elde edilen bu kokualar, doğal feminen güzelliği vurgular. Taze çiçek buketi etkisi yaratan bu parfümler, zarif ve sofistike bir atmosfer sunar. Hem günlük kullanım hem de özel anlar için ideal olan çiçeksi parfümler, her yaştan kadının vazgeçilmez tercihi haline gelmiştir.",
+      "faq": [
+        {
+          "question": "Çiçeksi parfümlerin temel notaları nelerdir?",
+          "answer": "Çiçeksi parfümlerde gül, yasemin, sümbül, leylak, papatya, menekşe ve freesia gibi çiçek notaları ana karakteri oluşturur. Bu notalar taze, romantik ve feminen bir koku profili yaratır."
+        },
+        {
+          "question": "Çiçeksi parfümler hangi mevsimlerde kullanılır?",
+          "answer": "Çiçeksi parfümler özellikle ilkbahar ve yaz aylarında tercih edilir. Taze ve hafif yapıları sayesinde sıcak havalarda rahatça kullanılabilir, ancak dört mevsim uygun formülleri de mevcuttur."
+        },
+        {
+          "question": "Çiçeksi parfümler kimler için uygundur?",
+          "answer": "Çiçeksi parfümler genellikle feminen, romantik ve zarif kokuları seven kişiler için idealdir. Yaş fark etmeksizin, klasik ve sofistike bir tarzı benimseyen herkes tercih edebilir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Çiçeksi Parfüm Rehberi",
+      "seo_bottom": "Hello Beauty Blog olarak çiçeksi parfümlerin inceliklerini sizlerle paylaşıyoruz. Lüks parfüm dünyasındaki expertise'imizle, en kaliteli çiçeksi parfümleri keşfedin. Romantik ve zarif kokuların büyüleyici dünyasında rehberiniz olmaya devam ediyoruz. Size en uygun çiçeksi parfümü bulmanızda yardımcı oluyoruz."
+    },
+    "oriental": {
+      "intro_title": "Oriental Parfümler: Gizemli ve Büyüleyici Kokular",
+      "intro": "Oriental parfüm ailesi, parfümcülükte en etkileyici ve büyüleyici kategori olarak öne çıkar. Vanilya, amber, misk ve baharat notalarıyla karakterize edilen bu ailede, egzotik ve sıcak kokuların hakim olduğu kompozisyonlar yer alır. Oriental parfümler, yoğun sillaj ve uzun kalıcılığıyla tanınır. Akşam kullanımına ideal olan bu parfümler, gizemli ve çekici bir koku profili sunar.",
+      "faq": [
+        {
+          "question": "Oriental parfümler hangi notalar içerir?",
+          "answer": "Oriental parfümler temel olarak vanilya, amber, misk, baharat ve ağaç notalarını içerir. Tarçın, karanfil ve tütsü gibi egzotik malzemeler de sıkça kullanılır."
+        },
+        {
+          "question": "Oriental parfümler ne zaman kullanılmalı?",
+          "answer": "Oriental parfümler yoğun ve sıcak karakterleri nedeniyle akşam saatleri ve soğuk hava koşulları için idealdir. Özel etkinlikler ve romantik anlarda tercih edilir."
+        },
+        {
+          "question": "Oriental parfümlerin kalıcılığı nasıldır?",
+          "answer": "Oriental parfümler yoğun konsantrasyonları sayesinde uzun kalıcılık sunar. Genellikle 6-8 saat boyunca ciltte kalır ve güçlü sillaja sahiptir."
+        }
+      ],
+      "seo_title": "Oriental Parfüm Uzmanı Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog, oriental parfüm ailesinin inceliklerini en iyi bilen lüks güzellik platformudur. Amber, vanilya ve baharat notalarıyla zenginleşen oriental parfümler hakkında uzman yorumları ve detaylı analizleri keşfedin. En kaliteli oriental parfüm önerilerini burada bulun."
+    },
+    "woody": {
+      "intro_title": "Odunsu Parfümler: Doğanın Sıcak Kucağı",
+      "intro": "Odunsu parfüm ailesi, sedir, sandal ağacı, vetiver ve paçuli gibi doğal odun esanslarının zengin ve sofistike dünyasını sunar. Bu kokular maskülen karakterleri ve uzun kalıcılıkları ile tanınır. Topraktan gelen sıcaklığı modern zarafet ile harmanlayan odunsu notalar, hem günlük kullanım hem de özel anlar için ideal seçeneklerdir.",
+      "faq": [
+        {
+          "question": "Odunsu parfümlerin temel bileşenleri nelerdir?",
+          "answer": "Sedir, sandal ağacı, vetiver, paçuli ve amber odunsu parfümlerin ana bileşenleridir. Bu doğal esanslar parfüme derinlik ve karakter kazandırır."
+        },
+        {
+          "question": "Odunsu kokular hangi mevsimde kullanılmalı?",
+          "answer": "Odunsu parfümler özellikle sonbahar ve kış aylarında idealdir. Sıcak ve sarmalayıcı karakterleri soğuk havalarda mükemmel uyum sağlar."
+        },
+        {
+          "question": "Kadınlar odunsu parfüm kullanabilir mi?",
+          "answer": "Kesinlikle! Modern parfümcülük odunsu notaları hem erkekler hem kadınlar için uyarlamıştır. Unisex formüller oldukça popülerdir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Odunsu Parfüm Uzmanlığı",
+      "seo_bottom": "Hello Beauty Blog'da odunsu parfüm ailesinin en seçkin örneklerini keşfedin. Uzman parfümörlerimiz tarafından seçilen sedir, sandal ağacı ve vetiver bazlı lüks kokularla tanışın. Doğanın sıcaklığını modern yaşamınıza taşıyan odunsu parfümler için güvenilir adresiniz."
+    },
+    "fresh": {
+      "intro_title": "Fresh Parfüm Ailesi: Ferahlatıcı Koku Deneyimi",
+      "intro": "Fresh parfüm ailesi, citrus notaları, deniz esintileri ve yeşil yaprakların oluşturduğu ferahlatıcı koku grubunu tanımlar. Bergamot, limon, grapefruit gibi citrus notalarla başlayan bu parfümler, deniz tuzu, okyanus esintileri ve mint gibi aromatik notalarla tamamlanır. Yaz aylarının vazgeçilmezi olan fresh parfümler, temiz ve enerjik bir his yaratır.",
+      "faq": [
+        {
+          "question": "Fresh parfümler hangi mevsimlerde kullanılır?",
+          "answer": "Fresh parfümler özellikle bahar ve yaz aylarında tercih edilir. Sıcak havalarda ferahlatıcı etkisi sayesinde günlük kullanım için idealdir ve tüm yaş grupları tarafından sevilebilir."
+        },
+        {
+          "question": "Fresh parfüm ailesinin temel bileşenleri nelerdir?",
+          "answer": "Fresh parfümler citrus notaları (bergamot, limon, portakal), aromatik bitkiler (mint, biberiye), deniz notaları ve yeşil yaprakların birleşiminden oluşur. Bu bileşenler temiz ve ferah bir koku profili yaratır."
+        },
+        {
+          "question": "Fresh parfümlerin kalıcılık süresi ne kadardır?",
+          "answer": "Fresh parfümler genellikle 4-6 saat kalıcılık gösterir. Hafif yapıları nedeniyle daha sık yenileme gerektirebilir ancak boğucu olmayan yapıları sayesinde günboyu rahatça kullanılabilir."
+        }
+      ],
+      "seo_title": "Hello Beauty Fresh Parfüm Koleksiyonu",
+      "seo_bottom": "Hello Beauty Blog olarak fresh parfüm ailesinin inceliklerini keşfedin. Uzman parfüm editörlerimiz, citrus notalarından deniz esintilerine kadar fresh parfümlerin her detayını analiz eder. En kaliteli fresh parfüm önerileri ve detaylı incelemeleri için doğru adrestesiniz."
+    },
+    "gourmand": {
+      "intro_title": "Gourmand Parfümler: Lezzet Dolu Koku Dünyası",
+      "intro": "Gourmand parfüm ailesi, yenilebilir notalarla bezenmiş en çekici koku kategorilerinden biridir. Vanilya, çikolata, karamel, bal ve meyveli notalar bu ailenin temel karakterini oluşturur. Tatlı, sıcak ve rahatlatıcı bir atmosfer yaratan gourmand parfümler, nostaljik anıları canlandırır. Şekerleme dükkanı havası yaratarak, kullanıcısına çocukluk günlerini anımsatan büyülü bir deneyim sunar.",
+      "faq": [
+        {
+          "question": "Gourmand parfümler hangi mevsimde kullanılır?",
+          "answer": "Gourmand parfümler özellikle sonbahar ve kış aylarında tercih edilir. Sıcak, tatlı notaları soğuk havalarda daha güzel yayılır ve rahatlatıcı bir etki yaratır."
+        },
+        {
+          "question": "Gourmand parfümlerde en çok hangi notalar bulunur?",
+          "answer": "Vanilya, çikolata, karamel, bal, tarçın, badem ve çeşitli meyveli notalar gourmand parfümlerin temel bileşenleridir. Bu notalar parfüme yenilebilir karakter kazandırır."
+        },
+        {
+          "question": "Gourmand parfümler kimlere uygun?",
+          "answer": "Tatlı, sıcak ve rahatlatıcı kokuları seven, nostaljik duygular yaşamayı tercih eden kişilere idealdir. Özellikle romantik ve samimi ortamlarda kullanılmaya uygundur."
+        }
+      ],
+      "seo_title": "Hello Beauty'de Gourmand Parfüm Koleksiyonu",
+      "seo_bottom": "Hello Beauty Blog olarak, gourmand parfüm ailesinin en seçkin örneklerini sizler için derledik. Uzman parfüm editörlerimiz, vanilya ve çikolata notalarından meyveli gourmand kompozisyonlara kadar geniş yelpazemizde her zevke uygun tatlı parfüm alternatiflerini özenle seçer ve detaylı incelemeleriyle sunar."
+    },
+    "aromatic": {
+      "intro_title": "Aromatik Parfümlerin Büyüleyici Dünyası",
+      "intro": "Aromatik parfüm ailesi, taze otlar, lavanta, biberiye ve adaçayı gibi doğal aromatik bitkilerin eşsiz kokularıyla karakterize edilir. Bu parfüm kategorisi, Akdeniz esintilerini modern parfümcülükle buluşturarak hem kadın hem erkek kullanıcılar için ideal seçenekler sunar. Genellikle üst notalarda sitrus, kalp notalarında otlar ve taban notalarında odunsu akortlar bulunur.",
+      "faq": [
+        {
+          "question": "Aromatik parfümler hangi mevsimde kullanılır?",
+          "answer": "Aromatik parfümler özellikle ilkbahar ve yaz aylarında tercih edilir. Taze ve ferahlatıcı yapıları sayesinde sıcak havalarda rahatlatıcı etki yaratır ve günlük kulanım için idealdir."
+        },
+        {
+          "question": "Aromatik parfümlerin temel bileşenleri nelerdir?",
+          "answer": "Lavanta, biberiye, adaçayı, nane ve kekik gibi aromatik otlar temel bileşenlerdir. Bu notalar genellikle bergamot gibi sitrus üst notalarla ve sedir, vetiver gibi odunsu taban notalarla desteklenir."
+        },
+        {
+          "question": "Aromatik parfümler unisex midir?",
+          "answer": "Evet, aromatik parfümler genellikle unisex karakterdedir. Doğal ot kokularının tarafsız yapısı sayesinde hem kadın hem erkek kullanıcılar tarafından rahatlıkla tercih edilebilir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Aromatik Parfüm Uzmanlığı",
+      "seo_bottom": "Hello Beauty Blog olarak aromatik parfüm ailesinin inceliklerini en ince detayına kadar araştırıyor ve size en kaliteli ürünleri sunuyoruz. Uzman ekibimiz, lavanta ve aromatik otların parfümdeki rolünü derinlemesine analiz ederek, size mükemmel aromatik parfüm seçimleri için rehberlik ediyor."
+    },
+    "chypre": {
+      "intro_title": "Chypre Parfümlerin Büyüleyici Dünyası",
+      "intro": "Chypre parfüm ailesi, bergamot, gül ve meşe yosunu kombinasyonuyla tanınan sofistike ve karmaşık koku ailesinin zirvesidir. 1917'de François Coty'nin ünlü 'Chypre' parfümüyle adını alan bu kategori, taze sitrus notalarının çiçeksi kalp notalarıyla buluştuğu, odunsu ve yosunsu base notalarla tamamlanan eşsiz bir karakter sergiler. Zarif ve gizemli yapısıyla özellikle akşam kullanımında tercih edilir.",
+      "faq": [
+        {
+          "question": "Chypre parfümlerin temel bileşenleri nelerdir?",
+          "answer": "Chypre parfümler bergamot, gül, yasemin gibi çiçeksi notalarla meşe yosunu, paçuli ve ambergris gibi odunsu-topraksi base notlarından oluşur."
+        },
+        {
+          "question": "Chypre parfümler hangi mevsimde kullanılmalı?",
+          "answer": "Chypre parfümler ağır ve sofistike yapıları nedeniyle sonbahar ve kış mevsimlerinde, özellikle akşam saatlerinde idealdir."
+        },
+        {
+          "question": "Chypre parfümlerle hangi tarz uyumludur?",
+          "answer": "Chypre parfümler klasik, zarif ve sofistike tarzı tercih eden, güçlü kişiliğe sahip kadınlar için mükemmel bir seçimdir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Chypre Parfüm Rehberi",
+      "seo_bottom": "Hello Beauty Blog olarak chypre parfüm ailesinin inceliklerini uzman parfümörlerimizle birlikte keşfediyoruz. En prestijli chypre parfümlerden nişe markalara kadar geniş ürün yelpazemizle kişisel tarzınıza uygun parfümü bulmanızda size yardımcı oluyoruz. Güvenilir içeriklerimiz ve detaylı incelemelerimizle parfüm seçiminizi kolaylaştırıyoruz."
+    }
+  },
+  "ar": {
+    "floral": {
+      "intro_title": "عطور الزهور - عالم الأناقة والرومانسية الفاخر",
+      "intro": "تُعتبر عائلة العطور الزهرية من أكثر التصنيفات العطرية شعبية وأناقة في عالم العطور الفاخرة. تتميز هذه العطور بطابعها الرومانسي الأخاذ وتركيبتها الغنية من الورود والياسمين وزهر البرتقال والفريزيا. تمنح عطور الزهور إحساساً بالأنوثة والرقة، مما يجعلها الخيار الأمثل للمرأة العصرية التي تبحث عن التميز والسحر في كل مناسبة.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الأساسية في عطور الزهور؟",
+          "answer": "تتضمن الورد البلغاري والدمشقي، الياسمين، زهر البرتقال، الفريزيا، البنفسج، والفاوانيا. هذه المكونات تُمزج مع نوتات أخرى لخلق تركيبات عطرية متوازنة ومُعقدة تدوم طويلاً."
+        },
+        {
+          "question": "متى يُفضل ارتداء العطور الزهرية؟",
+          "answer": "العطور الزهرية مثالية للنهار والمناسبات الرومانسية وفصلي الربيع والصيف. كما تناسب بيئة العمل والمناسبات الاجتماعية، حيث تترك انطباعاً أنيقاً ومُنعشاً دون أن تكون قوية أو مُثيرة."
+        },
+        {
+          "question": "كيف تختلف العطور الزهرية عن باقي العائلات العطرية؟",
+          "answer": "تتميز بطابعها الأنثوي الواضح ونعومتها المُميزة مقارنة بالعطور الشرقية القوية أو الخشبية الجافة. كما أنها أقل حدة من العطور الحمضية وأكثر رومانسية، مما يجعلها فريدة في عالم العطور."
+        }
+      ],
+      "seo_title": "مدونة Hello Beauty للعطور الزهرية الفاخرة",
+      "seo_bottom": "تقدم مدونة Hello Beauty دليلك الشامل لأفخر العطور الزهرية من أرقى دور العطور العالمية. نوفر مراجعات مفصلة ونصائح خبراء لاختيار العطر الزهري المثالي الذي يناسب شخصيتك وأسلوبك. اكتشفي معنا عالم الرومانسية والأناقة في كل قطرة عطر."
+    },
+    "oriental": {
+      "intro_title": "عطور الشرق الأصيلة - رحلة عبر الروائح التراثية",
+      "intro": "تمثل العطور الشرقية قمة الفخامة والدفء في عالم العطور، حيث تتميز بتركيباتها الغنية من العنبر والعود والمسك والفانيليا. هذه التركيبات الساحرة تخلق أجواءً من الغموض والإثارة، مع عبق يدوم طويلاً على البشرة. العطور الشرقية تناسب الأمسيات الخاصة والمناسبات الفاخرة، وتترك انطباعاً لا يُنسى بفضل طابعها الحسي والدافئ.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الأساسية للعطور الشرقية؟",
+          "answer": "تتكون العطور الشرقية من العنبر والمسك والعود والفانيليا والبخور، بالإضافة إلى التوابل الدافئة مثل القرفة والهيل، مما يخلق تركيبة غنية ومعقدة تدوم طويلاً."
+        },
+        {
+          "question": "متى يُفضل استخدام العطور الشرقية؟",
+          "answer": "العطور الشرقية مثالية للأمسيات والمناسبات الخاصة والطقس البارد، حيث تبرز نفحاتها الدافئة والحسية بشكل أفضل، وتناسب الإطلالات الأنيقة والفاخرة."
+        },
+        {
+          "question": "كيف تختلف العطور الشرقية عن العائلات الأخرى؟",
+          "answer": "تتميز العطور الشرقية بثباتها الطويل وطابعها الدافئ والغني، على عكس العطور المنعشة أو الزهرية، مما يجعلها اختياراً مثالياً لمن يبحث عن عطر مميز وجذاب."
+        }
+      ],
+      "seo_title": "مدونة Hello Beauty للعطور الشرقية الأصيلة",
+      "seo_bottom": "تقدم مدونة Hello Beauty مجموعة مختارة بعناية من أفخر العطور الشرقية من أشهر البيوت العالمية. نحن متخصصون في تقديم المشورة المهنية لاختيار العطر الشرقي المناسب، مع دليل شامل لأفضل التركيبات الشرقية الأصيلة التي تناسب ذوقك الرفيع."
+    },
+    "woody": {
+      "intro_title": "عطور خشبية فاخرة تأسر الحواس بدفئها الساحر",
+      "intro": "تُعتبر العائلة العطرية الخشبية من أرقى التصنيفات في عالم العطور، حيث تتميز بمكوناتها الأساسية من خشب الصندل وخشب الأرز والعود الفاخر. تمنح هذه العطور إحساساً بالدفء والأناقة والثقة، مما يجعلها خياراً مثالياً لمحبي العطور الكلاسيكية والعصرية على حد سواء.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الأساسية في العطور الخشبية؟",
+          "answer": "تشمل المكونات الرئيسية خشب الصندل وخشب الأرز والعود والباتشولي وخشب الورد، والتي تمنح العطر طابعاً دافئاً ومتطوراً يدوم طويلاً على البشرة."
+        },
+        {
+          "question": "هل العطور الخشبية مناسبة للاستخدام اليومي؟",
+          "answer": "نعم، العطور الخشبية متعددة الاستخدامات وتناسب جميع المناسبات من اليومية إلى الرسمية، خاصة في فصلي الخريف والشتاء حيث يبرز دفؤها الطبيعي."
+        },
+        {
+          "question": "كيف أختار العطر الخشبي المناسب لشخصيتي؟",
+          "answer": "اختاري العطور الخشبية الناعمة مع الزهور للإطلالات النهارية، والعطور الخشبية الغنية بالتوابل أو العنبر للمساء والمناسبات الخاصة لتبرزي أناقتك."
+        }
+      ],
+      "seo_title": "اكتشفي أفضل العطور الخشبية الفاخرة",
+      "seo_bottom": "مدونة هيلو بيوتي تقدم لك مجموعة منتقاة بعناية من أرقى العطور الخشبية من العلامات التجارية العالمية. استمتعي بتجربة تسوق فريدة واكتشفي عطرك المثالي من عائلة العطور الخشبية الدافئة والساحرة."
+    },
+    "fresh": {
+      "intro_title": "عالم العطور المنعشة الساحر والمميز",
+      "intro": "تمثل عائلة العطور المنعشة قمة الأناقة والحيوية في عالم العطور الراقية. تتميز هذه العطور بمزيجها الفريد من الحمضيات النابضة بالحياة مثل الليمون والبرغموت، إلى جانب النوتات البحرية والأعشاب العطرية. تمنح هذه التركيبة إحساساً بالانتعاش والطاقة، مما يجعلها الخيار الأمثل للاستخدام اليومي والمناسبات الصيفية المشرقة.",
+      "faq": [
+        {
+          "question": "ما هي أهم المكونات في العطور المنعشة؟",
+          "answer": "تحتوي العطور المنعشة على الحمضيات مثل الليمون والجريب فروت، النوتات البحرية، الأعشاب العطرية كالنعناع والريحان، بالإضافة إلى المكونات المائية التي تمنح الإحساس بالانتعاش."
+        },
+        {
+          "question": "متى يفضل استخدام العطور المنعشة؟",
+          "answer": "العطور المنعشة مثالية للاستخدام النهاري، خاصة في فصلي الربيع والصيف، وللمناسبات الرياضية أو أوقات العمل، حيث تمنح طاقة وحيوية دون إزعاج الآخرين."
+        },
+        {
+          "question": "كم تدوم العطور المنعشة على البشرة؟",
+          "answer": "عادة ما تدوم العطور المنعشة لفترة أقصر مقارنة بالعائلات الأخرى، حوالي 4-6 ساعات، وذلك بسبب طبيعة مكوناتها الخفيفة والمتطايرة، مما يتطلب إعادة التطبيق."
+        }
+      ],
+      "seo_title": "مدونة مرحبا بيوتي للعطور المنعشة",
+      "seo_bottom": "تقدم مدونة مرحبا بيوتي دليلك الشامل لاختيار أفضل العطور المنعشة من أرقى العلامات العالمية. نوفر مراجعات متخصصة وتوصيات مدروسة لمساعدتك في اكتشاف عطرك المنعش المثالي، مع التركيز على الجودة والأصالة لضمان تجربة عطرية استثنائية تناسب ذوقك الرفيع."
+    },
+    "gourmand": {
+      "intro_title": "عطور الغورماند: رحلة حسية في عالم النكهات الشهية",
+      "intro": "تمثل عطور الغورماند عائلة عطرية فريدة تستوحي جوهرها من عالم الطعام والحلويات الشهية. تتميز هذه العائلة بمكونات غنية مثل الفانيليا الكريمية، جوز الهند المداري، القرفة الدافئة، والكراميل الذهبي. تخلق هذه التركيبات العطرية أجواءً مريحة ودافئة تشبه عناق حنون، مما يجعلها مثالية للأشخاص الذين يسعون لعطر يعكس شخصيتهم المرحة والحسية.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الرئيسية في عطور الغورماند؟",
+          "answer": "تحتوي عطور الغورماند على الفانيليا، الكراميل، الشوكولاتة، العسل، القرفة، جوز الهند، واللوز. هذه المكونات تمنح العطر رائحة حلوة وشهية تذكر بالحلويات والمخبوزات الطازجة."
+        },
+        {
+          "question": "متى يفضل ارتداء العطور الغورماندية؟",
+          "answer": "تناسب عطور الغورماند المساء والمناسبات الخاصة والأجواء الرومانسية. كما أنها مثالية في فصلي الخريف والشتاء حيث تمنح دفئاً وراحة نفسية في الأجواء الباردة."
+        },
+        {
+          "question": "هل عطور الغورماند مناسبة للاستخدام اليومي؟",
+          "answer": "نعم، يمكن اختيار تراكيز خفيفة من عطور الغورماند للاستخدام اليومي. ابحثي عن العطور التي تحتوي على نوتات فواكه طازجة مع لمسات غورماندية خفيفة لإطلالة يومية جذابة."
+        }
+      ],
+      "seo_title": "مدونة هيلو بيوتي: دليلك لعطور الغورماند الفاخرة",
+      "seo_bottom": "تقدم مدونة هيلو بيوتي مجموعة مختارة بعناية من أفضل عطور الغورماند العالمية. نحن متخصصون في تقديم المشورة الخبيرة حول العطور الحلوة والشهية التي تناسب ذوقك الرفيع. اكتشفي معنا عالم العطور الغورماندية الفاخرة وابحثي عن عطرك المثالي الذي يعكس شخصيتك المميزة."
+    },
+    "aromatic": {
+      "intro_title": "عطور الفئة العطرية الأنيقة والمنعشة",
+      "intro": "تُعتبر العطور العطرية من أنقى فئات العطور وأكثرها انتعاشاً، حيث تتميز بمزجها الرائع للأعشاب الطبيعية والنباتات العطرية مثل اللافندر والروزماري والنعناع. تمنحك هذه العطور الفاخرة إحساساً بالانتعاش والحيوية طوال اليوم، وتناسب الشخصيات العصرية التي تبحث عن عطر مميز يجمع بين الأناقة والطبيعة.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الأساسية في العطور العطرية؟",
+          "answer": "تحتوي العطور العطرية على الأعشاب الطبيعية مثل اللافندر والروزماري والميرمية والنعناع، بالإضافة إلى النباتات العطرية التي تمنحها رائحة منعشة ومميزة."
+        },
+        {
+          "question": "هل العطور العطرية مناسبة للاستخدام اليومي؟",
+          "answer": "نعم، العطور العطرية مثالية للاستخدام اليومي لأنها منعشة وخفيفة، كما أنها تناسب جميع المواسم وتمنح شعوراً بالراحة والانتعاش طوال اليوم."
+        },
+        {
+          "question": "كيف تختلف العطور العطرية عن الفئات الأخرى؟",
+          "answer": "تتميز العطور العطرية بطابعها الطبيعي المنعش والنظيف، وهي أقل حلاوة من العطور الشرقية وأكثر نضارة من العطور الخشبية، مما يجعلها مثالية للشخصيات العملية."
+        }
+      ],
+      "seo_title": "اكتشفي أفضل العطور العطرية",
+      "seo_bottom": "في مدونة هلو بيوتي، نقدم لك مجموعة متنوعة من أفضل العطور العطرية الفاخرة من أشهر الماركات العالمية. نساعدك في اختيار العطر العطري المثالي الذي يناسب شخصيتك وأسلوب حياتك بخبرتنا المتخصصة في عالم العطور الراقية."
+    },
+    "chypre": {
+      "intro_title": "عطور الشيبر: رحلة عبر عالم الأناقة الكلاسيكية",
+      "intro": "تمثل عائلة عطور الشيبر قمة الرقي والأناقة في عالم العطور، حيث تتميز بتركيبتها المعقدة التي تجمع بين نضارة الحمضيات ودفء البرغموت وعمق طحلب السنديان. هذه العطور الأيقونية تمنح إحساساً بالجاذبية والغموض، مما يجعلها الخيار المثالي للشخصيات المتميزة التي تبحث عن التفرد والأناقة الخالدة.",
+      "faq": [
+        {
+          "question": "ما هي المكونات الأساسية في عطور الشيبر؟",
+          "answer": "تتكون عطور الشيبر من ثلاثية أساسية: الحمضيات في المقدمة، الورود أو الياسمين في القلب، وطحلب السنديان مع الباتشولي في القاعدة، مما يخلق توازناً مثالياً بين النضارة والدفء."
+        },
+        {
+          "question": "لمن تناسب عطور الشيبر؟",
+          "answer": "تناسب عطور الشيبر الأشخاص الذين يقدرون الكلاسيكية والأناقة، وهي مثالية للمناسبات المسائية والرسمية. تمنح هذه العطور إطلالة متطورة وجذابة للنساء والرجال على حد سواء."
+        },
+        {
+          "question": "ما الذي يميز عطور الشيبر عن باقي العائل العطرية؟",
+          "answer": "تتميز عطور الشيبر بتركيبتها المعقدة وتطورها المستمر على البشرة، حيث تبدأ منعشة وتتحول تدريجياً إلى عطر دافئ وحسي، مما يخلق تجربة عطرية متعددة الأبعاد."
+        }
+      ],
+      "seo_title": "مدونة هيلو بيوتي: دليلك لعطور الشيبر",
+      "seo_bottom": "في مدونة هيلو بيوتي، نقدم لك دليلاً شاملاً لعطور الشيبر الفاخرة، مع مراجعات مفصلة وتوصيات من خبراء العطور. اكتشف أفضل العلامات التجارية وأحدث الإصدارات من عائلة الشيبر، واختر العطر الذي يناسب شخصيتك المميزة."
+    }
+  },
+  "zh": {
+    "floral": {
+      "intro_title": "花香调香水：永恒优雅的嗅觉艺术",
+      "intro": "花香调香水作为香水界最经典的嗅觉家族，以玫瑰、茉莉、牡丹、铃兰等花卉精华为核心，营造出浪漫迷人的香氛体验。这类香水通常具有柔美、优雅的特质，从清新淡雅的白花香到浓郁奔放的红玫瑰，花香调香水能够完美诠释女性的多面魅力，是春夏季节和日常佩戴的理想选择。",
+      "faq": [
+        {
+          "question": "花香调香水适合什么季节使用？",
+          "answer": "花香调香水四季皆宜，但在春夏季节表现最佳。清淡的白花香适合日间，浓郁的玫瑰或晚香玉则适合夜晚和正式场合。"
+        },
+        {
+          "question": "如何区分不同类型的花香调香水？",
+          "answer": "花香调可分为单花香、混合花香和果香花香。单花香以一种花卉为主导，混合花香融合多种花香，果香花香则添加了果香元素。"
+        },
+        {
+          "question": "花香调香水的持香时间如何？",
+          "answer": "花香调香水的持香时间因浓度而异。淡香精通常持续4-6小时，香精可达8-12小时。选择含有木质或麝香基调的花香调能延长留香时间。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog花香调香水专业指南",
+      "seo_bottom": "Hello Beauty Blog汇聚全球顶级花香调香水，提供专业的香氛评测和选购建议。我们的美妆专家团队深入解析每款花香调香水的香调构成、适用场景和搭配技巧，助您找到最适合的花香调香水，尽享优雅迷人的嗅觉体验。"
+    },
+    "oriental": {
+      "intro_title": "东方香调香水：神秘奢华的嗅觉艺术",
+      "intro": "东方香调香水以其浓郁神秘的特质著称，是香水界最具魅力的香调家族之一。这类香水通常以琥珀、香草、檀香、乳香等温暖香料为基调，营造出深邃迷人的嗅觉体验。东方香调香水层次丰富，留香持久，散发着异域风情和奢华气息，完美诠释了成熟优雅的女性魅力，是追求独特个性香水爱好者的理想选择。",
+      "faq": [
+        {
+          "question": "东方香调香水有哪些经典香料成分？",
+          "answer": "东方香调香水的核心成分包括琥珀、香草、檀香、乳香、广藿香、肉桂等温暖香料。这些珍贵原料赋予香水浓郁深邃的基调，营造出神秘奢华的嗅觉印象。"
+        },
+        {
+          "question": "东方香调香水适合什么场合佩戴？",
+          "answer": "东方香调香水因其浓郁持久的特质，特别适合晚间聚会、正式场合或秋冬季节佩戴。这类香水能够很好地彰显个人魅力，营造优雅成熟的气质。"
+        },
+        {
+          "question": "如何区分东方香调与其他香调家族？",
+          "answer": "东方香调以温暖、浓郁、持久为特点，与清新花香调或柑橘调形成鲜明对比。其独特的琥珀基调和香料层次，让人一闻便能感受到异域风情和神秘气息。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 东方香调专家推荐",
+      "seo_bottom": "Hello Beauty Blog汇聚全球顶级东方香调香水品牌，从经典琥珀香调到现代东方花香，我们的专业团队为您精心挑选每一款神秘迷人的东方香水。凭借丰富的香水知识和敏锐的嗅觉鉴赏力，为追求奢华品味的您提供最专业的东方香调香水购买指南。"
+    },
+    "woody": {
+      "intro_title": "木质香水的温暖诱惑与经典魅力",
+      "intro": "木质香调是香水界最经典的嗅觉家族之一，以雪松、檀香、白檀、沉香等珍贵木材为核心成分。这类香水散发着温暖、沉稳的气息，营造出优雅成熟的氛围。木质香调通常具有持久的留香能力，从清新的柏木到深邃的乌木，每一种木材都赋予香水独特的个性。无论是日常佩戴还是正式场合，木质香水都能展现出佩戴者的品味与魅力。",
+      "faq": [
+        {
+          "question": "木质香水适合什么季节使用？",
+          "answer": "木质香水四季皆宜，但在秋冬季节表现尤为出色。温暖的木质调在寒冷天气中能营造舒适感，而夏季选择清淡的木质香调也能带来清新自然的感觉。"
+        },
+        {
+          "question": "木质香调的主要香料有哪些？",
+          "answer": "常见的木质香料包括雪松、檀香、沉香、乌木、花梨木、柏木等。这些天然木材经过精心调配，创造出层次丰富的嗅觉体验，是木质香水的灵魂所在。"
+        },
+        {
+          "question": "如何选择适合自己的木质香水？",
+          "answer": "选择木质香水时要考虑个人喜好和使用场合。喜欢温暖感觉可选檀香调，追求清新可选雪松调，正式场合适合深沉的沉香调，日常佩戴则推荐柔和的木质花香调。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog木质香水专业指南",
+      "seo_bottom": "Hello Beauty Blog作为专业的奢华美妆平台，深度解析木质香水的精髓与魅力。我们为您精选全球顶级木质香调作品，提供专业的香水评测与购买指南。从经典檀香到现代木质调香，在这里发现最适合您的木质香水，感受大自然的温暖拥抱。"
+    },
+    "fresh": {
+      "intro_title": "清新香调：自然纯净的嗅觉体验",
+      "intro": "清新香调以其纯净、明亮的特质成为香水界的经典香调家族。这类香水通常融合柑橘类、绿叶、海洋和淡雅花香等天然元素，营造出如春日晨露般清新怡人的嗅觉感受。清新香调适合日常佩戴，散发自然活力，让人感受到清风徐来的舒适惬意，是现代都市生活中不可缺少的优雅选择。",
+      "faq": [
+        {
+          "question": "清新香调的主要成分有哪些？",
+          "answer": "清新香调主要包含柑橘类精油如柠檬、佛手柑，绿叶香料如薄荷、罗勒，以及海洋调和淡雅白花香，这些成分共同营造清新自然的香氛体验。"
+        },
+        {
+          "question": "清新香调适合什么场合使用？",
+          "answer": "清新香调非常适合日常工作、休闲聚会和春夏季节使用。其清淡自然的特质不会过于浓烈，能够营造清新优雅的个人气质，适合各种日常场合。"
+        },
+        {
+          "question": "如何选择适合自己的清新香调香水？",
+          "answer": "选择清新香调时，可根据个人喜好选择偏柑橘、海洋或绿叶调性的产品。建议先试香，感受香水在肌肤上的表现，选择与个人气质相符的清新香调。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog清新香调专业指南",
+      "seo_bottom": "Hello Beauty Blog致力于为您提供最专业的清新香调香水推荐与选购指导。我们的美妆专家深度解析各大品牌清新香调产品，从成分分析到使用技巧，为您打造完美的清新香氛体验。信赖Hello Beauty Blog，开启您的清新香调探索之旅。"
+    },
+    "gourmand": {
+      "intro_title": "美食调香水：嗅觉盛宴的甜蜜诱惑",
+      "intro": "美食调香水以其独特的甜美特质征服了无数香水爱好者。这一香调家族以香草、焦糖、巧克力、蜂蜜等甜腻食材为核心，营造出令人垂涎的嗅觉体验。从温暖的烘焙香气到丝滑的奶油质感，美食调香水将美味转化为迷人的香氛艺术，带来舒适惬意的治愈感受，完美诠释了现代都市生活中的小确幸与浪漫情怀。",
+      "faq": [
+        {
+          "question": "美食调香水有哪些经典香料成分？",
+          "answer": "美食调香水的经典成分包括香草、焦糖、巧克力、蜂蜜、杏仁、椰子、咖啡豆和各类果香。这些甜美香料相互融合，创造出如甜品般诱人的嗅觉享受，是美食调香水的精髓所在。"
+        },
+        {
+          "question": "美食调香水适合什么场合佩戴？",
+          "answer": "美食调香水特别适合日常休闲、约会聚餐和秋冬季节佩戴。其温暖甜腻的特质能营造亲切舒适的氛围，在寒冷天气中尤其能带来治愈感，是打造甜美气质的理想选择。"
+        },
+        {
+          "question": "如何选择适合自己的美食调香水？",
+          "answer": "选择美食调香水时，建议根据个人喜好选择主导香料，如偏爱甜腻可选择香草基调，喜欢层次感可选择巧克力或焦糖调。同时考虑香水浓度和持久度，确保符合使用习惯。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog美食调香水专业指南",
+      "seo_bottom": "Hello Beauty Blog作为专业奢华美妆平台，深度解析美食调香水的魅力与选择技巧。我们精选全球顶级美食调香品，提供详尽的香调分析和试香建议，助您找到最适合的甜美香氛。在这里发现您的专属美食调香水，开启甜蜜的嗅觉之旅。"
+    },
+    "aromatic": {
+      "intro_title": "芳香调香水：清新自然的嗅觉体验",
+      "intro": "芳香调香水以新鲜草本植物为核心，融合薰衣草、迷迭香、鼠尾草等天然芳香成分。这一香调家族以其清新、自然的特质著称，散发着地中海草原般的纯净气息。芳香调香水通常具有舒缓放松的效果，适合日常佩戴，为现代都市生活注入一丝大自然的宁静与清新。",
+      "faq": [
+        {
+          "question": "芳香调香水有哪些经典香料成分？",
+          "answer": "芳香调香水主要包含薰衣草、迷迭香、鼠尾草、百里香等地中海草本植物，这些天然香料赋予香水清新自然的草本气息和舒缓的嗅觉体验。"
+        },
+        {
+          "question": "芳香调香水适合什么场合使用？",
+          "answer": "芳香调香水清新淡雅，非常适合日常工作、休闲时光和春夏季节佩戴。其舒缓的特质也使其成为放松身心的理想选择。"
+        },
+        {
+          "question": "芳香调香水与其他香调有何区别？",
+          "answer": "与花香调的甜美或木质调的厚重不同，芳香调香水以草本植物为主，呈现更加自然清新的气息，带有明显的地中海风情特色。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 芳香调香水专业指南",
+      "seo_bottom": "Hello Beauty Blog 作为专业奢华美妆平台，深度解析芳香调香水的独特魅力。我们的香水专家团队精选优质芳香调香水，为您提供专业的香调知识和个性化推荐，助您探索清新自然的嗅觉世界，找到最适合的芳香调香水。"
+    },
+    "chypre": {
+      "intro_title": "西普调香水：经典优雅的嗅觉艺术",
+      "intro": "西普调香水以其独特的橡苔基调而闻名，是调香界最经典的香调家族之一。这类香水通常以柑橘类香料作为前调，以玫瑰或天竺葵等花香为中调，并以橡苔、广藿香和檀香木等温暖木质香调作为基调。西普调香水散发着神秘而优雅的气息，既有新鲜感又具备深度，完美平衡了清新与温暖，是追求独特品味人士的理想选择。",
+      "faq": [
+        {
+          "question": "西普调香水有哪些经典成分？",
+          "answer": "西普调香水的经典成分包括柠檬等柑橘前调、玫瑰和天竺葵中调，以及橡苔、广藿香、檀香木等木质基调，这些成分共同营造出平衡而复杂的香气层次。"
+        },
+        {
+          "question": "西普调香水适合什么场合使用？",
+          "answer": "西普调香水因其优雅而神秘的特质，特别适合正式场合、晚间聚会或商务环境。其复杂的香气层次也让它成为日常通勤和特殊约会的绝佳选择。"
+        },
+        {
+          "question": "西普调香水与其他香调有何区别？",
+          "answer": "西普调香水的独特之处在于其平衡的结构：新鲜的柑橘前调、花香中调和温暖的木质基调。与单纯的花香调或木质调相比，西普调更加复杂多层次。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog西普调香水专业指南",
+      "seo_bottom": "Hello Beauty Blog作为领先的奢华美妆平台，为您精心挑选顶级西普调香水。我们的美妆专家团队深入研究每一款西普调香水的成分配比和香气特质，为追求高品质生活的您提供专业的选购建议和独家美妆资讯，助您找到最适合的优雅香氛。"
+    }
+  },
+  "ja": {
+    "floral": {
+      "intro_title": "フローラルフレグランスの魅惑的な世界へ",
+      "intro": "フローラルファミリーは香水界の永遠のクラシックとして愛され続けています。バラ、ジャスミン、ピオニー、スズランなどの花々のエッセンスが織りなすこの香りの系統は、女性らしさと優雅さを象徴します。フレッシュで軽やかなものから、官能的で深みのあるものまで、多彩な表情を持つフローラルノートは、あらゆる年代の女性に愛される普遍的な美しさを演出します。",
+      "faq": [
+        {
+          "question": "フローラル系香水の代表的な香り成分は何ですか？",
+          "answer": "バラ、ジャスミン、ピオニー、スズラン、ガーデニアが代表的です。これらの花のエッセンスがベースとなり、フルーティーやムスクノートと組み合わせることで、多様なフローラルフレグランスが生まれます。"
+        },
+        {
+          "question": "フローラル香水はどんなシーンに適していますか？",
+          "answer": "デイリーユースからフォーマルな場面まで幅広く使えます。軽やかなフローラルは日常使いに、リッチで複雑なフローラルブーケは特別な夜のシーンに最適です。"
+        },
+        {
+          "question": "フローラル系香水の持続時間はどのくらいですか？",
+          "answer": "香水の濃度によって異なりますが、オードパルファムなら6-8時間程度持続します。トップノートの華やかさから、ミドルノートの花の香り、ラストノートの温かみまで美しく変化します。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのフローラル香水ガイド",
+      "seo_bottom": "Hello Beauty Blogでは、世界中の上質なフローラルフレグランスを厳選してご紹介しています。香水のプロフェッショナルが、各ブランドの特徴や香りの変化を詳しく解説し、あなたにぴったりのフローラル香水選びをサポートします。花の香りで日常を特別なものに変える、そんな贅沢な体験をお届けします。"
+    },
+    "oriental": {
+      "intro_title": "オリエンタル香水の魅惑的な世界を探る",
+      "intro": "オリエンタル香水は、バニラ、アンバー、ムスクなどの温かく官能的な香料を中心とした香水ファミリーです。スパイシーなシナモンやクローブ、エキゾチックなサンダルウッドやパチョリが織りなす複雑で深みのある香りが特徴的です。夜のお出かけや特別な場面にふさわしい、神秘的で魅力的な雰囲気を演出します。東洋の香辛料と樹脂が生み出すラグジュアリーな香りの世界をお楽しみください。",
+      "faq": [
+        {
+          "question": "オリエンタル香水の主な特徴は何ですか？",
+          "answer": "温かく甘いバニラやアンバー、官能的なムスクを基調とし、スパイシーなノートとウッディなベースが調和した、深みのある複雑な香りが特徴です。夜の時間帯に特に映える香水です。"
+        },
+        {
+          "question": "オリエンタル香水はどんな場面で使うのがおすすめですか？",
+          "answer": "ディナーデートや夜のパーティー、特別なイベントなど、エレガントで魅惑的な印象を与えたい場面に最適です。秋冬の季節にも特によく似合います。"
+        },
+        {
+          "question": "オリエンタル香水によく使われる香料は？",
+          "answer": "バニラ、アンバー、ムスク、サンダルウッド、パチョリ、シナモン、クローブ、フランキンセンスなどが代表的です。これらが組み合わさり、温かく神秘的な香りを作り出します。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのオリエンタル香水ガイド",
+      "seo_bottom": "Hello Beauty Blogは、オリエンタル香水の専門知識と豊富な商品知識でお客様をサポートいたします。香水のプロフェッショナルが厳選したオリエンタルファミリーの逸品を、詳細なレビューと共にご紹介。あなたにぴったりの魅惑的な香りとの出会いをお手伝いします。"
+    },
+    "woody": {
+      "intro_title": "ウッディ系香水の深遠な世界へようこそ",
+      "intro": "ウッディ系香水は、サンダルウッド、シダーウッド、ベチバーなどの木質系原料を基調とした香りのファミリーです。温かみのあるウッディノートが織りなす上品で落ち着いた香調は、男女問わず愛され続けています。自然の木々から抽出されるエッセンシャルオイルが生み出すアーシーで洗練された香りは、日常に品格と安らぎをもたらします。",
+      "faq": [
+        {
+          "question": "ウッディ系香水の代表的な香料成分は何ですか？",
+          "answer": "サンダルウッド、シダーウッド、ローズウッド、ベチバー、パチョリが主要成分です。これらの木質系原料がウッディ系香水の特徴的な温かみのある香りを作り出します。"
+        },
+        {
+          "question": "ウッディ系香水はどんなシーンに適していますか？",
+          "answer": "オフィスワークからフォーマルな場まで幅広く活用できます。落ち着いた香調のため、季節を問わず使用でき、特に秋冬の重厚感のあるファッションとの相性が抜群です。"
+        },
+        {
+          "question": "ウッディ系香水の香りの持続時間はどのくらいですか？",
+          "answer": "一般的に6-8時間程度の持続力があります。木質系原料は分子が重く、肌に長時間留まる特性があるため、他の香調と比較して持続性に優れています。"
+        }
+      ],
+      "seo_title": "ウッディ系香水の専門情報",
+      "seo_bottom": "Hello Beauty Blogでは、サンダルウッドやシダーウッドを使用したウッディ系香水の詳細レビューと選び方をご紹介しています。木質系香料の特徴から人気ブランドまで、ウッディ系香水に関する専門的な情報を美容のプロフェッショナルがお届けします。"
+    },
+    "fresh": {
+      "intro_title": "フレッシュフレグランスの魅力を発見",
+      "intro": "フレッシュファミリーの香水は、爽やかで清潔感のある香りが特徴です。シトラス、アクアティック、グリーンノートを中心とした構成で、レモン、ベルガモット、オゾンノートなどが代表的な素材として使用されます。軽やかで透明感のある印象を与え、日常使いから特別な場面まで幅広いシーンで愛用されています。自然の清々しさを表現したこのカテゴリーは、現代的で洗練された魅力を演出します。",
+      "faq": [
+        {
+          "question": "フレッシュ系香水にはどのような香料が使われていますか？",
+          "answer": "主にシトラス系のレモン、ライム、グレープフルーツ、アクアティックノート、マリンアコード、そしてグリーンリーフやミントなどのグリーンノートが使用されています。これらが爽やかで清潔な印象を生み出します。"
+        },
+        {
+          "question": "フレッシュ系香水はどのようなシーンに適していますか？",
+          "answer": "オフィスワーク、デイリーユース、スポーツ後、夏の暑い日などに最適です。清潔感があり軽やかな印象を与えるため、カジュアルからビジネスシーンまで幅広く活用できます。"
+        },
+        {
+          "question": "フレッシュ系香水の持続時間はどの程度ですか？",
+          "answer": "一般的に2-4時間程度の持続時間となります。軽やかな香りのため、他の香調と比べて持続性は控えめですが、その分重くならず快適に着用できるのが特徴です。"
+        }
+      ],
+      "seo_title": "フレッシュ系香水の専門情報",
+      "seo_bottom": "Hello Beauty Blogでは、フレッシュファミリーの香水に関する専門的な情報を提供しています。シトラス、アクアティック、グリーンノートの特徴から、おすすめブランドまで詳しく解説。爽やかで洗練されたフレッシュ系フレグランスの世界を、美容のプロフェッショナルがご案内いたします。"
+    },
+    "gourmand": {
+      "intro_title": "甘美なグルマン系香水の魅力的な世界",
+      "intro": "グルマン系香水は、バニラ、キャラメル、チョコレート、蜂蜜などの甘い食べ物を連想させる香料で構成される魅力的な香りファミリーです。1990年代に確立されたこの嗜好的な香調は、温かく官能的な印象を与え、特に秋冬シーズンに人気を集めます。トンカビーンやベンゾインなどのベースノートが深みを演出し、現代の香水界において独特の存在感を放っています。",
+      "faq": [
+        {
+          "question": "グルマン系香水の代表的な香料成分は何ですか？",
+          "answer": "バニラ、トンカビーン、キャラメル、チョコレート、蜂蜜、シナモン、ベンゾインなどの甘い食べ物を想起させる香料が中心となります。これらの成分が温かく官能的な香りを創り出します。"
+        },
+        {
+          "question": "グルマン系香水はどのような季節に適していますか？",
+          "answer": "主に秋冬シーズンに最適です。温かく甘い香調が寒い季節にぴったりで、コーヒーショップやデザートカフェのような居心地の良い雰囲気を演出します。"
+        },
+        {
+          "question": "グルマン系香水の歴史はいつ頃始まりましたか？",
+          "answer": "1990年代にティエリー・ミュグレーの「エンジェル」が登場し、グルマン系香水の先駆けとなりました。以降、この甘美な香調は現代香水の重要なカテゴリーとして確立されています。"
+        }
+      ],
+      "seo_title": "ハロービューティーブログのグルマン香水ガイド",
+      "seo_bottom": "ハロービューティーブログでは、グルマン系香水の専門知識を活かし、バニラやキャラメルなどの甘美な香調から、あなたにぴったりの一本をご提案します。国内外の厳選されたグルマン香水コレクションで、特別な香りの体験をお届けしています。"
+    },
+    "aromatic": {
+      "intro_title": "アロマティック香水の魅力的な世界へようこそ",
+      "intro": "アロマティック系香水は、ハーブやスパイス、柑橘類を中心とした調香ファミリーです。ラベンダー、ローズマリー、タイム、セージなどのアロマティックハーブが主役となり、爽やかで清潔感のある印象を演出します。地中海沿岸の香草庭園を思わせる自然な芳香が特徴で、リフレッシュ効果が高く、日常使いに最適な香りです。男女問わず愛される普遍的な魅力を持つ香調として、多くの名香で採用されています。",
+      "faq": [
+        {
+          "question": "アロマティック系香水の主な特徴は何ですか？",
+          "answer": "ハーブやスパイス、柑橘類を基調とした爽やかで清潔感のある香りが特徴です。ラベンダーやローズマリーなどのアロマティックハーブが中心となり、自然で心地よい芳香を演出します。"
+        },
+        {
+          "question": "アロマティック香水はどのような場面に適していますか？",
+          "answer": "日常使いからビジネスシーンまで幅広く対応できます。清潔感があり主張しすぎない香りなので、オフィスワークやカジュアルな外出時に特におすすめです。"
+        },
+        {
+          "question": "アロマティック系の代表的な香料成分は？",
+          "answer": "ラベンダー、ローズマリー、タイム、セージ、バジルなどのハーブ類と、レモンやベルガモットなどの柑橘類が代表的です。これらが調和して爽やかな香りを作り出します。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのアロマティック香水ガイド",
+      "seo_bottom": "Hello Beauty Blogでは、アロマティック系香水の魅力を専門的にご紹介しています。ハーブやスパイスを基調とした香調の特徴から、おすすめブランドまで、豊富な知識と経験に基づいた情報をお届け。あなたにぴったりのアロマティック香水選びをサポートいたします。"
+    },
+    "chypre": {
+      "intro_title": "シプレ系香水の魅力と特徴を探る",
+      "intro": "シプレ系香水は、ベルガモットの爽やかなトップノートと、オークモス、パチョリなどのウッディでアーシーなベースノートが特徴的な香水ファミリーです。この組み合わせが生み出すコントラストは、洗練された大人の魅力を演出します。複雑で深みのある香りは、時間と共に変化し、着用者に奥行きのある印象を与えます。クラシックでありながらモダンな魅力を持つシプレ系は、エレガントな女性に愛され続けています。",
+      "faq": [
+        {
+          "question": "シプレ系香水の代表的な香料成分は何ですか？",
+          "answer": "ベルガモット、オークモス、パチョリ、ラブダナムが主要成分です。これらが調和することで、シプレ系特有の洗練された香りが生まれます。"
+        },
+        {
+          "question": "シプレ系香水はどんなシーンに適していますか？",
+          "answer": "フォーマルな場面やビジネスシーン、夜のお出かけに最適です。大人の女性の知性と魅力を引き立てる香りとして人気があります。"
+        },
+        {
+          "question": "シプレ系香水の香りの持続性はどうですか？",
+          "answer": "一般的に持続性が高く、6-8時間程度香りが続きます。ベースノートのオークモスやパチョリが深みのある余韻を長時間楽しませてくれます。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogのシプレ系香水ガイド",
+      "seo_bottom": "Hello Beauty Blogでは、シプレ系香水の奥深い魅力と選び方を詳しくご紹介しています。プロの香水コンシェルジュが厳選したシプレ系フレグランスの特徴や使用シーンを分かりやすく解説。あなたにぴったりの一本を見つけるお手伝いをいたします。"
+    }
+  },
+  "ko": {
+    "floral": {
+      "intro_title": "플로럴 향수: 꽃의 향연이 만드는 우아한 세계",
+      "intro": "플로럴 향수는 장미, 재스민, 피오니, 릴리 등의 꽃 향으로 구성된 향수의 대표적인 계열입니다. 섬세하고 우아한 특성을 지닌 플로럴 노트는 로맨틱하고 여성스러운 무드를 연출하며, 봄과 여름 시즌에 특히 인기가 높습니다. 싱글 플로럴부터 플로럴 부케까지 다양한 조합으로 표현되어 클래식한 매력과 모던한 감성을 동시에 선사합니다.",
+      "faq": [
+        {
+          "question": "플로럴 향수의 대표적인 꽃 향료는 무엇인가요?",
+          "answer": "장미, 재스민, 피오니, 릴리, 프리지아, 바이올렛, 튤립 등이 대표적입니다. 이 중에서도 장미와 재스민은 플로럴 향수의 핵심 원료로 가장 널리 사용됩니다."
+        },
+        {
+          "question": "플로럴 향수는 언제 착용하기 좋나요?",
+          "answer": "봄과 여름 시즌에 특히 적합하며, 낮 시간대나 로맨틱한 데이트, 비즈니스 미팅 등 다양한 상황에서 착용할 수 있습니다. 우아하고 세련된 인상을 연출합니다."
+        },
+        {
+          "question": "플로럴 향수의 지속력은 어떤가요?",
+          "answer": "플로럴 노트는 일반적으로 미들 노트에 위치하여 4-6시간 정도 지속됩니다. 우디나 머스크 베이스 노트와 조합된 경우 더 오래 지속되는 효과를 얻을 수 있습니다."
+        }
+      ],
+      "seo_title": "플로럴 향수 전문 가이드",
+      "seo_bottom": "Hello Beauty Blog는 플로럴 향수의 다양한 꽃 향료와 조향 기법에 대한 전문 정보를 제공합니다. 장미, 재스민, 피오니 등 각 플로럴 노트의 특성과 추천 제품을 통해 여러분만의 완벽한 플로럴 향수를 찾아보세요. 럭셔리 브랜드부터 니치 향수까지 엄선된 플로럴 컬렉션을 만나보실 수 있습니다."
+    },
+    "oriental": {
+      "intro_title": "오리엔탈 향수의 신비로운 매력을 탐험하세요",
+      "intro": "오리엔탈 향수는 동양적 신비로움과 관능적 깊이가 특징인 향조 패밀리입니다. 바닐라, 앰버, 샌달우드, 패출리와 같은 따뜻하고 포근한 베이스 노트가 중심이 되어 풍부하고 복합적인 향을 연출합니다. 스파이시한 계피나 정향, 달콤한 통카빈이 어우러져 겨울철이나 저녁 시간에 완벽한 우아함을 선사합니다.",
+      "faq": [
+        {
+          "question": "오리엔탈 향수의 주요 특징은 무엇인가요?",
+          "answer": "오리엔탈 향수는 바닐라, 앰버, 머스크 등의 따뜻한 베이스 노트와 향신료가 조화를 이뤄 신비롭고 관능적인 향을 만들어냅니다."
+        },
+        {
+          "question": "오리엔탈 향수는 언제 사용하기 좋나요?",
+          "answer": "저녁 시간이나 특별한 날, 추운 계절에 착용하기 적합합니다. 깊고 진한 향이 차가운 공기와 어우러져 더욱 매력적으로 느껴집니다."
+        },
+        {
+          "question": "오리엔탈 향수와 어울리는 계절이 있나요?",
+          "answer": "가을과 겨울철에 가장 잘 어울립니다. 따뜻하고 무거운 향조가 쌀쌀한 날씨와 완벽한 조화를 이뤄 포근함과 우아함을 동시에 선사합니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그 오리엔탈 향수 전문 가이드",
+      "seo_bottom": "헬로뷰티블로그는 오리엔탈 향수의 복잡한 향조와 브랜드별 특징을 깊이 있게 분석합니다. 전문적인 향수 리뷰와 상세한 노트 분석을 통해 고객님께 완벽한 오리엔탈 향수 선택 가이드를 제공하며, 럭셔리 뷰티 전문성으로 신뢰받는 향수 정보를 전달합니다."
+    },
+    "woody": {
+      "intro_title": "우디 향수의 깊고 매혹적인 세계",
+      "intro": "우디 향수는 삼나무, 샌달우드, 베티버, 패출리 등의 나무와 뿌리에서 추출한 성분을 중심으로 한 향조 패밀리입니다. 따뜻하고 깊이 있는 향은 자연의 신비로운 에너지와 세련된 우아함을 동시에 표현합니다. 베이스 노트에 주로 사용되어 지속력이 뛰어나며, 계절을 가리지 않고 사랑받는 클래식한 매력을 선사합니다.",
+      "faq": [
+        {
+          "question": "우디 향수는 어떤 계절에 가장 적합한가요?",
+          "answer": "우디 향수는 사계절 내내 착용할 수 있지만, 특히 가을과 겨울에 그 매력이 극대화됩니다. 차가운 공기와 대비되는 따뜻한 나무 향이 더욱 돋보입니다."
+        },
+        {
+          "question": "우디 향수의 대표적인 원료는 무엇인가요?",
+          "answer": "샌달우드, 시더우드, 베티버, 패출리, 아가우드가 대표적입니다. 이들은 각각 크리미한 부드러움부터 스모키한 깊이까지 다양한 우디 뉘앙스를 제공합니다."
+        },
+        {
+          "question": "우디 향수는 남성용인가요?",
+          "answer": "우디 향수는 성별을 가리지 않는 유니섹스 향조입니다. 최근에는 플로럴이나 프루티 노트와 조화된 여성스러운 우디 향수도 인기를 끌고 있습니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그 우디 향수 컬렉션",
+      "seo_bottom": "헬로뷰티블로그는 프리미엄 우디 향수 브랜드들의 엄선된 제품을 소개합니다. 전문적인 향수 리뷰와 상세한 성분 분석을 통해 당신만의 완벽한 우디 향수를 찾을 수 있도록 도와드립니다. 럭셔리 뷰티의 모든 것을 경험해보세요."
+    },
+    "fresh": {
+      "intro_title": "상큼한 프레시 향수의 세계",
+      "intro": "프레시 향수는 시트러스, 아쿠아틱, 그린 노트를 중심으로 한 후각 패밀리입니다. 레몬, 베르가못, 자몽과 같은 감귤류와 바다 내음, 신선한 잎사귀 향이 주요 특징이며, 깔끔하고 경쾌한 느낌을 선사합니다. 특히 여름철이나 데일리 향수로 인기가 높으며, 남녀 모두에게 사랑받는 유니버설한 매력을 지니고 있습니다.",
+      "faq": [
+        {
+          "question": "프레시 향수의 대표적인 원료는 무엇인가요?",
+          "answer": "레몬, 베르가못, 자몽 등의 시트러스 오일과 바다 내음을 표현한 아쿠아틱 노트, 그리고 민트, 바질 같은 그린 허브가 주요 원료입니다."
+        },
+        {
+          "question": "프레시 향수는 언제 사용하기 좋나요?",
+          "answer": "더운 여름날이나 낮 시간대에 특히 적합하며, 운동 후나 비즈니스 미팅 등 깔끔한 인상을 주고 싶을 때 사용하면 좋습니다."
+        },
+        {
+          "question": "프레시 향수의 지속력은 어떤가요?",
+          "answer": "일반적으로 3-5시간 정도의 지속력을 가지며, 탑 노트가 강한 특성상 초반 향이 두드러지고 시간이 지나면서 자연스럽게 사라집니다."
+        }
+      ],
+      "seo_title": "프리미엄 프레시 향수 컬렉션",
+      "seo_bottom": "헬로뷰티블로그는 엄선된 프레시 향수 브랜드와 제품을 소개하며, 전문적인 향수 리뷰와 가이드를 제공합니다. 시트러스부터 아쿠아틱까지 다양한 프레시 계열 향수 정보와 추천을 만나보세요."
+    },
+    "gourmand": {
+      "intro_title": "달콤한 유혹, 구르망 향수의 매혹적인 세계",
+      "intro": "구르망 향수는 바닐라, 카라멜, 초콜릿, 꿀과 같은 달콤하고 맛있는 음식 노트로 구성된 후각 계열입니다. 1990년대부터 본격적으로 인기를 얻기 시작한 이 향조는 따뜻하고 포근한 느낌을 주며, 감각적이고 관능적인 분위기를 연출합니다. 에틸 말톨과 쿠마린 같은 합성 분자가 핵심 역할을 하여 독특하고 중독성 있는 향을 만들어냅니다.",
+      "faq": [
+        {
+          "question": "구르망 향수의 주요 특징은 무엇인가요?",
+          "answer": "달콤한 바닐라, 카라멜, 초콜릿, 꿀 등의 음식 노트가 주를 이루며, 따뜻하고 포근한 느낌을 줍니다. 대부분 베이스 노트에서 깊고 지속적인 향을 발산합니다."
+        },
+        {
+          "question": "구르망 향수는 언제 착용하기 좋나요?",
+          "answer": "주로 가을과 겨울철, 저녁 시간대에 적합합니다. 데이트나 특별한 모임 같은 로맨틱한 분위기의 상황에서 매력적인 향을 연출할 수 있습니다."
+        },
+        {
+          "question": "구르망 향수 입문자에게 추천하는 팁이 있나요?",
+          "answer": "처음에는 바닐라 베이스의 가벼운 제품부터 시작하세요. 너무 진한 구르망 향은 부담스러울 수 있으므로, 플로랄이나 프루티 노트가 함께 블렌딩된 제품을 선택하는 것이 좋습니다."
+        }
+      ],
+      "seo_title": "프리미엄 구르망 향수 컬렉션",
+      "seo_bottom": "Hello Beauty Blog는 엄선된 구르망 향수 브랜드들의 정품만을 소개합니다. 전문 향수 큐레이터들이 직접 테스트하고 검증한 달콤하고 매혹적인 구르망 향수들을 만나보세요. 바닐라부터 초콜릿까지, 다양한 구르망 노트의 프리미엄 향수 정보와 상세한 리뷰를 제공합니다."
+    },
+    "aromatic": {
+      "intro_title": "아로마틱 향수: 자연의 허브 향기와 만나다",
+      "intro": "아로마틱 향수 패밀리는 신선한 허브와 향신료의 조화로 탄생한 향수 계열입니다. 라벤더, 로즈마리, 타임과 같은 허브 노트가 주축을 이루며, 세이지, 바질 등의 그린 노트가 더해집니다. 상쾌하고 깔끔한 특성으로 남성 향수에서 특히 인기가 높으며, 스포티하고 활동적인 분위기를 연출합니다. 자연 친화적이면서도 세련된 매력을 원하는 분들에게 완벽한 선택입니다.",
+      "faq": [
+        {
+          "question": "아로마틱 향수의 대표적인 노트는 무엇인가요?",
+          "answer": "라벤더, 로즈마리, 타임, 세이지 등의 허브 노트와 그린 노트가 대표적입니다. 이러한 자연 추출물들이 상쾌하고 깨끗한 향조를 만들어냅니다."
+        },
+        {
+          "question": "아로마틱 향수는 어떤 계절에 사용하기 좋나요?",
+          "answer": "봄과 여름에 특히 적합합니다. 신선하고 가벼운 특성으로 더운 날씨에도 부담스럽지 않으며, 활동적인 라이프스타일과 잘 어울립니다."
+        },
+        {
+          "question": "아로마틱 향수는 남성 전용인가요?",
+          "answer": "전통적으로 남성 향수에서 인기가 높았지만, 최근에는 유니섹스나 여성 향수에서도 아로마틱 노트를 활용한 제품들이 늘어나고 있습니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그의 아로마틱 향수 가이드",
+      "seo_bottom": "헬로뷰티블로그는 아로마틱 향수 패밀리에 대한 전문적인 정보와 리뷰를 제공합니다. 허브와 그린 노트의 특성부터 브랜드별 추천까지, 아로마틱 향수 선택에 필요한 모든 정보를 만나보세요. 전문 큐레이터가 선별한 프리미엄 아로마틱 향수 컬렉션을 지금 확인하세요."
+    },
+    "chypre": {
+      "intro_title": "시프레 향수: 고전적 우아함의 상징",
+      "intro": "시프레 향수는 베르가못의 신선함과 오크모스의 깊은 흙향이 조화를 이루는 고전적인 향수 패밀리입니다. 패출리와 라브다넘의 따뜻한 베이스에 장미나 자스민의 플로럴 하트가 더해져 복합적이고 세련된 향을 선사합니다. 1917년 코티의 '시프레'에서 시작된 이 향조는 우아하고 신비로운 분위기를 연출하며, 특히 가을과 겨울철에 완벽한 매력을 발산합니다.",
+      "faq": [
+        {
+          "question": "시프레 향수의 핵심 구성 요소는 무엇인가요?",
+          "answer": "시프레 향수는 상큼한 베르가못 탑노트, 플로럴 미들노트, 그리고 오크모스와 패출리가 어우러진 흙향의 베이스노트가 특징입니다. 이 삼각 구조가 시프레만의 독특한 조화를 만들어냅니다."
+        },
+        {
+          "question": "시프레 향수는 어떤 계절에 가장 적합한가요?",
+          "answer": "시프레 향수는 가을과 겨울에 가장 매력적입니다. 깊고 복합적인 향조가 차가운 날씨에 더욱 돋보이며, 오크모스의 흙향이 계절의 분위기와 완벽하게 어울립니다."
+        },
+        {
+          "question": "현대 시프레 향수는 어떻게 변화했나요?",
+          "answer": "현대 시프레 향수는 전통적인 오크모스 대신 합성 무스카론을 사용하거나, 프루티 노트나 우디 노트를 추가하여 더욱 다양하고 현대적인 해석을 보여줍니다."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 시프레 향수 전문 가이드",
+      "seo_bottom": "Hello Beauty Blog는 시프레 향수의 깊이 있는 분석과 전문적인 리뷰를 제공합니다. 클래식부터 모던 시프레까지, 각 브랜드별 특징과 추천 제품을 상세히 소개하여 고객님의 완벽한 시프레 향수 선택을 도와드립니다. 럭셔리 뷰티 전문가의 신뢰할 수 있는 조언을 만나보세요."
+    }
+  },
+  "hi": {
+    "floral": {
+      "intro_title": "पुष्प परफ्यूम्स - प्रकृति की सुगंधित अभिव्यक्ति",
+      "intro": "फ्लोरल परफ्यूम्स प्रकृति के सबसे मनमोहक फूलों की सुगंध को समेटे हुए हैं। गुलाब, चमेली, पेओनी, और लिली जैसे क्लासिक फूलों से बने ये इत्र स्त्रीत्व और शुद्धता का प्रतीक हैं। इस ऑल्फैक्टरी फैमिली में सिंगल फ्लोरल से लेकर फ्लोरल बुके तक की विविधता मिलती है। फ्लोरल नोट्स दिन और शाम दोनों समय के लिए परफेक्ट हैं।",
+      "faq": [
+        {
+          "question": "फ्लोरल परफ्यूम में कौन से मुख्य इंग्रीडिएंट्स होते हैं?",
+          "answer": "फ्लोरल परफ्यूम में गुलाब, चमेली, पेओनी, लिली, आइरिस, और वायलेट जैसे प्राकृतिक और सिंथेटिक फ्लोरल एक्सट्रैक्ट्स का उपयोग होता है जो इत्र को मुख्य चरित्र प्रदान करते हैं।"
+        },
+        {
+          "question": "क्या फ्लोरल परफ्यूम केवल महिलाओं के लिए होते हैं?",
+          "answer": "जबकि फ्लोरल परफ्यूम पारंपरिक रूप से फेमिनाइन माने जाते हैं, आधुनिक परफ्यूमरी में कई यूनिसेक्स फ्लोरल फ्रैग्रेंसेज भी उपलब्ध हैं जो पुरुष और महिलाएं दोनों पहन सकते हैं।"
+        },
+        {
+          "question": "फ्लोरल परफ्यूम की लॉन्गेविटी कैसी होती है?",
+          "answer": "फ्लोरल परफ्यूम की लॉन्गेविटी इसकी कंसंट्रेशन पर निर्भर करती है। ईऑ डी परफ्यूम वेरिएंट्स 6-8 घंटे तक टिकते हैं, जबकि ईऑ डी टॉयलेट्स 4-6 घंटे तक चलते हैं।"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - फ्लोरल परफ्यूम विशेषज्ञता",
+      "seo_bottom": "Hello Beauty Blog पर फ्लोरल परफ्यूम्स की व्यापक रेंज और एक्सपर्ट रिव्यूज मिलते हैं। हमारी टीम आपको सबसे बेहतरीन फ्लोरल फ्रैग्रेंसेज का चुनाव करने में मदद करती है। प्रीमियम ब्रांड्स से लेकर अफोर्डेबल ऑप्शन्स तक, हर बजेट के लिए परफेक्ट फ्लोरल इत्र यहाँ खोजें।"
+    },
+    "oriental": {
+      "intro_title": "प्राच्य इत्र: रहस्यमय और मोहक सुगंध की दुनिया",
+      "intro": "प्राच्य परफ्यूम परिवार अपनी गहरी, रहस्यमय और मादक सुगंध के लिए प्रसिद्ध है। इन इत्रों में एम्बर, वनीला, चंदन, पेचौली, मस्क और रेजिन जैसे गर्म और समृद्ध नोट्स होते हैं। ये सुगंधें शाम और रात के समय के लिए आदर्श हैं, जो एक मजबूत और लंबे समय तक चलने वाली छाप छोड़ती हैं। प्राच्य परफ्यूम आपके व्यक्तित्व में गहराई और रहस्य का तत्व जोड़ते हैं।",
+      "faq": [
+        {
+          "question": "प्राच्य परफ्यूम की मुख्य विशेषताएं क्या हैं?",
+          "answer": "प्राच्य परफ्यूम में एम्बर, वनीला, चंदन, पेचौली और मस्क जैसे गर्म, मीठे और रेजिनस नोट्स होते हैं जो गहरी और मादक सुगंध बनाते हैं।"
+        },
+        {
+          "question": "प्राच्य इत्र कब पहनना चाहिए?",
+          "answer": "प्राच्य परफ्यूम शाम, रात के समय, ठंडे मौसम में और विशेष अवसरों पर पहनने के लिए आदर्श हैं क्योंकि ये गहरी और मजबूत सुगंध देते हैं।"
+        },
+        {
+          "question": "प्राच्य और पुष्प परफ्यूम में क्या अंतर है?",
+          "answer": "प्राच्य परफ्यूम में गर्म और रेजिनस नोट्स होते हैं जबकि पुष्प परफ्यूम में फूलों की हल्की और ताज़ी सुगंध होती है। प्राच्य इत्र अधिक गहरे और रहस्यमय होते हैं।"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog की प्राच्य परफ्यूम विशेषज्ञता",
+      "seo_bottom": "Hello Beauty Blog प्राच्य परफ्यूम की दुनिया में आपका विश्वसनीय मार्गदर्शक है। हमारे विशेषज्ञ आपको सर्वोत्तम एम्बर, वनीला और चंदन आधारित सुगंधों के बारे में विस्तृत जानकारी प्रदान करते हैं। हमारे साथ खोजें अपनी आदर्श प्राच्य सुगंध और बनें अधिक आकर्षक।"
+    },
+    "woody": {
+      "intro_title": "वुडी परफ्यूम: प्राकृतिक लकड़ी की खुशबू का जादू",
+      "intro": "वुडी परफ्यूम परफ्यूमरी की सबसे लोकप्रिय ऑल्फैक्टरी फैमिली में से एक है। इसमें चंदन, देवदार, ओक मॉस और वेटिवर जैसे प्राकृतिक लकड़ी के नोट्स होते हैं। ये परफ्यूम गर्म, स्मोकी और धरती जैसी खुशबू देते हैं। वुडी फ्रेग्रेंस आत्मविश्वास और परिष्कृतता का एहसास दिलाते हैं, जो हर सीजन में परफेक्ट होते हैं।",
+      "faq": [
+        {
+          "question": "वुडी परफ्यूम में मुख्य इंग्रीडिएंट्स कौन से होते हैं?",
+          "answer": "वुडी परफ्यूम में चंदन, देवदार, ओक मॉस, वेटिवर, अगरवुड और पाइन जैसे नेचुरल वुड एसेंस होते हैं। ये सभी मिलकर गर्म और मिट्टी जैसी खुशबू बनाते हैं।"
+        },
+        {
+          "question": "वुडी फ्रेग्रेंस किस सीजन के लिए बेस्ट होती है?",
+          "answer": "वुडी परफ्यूम सभी सीजन में परफेक्ट होते हैं, लेकिन ये विंटर और रेनी सीजन में खासकर बेहतरीन लगते हैं। इनकी गर्माहट ठंड में कॉम्फर्ट देती है।"
+        },
+        {
+          "question": "पुरुषों और महिलाओं के लिए वुडी परफ्यूम कैसे अलग होते हैं?",
+          "answer": "पुरुषों के वुडी परफ्यूम में स्ट्रॉन्ग वुड नोट्स होते हैं, जबकि महिलाओं के लिए फ्लोरल या फ्रूटी टॉप नोट्स के साथ सॉफ्ट वुडी बेस मिलता है।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी ब्लॉग की वुडी परफ्यूम गाइड",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग पर वुडी परफ्यूम की एक्सपर्ट रिव्यू और गाइड पाएं। हमारी टीम आपको बेस्ट वुडी फ्रेग्रेंस, उनकी खूबियां और परफेक्ट सेलेक्शन टिप्स प्रोवाइड करती है। लक्जरी ब्यूटी की दुनिया में हमारा अनुभव आपको सही चुनाव में मदद करेगा।"
+    },
+    "fresh": {
+      "intro_title": "फ्रेश परफ्यूम्स - ताजगी से भरपूर सुगंध",
+      "intro": "फ्रेश परफ्यूम्स सुगंध की वह श्रेणी है जो जीवंतता और स्फूर्ति का एहसास कराती है। इस ऑल्फैक्टरी फैमिली में सिट्रस, एक्वाटिक, ग्रीन और मरीन नोट्स का प्रयोग किया जाता है। नींबू, संतरा, बर्गमोट, समुद्री हवा और हरी पत्तियों की सुगंध इसकी मुख्य विशेषताएं हैं। यह परफ्यूम गर्मियों के लिए आदर्श है और दिनभर की गतिविधियों के लिए परफेक्ट चुनाव है।",
+      "faq": [
+        {
+          "question": "फ्रेश परफ्यूम्स में कौन से मुख्य तत्व होते हैं?",
+          "answer": "फ्रेश परफ्यूम्स में मुख्यतः सिट्रस फ्रूट्स, समुद्री नमक, हरी पत्तियां, जलीय तत्व और हर्बल नोट्स का प्रयोग होता है। ये सभी मिलकर एक ताजगी भरा अनुभव देते हैं।"
+        },
+        {
+          "question": "फ्रेश परफ्यूम कितनी देर तक टिकता है?",
+          "answer": "आमतौर पर फ्रेश परफ्यूम्स की लाइफ 4-6 घंटे होती है। इनकी हल्की प्रकृति के कारण ये जल्दी वाष्पित हो जाते हैं, लेकिन दिनभर की गतिविधियों के लिए उपयुक्त होते हैं।"
+        },
+        {
+          "question": "फ्रेश परफ्यूम किस मौसम में सबसे अच्छे लगते हैं?",
+          "answer": "फ्रेश परफ्यूम्स गर्मी और बसंत के मौसम में सर्वोत्तम हैं। इनकी कूल और रिफ्रेशिंग प्रकृति गर्म मौसम में आराम और ताजगी का एहसास दिलाती है।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी में फ्रेश परफ्यूम्स की विशेषज्ञता",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग पर आपको फ्रेश परफ्यूम्स की संपूर्ण जानकारी और बेहतरीन कलेक्शन मिलता है। हमारे विशेषज्ञ आपको सिट्रस, एक्वाटिक और ग्रीन नोट्स की दुनिया से परिचित कराते हैं। लक्जरी ब्रांड्स से लेकर किफायती विकल्पों तक, हर जरूरत के लिए बेस्ट फ्रेश फ्रैग्रेंस यहां उपलब्ध हैं।"
+    },
+    "gourmand": {
+      "intro_title": "गॉरमंड परफ्यूम्स - स्वादिष्ट सुगंध का संसार",
+      "intro": "गॉरमंड परफ्यूम्स खुशबुओं की दुनिया में एक मिठास भरा अनुभव प्रस्तुत करते हैं। इस सुगंध परिवार में वेनिला, चॉकलेट, कैरमेल, शहद और मिठाई जैसे स्वादिष्ट नोट्स होते हैं। ये परफ्यूम्स गर्मजोशी, आराम और लालसा की भावना जगाते हैं। गॉरमंड फ्रेग्रेंसेज़ में फ्रूटी, स्पाइसी और क्रीमी एक्कॉर्ड्स का अनूठा मिश्रण होता है जो इन्हें अत्यधिक आकर्षक और यादगार बनाता है।",
+      "faq": [
+        {
+          "question": "गॉरमंड परफ्यूम्स की मुख्य विशेषताएं क्या हैं?",
+          "answer": "गॉरमंड परफ्यूम्स में वेनिला, चॉकलेट, कैरमेल, शहद, कॉफी और बादाम जैसे खाद्य नोट्स होते हैं जो मिठास और गर्मजोशी का एहसास देते हैं।"
+        },
+        {
+          "question": "गॉरमंड फ्रेग्रेंस कब पहनना चाहिए?",
+          "answer": "गॉरमंड परफ्यूम्स सर्दियों में, शाम के समय और रोमांटिक अवसरों पर सबसे बेहतरीन लगते हैं क्योंकि ये गर्माहट और आराम की भावना देते हैं।"
+        },
+        {
+          "question": "क्या गॉरमंड परफ्यूम्स महिलाओं और पुरुषों दोनों के लिए हैं?",
+          "answer": "हां, गॉरमंड परफ्यूम्स यूनिसेक्स होते हैं। आज कल कई ब्रांड्स पुरुषों और महिलाओं दोनों के लिए गॉरमंड फ्रेग्रेंसेज़ बनाते हैं।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी ब्लॉग - गॉरमंड परफ्यूम विशेषज्ञ",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग पर गॉरमंड परफ्यूम्स का सबसे बेहतरीन कलेक्शन खोजें। हमारे विशेषज्ञ आपको मिठास भरी खुशबुओं की दुनिया में मार्गदर्शन देते हैं। प्रामाणिक गॉरमंड फ्रेग्रेंसेज़, विस्तृत रिव्यू और बेस्ट प्राइस गारंटी के साथ आपका पसंदीदा परफ्यूम चुनें।"
+    },
+    "aromatic": {
+      "intro_title": "एरोमैटिक परफ्यूम - प्राकृतिक सुगंध का अनुभव",
+      "intro": "एरोमैटिक परफ्यूम परिवार हर्बल और प्राकृतिक सुगंधों का प्रतिनिधित्व करता है। इसमें लैवेंडर, रोज़मेरी, बेसिल, सेज और थाइम जैसी जड़ी-बूटियों की सुगंध होती है। ये सुगंधें तारोताज़गी और शांति का एहसास देती हैं। एरोमैटिक नोट्स मुख्यतः टॉप और मिडिल नोट्स में प्रयोग होते हैं, जो सुबह के समय या ऑफिस वियर के लिए आदर्श हैं।",
+      "faq": [
+        {
+          "question": "एरोमैटिक परफ्यूम की मुख्य विशेषताएं क्या हैं?",
+          "answer": "एरोमैटिक परफ्यूम में हर्बल, मेडिसिनल और प्राकृतिक जड़ी-बूटियों की सुगंध होती है। ये ताज़गी देने वाली, शांत करने वाली और एनर्जाइज़िंग होती हैं।"
+        },
+        {
+          "question": "कौन से इंग्रीडिएंट्स एरोमैटिक फैमिली में आते हैं?",
+          "answer": "लैवेंडर, रोज़मेरी, बेसिल, सेज, थाइम, पेपरमिंट, यूकेलिप्टस और कैमोमाइल जैसी जड़ी-बूटियां एरोमैटिक परिवार के मुख्य घटक हैं।"
+        },
+        {
+          "question": "एरोमैटिक परफ्यूम कब पहनना सबसे अच्छा है?",
+          "answer": "एरोमैटिक परफ्यूम दिन के समय, ऑफिस वियर, कैज़ुअल आउटिंग्स और स्पोर्ट्स एक्टिविटीज़ के लिए परफेक्ट हैं। ये गर्मियों में विशेष रूप से रिफ्रेशिंग होते हैं।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी ब्लॉग का एरोमैटिक परफ्यूम कलेक्शन",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग पर एरोमैटिक परफ्यूम की विस्तृत जानकारी और रिव्यूज़ पाएं। हमारे एक्सपर्ट्स द्वारा सिलेक्टेड प्रीमियम हर्बल सुगंधों का कलेक्शन देखें। बेस्ट एरोमैटिक फ्रैग्रेंसेस के लिए हमारे गाइड और रिकमेंडेशन्स पढ़ें।"
+    },
+    "chypre": {
+      "intro_title": "शिप्र परफ्यूम: शानदार और रहस्यमय सुगंध परिवार",
+      "intro": "शिप्र परफ्यूम एक क्लासिक सुगंध परिवार है जो बर्गामोट, ओकमॉस, और लैब्डानम के संयोजन से बनता है। यह परिष्कृत और जटिल सुगंध समूह फ्रेश सिट्रस टॉप नोट्स, फ्लोरल हार्ट, और वुडी-मॉसी बेस नोट्स का अनूठा मिश्रण प्रस्तुत करता है। शिप्र फैमिली की परफ्यूम्स एलिगेंट, मिस्टीरियस और टाइमलेस अपील के लिए प्रसिद्ध हैं।",
+      "faq": [
+        {
+          "question": "शिप्र परफ्यूम की मुख्य विशेषताएं क्या हैं?",
+          "answer": "शिप्र परफ्यूम में बर्गामोट का फ्रेश टॉप, फ्लोरल मिडिल नोट्स, और ओकमॉस-लैब्डानम का अर्थी बेस होता है। यह कॉम्प्लेक्स, एलिगेंट और लॉन्ग-लास्टिंग सुगंध देता है।"
+        },
+        {
+          "question": "शिप्र परफ्यूम किस मौसम के लिए उपयुक्त है?",
+          "answer": "शिप्र परफ्यूम सभी मौसमों के लिए उपयुक्त है, लेकिन खासकर फॉल और स्प्रिंग में बेहतरीन लगता है। इसकी सोफिस्टिकेटेड सुगंध ईवनिंग वियर के लिए परफेक्ट है।"
+        },
+        {
+          "question": "शिप्र फैमिली के फेमस परफ्यूम कौन से हैं?",
+          "answer": "मित्सुको गुर्लेन, चैनल नंबर 19, और एस्टी लॉडर व्हाइट लिनेन जैसे आइकॉनिक शिप्र परफ्यूम्स हैं। ये सभी क्लासिक शिप्र स्ट्रक्चर का बेहतरीन उदाहरण हैं।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी ब्लॉग पर शिप्र परफ्यूम कलेक्शन",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग आपके लिए बेहतरीन शिप्र परफ्यूम्स का क्यूरेटेड कलेक्शन लेकर आता है। हमारे एक्सपर्ट्स द्वारा चुने गए ऑथेंटिक शिप्र फ्रेगरेंसेस की विस्तृत रेंज एक्सप्लोर करें। प्रीमियम क्वालिटी और जेन्यूइन प्रोडक्ट्स के लिए हमारे ऊपर भरोसा करें।"
+    }
+  }
+}

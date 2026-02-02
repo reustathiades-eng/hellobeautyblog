@@ -1,5 +1,6 @@
 ---
 title: "Olaplex No. 3: Devrim Yaratan Saç Onarım Bakımı"
+translationKey: "olaplex-no-3"
 date: 2026-01-30
 categories: ["Saç Bakımı"]
 brand: "Olaplex"

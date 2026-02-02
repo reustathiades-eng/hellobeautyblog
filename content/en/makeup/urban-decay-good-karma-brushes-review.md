@@ -1,5 +1,6 @@
 ---
 title: "Urban Decay Good Karma Brushes Review"
+translationKey: "urban-decay-good-karma-brushes-review"
 date: 2010-08-25
 categories: ["Makeup"]
 brand: "Urban Decay"

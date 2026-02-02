@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+translationKey: "section-blog"
 description: "Beauty tips, DIY projects, and lifestyle inspiration from Hello Beauty"
 ---
 
