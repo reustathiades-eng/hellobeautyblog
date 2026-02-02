@@ -18,7 +18,7 @@
 - [x] 4 bios auteurs (14 langues = 56 pages)
 - [x] Textes SEO homepage (14 langues)
 
-### SEO Catégories
+### SEO Catégories (JSON data)
 - [x] data/categories/perfumes.json — 14 langues (intro, subcategories, FAQ, SEO)
 - [x] data/categories/skincare.json — 14 langues
 - [x] data/categories/makeup.json — 14 langues
@@ -29,6 +29,16 @@
 - [x] Champ `subfamily` ajouté aux 13 parfums × 14 langues
 - [x] Champ `occasion` normalisé aux 13 parfums × 14 langues
 
+### Sous-catégories Perfumes (COMPLÉTÉ 2 fév 2026)
+- [x] Template list.html modifié (filtrage subcategory_type/value, breadcrumb, emoji, "Coming Soon")
+- [x] 52 sous-catégories EN créées (3 gender, 7 family, 32 subfamily, 9 occasion, 1 extra)
+- [x] Dupliqué pour 13 autres langues = 728 pages total
+- [x] URLs 100% traduites (ex: /fr/parfums/femme/, /de/parfum/damen/, /es/perfumes/mujer/)
+- [x] translationKey sur chaque page → language switcher cross-langues fonctionnel
+- [x] Titres et descriptions traduits (gender, family, occasion = traductions manuelles ; subfamily = FR traduit, autres fallback EN)
+- [x] JSON perfumes.json mis à jour avec URLs physiques traduites
+- [x] Vérification complète : 728/728 pages OK, filtrage produits OK, switcher OK
+
 ### Système de génération
 - [x] Scripts API Claude opérationnels
 - [x] run.sh wrapper fonctionnel
@@ -36,14 +46,20 @@
 
 ---
 
-## 🟡 EN COURS
+## 🟡 EN COURS / PROCHAINE SESSION
 
-### Sous-catégories physiques (Phase actuelle)
-- [ ] Créer _index.md pour 51 sous-catégories perfumes EN
-- [ ] Dupliquer pour 13 autres langues (714 pages total)
-- [ ] Modifier list.html pour filtrer les produits en sous-catégorie
-- [ ] Générer contenu SEO pour chaque sous-catégorie via API Claude
-- [ ] Mettre à jour les URLs dans data/categories/perfumes.json
+### Génération contenu SEO sous-catégories via API Claude
+- [ ] Créer script de génération SEO pour sous-catégories (intro, FAQ, meta)
+- [ ] Générer contenu SEO pour 52 sous-catégories EN
+- [ ] Générer contenu SEO pour 13 autres langues (676 pages)
+- [ ] Intégrer le contenu SEO dans les templates (actuellement les sous-cat n'ont que title/description/emoji)
+
+### Fichiers clés pour cette tâche
+- Scripts génération : /home/ubuntu/hbb/generation/
+- API key : /home/ubuntu/hbb/.secrets (ANTHROPIC_API_KEY)
+- Template : /home/ubuntu/hbb/themes/hellobeauty/layouts/_default/list.html
+- Sous-catégories : /home/ubuntu/hbb/content/{lang}/{section}/{slug}/_index.md
+- Docs génération : /home/ubuntu/hbb/docs/GENERATION.md
 
 ---
 
