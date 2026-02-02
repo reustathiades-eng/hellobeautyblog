@@ -1,8 +1,38 @@
 ---
 title: "Sophie Laurent"
+translationKey: "sophie-laurent"
 role: "香水专家"
 image: "/images/authors/sophie-laurent.webp"
 specialty: "perfumes"
+career_start: 2014
+authorSlug: "sophie-laurent"
+tagline: "从巴黎到格拉斯,用十年经验解读每一瓶香水背后的故事与艺术"
+specialties:
+  - "香水原料与成分分析"
+  - "香调家族分类与识别"
+  - "沙龙香水与设计师香水评测"
+  - "香水历史与文化研究"
+  - "季节香水搭配建议"
+  - "香水叠加技巧指导"
+credentials:
+  - "法国ISIPCA香水学院专业毕业"
+  - "师从多位法国调香大师"
+  - "曾任娇兰(Guerlain)香水评估师"
+  - "十年香水行业从业经验"
 ---
 
-Sophie Laurent brings twelve years of distinguished expertise in luxury perfumery. Based between Paris and Grasse, she has trained with master perfumers worldwide. Her deep understanding of fragrance composition and her passion for olfactory storytelling make her reviews both educational and captivating.
+## 关于Sophie Laurent
+
+我是Sophie Laurent,一位来自法国的香水专家。我在巴黎长大,后来在香水之都格拉斯接受专业训练,这两座城市塑造了我对香水的理解和热爱。2014年从法国ISIPCA香水学院毕业后,我有幸师从几位德高望重的调香大师,学习香水创作的精髓。随后在娇兰担任香水评估师的经历,让我对经典香水和现代香氛有了更深入的认识。
+
+加入hellobeautyblog.com团队后,我希望用中文向更多读者分享香水的魅力。香水不仅仅是一种美容产品,它是艺术、是记忆、是情感的载体。每一瓶香水都有自己的性格和故事,从清新的柑橘调到温暖的东方调,从经典的花香调到现代的美食调,每种香调都能唤起不同的感受和回忆。
+
+我的专长涵盖香水的各个方面:从原料采购到成分分析,从香调家族的分类到气味的描述,从小众沙龙香水的发掘到大众设计师香水的评测。我特别擅长根据季节、场合和个人气质推荐合适的香水,也喜欢研究香水叠加的技巧,帮助读者找到属于自己的独特香味。
+
+在格拉斯的那些年,我经常漫步在茉莉花田和玫瑰园中,亲手触摸那些将要变成香水的珍贵原料。这些经历让我明白,真正好的香水需要时间、耐心和对自然的尊重。我也深入研究香水历史,从古埃及的香膏到现代香水工业的发展,这些知识帮助我更好地理解每一款香水在时代中的位置和意义。
+
+## 我的香水理念
+
+我相信选择香水是一件非常个人化的事情。没有所谓"最好"的香水,只有"最适合"的香水。我的工作不是告诉你应该买什么香水,而是帮助你了解不同香水的特点,理解它们的成分和香调结构,最终找到能够表达你个性、衬托你气质的那一款。
+
+香水是会呼吸的艺术品。同一款香水在不同人身上会呈现出不同的味道,因为每个人的肤质、体温和生活方式都会影响香水的表现。我鼓励大家多尝试、多感受,建立自己的香水品味。无论是日常通勤的清新淡香,还是特殊场合的浓郁香氛,每一次喷香水都是在为自己创造一个独特的气味记忆。

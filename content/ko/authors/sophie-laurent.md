@@ -1,8 +1,38 @@
 ---
 title: "Sophie Laurent"
+translationKey: "sophie-laurent"
 role: "향수 전문가"
 image: "/images/authors/sophie-laurent.webp"
 specialty: "perfumes"
+career_start: 2014
+authorSlug: "sophie-laurent"
+tagline: "파리와 그라스에서 시작된 향기 여정, 당신의 시그니처 향수를 찾아드립니다"
+specialties:
+  - "향수 원료 분석"
+  - "후각 계열 분류"
+  - "니치 향수 및 디자이너 향수"
+  - "향수 역사"
+  - "계절별 향수 추천"
+  - "향수 레이어링"
+credentials:
+  - "프랑스 ISIPCA 졸업"
+  - "마스터 조향사 사사"
+  - "겔랑 향수 평가위원 역임"
+  - "10년 이상 향수 업계 경력"
 ---
 
-Sophie Laurent brings twelve years of distinguished expertise in luxury perfumery. Based between Paris and Grasse, she has trained with master perfumers worldwide. Her deep understanding of fragrance composition and her passion for olfactory storytelling make her reviews both educational and captivating.
+## 향기의 도시에서 시작된 이야기
+
+Sophie Laurent은 향수의 본고장 프랑스 파리에서 태어나 향수 산업의 심장부 그라스에서 전문 교육을 받은 향수 전문가입니다. 세계적으로 인정받는 ISIPCA(국제향수화장품미용학교)를 졸업한 후, 프랑스 최고의 마스터 조향사들과 함께 수년간 훈련하며 향수의 모든 것을 익혔습니다. 특히 명품 향수 브랜드 겔랑에서 향수 평가위원으로 일하면서 수천 가지 향수를 분석하고 평가한 경험을 보유하고 있습니다.
+
+2014년부터 향수 업계에서 활동하며 쌓은 10년 이상의 경력을 바탕으로, 현재는 hellobeautyblog.com에서 한국 독자들과 향수에 대한 깊이 있는 지식을 나누고 있습니다. 장미, 자스민, 베티버, 샌달우드 등 다양한 천연 원료부터 현대적인 합성 향료까지, 각 성분의 특성과 조합을 정확히 이해하고 있어 향수의 노트 구조를 세밀하게 분석합니다.
+
+플로럴, 우디, 오리엔탈, 시트러스, 프레시 등 모든 후각 계열에 정통하며, 샤넬, 디올, 톰포드 같은 디자이너 향수부터 르 라보, 바이레도, 메종 프란시스 커정 같은 니치 향수까지 폭넓은 지식을 갖추고 있습니다. 특히 18세기 향수 역사부터 현대 향수 트렌드까지 아우르는 역사적 관점에서 향수를 바라보며, 각 향수가 지닌 문화적 배경과 스토리를 함께 전달합니다.
+
+계절과 상황에 맞는 향수 선택, 여러 향수를 겹쳐 바르는 레이어링 기법, 향수 보관법과 지속력을 높이는 팁까지, 실생활에서 바로 활용할 수 있는 실용적인 조언을 제공합니다. 복잡해 보이는 향수의 세계를 누구나 쉽게 이해하고 자신만의 시그니처 향을 찾을 수 있도록 돕는 것이 그녀의 목표입니다.
+
+## 향수 선택의 철학
+
+Sophie는 향수가 단순한 액세서리가 아닌 개인의 정체성과 감성을 표현하는 예술이라고 믿습니다. 유행하는 베스트셀러보다는 각자의 피부 화학, 라이프스타일, 개성에 맞는 향수를 찾는 것이 중요하다고 강조합니다. 같은 향수라도 사람마다 다르게 발향되는 원리를 이해하고, 자신에게 어울리는 향조를 발견하는 과정을 안내합니다.
+
+또한 향수 레이어링을 통해 기존 향수를 새롭게 즐기는 창의적인 방법을 제시하며, 계절과 시간대, TPO에 맞춰 향수를 바꾸는 지혜를 나눕니다. 고가의 명품 향수부터 합리적인 가격의 숨은 보석 같은 향수까지, 모든 가격대에서 가치 있는 선택을 할 수 있도록 객관적이고 정직한 리뷰를 제공하는 것이 그녀의 원칙입니다.

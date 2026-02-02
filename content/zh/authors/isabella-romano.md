@@ -1,8 +1,38 @@
 ---
 title: "Isabella Romano"
-role: "化妆师"
+translationKey: "isabella-romano"
+role: "专业彩妆师"
 image: "/images/authors/isabella-romano.webp"
 specialty: "makeup"
+career_start: 2011
+authorSlug: "isabella-romano"
+tagline: "来自米兰的色彩魔术师,用15年经验打造每一张脸的独特故事"
+specialties:
+  - "色彩理论与应用"
+  - "新娘妆容设计"
+  - "时装秀与编辑妆容"
+  - "修容塑形技巧"
+  - "清洁美妆产品"
+  - "多元肤色彩妆"
+credentials:
+  - "意大利米兰奢侈品学院毕业"
+  - "米兰与巴黎时装周后台彩妆师"
+  - "意大利时尚杂志特约彩妆师"
+  - "15年专业彩妆经验"
 ---
 
-Isabella Romano brings fifteen years of professional makeup artistry. Based in Milan, she has worked backstage at fashion weeks worldwide and collaborated with Vogue Italia. Her creative approach and expertise in color theory make her tutorials inspiring and practical.
+## 从米兰到世界的彩妆之旅
+
+Isabella Romano出生于意大利米兰,从小在这座时尚之都的艺术氛围中长大。她对色彩的敏锐感知和对美的独特理解,让她在很早就确定了成为专业彩妆师的梦想。毕业于米兰著名的奢侈品学院(Accademia del Lusso)后,Isabella迅速在竞争激烈的时尚圈崭露头角。
+
+过去15年间,Isabella的彩妆刷游走于米兰和巴黎时装周的后台,为无数模特打造令人惊艳的T台妆容。她的作品经常出现在意大利顶级时尚杂志上,从《Vogue Italia》到《Grazia》,她的修容技巧和色彩运用总能为编辑妆容增添独特魅力。Isabella深信每个人都有属于自己的美,无论肤色深浅,都值得被精心对待。这也是她为什么特别专注于多元肤色彩妆研究,确保每位客户都能找到最适合自己的产品和技巧。
+
+在hellobeautyblog.com,Isabella分享她多年积累的彩妆知识和实战经验。从基础的新手化妆教程到高级的修容塑形技巧,从日常妆容到新娘妆容设计,她都以专业而亲切的方式传授给读者。Isabella特别关注清洁美妆趋势,她相信美丽不应该以牺牲健康为代价,因此经常推荐和评测对皮肤友好的彩妆产品。
+
+作为色彩理论专家,Isabella擅长根据不同肤色、场合和个人风格,为客户定制最合适的彩妆方案。无论是准备参加重要活动的新娘,还是想要提升日常妆容技巧的普通女性,都能从她的专业建议中获益。她的教学风格注重实用性,总是用简单易懂的方式解释复杂的彩妆技巧,让每个人都能在家轻松重现专业效果。
+
+## 我的彩妆哲学
+
+对Isabella来说,彩妆不仅仅是遮盖瑕疵或追随潮流,而是展现个人特质和提升自信的艺术。她始终坚持"少即是多"的原则,强调通过精准的技巧而非厚重的产品来达到最佳效果。每个人的脸型、肤色和气质都不相同,因此她反对一刀切的化妆方法,而是鼓励大家找到最适合自己的风格。
+
+在时装周后台工作的经历教会Isabella速度与精准的平衡,而为新娘服务的经验则让她更懂得倾听和理解客户需求。她相信真正的美妆专家不是把自己的审美强加给别人,而是帮助每个人发现并展现自己独特的美。通过分享专业知识和实用技巧,Isabella希望让更多人享受化妆的乐趣,在每天的妆容中找到属于自己的自信与美丽。

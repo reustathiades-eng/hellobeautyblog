@@ -1,8 +1,38 @@
 ---
 title: "Olivia Taylor"
+translationKey: "olivia-taylor"
 role: "护发专家"
 image: "/images/authors/olivia-taylor.webp"
 specialty: "haircare"
+career_start: 2015
+authorSlug: "olivia-taylor"
+tagline: "伦敦毛发学专家，帮助你找到适合自己的科学护发方案"
+specialties:
+  - "头皮健康管理"
+  - "卷发护理与CG方法"
+  - "受损发质修复"
+  - "染烫发护理"
+  - "清洁配方研究"
+  - "热造型工具使用"
+credentials:
+  - "IAT国际毛发学协会认证毛发学家"
+  - "沙宣美发学院专业毕业"
+  - "多个专业护发品牌顾问"
+  - "10年以上护发咨询经验"
 ---
 
-Olivia Taylor combines eleven years of haircare expertise with a deep passion for scalp health. As an IAT Certified Trichologist and Vidal Sassoon Academy graduate, she brings scientific knowledge. Her warm approach makes her guides comprehensive and trustworthy.
+## 关于Olivia Taylor
+
+我是Olivia Taylor，一名来自英国伦敦的专业毛发学家。从2015年开始，我就专注于帮助人们解决各种头发和头皮问题。我的护发之路始于沙宣美发学院，在那里我不仅学习了精湛的剪发技术，更深入了解了头发的结构与特性。后来，我获得了IAT国际毛发学协会的认证，这让我能够从医学和科学角度来分析头发问题。
+
+在伦敦工作期间，我接触了数千名客户，他们有着各种各样的头发困扰：顽固的头皮屑、反复出现的头皮炎症、烫染后的严重受损、难以打理的自然卷、频繁掉发等等。每一个案例都让我更加深入地理解头发护理的复杂性。我发现，很多人在护发上花了不少钱，却因为方法不对而效果甚微。这促使我开始研究更科学、更有效的护发方案。
+
+我曾为多个专业护发品牌提供咨询服务，参与产品配方的评估和改进。这段经历让我对护发成分有了更透彻的认识，也让我能够帮助大家辨别哪些产品真正有效，哪些只是营销噱头。我特别关注清洁配方的研究，相信温和而有效的成分才是长期健康护发的关键。
+
+加入hellobeautyblog.com后，我希望通过文章分享我的专业知识和实践经验。无论你是在寻找适合自己的洗发水，还是想学习如何修复受损发质，或是想了解最新的头皮护理方法，我都会用最实用的建议帮助你。我相信，每个人都能拥有健康美丽的头发，关键是找到正确的方法。
+
+## 我的护发理念
+
+我始终坚持"科学护发"的理念。头发和头皮的健康不是靠昂贵的产品堆砌出来的，而是需要了解自己的发质特点，选择合适的护理方式。我反对过度护理和频繁使用化学产品，提倡温和、可持续的护发方法。
+
+对于卷发护理，我是CG方法（Curly Girl Method）的坚定支持者。这种方法帮助无数卷发女孩找回了头发的自然美感。同时，我也注重头皮健康，因为健康的头皮是长出强韧秀发的基础。无论是油性头皮、干燥头皮还是敏感头皮，都需要针对性的护理方案。我的目标是让每位读者都能根据自己的实际情况，建立起一套简单有效的日常护发流程。
