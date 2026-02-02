@@ -1,20 +1,120 @@
 # =============================================================================
 # REDIRECTIONS - HelloBeautyBlog.com
-# Redirect English slugs to localized slugs for each language
 # =============================================================================
 
 # Root redirect to default language
 / /en/ 302
 
 # =============================================================================
-# LEGACY URL REDIRECTS (from old WordPress site)
+# LEGACY WORDPRESS URL REDIRECTS (old site → new Hugo site)
 # =============================================================================
-/2010/05/easy-elegant-diy-jewelry-storage-display/* /en/blog/diy-jewelry-storage-display/ 301
-/2011/09/love-your-lips-top-tips-and-beauty-picks-for-soft-supple-lips/* /en/skincare/soft-supple-lips-tips/ 301
+
+# --- PRIORITÉ 1 : Pages avec trafic + backlinks ---
+/2010/05/easy-elegant-diy-jewelry-storage-display/ /en/blog/diy-jewelry-storage-display/ 301
+/2011/09/love-your-lips-top-tips-and-beauty-picks-for-soft-supple-lips/ /en/skincare/soft-supple-lips-tips/ 301
+
+# --- BLOG ---
+/2009/12/behind-the-scenes-estee-lauder/ /en/blog/behind-scenes-estee-lauder/ 301
+/2011/02/a-peek-into-the-super-cute-benefit-cosmetics-offices/ /en/blog/benefit-cosmetics-offices-tour/ 301
+/2013/02/finally-a-bic-for-the-ladies/ /en/blog/bic-for-her-review/ 301
+/2011/04/diy-beauty-101-how-to-make-your-own-shampoo/ /en/blog/diy-homemade-shampoo/ 301
+/2011/04/diy-beauty-101-how-to-make-a-natural-foaming-face-wash/ /en/blog/diy-natural-foaming-face-wash/ 301
+/2012/11/diy-how-to-make-a-pumpkin-face-mask/ /en/blog/diy-pumpkin-face-mask/ 301
+/2010/02/how-to-make-healthy-beautifying-diy-microwave-popcorn/ /en/blog/healthy-diy-microwave-popcorn/ 301
+/2010/02/how-to-decaffeinate-tea/ /en/blog/how-to-decaffeinate-tea/ 301
+/2014/03/how-to-beat-the-blues-with-light/ /en/blog/light-therapy-beat-blues/ 301
+/2010/08/review-candle-linneas-lights-home-scents-summer-yearround/ /en/blog/linneas-lights-candle-review/ 301
+/2016/05/natural-workout-beauty-gym-bag/ /en/blog/natural-workout-beauty-gym-bag/ 301
+/2010/06/pharmaca-offers-helpful-natural-health-information-online/ /en/blog/pharmaca-natural-health/ 301
+/2009/12/sephora-vending-machines/ /en/blog/sephora-vending-machines/ 301
+/2010/05/countdown-the-last-days-of-shu-uemura-in-the-u-s/ /en/blog/shu-uemura-leaving-us/ 301
+
+# --- SKINCARE ---
+/2010/11/eco-chic-arcona-skin-care-now-easier-to-find/ /en/skincare/arcona-skincare-review/ 301
+/2011/04/caudalie-new-elixir-of-youth-eye-cream-premier-cru-the-eye-cream/ /en/skincare/caudalie-premier-cru-eye-cream-review/ 301
+/2010/10/skin-care-101-how-to-apply-face-serums-and-moisturizers/ /en/skincare/how-to-apply-serums-moisturizers/ 301
+/2011/05/kate-somerville-review-skincare/ /en/skincare/kate-somerville-review/ 301
+/2013/08/liz-earle-cleanse-polish-review/ /en/skincare/liz-earle-cleanse-polish-review/ 301
+/2010/11/review-philosophy-miracle-worker/ /en/skincare/philosophy-miracle-worker-review/ 301
+/2011/03/discover-sanitas-potent-natural-skin-care-that-helps-skin-heal-itself/ /en/skincare/sanitas-natural-skincare-review/ 301
+/2010/06/senspa-luxe-holistic-pampering-wellness/ /en/skincare/senspa-luxe-wellness-review/ 301
+/2013/06/simple-protecting-moisturizer-spf-review/ /en/skincare/simple-protecting-moisturizer-spf-review/ 301
+/2010/07/8-easy-ways-to-soothe-a-sunburn/ /en/skincare/soothe-sunburn-tips/ 301
+
+# --- MAKEUP ---
+/2011/04/bare-escentuals-beautifully-bronzed-deluxe-two-piece-collection/ /en/makeup/bare-escentuals-bronzed-collection/ 301
+/2011/01/benefit-bella-bamba-review-swatches/ /en/makeup/benefit-bella-bamba-review-swatches/ 301
+/2012/09/benefit-brow-bar-birthday-gift/ /en/makeup/benefit-brow-bar-birthday-gift/ 301
+/2013/05/benefit-gimme-brow-tint-review/ /en/makeup/benefit-brow-tint-review/ 301
+/2010/06/benefit-chachatint-review/ /en/makeup/benefit-chachatint-review/ 301
+/2012/10/benefit-hello-flawless-new-shades/ /en/makeup/benefit-hello-flawless-new-shades/ 301
+/2012/04/best-of-beauty-benefit-hello-flawless-oxygen-wow-foundation-is-my-go-to-foundation/ /en/makeup/benefit-hello-flawless-oxygen-wow-review/ 301
+/2010/02/benefit-stay-dont-stray/ /en/makeup/benefit-stay-dont-stray-review/ 301
+/2010/01/benefit-sugarbomb-blush/ /en/makeup/benefit-sugarbomb-blush-review/ 301
+/2010/03/benefit-sugarbomb-review/ /en/makeup/benefit-sugarbomb-review/ 301
+/2016/03/best-new-makeup-for-spring-2016/ /en/makeup/best-makeup-spring-2016/ 301
+/2012/08/5-of-the-best-mascaras-how-to-make-any-mascara-waterproof-for-fox-2-news/ /en/makeup/best-mascaras-waterproof-tips/ 301
+/2010/04/bobbi-brown-corrector-concealer-review/ /en/makeup/bobbi-brown-corrector-concealer-review/ 301
+/2011/10/bobbi-brown-powder-foundation-review/ /en/makeup/bobbi-brown-powder-foundation-review/ 301
+/2010/07/is-bobbi-brown-raspberry-shimmer-lip-gloss-the-new-must-have-gloss/ /en/makeup/bobbi-brown-raspberry-shimmer-lip-gloss/ 301
+/2011/06/covergirl-lash-blast-fusion-review/ /en/makeup/covergirl-lash-blast-fusion-review/ 301
+/2010/07/estee-lauder-introduces-new-lip-gloss-collection-pure-color-gloss/ /en/makeup/estee-lauder-pure-color-gloss/ 301
+/2011/03/best-of-beauty-estee-lauder-sumptuous-extreme-mascara-review-look/ /en/makeup/estee-lauder-sumptuous-extreme-mascara-review/ 301
+/2010/10/guerlain-fall-2010-collection-review-makeup-tutorial-video/ /en/makeup/guerlain-fall-2010-collection-review/ 301
+/2015/11/holiday-beauty-collections-2015/ /en/makeup/holiday-beauty-collections-2015/ 301
+/2012/07/love-it-it-cosmetics-vitality-lip-flush-is-perfect-for-summer/ /en/makeup/it-cosmetics-vitality-lip-flush-review/ 301
+/2010/06/korres-rice-bran-mascara-review/ /en/makeup/korres-rice-bran-mascara-review/ 301
+/2010/09/serious-savings-lorac-cosmetics-hautelook/ /en/makeup/lorac-cosmetics-hautelook-sale/ 301
+/2013/03/maybelline-color-whisper/ /en/makeup/maybelline-color-whisper-review/ 301
+/2010/08/organic-island-shell-lip-balm-the-prettiest-balm-around/ /en/makeup/organic-island-shell-lip-balm-review/ 301
+/2016/02/how-to-get-red-carpet-ready-for-an-oscars-party/ /en/makeup/red-carpet-oscars-party-look/ 301
+/2012/08/love-sephora-hello-kitty-head-of-the-class-make-up-palettes/ /en/makeup/sephora-hello-kitty-palettes/ 301
+/2010/05/shu-uemura-cleansing-beauty-oil-brush-cleaner/ /en/makeup/shu-uemura-brush-cleaner-review/ 301
+/2010/08/review-urban-decay-good-karma-brushes/ /en/makeup/urban-decay-good-karma-brushes-review/ 301
+/2010/07/urban-decay-summer-2010-pocket-rocket-lip-gloss-more-hot-men-in-the-palm-of-your-hand/ /en/makeup/urban-decay-pocket-rocket-lip-gloss/ 301
+
+# --- HAIRCARE ---
+/2010/07/dekko-hair-salon-review-best-haircuts/ /en/haircare/dekko-hair-salon-review/ 301
+/2010/09/instyler-hot-iron-review/ /en/haircare/instyler-hot-iron-review/ 301
+/2010/08/best-of-beauty-review-kerastase/ /en/haircare/kerastase-review/ 301
+/2012/03/living-proof-no-frizz-review/ /en/haircare/living-proof-no-frizz-review/ 301
+/2012/06/paul-mitchell-neuro-express-ion-dry-saves-time-and-is-kind-to-the-planet/ /en/haircare/paul-mitchell-express-ion-dryer-review/ 301
+
+# --- PERFUMES ---
+/2010/08/review-giveaway-win-guerlain-shalimar-eau-de-parfum/ /en/perfumes/guerlain-shalimar-review/ 301
+
+# --- PAGINATION WORDPRESS ---
+/page/2/ /en/ 301
+/page/3/ /en/ 301
+/page/4/ /en/ 301
+/page/5/ /en/ 301
+/page/* /en/ 301
+
+# --- CATÉGORIES WORDPRESS ---
+/category/beauty/ /en/ 301
+/category/skincare/ /en/skincare/ 301
+/category/makeup/ /en/makeup/ 301
+/category/hair/ /en/haircare/ 301
+/category/diy/ /en/blog/ 301
+
+# --- FALLBACK ANCIENNES URLS /YYYY/* ---
+/2009/* /en/blog/ 301
+/2010/* /en/blog/ 301
+/2011/* /en/blog/ 301
+/2012/* /en/blog/ 301
+/2013/* /en/blog/ 301
+/2014/* /en/blog/ 301
+/2015/* /en/blog/ 301
+/2016/* /en/blog/ 301
+
+# --- AUTRES LEGACY ---
+/2010/01/clarisonic-winner/ /en/blog/ 301
 
 # =============================================================================
-# FRANÇAIS (FR) - English slugs → French slugs
+# LOCALIZED SLUG REDIRECTS (English slugs → translated slugs per language)
 # =============================================================================
+
+# FRANÇAIS (FR)
 /fr/perfumes/* /fr/parfums/:splat 301
 /fr/perfumes /fr/parfums/ 301
 /fr/skincare/* /fr/soins/:splat 301
@@ -26,9 +126,7 @@
 /fr/brands/* /fr/marques/:splat 301
 /fr/guides/* /fr/guides/:splat 301
 
-# =============================================================================
-# ALLEMAND (DE) - English slugs → German slugs
-# =============================================================================
+# ALLEMAND (DE)
 /de/perfumes/* /de/parfum/:splat 301
 /de/perfumes /de/parfum/ 301
 /de/skincare/* /de/hautpflege/:splat 301
@@ -40,9 +138,7 @@
 /de/brands/* /de/marken/:splat 301
 /de/guides/* /de/ratgeber/:splat 301
 
-# =============================================================================
-# ESPAGNOL (ES) - English slugs → Spanish slugs
-# =============================================================================
+# ESPAGNOL (ES)
 /es/skincare/* /es/cuidado-piel/:splat 301
 /es/skincare /es/cuidado-piel/ 301
 /es/makeup/* /es/maquillaje/:splat 301
@@ -52,9 +148,7 @@
 /es/brands/* /es/marcas/:splat 301
 /es/guides/* /es/guias/:splat 301
 
-# =============================================================================
-# ITALIEN (IT) - English slugs → Italian slugs
-# =============================================================================
+# ITALIEN (IT)
 /it/perfumes/* /it/profumi/:splat 301
 /it/perfumes /it/profumi/ 301
 /it/makeup/* /it/trucco/:splat 301
@@ -64,9 +158,7 @@
 /it/brands/* /it/marchi/:splat 301
 /it/guides/* /it/guide/:splat 301
 
-# =============================================================================
-# PORTUGAIS (PT) - English slugs → Portuguese slugs
-# =============================================================================
+# PORTUGAIS (PT)
 /pt/skincare/* /pt/cuidados-pele/:splat 301
 /pt/skincare /pt/cuidados-pele/ 301
 /pt/makeup/* /pt/maquiagem/:splat 301
@@ -76,9 +168,7 @@
 /pt/brands/* /pt/marcas/:splat 301
 /pt/guides/* /pt/guias/:splat 301
 
-# =============================================================================
-# NÉERLANDAIS (NL) - English slugs → Dutch slugs
-# =============================================================================
+# NÉERLANDAIS (NL)
 /nl/perfumes/* /nl/parfum/:splat 301
 /nl/perfumes /nl/parfum/ 301
 /nl/skincare/* /nl/huidverzorging/:splat 301
@@ -90,9 +180,7 @@
 /nl/brands/* /nl/merken/:splat 301
 /nl/guides/* /nl/gidsen/:splat 301
 
-# =============================================================================
-# POLONAIS (PL) - English slugs → Polish slugs
-# =============================================================================
+# POLONAIS (PL)
 /pl/perfumes/* /pl/perfumy/:splat 301
 /pl/perfumes /pl/perfumy/ 301
 /pl/skincare/* /pl/pielegnacja/:splat 301
@@ -104,9 +192,7 @@
 /pl/brands/* /pl/marki/:splat 301
 /pl/guides/* /pl/poradniki/:splat 301
 
-# =============================================================================
-# TURC (TR) - English slugs → Turkish slugs
-# =============================================================================
+# TURC (TR)
 /tr/perfumes/* /tr/parfum/:splat 301
 /tr/perfumes /tr/parfum/ 301
 /tr/skincare/* /tr/cilt-bakimi/:splat 301
@@ -118,7 +204,4 @@
 /tr/brands/* /tr/markalar/:splat 301
 /tr/guides/* /tr/rehberler/:splat 301
 
-# =============================================================================
-# JAPONAIS, CORÉEN, CHINOIS, ARABE, HINDI - Keep English slugs
-# =============================================================================
-# No redirects needed - these languages use English slugs
+# JA, KO, ZH, AR, HI - Keep English slugs (no redirects needed)
