@@ -3,49 +3,137 @@
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
 {{ $section := .Section }}
+{{ $isSubcategory := false }}
+{{ $subcatType := "" }}
+{{ $subcatValue := "" }}
+{{ $filteredPages := .Pages }}
+
+<!-- Detect subcategory page -->
+{{ with .Params.subcategory_type }}
+  {{ $isSubcategory = true }}
+  {{ $subcatType = . }}
+{{ end }}
+{{ with .Params.subcategory_value }}
+  {{ $subcatValue = . }}
+{{ end }}
+
+<!-- If subcategory: get products from parent section and filter -->
+{{ if $isSubcategory }}
+  {{ $parentSection := .Parent }}
+  {{ if $parentSection }}
+    {{ $allProducts := $parentSection.RegularPages }}
+    {{ if eq $subcatType "gender" }}
+      {{ $filteredPages = where $allProducts ".Params.gender" "eq" $subcatValue }}
+    {{ else if eq $subcatType "family" }}
+      {{ $filteredPages = where $allProducts ".Params.family" "eq" $subcatValue }}
+    {{ else if eq $subcatType "subfamily" }}
+      {{ $filteredPages = where $allProducts ".Params.subfamily" "eq" $subcatValue }}
+    {{ else if eq $subcatType "occasion" }}
+      {{ $filteredPages = where $allProducts ".Params.occasion" "intersect" (slice $subcatValue) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <!-- Load category data from JSON -->
-{{ $categoryData := index .Site.Data.categories $section }}
-{{ $langData := index $categoryData $lang }}
+{{ $categoryData := false }}
+{{ $langData := false }}
+{{ with index .Site.Data.categories $section }}
+  {{ $categoryData = . }}
+  {{ with index . $lang }}
+    {{ $langData = . }}
+  {{ end }}
+{{ end }}
 
-<!-- SECTION 1: HERO CATEGORY -->
+<!-- Load subcategory SEO data if available -->
+{{ $subcatData := false }}
+{{ if $isSubcategory }}
+  {{ $subcatFile := printf "%s_%s" $section $subcatType }}
+  {{ with index .Site.Data.subcategories $subcatFile }}
+    {{ with index . $lang }}
+      {{ with index . $subcatValue }}
+        {{ $subcatData = . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<!-- SECTION 1: HERO -->
 <section class="category-hero">
     <div class="category-hero-bg">
         <div class="category-hero-gradient"></div>
         <div class="category-hero-pattern"></div>
     </div>
     <div class="category-hero-container">
+        {{ if $isSubcategory }}
+        <!-- Breadcrumb for subcategory -->
+        <nav class="subcategory-breadcrumb">
+            {{ $parentSection := .Parent }}
+            {{ if $parentSection }}
+            <a href="{{ $parentSection.Permalink }}">{{ $parentSection.Title }}</a>
+            <span class="breadcrumb-sep">›</span>
+            {{ end }}
+            <span class="breadcrumb-current">{{ .Title }}</span>
+        </nav>
+        {{ end }}
         <div class="category-hero-icon">
+            {{ if $isSubcategory }}
+            <span class="category-hero-emoji">{{ with .Params.emoji }}{{ . }}{{ else }}✨{{ end }}</span>
+            {{ else }}
             <img src="/images/icons/icon-{{ $section }}.webp" alt="{{ .Title }}" onerror="this.style.display='none'">
+            {{ end }}
         </div>
         <h1 class="category-hero-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="category-hero-desc">{{ . }}</p>
+        {{ end }}
         <p class="category-hero-count">
-            {{ len .Pages }} 
+            {{ len $filteredPages }} 
             {{ if eq $lang "fr" }}produits{{ else if eq $lang "de" }}Produkte{{ else if eq $lang "es" }}productos{{ else if eq $lang "it" }}prodotti{{ else if eq $lang "pt" }}produtos{{ else }}products{{ end }}
         </p>
     </div>
 </section>
 
 <!-- SECTION 2: INTRO SEO -->
-{{ with $langData }}
-{{ if .intro }}
-<section class="category-intro">
-    <div class="category-intro-container">
-        <div class="category-intro-icon">
-            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
-            </svg>
-        </div>
-        <h2 class="category-intro-title">{{ .intro_title }}</h2>
-        <div class="category-intro-text">
-            <p>{{ .intro }}</p>
-        </div>
-    </div>
-</section>
-{{ end }}
+{{ if $isSubcategory }}
+  {{ with $subcatData }}
+  {{ if .intro }}
+  <section class="category-intro">
+      <div class="category-intro-container">
+          <div class="category-intro-icon">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+              </svg>
+          </div>
+          <h2 class="category-intro-title">{{ .intro_title }}</h2>
+          <div class="category-intro-text">
+              <p>{{ .intro }}</p>
+          </div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with $langData }}
+  {{ if .intro }}
+  <section class="category-intro">
+      <div class="category-intro-container">
+          <div class="category-intro-icon">
+              <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+              </svg>
+          </div>
+          <h2 class="category-intro-title">{{ .intro_title }}</h2>
+          <div class="category-intro-text">
+              <p>{{ .intro }}</p>
+          </div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
 {{ end }}
 
-<!-- SECTION 3: SUBCATEGORIES -->
+<!-- SECTION 3: SUBCATEGORIES (only on main category pages) -->
+{{ if not $isSubcategory }}
 {{ with $langData }}
 {{ if .subcategories }}
 <section class="subcategories-section">
@@ -67,26 +155,43 @@
 </section>
 {{ end }}
 {{ end }}
+{{ end }}
+
+<!-- SECTION 3bis: RELATED SUBCATEGORIES (on subcategory pages) -->
+{{ if $isSubcategory }}
+{{ with $langData }}
+{{ if .subcategories }}
+{{ with index .subcategories $subcatType }}
+<section class="subcategories-section subcategories-related">
+    <div class="subcategories-container">
+        <h3 class="subcategory-group-title">{{ .title }}</h3>
+        <div class="subcategory-grid">
+            {{ range .items }}
+            <a href="{{ .url }}" class="subcategory-card">
+                <span class="subcategory-card-emoji">{{ .emoji }}</span>
+                <span class="subcategory-card-name">{{ .name }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
+{{ end }}
 
 <!-- SECTION 4: PRODUCTS GRID -->
 <section class="products-section">
     <div class="products-container">
         <div class="products-toolbar">
             <p class="products-count">
-                {{ len .Pages }} 
+                {{ len $filteredPages }} 
                 {{ if eq $lang "fr" }}résultats{{ else if eq $lang "de" }}Ergebnisse{{ else if eq $lang "es" }}resultados{{ else }}results{{ end }}
             </p>
-            <div class="products-sort">
-                <label>{{ if eq $lang "fr" }}Trier par{{ else if eq $lang "de" }}Sortieren{{ else if eq $lang "es" }}Ordenar{{ else }}Sort by{{ end }}:</label>
-                <select id="sort-select">
-                    <option value="newest">{{ if eq $lang "fr" }}Plus récent{{ else }}Newest{{ end }}</option>
-                    <option value="popular">{{ if eq $lang "fr" }}Populaire{{ else }}Popular{{ end }}</option>
-                </select>
-            </div>
         </div>
         
-        {{ $paginator := .Paginate .Pages 24 }}
-        {{ if .Pages }}
+        {{ if $filteredPages }}
+        {{ $paginator := .Paginate $filteredPages 24 }}
         <div class="products-grid">
             {{ range $paginator.Pages }}
             {{ partial "product-card.html" . }}
@@ -111,46 +216,85 @@
         {{ else }}
         <div class="no-products">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"/></svg>
-            <h2>{{ if eq $lang "fr" }}Aucun produit{{ else }}No products found{{ end }}</h2>
+            <h2>{{ if eq $lang "fr" }}Bientôt disponible{{ else if eq $lang "de" }}Bald verfügbar{{ else if eq $lang "es" }}Próximamente{{ else }}Coming Soon{{ end }}</h2>
+            <p class="no-products-text">{{ if eq $lang "fr" }}Nous ajoutons régulièrement de nouveaux produits.{{ else if eq $lang "de" }}Wir fügen regelmäßig neue Produkte hinzu.{{ else if eq $lang "es" }}Añadimos nuevos productos regularmente.{{ else }}We regularly add new products. Check back soon!{{ end }}</p>
         </div>
         {{ end }}
     </div>
 </section>
 
 <!-- SECTION 5: FAQ -->
-{{ with $langData }}
-{{ if .faq }}
-<section class="faq-section">
-    <div class="faq-container">
-        <div class="section-header">
-            <h2 class="section-title">{{ if eq $lang "fr" }}Questions fréquentes{{ else if eq $lang "de" }}Häufige Fragen{{ else if eq $lang "es" }}Preguntas frecuentes{{ else }}Frequently Asked Questions{{ end }}</h2>
-        </div>
-        <div class="faq-list">
-            {{ range $index, $item := .faq }}
-            <div class="faq-item">
-                <button class="faq-question" aria-expanded="false">
-                    <span>{{ $item.question }}</span>
-                    <svg class="faq-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
-                </button>
-                <div class="faq-answer"><p>{{ $item.answer }}</p></div>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</section>
-{{ end }}
+{{ if $isSubcategory }}
+  {{ with $subcatData }}
+  {{ if .faq }}
+  <section class="faq-section">
+      <div class="faq-container">
+          <div class="section-header">
+              <h2 class="section-title">{{ if eq $lang "fr" }}Questions fréquentes{{ else if eq $lang "de" }}Häufige Fragen{{ else if eq $lang "es" }}Preguntas frecuentes{{ else }}Frequently Asked Questions{{ end }}</h2>
+          </div>
+          <div class="faq-list">
+              {{ range $index, $item := .faq }}
+              <div class="faq-item">
+                  <button class="faq-question" aria-expanded="false">
+                      <span>{{ $item.question }}</span>
+                      <svg class="faq-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                  </button>
+                  <div class="faq-answer"><p>{{ $item.answer }}</p></div>
+              </div>
+              {{ end }}
+          </div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with $langData }}
+  {{ if .faq }}
+  <section class="faq-section">
+      <div class="faq-container">
+          <div class="section-header">
+              <h2 class="section-title">{{ if eq $lang "fr" }}Questions fréquentes{{ else if eq $lang "de" }}Häufige Fragen{{ else if eq $lang "es" }}Preguntas frecuentes{{ else }}Frequently Asked Questions{{ end }}</h2>
+          </div>
+          <div class="faq-list">
+              {{ range $index, $item := .faq }}
+              <div class="faq-item">
+                  <button class="faq-question" aria-expanded="false">
+                      <span>{{ $item.question }}</span>
+                      <svg class="faq-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                  </button>
+                  <div class="faq-answer"><p>{{ $item.answer }}</p></div>
+              </div>
+              {{ end }}
+          </div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
 {{ end }}
 
 <!-- SECTION 6: SEO BOTTOM -->
-{{ with $langData }}
-{{ if .seo_bottom }}
-<section class="seo-section">
-    <div class="seo-container">
-        <h2 class="seo-title">{{ .seo_title }}</h2>
-        <div class="seo-content"><p>{{ .seo_bottom }}</p></div>
-    </div>
-</section>
-{{ end }}
+{{ if $isSubcategory }}
+  {{ with $subcatData }}
+  {{ if .seo_bottom }}
+  <section class="seo-section">
+      <div class="seo-container">
+          <h2 class="seo-title">{{ .seo_title }}</h2>
+          <div class="seo-content"><p>{{ .seo_bottom }}</p></div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with $langData }}
+  {{ if .seo_bottom }}
+  <section class="seo-section">
+      <div class="seo-container">
+          <h2 class="seo-title">{{ .seo_title }}</h2>
+          <div class="seo-content"><p>{{ .seo_bottom }}</p></div>
+      </div>
+  </section>
+  {{ end }}
+  {{ end }}
 {{ end }}
 
 <style>
@@ -160,11 +304,20 @@
 .category-hero-gradient{position:absolute;inset:0;background:linear-gradient(135deg,#FDF2F8 0%,#FFFFFF 50%,#F8C8DC20 100%)}
 .category-hero-pattern{position:absolute;inset:0;background-image:radial-gradient(#F8C8DC 1px,transparent 1px);background-size:40px 40px;opacity:0.3}
 .category-hero-container{position:relative;z-index:1;max-width:800px;margin:0 auto}
-.category-hero-icon{width:80px;height:80px;margin:0 auto 1.5rem;background:#fff;border-radius:20px;padding:15px;box-shadow:0 10px 40px rgba(248,200,220,0.3)}
+.category-hero-icon{width:80px;height:80px;margin:0 auto 1.5rem;background:#fff;border-radius:20px;padding:15px;box-shadow:0 10px 40px rgba(248,200,220,0.3);display:flex;align-items:center;justify-content:center}
 .category-hero-icon img{width:100%;height:100%;object-fit:contain}
+.category-hero-emoji{font-size:2.5rem}
 .category-hero-title{font-family:'Playfair Display',serif;font-size:2.5rem;font-weight:700;color:#1F2937;margin-bottom:0.5rem}
 @media(min-width:768px){.category-hero-title{font-size:3rem}}
-.category-hero-count{font-size:1rem;color:#6B7280}
+.category-hero-desc{font-size:1.0625rem;color:#6B7280;max-width:600px;margin:0 auto 0.75rem;line-height:1.6}
+.category-hero-count{font-size:1rem;color:#9CA3AF}
+
+/* BREADCRUMB */
+.subcategory-breadcrumb{margin-bottom:1.5rem;font-size:0.875rem}
+.subcategory-breadcrumb a{color:#F8C8DC;text-decoration:none;font-weight:500}
+.subcategory-breadcrumb a:hover{text-decoration:underline}
+.breadcrumb-sep{margin:0 0.5rem;color:#D1D5DB}
+.breadcrumb-current{color:#6B7280}
 
 /* INTRO */
 .category-intro{padding:4rem 1.5rem;background:#fff}
@@ -176,6 +329,7 @@
 
 /* SUBCATEGORIES */
 .subcategories-section{padding:3rem 1.5rem 4rem;background:#FAFAFA}
+.subcategories-related{padding:2rem 1.5rem 2.5rem}
 .subcategories-container{max-width:1200px;margin:0 auto}
 .subcategory-group{margin-bottom:2.5rem}
 .subcategory-group:last-child{margin-bottom:0}
@@ -191,9 +345,6 @@
 .products-container{max-width:1400px;margin:0 auto}
 .products-toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid #E5E7EB}
 .products-count{color:#6B7280;font-size:0.9375rem}
-.products-sort{display:flex;align-items:center;gap:0.75rem}
-.products-sort label{font-size:0.875rem;color:#6B7280}
-.products-sort select{font-size:0.875rem;border:1px solid #E5E7EB;border-radius:8px;padding:0.5rem 1rem;background:#fff}
 .products-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem}
 @media(min-width:768px){.products-grid{grid-template-columns:repeat(3,1fr)}}
 @media(min-width:1024px){.products-grid{grid-template-columns:repeat(4,1fr)}}
@@ -204,7 +355,8 @@
 .pagination-active{background:#F8C8DC;border-color:#F8C8DC;font-weight:600}
 .no-products{text-align:center;padding:4rem 1rem}
 .no-products svg{width:64px;height:64px;color:#D1D5DB;margin:0 auto 1rem}
-.no-products h2{font-size:1.25rem;color:#1F2937}
+.no-products h2{font-size:1.25rem;color:#1F2937;margin-bottom:0.5rem}
+.no-products-text{color:#9CA3AF;font-size:0.9375rem}
 
 /* FAQ */
 .faq-section{padding:4rem 1.5rem;background:#FAFAFA}

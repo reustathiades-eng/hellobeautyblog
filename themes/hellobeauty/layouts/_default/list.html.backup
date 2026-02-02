@@ -1,0 +1,235 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+{{ $lang := .Language.Lang }}
+{{ $section := .Section }}
+
+<!-- Load category data from JSON -->
+{{ $categoryData := index .Site.Data.categories $section }}
+{{ $langData := index $categoryData $lang }}
+
+<!-- SECTION 1: HERO CATEGORY -->
+<section class="category-hero">
+    <div class="category-hero-bg">
+        <div class="category-hero-gradient"></div>
+        <div class="category-hero-pattern"></div>
+    </div>
+    <div class="category-hero-container">
+        <div class="category-hero-icon">
+            <img src="/images/icons/icon-{{ $section }}.webp" alt="{{ .Title }}" onerror="this.style.display='none'">
+        </div>
+        <h1 class="category-hero-title">{{ .Title }}</h1>
+        <p class="category-hero-count">
+            {{ len .Pages }} 
+            {{ if eq $lang "fr" }}produits{{ else if eq $lang "de" }}Produkte{{ else if eq $lang "es" }}productos{{ else if eq $lang "it" }}prodotti{{ else if eq $lang "pt" }}produtos{{ else }}products{{ end }}
+        </p>
+    </div>
+</section>
+
+<!-- SECTION 2: INTRO SEO -->
+{{ with $langData }}
+{{ if .intro }}
+<section class="category-intro">
+    <div class="category-intro-container">
+        <div class="category-intro-icon">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+            </svg>
+        </div>
+        <h2 class="category-intro-title">{{ .intro_title }}</h2>
+        <div class="category-intro-text">
+            <p>{{ .intro }}</p>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- SECTION 3: SUBCATEGORIES -->
+{{ with $langData }}
+{{ if .subcategories }}
+<section class="subcategories-section">
+    <div class="subcategories-container">
+        {{ range $groupKey, $group := .subcategories }}
+        <div class="subcategory-group">
+            <h3 class="subcategory-group-title">{{ $group.title }}</h3>
+            <div class="subcategory-grid">
+                {{ range $group.items }}
+                <a href="{{ .url }}" class="subcategory-card">
+                    <span class="subcategory-card-emoji">{{ .emoji }}</span>
+                    <span class="subcategory-card-name">{{ .name }}</span>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- SECTION 4: PRODUCTS GRID -->
+<section class="products-section">
+    <div class="products-container">
+        <div class="products-toolbar">
+            <p class="products-count">
+                {{ len .Pages }} 
+                {{ if eq $lang "fr" }}résultats{{ else if eq $lang "de" }}Ergebnisse{{ else if eq $lang "es" }}resultados{{ else }}results{{ end }}
+            </p>
+            <div class="products-sort">
+                <label>{{ if eq $lang "fr" }}Trier par{{ else if eq $lang "de" }}Sortieren{{ else if eq $lang "es" }}Ordenar{{ else }}Sort by{{ end }}:</label>
+                <select id="sort-select">
+                    <option value="newest">{{ if eq $lang "fr" }}Plus récent{{ else }}Newest{{ end }}</option>
+                    <option value="popular">{{ if eq $lang "fr" }}Populaire{{ else }}Popular{{ end }}</option>
+                </select>
+            </div>
+        </div>
+        
+        {{ $paginator := .Paginate .Pages 24 }}
+        {{ if .Pages }}
+        <div class="products-grid">
+            {{ range $paginator.Pages }}
+            {{ partial "product-card.html" . }}
+            {{ end }}
+        </div>
+        
+        {{ if gt $paginator.TotalPages 1 }}
+        <nav class="pagination">
+            <ul class="pagination-list">
+                {{ if $paginator.HasPrev }}
+                <li><a href="{{ $paginator.Prev.URL }}" class="pagination-link">←</a></li>
+                {{ end }}
+                {{ range $paginator.Pagers }}
+                <li><a href="{{ .URL }}" class="pagination-link {{ if eq . $paginator }}pagination-active{{ end }}">{{ .PageNumber }}</a></li>
+                {{ end }}
+                {{ if $paginator.HasNext }}
+                <li><a href="{{ $paginator.Next.URL }}" class="pagination-link">→</a></li>
+                {{ end }}
+            </ul>
+        </nav>
+        {{ end }}
+        {{ else }}
+        <div class="no-products">
+            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M20 13V6a2 2 0 00-2-2H6a2 2 0 00-2 2v7m16 0v5a2 2 0 01-2 2H6a2 2 0 01-2-2v-5m16 0h-2.586a1 1 0 00-.707.293l-2.414 2.414a1 1 0 01-.707.293h-3.172a1 1 0 01-.707-.293l-2.414-2.414A1 1 0 006.586 13H4"/></svg>
+            <h2>{{ if eq $lang "fr" }}Aucun produit{{ else }}No products found{{ end }}</h2>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<!-- SECTION 5: FAQ -->
+{{ with $langData }}
+{{ if .faq }}
+<section class="faq-section">
+    <div class="faq-container">
+        <div class="section-header">
+            <h2 class="section-title">{{ if eq $lang "fr" }}Questions fréquentes{{ else if eq $lang "de" }}Häufige Fragen{{ else if eq $lang "es" }}Preguntas frecuentes{{ else }}Frequently Asked Questions{{ end }}</h2>
+        </div>
+        <div class="faq-list">
+            {{ range $index, $item := .faq }}
+            <div class="faq-item">
+                <button class="faq-question" aria-expanded="false">
+                    <span>{{ $item.question }}</span>
+                    <svg class="faq-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                </button>
+                <div class="faq-answer"><p>{{ $item.answer }}</p></div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- SECTION 6: SEO BOTTOM -->
+{{ with $langData }}
+{{ if .seo_bottom }}
+<section class="seo-section">
+    <div class="seo-container">
+        <h2 class="seo-title">{{ .seo_title }}</h2>
+        <div class="seo-content"><p>{{ .seo_bottom }}</p></div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+
+<style>
+/* HERO */
+.category-hero{position:relative;padding:4rem 1.5rem 3rem;text-align:center;overflow:hidden}
+.category-hero-bg{position:absolute;inset:0;z-index:0}
+.category-hero-gradient{position:absolute;inset:0;background:linear-gradient(135deg,#FDF2F8 0%,#FFFFFF 50%,#F8C8DC20 100%)}
+.category-hero-pattern{position:absolute;inset:0;background-image:radial-gradient(#F8C8DC 1px,transparent 1px);background-size:40px 40px;opacity:0.3}
+.category-hero-container{position:relative;z-index:1;max-width:800px;margin:0 auto}
+.category-hero-icon{width:80px;height:80px;margin:0 auto 1.5rem;background:#fff;border-radius:20px;padding:15px;box-shadow:0 10px 40px rgba(248,200,220,0.3)}
+.category-hero-icon img{width:100%;height:100%;object-fit:contain}
+.category-hero-title{font-family:'Playfair Display',serif;font-size:2.5rem;font-weight:700;color:#1F2937;margin-bottom:0.5rem}
+@media(min-width:768px){.category-hero-title{font-size:3rem}}
+.category-hero-count{font-size:1rem;color:#6B7280}
+
+/* INTRO */
+.category-intro{padding:4rem 1.5rem;background:#fff}
+.category-intro-container{max-width:800px;margin:0 auto;text-align:center}
+.category-intro-icon{width:60px;height:60px;margin:0 auto 1.5rem;background:#FDF2F8;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#F8C8DC}
+.category-intro-icon svg{width:30px;height:30px}
+.category-intro-title{font-family:'Playfair Display',serif;font-size:1.75rem;color:#1F2937;margin-bottom:1.5rem}
+.category-intro-text{font-size:1.0625rem;line-height:1.8;color:#6B7280}
+
+/* SUBCATEGORIES */
+.subcategories-section{padding:3rem 1.5rem 4rem;background:#FAFAFA}
+.subcategories-container{max-width:1200px;margin:0 auto}
+.subcategory-group{margin-bottom:2.5rem}
+.subcategory-group:last-child{margin-bottom:0}
+.subcategory-group-title{font-family:'Playfair Display',serif;font-size:1.25rem;color:#1F2937;margin-bottom:1rem;padding-left:0.5rem;border-left:3px solid #F8C8DC}
+.subcategory-grid{display:flex;flex-wrap:wrap;gap:0.75rem}
+.subcategory-card{display:inline-flex;align-items:center;gap:0.5rem;padding:0.625rem 1rem;background:#fff;border:1px solid #E5E7EB;border-radius:50px;text-decoration:none;color:#1F2937;font-size:0.875rem;font-weight:500;transition:all 0.2s ease}
+.subcategory-card:hover{border-color:#F8C8DC;background:#FDF2F8;transform:translateY(-2px);box-shadow:0 4px 12px rgba(248,200,220,0.2)}
+.subcategory-card-emoji{font-size:1rem}
+.subcategory-card-name{white-space:nowrap}
+
+/* PRODUCTS */
+.products-section{padding:3rem 1.5rem 4rem;background:#fff}
+.products-container{max-width:1400px;margin:0 auto}
+.products-toolbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid #E5E7EB}
+.products-count{color:#6B7280;font-size:0.9375rem}
+.products-sort{display:flex;align-items:center;gap:0.75rem}
+.products-sort label{font-size:0.875rem;color:#6B7280}
+.products-sort select{font-size:0.875rem;border:1px solid #E5E7EB;border-radius:8px;padding:0.5rem 1rem;background:#fff}
+.products-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.5rem}
+@media(min-width:768px){.products-grid{grid-template-columns:repeat(3,1fr)}}
+@media(min-width:1024px){.products-grid{grid-template-columns:repeat(4,1fr)}}
+.pagination{margin-top:3rem;display:flex;justify-content:center}
+.pagination-list{display:flex;align-items:center;gap:0.5rem;list-style:none;padding:0;margin:0}
+.pagination-link{display:flex;align-items:center;justify-content:center;width:40px;height:40px;border:1px solid #E5E7EB;border-radius:10px;text-decoration:none;color:#1F2937;font-size:0.875rem;transition:all 0.2s}
+.pagination-link:hover{border-color:#F8C8DC;background:#FDF2F8}
+.pagination-active{background:#F8C8DC;border-color:#F8C8DC;font-weight:600}
+.no-products{text-align:center;padding:4rem 1rem}
+.no-products svg{width:64px;height:64px;color:#D1D5DB;margin:0 auto 1rem}
+.no-products h2{font-size:1.25rem;color:#1F2937}
+
+/* FAQ */
+.faq-section{padding:4rem 1.5rem;background:#FAFAFA}
+.faq-container{max-width:800px;margin:0 auto}
+.faq-list{margin-top:2rem}
+.faq-item{background:#fff;border-radius:16px;margin-bottom:1rem;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.04)}
+.faq-question{width:100%;display:flex;align-items:center;justify-content:space-between;padding:1.25rem 1.5rem;background:none;border:none;cursor:pointer;text-align:left;font-size:1rem;font-weight:600;color:#1F2937;transition:background 0.2s}
+.faq-question:hover{background:#FDF2F8}
+.faq-icon{width:20px;height:20px;color:#F8C8DC;transition:transform 0.3s;flex-shrink:0}
+.faq-item.active .faq-icon{transform:rotate(180deg)}
+.faq-answer{max-height:0;overflow:hidden;transition:max-height 0.3s}
+.faq-item.active .faq-answer{max-height:500px}
+.faq-answer p{padding:0 1.5rem 1.25rem;color:#6B7280;line-height:1.7;margin:0}
+
+/* SEO */
+.seo-section{padding:4rem 1.5rem;background:#fff;border-top:1px solid #E5E7EB}
+.seo-container{max-width:900px;margin:0 auto}
+.seo-title{font-family:'Playfair Display',serif;font-size:1.5rem;color:#1F2937;margin-bottom:1.5rem;text-align:center}
+.seo-content{font-size:0.9375rem;line-height:1.8;color:#6B7280;text-align:justify}
+.section-header{text-align:center;margin-bottom:2rem}
+.section-title{font-family:'Playfair Display',serif;font-size:1.75rem;color:#1F2937}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.faq-item').forEach(item=>{item.querySelector('.faq-question').addEventListener('click',()=>{const isActive=item.classList.contains('active');document.querySelectorAll('.faq-item').forEach(i=>i.classList.remove('active'));if(!isActive)item.classList.add('active')})})});
+</script>
+
+{{ end }}
