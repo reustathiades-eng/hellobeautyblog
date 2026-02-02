@@ -1,4 +1,5 @@
 ---
 title: "Hello Beauty Blog"
+translationKey: "homepage"
 description: "नवीनतम सौंदर्य उत्पाद समीक्षाएं, त्वचा की देखभाल, मेकअप, इत्र और बालों की देखभाल।"
 ---

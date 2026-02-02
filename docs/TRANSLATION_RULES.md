@@ -1,84 +1,114 @@
 # TRANSLATION RULES — HelloBeautyBlog
 > Règles OBLIGATOIRES pour que le language switcher fonctionne
+> **LIRE AVANT TOUTE CRÉATION DE CONTENU OU DE SCRIPT**
 
-## Règle fondamentale
+## Règle n°1 : TOUT contenu DOIT avoir un `translationKey`
 
-Hugo lie les pages entre langues de 2 façons :
-1. **Même chemin de fichier** (ex: `/en/blog/post.md` ↔ `/fr/blog/post.md`)
-2. **`translationKey`** (OBLIGATOIRE quand les chemins diffèrent entre langues)
+```yaml
+translationKey: "ma-cle-unique"  # OBLIGATOIRE dans CHAQUE fichier .md
+```
 
-Comme nos catégories utilisent des slugs traduits (`/en/perfumes/` ↔ `/fr/parfums/`),
-le `translationKey` est **TOUJOURS obligatoire** sauf pour `blog/` (même slug partout).
+- La clé doit être **identique dans les 14 langues**
+- La clé doit être **unique par contenu** (pas de doublon entre 2 articles différents)
+- Sans translationKey → le language switcher NE FONCTIONNE PAS
+
+## Règle n°2 : Toujours créer dans les 14 langues
+
+Quand on crée un nouveau contenu (produit, article, sous-catégorie), il faut
+le créer dans **les 14 langues en même temps**. Un article EN-only = pas de switcher.
+
+Langues : en, fr, de, es, it, pt, nl, pl, tr, ja, ko, zh, ar, hi
+
+## Règle n°3 : Dossiers traduits = `url:` explicite obligatoire
+
+Quand le dossier change entre langues (ex: `en/perfumes/` vs `fr/parfums/`),
+il faut ajouter une `url:` explicite dans le frontmatter :
+
+```yaml
+url: "/fr/parfums/femme/"  # OBLIGATOIRE quand le chemin diffère de EN
+```
 
 ---
 
-## Checklist pour CHAQUE nouveau contenu
+## Convention des translationKey par type
 
-### 1. Page de catégorie (_index.md)
+### Catégorie principale (_index.md)
+```
+translationKey: "section-{nom}"
+```
+Valeurs existantes : `section-perfumes`, `section-skincare`, `section-makeup`, `section-haircare`, `section-blog`, `section-brands`, `section-guides`
+
+### Produit parfum
+```
+translationKey: "{slug-produit}"
+```
+Exemples : `coco-mademoiselle`, `dior-sauvage`, `black-opium`
+
+### Sous-catégorie parfum
+```
+translationKey: "perfumes-{value}"
+```
+Exemples : `perfumes-women`, `perfumes-floral`, `perfumes-evening`
+
+### Article (skincare/makeup/haircare/blog)
+```
+translationKey: "{slug-en-de-l-article}"
+```
+Exemples : `benefit-stay-dont-stray-review`, `caudalie-premier-cru-eye-cream`
+
+---
+
+## Frontmatter minimal par type
+
+### Produit parfum
 ```yaml
 ---
-title: "Parfums"
-description: "..."
-translationKey: "section-perfumes"   # ← OBLIGATOIRE, identique dans les 14 langues
+title: "Coco Mademoiselle"
+translationKey: "coco-mademoiselle"
+slug: "coco-mademoiselle"
+brand: "Chanel"
+# ... autres champs
 ---
 ```
 
-Keys de référence pour les catégories :
-- `section-perfumes`
-- `section-skincare`
-- `section-makeup`
-- `section-haircare`
-- `section-blog`
-- `section-brands`
-- `section-guides`
+### Article traduit
+```yaml
+---
+title: "Benefit Stay Don't Stray - Avis"
+translationKey: "benefit-stay-dont-stray-review"
+slug: "benefit-stay-dont-stray-avis"
+# ... autres champs
+---
+```
 
-### 2. Sous-catégorie (_index.md)
+### Sous-catégorie
 ```yaml
 ---
 title: "Parfums Femme"
-translationKey: "perfumes-women"     # ← OBLIGATOIRE
-url: "/fr/parfums/femme/"            # ← OBLIGATOIRE (URL traduite explicite)
+translationKey: "perfumes-women"
+url: "/fr/parfums/femme/"
 subcategory_type: "gender"
 subcategory_value: "Women"
 ---
 ```
 
-### 3. Produit (perfume .md)
-```yaml
----
-title: "Coco Mademoiselle"
-translationKey: "coco-mademoiselle"  # ← OBLIGATOIRE, identique 14 langues
----
-```
-
-### 4. Article (skincare/makeup/haircare/blog .md)
-```yaml
----
-title: "Mon article"
-translationKey: "mon-article-key"    # ← OBLIGATOIRE si traduit dans d'autres langues
----
-```
-
 ---
 
-## Récap : quand le switcher fonctionne / ne fonctionne pas
+## Validation
 
-| Situation | Switcher | Pourquoi |
-|-----------|----------|----------|
-| Même chemin + même nom de fichier | ✅ Auto | Hugo détecte automatiquement |
-| Chemins différents + `translationKey` identique | ✅ OK | Hugo lie via la clé |
-| Chemins différents + PAS de `translationKey` | ❌ CASSÉ | Hugo ne peut pas lier |
-| `translationKey` présent EN mais pas FR | ❌ CASSÉ | La clé doit être dans TOUTES les langues |
-| Article EN sans traduction | ℹ️ Pas de switcher | Normal, il n'y a rien à lier |
-
----
-
-## Vérification rapide
-
+Lancer après chaque création de contenu :
 ```bash
-# Trouver les _index.md SANS translationKey (potentiel bug)
-find content/ -name "_index.md" -exec sh -c 'grep -qL "translationKey" "$1" && echo "❌ $1"' _ {} \;
-
-# Vérifier qu'une clé existe dans toutes les langues
-grep -rl 'translationKey: "section-perfumes"' content/
+bash /home/ubuntu/hbb/scripts/validate_translations.sh
 ```
+
+---
+
+## Erreurs fréquentes à éviter
+
+| Erreur | Conséquence | Solution |
+|--------|-------------|----------|
+| Pas de `translationKey` | Switcher cassé | Toujours ajouter la clé |
+| Clé différente entre langues | Switcher cassé | Copier-coller la même clé |
+| Clé dupliquée (2 articles avec même clé) | Hugo mélange les pages | Vérifier unicité |
+| Article créé en EN seulement | Pas de switcher | Créer dans les 14 langues |
+| Dossier traduit sans `url:` | URL incorrecte | Ajouter `url:` explicite |

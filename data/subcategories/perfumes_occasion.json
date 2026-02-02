@@ -119,6 +119,66 @@
       ],
       "seo_title": "Expert Summer Fragrance Curation",
       "seo_bottom": "Hello Beauty Blog's perfume experts curate the finest summer fragrances, featuring light citrus compositions and refreshing aquatic scents. Our selection showcases premium brands perfect for warm weather, ensuring you find the ideal fresh fragrance for sunny days and balmy evenings."
+    },
+    "Travel": {
+      "intro_title": "Perfect Travel Perfumes for Every Journey",
+      "intro": "Travel perfumes are specifically designed for portability and convenience without compromising on luxury. These compact fragrances feature leak-proof packaging, TSA-compliant sizes, and durable formulations that withstand temperature changes. From rollerball applicators to solid perfume compacts, travel perfumes ensure you maintain your signature scent wherever your adventures take you, making them essential companions for the modern traveler.",
+      "faq": [
+        {
+          "question": "What size qualifies as a travel perfume for flights?",
+          "answer": "Travel perfumes must be 3.4 oz (100ml) or smaller to comply with TSA liquid restrictions. Most travel perfumes come in 10-30ml sizes for ultimate portability."
+        },
+        {
+          "question": "Are solid perfumes better than liquid for traveling?",
+          "answer": "Solid perfumes offer excellent travel convenience as they're spill-proof and don't count toward liquid limits, though liquid travel perfumes provide stronger projection."
+        },
+        {
+          "question": "How do I prevent my travel perfume from leaking?",
+          "answer": "Choose perfumes with secure caps, consider rollerball or solid formats, and pack liquids in sealed bags. Many travel perfumes feature leak-proof designs."
+        }
+      ],
+      "seo_title": "Expert Travel Perfume Reviews",
+      "seo_bottom": "Hello Beauty Blog's fragrance experts meticulously review travel perfumes for portability, longevity, and luxury. Our comprehensive guides help you discover TSA-compliant fragrances that maintain their elegance throughout your journeys. Trust our expertise to find your perfect travel companion scent that delivers sophistication in compact, convenient formats."
+    },
+    "Wedding": {
+      "intro_title": "Perfect Wedding Perfumes for Your Special Day",
+      "intro": "Wedding perfumes require exceptional longevity, moderate sillage, and timeless elegance to complement your most precious moments. These carefully curated fragrances feature romantic florals, soft musks, and sophisticated accords that photograph beautifully and create lasting memories. From classic white florals to modern gourmand blends, wedding perfumes should enhance your natural radiance without overwhelming your guests or clashing with venue atmospheres.",
+      "faq": [
+        {
+          "question": "How long should wedding perfume last?",
+          "answer": "Wedding perfumes should offer 8-12 hours of longevity to last from ceremony through reception. Choose eau de parfum concentrations with base notes like sandalwood, vanilla, or white musk for extended wear."
+        },
+        {
+          "question": "What fragrance families work best for weddings?",
+          "answer": "Floral, oriental, and soft chypre families excel for weddings. White florals like jasmine and orange blossom, romantic roses, and creamy vanilla create perfect bridal atmospheres without being overpowering."
+        },
+        {
+          "question": "When should I apply my wedding perfume?",
+          "answer": "Apply wedding perfume 30 minutes before dressing to allow proper development. Focus on pulse points like wrists and neck, avoiding areas where jewelry or fabric might transfer the fragrance."
+        }
+      ],
+      "seo_title": "Luxury Wedding Perfumes at Hello Beauty",
+      "seo_bottom": "Hello Beauty Blog curates the finest wedding perfumes from prestigious luxury houses, featuring romantic compositions perfect for your special day. Our expert-selected collection includes timeless classics and modern masterpieces, each chosen for their exceptional quality, longevity, and romantic appeal that makes every wedding moment unforgettable."
+    },
+    "Winter": {
+      "intro_title": "Enchanting Winter Perfumes for Cold Season Elegance",
+      "intro": "Winter perfumes embrace the season's cozy intimacy with rich, warming compositions perfect for colder months. These fragrances feature deep base notes like amber, vanilla, and woods, complemented by spicy accords of cinnamon, clove, and cardamom. Oriental and gourmand families dominate winter collections, offering enhanced sillage and longevity that beautifully develops on skin during chilly weather, creating comforting olfactory experiences.",
+      "faq": [
+        {
+          "question": "What fragrance families work best for winter wear?",
+          "answer": "Oriental, woody, and gourmand families excel in winter. These compositions feature warm spices, rich vanillas, deep ambers, and cozy woods that complement cold weather and indoor heating environments perfectly."
+        },
+        {
+          "question": "Why do winter perfumes have stronger projection?",
+          "answer": "Winter fragrances are formulated with higher concentrations and heavier molecules that perform better in cold, dry air. The rich base notes provide lasting warmth and presence throughout the season."
+        },
+        {
+          "question": "How should I apply perfume during winter months?",
+          "answer": "Focus on pulse points and clothing edges during winter. The cold air requires slightly more generous application, and layering with matching body products enhances longevity and creates beautiful scent trails."
+        }
+      ],
+      "seo_title": "Expert Winter Fragrance Curation",
+      "seo_bottom": "Hello Beauty Blog's fragrance experts curate exceptional winter perfume collections, featuring luxury brands and niche houses specializing in cold-weather compositions. Our detailed reviews and seasonal guides help you discover perfect warming fragrances that capture winter's sophisticated charm and cozy elegance for discerning fragrance enthusiasts."
     }
   },
   "fr": {
@@ -241,6 +301,66 @@
       ],
       "seo_title": "Hello Beauty Blog : Experts Parfums Estivaux",
       "seo_bottom": "Hello Beauty Blog vous accompagne dans la découverte des plus beaux parfums d'été. Notre expertise en parfumerie de luxe vous guide vers les fragrances estivales les plus raffinées. Nos conseils personnalisés vous aident à trouver votre signature olfactive parfaite pour sublimer vos moments d'été avec élégance et sophistication."
+    },
+    "Travel": {
+      "intro_title": "Parfums de Voyage : Votre Signature Olfactive Nomade",
+      "intro": "Les parfums de voyage sont spécialement conçus pour accompagner vos déplacements avec élégance et praticité. Ces fragrances privilégient les formats compacts, les atomiseurs de voyage et les compositions versatiles qui s'adaptent aux différents climats. Optez pour des notes fraîches et universelles, des sillages modérés et des flacons résistants aux variations de température pour une expérience olfactive parfaite en toutes circonstances.",
+      "faq": [
+        {
+          "question": "Quelle taille de parfum choisir pour voyager en avion ?",
+          "answer": "Privilégiez les formats de 30ml maximum ou les atomiseurs rechargeables de voyage pour respecter les réglementations aériennes tout en gardant votre fragrance préférée à portée de main."
+        },
+        {
+          "question": "Quelles notes résistent mieux aux changements climatiques ?",
+          "answer": "Les notes hespéridées, marines et les accords frais s'adaptent parfaitement aux différents climats. Évitez les compositions trop lourdes qui peuvent devenir entêtantes sous la chaleur."
+        },
+        {
+          "question": "Comment protéger mon parfum pendant le transport ?",
+          "answer": "Utilisez des étuis de protection, évitez l'exposition directe au soleil et aux variations extrêmes de température. Les roll-on sont également une excellente alternative sécurisée."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Expert Parfums Voyage",
+      "seo_bottom": "Hello Beauty Blog vous guide dans la sélection des meilleurs parfums de voyage. Notre expertise vous aide à choisir les fragrances nomades idéales, alliant praticité et raffinement. Découvrez nos conseils d'experts pour voyager avec style et emporter votre signature olfactive partout dans le monde avec sérénité."
+    },
+    "Wedding": {
+      "intro_title": "Parfums de Mariage : L'Élégance pour Votre Grand Jour",
+      "intro": "Les parfums de mariage se distinguent par leur sophistication et leur longévité exceptionnelle. Ces fragrances précieuses allient notes florales délicates et accords poudrés raffinés, créant une signature olfactive mémorable. Conçus pour accompagner les moments les plus précieux, ils offrent un sillage subtil mais persistant, parfait pour cette journée inoubliable où chaque détail compte.",
+      "faq": [
+        {
+          "question": "Quelles notes privilégier pour un parfum de mariage ?",
+          "answer": "Optez pour des notes florales blanches comme la pivoine, le jasmin ou la rose, associées à des accords poudrés et musqués pour une élégance intemporelle et romantique."
+        },
+        {
+          "question": "Comment choisir l'intensité de son parfum de mariage ?",
+          "answer": "Privilégiez une eau de parfum pour sa tenue longue durée. Appliquez avec parcimonie pour un sillage délicat qui ne dominera pas dans les espaces clos."
+        },
+        {
+          "question": "Quand appliquer son parfum le jour J ?",
+          "answer": "Vaporisez votre parfum 15 minutes avant d'enfiler votre robe, sur les points de pulsation. Emportez un échantillon pour des retouches discrètes en soirée."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog : Votre Expert Parfums Mariage",
+      "seo_bottom": "Hello Beauty Blog vous guide dans l'univers des parfums de mariage avec une sélection experte de fragrances d'exception. Notre équipe de passionnés décrypte les créations les plus raffinées pour vous aider à trouver le parfum idéal qui sublimera votre jour J avec élégance et sophistication."
+    },
+    "Winter": {
+      "intro_title": "Parfums d'Hiver : L'Élégance des Saisons Froides",
+      "intro": "Les parfums d'hiver se distinguent par leur richesse et leur profondeur, parfaitement adaptés aux températures fraîches. Ces fragrances privilégient les notes boisées, ambrées et épicées qui se développent magnifiquement sur la peau en saison froide. Vanille, santal, oud et résines précieuses créent des sillages chaleureux et enveloppants, offrant réconfort et sophistication durant les mois d'hiver.",
+      "faq": [
+        {
+          "question": "Quelles notes caractérisent les parfums d'hiver ?",
+          "answer": "Les parfums d'hiver privilégient les notes chaudes et profondes : bois précieux, ambre, vanille, épices, résines et muscs. Ces accords créent des fragrances réconfortantes et sophistiquées."
+        },
+        {
+          "question": "Pourquoi choisir un parfum spécifique en hiver ?",
+          "answer": "Le froid intensifie la perception des notes riches et permet aux fragrances denses de s'épanouir naturellement. Les parfums d'hiver offrent également une sensation de chaleur et de cocooning."
+        },
+        {
+          "question": "Comment appliquer son parfum d'hiver correctement ?",
+          "answer": "Appliquez généreusement sur les points de pulsation et sous les vêtements. Les parfums d'hiver nécessitent souvent une application plus intense pour compenser l'effet du froid sur la diffusion."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog et les Parfums d'Hiver",
+      "seo_bottom": "Hello Beauty Blog sélectionne minutieusement les plus beaux parfums d'hiver, des créations niche aux grands classiques. Notre expertise vous guide vers les fragrances parfaites pour sublimer vos journées froides, avec des conseils personnalisés et des découvertes exclusives adaptées à la saison hivernale."
     }
   },
   "de": {
@@ -363,6 +483,66 @@
       ],
       "seo_title": "Luxus-Sommerdüfte bei Hello Beauty Blog",
       "seo_bottom": "Hello Beauty Blog kuratiert exklusive Sommerdüfte führender Parfumhäuser für anspruchsvolle Duftliebhaber. Unsere Experten wählen speziell leichte, erfrischende Kompositionen aus, die auch bei warmen Temperaturen elegant und sophisticated wirken. Entdecken Sie unsere handverlesene Auswahl an Premium-Sommerdüften für unvergessliche Momente."
+    },
+    "Travel": {
+      "intro_title": "Parfums für unterwegs: Ihre perfekten Reisebegleiter",
+      "intro": "Reiseparfums zeichnen sich durch ihre praktische Größe, robuste Verpackung und vielseitige Duftnoten aus. Diese kompakten Flacons passen problemlos ins Handgepäck und überstehen Temperaturschwankungen. Ideale Reisedüfte besitzen eine ausgewogene Sillage, die weder zu aufdringlich noch zu schwach ist, und harmonieren mit verschiedenen Klimazonen und kulturellen Gegebenheiten.",
+      "faq": [
+        {
+          "question": "Welche Größe sollten Reiseparfums haben?",
+          "answer": "Für Flugreisen sind 100ml die Obergrenze für Handgepäck. Praktischer sind jedoch 30ml oder 50ml Flacons, da sie leichter und platzsparender sind."
+        },
+        {
+          "question": "Welche Duftnoten eignen sich am besten für Reisen?",
+          "answer": "Frische, aquatische oder leicht blumige Noten sind ideal, da sie universell ansprechend sind und sich verschiedenen Klimazonen anpassen."
+        },
+        {
+          "question": "Wie schütze ich Parfum vor Temperaturschwankungen auf Reisen?",
+          "answer": "Bewahren Sie Parfums im Handgepäck auf, verwenden Sie Schutzhüllen und vermeiden Sie direkte Sonneneinstrahlung im Auto oder Hotelzimmer."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Reiseparfum-Expertise",
+      "seo_bottom": "Hello Beauty Blog ist Ihr vertrauensvoller Ratgeber für Reiseparfums. Unsere Experten testen und bewerten speziell Düfte für unterwegs, berücksichtigen Praktikabilität, Haltbarkeit und kulturelle Angemessenheit. Entdecken Sie unsere kuratierten Empfehlungen für jeden Reisetyp und jedes Reiseziel."
+    },
+    "Wedding": {
+      "intro_title": "Hochzeitsparfums – Der perfekte Duft für Ihren großen Tag",
+      "intro": "Hochzeitsparfums sind speziell für den bedeutsamsten Tag im Leben ausgewählt. Diese Düfte zeichnen sich durch romantische Blütennoten wie Pfingstrose, Jasmin oder Rose aus, kombiniert mit sanften Moschus- oder Sandelholz-Basen. Ein Hochzeitsparfum sollte elegant, zeitlos und nicht zu aufdringlich sein, damit es die emotionale Bedeutung des Moments unterstreicht und unvergessliche Erinnerungen schafft.",
+      "faq": [
+        {
+          "question": "Welche Duftnoten eignen sich am besten für Hochzeitsparfums?",
+          "answer": "Romantische Blütendüfte wie Rose, Jasmin, Pfingstrose und Maiglöckchen sind ideal. Sanfte Holznoten wie Sandelholz oder zarte Moschus-Akkorde verleihen Tiefe und Eleganz ohne zu dominieren."
+        },
+        {
+          "question": "Wann sollte ich mein Hochzeitsparfum vor der Feier kaufen?",
+          "answer": "Kaufen Sie Ihr Hochzeitsparfum mindestens 2-3 Monate vorher. So haben Sie Zeit zum Testen und können sicherstellen, dass der Duft perfekt zu Ihrem Hauttyp passt."
+        },
+        {
+          "question": "Wie lange hält ein gutes Hochzeitsparfum?",
+          "answer": "Hochzeitsparfums sollten 6-8 Stunden halten. Eau de Parfum oder Parfum-Konzentrationen bieten die beste Haltbarkeit für den langen Hochzeitstag ohne häufiges Nachsprühen."
+        }
+      ],
+      "seo_title": "Hochzeitsparfums bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog ist Ihr Experte für exquisite Hochzeitsparfums. Unsere kuratierte Auswahl umfasst romantische Düfte renommierter Parfumhäuser, die Ihren besonderen Tag unvergesslich machen. Vertrauen Sie auf unsere Expertise bei der Auswahl des perfekten Hochzeitsdufts für Ihre Traumhochzeit."
+    },
+    "Winter": {
+      "intro_title": "Winterdüfte für die kalte Jahreszeit",
+      "intro": "Winterparfums zeichnen sich durch warme, intensive Duftnoten aus, die perfekt zur kalten Jahreszeit passen. Diese luxuriösen Kompositionen enthalten typischerweise orientalische Akkorde, würzige Gewürze, warme Hölzer und sinnliche Amber-Noten. Vanille, Zimt, Sandelholz und Oud schaffen eine behagliche Duftwolke, die auch bei niedrigen Temperaturen optimal zur Geltung kommt und langanhaltende Sillage bietet.",
+      "faq": [
+        {
+          "question": "Welche Duftnoten sind typisch für Winterparfums?",
+          "answer": "Winterdüfte enthalten warme, intensive Noten wie Amber, Vanille, Zimt, Sandelholz, Oud und orientalische Gewürze. Diese schaffen eine behagliche, sinnliche Ausstrahlung."
+        },
+        {
+          "question": "Warum halten Winterparfums bei Kälte besser?",
+          "answer": "Winterdüfte sind konzentrierter formuliert und enthalten schwere Moleküle, die sich bei niedrigen Temperaturen langsamer verflüchtigen und dadurch länger auf der Haut bleiben."
+        },
+        {
+          "question": "Wie trägt man Winterparfums richtig auf?",
+          "answer": "Bei kaltem Wetter können Winterdüfte großzügiger aufgetragen werden. Puls-Punkte wie Handgelenke und Hals sind ideal, da die intensiven Noten mehr Raum benötigen."
+        }
+      ],
+      "seo_title": "Luxuriöse Winterdüfte bei Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog präsentiert exklusive Winterparfums von Premium-Marken. Unsere Experten kuratieren sorgfältig orientalische und würzige Duftkreationen, die perfekt für die kalte Jahreszeit geeignet sind. Entdecken Sie warme Kompositionen mit Amber, Oud und Vanille für unvergessliche Wintermomente."
     }
   },
   "es": {
@@ -485,6 +665,66 @@
       ],
       "seo_title": "Expertos en Perfumes de Verano",
       "seo_bottom": "Hello Beauty Blog es tu referencia en perfumes de verano de lujo. Nuestro equipo de expertos selecciona las mejores fragancias frescas y cítricas, ofreciendo reseñas detalladas y guías de compra especializadas en perfumería estival. Descubre las composiciones más refrescantes para la temporada de calor con nuestra curaduría experta."
+    },
+    "Travel": {
+      "intro_title": "Perfumes de Viaje: Tu Fragancia Ideal",
+      "intro": "Los perfumes de viaje son fragancias versátiles diseñadas para acompañarte en cada aventura. Estos perfumes se caracterizan por sus notas equilibradas, longevidad moderada y versatilidad olfativa que se adapta a diferentes climas y culturas. Suelen presentar composiciones frescas con toques cítricos, acordes marinos o notas aromáticas que resultan apropiadas tanto para el día como para la noche, convirtiéndose en el compañero perfecto para cualquier destino.",
+      "faq": [
+        {
+          "question": "¿Qué características debe tener un buen perfume de viaje?",
+          "answer": "Un perfume de viaje ideal debe tener notas versátiles que funcionen en diferentes climas, longevidad moderada sin ser abrumador, y una composición equilibrada que sea apropiada para múltiples ocasiones durante tu travesía."
+        },
+        {
+          "question": "¿Son mejores las fragancias frescas para viajar?",
+          "answer": "Las fragancias frescas con notas cítricas, acuáticas o aromáticas suelen ser excelentes para viajar porque se adaptan bien a diferentes temperaturas y culturas, siendo menos invasivas en espacios cerrados como aviones o hoteles."
+        },
+        {
+          "question": "¿Cómo elegir un perfume según el destino de viaje?",
+          "answer": "Para destinos cálidos, opta por fragancias frescas y ligeras. Para climas fríos, elige perfumes con mayor calidez. Para viajes de negocios, prefiere composiciones elegantes y discretas que proyecten profesionalismo."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog: Expertos en Perfumes",
+      "seo_bottom": "Hello Beauty Blog es tu referencia en perfumes de viaje de lujo. Nuestro equipo de expertos en perfumería selecciona cuidadosamente las mejores fragancias para cada tipo de travesía, ofreciéndote guías especializadas y reseñas detalladas para que encuentres el perfume ideal que te acompañe en cada destino con elegancia y sofisticación."
+    },
+    "Wedding": {
+      "intro_title": "Perfumes de Boda: Fragancias para el Día Especial",
+      "intro": "Los perfumes de boda requieren características únicas: longevidad excepcional, sillage elegante y notas que perduren en la memoria. Estas fragancias combinan acordes florales clásicos como rosa, peonía y azahar con toques de almizcle suave. La elección perfecta debe complementar el vestido nupcial y crear una huella olfativa inolvidable que acompañe cada momento de esta celebración única.",
+      "faq": [
+        {
+          "question": "¿Qué características debe tener un perfume de boda ideal?",
+          "answer": "Un perfume nupcial debe tener alta durabilidad (8-12 horas), proyección moderada pero elegante, y notas florales clásicas como rosa, jazmín o peonía que evoquen romanticismo y sofisticación sin resultar abrumadoras."
+        },
+        {
+          "question": "¿Cuándo debo aplicar el perfume el día de mi boda?",
+          "answer": "Aplica tu fragancia nupcial 20-30 minutos antes de vestirte, en puntos de pulso como muñecas y cuello. Evita rociar directamente sobre el vestido para prevenir manchas en tejidos delicados como seda o encaje."
+        },
+        {
+          "question": "¿Puedo usar un perfume nuevo el día de mi boda?",
+          "answer": "Se recomienda probar el perfume al menos 2-3 semanas antes para asegurar que no cause reacciones alérgicas y que te sientas cómoda con su evolución olfativa durante todo el día de la ceremonia."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes Nupciales de Lujo",
+      "seo_bottom": "Hello Beauty Blog es tu guía especializada en perfumes de boda de alta gama. Nuestros expertos en perfumería nupcial seleccionan las fragancias más elegantes y duraderas para tu día especial. Descubre reseñas detalladas, consejos de aplicación y las mejores opciones en perfumes para novias que harán de tu boda un recuerdo olfativo inolvidable."
+    },
+    "Winter": {
+      "intro_title": "Perfumes de Invierno para Noches Elegantes",
+      "intro": "Los perfumes de invierno se caracterizan por sus notas cálidas y envolventes que complementan perfectamente las temperaturas frías. Estas fragancias destacan por acordes amaderados, especiados y orientales, con notas de fondo como ámbar, vainilla y sándalo. Su mayor concentración y sillage pronunciado los convierte en compañeros ideales para eventos nocturnos y ocasiones especiales durante la temporada invernal.",
+      "faq": [
+        {
+          "question": "¿Qué notas caracterizan a los perfumes de invierno?",
+          "answer": "Los perfumes invernales destacan por notas cálidas como canela, clavo, ámbar, vainilla, sándalo y acordes amaderados que aportan calidez y profundidad en temperaturas frías."
+        },
+        {
+          "question": "¿Por qué los perfumes de invierno duran más?",
+          "answer": "El aire frío y seco del invierno hace que las fragancias se evaporen más lentamente, mientras que las notas de fondo densas típicas de estos perfumes ofrecen mayor longevidad."
+        },
+        {
+          "question": "¿Cuándo aplicar perfumes de invierno durante el día?",
+          "answer": "Los perfumes invernales son ideales para la noche y ocasiones especiales. Durante el día, aplícalos con moderación o elige versiones más ligeras de la misma familia olfativa."
+        }
+      ],
+      "seo_title": "Expertos en Perfumes de Invierno",
+      "seo_bottom": "Hello Beauty Blog es tu referencia especializada en perfumes de invierno de lujo. Nuestro equipo de expertos selecciona cuidadosamente las mejores fragancias invernales, ofreciéndote análisis detallados de notas olfativas, reseñas profesionales y guías de aplicación para que encuentres el perfume perfecto para cada ocasión invernal especial."
     }
   },
   "pt": {
@@ -607,6 +847,66 @@
       ],
       "seo_title": "Perfumes de Verão no Hello Beauty",
       "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes sazonais e oferecemos as melhores recomendações de fragrâncias de verão. Nossa curadoria seleciona perfumes refrescantes das melhores marcas, garantindo escolhas perfeitas para os dias quentes com análises detalhadas de cada composição olfativa."
+    },
+    "Travel": {
+      "intro_title": "Perfumes de Viagem: Fragrâncias Perfeitas para Descobrir o Mundo",
+      "intro": "Os perfumes de viagem são formulados especialmente para acompanhar suas aventuras pelo mundo. Caracterizados por frascos compactos, fórmulas duradouras e notas versáteis que se adaptam a diferentes climas, estes perfumes oferecem praticidade sem comprometer a elegância. Com concentrações otimizadas e embalagens resistentes, são ideais para levar na bagagem de mão e aplicar durante longas jornadas.",
+      "faq": [
+        {
+          "question": "Qual é o tamanho ideal para perfumes de viagem?",
+          "answer": "O tamanho ideal é entre 10ml e 30ml, respeitando as normas de líquidos na bagagem de mão (até 100ml) e oferecendo portabilidade máxima durante a viagem."
+        },
+        {
+          "question": "Como escolher a concentração certa para viagens?",
+          "answer": "Eau de Parfum é ideal para viagens longas pela durabilidade, enquanto Eau de Toilette funciona melhor em climas quentes e destinos tropicais."
+        },
+        {
+          "question": "Quais notas olfativas são melhores para viagem?",
+          "answer": "Notas frescas cítricas, aquáticas e amadeiradas são ideais, pois se adaptam bem a mudanças de clima e não são muito intensas em espaços fechados."
+        }
+      ],
+      "seo_title": "Perfumes de Viagem no Hello Beauty Blog",
+      "seo_bottom": "No Hello Beauty Blog, você encontra a seleção mais completa de perfumes de viagem com análises detalhadas sobre durabilidade, praticidade e versatilidade. Nossa expertise em fragrâncias portáteis ajuda você a escolher o companheiro olfativo perfeito para suas aventuras, com dicas exclusivas sobre aplicação e conservação durante viagens."
+    },
+    "Wedding": {
+      "intro_title": "Perfumes Perfeitos Para o Seu Casamento",
+      "intro": "Os perfumes de casamento são criações especiais que marcam o dia mais importante da sua vida. Estas fragrâncias caracterizam-se por notas florais românticas, como rosa, peônia e jasmim, combinadas com acordes suaves e duradouros. A escolha ideal deve refletir a personalidade da noiva, complementar o vestido e criar memórias olfativas inesquecíveis que perdurarão para sempre neste momento único.",
+      "faq": [
+        {
+          "question": "Qual o melhor tipo de perfume para casamento?",
+          "answer": "Perfumes com notas florais suaves, como rosa, peônia ou lírio, são ideais. Evite fragrâncias muito intensas ou provocantes, optando por composições românticas e elegantes que complementem a ocasião especial."
+        },
+        {
+          "question": "Quando aplicar o perfume no dia do casamento?",
+          "answer": "Aplique o perfume 30 minutos antes da cerimónia nos pontos de pulsação: pulsos, pescoço e atrás das orelhas. Leve o frasco para retoques durante a receção, especialmente após as danças."
+        },
+        {
+          "question": "Como escolher um perfume que dure todo o dia?",
+          "answer": "Opte por Eau de Parfum ou Parfum, com maior concentração de essência. Fragrâncias com notas de fundo amadeiradas ou almiscaradas oferecem maior longevidade, mantendo-se presentes durante toda a celebração."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Especialista em Perfumes",
+      "seo_bottom": "No Hello Beauty Blog, somos especialistas em perfumes de casamento e ajudamos noivas a encontrar a fragrância perfeita para o seu grande dia. A nossa curadoria inclui as melhores marcas de perfumaria nupcial, com análises detalhadas e conselhos personalizados para criar memórias olfativas únicas e inesquecíveis no seu casamento dos sonhos."
+    },
+    "Winter": {
+      "intro_title": "Perfumes de Inverno: Elegância e Sofisticação",
+      "intro": "Os perfumes de inverno caracterizam-se por notas mais intensas e duradouras, perfeitas para as temperaturas mais baixas. Fragrâncias com acordes amadeirados, especiados e orientais criam uma aura de calor e conforto. Notas de sândalo, canela, baunilha e âmbar proporcionam profundidade e sensualidade, enquanto os almizcares garantem longevidade excepcional durante os dias frios.",
+      "faq": [
+        {
+          "question": "O que torna um perfume ideal para o inverno?",
+          "answer": "Perfumes de inverno possuem notas mais pesadas e concentradas, como madeiras, especiarias e resinas. Estas fragrâncias têm maior longevidade e projeção, mantendo-se presentes mesmo com o frio que reduz a evaporação natural."
+        },
+        {
+          "question": "Quais são as principais famílias olfativas para inverno?",
+          "answer": "As famílias orientais, amadeiradas e especiadas são ideais para inverno. Destacam-se acordes de oud, patchouli, incenso, canela e baunilha, que conferem calor e sofisticação às composições invernais."
+        },
+        {
+          "question": "Como aplicar perfume no inverno corretamente?",
+          "answer": "No inverno, aplique o perfume em pontos de pulsação como pulsos, pescoço e atrás das orelhas. A roupa pode reter melhor a fragrância, mas teste antes para evitar manchas nos tecidos."
+        }
+      ],
+      "seo_title": "Descubra Perfumes de Inverno Exclusivos",
+      "seo_bottom": "O Hello Beauty Blog é referência em perfumaria de luxo, oferecendo análises especializadas sobre fragrâncias de inverno. Nossa curadoria seleciona os melhores perfumes sazonais, com reviews detalhadas sobre notas olfativas, longevidade e ocasiões de uso para a estação mais fria do ano."
     }
   },
   "it": {
@@ -729,6 +1029,66 @@
       ],
       "seo_title": "Profumi Estivi di Lusso",
       "seo_bottom": "Hello Beauty Blog seleziona i migliori profumi estivi delle maison più prestigiose. La nostra expertise nella profumeria di lusso ci permette di guidarvi nella scoperta delle fragranze estive più raffinate, dalle composizioni agrumate alle creazioni acquatiche più esclusive per un'estate indimenticabile."
+    },
+    "Travel": {
+      "intro_title": "Profumi da Viaggio: Eleganza in Movimento",
+      "intro": "I profumi da viaggio sono creazioni olfattive pensate per accompagnarti ovunque con stile e praticità. Caratterizzati da formati compatti, flaconi resistenti e sillage moderate, questi profumi offrono fragranze versatili che si adattano a diversi climi e culture. Le note fresche e universali, come agrumi e legni leggeri, garantiscono un'esperienza olfattiva perfetta in ogni destinazione.",
+      "faq": [
+        {
+          "question": "Quale formato è ideale per i profumi da viaggio?",
+          "answer": "I formati da 10-30ml sono perfetti per i viaggi, rispettano le normative aeree e occupano poco spazio in valigia mantenendo la qualità della fragranza originale."
+        },
+        {
+          "question": "Quali note olfattive scegliere per viaggiare?",
+          "answer": "Prediligi note fresche e versatili come agrumi, marine o legni leggeri che si adattano a diversi climi senza risultare troppo intense o inadeguate."
+        },
+        {
+          "question": "Come conservare i profumi durante il viaggio?",
+          "answer": "Mantieni i flaconi al riparo dalla luce diretta e dagli sbalzi termici, preferibilmente in beauty case rigidi per evitare rotture e preservare l'integrità della fragranza."
+        }
+      ],
+      "seo_title": "Profumi Travel: La Guida Esperta",
+      "seo_bottom": "Hello Beauty Blog è il punto di riferimento per i profumi da viaggio di lusso. I nostri esperti selezionano le migliori fragranze travel-friendly, testando formati compatti e prestazioni olfattive per garantirti consigli autorevoli sulla profumeria da viaggio più raffinata e pratica del mercato."
+    },
+    "Wedding": {
+      "intro_title": "Profumi per Matrimonio: Fragranze Indimenticabili",
+      "intro": "I profumi per matrimonio richiedono caratteristiche uniche: longevità eccezionale, sillage elegante e note olfattive memorabili. Le fragranze nuziali ideali combinano accordi floreali romantici con note di fondo persistenti, creando un'aura sofisticata che accompagna la sposa durante tutta la giornata. Scegli tra bouquet di peonie, gelsomino e rosa, arricchiti da legni preziosi e muschio bianco per un ricordo olfattivo eterno.",
+      "faq": [
+        {
+          "question": "Quanto dovrebbe durare un profumo da matrimonio?",
+          "answer": "Un profumo nuziale ideale dovrebbe durare almeno 8-10 ore, coprendo l'intera giornata dalle foto mattutine fino ai festeggiamenti serali, mantenendo intensità e carattere olfattivo costanti."
+        },
+        {
+          "question": "Quali note olfattive sono perfette per le nozze?",
+          "answer": "Le note floreali come rosa, peonia e gelsomino sono classiche per i matrimoni, spesso abbinate a legni cremosi, vaniglia o muschio bianco per creare eleganza e sensualità duratura."
+        },
+        {
+          "question": "Quando applicare il profumo il giorno del matrimonio?",
+          "answer": "Applica il profumo sui punti di pulsazione 30 minuti prima di indossare l'abito, evitando il contatto diretto con i tessuti per preservare sia la fragranza che il vestito."
+        }
+      ],
+      "seo_title": "Profumi Matrimonio Premium Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog seleziona esclusivamente profumi da matrimonio di alta profumeria, garantendo fragranze nuziali di lusso con sillage raffinato e persistenza eccezionale. La nostra expertise nella consulenza olfattiva per occasion speciali assicura la scelta perfetta per il giorno più importante, con spedizione gratuita e confezioni regalo eleganti."
+    },
+    "Winter": {
+      "intro_title": "Profumi Invernali: Fragranze per Stagioni Fredde",
+      "intro": "I profumi invernali si distinguono per la loro intensità e persistenza, caratterizzati da note calde e avvolgenti che creano un'aura di comfort durante i mesi freddi. Questi profumi spesso presentano accordi orientali, speziati e legnosi, con sfumature di ambra, vaniglia e muschio che si sposano perfettamente con l'atmosfera intima dell'inverno. La loro sillage generosa e la lunga tenuta li rendono ideali per occasioni eleganti.",
+      "faq": [
+        {
+          "question": "Quali note caratterizzano i profumi invernali?",
+          "answer": "I profumi invernali sono dominati da note calde come ambra, vaniglia, cannella, sandalo e patchouli. Questi accordi creano fragranze avvolgenti e persistenti, perfette per contrastare il freddo invernale."
+        },
+        {
+          "question": "Come applicare correttamente un profumo invernale?",
+          "answer": "Applica il profumo invernale sui punti di pulsazione: polsi, collo e dietro le orecchie. Le fragranze invernali hanno maggiore intensità, quindi bastano 2-3 spruzzi per ottenere la proiezione desiderata."
+        },
+        {
+          "question": "Perché i profumi invernali durano di più?",
+          "answer": "I profumi invernali contengono maggiori concentrazioni di note di fondo pesanti come muschio e legni, che evaporano più lentamente. Inoltre, il freddo rallenta l'evaporazione degli oli essenziali sulla pelle."
+        }
+      ],
+      "seo_title": "Profumi Invernali su Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog è la tua guida esperta nel mondo dei profumi invernali di lusso. La nostra selezione curata include le migliori fragranze della stagione fredda, con recensioni dettagliate e consigli per scegliere il profumo invernale perfetto per ogni occasione elegante e sofisticata."
     }
   },
   "nl": {
@@ -851,6 +1211,66 @@
       ],
       "seo_title": "Hello Beauty Blog Zomerparfum Expertise",
       "seo_bottom": "Hello Beauty Blog biedt deskundige reviews van de beste zomerparfums voor Nederlandse parfumliefhebbers. Onze beauty experts testen citrusgeuren, marine fragrances en lichte bloemenparfums speciaal geselecteerd voor warme zomerdagen. Ontdek jouw perfecte zomergeur met onze professionele parfumadviezen."
+    },
+    "Travel": {
+      "intro_title": "Reisparfums: Jouw Geurcompagnon Op Reis",
+      "intro": "Reisparfums zijn speciaal ontworpen voor onderweg en bieden de perfecte balans tussen portabiliteit en luxe. Deze compacte geuren kenmerken zich door hun handige formaat, lekvrije verpakking en veelzijdige geurprofielen die geschikt zijn voor verschillende klimaten en culturen. Van frisse citrusnoten tot elegante bloemige composities - reisparfums zorgen ervoor dat je altijd stijlvol geparfumeerd bent, waar je reis je ook naartoe brengt.",
+      "faq": [
+        {
+          "question": "Wat maakt een parfum geschikt voor reizen?",
+          "answer": "Reisparfums hebben een compacte verpakking, lekvrije spray, voldoen aan vliegtuigregels (onder 100ml) en bevatten veelzijdige geurnoten die geschikt zijn voor verschillende klimaten en gelegenheden tijdens je reis."
+        },
+        {
+          "question": "Welke geurtypen zijn ideaal voor reisparfums?",
+          "answer": "Frisse citrus-, aquatische en lichte bloemige geuren zijn ideaal voor reizen. Ze zijn niet overweldigend, werken goed in verschillende klimaten en zijn sociaal acceptabel in diverse culturele omgevingen."
+        },
+        {
+          "question": "Hoe bewaar ik mijn reisparfum het beste?",
+          "answer": "Bewaar reisparfums in je handbagage, bescherm tegen temperatuurschommelingen, houd ze uit direct zonlicht en controleer of de spray goed afgesloten is om lekkage te voorkomen."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog's Reisparfum Expertise",
+      "seo_bottom": "Hello Beauty Blog is jouw vertrouwde gids voor luxe reisparfums. Onze beauty-experts selecteren de beste draagbare geuren en delen waardevolle tips over parfumkeuze voor verschillende bestemmingen. Ontdek onze zorgvuldig samengestelde collectie reisparfums en reis altijd stijlvol geparfumeerd met onze professionele advies en exclusieve aanbevelingen."
+    },
+    "Wedding": {
+      "intro_title": "Betoverende Parfums voor Jouw Grote Dag",
+      "intro": "Bruiloft parfums vormen het ultieme accessoire voor de mooiste dag van je leven. Deze speciale geuren kenmerken zich door elegante, langdurige composities met romantische bloemennoten zoals roos, pioenroos en jasmijn. Wedding parfums hebben een uitstekende projectie en sillage, zodat de geur de hele dag perfect blijft zitten. Van zachte witte bloemen tot luxueuze orientaalse accenten.",
+      "faq": [
+        {
+          "question": "Hoe lang van tevoren moet ik mijn bruiloft parfum kiezen?",
+          "answer": "Test je wedding parfum minimaal 3 maanden voor de bruiloft. Dit geeft voldoende tijd om te ervaren hoe de geur op jouw huid reageert en zorgt ervoor dat je je op de grote dag zeker voelt over je keuze."
+        },
+        {
+          "question": "Welke parfumnoten zijn ideaal voor een bruiloft?",
+          "answer": "Romantische bloemennoten zoals roos, pioenroos en oranjebloesem zijn perfect voor bruiloften. Zachte musk en sandalwood geven warmte, terwijl bergamot en peer voor een frisse opening zorgen die elegant en tijdloos aanvoelt."
+        },
+        {
+          "question": "Moet mijn bruiloft parfum mat of intens zijn?",
+          "answer": "Kies voor een parfum met goede longeviteit maar niet overweldigend. Eau de parfum concentratie is ideaal voor bruiloften - sterk genoeg om de hele dag te ruiken, maar subtiel genoeg voor intieme momenten en foto's."
+        }
+      ],
+      "seo_title": "Wedding Parfums bij Hello Beauty Blog",
+      "seo_bottom": "Hello Beauty Blog is specialist in luxe wedding parfums voor de perfecte bruiloft. Onze experts selecteren romantische geuren van topmerken, ideaal voor jouw grote dag. Ontdek onze exclusieve collectie bruiloft parfums met elegante bloemennoten en langdurige composities. Professioneel advies voor de mooiste geur op je trouwdag."
+    },
+    "Winter": {
+      "intro_title": "Luxe Winterparfums voor Koude Dagen",
+      "intro": "Winterparfums kenmerken zich door warme, rijke en intense geurnoten die perfect aansluiten bij het koude seizoen. Deze parfums bevatten vaak oosterse akkoorden, warme kruiden, amber, vanille en houtachtige noten die een comfortabele, sensuele sillage creëren. De hogere concentratie van basenoten zorgt voor een langdurige geurervaring die de koude winterlucht doorprikt en je huid heerlijk verwarmt.",
+      "faq": [
+        {
+          "question": "Welke geurnoten zijn ideaal voor winterparfums?",
+          "answer": "Warme noten zoals amber, vanille, sandelhout, kaneel, patchouli en musk zijn perfect voor winter. Deze basenoten creëren een rijke, langdurige geur die goed opkomt in koude lucht."
+        },
+        {
+          "question": "Waarom zijn winterparfums zwaarder dan zomergeuren?",
+          "answer": "Koude lucht vermindert de verspreiding van geurnoten, daarom bevatten winterparfums meer intense, zware noten en hogere concentraties om dezelfde geursterkte te behouden als lichtere zomerparfums."
+        },
+        {
+          "question": "Hoe lang blijven winterparfums op de huid zitten?",
+          "answer": "Winterparfums hebben doorgaans een betere houdbaarheid door hun rijke samenstelling. Eau de Parfum concentraties blijven 6-8 uur goed ruikbaar, vooral dankzij de warme basenoten."
+        }
+      ],
+      "seo_title": "Hello Beauty's Winterparfum Expertise",
+      "seo_bottom": "Hello Beauty Blog biedt uitgebreide kennis over luxe winterparfums van topmerken. Onze experts selecteren de mooiste warme, sensuele geuren perfect voor het winterseizoen. Ontdek onze gecureerde collectie winterparfums met amber, vanille en houtachtige akkoorden voor optimale koude-dagen elegantie."
     }
   },
   "pl": {
@@ -973,6 +1393,66 @@
       ],
       "seo_title": "Hello Beauty - Eksperci Od Letnich Zapachów",
       "seo_bottom": "Hello Beauty Blog to najlepsze źródło wiedzy o letnich perfumach w Polsce. Nasi eksperci testują i recenzują najnowsze świeże kompozycje zapachowe, pomagając wybrać idealny letni zapach. Odkryj profesjonalne porady dotyczące aplikacji i trwałości letnich perfum od naszych specjalistów."
+    },
+    "Travel": {
+      "intro_title": "Perfumy Podróżne - Twoje Ulubione Zapachy Wszędzie",
+      "intro": "Perfumy podróżne to idealne rozwiązanie dla miłośników zapachów w ruchu. Charakteryzują się one kompaktowym opakowaniem, praktycznymi atomiserami oraz formułami o długotrwałej sillage. Wybierając perfumy na podróż, warto postawić na uniwersalne kompozycje kwiatowo-świeże lub drzewno-piżmowe, które sprawdzą się w różnych klimatach i okolicznościach. Miniaturki i zestawy podróżne pozwalają zachować elegancję bez względu na destynację.",
+      "faq": [
+        {
+          "question": "Jakie rozmiary perfum są idealne na podróż?",
+          "answer": "Najlepsze są miniaturki do 30ml, atomisery podróżne lub zestawy rollerball. Spełniają one wymogi bagażu podręcznego i są praktyczne w użyciu podczas podróży."
+        },
+        {
+          "question": "Które nuty zapachowe najlepiej sprawdzają się w podróży?",
+          "answer": "Uniwersalne kompozycje z nutami cytrusowymi, białymi kwiatami lub delikatnym piżmem. Unikaj zbyt intensywnych orientalnych czy aldegydowych kompozycji, które mogą przytłaczać w zamkniętych przestrzeniach."
+        },
+        {
+          "question": "Jak zabezpieczyć perfumy podczas podróży?",
+          "answer": "Używaj specjalnych etui podróżnych, plastikowych torebek zgodnych z przepisami lotniczymi i unikaj narażania perfum na ekstremalne temperatury w bagażniku czy samolocie."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Eksperci Perfum Podróżnych",
+      "seo_bottom": "Hello Beauty Blog to zaufane źródło wiedzy o perfumach podróżnych dla wymagających klientów. Nasze eksperckie recenzje miniaturek, atomiserów i zestawów podróżnych pomogą Ci wybrać idealne zapachy na każdą wyprawę. Odkryj najlepsze kompozycje zapachowe, które sprawdzą się w podróży biznesowej i wakacyjnej."
+    },
+    "Wedding": {
+      "intro_title": "Perfumy Ślubne - Zapachy na Wyjątkowy Dzień",
+      "intro": "Perfumy ślubne to kompozycje zapachowe stworzone z myślą o najbardziej wyjątkowym dniu w życiu. Charakteryzują się trwałością, elegancją i romantycznymi nutami kwiatowymi lub orientalnymi. Idealne perfumy na ślub powinny być delikatne, nieprzytłaczające, ale jednocześnie na tyle wyjątkowe, by pozostawić niezapomniane wspomnienie. Nuty białych kwiatów, piwonii, róży i jaśminu tworzą idealną bazę.",
+      "faq": [
+        {
+          "question": "Jakie nuty zapachowe najlepiej sprawdzą się w perfumach ślubnych?",
+          "answer": "Idealne są delikatne nuty kwiatowe jak piwonia, frezja, białe kwiaty, a także nuty pudrowate i lekko orientalne. Unikaj intensywnych, ciężkich kompozycji."
+        },
+        {
+          "question": "Kiedy najlepiej nałożyć perfumy przed ceremonią ślubną?",
+          "answer": "Perfumy warto nałożyć na 15-20 minut przed wyjściem, aby zapach zdążył się rozwinąć. Aplikuj na punkty pulsacyjne: nadgarstki, szyję i za uszami."
+        },
+        {
+          "question": "Czy perfumy ślubne powinny być trwałe przez cały dzień?",
+          "answer": "Tak, perfumy ślubne muszą być długotrwałe, ale nie przytłaczające. Wybieraj eau de parfum lub perfumy o wysokiej koncentracji olejków zapachowych."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Ekspert Perfum Ślubnych",
+      "seo_bottom": "Hello Beauty Blog to renomowany portal poświęcony luksusowej kosmetyce i perfumom. Nasi eksperci starannie selekcjonują najpiękniejsze perfumy ślubne od prestiżowych marek. Dzięki wieloletniemu doświadczeniu w branży beauty, pomagamy wybrać idealny zapach na najważniejszy dzień w życiu, który zostanie na zawsze w pamięci."
+    },
+    "Winter": {
+      "intro_title": "Perfumy Zimowe - Luksusowe Zapachy na Chłodne Dni",
+      "intro": "Perfumy zimowe charakteryzują się głębokimi, ciepłymi nutami, które idealnie komponują się z chłodną porą roku. Bogate kompozycje z nutami orientalnymi, drzewnymi i korzenno-balsamicznymi tworzą otulający aromat. Wanilia, amber, piżmo i drewno sandałowe dominują w zimowych kreacjach, tworząc zmysłowe i długotrwałe kompozycje. Intensywne perfumy zimowe doskonale uzupełniają eleganckie stylizacje i świąteczne okazje.",
+      "faq": [
+        {
+          "question": "Jakie nuty zapachowe dominują w perfumach zimowych?",
+          "answer": "Zimowe perfumy charakteryzują się ciepłymi nutami orientalnymi, drzewnymi i korzenno-balsamicznymi. Popularne składniki to wanilia, amber, piżmo, drewno cedrowe, cynamon i kadzidło, które tworzą otulający i długotrwały aromat."
+        },
+        {
+          "question": "Dlaczego zimą warto wybierać intensywniejsze perfumy?",
+          "answer": "W zimie chłodne powietrze osłabia projekcję zapachów, dlatego intensywniejsze kompozycje lepiej się utrzymują. Ciepłe, bogate nuty harmonizują z zimową atmosferą i warstwową odzieżą, tworząc elegancką aurę zapachową."
+        },
+        {
+          "question": "Jak długo utrzymują się zimowe perfumy na skórze?",
+          "answer": "Zimowe perfumy zazwyczaj charakteryzują się bardzo dobrą trwałością, często utrzymując się 8-12 godzin. Bogate nuty bazowe jak amber, piżmo i drewno zapewniają długotrwały efekt zapachowy na skórze."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Ekspert Perfum Zimowych",
+      "seo_bottom": "Hello Beauty Blog to renomowany portal specjalizujący się w luksusowych perfumach zimowych. Nasi eksperci testują i recenzują najlepsze zimowe kompozycje zapachowe, pomagając w wyborze idealnego aromatu na chłodne dni. Odkryj nasze profesjonalne rekomendacje perfum z ciepłymi, orientalnymi nutami."
     }
   },
   "tr": {
@@ -1095,6 +1575,66 @@
       ],
       "seo_title": "Yaz Parfümleri - Hello Beauty Blog",
       "seo_bottom": "Hello Beauty Blog olarak yaz parfümlerinde uzman rehberlik sunuyoruz. Sitrus kokular, deniz esintileri ve hafif formüllü parfümlerin incelemelerini keşfedin. Sıcak günlerin parfüm seçimi konusunda güvenilir önerilerimizi takip ederek, ideal yaz kokunuzu bulun. Lüks parfüm dünyasının yaz koleksiyonlarını Hello Beauty Blog ile keşfedin."
+    },
+    "Travel": {
+      "intro_title": "Seyahat İçin Mükemmel Parfüm Koleksiyonu",
+      "intro": "Seyahat parfümleri, hareket halindeyken tarzınızı korumanızı sağlayan özel formüllerdir. Uzun süren kalıcılığa sahip bu parfümler, küçük boyutları sayesinde bavulunuzda yer kaplamaz. Travel size parfümler, değişen iklim koşullarına dayanıklı formülasyonları ile her destinasyonda özgüveninizi artırır. Sızdırmaz ambalajları ile uçak yolculuklarında güvenle taşınabilir.",
+      "faq": [
+        {
+          "question": "Seyahat parfümleri normal parfümlerden nasıl farklıdır?",
+          "answer": "Seyahat parfümleri genellikle 30ml ve altı boyutlarda üretilir, uçak kurallarına uygun sızdırmaz ambalajlara sahiptir ve formülasyonları sıcaklık değişimlerine karşı daha dayanıklıdır."
+        },
+        {
+          "question": "Hangi parfüm notaları seyahat için en uygun?",
+          "answer": "Taze citrus notalar, hafif çiçeksi kokular ve woody bazlar seyahat için idealdir. Bu notalar farklı iklimlerde dengeli kalır ve yorucu yolculuklarda ferahlık sağlar."
+        },
+        {
+          "question": "Seyahat parfümü nasıl saklanmalı?",
+          "answer": "Seyahat parfümlerinizi doğrudan güneş ışığından uzak, serin ve kuru yerlerde saklayın. Parfüm çantasında taşırken darbelere karşı koruyucu kılıf kullanın."
+        }
+      ],
+      "seo_title": "Lüks Seyahat Parfümleri Rehberi",
+      "seo_bottom": "Hello Beauty Blog olarak seyahat parfümleri konusunda uzman içerikler sunuyoruz. En kaliteli travel size parfümleri detaylı incelemelerimizle keşfedin. Seyahat parfümü seçiminde güvenilir rehberiniz olarak, her bütçeye uygun önerileri ve profesyonel tavsiyeleri sizlerle paylaşıyoruz."
+    },
+    "Wedding": {
+      "intro_title": "Düğün Parfümleri: Özel Günün Kalıcı Kokusu",
+      "intro": "Düğün parfümleri, hayatınızın en özel gününde unutulmaz bir kokusal imza bırakmanızı sağlar. Bu özel koleksiyonda, romantik çiçek notaları, yumuşak vanilya ve musk bazlı kompozisyonlar yer alır. Kalıcılığı yüksek bu parfümler, düğün fotoğraflarınızda ve anılarınızda her zaman aynı büyüyü yaratır. Zarif, sofistike ve duygusal derinlik taşıyan formüller.",
+      "faq": [
+        {
+          "question": "Düğün parfümü seçerken nelere dikkat etmeliyim?",
+          "answer": "Kalıcılığı yüksek, aşırı güçlü olmayan parfümler tercih edin. Çiçek ve vanilya notaları romantik atmosferi destekler. Daha önce deneyerek tepki verip vermediğinizi kontrol edin."
+        },
+        {
+          "question": "Düğün parfümü ne kadar önceden sıkılmalı?",
+          "answer": "Parfümü düğün töreni başlamadan 30-45 dakika önce sıkın. Bu süre, notaların tam olarak açılması ve cildinizde doğal dengeye ulaşması için idealdir."
+        },
+        {
+          "question": "Hangi parfüm notaları düğünler için uygun?",
+          "answer": "Romantik gül, papatya, şakayık gibi çiçek notları ideal seçimdir. Vanilya, beyaz musk ve sandalağaç gibi yumuşak bazlar da düğün atmosferini mükemmel tamamlar."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Düğün Parfümü Rehberi",
+      "seo_bottom": "Hello Beauty Blog olarak, düğün parfümleri konusunda uzman rehberlik sunuyoruz. Özel günleriniz için kalıcı, romantik ve zarif parfüm önerilerimizle mükemmel kokusal deneyim yaşayın. Lüks parfüm dünyasında güvenilir adresiniz olmaya devam ediyoruz."
+    },
+    "Winter": {
+      "intro_title": "Kış Parfümleri: Soğuk Günlerin Büyüleyici Kokuları",
+      "intro": "Kış parfümleri, soğuk havanın keskinliğine karşı sıcak ve yoğun notalarıyla öne çıkar. Amber, vanilya, paçuli gibi oriental notalar, tarçın ve karanfil gibi baharat notalarıyla birleşerek uzun süre kalıcılık sağlar. Bu dönemde tercih edilen woody ve spicy parfümler, kalın giysiler altında bile kendini hissettiren projeksiyon gücüne sahiptir. Kış parfümleri genellikle eau de parfum konsantrasyonunda olup, soğuk havada parfümün buharlaşma hızının yavaşlamasından yararlanır.",
+      "faq": [
+        {
+          "question": "Kış parfümleri yazın kullanılabilir mi?",
+          "answer": "Kış parfümleri sıcak havalarda çok yoğun gelebilir. Yazın daha hafif, taze notalar tercih edilmelidir. Ancak akşam etkinlikleri için az miktarda uygulanabilir."
+        },
+        {
+          "question": "Kış parfümlerinde hangi notalar öne çıkar?",
+          "answer": "Amber, vanilya, paçuli, sandalağaç, tarçın, karanfil gibi sıcak ve baharat notalar kış parfümlerinin temelini oluşturur. Bu notalar soğukta daha iyi performans gösterir."
+        },
+        {
+          "question": "Kış parfümü nasıl uygulanmalı?",
+          "answer": "Kış parfümleri nabız noktalarına ince tabakalar halinde uygulanmalı. Soğuk havada parfüm daha az yayıldığı için normal dozdan biraz fazla kullanılabilir."
+        }
+      ],
+      "seo_title": "Hello Beauty Blog Kış Parfümü Rehberi",
+      "seo_bottom": "Hello Beauty Blog, kış parfümleri konusunda uzman rehberlik sunar. Soğuk mevsimin en uygun kokularını, kalıcılık testlerini ve uygulama püf noktalarını detaylı incelemeleriyle paylaşır. Profesyonel parfüm danışmanlarımız, kış için ideal parfüm seçiminde size yardımcı olur. Lüks parfüm dünyasının kış koleksiyonlarını keşfedin."
     }
   },
   "ar": {
@@ -1217,6 +1757,66 @@
       ],
       "seo_title": "مجموعة عطور الصيف الفاخرة",
       "seo_bottom": "يقدم موقع Hello Beauty Blog مجموعة مختارة بعناية من أرقى عطور الصيف العالمية. خبراؤنا في عالم العطور يرشدونك لاختيار العطر الصيفي المثالي الذي يناسب شخصيتك وأسلوبك. اكتشفي أحدث الإصدارات والكلاسيكيات المحبوبة من أشهر دور العطور الفرنسية والعربية المتخصصة في العطور الموسمية."
+    },
+    "Travel": {
+      "intro_title": "عطور السفر المثالية لرحلاتك الاستثنائية",
+      "intro": "عطور السفر تتميز بتركيبتها المتوازنة وثباتها المعتدل، مصممة خصيصاً لتناسب مختلف البيئات والمناخات. تتضمن نوتات منعشة كالحمضيات والأزهار البيضاء، مع لمسات خشبية دافئة تمنح شعوراً بالأناقة والانتعاش طوال اليوم. هذه العطور سهلة الارتداء ولا تسبب إزعاجاً في الأماكن المغلقة، مما يجعلها الخيار الأمثل للمسافرين الأنيقين.",
+      "faq": [
+        {
+          "question": "ما الذي يجعل العطر مناسباً للسفر؟",
+          "answer": "العطر المناسب للسفر يتميز بتركيبة متوازنة غير قوية، ونوتات منعشة تناسب مختلف المناخات، وثبات معتدل يدوم بدون إزعاج الآخرين في الطائرات أو الفنادق."
+        },
+        {
+          "question": "ما أفضل النوتات في عطور السفر؟",
+          "answer": "النوتات الحمضية كالليمون والبرغموت، الأزهار البيضاء مثل الياسمين، والخشب الأبيض تعتبر مثالية للسفر لأنها منعشة وخفيفة ومقبولة في جميع البيئات الثقافية."
+        },
+        {
+          "question": "كيف أختار حجم عطر السفر المناسب؟",
+          "answer": "اختر عبوات 30-50 مل للسفر الجوي، أو العطور المصغرة 10-15 مل للرحلات القصيرة. تأكد من أن العبوة محكمة الإغلاق ومقاومة للكسر أثناء النقل."
+        }
+      ],
+      "seo_title": "مدونة مرحبا بيوتي لعطور السفر",
+      "seo_bottom": "تقدم مدونة مرحبا بيوتي مجموعة مختارة بعناية من أفضل عطور السفر الفاخرة، مع دليل شامل لاختيار العطر المثالي لرحلاتك. نوفر معلومات مفصلة عن تركيبات العطور المناسبة للسفر، ونصائح الخبراء، وأحدث إصدارات عطور السفر من أشهر دور العطور العالمية."
+    },
+    "Wedding": {
+      "intro_title": "عطور الأعراس - روائح استثنائية ليومك المميز",
+      "intro": "عطور الأعراس تتطلب تركيبات خاصة تدوم طويلاً وتترك أثراً لا يُنسى. تتميز هذه العطور بالثبات العالي والإسقاط القوي، مع نوتات رومانسية من الياسمين والورد والفانيليا. اختاري عطرك المثالي من مجموعتنا المنتقاة بعناية من أرقى دور العطور العالمية، لتكوني محط الأنظار في يوم زفافك بأناقة وثقة تامة.",
+      "faq": [
+        {
+          "question": "ما هي أفضل النوتات العطرية لعطور الأعراس؟",
+          "answer": "النوتات الرومانسية مثل الورد البلغاري والياسمين والفانيليا والمسك الأبيض هي الأنسب لعطور الأعراس، حيث تمنح إحساساً بالأنوثة والرقي."
+        },
+        {
+          "question": "متى يجب وضع عطر العروس؟",
+          "answer": "يُفضل وضع العطر بعد الاستحمام مباشرة على البشرة الرطبة، قبل ارتداء فستان الزفاف بـ15-20 دقيقة لضمان الثبات طوال المناسبة."
+        },
+        {
+          "question": "هل يجب اختبار عطر العرس مسبقاً؟",
+          "answer": "نعم، من الضروري اختبار العطر قبل الزفاف بأسابيع للتأكد من ملاءمته لكيمياء بشرتك وعدم تسببه بأي حساسية أو تفاعل."
+        }
+      ],
+      "seo_title": "مدونة هلو بيوتي للعطور الفاخرة",
+      "seo_bottom": "مدونة هلو بيوتي تقدم أرقى مجموعة عطور أعراس من العلامات التجارية الفاخرة. خبراؤنا يختارون لك أجمل العطور التي تناسب مناسبتك المميزة، مع نصائح حصرية لاختيار العطر المثالي ليوم زفافك الذي لا يُنسى."
+    },
+    "Winter": {
+      "intro_title": "عطور الشتاء الفاخرة لإطلالة دافئة ومميزة",
+      "intro": "تتميز عطور الشتاء بتركيباتها الغنية والدافئة التي تناسب برودة الطقس وأجواء الموسم الساحرة. تحتوي هذه العطور على نوتات خشبية عميقة مثل الأود والصندل، ونوتات شرقية كالعنبر والمسك، إضافة إلى التوابل الدافئة مثل القرفة والقرنفل. تدوم هذه العطور لفترات طويلة وتترك أثراً مميزاً يناسب المناسبات الشتوية والأمسيات الرومانسية.",
+      "faq": [
+        {
+          "question": "ما هي أفضل نوتات العطر للشتاء؟",
+          "answer": "النوتات الخشبية مثل الأود والصندل، والنوتات الشرقية كالعنبر والمسك، إضافة إلى التوابل الدافئة مثل القرفة والهيل والفانيليا تعتبر الأنسب للشتاء."
+        },
+        {
+          "question": "لماذا تدوم عطور الشتاء أكثر من غيرها؟",
+          "answer": "عطور الشتاء تحتوي على تركيز أعلى من الزيوت العطرية والنوتات الثقيلة، كما أن البرودة تساعد على إبطاء تبخر العطر مما يزيد من ثباته ودوامه."
+        },
+        {
+          "question": "كيف أختار عطر الشتاء المناسب لي؟",
+          "answer": "اختاري عطراً بنوتات دافئة وغنية تناسب شخصيتك، وتأكدي من تجربته في الطقس البارد لأن العطور تتفاعل بشكل مختلف مع درجات الحرارة المنخفضة."
+        }
+      ],
+      "seo_title": "اكتشفي عطور الشتاء الفاخرة معنا",
+      "seo_bottom": "يقدم موقع Hello Beauty Blog مجموعة منتقاة بعناية من أفضل عطور الشتاء الفاخرة من العلامات التجارية العالمية والعربية المميزة. نساعدك في اختيار العطر المثالي الذي يناسب أجواء الشتاء البارد ويمنحك إطلالة دافئة وجذابة طوال الموسم."
     }
   },
   "zh": {
@@ -1339,6 +1939,66 @@
       ],
       "seo_title": "Hello Beauty Blog 夏日香水专区",
       "seo_bottom": "Hello Beauty Blog致力于为您精选最优质的夏日香水产品。我们的专业团队深入了解夏季香水的独特需求，为您推荐清新怡人、品质卓越的夏日香氛。在这里发现最适合炎热季节的完美香水，让每个夏日都充满迷人芬芳。"
+    },
+    "Travel": {
+      "intro_title": "旅行香水：随行香氛的完美选择",
+      "intro": "旅行香水专为出行场景精心设计，具备便携性强、持香时间适中的特点。这类香氛通常采用小容量包装设计，方便携带且符合航空安全规定。优质的旅行香水注重清新淡雅的香调，避免过于浓郁的气息在密闭空间中造成不适。无论是商务出差还是度假旅行，合适的旅行香水都能为您的旅程增添迷人魅力，展现优雅品味。",
+      "faq": [
+        {
+          "question": "旅行香水的容量标准是多少？",
+          "answer": "旅行香水通常为5-30ml小容量包装，符合航空液体携带规定。这种容量既能满足旅行期间的使用需求，又便于随身携带，不会增加行李负担。"
+        },
+        {
+          "question": "什么香调最适合旅行使用？",
+          "answer": "清新的柑橘调、海洋调和淡雅花香调最适合旅行。这些香调不会过于厚重，在飞机等密闭空间中使用更加舒适，同时能带来愉悦清新的感受。"
+        },
+        {
+          "question": "旅行香水如何正确保存？",
+          "answer": "旅行香水应避免高温和阳光直射，最好存放在阴凉干燥处。使用密封性好的便携包装，避免撞击和泄漏。建议选择有安全盖设计的产品确保安全携带。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 旅行香水专业指南",
+      "seo_bottom": "Hello Beauty Blog作为知名奢华美妆平台，深耕旅行香水领域多年，为您精选全球优质旅行香氛产品。我们的专业团队深入了解不同旅行场景的香氛需求，提供权威的产品评测和选购建议，助您找到完美的旅行伴侣香水，让每一次旅程都充满迷人香氛。"
+    },
+    "Wedding": {
+      "intro_title": "婚礼香水：永恒爱情的芳香见证",
+      "intro": "婚礼是人生最重要的时刻，需要一款完美的香水来记录这份珍贵回忆。婚礼香水通常以清雅花香调为主，如玫瑰、牡丹、茉莉等经典花香，搭配温柔的白麝香或淡雅木质调作为基调。这类香水拥有适中的香气投射度，既能营造浪漫氛围，又不会过于浓烈抢夺新娘的风头，让香气成为这特殊日子里最美好的陪伴。",
+      "faq": [
+        {
+          "question": "婚礼香水应该选择什么香调？",
+          "answer": "建议选择以白花香调、玫瑰或牡丹为主调的香水，搭配清淡的麝香或雪松木基调，这样既浪漫又不会过于厚重，适合整天佩戴。"
+        },
+        {
+          "question": "婚礼当天什么时候喷香水最合适？",
+          "answer": "建议在穿婚纱前30分钟喷洒，选择脉搏点如手腕、耳后轻喷。避免直接喷在婚纱上，以免留下痕迹，可在内衣或发尾轻触香水。"
+        },
+        {
+          "question": "如何选择持久度合适的婚礼香水？",
+          "answer": "婚礼香水建议选择中等持久度（4-6小时）的淡香水或香水，既能陪伴整个仪式，又不会在亲密时刻显得过于浓烈，给宾客留下优雅印象。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog 婚礼香水精选",
+      "seo_bottom": "Hello Beauty Blog致力于为每位新娘推荐最适合的婚礼香水。我们精选来自国际知名品牌的浪漫花香调香水，每一款都经过专业香水师评测，确保在您人生最重要的时刻散发迷人芬芳。专业的香水知识分享，让您轻松找到专属的婚礼香氛。"
+    },
+    "Winter": {
+      "intro_title": "冬季香水：温暖寒冬的奢华嗅觉体验",
+      "intro": "冬季香水以其浓郁深邃的香调著称，完美适应寒冷季节的低温环境。这类香水通常融合温暖的檀香木、琥珀、香草等基调，搭配肉桂、丁香等辛香料，创造出持久且富有层次的香氛。冬季香水的扩散性在低温下表现卓越，为佩戴者带来温暖舒适的嗅觉包围，是寒冬时节的理想选择。",
+      "faq": [
+        {
+          "question": "冬季香水与夏季香水有什么区别？",
+          "answer": "冬季香水浓度更高，以温暖厚重的木质调、东方调为主，而夏季香水则偏向清新的柑橘调、花香调，质地更加轻盈。"
+        },
+        {
+          "question": "如何正确使用冬季香水？",
+          "answer": "建议在脉搏跳动处如手腕、耳后喷洒。冬季可适当增加用量，因为低温会影响香水的挥发和扩散效果。"
+        },
+        {
+          "question": "哪些香调最适合冬季佩戴？",
+          "answer": "檀香木、雪松、琥珀、香草、麝香等温暖基调最适合冬季，配合肉桂、豆蔻等辛香料能带来温暖舒适的感受。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog冬季香水专家推荐",
+      "seo_bottom": "Hello Beauty Blog汇聚全球顶级冬季香水品牌，我们的专业团队深入研究冬季香氛特性，为您精选适合寒冷季节的奢华香水。从经典东方调到现代木质调，我们提供详尽的冬季香水指南，助您在寒冬中散发迷人魅力。"
     }
   },
   "ja": {
@@ -1461,6 +2121,66 @@
       ],
       "seo_title": "Hello Beauty Blogの夏香水ガイド",
       "seo_bottom": "Hello Beauty Blogでは、夏のシーンに最適な香水選びをサポートします。シトラス系からマリン系まで、暑い季節にぴったりなフレグランスの特徴や選び方を専門的な視点で解説。あなたの夏スタイルを彩る理想の一本を見つけるお手伝いをいたします。"
+    },
+    "Travel": {
+      "intro_title": "旅行に最適な香水コレクション",
+      "intro": "旅行用香水は、携帯性と持続性を兼ね備えた特別な香りです。コンパクトなアトマイザーやロールオン形式で、機内持ち込みにも対応。軽やかなシトラスノートやフレッシュなマリンアコードが人気で、旅先の新鮮な空気と調和します。長時間のフライトや観光でも香りが持続し、旅の思い出を彩る大切なパートナーとなります。",
+      "faq": [
+        {
+          "question": "旅行用香水の容量制限はありますか？",
+          "answer": "機内持ち込みでは100ml以下の容器が必要です。アトマイザーや15ml程度のトラベルサイズが最適で、TSAガイドラインにも準拠しています。"
+        },
+        {
+          "question": "旅行先の気候に合わせた香水選びのコツは？",
+          "answer": "暑い地域にはシトラスやアクアティック系、寒い地域にはウッディやオリエンタル系がおすすめ。湿度の高い場所では軽やかな香調を選びましょう。"
+        },
+        {
+          "question": "旅行用香水の保管方法は？",
+          "answer": "直射日光と高温を避け、密閉容器で保管します。飛行機では気圧変化で漏れる可能性があるため、ジップロックバッグに入れることをおすすめします。"
+        }
+      ],
+      "seo_title": "Hello Beauty Blogの旅行香水ガイド",
+      "seo_bottom": "Hello Beauty Blogでは、世界中の旅行愛好家に向けた厳選された香水コレクションをご紹介しています。香水の専門知識を活かし、携帯性・持続性・香調バランスを重視した旅行用フレグランスの選び方から保管方法まで、信頼できる情報をお届けします。"
+    },
+    "Wedding": {
+      "intro_title": "特別な日に纏う、ウェディング香水コレクション",
+      "intro": "人生で最も特別な日にふさわしいウェディング香水は、上品で洗練された香りが特徴です。フローラルノートを中心とした清楚で優雅な香調、適度な持続性、そして写真撮影時にも美しく映える上質なフレグランスを厳選。バラ、ジャスミン、オレンジブロッサムなどのクラシックな花の香りから、ムスクやアンバーで包み込まれた温かみのある香りまで、花嫁様の魅力を最大限に引き出すウェディングパフュームをご紹介します。",
+      "faq": [
+        {
+          "question": "ウェディング香水はいつから使い始めるべきですか？",
+          "answer": "結婚式の2〜3ヶ月前から使用することをお勧めします。肌との相性を確認し、当日の衣装やメイクとの調和も事前にテストできます。"
+        },
+        {
+          "question": "白いドレスに合うウェディング香水の選び方は？",
+          "answer": "清楚で上品なフローラルノートや、優しいムスクベースの香りがお勧めです。強すぎず、写真映えも考慮した品のある香調を選びましょう。"
+        },
+        {
+          "question": "ウェディング香水の適切な使用量は？",
+          "answer": "通常より控えめに、手首と首筋に軽く1〜2プッシュが理想的です。ゲストとの距離が近いため、ほのかに香る程度が上品です。"
+        }
+      ],
+      "seo_title": "ハロービューティーブログのウェディング香水ガイド",
+      "seo_bottom": "Hello Beauty Blogでは、結婚式という特別な日にふさわしいウェディング香水を厳選してご紹介しています。香水のプロフェッショナルとして、花嫁様お一人お一人の個性と魅力を最大限に引き出すフレグランス選びをサポート。上質なウェディングパフュームで、人生最高の瞬間をより美しく演出しましょう。"
+    },
+    "Winter": {
+      "intro_title": "冬に映える贅沢な香りの世界",
+      "intro": "冬の香水は、寒い季節に映える濃厚で温かみのある香りが特徴です。バニラ、アンバー、ムスク、サンダルウッドなどの重厚なベースノートが中心となり、シナモン、クローブなどのスパイシーノートがアクセントを加えます。冷たい空気の中で香りが長時間持続し、上品で洗練された印象を演出する冬専用フレグランスコレクションです。",
+      "faq": [
+        {
+          "question": "冬の香水の特徴的なノートは何ですか？",
+          "answer": "冬の香水は、アンバー、バニラ、ムスク、ウッディノート、そしてシナモンやクローブなどのスパイス系ノートが特徴的です。これらの温かみのある香りが寒い季節にぴったりです。"
+        },
+        {
+          "question": "冬に香水を付ける時の注意点はありますか？",
+          "answer": "冬は肌の温度が低く香りの拡散が緩やかになるため、普段より少し多めに付けても問題ありません。また、コートの内側や首元に付けると体温で香りが優雅に広がります。"
+        },
+        {
+          "question": "冬の香水の持続時間はどのくらいですか？",
+          "answer": "冬の香水は一般的に濃度が高く作られているため、8-12時間程度持続します。乾燥した冬の空気は香りの持ちを良くする効果もあります。"
+        }
+      ],
+      "seo_title": "上質な冬の香水選び",
+      "seo_bottom": "Hello Beauty Blogでは、厳選された冬の香水コレクションをご紹介しています。ラグジュアリーブランドから冬季限定フレグランスまで、寒い季節を彩る上品な香りを専門的な視点でご案内。あなたの冬のスタイルを格上げする理想的な香水選びをサポートいたします。"
     }
   },
   "ko": {
@@ -1563,6 +2283,86 @@
       ],
       "seo_title": "프리미엄 스포츠 향수 전문가",
       "seo_bottom": "Hello Beauty Blog는 스포츠 향수 분야의 선도적인 뷰티 플랫폼으로, 운동과 액티브 라이프스타일에 최적화된 프래그런스만을 엄선하여 소개합니다. 전문 큐레이션을 통해 검증된 스포츠 향수 브랜드와 제품 정보를 제공하며, 개인의 운동 스타일에 맞는 맞춤형 향수 추천 서비스를 제공합니다."
+    },
+    "Summer": {
+      "intro_title": "여름을 위한 완벽한 향수 컬렉션",
+      "intro": "여름 향수는 뜨거운 계절에 어울리는 가볍고 상쾌한 향조가 특징입니다. 시트러스, 아쿠아틱, 그린 노트가 주를 이루며, 톱 노트에는 레몬, 베르가못, 그레이프프루트 같은 시원한 향이 돋보입니다. 무거운 머스크나 앰버 대신 가벼운 화이트 머스크와 바다 향이 베이스를 이루어 여름날의 열기 속에서도 쾌적하고 산뜻한 느낌을 선사합니다.",
+      "faq": [
+        {
+          "question": "여름 향수는 왜 가벼운 향이 좋을까요?",
+          "answer": "높은 온도와 습도로 인해 향이 더 강하게 퍼지기 때문입니다. 무거운 향은 압박감을 주고 불쾌할 수 있어서 시트러스나 아쿠아틱 계열의 가벼운 향이 적합합니다."
+        },
+        {
+          "question": "여름 향수의 지속력은 어떤가요?",
+          "answer": "일반적으로 EDT나 EDC 농도로 제작되어 4-6시간 정도 지속됩니다. 가벼운 톱 노트가 많아 초반에는 강하지만 시간이 지날수록 자연스럽게 은은해집니다."
+        },
+        {
+          "question": "여름 향수 사용 시 주의사항이 있나요?",
+          "answer": "직사광선에 노출되면 향이 변질될 수 있으니 서늘한 곳에 보관하세요. 또한 시트러스 성분이 피부에 광민감성을 일으킬 수 있으니 외출 전 사용 시 주의가 필요합니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그 여름 향수 전문가",
+      "seo_bottom": "헬로뷰티블로그는 여름철 최적의 향수 선택을 위한 전문 가이드를 제공합니다. 시즌별 향수 트렌드 분석부터 개인 취향에 맞는 여름 향수 추천까지, 풍부한 전문 지식으로 고객의 완벽한 여름 향수 선택을 도와드립니다. 럭셔리 브랜드부터 니치 향수까지 다양한 여름 컬렉션을 만나보세요."
+    },
+    "Travel": {
+      "intro_title": "여행용 향수: 완벽한 포터블 프래그런스 컬렉션",
+      "intro": "여행용 향수는 휴대성과 실용성을 겸비한 특별한 프래그런스입니다. 작은 용량의 롤온, 스프레이, 솔리드 타입으로 제작되어 기내 반입 규정을 준수하며, 여행 중 깨지거나 새지 않는 견고한 패키징이 특징입니다. 오래 지속되는 롱라스팅 포뮬라와 다양한 상황에 어울리는 베르사타일한 향조로 구성되어, 여행지에서의 모든 순간을 우아하게 연출합니다.",
+      "faq": [
+        {
+          "question": "여행용 향수의 적정 용량은 얼마인가요?",
+          "answer": "항공사 기내 반입 규정에 따라 100ml 이하의 용량이 이상적입니다. 10-30ml의 미니 사이즈나 롤온 타입이 여행에 가장 적합하며, 여러 향을 휴대하기에도 편리합니다."
+        },
+        {
+          "question": "여행 중 향수 보관은 어떻게 해야 하나요?",
+          "answer": "직사광선과 고온을 피해 서늘한 곳에 보관하세요. 비행기 탑승 시에는 투명 지퍼백에 넣어 보안검색대를 통과하고, 호텔에서는 욕실보다는 침실 서랍에 보관하는 것이 좋습니다."
+        },
+        {
+          "question": "여행지 기후에 따라 향수 선택이 달라지나요?",
+          "answer": "네, 기후를 고려한 선택이 중요합니다. 열대지역에는 시트러스나 아쿠아틱 계열이, 추운 지역에는 우디나 스파이시 계열이 적합합니다. 습도가 높은 곳에서는 가벼운 EDT 타입을 추천합니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그의 여행용 향수 전문 가이드",
+      "seo_bottom": "헬로뷰티블로그는 프리미엄 여행용 향수 큐레이션과 전문적인 여행 프래그런스 가이드를 제공합니다. 엄선된 포터블 향수 브랜드부터 여행지별 향수 추천까지, 럭셔리 뷰티 전문가들이 여러분의 완벽한 여행 동반자를 찾아드립니다. 트래블 프래그런스의 모든 것을 경험해보세요."
+    },
+    "Wedding": {
+      "intro_title": "특별한 날을 위한 웨딩 향수 컬렉션",
+      "intro": "웨딩 퍼퓨은 인생에서 가장 소중한 순간을 위한 특별한 향입니다. 지속력이 뛰어나고 우아한 플로럴 노트와 부드러운 머스크가 조화를 이루어, 하루 종일 신부의 아름다움을 돋보이게 합니다. 로맨틱한 로즈, 피오니, 재스민 등의 꽃향과 바닐라, 샌달우드의 따뜻한 베이스 노트가 결혼식의 감동적인 순간들을 더욱 특별하게 만들어줍니다.",
+      "faq": [
+        {
+          "question": "웨딩 향수는 언제부터 뿌리는 것이 좋나요?",
+          "answer": "결혼식 2-3주 전부터 미리 사용해보시는 것을 권장합니다. 향이 피부에 잘 맞는지 확인하고, 결혼식 당일에는 30분 전에 뿌려주세요."
+        },
+        {
+          "question": "웨딩 향수의 지속시간은 얼마나 되나요?",
+          "answer": "대부분의 웨딩 퍼퓨은 8-12시간의 지속력을 자랑합니다. 오 드 퍼퓸 타입을 선택하시면 하루 종일 아름다운 향을 유지할 수 있습니다."
+        },
+        {
+          "question": "웨딩 향수를 고를 때 주의사항이 있나요?",
+          "answer": "너무 강하거나 자극적인 향보다는 우아하고 은은한 향을 선택하세요. 하객들과의 거리감을 고려해 적당한 강도의 플로럴이나 머스크 계열을 추천합니다."
+        }
+      ],
+      "seo_title": "럭셔리 웨딩 향수 전문 가이드",
+      "seo_bottom": "Hello Beauty Blog는 프리미엄 웨딩 퍼퓨의 세계적인 브랜드들을 소개합니다. 전문 퍼퓨머의 추천과 상세한 노트 분석을 통해 신부님의 특별한 날에 완벽한 향수를 찾을 수 있도록 도와드립니다. 웨딩 향수 선택부터 사용법까지 모든 정보를 제공합니다."
+    },
+    "Winter": {
+      "intro_title": "추위를 녹이는 따뜻한 겨울 향수",
+      "intro": "겨울 향수는 차가운 계절에 완벽한 따뜻함과 깊이를 선사하는 특별한 향조를 가지고 있습니다. 스파이시 노트, 우디 베이스, 앰버와 바닐라 같은 오리엔탈 향료들이 어우러져 추위 속에서도 관능적이고 포근한 향을 유지합니다. 무거운 의류와 조화를 이루며, 낮은 기온에서도 오래 지속되는 특성을 가진 윈터 프래그런스로 매혹적인 겨울을 완성해보세요.",
+      "faq": [
+        {
+          "question": "겨울에 어떤 향조의 향수를 선택해야 하나요?",
+          "answer": "겨울에는 우디, 스파이시, 오리엔탈 계열의 향조가 이상적입니다. 앰버, 바닐라, 패츌리, 샌달우드 등 따뜻하고 깊은 베이스 노트가 차가운 공기 중에서도 풍부한 향을 유지합니다."
+        },
+        {
+          "question": "겨울 향수는 다른 계절 향수와 어떻게 다른가요?",
+          "answer": "겨울 향수는 일반적으로 더 진하고 오래 지속되며, 무거운 의류와 조화를 이룹니다. 차가운 온도에서도 향이 잘 발산되도록 농도가 높고, 따뜻한 느낌의 노트들이 주를 이룹니다."
+        },
+        {
+          "question": "겨울 향수를 언제 사용하면 좋을까요?",
+          "answer": "12월부터 2월까지의 추운 계절, 홀리데이 파티나 로맨틱한 데이트, 실내 모임 등에 적합합니다. 특히 저녁 시간대나 특별한 겨울 이벤트에서 더욱 매력적인 향을 선사합니다."
+        }
+      ],
+      "seo_title": "헬로뷰티블로그 겨울 향수 컬렉션",
+      "seo_bottom": "헬로뷰티블로그는 겨울철에 완벽한 프리미엄 윈터 향수들을 엄선하여 소개합니다. 전문적인 향수 큐레이션을 통해 추운 계절에 어울리는 럭셔리 프래그런스를 발견하고, 겨울의 로맨스를 완성할 수 있는 특별한 향수 정보를 제공합니다."
     }
   },
   "hi": {
@@ -1665,6 +2465,86 @@
       ],
       "seo_title": "प्रीमियम स्पोर्ट्स परफ्यूम कलेक्शन",
       "seo_bottom": "Hello Beauty Blog पर मिलता है बेहतरीन स्पोर्ट्स परफ्यूम का विशाल संग्रह। हमारे एक्सपर्ट्स द्वारा चुने गए ये परफ्यूम आपकी सक्रिय जीवनशैली के लिए परफेक्ट हैं। ऑथेंटिक ब्रांड्स और बेस्ट प्राइस की गारंटी के साथ खरीदारी करें।"
+    },
+    "Summer": {
+      "intro_title": "गर्मियों के लिए परफेक्ट खुशबू का संग्रह",
+      "intro": "गर्मियों के मौसम में हल्के और तरोताजा करने वाले परफ्यूम का चयन करना जरूरी होता है। सिट्रस नोट्स, एक्वाटिक फ्रेगरेंस, और फ्लोरल बेस वाले इत्र इस मौसम के लिए आदर्श होते हैं। ये परफ्यूम लंबे समय तक ताजगी का एहसास देते हैं और तेज धूप में भी आपको कूल और फ्रेश रखते हैं। हमारे समर कलेक्शन में लाइट टॉप नोट्स और रिफ्रेशिंग मिडल नोट्स के साथ बेहतरीन विकल्प हैं।",
+      "faq": [
+        {
+          "question": "गर्मियों में कौन से परफ्यूम नोट्स सबसे अच्छे होते हैं?",
+          "answer": "गर्मियों में सिट्रस, मिंट, एक्वाटिक, लाइट फ्लोरल और ग्रीन नोट्स सबसे बेहतर होते हैं। ये नोट्स तरोताजा और कूलिंग इफेक्ट देते हैं।"
+        },
+        {
+          "question": "समर परफ्यूम कितनी देर तक चलते हैं?",
+          "answer": "समर परफ्यूम आमतौर पर 4-6 घंटे तक चलते हैं। हल्की कंसंट्रेशन के कारण ये ज्यादा देर तक नहीं टिकते लेकिन गर्मी में आरामदायक होते हैं।"
+        },
+        {
+          "question": "क्या हेवी परफ्यूम गर्मियों में उपयोग कर सकते हैं?",
+          "answer": "गर्मियों में हेवी और इंटेंस परफ्यूम से बचना चाहिए क्योंकि ये गर्मी में ओवरपावरिंग लग सकते हैं। लाइट और एयरी फ्रेगरेंस बेहतर विकल्प हैं।"
+        }
+      ],
+      "seo_title": "समर परफ्यूम एक्सपर्ट गाइड",
+      "seo_bottom": "Hello Beauty Blog में हमारे परफ्यूम एक्सपर्ट्स गर्मियों के लिए सबसे उपयुक्त फ्रेगरेंस का क्यूरेटेड कलेक्शन प्रस्तुत करते हैं। हमारी टीम प्रत्येक समर परफ्यूम की विस्तृत रिव्यू और गाइड प्रदान करती है ताकि आप सही चुनाव कर सकें।"
+    },
+    "Travel": {
+      "intro_title": "यात्रा के लिए परफेक्ट परफ्यूम कलेक्शन",
+      "intro": "ट्रैवल परफ्यूम वे विशेष फ्रेग्रेंसेस हैं जो यात्रा के दौरान आपकी पर्सनालिटी को निखारते हैं। ये परफ्यूम्स कॉम्पैक्ट साइज़, लॉन्ग-लास्टिंग फॉर्मूला और वर्सेटाइल नोट्स के साथ डिज़ाइन किए गए हैं। बिज़नेस ट्रिप से लेकर वेकेशन तक, हर ऑकेज़न के लिए परफेक्ट। TSA-फ्रेंडली साइज़ और स्पिल-प्रूफ पैकेजिंग के साथ ये आपके ट्रैवल एसेंशियल्स का अहम हिस्सा हैं।",
+      "faq": [
+        {
+          "question": "ट्रैवल परफ्यूम का साइज़ कितना होना चाहिए?",
+          "answer": "एयरपोर्ट सिक्यूरिटी के लिए 100ml या उससे कम साइज़ का परफ्यूम चुनें। 30ml और 50ml के मिनी साइज़ ट्रैवल के लिए आइडियल हैं।"
+        },
+        {
+          "question": "यात्रा के दौरान परफ्यूम कैसे स्टोर करें?",
+          "answer": "परफ्यूम को डायरेक्ट सनलाइट और हीट से बचाएं। ट्रैवल केस में सीलेड प्लास्टिक बैग में रखें और टेम्प्रेचर चेंजेस से बचाएं।"
+        },
+        {
+          "question": "कौन से नोट्स ट्रैवल के लिए बेस्ट हैं?",
+          "answer": "फ्रेश सिट्रस, लाइट फ्लोरल और एक्वाटिक नोट्स ट्रैवल के लिए आइडियल हैं। ये रिफ्रेशिंग होते हैं और क्लाइमेट चेंजेस को हैंडल करते हैं।"
+        }
+      ],
+      "seo_title": "हैलो ब्यूटी ब्लॉग ट्रैवल परफ्यूम एक्सपर्ट्स",
+      "seo_bottom": "हैलो ब्यूटी ब्लॉग पर मिलता है ट्रैवल परफ्यूम्स का सबसे बेस्ट कलेक्शन। हमारे एक्सपर्ट्स द्वारा सिलेक्ट किए गए TSA-फ्रेंडली परफ्यूम्स जो हर ट्रिप को बनाते हैं मेमोरेबल। ऑथेंटिक ब्रांड्स, फास्ट डिलीवरी और एक्सक्लूसिव ऑफर्स के साथ।"
+    },
+    "Wedding": {
+      "intro_title": "शादी के परफ्यूम - आपके विशेष दिन का सुगंधित साथी",
+      "intro": "शादी के अवसर पर चुना गया परफ्यूम आपकी खुशी की खुशबू बन जाता है। Wedding परफ्यूम में लॉन्ग-लास्टिंग फॉर्मुला, रोमांटिक फ्लोरल नोट्स जैसे जैस्मीन, रोज़ और वुडी बेस नोट्स होते हैं। ये सुगंधें आपके महत्वपूर्ण दिन में 8-12 घंटे तक टिकती हैं और तस्वीरों में आपका आत्मविश्वास बढ़ाती हैं।",
+      "faq": [
+        {
+          "question": "शादी के लिए कौन से perfume notes सबसे अच्छे हैं?",
+          "answer": "शादी के लिए रोमांटिक फ्लोरल नोट्स जैसे रोज़, पेओनी, जैस्मीन और मुस्क या sandalwood के बेस नोट्स आदर्श हैं।"
+        },
+        {
+          "question": "Wedding परफ्यूम कितने घंटे तक चलना चाहिए?",
+          "answer": "शादी के दिन कम से कम 8-10 घंटे परफ्यूम का टिकना जरूरी है। EDT से बेहतर EDP या परफ्यूम चुनें।"
+        },
+        {
+          "question": "शादी से पहले परफ्यूम कब और कैसे टेस्ट करें?",
+          "answer": "शादी से 2-3 महीने पहले परफ्यूम टेस्ट करें। अपनी स्किन पर 24 घंटे का patch test जरूर करवाएं।"
+        }
+      ],
+      "seo_title": "Hello Beauty Blog - Wedding परफ्यूम एक्सपर्ट",
+      "seo_bottom": "Hello Beauty Blog आपके शादी के खास दिन के लिए premium wedding परफ्यूम की expert guidance देता है। हमारी luxury beauty expertise से पाएं authentic reviews, long-lasting fragrance tips और आपके बजेट के अनुसार बेस्ट bridal perfume की सिफारिश।"
+    },
+    "Winter": {
+      "intro_title": "सर्दियों के लिए बेस्ट परफ्यूम कलेक्शन",
+      "intro": "सर्दियों की ठंडी हवाओं में गर्म और मनमोहक खुशबू आपके व्यक्तित्व को निखारती है। विंटर परफ्यूम में वुडी, ओरिएंटल, स्पाइसी और मस्क नोट्स होते हैं जो ठंड में बेहतर लॉन्गेविटी देते हैं। अंबर, वनीला, दालचीनी और चंदन जैसे रिच नोट्स सर्दियों में आपकी खुशबू को लंबे समय तक बनाए रखते हैं।",
+      "faq": [
+        {
+          "question": "सर्दियों में कौन से परफ्यूम नोट्स सबसे अच्छे होते हैं?",
+          "answer": "सर्दियों में वुडी, ओरिएंटल, स्पाइसी नोट्स जैसे अंबर, वनीला, पैचौली, चंदन और मस्क सबसे बेहतर होते हैं क्योंकि ये गर्म और लंबे समय तक टिकने वाली खुशबू देते हैं।"
+        },
+        {
+          "question": "क्या सर्दियों में हेवी परफ्यूम लगाना चाहिए?",
+          "answer": "हां, सर्दियों में हेवी और इंटेंस परफ्यूम बेहतर होते हैं। ठंड की वजह से खुशबू तेज़ी से फैलती नहीं इसलिए ज्यादा कंसंट्रेशन वाले EDT या EDP चुनें।"
+        },
+        {
+          "question": "विंटर परफ्यूम की सिलेज कैसी होती है?",
+          "answer": "विंटर परफ्यूम्स में आमतौर पर मॉडरेट टू हेवी सिलेज होती है। ठंडी हवा में खुशबू धीरे-धीरे फैलती है और लंबे समय तक आपके आसपास महसूस होती रहती है।"
+        }
+      ],
+      "seo_title": "बेस्ट विंटर परफ्यूम गाइड",
+      "seo_bottom": "Hello Beauty Blog पर मिलें सर्दियों के सबसे बेहतरीन परफ्यूम्स की जानकारी। हमारे एक्सपर्ट्स द्वारा चुने गए विंटर फ्रेग्रेंसेस, रिव्यूज और परफ्यूम टिप्स के साथ अपनी पसंदीदा ठंड की खुशबू खोजें। प्रीमियम विंटर कलेक्शन यहीं मिलेगा।"
     }
   }
 }

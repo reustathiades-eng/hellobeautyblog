@@ -1,5 +1,6 @@
 ---
 title: "Hello Beauty"
+translationKey: "homepage"
 description: "Hello Beauty is a blog about inner and outer beauty with interviews to empower you, reviews and recommendations to help you spend your beauty dollars wisely."
 keywords: ["beauty", "review", "makeup", "cosmetics", "skincare", "health", "wellness", "tips", "tutorials"]
 date: 2009-01-01
