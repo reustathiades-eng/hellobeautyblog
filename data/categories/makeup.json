@@ -6,42 +6,107 @@
       "face": {
         "title": "Face",
         "items": [
-          {"name": "Foundation", "emoji": "🎨", "url": "/en/makeup/?cat=foundation"},
-          {"name": "Concealer", "emoji": "✨", "url": "/en/makeup/?cat=concealer"},
-          {"name": "Blush", "emoji": "🌸", "url": "/en/makeup/?cat=blush"},
-          {"name": "Highlighter", "emoji": "💫", "url": "/en/makeup/?cat=highlighter"},
-          {"name": "Powder", "emoji": "☁️", "url": "/en/makeup/?cat=powder"}
+          {
+            "name": "Foundation",
+            "emoji": "🎨",
+            "url": "/en/makeup/?cat=foundation"
+          },
+          {
+            "name": "Concealer",
+            "emoji": "✨",
+            "url": "/en/makeup/?cat=concealer"
+          },
+          {
+            "name": "Blush",
+            "emoji": "🌸",
+            "url": "/en/makeup/?cat=blush"
+          },
+          {
+            "name": "Highlighter",
+            "emoji": "💫",
+            "url": "/en/makeup/?cat=highlighter"
+          },
+          {
+            "name": "Powder",
+            "emoji": "☁️",
+            "url": "/en/makeup/?cat=powder"
+          }
         ]
       },
       "eyes": {
         "title": "Eyes",
         "items": [
-          {"name": "Mascara", "emoji": "👁️", "url": "/en/makeup/?cat=mascara"},
-          {"name": "Eyeliner", "emoji": "✒️", "url": "/en/makeup/?cat=eyeliner"},
-          {"name": "Eyeshadow", "emoji": "🎨", "url": "/en/makeup/?cat=eyeshadow"},
-          {"name": "Brows", "emoji": "〰️", "url": "/en/makeup/?cat=brows"}
+          {
+            "name": "Mascara",
+            "emoji": "👁️",
+            "url": "/en/makeup/?cat=mascara"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "✒️",
+            "url": "/en/makeup/?cat=eyeliner"
+          },
+          {
+            "name": "Eyeshadow",
+            "emoji": "🎨",
+            "url": "/en/makeup/?cat=eyeshadow"
+          },
+          {
+            "name": "Brows",
+            "emoji": "〰️",
+            "url": "/en/makeup/?cat=brows"
+          }
         ]
       },
       "lips": {
         "title": "Lips",
         "items": [
-          {"name": "Lipstick", "emoji": "💄", "url": "/en/makeup/?cat=lipstick"},
-          {"name": "Lip Gloss", "emoji": "💋", "url": "/en/makeup/?cat=gloss"},
-          {"name": "Lip Liner", "emoji": "✏️", "url": "/en/makeup/?cat=lipliner"}
+          {
+            "name": "Lipstick",
+            "emoji": "💄",
+            "url": "/en/makeup/?cat=lipstick"
+          },
+          {
+            "name": "Lip Gloss",
+            "emoji": "💋",
+            "url": "/en/makeup/?cat=gloss"
+          },
+          {
+            "name": "Lip Liner",
+            "emoji": "✏️",
+            "url": "/en/makeup/?cat=lipliner"
+          }
         ]
       },
       "nails": {
         "title": "Nails",
         "items": [
-          {"name": "Nail Polish", "emoji": "💅", "url": "/en/makeup/?cat=polish"},
-          {"name": "Nail Care", "emoji": "🤍", "url": "/en/makeup/?cat=nailcare"}
+          {
+            "name": "Nail Polish",
+            "emoji": "💅",
+            "url": "/en/makeup/?cat=polish"
+          },
+          {
+            "name": "Nail Care",
+            "emoji": "🤍",
+            "url": "/en/makeup/?cat=nailcare"
+          }
         ]
       }
     },
     "faq": [
-      {"question": "How do I find my foundation shade?", "answer": "Test on your jawline in natural light. The right shade disappears into your skin seamlessly."},
-      {"question": "Should I apply primer before makeup?", "answer": "Primer extends wear time and creates a smooth base. Choose one that addresses your skin concerns."},
-      {"question": "How often should I replace mascara?", "answer": "Every 3 months to prevent bacteria buildup and ensure optimal performance."}
+      {
+        "question": "How do I find my foundation shade?",
+        "answer": "Test on your jawline in natural light. The right shade disappears into your skin seamlessly."
+      },
+      {
+        "question": "Should I apply primer before makeup?",
+        "answer": "Primer extends wear time and creates a smooth base. Choose one that addresses your skin concerns."
+      },
+      {
+        "question": "How often should I replace mascara?",
+        "answer": "Every 3 months to prevent bacteria buildup and ensure optimal performance."
+      }
     ],
     "seo_title": "About Our Makeup Collection",
     "seo_bottom": "Hello Beauty Blog's makeup section features honest reviews from professional artists. We test everything from drugstore favorites to luxury splurges to help you build your perfect collection."
@@ -53,44 +118,1453 @@
       "face": {
         "title": "Visage",
         "items": [
-          {"name": "Fond de Teint", "emoji": "🎨", "url": "/fr/maquillage/?cat=fond-de-teint"},
-          {"name": "Correcteur", "emoji": "✨", "url": "/fr/maquillage/?cat=correcteur"},
-          {"name": "Blush", "emoji": "🌸", "url": "/fr/maquillage/?cat=blush"},
-          {"name": "Highlighter", "emoji": "💫", "url": "/fr/maquillage/?cat=highlighter"},
-          {"name": "Poudre", "emoji": "☁️", "url": "/fr/maquillage/?cat=poudre"}
+          {
+            "name": "Fond de Teint",
+            "emoji": "🎨",
+            "url": "/fr/maquillage/?cat=fond-de-teint"
+          },
+          {
+            "name": "Correcteur",
+            "emoji": "✨",
+            "url": "/fr/maquillage/?cat=correcteur"
+          },
+          {
+            "name": "Blush",
+            "emoji": "🌸",
+            "url": "/fr/maquillage/?cat=blush"
+          },
+          {
+            "name": "Highlighter",
+            "emoji": "💫",
+            "url": "/fr/maquillage/?cat=highlighter"
+          },
+          {
+            "name": "Poudre",
+            "emoji": "☁️",
+            "url": "/fr/maquillage/?cat=poudre"
+          }
         ]
       },
       "eyes": {
         "title": "Yeux",
         "items": [
-          {"name": "Mascara", "emoji": "👁️", "url": "/fr/maquillage/?cat=mascara"},
-          {"name": "Eyeliner", "emoji": "✒️", "url": "/fr/maquillage/?cat=eyeliner"},
-          {"name": "Fards", "emoji": "🎨", "url": "/fr/maquillage/?cat=fards"},
-          {"name": "Sourcils", "emoji": "〰️", "url": "/fr/maquillage/?cat=sourcils"}
+          {
+            "name": "Mascara",
+            "emoji": "👁️",
+            "url": "/fr/maquillage/?cat=mascara"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "✒️",
+            "url": "/fr/maquillage/?cat=eyeliner"
+          },
+          {
+            "name": "Fards",
+            "emoji": "🎨",
+            "url": "/fr/maquillage/?cat=fards"
+          },
+          {
+            "name": "Sourcils",
+            "emoji": "〰️",
+            "url": "/fr/maquillage/?cat=sourcils"
+          }
         ]
       },
       "lips": {
         "title": "Lèvres",
         "items": [
-          {"name": "Rouge à Lèvres", "emoji": "💄", "url": "/fr/maquillage/?cat=rouge-a-levres"},
-          {"name": "Gloss", "emoji": "💋", "url": "/fr/maquillage/?cat=gloss"},
-          {"name": "Crayon", "emoji": "✏️", "url": "/fr/maquillage/?cat=crayon"}
+          {
+            "name": "Rouge à Lèvres",
+            "emoji": "💄",
+            "url": "/fr/maquillage/?cat=rouge-a-levres"
+          },
+          {
+            "name": "Gloss",
+            "emoji": "💋",
+            "url": "/fr/maquillage/?cat=gloss"
+          },
+          {
+            "name": "Crayon",
+            "emoji": "✏️",
+            "url": "/fr/maquillage/?cat=crayon"
+          }
         ]
       },
       "nails": {
         "title": "Ongles",
         "items": [
-          {"name": "Vernis", "emoji": "💅", "url": "/fr/maquillage/?cat=vernis"},
-          {"name": "Soins Ongles", "emoji": "🤍", "url": "/fr/maquillage/?cat=soins-ongles"}
+          {
+            "name": "Vernis",
+            "emoji": "💅",
+            "url": "/fr/maquillage/?cat=vernis"
+          },
+          {
+            "name": "Soins Ongles",
+            "emoji": "🤍",
+            "url": "/fr/maquillage/?cat=soins-ongles"
+          }
         ]
       }
     },
     "faq": [
-      {"question": "Comment trouver ma teinte de fond de teint ?", "answer": "Testez sur la mâchoire en lumière naturelle. La bonne teinte se fond dans votre peau."},
-      {"question": "Dois-je appliquer une base avant le maquillage ?", "answer": "La base prolonge la tenue et crée un fini lisse. Choisissez selon vos besoins."},
-      {"question": "Quand remplacer mon mascara ?", "answer": "Tous les 3 mois pour éviter les bactéries et garder une performance optimale."}
+      {
+        "question": "Comment trouver ma teinte de fond de teint ?",
+        "answer": "Testez sur la mâchoire en lumière naturelle. La bonne teinte se fond dans votre peau."
+      },
+      {
+        "question": "Dois-je appliquer une base avant le maquillage ?",
+        "answer": "La base prolonge la tenue et crée un fini lisse. Choisissez selon vos besoins."
+      },
+      {
+        "question": "Quand remplacer mon mascara ?",
+        "answer": "Tous les 3 mois pour éviter les bactéries et garder une performance optimale."
+      }
     ],
     "seo_title": "À Propos de Notre Collection Maquillage",
     "seo_bottom": "La section maquillage de Hello Beauty Blog propose des avis honnêtes de maquilleurs professionnels. Nous testons tout, des favoris drugstore aux produits de luxe."
+  },
+  "de": {
+    "intro_title": "Luxus Make-up für perfekte Looks - Hello Beauty Blog",
+    "intro": "Entdecken Sie exklusive Make-up Produkte für jeden Anlass. Von hochwertiger Foundation bis zu intensiven Lippenstiften - unsere kuratierte Auswahl verleiht Ihnen den perfekten glamourösen Look für Tag und Nacht.",
+    "subcategories": {
+      "face": {
+        "title": "Gesicht",
+        "items": [
+          {
+            "name": "Foundation",
+            "emoji": "🤍",
+            "url": "/de/make-up/?filter=foundation"
+          },
+          {
+            "name": "Concealer",
+            "emoji": "✨",
+            "url": "/de/make-up/?filter=concealer"
+          },
+          {
+            "name": "Rouge",
+            "emoji": "🌹",
+            "url": "/de/make-up/?filter=rouge"
+          },
+          {
+            "name": "Highlighter",
+            "emoji": "✨",
+            "url": "/de/make-up/?filter=highlighter"
+          },
+          {
+            "name": "Puder",
+            "emoji": "🤍",
+            "url": "/de/make-up/?filter=puder"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Augen",
+        "items": [
+          {
+            "name": "Mascara",
+            "emoji": "👁️",
+            "url": "/de/make-up/?filter=mascara"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "✏️",
+            "url": "/de/make-up/?filter=eyeliner"
+          },
+          {
+            "name": "Lidschatten",
+            "emoji": "🎨",
+            "url": "/de/make-up/?filter=lidschatten"
+          },
+          {
+            "name": "Augenbrauen",
+            "emoji": "✨",
+            "url": "/de/make-up/?filter=augenbrauen"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Lippen",
+        "items": [
+          {
+            "name": "Lippenstift",
+            "emoji": "💄",
+            "url": "/de/make-up/?filter=lippenstift"
+          },
+          {
+            "name": "Lipgloss",
+            "emoji": "✨",
+            "url": "/de/make-up/?filter=lipgloss"
+          },
+          {
+            "name": "Lipliner",
+            "emoji": "✏️",
+            "url": "/de/make-up/?filter=lipliner"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Nägel",
+        "items": [
+          {
+            "name": "Nagellack",
+            "emoji": "💅",
+            "url": "/de/make-up/?filter=nagellack"
+          },
+          {
+            "name": "Nagelpflege",
+            "emoji": "✨",
+            "url": "/de/make-up/?filter=nagelpflege"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Welche Foundation eignet sich am besten für meinen Hauttyp?",
+        "answer": "Für trockene Haut empfehlen wir feuchtigkeitsspendende Foundations mit Hyaluron. Bei öliger Haut sind matterende, langanhaltende Formeln ideal. Mischhaut profitiert von ausgleichenden Produkten mit mittlerer Deckkraft."
+      },
+      {
+        "question": "Wie trage ich Make-up richtig auf für ein natürliches Ergebnis?",
+        "answer": "Beginnen Sie mit einer guten Grundierung, tragen Sie Foundation dünn auf und verblenden Sie gut. Setzen Sie Akzente sparsam und bauen Sie die Intensität langsam auf. Verwenden Sie hochwertige Pinsel für optimale Ergebnisse."
+      },
+      {
+        "question": "Wie lange ist Make-up haltbar und wie erkenne ich abgelaufene Produkte?",
+        "answer": "Mascara sollte nach 3 Monaten ersetzt werden, Foundation und Concealer nach 12-18 Monaten. Achten Sie auf Veränderungen in Konsistenz, Geruch oder Farbe. Bewahren Sie Produkte kühl und trocken auf."
+      }
+    ],
+    "seo_title": "Warum Hello Beauty Blog für Make-up?",
+    "seo_bottom": "Hello Beauty Blog kuratiert exklusive Luxus-Make-up von internationalen Premium-Marken. Unsere Beauty-Experten testen jedes Produkt und bieten fundierte Beratung für Ihren perfekten Look. Vertrauen Sie auf unsere jahrelange Expertise."
+  },
+  "es": {
+    "intro_title": "Maquillaje de Lujo - Belleza Profesional Hello Beauty Blog",
+    "intro": "Descubre nuestra exclusiva colección de maquillaje de alta gama. Desde bases sedosas hasta labiales vibrantes, encuentra productos premium que realzan tu belleza natural con la calidad y elegancia que mereces en cada aplicación diaria.",
+    "subcategories": {
+      "face": {
+        "title": "Rostro",
+        "items": [
+          {
+            "name": "Base de Maquillaje",
+            "emoji": "🤍",
+            "url": "/es/maquillaje/?filter=base-maquillaje"
+          },
+          {
+            "name": "Corrector",
+            "emoji": "✨",
+            "url": "/es/maquillaje/?filter=corrector"
+          },
+          {
+            "name": "Rubor",
+            "emoji": "🌸",
+            "url": "/es/maquillaje/?filter=rubor"
+          },
+          {
+            "name": "Iluminador",
+            "emoji": "💫",
+            "url": "/es/maquillaje/?filter=iluminador"
+          },
+          {
+            "name": "Polvo Compacto",
+            "emoji": "🌟",
+            "url": "/es/maquillaje/?filter=polvo-compacto"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Ojos",
+        "items": [
+          {
+            "name": "Máscara de Pestañas",
+            "emoji": "👁️",
+            "url": "/es/maquillaje/?filter=mascara-pestanas"
+          },
+          {
+            "name": "Delineador",
+            "emoji": "🖤",
+            "url": "/es/maquillaje/?filter=delineador"
+          },
+          {
+            "name": "Sombra de Ojos",
+            "emoji": "🎨",
+            "url": "/es/maquillaje/?filter=sombra-ojos"
+          },
+          {
+            "name": "Cejas",
+            "emoji": "✏️",
+            "url": "/es/maquillaje/?filter=cejas"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Labios",
+        "items": [
+          {
+            "name": "Labial",
+            "emoji": "💄",
+            "url": "/es/maquillaje/?filter=labial"
+          },
+          {
+            "name": "Brillo Labial",
+            "emoji": "✨",
+            "url": "/es/maquillaje/?filter=brillo-labial"
+          },
+          {
+            "name": "Delineador de Labios",
+            "emoji": "📝",
+            "url": "/es/maquillaje/?filter=delineador-labios"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Uñas",
+        "items": [
+          {
+            "name": "Esmalte de Uñas",
+            "emoji": "💅",
+            "url": "/es/maquillaje/?filter=esmalte-unas"
+          },
+          {
+            "name": "Cuidado de Uñas",
+            "emoji": "🌿",
+            "url": "/es/maquillaje/?filter=cuidado-unas"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "¿Cómo elegir la base de maquillaje perfecta para mi tono de piel?",
+        "answer": "Prueba el producto en tu mandíbula bajo luz natural. La base correcta debe desaparecer completamente al difuminarse, sin dejar líneas visibles ni cambiar el tono natural de tu cuello."
+      },
+      {
+        "question": "¿Cuál es el orden correcto para aplicar el maquillaje facial?",
+        "answer": "Comienza con primer, luego base, corrector, polvo translúcido, rubor, iluminador y finalmente spray fijador. Este orden asegura una aplicación uniforme y mayor durabilidad del maquillaje."
+      },
+      {
+        "question": "¿Cada cuánto tiempo debo reemplazar mis productos de maquillaje?",
+        "answer": "Las máscaras duran 3-6 meses, bases líquidas 12-18 meses, polvos 2 años y labiales 1-2 años. Observa cambios en textura, olor o color como señales de reemplazo necesario."
+      }
+    ],
+    "seo_title": "Hello Beauty Blog - Tu Experto en Maquillaje Profesional",
+    "seo_bottom": "En Hello Beauty Blog seleccionamos cuidadosamente cada producto de maquillaje, ofreciendo reseñas expertas y consejos profesionales. Confía en nuestra experiencia para descubrir las mejores marcas de lujo y tendencias de belleza actuales."
+  },
+  "it": {
+    "intro_title": "Trucco di Lusso e Cosmetici Premium per il Tuo Beauty Look",
+    "intro": "Scopri la nostra selezione esclusiva di trucco di alta gamma. Dai fondotinta perfetti ai rossetti iconici, trova i cosmetici luxury che esaltano la tua bellezza naturale con formule innovative e risultati professionali impeccabili.",
+    "subcategories": {
+      "face": {
+        "title": "Viso",
+        "items": [
+          {
+            "name": "Fondotinta",
+            "emoji": "🤍",
+            "url": "/it/trucco/?filter=fondotinta"
+          },
+          {
+            "name": "Correttore",
+            "emoji": "✨",
+            "url": "/it/trucco/?filter=correttore"
+          },
+          {
+            "name": "Blush",
+            "emoji": "🌸",
+            "url": "/it/trucco/?filter=blush"
+          },
+          {
+            "name": "Illuminante",
+            "emoji": "✨",
+            "url": "/it/trucco/?filter=illuminante"
+          },
+          {
+            "name": "Cipria",
+            "emoji": "💫",
+            "url": "/it/trucco/?filter=cipria"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Occhi",
+        "items": [
+          {
+            "name": "Mascara",
+            "emoji": "👁️",
+            "url": "/it/trucco/?filter=mascara"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "🖤",
+            "url": "/it/trucco/?filter=eyeliner"
+          },
+          {
+            "name": "Ombretti",
+            "emoji": "🎨",
+            "url": "/it/trucco/?filter=ombretti"
+          },
+          {
+            "name": "Sopracciglia",
+            "emoji": "🤎",
+            "url": "/it/trucco/?filter=sopracciglia"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Labbra",
+        "items": [
+          {
+            "name": "Rossetto",
+            "emoji": "💄",
+            "url": "/it/trucco/?filter=rossetto"
+          },
+          {
+            "name": "Lucidalabbra",
+            "emoji": "✨",
+            "url": "/it/trucco/?filter=lucidalabbra"
+          },
+          {
+            "name": "Matita Labbra",
+            "emoji": "✏️",
+            "url": "/it/trucco/?filter=matita-labbra"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Unghie",
+        "items": [
+          {
+            "name": "Smalto",
+            "emoji": "💅",
+            "url": "/it/trucco/?filter=smalto"
+          },
+          {
+            "name": "Cura Unghie",
+            "emoji": "✨",
+            "url": "/it/trucco/?filter=cura-unghie"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Come scegliere il fondotinta giusto per il mio tipo di pelle?",
+        "answer": "Per scegliere il fondotinta perfetto, considera il tuo sottotono (caldo, freddo o neutro) e il tipo di pelle. Le pelli secche preferiscono formule idratanti, mentre quelle grasse necessitano di texture oil-free e lunga tenuta."
+      },
+      {
+        "question": "Qual è la differenza tra trucco drugstore e luxury?",
+        "answer": "Il trucco luxury offre formule più raffinate, ingredienti premium, maggiore pigmentazione e durata superiore. Spesso include tecnologie innovative e packaging esclusivi che giustificano l'investimento per risultati professionali."
+      },
+      {
+        "question": "Come creare un look trucco che duri tutto il giorno?",
+        "answer": "Per un trucco long-lasting usa sempre un primer, applica i prodotti a strati sottili, fissa con cipria traslucida e utilizza prodotti waterproof per occhi. Un setting spray finale sigilla il makeup per ore di perfezione."
+      }
+    ],
+    "seo_title": "Hello Beauty Blog: La Tua Guida al Trucco di Lusso",
+    "seo_bottom": "Hello Beauty Blog è il punto di riferimento per il trucco luxury in Italia. Scopri recensioni approfondite, tutorial professionali e consigli esclusivi dai migliori makeup artist per valorizzare la tua bellezza unica."
+  },
+  "pt": {
+    "intro_title": "Maquiagem de Luxo: Beleza Profissional e Sofisticação",
+    "intro": "Descubra a nossa coleção exclusiva de maquiagem premium. Desde bases sedosas a batons vibrantes, oferecemos produtos de alta qualidade que realçam sua beleza natural com elegância e sofisticação incomparáveis.",
+    "subcategories": {
+      "face": {
+        "title": "Rosto",
+        "items": [
+          {
+            "name": "Base",
+            "emoji": "🤍",
+            "url": "/pt/maquiagem/?filter=base"
+          },
+          {
+            "name": "Corretivo",
+            "emoji": "✨",
+            "url": "/pt/maquiagem/?filter=corretivo"
+          },
+          {
+            "name": "Blush",
+            "emoji": "🌸",
+            "url": "/pt/maquiagem/?filter=blush"
+          },
+          {
+            "name": "Iluminador",
+            "emoji": "💫",
+            "url": "/pt/maquiagem/?filter=iluminador"
+          },
+          {
+            "name": "Pó",
+            "emoji": "🌟",
+            "url": "/pt/maquiagem/?filter=po"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Olhos",
+        "items": [
+          {
+            "name": "Rímel",
+            "emoji": "👁️",
+            "url": "/pt/maquiagem/?filter=rimel"
+          },
+          {
+            "name": "Delineador",
+            "emoji": "🖤",
+            "url": "/pt/maquiagem/?filter=delineador"
+          },
+          {
+            "name": "Sombra",
+            "emoji": "🎨",
+            "url": "/pt/maquiagem/?filter=sombra"
+          },
+          {
+            "name": "Sobrancelha",
+            "emoji": "✏️",
+            "url": "/pt/maquiagem/?filter=sobrancelha"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Lábios",
+        "items": [
+          {
+            "name": "Batom",
+            "emoji": "💋",
+            "url": "/pt/maquiagem/?filter=batom"
+          },
+          {
+            "name": "Gloss",
+            "emoji": "✨",
+            "url": "/pt/maquiagem/?filter=gloss"
+          },
+          {
+            "name": "Lápis Labial",
+            "emoji": "📝",
+            "url": "/pt/maquiagem/?filter=lapis-labial"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Unhas",
+        "items": [
+          {
+            "name": "Esmalte",
+            "emoji": "💅",
+            "url": "/pt/maquiagem/?filter=esmalte"
+          },
+          {
+            "name": "Cuidados das Unhas",
+            "emoji": "🧴",
+            "url": "/pt/maquiagem/?filter=cuidados-unhas"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Como escolher a base ideal para meu tipo de pele?",
+        "answer": "Considere seu subtom de pele, tipo (oleosa, seca, mista) e cobertura desejada. Teste sempre na linha da mandíbula com luz natural para encontrar a cor perfeita."
+      },
+      {
+        "question": "Qual a diferença entre maquiagem drugstore e de luxo?",
+        "answer": "Produtos de luxo geralmente oferecem fórmulas mais sofisticadas, pigmentação superior, maior durabilidade e ingredientes premium que cuidam da pele enquanto embelezam."
+      },
+      {
+        "question": "Como fazer a maquiagem durar o dia todo?",
+        "answer": "Use primer, fixe com pó translúcido, aplique produtos em camadas finas e finalize com spray fixador. A preparação da pele é fundamental para longevidade."
+      }
+    ],
+    "seo_title": "Hello Beauty Blog: Sua Referência em Maquiagem Premium",
+    "seo_bottom": "No Hello Beauty Blog, curamos os melhores produtos de maquiagem luxury do mercado. Nossa expertise garante recomendações confiáveis para elevar sua rotina de beleza com sofisticação e qualidade excepcional."
+  },
+  "nl": {
+    "intro_title": "Luxe Make-up van Topmerken voor Perfecte Look",
+    "intro": "Ontdek onze exclusieve make-up collectie met premium foundations, oogschaduw paletten en lipsticks van wereldberoemde merken. Van natuurlijke dagelijkse looks tot glamoureuze avondstijlen - vind jouw perfecte beauty essentials bij Hello Beauty Blog.",
+    "subcategories": {
+      "face": {
+        "title": "Gezicht",
+        "items": [
+          {
+            "name": "Foundation",
+            "emoji": "🤍",
+            "url": "/nl/make-up/?filter=foundation"
+          },
+          {
+            "name": "Concealer",
+            "emoji": "✨",
+            "url": "/nl/make-up/?filter=concealer"
+          },
+          {
+            "name": "Blush",
+            "emoji": "🌸",
+            "url": "/nl/make-up/?filter=blush"
+          },
+          {
+            "name": "Highlighter",
+            "emoji": "💎",
+            "url": "/nl/make-up/?filter=highlighter"
+          },
+          {
+            "name": "Poeder",
+            "emoji": "🌟",
+            "url": "/nl/make-up/?filter=poeder"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Ogen",
+        "items": [
+          {
+            "name": "Mascara",
+            "emoji": "👁️",
+            "url": "/nl/make-up/?filter=mascara"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "🖤",
+            "url": "/nl/make-up/?filter=eyeliner"
+          },
+          {
+            "name": "Oogschaduw",
+            "emoji": "🎨",
+            "url": "/nl/make-up/?filter=oogschaduw"
+          },
+          {
+            "name": "Wenkbrauwen",
+            "emoji": "🤎",
+            "url": "/nl/make-up/?filter=wenkbrauwen"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Lippen",
+        "items": [
+          {
+            "name": "Lipstick",
+            "emoji": "💄",
+            "url": "/nl/make-up/?filter=lipstick"
+          },
+          {
+            "name": "Lip Gloss",
+            "emoji": "💋",
+            "url": "/nl/make-up/?filter=lip-gloss"
+          },
+          {
+            "name": "Lip Liner",
+            "emoji": "✏️",
+            "url": "/nl/make-up/?filter=lip-liner"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Nagels",
+        "items": [
+          {
+            "name": "Nagellak",
+            "emoji": "💅",
+            "url": "/nl/make-up/?filter=nagellak"
+          },
+          {
+            "name": "Nagelzorg",
+            "emoji": "🌺",
+            "url": "/nl/make-up/?filter=nagelzorg"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Welke foundation past het beste bij mijn huidtype?",
+        "answer": "Voor een droge huid kies je een hydraterende foundation, bij een vette huid een matte formule. Combinatiehuid heeft baat bij een semi-matte foundation met medium dekking."
+      },
+      {
+        "question": "Hoe lang houdt luxe make-up gemiddeld?",
+        "answer": "Hoogwaardige make-up producten hebben meestal een houdbaarheid van 12-24 maanden na opening. Mascara vervang je om hygiënische redenen het beste elke 3-6 maanden."
+      },
+      {
+        "question": "Wat zijn de belangrijkste make-up tools voor beginners?",
+        "answer": "Start met een foundation brush of beauty blender, een fluffy blending brush voor oogschaduw, een mascara en een universele lip- en wangkleur voor een complete basis look."
+      }
+    ],
+    "seo_title": "Waarom Kiezen voor Hello Beauty Blog Make-up",
+    "seo_bottom": "Hello Beauty Blog selecteert zorgvuldig de beste luxe make-up merken voor onze Nederlandse klanten. Van professionele beauty tips tot exclusieve producten - wij helpen jou de perfecte look te creëren."
+  },
+  "pl": {
+    "intro_title": "Luksusowy Makijaż - Odkryj Najlepsze Kosmetyki Beauty",
+    "intro": "Odkryj świat luksusowego makijażu w Hello Beauty Blog. Prezentujemy najwyższej jakości kosmetyki do twarzy, oczu i ust. Profesjonalne produkty renomowanych marek dla perfekcyjnego wyglądu każdego dnia.",
+    "subcategories": {
+      "face": {
+        "title": "Twarz",
+        "items": [
+          {
+            "name": "Podkład",
+            "emoji": "🧴",
+            "url": "/pl/makijaz/?filter=podklad"
+          },
+          {
+            "name": "Korektor",
+            "emoji": "✨",
+            "url": "/pl/makijaz/?filter=korektor"
+          },
+          {
+            "name": "Róż",
+            "emoji": "🌸",
+            "url": "/pl/makijaz/?filter=roz"
+          },
+          {
+            "name": "Rozświetlacz",
+            "emoji": "💎",
+            "url": "/pl/makijaz/?filter=rozswietlacz"
+          },
+          {
+            "name": "Puder",
+            "emoji": "🪶",
+            "url": "/pl/makijaz/?filter=puder"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Oczy",
+        "items": [
+          {
+            "name": "Tusz do rzęs",
+            "emoji": "👁️",
+            "url": "/pl/makijaz/?filter=tusz-do-rzes"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "✏️",
+            "url": "/pl/makijaz/?filter=eyeliner"
+          },
+          {
+            "name": "Cień do powiek",
+            "emoji": "🎨",
+            "url": "/pl/makijaz/?filter=cien-do-powiek"
+          },
+          {
+            "name": "Brwi",
+            "emoji": "🖌️",
+            "url": "/pl/makijaz/?filter=brwi"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Usta",
+        "items": [
+          {
+            "name": "Szminka",
+            "emoji": "💄",
+            "url": "/pl/makijaz/?filter=szminka"
+          },
+          {
+            "name": "Błyszczyk",
+            "emoji": "✨",
+            "url": "/pl/makijaz/?filter=blyszczyk"
+          },
+          {
+            "name": "Konturówka",
+            "emoji": "📝",
+            "url": "/pl/makijaz/?filter=konturowka"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Paznokcie",
+        "items": [
+          {
+            "name": "Lakier do paznokci",
+            "emoji": "💅",
+            "url": "/pl/makijaz/?filter=lakier-do-paznokci"
+          },
+          {
+            "name": "Pielęgnacja paznokci",
+            "emoji": "🌿",
+            "url": "/pl/makijaz/?filter=pielegnacja-paznokci"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Jak dobrać odpowiedni odcień podkładu do swojej karnacji?",
+        "answer": "Najlepiej przetestować podkład na linii żuchwy przy naturalnym świetle. Odpowiedni odcień powinien idealnie wtopić się w skórę bez widocznych granic. Warto również uwzględnić undertone skóry - ciepły, chłodny lub neutralny."
+      },
+      {
+        "question": "Jakie kosmetyki do makijażu są niezbędne dla początkujących?",
+        "answer": "Podstawowy zestaw powinien zawierać: podkład dopasowany do karnacji, korektor, tusz do rzęs, neutralny cień do powiek, róż oraz szminkę lub błyszczyk. Te produkty pozwolą stworzyć naturalne, codzienne makijaże."
+      },
+      {
+        "question": "Jak długo można używać kosmetyków do makijażu po otwarciu?",
+        "answer": "Tusz do rzęs należy wymieniać co 3 miesiące, podkłady i korektory można używać 12-18 miesięcy, a cienie do powiek i róże nawet 2-3 lata. Ważne jest przechowywanie kosmetyków w odpowiednich warunkach i obserwowanie zmian zapachu czy konsystencji."
+      }
+    ],
+    "seo_title": "Dlaczego Hello Beauty Blog to Twój Przewodnik po Makijażu",
+    "seo_bottom": "Hello Beauty Blog to ekspert w dziedzinie luksusowych kosmetyków do makijażu. Nasze recenzje, porady i przewodniki pomagają odkryć najlepsze produkty beauty dla każdej kobiety, gwarantując profesjonalne rezultaty każdego dnia."
+  },
+  "tr": {
+    "intro_title": "Lüks Makyaj Koleksiyonları ile Güzelliğinizi Keşfedin",
+    "intro": "Hello Beauty Blog'da dünyaca ünlü markaların en prestijli makyaj ürünleri sizi bekliyor. Premium kalitedeki fondöten, ruj, rimel ve daha fazlasıyla doğal güzelliğinizi öne çıkarın ve unutulmaz bir görünüm yakalayın.",
+    "subcategories": {
+      "face": {
+        "title": "Yüz Makyajı",
+        "items": [
+          {
+            "name": "Fondöten",
+            "emoji": "🤍",
+            "url": "/tr/makyaj/?filter=fondoten"
+          },
+          {
+            "name": "Kapatıcı",
+            "emoji": "✨",
+            "url": "/tr/makyaj/?filter=kapatici"
+          },
+          {
+            "name": "Allık",
+            "emoji": "🌸",
+            "url": "/tr/makyaj/?filter=allik"
+          },
+          {
+            "name": "Aydınlatıcı",
+            "emoji": "💫",
+            "url": "/tr/makyaj/?filter=aydinlatici"
+          },
+          {
+            "name": "Pudra",
+            "emoji": "🌟",
+            "url": "/tr/makyaj/?filter=pudra"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "Göz Makyajı",
+        "items": [
+          {
+            "name": "Rimel",
+            "emoji": "👁️",
+            "url": "/tr/makyaj/?filter=rimel"
+          },
+          {
+            "name": "Eyeliner",
+            "emoji": "👀",
+            "url": "/tr/makyaj/?filter=eyeliner"
+          },
+          {
+            "name": "Göz Farı",
+            "emoji": "🎨",
+            "url": "/tr/makyaj/?filter=goz-fari"
+          },
+          {
+            "name": "Kaş Ürünleri",
+            "emoji": "😍",
+            "url": "/tr/makyaj/?filter=kas-urunleri"
+          }
+        ]
+      },
+      "lips": {
+        "title": "Dudak Makyajı",
+        "items": [
+          {
+            "name": "Ruj",
+            "emoji": "💋",
+            "url": "/tr/makyaj/?filter=ruj"
+          },
+          {
+            "name": "Dudak Parlatıcısı",
+            "emoji": "💕",
+            "url": "/tr/makyaj/?filter=dudak-parlaticisi"
+          },
+          {
+            "name": "Dudak Kalemi",
+            "emoji": "💄",
+            "url": "/tr/makyaj/?filter=dudak-kalemi"
+          }
+        ]
+      },
+      "nails": {
+        "title": "Tırnak Bakımı",
+        "items": [
+          {
+            "name": "Oje",
+            "emoji": "💅",
+            "url": "/tr/makyaj/?filter=oje"
+          },
+          {
+            "name": "Tırnak Bakım",
+            "emoji": "✋",
+            "url": "/tr/makyaj/?filter=tirnak-bakim"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Hangi fondöten tonu benim için uygun?",
+        "answer": "Boyun ve çene hattınıza uygun tonu seçin. Doğal ışıkta test edin ve cilt tipinize göre mat veya nemli formül tercih edin."
+      },
+      {
+        "question": "Makyaj ürünlerimin raf ömrü ne kadar?",
+        "answer": "Rimel 3-6 ay, fondöten 12-18 ay, pudra ürünleri 2 yıl kullanılabilir. Açılış tarihini not alın ve kokusu değişenleri atın."
+      },
+      {
+        "question": "Hassas ciltler için hangi makyaj ürünlerini önerirsiniz?",
+        "answer": "Hipoalerjenik, paraben ve parfüm içermeyen ürünleri tercih edin. Mineral bazlı makyaj ürünleri hassas ciltler için idealdir."
+      }
+    ],
+    "seo_title": "Hello Beauty Blog Makyaj Uzmanlığı",
+    "seo_bottom": "Hello Beauty Blog, lüks güzellik dünyasının en seçkin makyaj markalarını sizlerle buluşturuyor. Uzman ekibimizin önerileri ve detaylı ürün incelemeleriyle mükemmel makyajın sırrını keşfedin ve güzellik rutininizi dönüştürün."
+  },
+  "ar": {
+    "intro_title": "اكتشفي عالم المكياج الفاخر مع أحدث صيحات الجمال",
+    "intro": "استكشفي مجموعتنا المميزة من منتجات المكياج الفاخرة التي تناسب جميع أنواع البشرة. من كريمات الأساس المثالية إلى أحمر الشفاه الساحر، نقدم لكِ كل ما تحتاجينه لإطلالة مثالية تعكس جمالكِ الطبيعي وثقتكِ بنفسكِ.",
+    "subcategories": {
+      "face": {
+        "title": "مكياج الوجه",
+        "items": [
+          {
+            "name": "كريم الأساس",
+            "emoji": "🤍",
+            "url": "/ar/makeup/?filter=كريم-الاساس"
+          },
+          {
+            "name": "الكونسيلر",
+            "emoji": "✨",
+            "url": "/ar/makeup/?filter=كونسيلر"
+          },
+          {
+            "name": "أحمر الخدود",
+            "emoji": "🌸",
+            "url": "/ar/makeup/?filter=احمر-الخدود"
+          },
+          {
+            "name": "الهايلايتر",
+            "emoji": "💎",
+            "url": "/ar/makeup/?filter=هايلايتر"
+          },
+          {
+            "name": "البودرة",
+            "emoji": "🌙",
+            "url": "/ar/makeup/?filter=بودرة"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "مكياج العيون",
+        "items": [
+          {
+            "name": "الماسكارا",
+            "emoji": "👁️",
+            "url": "/ar/makeup/?filter=ماسكارا"
+          },
+          {
+            "name": "كحل العيون",
+            "emoji": "🖤",
+            "url": "/ar/makeup/?filter=كحل"
+          },
+          {
+            "name": "ظلال العيون",
+            "emoji": "🎨",
+            "url": "/ar/makeup/?filter=ظلال-العيون"
+          },
+          {
+            "name": "تحديد الحواجب",
+            "emoji": "✏️",
+            "url": "/ar/makeup/?filter=حواجب"
+          }
+        ]
+      },
+      "lips": {
+        "title": "مكياج الشفاه",
+        "items": [
+          {
+            "name": "أحمر الشفاه",
+            "emoji": "💋",
+            "url": "/ar/makeup/?filter=احمر-شفاه"
+          },
+          {
+            "name": "ملمع الشفاه",
+            "emoji": "✨",
+            "url": "/ar/makeup/?filter=ملمع-شفاه"
+          },
+          {
+            "name": "محدد الشفاه",
+            "emoji": "📍",
+            "url": "/ar/makeup/?filter=محدد-شفاه"
+          }
+        ]
+      },
+      "nails": {
+        "title": "مكياج الأظافر",
+        "items": [
+          {
+            "name": "طلاء الأظافر",
+            "emoji": "💅",
+            "url": "/ar/makeup/?filter=طلاء-اظافر"
+          },
+          {
+            "name": "العناية بالأظافر",
+            "emoji": "🌟",
+            "url": "/ar/makeup/?filter=عناية-اظافر"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "كيف أختار لون كريم الأساس المناسب لبشرتي؟",
+        "answer": "اختبري اللون على منطقة الفك أو المعصم في الإضاءة الطبيعية. اللون الصحيح يجب أن يختفي على بشرتكِ دون ترك خط واضح ويناسب لون رقبتكِ."
+      },
+      {
+        "question": "ما هي أفضل طريقة لتطبيق ظلال العيون للمبتدئات؟",
+        "answer": "ابدئي بلون فاتح على كامل الجفن، ثم طبقي لون متوسط في ثنية العين، وأخيراً لون داكن في الزاوية الخارجية مع المزج الجيد بين الألوان."
+      },
+      {
+        "question": "كم مدة صلاحية منتجات المكياج؟",
+        "answer": "الماسكارا وكحل العيون 3-6 أشهر، كريم الأساس والكونسيلر 12-18 شهر، أحمر الشفاه سنتين، وظلال العيون والبودرة 2-3 سنوات عند التخزين الصحيح."
+      }
+    ],
+    "seo_title": "خبراء الجمال في هيلو بيوتي بلوق",
+    "seo_bottom": "في هيلو بيوتي بلوق، نقدم لكِ أفضل منتجات المكياج الفاخرة من علامات تجارية عالمية موثوقة. خبراؤنا في الجمال يختارون بعناية كل منتج لضمان الجودة العالية والنتائج المثالية التي تستحقينها."
+  },
+  "zh": {
+    "intro_title": "奢华彩妆世界 - 专业美妆产品精选推荐",
+    "intro": "探索Hello Beauty Blog精心策划的奢华彩妆系列，汇聚国际顶级品牌底妆、眼妆、唇妆及美甲产品。专业美妆师推荐，助您打造完美妆容，展现独特魅力与优雅气质。",
+    "subcategories": {
+      "face": {
+        "title": "面部彩妆",
+        "items": [
+          {
+            "name": "粉底液",
+            "emoji": "🤍",
+            "url": "/zh/makeup/?filter=粉底液"
+          },
+          {
+            "name": "遮瑕膏",
+            "emoji": "✨",
+            "url": "/zh/makeup/?filter=遮瑕膏"
+          },
+          {
+            "name": "腮红",
+            "emoji": "🌸",
+            "url": "/zh/makeup/?filter=腮红"
+          },
+          {
+            "name": "高光粉",
+            "emoji": "✨",
+            "url": "/zh/makeup/?filter=高光粉"
+          },
+          {
+            "name": "散粉",
+            "emoji": "💫",
+            "url": "/zh/makeup/?filter=散粉"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "眼部彩妆",
+        "items": [
+          {
+            "name": "睫毛膏",
+            "emoji": "👁️",
+            "url": "/zh/makeup/?filter=睫毛膏"
+          },
+          {
+            "name": "眼线笔",
+            "emoji": "✏️",
+            "url": "/zh/makeup/?filter=眼线笔"
+          },
+          {
+            "name": "眼影",
+            "emoji": "🎨",
+            "url": "/zh/makeup/?filter=眼影"
+          },
+          {
+            "name": "眉笔",
+            "emoji": "✨",
+            "url": "/zh/makeup/?filter=眉笔"
+          }
+        ]
+      },
+      "lips": {
+        "title": "唇部彩妆",
+        "items": [
+          {
+            "name": "口红",
+            "emoji": "💄",
+            "url": "/zh/makeup/?filter=口红"
+          },
+          {
+            "name": "唇蜜",
+            "emoji": "💋",
+            "url": "/zh/makeup/?filter=唇蜜"
+          },
+          {
+            "name": "唇线笔",
+            "emoji": "✏️",
+            "url": "/zh/makeup/?filter=唇线笔"
+          }
+        ]
+      },
+      "nails": {
+        "title": "美甲产品",
+        "items": [
+          {
+            "name": "指甲油",
+            "emoji": "💅",
+            "url": "/zh/makeup/?filter=指甲油"
+          },
+          {
+            "name": "美甲护理",
+            "emoji": "✨",
+            "url": "/zh/makeup/?filter=美甲护理"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "如何选择适合自己肤色的粉底液？",
+        "answer": "建议在自然光线下测试颈部与面部交界处的颜色，选择与肌肤完美融合的色号。敏感肌肤应选择温和无刺激配方的产品。"
+      },
+      {
+        "question": "眼影如何搭配才能打造自然妆效？",
+        "answer": "选择与肤色相近的大地色系作为基础，在眼窝处使用浅色打底，眼尾加深色调，最后用珠光色提亮眼头和眉骨。"
+      },
+      {
+        "question": "口红如何保持持久不脱色？",
+        "answer": "使用前先用唇部磨砂去除死皮，涂抹润唇膏打底，然后用唇线笔勾勒唇形，最后涂抹口红并用纸巾轻压定妆。"
+      }
+    ],
+    "seo_title": "Hello Beauty Blog - 专业彩妆美容顾问",
+    "seo_bottom": "Hello Beauty Blog汇聚资深美妆专家，提供专业彩妆产品评测与妆容教程。我们精选全球奢华美妆品牌，为追求品质生活的您带来最专业的美妆建议与购买指南。"
+  },
+  "ja": {
+    "intro_title": "プロ級メイクアップで理想の美しさを実現",
+    "intro": "Hello Beauty Blogの厳選メイクアップコレクションで、あなたの魅力を最大限に引き出しませんか。最新トレンドから定番アイテムまで、プロ仕様の高品質コスメティックスで理想の仕上がりを叶えます。",
+    "subcategories": {
+      "face": {
+        "title": "ベースメイク",
+        "items": [
+          {
+            "name": "ファンデーション",
+            "emoji": "🤍",
+            "url": "/ja/makeup/?filter=ファンデーション"
+          },
+          {
+            "name": "コンシーラー",
+            "emoji": "✨",
+            "url": "/ja/makeup/?filter=コンシーラー"
+          },
+          {
+            "name": "チーク",
+            "emoji": "🌸",
+            "url": "/ja/makeup/?filter=チーク"
+          },
+          {
+            "name": "ハイライター",
+            "emoji": "✨",
+            "url": "/ja/makeup/?filter=ハイライター"
+          },
+          {
+            "name": "フェイスパウダー",
+            "emoji": "🎭",
+            "url": "/ja/makeup/?filter=フェイスパウダー"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "アイメイク",
+        "items": [
+          {
+            "name": "マスカラ",
+            "emoji": "👁️",
+            "url": "/ja/makeup/?filter=マスカラ"
+          },
+          {
+            "name": "アイライナー",
+            "emoji": "🖊️",
+            "url": "/ja/makeup/?filter=アイライナー"
+          },
+          {
+            "name": "アイシャドウ",
+            "emoji": "🎨",
+            "url": "/ja/makeup/?filter=アイシャドウ"
+          },
+          {
+            "name": "アイブロウ",
+            "emoji": "🔍",
+            "url": "/ja/makeup/?filter=アイブロウ"
+          }
+        ]
+      },
+      "lips": {
+        "title": "リップメイク",
+        "items": [
+          {
+            "name": "リップスティック",
+            "emoji": "💄",
+            "url": "/ja/makeup/?filter=リップスティック"
+          },
+          {
+            "name": "リップグロス",
+            "emoji": "✨",
+            "url": "/ja/makeup/?filter=リップグロス"
+          },
+          {
+            "name": "リップライナー",
+            "emoji": "📝",
+            "url": "/ja/makeup/?filter=リップライナー"
+          }
+        ]
+      },
+      "nails": {
+        "title": "ネイル",
+        "items": [
+          {
+            "name": "ネイルポリッシュ",
+            "emoji": "💅",
+            "url": "/ja/makeup/?filter=ネイルポリッシュ"
+          },
+          {
+            "name": "ネイルケア",
+            "emoji": "🧴",
+            "url": "/ja/makeup/?filter=ネイルケア"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "初心者におすすめのベースメイクアイテムは何ですか？",
+        "answer": "まずは自分の肌質に合うファンデーションとコンシーラーから始めることをお勧めします。BBクリームやCCクリームも初心者の方には使いやすくて人気です。"
+      },
+      {
+        "question": "メイクの持ちを良くするコツはありますか？",
+        "answer": "下地をしっかり塗り、パウダーでセットすることが基本です。また、アイシャドウベースやリップベースを使用することで、色持ちが格段に向上します。"
+      },
+      {
+        "question": "敏感肌でも使えるメイクアップ製品はありますか？",
+        "answer": "はい、ミネラルコスメやオーガニック成分配合の製品を多数取り扱っております。パラベンフリーや無香料の商品もございますので、お肌に優しいメイクを楽しめます。"
+      }
+    ],
+    "seo_title": "Hello Beauty Blogのメイクアップ専門知識",
+    "seo_bottom": "Hello Beauty Blogは美容業界のプロフェッショナルとして、最新メイクトレンドと高品質コスメティックスをお届けします。あなたの美しさを引き出す完璧なメイクアップソリューションをご提案いたします。"
+  },
+  "ko": {
+    "intro_title": "프리미엄 메이크업 브랜드와 최신 뷰티 트렌드",
+    "intro": "헬로 뷰티 블로그에서 엄선한 럭셔리 메이크업 컬렉션을 만나보세요. 세계적인 브랜드부터 K-뷰티 신제품까지, 전문가가 추천하는 고품질 화장품으로 완벽한 메이크업 룩을 연출하실 수 있습니다.",
+    "subcategories": {
+      "face": {
+        "title": "베이스 메이크업",
+        "items": [
+          {
+            "name": "파운데이션",
+            "emoji": "🤍",
+            "url": "/ko/makeup/?filter=파운데이션"
+          },
+          {
+            "name": "컨실러",
+            "emoji": "✨",
+            "url": "/ko/makeup/?filter=컨실러"
+          },
+          {
+            "name": "블러셔",
+            "emoji": "🌸",
+            "url": "/ko/makeup/?filter=블러셔"
+          },
+          {
+            "name": "하이라이터",
+            "emoji": "💫",
+            "url": "/ko/makeup/?filter=하이라이터"
+          },
+          {
+            "name": "파우더",
+            "emoji": "🌟",
+            "url": "/ko/makeup/?filter=파우더"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "아이 메이크업",
+        "items": [
+          {
+            "name": "마스카라",
+            "emoji": "👁️",
+            "url": "/ko/makeup/?filter=마스카라"
+          },
+          {
+            "name": "아이라이너",
+            "emoji": "✏️",
+            "url": "/ko/makeup/?filter=아이라이너"
+          },
+          {
+            "name": "아이섀도",
+            "emoji": "🎨",
+            "url": "/ko/makeup/?filter=아이섀도"
+          },
+          {
+            "name": "아이브로우",
+            "emoji": "🖊️",
+            "url": "/ko/makeup/?filter=아이브로우"
+          }
+        ]
+      },
+      "lips": {
+        "title": "립 메이크업",
+        "items": [
+          {
+            "name": "립스틱",
+            "emoji": "💄",
+            "url": "/ko/makeup/?filter=립스틱"
+          },
+          {
+            "name": "립글로스",
+            "emoji": "💋",
+            "url": "/ko/makeup/?filter=립글로스"
+          },
+          {
+            "name": "립라이너",
+            "emoji": "✍️",
+            "url": "/ko/makeup/?filter=립라이너"
+          }
+        ]
+      },
+      "nails": {
+        "title": "네일 케어",
+        "items": [
+          {
+            "name": "네일 폴리쉬",
+            "emoji": "💅",
+            "url": "/ko/makeup/?filter=네일폴리쉬"
+          },
+          {
+            "name": "네일 케어",
+            "emoji": "🌺",
+            "url": "/ko/makeup/?filter=네일케어"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "민감한 피부에 적합한 메이크업 제품은 무엇인가요?",
+        "answer": "무향료, 무파라벤 성분의 저자극 제품을 추천합니다. 특히 미네랄 파운데이션과 천연 성분 기반의 제품들이 민감한 피부에 적합하며, 사용 전 패치 테스트를 권장드립니다."
+      },
+      {
+        "question": "메이크업 제품의 유통기한은 얼마나 되나요?",
+        "answer": "일반적으로 파운데이션과 컨실러는 12-18개월, 마스카라는 3-6개월, 립스틱은 12-24개월입니다. 개봉 후에는 제품별 권장 사용 기간을 확인하시고 변색이나 이상한 냄새가 날 경우 사용을 중단해주세요."
+      },
+      {
+        "question": "초보자에게 추천하는 필수 메이크업 아이템은?",
+        "answer": "기초 메이크업을 위해 BB크림이나 쿠션 파운데이션, 마스카라, 아이브로우 펜슬, 틴트 타입의 립 제품을 추천합니다. 이 제품들로 자연스럽고 깔끔한 일상 메이크업이 가능합니다."
+      }
+    ],
+    "seo_title": "헬로 뷰티 블로그 메이크업 전문성",
+    "seo_bottom": "헬로 뷰티 블로그는 10년간의 뷰티 전문 경험을 바탕으로 엄선된 럭셔리 메이크업 브랜드만을 소개합니다. 전문 메이크업 아티스트의 리뷰와 상세한 사용법으로 고객님의 완벽한 뷰티 라이프를 지원합니다."
+  },
+  "hi": {
+    "intro_title": "लक्जरी मेकअप कलेक्शन - खूबसूरती की नई परिभाषा",
+    "intro": "Hello Beauty Blog पर मिलें बेहतरीन मेकअप प्रोडक्ट्स से। प्रीमियम ब्रांड्स की फाउंडेशन, लिपस्टिक, आईशैडो और हाइलाइटर के साथ अपनी खूबसूरती को निखारें। प्रोफेशनल क्वालिटी के कॉस्मेटिक्स का विस्तृत संग्रह।",
+    "subcategories": {
+      "face": {
+        "title": "चेहरे के लिए",
+        "items": [
+          {
+            "name": "फाउंडेशन",
+            "emoji": "🧴",
+            "url": "/hi/makeup/?filter=foundation"
+          },
+          {
+            "name": "कंसीलर",
+            "emoji": "✨",
+            "url": "/hi/makeup/?filter=concealer"
+          },
+          {
+            "name": "ब्लश",
+            "emoji": "🌹",
+            "url": "/hi/makeup/?filter=blush"
+          },
+          {
+            "name": "हाइलाइटर",
+            "emoji": "💫",
+            "url": "/hi/makeup/?filter=highlighter"
+          },
+          {
+            "name": "पाउडर",
+            "emoji": "🎭",
+            "url": "/hi/makeup/?filter=powder"
+          }
+        ]
+      },
+      "eyes": {
+        "title": "आंखों के लिए",
+        "items": [
+          {
+            "name": "मस्कारा",
+            "emoji": "👁️",
+            "url": "/hi/makeup/?filter=mascara"
+          },
+          {
+            "name": "आईलाइनर",
+            "emoji": "🖤",
+            "url": "/hi/makeup/?filter=eyeliner"
+          },
+          {
+            "name": "आईशैडो",
+            "emoji": "🎨",
+            "url": "/hi/makeup/?filter=eyeshadow"
+          },
+          {
+            "name": "भौंहों के लिए",
+            "emoji": "🏹",
+            "url": "/hi/makeup/?filter=brows"
+          }
+        ]
+      },
+      "lips": {
+        "title": "होंठों के लिए",
+        "items": [
+          {
+            "name": "लिपस्टिक",
+            "emoji": "💄",
+            "url": "/hi/makeup/?filter=lipstick"
+          },
+          {
+            "name": "लिप ग्लॉस",
+            "emoji": "✨",
+            "url": "/hi/makeup/?filter=lip-gloss"
+          },
+          {
+            "name": "लिप लाइनर",
+            "emoji": "📝",
+            "url": "/hi/makeup/?filter=lip-liner"
+          }
+        ]
+      },
+      "nails": {
+        "title": "नाखूनों के लिए",
+        "items": [
+          {
+            "name": "नेल पॉलिश",
+            "emoji": "💅",
+            "url": "/hi/makeup/?filter=nail-polish"
+          },
+          {
+            "name": "नेल केयर",
+            "emoji": "🌸",
+            "url": "/hi/makeup/?filter=nail-care"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "किस स्किन टोन के लिए कौन सा फाउंडेशन शेड सही है?",
+        "answer": "अपने स्किन टोन को समझकर warm, cool या neutral undertone के अनुसार फाउंडेशन चुनें। सैंपल टेस्ट करके जॉ लाइन पर मैच देखें।"
+      },
+      {
+        "question": "दिनभर टिकने वाला मेकअप कैसे करें?",
+        "answer": "प्राइमर का इस्तेमाल करें, अच्छी क्वालिटी के प्रोडक्ट्स चुनें, लेयरिंग तकनीक अपनाएं और सेटिंग स्प्रे का उपयोग करें।"
+      },
+      {
+        "question": "शुरुआती लोगों के लिए कौन से मेकअप प्रोडक्ट्स जरूरी हैं?",
+        "answer": "बेसिक किट में फाउंडेशन, कंसीलर, मस्कारा, न्यूड लिपस्टिक, ब्लश और आईब्रो पेंसिल शामिल करें। धीरे-धीरे कलेक्शन बढ़ाएं।"
+      }
+    ],
+    "seo_title": "Hello Beauty Blog - मेकअप की विशेषज्ञता",
+    "seo_bottom": "Hello Beauty Blog भारत का अग्रणी ब्यूटी प्लेटफॉर्म है। हमारे विशेषज्ञ मेकअप टिप्स, ट्यूटोरियल और प्रीमियम प्रोडक्ट रिव्यूज़ के साथ अपनी सुंदरता को नया आयाम दें।"
   }
 }

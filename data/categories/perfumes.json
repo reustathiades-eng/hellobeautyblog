@@ -6,34 +6,87 @@
       "gender": {
         "title": "Shop by Gender",
         "items": [
-          {"name": "Women", "emoji": "👩", "url": "/en/perfumes/?filter=women"},
-          {"name": "Men", "emoji": "👨", "url": "/en/perfumes/?filter=men"},
-          {"name": "Unisex", "emoji": "⚧️", "url": "/en/perfumes/?filter=unisex"}
+          {
+            "name": "Women",
+            "emoji": "👩",
+            "url": "/en/perfumes/?filter=women"
+          },
+          {
+            "name": "Men",
+            "emoji": "👨",
+            "url": "/en/perfumes/?filter=men"
+          },
+          {
+            "name": "Unisex",
+            "emoji": "⚧️",
+            "url": "/en/perfumes/?filter=unisex"
+          }
         ]
       },
       "family": {
         "title": "By Fragrance Family",
         "items": [
-          {"name": "Floral", "emoji": "🌸", "url": "/en/perfumes/?family=floral"},
-          {"name": "Oriental", "emoji": "🌙", "url": "/en/perfumes/?family=oriental"},
-          {"name": "Woody", "emoji": "🌲", "url": "/en/perfumes/?family=woody"},
-          {"name": "Fresh", "emoji": "🍃", "url": "/en/perfumes/?family=fresh"}
+          {
+            "name": "Floral",
+            "emoji": "🌸",
+            "url": "/en/perfumes/?family=floral"
+          },
+          {
+            "name": "Oriental",
+            "emoji": "🌙",
+            "url": "/en/perfumes/?family=oriental"
+          },
+          {
+            "name": "Woody",
+            "emoji": "🌲",
+            "url": "/en/perfumes/?family=woody"
+          },
+          {
+            "name": "Fresh",
+            "emoji": "🍃",
+            "url": "/en/perfumes/?family=fresh"
+          }
         ]
       },
       "occasion": {
         "title": "By Occasion",
         "items": [
-          {"name": "Everyday", "emoji": "☀️", "url": "/en/perfumes/?occasion=everyday"},
-          {"name": "Evening", "emoji": "🌃", "url": "/en/perfumes/?occasion=evening"},
-          {"name": "Summer", "emoji": "🏖️", "url": "/en/perfumes/?occasion=summer"},
-          {"name": "Winter", "emoji": "❄️", "url": "/en/perfumes/?occasion=winter"}
+          {
+            "name": "Everyday",
+            "emoji": "☀️",
+            "url": "/en/perfumes/?occasion=everyday"
+          },
+          {
+            "name": "Evening",
+            "emoji": "🌃",
+            "url": "/en/perfumes/?occasion=evening"
+          },
+          {
+            "name": "Summer",
+            "emoji": "🏖️",
+            "url": "/en/perfumes/?occasion=summer"
+          },
+          {
+            "name": "Winter",
+            "emoji": "❄️",
+            "url": "/en/perfumes/?occasion=winter"
+          }
         ]
       }
     },
     "faq": [
-      {"question": "How do I choose the right perfume?", "answer": "Consider your personality and the occasions you'll wear it. Test on skin and wait 30 minutes for the dry-down."},
-      {"question": "What's the difference between EDP and EDT?", "answer": "Eau de Parfum has 15-20% oils and lasts 6-8 hours. Eau de Toilette has 5-15% and lasts 3-4 hours."},
-      {"question": "How should I store my perfumes?", "answer": "Keep them away from direct sunlight and heat. A cool, dark place like a drawer is ideal."}
+      {
+        "question": "How do I choose the right perfume?",
+        "answer": "Consider your personality and the occasions you'll wear it. Test on skin and wait 30 minutes for the dry-down."
+      },
+      {
+        "question": "What's the difference between EDP and EDT?",
+        "answer": "Eau de Parfum has 15-20% oils and lasts 6-8 hours. Eau de Toilette has 5-15% and lasts 3-4 hours."
+      },
+      {
+        "question": "How should I store my perfumes?",
+        "answer": "Keep them away from direct sunlight and heat. A cool, dark place like a drawer is ideal."
+      }
     ],
     "seo_title": "About Our Perfume Collection",
     "seo_bottom": "At Hello Beauty Blog, we independently test and review perfumes from the world's finest houses. Our collection features iconic fragrances from Chanel, Dior, and YSL alongside niche discoveries."
@@ -45,36 +98,1193 @@
       "gender": {
         "title": "Par Genre",
         "items": [
-          {"name": "Femme", "emoji": "👩", "url": "/fr/parfums/?filter=femme"},
-          {"name": "Homme", "emoji": "👨", "url": "/fr/parfums/?filter=homme"},
-          {"name": "Unisexe", "emoji": "⚧️", "url": "/fr/parfums/?filter=unisexe"}
+          {
+            "name": "Femme",
+            "emoji": "👩",
+            "url": "/fr/parfums/?filter=femme"
+          },
+          {
+            "name": "Homme",
+            "emoji": "👨",
+            "url": "/fr/parfums/?filter=homme"
+          },
+          {
+            "name": "Unisexe",
+            "emoji": "⚧️",
+            "url": "/fr/parfums/?filter=unisexe"
+          }
         ]
       },
       "family": {
         "title": "Par Famille Olfactive",
         "items": [
-          {"name": "Floral", "emoji": "🌸", "url": "/fr/parfums/?family=floral"},
-          {"name": "Oriental", "emoji": "🌙", "url": "/fr/parfums/?family=oriental"},
-          {"name": "Boisé", "emoji": "🌲", "url": "/fr/parfums/?family=boise"},
-          {"name": "Frais", "emoji": "🍃", "url": "/fr/parfums/?family=frais"}
+          {
+            "name": "Floral",
+            "emoji": "🌸",
+            "url": "/fr/parfums/?family=floral"
+          },
+          {
+            "name": "Oriental",
+            "emoji": "🌙",
+            "url": "/fr/parfums/?family=oriental"
+          },
+          {
+            "name": "Boisé",
+            "emoji": "🌲",
+            "url": "/fr/parfums/?family=boise"
+          },
+          {
+            "name": "Frais",
+            "emoji": "🍃",
+            "url": "/fr/parfums/?family=frais"
+          }
         ]
       },
       "occasion": {
         "title": "Par Occasion",
         "items": [
-          {"name": "Quotidien", "emoji": "☀️", "url": "/fr/parfums/?occasion=quotidien"},
-          {"name": "Soirée", "emoji": "🌃", "url": "/fr/parfums/?occasion=soiree"},
-          {"name": "Été", "emoji": "🏖️", "url": "/fr/parfums/?occasion=ete"},
-          {"name": "Hiver", "emoji": "❄️", "url": "/fr/parfums/?occasion=hiver"}
+          {
+            "name": "Quotidien",
+            "emoji": "☀️",
+            "url": "/fr/parfums/?occasion=quotidien"
+          },
+          {
+            "name": "Soirée",
+            "emoji": "🌃",
+            "url": "/fr/parfums/?occasion=soiree"
+          },
+          {
+            "name": "Été",
+            "emoji": "🏖️",
+            "url": "/fr/parfums/?occasion=ete"
+          },
+          {
+            "name": "Hiver",
+            "emoji": "❄️",
+            "url": "/fr/parfums/?occasion=hiver"
+          }
         ]
       }
     },
     "faq": [
-      {"question": "Comment choisir le bon parfum ?", "answer": "Considérez votre personnalité et les occasions. Testez sur la peau et attendez 30 minutes pour sentir le fond."},
-      {"question": "Quelle différence entre EDP et EDT ?", "answer": "L'Eau de Parfum contient 15-20% d'huiles et dure 6-8h. L'Eau de Toilette a 5-15% et dure 3-4h."},
-      {"question": "Comment conserver mes parfums ?", "answer": "Gardez-les à l'abri de la lumière et de la chaleur. Un tiroir frais et sombre est idéal."}
+      {
+        "question": "Comment choisir le bon parfum ?",
+        "answer": "Considérez votre personnalité et les occasions. Testez sur la peau et attendez 30 minutes pour sentir le fond."
+      },
+      {
+        "question": "Quelle différence entre EDP et EDT ?",
+        "answer": "L'Eau de Parfum contient 15-20% d'huiles et dure 6-8h. L'Eau de Toilette a 5-15% et dure 3-4h."
+      },
+      {
+        "question": "Comment conserver mes parfums ?",
+        "answer": "Gardez-les à l'abri de la lumière et de la chaleur. Un tiroir frais et sombre est idéal."
+      }
     ],
     "seo_title": "À Propos de Notre Collection de Parfums",
     "seo_bottom": "Chez Hello Beauty Blog, nous testons indépendamment les parfums des plus grandes maisons. Notre collection présente des fragrances iconiques de Chanel, Dior et YSL."
+  },
+  "de": {
+    "intro_title": "Exklusive Parfums für jeden Anlass entdecken",
+    "intro": "Entdecken Sie unsere vielfältige Parfum-Kollektion mit hochwertigen Düften für Damen, Herren und Unisex. Von blumigen bis zu orientalischen Noten - finden Sie Ihren perfekten Duft für jeden besonderen Moment.",
+    "subcategories": {
+      "gender": {
+        "title": "Nach Geschlecht",
+        "items": [
+          {
+            "name": "Damenparfum",
+            "emoji": "👩",
+            "url": "/de/parfum/?filter=women"
+          },
+          {
+            "name": "Herrenparfum",
+            "emoji": "👨",
+            "url": "/de/parfum/?filter=men"
+          },
+          {
+            "name": "Unisex-Parfum",
+            "emoji": "⚧️",
+            "url": "/de/parfum/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Nach Duftfamilie",
+        "items": [
+          {
+            "name": "Blumig",
+            "emoji": "🌸",
+            "url": "/de/parfum/?family=floral"
+          },
+          {
+            "name": "Oriental",
+            "emoji": "🌙",
+            "url": "/de/parfum/?family=oriental"
+          },
+          {
+            "name": "Holzig",
+            "emoji": "🌲",
+            "url": "/de/parfum/?family=woody"
+          },
+          {
+            "name": "Frisch",
+            "emoji": "🍃",
+            "url": "/de/parfum/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Nach Anlass",
+        "items": [
+          {
+            "name": "Alltag",
+            "emoji": "☀️",
+            "url": "/de/parfum/?occasion=everyday"
+          },
+          {
+            "name": "Abend",
+            "emoji": "🌃",
+            "url": "/de/parfum/?occasion=evening"
+          },
+          {
+            "name": "Sommer",
+            "emoji": "🏖️",
+            "url": "/de/parfum/?occasion=summer"
+          },
+          {
+            "name": "Winter",
+            "emoji": "❄️",
+            "url": "/de/parfum/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Wie lange hält ein hochwertiges Parfum auf der Haut?",
+        "answer": "Hochwertige Parfums halten je nach Konzentration zwischen 4-8 Stunden. Eau de Parfum hält länger als Eau de Toilette aufgrund der höheren Duftölkonzentration."
+      },
+      {
+        "question": "Was ist der Unterschied zwischen Eau de Parfum und Eau de Toilette?",
+        "answer": "Eau de Parfum enthält 8-15% Duftöl und hält länger, während Eau de Toilette nur 4-8% enthält und leichter ist."
+      },
+      {
+        "question": "Wie sollte ich Parfum richtig aufbewahren?",
+        "answer": "Lagern Sie Parfum kühl, trocken und vor direktem Sonnenlicht geschützt. Das Badezimmer ist ungeeignet wegen Temperaturschwankungen und Feuchtigkeit."
+      }
+    ],
+    "seo_title": "Parfum kaufen | Premium Düfte für Damen & Herren online",
+    "seo_bottom": "Hochwertige Parfums namhafter Marken zu attraktiven Preisen. Schneller Versand, authentische Düfte und kompetente Beratung. Entdecken Sie Ihren neuen Lieblingsduft in unserem Online-Shop mit großer Auswahl an Luxusparfums."
+  },
+  "es": {
+    "intro_title": "Descubre los Mejores Perfumes para Cada Ocasión",
+    "intro": "Explora nuestra exclusiva colección de perfumes de las mejores marcas internacionales. Desde fragancias florales hasta orientales, encuentra el aroma perfecto que refleje tu personalidad única y estilo distintivo.",
+    "subcategories": {
+      "gender": {
+        "title": "Por Género",
+        "items": [
+          {
+            "name": "Mujer",
+            "emoji": "👩",
+            "url": "/es/perfumes/?filter=women"
+          },
+          {
+            "name": "Hombre",
+            "emoji": "👨",
+            "url": "/es/perfumes/?filter=men"
+          },
+          {
+            "name": "Unisex",
+            "emoji": "⚧️",
+            "url": "/es/perfumes/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Por Familia Olfativa",
+        "items": [
+          {
+            "name": "Floral",
+            "emoji": "🌸",
+            "url": "/es/perfumes/?family=floral"
+          },
+          {
+            "name": "Oriental",
+            "emoji": "🌙",
+            "url": "/es/perfumes/?family=oriental"
+          },
+          {
+            "name": "Amaderada",
+            "emoji": "🌲",
+            "url": "/es/perfumes/?family=woody"
+          },
+          {
+            "name": "Fresca",
+            "emoji": "🍃",
+            "url": "/es/perfumes/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Por Ocasión",
+        "items": [
+          {
+            "name": "Diario",
+            "emoji": "☀️",
+            "url": "/es/perfumes/?occasion=everyday"
+          },
+          {
+            "name": "Noche",
+            "emoji": "🌃",
+            "url": "/es/perfumes/?occasion=evening"
+          },
+          {
+            "name": "Verano",
+            "emoji": "🏖️",
+            "url": "/es/perfumes/?occasion=summer"
+          },
+          {
+            "name": "Invierno",
+            "emoji": "❄️",
+            "url": "/es/perfumes/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "¿Cuánto tiempo dura un perfume en la piel?",
+        "answer": "La duración depende de la concentración y tipo de piel, pero generalmente oscila entre 4-8 horas para eau de toilette y hasta 12 horas para eau de parfum."
+      },
+      {
+        "question": "¿Cuál es la diferencia entre eau de toilette y eau de parfum?",
+        "answer": "El eau de parfum tiene mayor concentración de aceites esenciales (15-20%) que el eau de toilette (5-15%), resultando en mayor intensidad y duración."
+      },
+      {
+        "question": "¿Cómo debo aplicar correctamente un perfume?",
+        "answer": "Aplica en puntos de pulso como muñecas, cuello y detrás de las orejas. Evita frotar después de aplicar para no alterar las notas del perfume."
+      }
+    ],
+    "seo_title": "Perfumes Online - Las Mejores Fragancias para Mujer y Hombre | Tienda Oficial",
+    "seo_bottom": "Compra perfumes originales con envío gratuito. Amplio catálogo de fragancias de lujo, eau de parfum y eau de toilette de las marcas más prestigiosas del mundo."
+  },
+  "it": {
+    "intro_title": "Scopri la Nostra Collezione di Profumi Esclusivi",
+    "intro": "Esplora una vasta selezione di fragranze raffinate per ogni occasione. Dai profumi floreali alle essenze orientali, trova la tua firma olfattiva perfetta tra le migliori marche internazionali e creazioni artigianali uniche.",
+    "subcategories": {
+      "gender": {
+        "title": "Per Genere",
+        "items": [
+          {
+            "name": "Donna",
+            "emoji": "👩",
+            "url": "/it/profumi/?filter=women"
+          },
+          {
+            "name": "Uomo",
+            "emoji": "👨",
+            "url": "/it/profumi/?filter=men"
+          },
+          {
+            "name": "Unisex",
+            "emoji": "⚧️",
+            "url": "/it/profumi/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Famiglia Olfattiva",
+        "items": [
+          {
+            "name": "Floreale",
+            "emoji": "🌸",
+            "url": "/it/profumi/?family=floral"
+          },
+          {
+            "name": "Orientale",
+            "emoji": "🌙",
+            "url": "/it/profumi/?family=oriental"
+          },
+          {
+            "name": "Legnoso",
+            "emoji": "🌲",
+            "url": "/it/profumi/?family=woody"
+          },
+          {
+            "name": "Fresco",
+            "emoji": "🍃",
+            "url": "/it/profumi/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Occasione d'Uso",
+        "items": [
+          {
+            "name": "Quotidiano",
+            "emoji": "☀️",
+            "url": "/it/profumi/?occasion=everyday"
+          },
+          {
+            "name": "Serale",
+            "emoji": "🌃",
+            "url": "/it/profumi/?occasion=evening"
+          },
+          {
+            "name": "Estivo",
+            "emoji": "🏖️",
+            "url": "/it/profumi/?occasion=summer"
+          },
+          {
+            "name": "Invernale",
+            "emoji": "❄️",
+            "url": "/it/profumi/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Come scegliere il profumo giusto per la propria personalità?",
+        "answer": "La scelta del profumo dipende dal proprio stile di vita, dalle preferenze olfattive personali e dalle occasioni d'uso. Consigliamo di testare diverse famiglie olfattive per trovare quella più adatta."
+      },
+      {
+        "question": "Qual è la differenza tra eau de parfum e eau de toilette?",
+        "answer": "L'eau de parfum contiene una concentrazione di essenze del 15-20% e dura più a lungo, mentre l'eau de toilette ha una concentrazione del 5-15% ed è più leggera e fresca."
+      },
+      {
+        "question": "Come conservare correttamente i profumi per mantenerli inalterati?",
+        "answer": "I profumi vanno conservati al riparo dalla luce diretta, dal calore e dall'umidità. È meglio tenerli nella confezione originale in un luogo fresco e asciutto per preservarne la qualità."
+      }
+    ],
+    "seo_title": "Profumi Online - Fragranze di Lusso per Uomo e Donna",
+    "seo_bottom": "La nostra collezione di profumi offre fragranze esclusive delle migliori case profumiere. Scopri eau de parfum, eau de toilette e creazioni artigianali per esprimere la tua personalità attraverso note olfattive uniche e raffinate."
+  },
+  "pt": {
+    "intro_title": "Descubra Perfumes Únicos Para Cada Ocasião Especial",
+    "intro": "Explore nossa coleção exclusiva de perfumes premium com fragrâncias marcantes. Encontre o perfume perfeito que combina com sua personalidade, desde essências florais delicadas até composições orientais intensas para momentos especiais.",
+    "subcategories": {
+      "gender": {
+        "title": "Por Gênero",
+        "items": [
+          {
+            "name": "Feminino",
+            "emoji": "👩",
+            "url": "/pt/perfumes/?filter=women"
+          },
+          {
+            "name": "Masculino",
+            "emoji": "👨",
+            "url": "/pt/perfumes/?filter=men"
+          },
+          {
+            "name": "Unissex",
+            "emoji": "⚧️",
+            "url": "/pt/perfumes/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Famílias Olfativas",
+        "items": [
+          {
+            "name": "Floral",
+            "emoji": "🌸",
+            "url": "/pt/perfumes/?family=floral"
+          },
+          {
+            "name": "Oriental",
+            "emoji": "🌙",
+            "url": "/pt/perfumes/?family=oriental"
+          },
+          {
+            "name": "Amadeirado",
+            "emoji": "🌲",
+            "url": "/pt/perfumes/?family=woody"
+          },
+          {
+            "name": "Fresco",
+            "emoji": "🍃",
+            "url": "/pt/perfumes/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Por Ocasião",
+        "items": [
+          {
+            "name": "Dia a Dia",
+            "emoji": "☀️",
+            "url": "/pt/perfumes/?occasion=everyday"
+          },
+          {
+            "name": "Noite",
+            "emoji": "🌃",
+            "url": "/pt/perfumes/?occasion=evening"
+          },
+          {
+            "name": "Verão",
+            "emoji": "🏖️",
+            "url": "/pt/perfumes/?occasion=summer"
+          },
+          {
+            "name": "Inverno",
+            "emoji": "❄️",
+            "url": "/pt/perfumes/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Como escolher o perfume ideal para mim?",
+        "answer": "Considere sua personalidade, ocasião de uso e preferências olfativas. Teste sempre na pele e aguarde algumas horas para avaliar a evolução da fragrância."
+      },
+      {
+        "question": "Qual a diferença entre Eau de Parfum e Eau de Toilette?",
+        "answer": "Eau de Parfum tem maior concentração de essência (15-20%) e dura mais tempo, enquanto Eau de Toilette é mais leve (5-15%) e ideal para uso diário."
+      },
+      {
+        "question": "Como fazer o perfume durar mais tempo?",
+        "answer": "Aplique na pele hidratada, nos pontos de pulsação como pulsos e pescoço. Evite esfregar após aplicar e guarde em local fresco e seco."
+      }
+    ],
+    "seo_title": "Perfumes Originais - Fragrâncias Femininas e Masculinas Premium",
+    "seo_bottom": "Compre perfumes originais das melhores marcas com entrega rápida. Fragrâncias exclusivas para todas as ocasiões, desde perfumes florais delicados até essências intensas e marcantes para seu estilo único."
+  },
+  "nl": {
+    "intro_title": "Ontdek de perfecte parfum voor elke gelegenheid",
+    "intro": "Vind jouw ideale geur uit onze uitgebreide collectie parfums. Van bloemige vrouwengeuren tot houtachtige herenparfums, voor dagelijks gebruik of speciale momenten. Kwaliteitsparfums tegen de beste prijzen.",
+    "subcategories": {
+      "gender": {
+        "title": "Geslacht",
+        "items": [
+          {
+            "name": "Damesparfum",
+            "emoji": "👩",
+            "url": "/nl/parfum/?filter=women"
+          },
+          {
+            "name": "Herenparfum",
+            "emoji": "👨",
+            "url": "/nl/parfum/?filter=men"
+          },
+          {
+            "name": "Unisex parfum",
+            "emoji": "⚧️",
+            "url": "/nl/parfum/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Geurfamilie",
+        "items": [
+          {
+            "name": "Bloemig",
+            "emoji": "🌸",
+            "url": "/nl/parfum/?family=floral"
+          },
+          {
+            "name": "Oriëntaals",
+            "emoji": "🌙",
+            "url": "/nl/parfum/?family=oriental"
+          },
+          {
+            "name": "Houtachtig",
+            "emoji": "🌲",
+            "url": "/nl/parfum/?family=woody"
+          },
+          {
+            "name": "Fris",
+            "emoji": "🍃",
+            "url": "/nl/parfum/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Gelegenheid",
+        "items": [
+          {
+            "name": "Dagelijks",
+            "emoji": "☀️",
+            "url": "/nl/parfum/?occasion=everyday"
+          },
+          {
+            "name": "Avond",
+            "emoji": "🌃",
+            "url": "/nl/parfum/?occasion=evening"
+          },
+          {
+            "name": "Zomer",
+            "emoji": "🏖️",
+            "url": "/nl/parfum/?occasion=summer"
+          },
+          {
+            "name": "Winter",
+            "emoji": "❄️",
+            "url": "/nl/parfum/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Hoe lang blijft parfum goed?",
+        "answer": "Ongeopende parfums blijven 3-5 jaar goed. Na opening behouden ze hun kwaliteit 1-2 jaar bij juiste bewaring."
+      },
+      {
+        "question": "Wat is het verschil tussen eau de toilette en eau de parfum?",
+        "answer": "Eau de parfum heeft een hogere concentratie geurenstoffen (15-20%) dan eau de toilette (5-15%), waardoor het langer blijft zitten."
+      },
+      {
+        "question": "Hoe breng je parfum het beste aan?",
+        "answer": "Spray parfum op warme lichaamsdelen zoals polsen, hals en achter de oren. Niet wrijven na het aanbrengen voor optimale geurverspreiding."
+      }
+    ],
+    "seo_title": "Parfums kopen online - Grote collectie dames & heren",
+    "seo_bottom": "Shop parfums online met snelle levering. Ontdek merken zoals Chanel, Dior, Hugo Boss en meer. Gratis verzending vanaf €50. Authentieke parfums met beste prijsgarantie."
+  },
+  "pl": {
+    "intro_title": "Odkryj Świat Ekskluzywnych Perfum Online",
+    "intro": "Zanurz się w naszej bogatej kolekcji perfum, gdzie każdy znajdzie swój idealny zapach. Od klasycznych kompozycji po nowoczesne kreacje - wybierz aromat który odzwierciedla Twoją osobowość i styl.",
+    "subcategories": {
+      "gender": {
+        "title": "Płeć",
+        "items": [
+          {
+            "name": "Damskie",
+            "emoji": "👩",
+            "url": "/pl/perfumy/?filter=women"
+          },
+          {
+            "name": "Męskie",
+            "emoji": "👨",
+            "url": "/pl/perfumy/?filter=men"
+          },
+          {
+            "name": "Unisex",
+            "emoji": "⚧️",
+            "url": "/pl/perfumy/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Rodzina Zapachów",
+        "items": [
+          {
+            "name": "Kwiatowe",
+            "emoji": "🌸",
+            "url": "/pl/perfumy/?family=floral"
+          },
+          {
+            "name": "Orientalne",
+            "emoji": "🌙",
+            "url": "/pl/perfumy/?family=oriental"
+          },
+          {
+            "name": "Drzewne",
+            "emoji": "🌲",
+            "url": "/pl/perfumy/?family=woody"
+          },
+          {
+            "name": "Świeże",
+            "emoji": "🍃",
+            "url": "/pl/perfumy/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Okazja",
+        "items": [
+          {
+            "name": "Codzienne",
+            "emoji": "☀️",
+            "url": "/pl/perfumy/?occasion=everyday"
+          },
+          {
+            "name": "Wieczorowe",
+            "emoji": "🌃",
+            "url": "/pl/perfumy/?occasion=evening"
+          },
+          {
+            "name": "Letnie",
+            "emoji": "🏖️",
+            "url": "/pl/perfumy/?occasion=summer"
+          },
+          {
+            "name": "Zimowe",
+            "emoji": "❄️",
+            "url": "/pl/perfumy/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Jak długo utrzymuje się zapach perfum?",
+        "answer": "Trwałość zapachu zależy od koncentracji olejków eterycznych. Eau de parfum utrzymuje się 6-8 godzin, podczas gdy eau de toilette około 3-4 godzin."
+      },
+      {
+        "question": "Gdzie najlepiej aplikować perfumy?",
+        "answer": "Perfumy najlepiej aplikować na punkty pulsujące: nadgarstki, szyję, za uszami i w zagłębienia obojczyków, gdzie ciepło ciała pomoże rozwinąć zapach."
+      },
+      {
+        "question": "Czy mogę mieszać różne zapachy?",
+        "answer": "Tak, layering perfum to popularna technika. Najlepiej łączyć zapachy z tej samej rodziny olfaktorycznej lub kontrastujące nuty bazowe."
+      }
+    ],
+    "seo_title": "Perfumy Online - Ekskluzywne Zapachy Damskie i Męskie | Sklep",
+    "seo_bottom": "Nasza kolekcja perfum obejmuje najlepsze marki światowe oraz niszowe kompozycje. Każdy zapach został starannie wyselekcjonowany, aby zapewnić najwyższą jakość i wyjątkowe doznania olfaktoryczne dla najbardziej wymagających klientów."
+  },
+  "tr": {
+    "intro_title": "Premium Parfüm Koleksiyonu - En İyi Markalar",
+    "intro": "Kadın, erkek ve unisex parfümler için geniş seçeneğimizi keşfedin. Kaliteli markaların en sevilen kokularını uygun fiyatlarla satın alın. Doğal ve uzun süre kalıcı parfümler burada.",
+    "subcategories": {
+      "gender": {
+        "title": "Cinsiyete Göre",
+        "items": [
+          {
+            "name": "Kadın Parfümleri",
+            "emoji": "👩",
+            "url": "/tr/parfum/?filter=women"
+          },
+          {
+            "name": "Erkek Parfümleri",
+            "emoji": "👨",
+            "url": "/tr/parfum/?filter=men"
+          },
+          {
+            "name": "Unisex Parfümler",
+            "emoji": "⚧️",
+            "url": "/tr/parfum/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "Koku Aileleri",
+        "items": [
+          {
+            "name": "Çiçeksi Kokular",
+            "emoji": "🌸",
+            "url": "/tr/parfum/?family=floral"
+          },
+          {
+            "name": "Oriental Kokular",
+            "emoji": "🌙",
+            "url": "/tr/parfum/?family=oriental"
+          },
+          {
+            "name": "Odunsu Kokular",
+            "emoji": "🌲",
+            "url": "/tr/parfum/?family=woody"
+          },
+          {
+            "name": "Taze Kokular",
+            "emoji": "🍃",
+            "url": "/tr/parfum/?family=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "Kullanım Alanına Göre",
+        "items": [
+          {
+            "name": "Günlük Kullanım",
+            "emoji": "☀️",
+            "url": "/tr/parfum/?occasion=everyday"
+          },
+          {
+            "name": "Akşam Parfümleri",
+            "emoji": "🌃",
+            "url": "/tr/parfum/?occasion=evening"
+          },
+          {
+            "name": "Yaz Parfümleri",
+            "emoji": "🏖️",
+            "url": "/tr/parfum/?occasion=summer"
+          },
+          {
+            "name": "Kış Parfümleri",
+            "emoji": "❄️",
+            "url": "/tr/parfum/?occasion=winter"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "Parfümün kalıcılığını nasıl artırabilirim?",
+        "answer": "Parfümü temiz ve nemli cilde, nabzın attığı noktalara sürün. Saç fırçanıza sıkıp saçınıza geçirin ve kıyafetlerinize hafifçe spreyleyin."
+      },
+      {
+        "question": "Hangi parfüm türü bana uygun?",
+        "answer": "Kişisel tercihinize göre değişir. Taze ve hafif kokular günlük kullanım için, yoğun ve kalıcı kokular özel günler için uygundur."
+      },
+      {
+        "question": "Parfümü nasıl saklamalıyım?",
+        "answer": "Parfümü serin, kuru ve güneş ışığından uzak yerde saklayın. Banyo gibi nemli ortamlardan kaçının ve orijinal kutusunda muhafaza edin."
+      }
+    ],
+    "seo_title": "Parfüm Satış - En İyi Kadın ve Erkek Parfümleri | Online Parfüm Mağazası",
+    "seo_bottom": "Türkiye'nin en güvenilir parfüm mağazasında orijinal ürünler, hızlı kargo ve uygun fiyatlar. Dünyaca ünlü markaların parfümlerini keşfedin ve size en uygun kokuyu bulun."
+  },
+  "ar": {
+    "intro_title": "عطور فاخرة وأجمل العطور النسائية والرجالية الراقية",
+    "intro": "اكتشفي مجموعة العطور الفاخرة والراقية في هيلو بيوتي بلوج. عطور نسائية ورجالية من أفضل العلامات التجارية العالمية، مع توصيات حصرية لكل مناسبة وموسم لإطلالة عطرة مميزة.",
+    "subcategories": {
+      "gender": {
+        "title": "حسب النوع",
+        "items": [
+          {
+            "name": "عطور نسائية",
+            "emoji": "👩",
+            "url": "/ar/perfumes/?filter=نسائية"
+          },
+          {
+            "name": "عطور رجالية",
+            "emoji": "👨",
+            "url": "/ar/perfumes/?filter=رجالية"
+          },
+          {
+            "name": "عطور للجنسين",
+            "emoji": "💫",
+            "url": "/ar/perfumes/?filter=للجنسين"
+          }
+        ]
+      },
+      "family": {
+        "title": "حسب العائلة العطرية",
+        "items": [
+          {
+            "name": "عطور زهرية",
+            "emoji": "🌸",
+            "url": "/ar/perfumes/?filter=زهرية"
+          },
+          {
+            "name": "عطور شرقية",
+            "emoji": "🌙",
+            "url": "/ar/perfumes/?filter=شرقية"
+          },
+          {
+            "name": "عطور خشبية",
+            "emoji": "🌳",
+            "url": "/ar/perfumes/?filter=خشبية"
+          },
+          {
+            "name": "عطور منعشة",
+            "emoji": "🍃",
+            "url": "/ar/perfumes/?filter=منعشة"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "حسب المناسبة",
+        "items": [
+          {
+            "name": "عطور يومية",
+            "emoji": "☀️",
+            "url": "/ar/perfumes/?filter=يومية"
+          },
+          {
+            "name": "عطور مسائية",
+            "emoji": "✨",
+            "url": "/ar/perfumes/?filter=مسائية"
+          },
+          {
+            "name": "عطور صيفية",
+            "emoji": "🌺",
+            "url": "/ar/perfumes/?filter=صيفية"
+          },
+          {
+            "name": "عطور شتوية",
+            "emoji": "❄️",
+            "url": "/ar/perfumes/?filter=شتوية"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "كيف أختار العطر المناسب لشخصيتي؟",
+        "answer": "اختاري العطر حسب شخصيتك وطبيعة بشرتك. العطور الزهرية للشخصية الرومانسية، الشرقية للقوية، والمنعشة للعملية. جربي العطر على معصمك واتركيه لساعات قبل اتخاذ القرار."
+      },
+      {
+        "question": "ما هي أفضل طريقة لتطبيق العطر؟",
+        "answer": "ضعي العطر على نقاط النبض مثل المعصمين وخلف الأذنين وعلى الرقبة. تجنبي فرك العطر بعد تطبيقه واستخدمي كمية معتدلة للحصول على رائحة جميلة تدوم طويلاً."
+      },
+      {
+        "question": "كم تدوم العطور عادة؟",
+        "answer": "تختلف مدة بقاء العطر حسب تركيزه ونوع البشرة. عطور البارفان تدوم 6-8 ساعات، والأو دو تواليت 3-5 ساعات. البشرة الدهنية تحتفظ بالعطر أطول من البشرة الجافة."
+      }
+    ],
+    "seo_title": "خبراء العطور في هيلو بيوتي بلوج",
+    "seo_bottom": "هيلو بيوتي بلوج وجهتك الأولى لعالم العطور الفاخرة. نقدم لك أحدث الإصدارات والكلاسيكيات الخالدة مع مراجعات شاملة وتوصيات من خبراء الجمال لتجدي عطرك المثالي الذي يعكس أناقتك."
+  },
+  "zh": {
+    "intro_title": "奢华香水系列 - 探索专业调香师精选香氛",
+    "intro": "Hello Beauty Blog为您精心挑选全球顶级香水品牌，从经典花香到现代木质调，每一款香氛都承载着独特的故事。无论是日常通勤还是特殊场合，我们的专业团队为您推荐最适合的奢华香水。",
+    "subcategories": {
+      "gender": {
+        "title": "性别分类",
+        "items": [
+          {
+            "name": "女士香水",
+            "emoji": "👩",
+            "url": "/zh/perfumes/?filter=女士"
+          },
+          {
+            "name": "男士香水",
+            "emoji": "👨",
+            "url": "/zh/perfumes/?filter=男士"
+          },
+          {
+            "name": "中性香水",
+            "emoji": "⚡",
+            "url": "/zh/perfumes/?filter=中性"
+          }
+        ]
+      },
+      "family": {
+        "title": "香调家族",
+        "items": [
+          {
+            "name": "花香调",
+            "emoji": "🌸",
+            "url": "/zh/perfumes/?filter=花香调"
+          },
+          {
+            "name": "东方调",
+            "emoji": "🌟",
+            "url": "/zh/perfumes/?filter=东方调"
+          },
+          {
+            "name": "木质调",
+            "emoji": "🌲",
+            "url": "/zh/perfumes/?filter=木质调"
+          },
+          {
+            "name": "清新调",
+            "emoji": "🍃",
+            "url": "/zh/perfumes/?filter=清新调"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "使用场合",
+        "items": [
+          {
+            "name": "日常香水",
+            "emoji": "☀️",
+            "url": "/zh/perfumes/?filter=日常"
+          },
+          {
+            "name": "晚宴香水",
+            "emoji": "🌙",
+            "url": "/zh/perfumes/?filter=晚宴"
+          },
+          {
+            "name": "夏日香水",
+            "emoji": "🏖️",
+            "url": "/zh/perfumes/?filter=夏日"
+          },
+          {
+            "name": "冬季香水",
+            "emoji": "❄️",
+            "url": "/zh/perfumes/?filter=冬季"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "如何选择适合自己的香水？",
+        "answer": "选择香水需要考虑个人喜好、肌肤类型和使用场合。建议先试用样品，观察香水在您肌肤上的留香表现，选择与您气质相符的香调家族。"
+      },
+      {
+        "question": "香水应该如何正确保存？",
+        "answer": "香水应存放在阴凉干燥处，避免阳光直射和温度变化。建议保持瓶盖紧闭，避免频繁摇晃，这样可以最大程度保持香水的品质和香调稳定性。"
+      },
+      {
+        "question": "香水的留香时间一般多长？",
+        "answer": "香水留香时间取决于浓度类型：淡香水2-4小时，淡香精4-6小时，浓香精6-8小时。个人肌肤类型、气候环境和使用方法也会影响实际留香效果。"
+      }
+    ],
+    "seo_title": "Hello Beauty Blog 香水专业服务",
+    "seo_bottom": "Hello Beauty Blog汇聚全球知名香水品牌，拥有专业香水顾问团队，为您提供个性化香氛推荐服务。我们致力于帮助每位客户找到最适合的奢华香水，让香氛成为您独特魅力的完美诠释。"
+  },
+  "ja": {
+    "intro_title": "プレミアム香水コレクション｜あなたの個性を表現する上質な香り",
+    "intro": "Hello Beauty Blogが厳選した世界最高級の香水コレクション。フローラルからウッディまで、あらゆる場面に映える洗練された香りをご紹介。あなたの魅力を最大限に引き出す運命の一本を見つけてください。上質な香りで特別な瞬間を演出しましょう。",
+    "subcategories": {
+      "gender": {
+        "title": "性別で選ぶ",
+        "items": [
+          {
+            "name": "レディース",
+            "emoji": "👩",
+            "url": "/ja/perfumes/?filter=女性用"
+          },
+          {
+            "name": "メンズ",
+            "emoji": "👨",
+            "url": "/ja/perfumes/?filter=男性用"
+          },
+          {
+            "name": "ユニセックス",
+            "emoji": "⚧️",
+            "url": "/ja/perfumes/?filter=男女兼用"
+          }
+        ]
+      },
+      "family": {
+        "title": "香調で選ぶ",
+        "items": [
+          {
+            "name": "フローラル",
+            "emoji": "🌸",
+            "url": "/ja/perfumes/?filter=フローラル"
+          },
+          {
+            "name": "オリエンタル",
+            "emoji": "🌙",
+            "url": "/ja/perfumes/?filter=オリエンタル"
+          },
+          {
+            "name": "ウッディ",
+            "emoji": "🌳",
+            "url": "/ja/perfumes/?filter=ウッディ"
+          },
+          {
+            "name": "フレッシュ",
+            "emoji": "🍃",
+            "url": "/ja/perfumes/?filter=フレッシュ"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "シーンで選ぶ",
+        "items": [
+          {
+            "name": "デイリー",
+            "emoji": "☀️",
+            "url": "/ja/perfumes/?filter=日常使い"
+          },
+          {
+            "name": "イブニング",
+            "emoji": "🌙",
+            "url": "/ja/perfumes/?filter=夜用"
+          },
+          {
+            "name": "サマー",
+            "emoji": "🏖️",
+            "url": "/ja/perfumes/?filter=夏用"
+          },
+          {
+            "name": "ウィンター",
+            "emoji": "❄️",
+            "url": "/ja/perfumes/?filter=冬用"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "香水の正しい付け方を教えてください",
+        "answer": "香水は体温の高い手首、首筋、耳の後ろなどに軽くスプレーするのがおすすめです。こすらずに自然に馴染ませ、20-30cm離してスプレーしましょう。"
+      },
+      {
+        "question": "香水の持続時間はどのくらいですか？",
+        "answer": "オードパルファムは6-8時間、オードトワレは3-5時間が目安です。肌質や気温により変わりますが、適量を守ることで美しい香りの変化を楽しめます。"
+      },
+      {
+        "question": "香水の保管方法について教えてください",
+        "answer": "直射日光を避け、涼しく乾燥した場所で保管してください。温度変化の少ない場所が理想的です。正しく保管することで香りの品質を長期間保つことができます。"
+      }
+    ],
+    "seo_title": "Hello Beauty Blogの香水専門知識",
+    "seo_bottom": "Hello Beauty Blogは10年以上の香水専門知識を持つエキスパートチームが、世界中の名香を厳選してご紹介しています。初心者から愛好家まで、あなたにぴったりの香水選びをプロフェッショナルな視点でサポートいたします。"
+  },
+  "ko": {
+    "intro_title": "럭셔리 향수 컬렉션 - 프리미엄 브랜드 모음",
+    "intro": "세계 최고급 향수 브랜드들을 한 곳에서 만나보세요. 샤넬, 디올, 톰포드 등 명품 향수부터 니치 브랜드까지, 당신만의 시그니처 향을 찾아보세요. 엄선된 정품 향수로 특별한 순간을 완성하세요.",
+    "subcategories": {
+      "gender": {
+        "title": "성별",
+        "items": [
+          {
+            "name": "여성용",
+            "emoji": "👩",
+            "url": "/ko/perfumes/?filter=여성용"
+          },
+          {
+            "name": "남성용",
+            "emoji": "👨",
+            "url": "/ko/perfumes/?filter=남성용"
+          },
+          {
+            "name": "유니섹스",
+            "emoji": "🤝",
+            "url": "/ko/perfumes/?filter=유니섹스"
+          }
+        ]
+      },
+      "family": {
+        "title": "향조",
+        "items": [
+          {
+            "name": "플로럴",
+            "emoji": "🌸",
+            "url": "/ko/perfumes/?filter=플로럴"
+          },
+          {
+            "name": "오리엔탈",
+            "emoji": "🌟",
+            "url": "/ko/perfumes/?filter=오리엔탈"
+          },
+          {
+            "name": "우디",
+            "emoji": "🌲",
+            "url": "/ko/perfumes/?filter=우디"
+          },
+          {
+            "name": "프레시",
+            "emoji": "💧",
+            "url": "/ko/perfumes/?filter=프레시"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "상황별",
+        "items": [
+          {
+            "name": "데일리",
+            "emoji": "☀️",
+            "url": "/ko/perfumes/?filter=데일리"
+          },
+          {
+            "name": "이브닝",
+            "emoji": "🌙",
+            "url": "/ko/perfumes/?filter=이브닝"
+          },
+          {
+            "name": "여름용",
+            "emoji": "🏖️",
+            "url": "/ko/perfumes/?filter=여름용"
+          },
+          {
+            "name": "겨울용",
+            "emoji": "❄️",
+            "url": "/ko/perfumes/?filter=겨울용"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "향수를 오래 지속시키는 방법은 무엇인가요?",
+        "answer": "향수는 맥박이 뛰는 부위(손목, 목, 귀 뒤)에 뿌리고, 보습제를 먼저 발라주면 지속력이 높아집니다. 직사광선과 고온을 피해 서늘한 곳에 보관하세요."
+      },
+      {
+        "question": "계절별로 어떤 향수를 선택해야 하나요?",
+        "answer": "봄·여름에는 시트러스, 플로럴 계열의 가벼운 향을, 가을·겨울에는 우디, 오리엔탈 계열의 진한 향을 추천합니다. 온도가 높을수록 가벼운 향이 적합해요."
+      },
+      {
+        "question": "향수와 화장품을 함께 사용할 때 주의사항이 있나요?",
+        "answer": "강한 향의 바디로션이나 헤어제품과 함께 사용하면 향이 섞여 부자연스러울 수 있습니다. 같은 브랜드 라인으로 통일하거나 무향 제품을 선택하는 것이 좋습니다."
+      }
+    ],
+    "seo_title": "Hello Beauty Blog 향수 전문 가이드",
+    "seo_bottom": "Hello Beauty Blog는 10년간 축적된 향수 전문 지식으로 고객님께 최적의 향수 선택 가이드를 제공합니다. 정품 보장과 전문 큐레이션으로 완벽한 향수 쇼핑 경험을 선사합니다."
+  },
+  "hi": {
+    "intro_title": "लक्जरी परफ्यूम का संपूर्ण संग्रह - Hello Beauty Blog",
+    "intro": "Hello Beauty Blog पर लक्जरी परफ्यूम की शानदार रेंज खोजें। महिलाओं और पुरुषों के लिए प्रीमियम फ्रेगरेंस, फ्लोरल से लेकर वुडी तक, हर अवसर के लिए परफेक्ट खुशबू।",
+    "subcategories": {
+      "gender": {
+        "title": "लिंग के अनुसार",
+        "items": [
+          {
+            "name": "महिलाओं के लिए",
+            "emoji": "👩",
+            "url": "/hi/perfumes/?filter=mahilao-ke-liye"
+          },
+          {
+            "name": "पुरुषों के लिए",
+            "emoji": "👨",
+            "url": "/hi/perfumes/?filter=purushon-ke-liye"
+          },
+          {
+            "name": "यूनिसेक्स",
+            "emoji": "👫",
+            "url": "/hi/perfumes/?filter=unisex"
+          }
+        ]
+      },
+      "family": {
+        "title": "फ्रेगरेंस फैमिली",
+        "items": [
+          {
+            "name": "फ्लोरल",
+            "emoji": "🌸",
+            "url": "/hi/perfumes/?filter=floral"
+          },
+          {
+            "name": "ओरिएंटल",
+            "emoji": "🌟",
+            "url": "/hi/perfumes/?filter=oriental"
+          },
+          {
+            "name": "वुडी",
+            "emoji": "🌳",
+            "url": "/hi/perfumes/?filter=woody"
+          },
+          {
+            "name": "फ्रेश",
+            "emoji": "🌊",
+            "url": "/hi/perfumes/?filter=fresh"
+          }
+        ]
+      },
+      "occasion": {
+        "title": "अवसर के अनुसार",
+        "items": [
+          {
+            "name": "रोजाना के लिए",
+            "emoji": "☀️",
+            "url": "/hi/perfumes/?filter=rojana"
+          },
+          {
+            "name": "शाम की पार्टी",
+            "emoji": "🌙",
+            "url": "/hi/perfumes/?filter=shaam"
+          },
+          {
+            "name": "गर्मियों के लिए",
+            "emoji": "🌞",
+            "url": "/hi/perfumes/?filter=garmi"
+          },
+          {
+            "name": "सर्दियों के लिए",
+            "emoji": "❄️",
+            "url": "/hi/perfumes/?filter=sardi"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "परफ्यूम की खुशबू कितने घंटे तक टिकती है?",
+        "answer": "अच्छी क्वालिटी के परफ्यूम की खुशबू 6-8 घंटे तक टिकती है। EDT 4-6 घंटे और EDP 8-12 घंटे तक चलता है।"
+      },
+      {
+        "question": "परफ्यूम को कैसे स्टोर करना चाहिए?",
+        "answer": "परफ्यूम को ठंडी, सूखी जगह पर रखें। धूप और गर्मी से बचाएं। बाथरूम में न रखें क्योंकि नमी से खराब हो सकता है।"
+      },
+      {
+        "question": "कौन सी फ्रेगरेंस शुरुआती लोगों के लिए बेस्ट है?",
+        "answer": "शुरुआती लोगों के लिए फ्रेश या फ्लोरल फ्रेगरेंस बेस्ट है। ये हल्की होती हैं और हर अवसर पर पहनी जा सकती हैं।"
+      }
+    ],
+    "seo_title": "Hello Beauty Blog - परफ्यूम की विशेषज्ञता",
+    "seo_bottom": "Hello Beauty Blog भारत में लक्जरी परफ्यूम की अग्रणी रिटेलर है। हमारे एक्सपर्ट्स द्वारा चुने गए ऑथेंटिक फ्रेगरेंस और पर्सनलाइज्ड सुझाव के साथ अपनी परफेक्ट खुशबू पाएं।"
   }
 }
