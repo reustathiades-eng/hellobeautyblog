@@ -2,6 +2,14 @@
 
 {{ define "main" }}
 {{ $lang := .Language.Lang }}
+{{/* Dynamic article count */}}
+{{ $authorSlug := .File.ContentBaseName }}
+{{ $articleCount := len (where (where site.RegularPages "Section" "ne" "authors") "Params.authorSlug" $authorSlug) }}
+{{/* Dynamic years from career_start */}}
+{{ $yearsExp := 10 }}
+{{ with .Params.career_start }}
+  {{ $yearsExp = sub now.Year . }}
+{{ end }}
 
 <article class="author-page"{{ if eq $lang "ar" }} dir="rtl"{{ end }}>
     <!-- Author Header -->
@@ -18,23 +26,25 @@
                 <!-- Stats -->
                 <div class="author-stats">
                     <div class="author-stat">
-                        <span class="author-stat-number">{{ .Params.articles_count | default "50+" }}</span>
+                        <span class="author-stat-number">{{ $articleCount }}</span>
                         <span class="author-stat-label">
-                            {{ if eq $lang "fr" }}Articles{{ else if eq $lang "de" }}Artikel{{ else if eq $lang "es" }}Artículos{{ else }}Articles{{ end }}
+                            {{ if eq $lang "fr" }}Articles{{ else if eq $lang "de" }}Artikel{{ else if eq $lang "es" }}Artículos{{ else if eq $lang "it" }}Articoli{{ else if eq $lang "pt" }}Artigos{{ else if eq $lang "nl" }}Artikelen{{ else if eq $lang "pl" }}Artykuły{{ else if eq $lang "tr" }}Makale{{ else if eq $lang "ja" }}記事{{ else if eq $lang "ko" }}기사{{ else if eq $lang "zh" }}文章{{ else if eq $lang "ar" }}مقالات{{ else if eq $lang "hi" }}लेख{{ else }}Articles{{ end }}
                         </span>
                     </div>
                     <div class="author-stat">
-                        <span class="author-stat-number">{{ .Params.years_experience | default "10+" }}</span>
+                        <span class="author-stat-number">{{ $yearsExp }}+</span>
                         <span class="author-stat-label">
-                            {{ if eq $lang "fr" }}Années d'exp.{{ else if eq $lang "de" }}Jahre Erfahrung{{ else if eq $lang "es" }}Años exp.{{ else }}Years Exp.{{ end }}
+                            {{ if eq $lang "fr" }}Années d'exp.{{ else if eq $lang "de" }}Jahre Erfahrung{{ else if eq $lang "es" }}Años exp.{{ else if eq $lang "it" }}Anni di esp.{{ else if eq $lang "pt" }}Anos de exp.{{ else if eq $lang "nl" }}Jaar ervaring{{ else if eq $lang "pl" }}Lat doświadczenia{{ else if eq $lang "tr" }}Yıl deneyim{{ else if eq $lang "ja" }}年の経験{{ else if eq $lang "ko" }}년 경력{{ else if eq $lang "zh" }}年经验{{ else if eq $lang "ar" }}سنوات خبرة{{ else if eq $lang "hi" }}वर्ष अनुभव{{ else }}Years Exp.{{ end }}
                         </span>
                     </div>
+                    {{ with .Params.specialties }}
                     <div class="author-stat">
-                        <span class="author-stat-number">{{ .Params.specialties_count | default "5" }}</span>
+                        <span class="author-stat-number">{{ len . }}</span>
                         <span class="author-stat-label">
-                            {{ if eq $lang "fr" }}Spécialités{{ else if eq $lang "de" }}Spezialgebiete{{ else if eq $lang "es" }}Especialidades{{ else }}Specialties{{ end }}
+                            {{ if eq $lang "fr" }}Spécialités{{ else if eq $lang "de" }}Spezialgebiete{{ else if eq $lang "es" }}Especialidades{{ else if eq $lang "it" }}Specialità{{ else if eq $lang "pt" }}Especialidades{{ else if eq $lang "nl" }}Specialisaties{{ else if eq $lang "pl" }}Specjalizacje{{ else if eq $lang "tr" }}Uzmanlıklar{{ else if eq $lang "ja" }}専門分野{{ else if eq $lang "ko" }}전문분야{{ else if eq $lang "zh" }}专业领域{{ else if eq $lang "ar" }}تخصصات{{ else if eq $lang "hi" }}विशेषज्ञता{{ else }}Specialties{{ end }}
                         </span>
                     </div>
+                    {{ end }}
                 </div>
             </div>
         </div>
@@ -54,6 +64,16 @@
                     {{ if eq $lang "fr" }}Domaines d'expertise
                     {{ else if eq $lang "de" }}Fachgebiete
                     {{ else if eq $lang "es" }}Áreas de especialización
+                    {{ else if eq $lang "it" }}Aree di competenza
+                    {{ else if eq $lang "pt" }}Áreas de especialização
+                    {{ else if eq $lang "nl" }}Expertisegebieden
+                    {{ else if eq $lang "pl" }}Obszary specjalizacji
+                    {{ else if eq $lang "tr" }}Uzmanlık alanları
+                    {{ else if eq $lang "ja" }}専門分野
+                    {{ else if eq $lang "ko" }}전문 분야
+                    {{ else if eq $lang "zh" }}专业领域
+                    {{ else if eq $lang "ar" }}مجالات الخبرة
+                    {{ else if eq $lang "hi" }}विशेषज्ञता के क्षेत्र
                     {{ else }}Areas of Expertise{{ end }}
                 </h3>
                 <div class="specialties-grid">
@@ -71,6 +91,16 @@
                     {{ if eq $lang "fr" }}Certifications & Formation
                     {{ else if eq $lang "de" }}Zertifizierungen & Ausbildung
                     {{ else if eq $lang "es" }}Certificaciones & Formación
+                    {{ else if eq $lang "it" }}Certificazioni & Formazione
+                    {{ else if eq $lang "pt" }}Certificações & Formação
+                    {{ else if eq $lang "nl" }}Certificeringen & Opleiding
+                    {{ else if eq $lang "pl" }}Certyfikaty & Szkolenia
+                    {{ else if eq $lang "tr" }}Sertifikalar & Eğitim
+                    {{ else if eq $lang "ja" }}資格・研修
+                    {{ else if eq $lang "ko" }}자격 및 교육
+                    {{ else if eq $lang "zh" }}资质与培训
+                    {{ else if eq $lang "ar" }}الشهادات والتدريب
+                    {{ else if eq $lang "hi" }}प्रमाणपत्र और प्रशिक्षण
                     {{ else }}Credentials & Training{{ end }}
                 </h3>
                 <ul class="credentials-list">
@@ -84,8 +114,7 @@
     </section>
     
     <!-- Author's Articles -->
-    {{ $authorSlug := .File.ContentBaseName }}
-    {{ $authorArticles := where site.RegularPages "Params.author_slug" $authorSlug }}
+    {{ $authorArticles := where (where site.RegularPages "Section" "ne" "authors") "Params.authorSlug" $authorSlug }}
     {{ with first 8 $authorArticles }}
     <section class="author-articles-section">
         <div class="author-articles-container">
@@ -93,6 +122,16 @@
                 {{ if eq $lang "fr" }}Articles de {{ $.Title }}
                 {{ else if eq $lang "de" }}Artikel von {{ $.Title }}
                 {{ else if eq $lang "es" }}Artículos de {{ $.Title }}
+                {{ else if eq $lang "it" }}Articoli di {{ $.Title }}
+                {{ else if eq $lang "pt" }}Artigos de {{ $.Title }}
+                {{ else if eq $lang "nl" }}Artikelen van {{ $.Title }}
+                {{ else if eq $lang "pl" }}Artykuły {{ $.Title }}
+                {{ else if eq $lang "tr" }}{{ $.Title }} Makaleleri
+                {{ else if eq $lang "ja" }}{{ $.Title }}の記事
+                {{ else if eq $lang "ko" }}{{ $.Title }}의 기사
+                {{ else if eq $lang "zh" }}{{ $.Title }}的文章
+                {{ else if eq $lang "ar" }}مقالات {{ $.Title }}
+                {{ else if eq $lang "hi" }}{{ $.Title }} के लेख
                 {{ else }}Articles by {{ $.Title }}{{ end }}
             </h2>
             <div class="articles-grid">
@@ -104,7 +143,6 @@
     </section>
     {{ end }}
 </article>
-
 <style>
 /* Author Page Styles */
 .author-page {
@@ -372,5 +410,4 @@
     right: 0;
 }
 </style>
-
 {{ end }}
