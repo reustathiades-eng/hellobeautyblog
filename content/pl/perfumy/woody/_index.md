@@ -4,4 +4,6 @@ description: "Odkryj naszą kolekcję drzewnych zapachów z drzewem sandałowym,
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/pl/perfumy/drzewne/"
 ---

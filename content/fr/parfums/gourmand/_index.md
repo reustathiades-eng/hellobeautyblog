@@ -4,4 +4,6 @@ description: "Craquez pour des fragrances gourmandes aux notes de vanille, choco
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/fr/parfums/gourmand/"
 ---

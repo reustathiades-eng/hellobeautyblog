@@ -4,4 +4,6 @@ description: "कार्यस्थल के लिए पेशेवर, �
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/hi/perfumes/office/"
 ---

@@ -4,4 +4,6 @@ description: "Descubre fragancias frescas vigorizantes con notas cítricas, acu�
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/es/perfumes/fresco/"
 ---

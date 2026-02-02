@@ -4,4 +4,6 @@ description: "हर दिन के लिए अपना आदर्श इ
 emoji: "☀️"
 subcategory_type: "occasion"
 subcategory_value: "Everyday"
+translationKey: "perfumes-everyday"
+url: "/hi/perfumes/everyday/"
 ---

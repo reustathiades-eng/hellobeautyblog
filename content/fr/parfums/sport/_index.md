@@ -4,4 +4,6 @@ description: "Des fragrances énergisantes qui vous gardent frais pendant l'effo
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/fr/parfums/sport/"
 ---

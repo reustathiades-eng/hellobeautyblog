@@ -4,4 +4,6 @@ description: "Warm and cozy winter fragrances with rich, enveloping notes for co
 emoji: "❄️"
 subcategory_type: "occasion"
 subcategory_value: "Winter"
+translationKey: "perfumes-winter"
+url: "/en/perfumes/winter/"
 ---

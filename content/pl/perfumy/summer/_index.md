@@ -4,4 +4,6 @@ description: "Orzeźwiające letnie zapachy z lekkimi, przewiewnymi nutami na ci
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/pl/perfumy/letnie/"
 ---

@@ -4,4 +4,6 @@ description: "Odkryj naszą kolekcję perfum unisex, które przekraczają granic
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/pl/perfumy/unisex/"
 ---

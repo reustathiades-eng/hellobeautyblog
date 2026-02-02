@@ -4,4 +4,6 @@ description: "सिट्रस, एक्वाटिक और ग्री�
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/hi/perfumes/fresh/"
 ---

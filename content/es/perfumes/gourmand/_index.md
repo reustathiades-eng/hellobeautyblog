@@ -4,4 +4,6 @@ description: "Disfruta de deliciosas fragancias gourmand con notas de vainilla, 
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/es/perfumes/gourmand/"
 ---

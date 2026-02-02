@@ -4,4 +4,6 @@ description: "Sophisticated chypre floral fragrances with rose, jasmine, and oak
 emoji: "🌹"
 subcategory_type: "subfamily"
 subcategory_value: "chypre-floral"
+translationKey: "perfumes-chypre-floral"
+url: "/nl/parfum/chypre-bloemig/"
 ---

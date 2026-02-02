@@ -4,4 +4,6 @@ description: "Indulgent chocolate fragrances with cocoa, dark chocolate, and tru
 emoji: "🍫"
 subcategory_type: "subfamily"
 subcategory_value: "gourmand-chocolate"
+translationKey: "perfumes-gourmand-chocolate"
+url: "/ko/perfumes/gourmand-chocolate/"
 ---

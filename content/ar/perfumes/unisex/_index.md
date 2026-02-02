@@ -4,4 +4,6 @@ description: "اكتشف مجموعتنا من العطور المحايدة ا�
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/ar/perfumes/unisex/"
 ---

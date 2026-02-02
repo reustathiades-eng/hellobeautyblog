@@ -4,4 +4,6 @@ description: "Descubre fragancias orientales ricas y opulentas con notas de vain
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/es/perfumes/oriental/"
 ---

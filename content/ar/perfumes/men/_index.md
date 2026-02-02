@@ -4,4 +4,6 @@ description: "اكتشف مجموعتنا من العطور الرجالية ا�
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/ar/perfumes/men/"
 ---

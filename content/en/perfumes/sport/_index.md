@@ -4,4 +4,6 @@ description: "Energizing sport fragrances that keep you fresh during active purs
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/en/perfumes/sport/"
 ---

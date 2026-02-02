@@ -4,4 +4,6 @@ description: "時代を超えたフローラルからモダンなオリエンタ
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/ja/perfumes/women/"
 ---

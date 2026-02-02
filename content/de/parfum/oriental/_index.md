@@ -4,4 +4,6 @@ description: "Entdecken Sie reiche orientalische Düfte mit warmen Noten von Van
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/de/parfum/orientalisch/"
 ---

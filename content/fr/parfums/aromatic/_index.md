@@ -4,4 +4,6 @@ description: "Explorez les parfums aromatiques mêlant herbes, lavande et épice
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/fr/parfums/aromatique/"
 ---

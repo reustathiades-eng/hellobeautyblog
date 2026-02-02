@@ -4,4 +4,6 @@ description: "Find your perfect everyday fragrance — versatile scents for dail
 emoji: "☀️"
 subcategory_type: "occasion"
 subcategory_value: "Everyday"
+translationKey: "perfumes-everyday"
+url: "/en/perfumes/everyday/"
 ---

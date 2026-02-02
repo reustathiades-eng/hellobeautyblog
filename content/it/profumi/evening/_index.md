@@ -4,4 +4,6 @@ description: "Scopri fragranze affascinanti che lasciano un'impressione duratura
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/it/profumi/sera/"
 ---

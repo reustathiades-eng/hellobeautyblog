@@ -4,4 +4,6 @@ description: "Earthy woody mossy fragrances with oakmoss, patchouli, and forest 
 emoji: "🌳"
 subcategory_type: "subfamily"
 subcategory_value: "woody-mossy"
+translationKey: "perfumes-woody-mossy"
+url: "/hi/perfumes/woody-mossy/"
 ---

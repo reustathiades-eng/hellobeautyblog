@@ -4,4 +4,6 @@ description: "Ontdek onze collectie bloemige geuren, van delicate roos tot exoti
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/nl/parfum/bloemig/"
 ---

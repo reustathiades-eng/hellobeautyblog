@@ -4,4 +4,6 @@ description: "허브, 라벤더, 스파이스를 블렌딩한 아로마틱 향�
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/ko/perfumes/aromatic/"
 ---

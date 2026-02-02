@@ -4,4 +4,6 @@ description: "Des parfums professionnels, raffinés et subtils, adaptés au mili
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/fr/parfums/bureau/"
 ---

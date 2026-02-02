@@ -4,4 +4,6 @@ description: "सीमाओं को पार करने वाले ज�
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/hi/perfumes/unisex/"
 ---

@@ -4,4 +4,6 @@ description: "バニラ、アンバー、エキゾチックなスパイスの温
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/ja/perfumes/oriental/"
 ---

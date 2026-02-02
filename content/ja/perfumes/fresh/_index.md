@@ -4,4 +4,6 @@ description: "シトラス、アクアティック、グリーンノートの爽
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/ja/perfumes/fresh/"
 ---

@@ -4,4 +4,6 @@ description: "اكتشف مجموعتنا من العطور الخشبية بن�
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/ar/perfumes/woody/"
 ---

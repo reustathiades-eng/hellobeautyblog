@@ -4,4 +4,6 @@ description: "Odkryj naszą kolekcję najlepszych perfum damskich, od ponadczaso
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/pl/perfumy/damskie/"
 ---

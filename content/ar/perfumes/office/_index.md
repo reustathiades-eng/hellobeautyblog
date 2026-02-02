@@ -4,4 +4,6 @@ description: "عطور مهنية، أنيقة ورقيقة مناسبة لمك�
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/ar/perfumes/office/"
 ---

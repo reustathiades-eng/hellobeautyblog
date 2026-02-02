@@ -4,4 +4,6 @@ description: "Professional office fragrances that are refined, subtle, and workp
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/en/perfumes/office/"
 ---

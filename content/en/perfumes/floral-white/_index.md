@@ -4,4 +4,6 @@ description: "Intoxicating white floral fragrances featuring jasmine, tuberose, 
 emoji: "🤍"
 subcategory_type: "subfamily"
 subcategory_value: "floral-white"
+translationKey: "perfumes-floral-white"
+url: "/en/perfumes/floral-white/"
 ---

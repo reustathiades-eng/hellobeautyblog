@@ -4,4 +4,6 @@ description: "Clean and airy ozonic fragrances evoking rain, sky, and mountain a
 emoji: "💨"
 subcategory_type: "subfamily"
 subcategory_value: "fresh-ozonic"
+translationKey: "perfumes-fresh-ozonic"
+url: "/pl/perfumy/ozonowe/"
 ---

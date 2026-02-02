@@ -4,4 +4,6 @@ description: "Lasciati tentare da fragranze gourmand con note di vaniglia, ciocc
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/it/profumi/gourmand/"
 ---

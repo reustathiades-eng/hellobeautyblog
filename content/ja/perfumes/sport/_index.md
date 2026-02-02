@@ -4,4 +4,6 @@ description: "アクティブな時間をフレッシュに保つスポーツ香
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/ja/perfumes/sport/"
 ---

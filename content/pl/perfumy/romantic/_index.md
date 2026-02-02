@@ -4,4 +4,6 @@ description: "Odkryj uwodzicielskie zapachy na romantyczne randki i specjalne ok
 emoji: "💕"
 subcategory_type: "occasion"
 subcategory_value: "Romantic"
+translationKey: "perfumes-romantic"
+url: "/pl/perfumy/romantyczne/"
 ---

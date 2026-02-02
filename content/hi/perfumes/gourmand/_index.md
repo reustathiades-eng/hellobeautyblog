@@ -4,4 +4,6 @@ description: "वेनिला, चॉकलेट और कॉफ़ी क�
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/hi/perfumes/gourmand/"
 ---

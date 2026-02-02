@@ -4,4 +4,6 @@ description: "गर्म मौसम के लिए हल्के, ता
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/hi/perfumes/summer/"
 ---

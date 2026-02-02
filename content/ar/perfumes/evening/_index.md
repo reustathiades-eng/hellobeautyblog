@@ -4,4 +4,6 @@ description: "اكتشف عطوراً أخّاذة تترك انطباعاً د�
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/ar/perfumes/evening/"
 ---

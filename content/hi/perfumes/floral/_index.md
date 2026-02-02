@@ -4,4 +4,6 @@ description: "नाजुक गुलाब से विदेशी चम�
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/hi/perfumes/floral/"
 ---

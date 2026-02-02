@@ -4,4 +4,6 @@ description: "Refreshing floral aquatic fragrances blending flowers with ocean-i
 emoji: "🌊"
 subcategory_type: "subfamily"
 subcategory_value: "floral-aquatic"
+translationKey: "perfumes-floral-aquatic"
+url: "/pl/perfumy/kwiatowo-wodne/"
 ---

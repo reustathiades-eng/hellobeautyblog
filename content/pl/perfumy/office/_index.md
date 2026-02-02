@@ -4,4 +4,6 @@ description: "Profesjonalne, wyrafinowane i subtelne zapachy odpowiednie do biur
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/pl/perfumy/biurowe/"
 ---

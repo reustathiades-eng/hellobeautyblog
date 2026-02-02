@@ -4,4 +4,6 @@ description: "Warm and sensual oriental vanilla fragrances, perfect for evening 
 emoji: "🍦"
 subcategory_type: "subfamily"
 subcategory_value: "oriental-vanilla"
+translationKey: "perfumes-oriental-vanilla"
+url: "/en/perfumes/oriental-vanilla/"
 ---

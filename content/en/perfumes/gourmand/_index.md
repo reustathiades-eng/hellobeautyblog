@@ -4,4 +4,6 @@ description: "Indulge in delicious gourmand fragrances with vanilla, chocolate, 
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/en/perfumes/gourmand/"
 ---

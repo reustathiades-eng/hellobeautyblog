@@ -4,4 +4,6 @@ description: "バニラ、チョコレート、コーヒーのグルマン香水
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/ja/perfumes/gourmand/"
 ---

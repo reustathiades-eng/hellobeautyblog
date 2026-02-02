@@ -4,4 +4,6 @@ description: "Entdecken Sie unsere Kollektion blumiger Düfte, von zarter Rose b
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/de/parfum/blumig/"
 ---

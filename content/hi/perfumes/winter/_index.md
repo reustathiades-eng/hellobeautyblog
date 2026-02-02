@@ -4,4 +4,6 @@ description: "ठंडे दिनों के लिए गर्म और 
 emoji: "❄️"
 subcategory_type: "occasion"
 subcategory_value: "Winter"
+translationKey: "perfumes-winter"
+url: "/hi/perfumes/winter/"
 ---

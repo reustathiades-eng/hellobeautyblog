@@ -4,4 +4,6 @@ description: "Narenciye, akuatik ve yeşil notalarla canlandırıcı taze kokula
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/tr/parfum/taze/"
 ---

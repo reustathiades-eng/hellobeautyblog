@@ -4,4 +4,6 @@ description: "Explore our collection of floral fragrances, from delicate rose to
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/en/perfumes/floral/"
 ---

@@ -4,4 +4,6 @@ description: "Ontdek onze selectie van verfijnde herenparfums, van frisse aquati
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/nl/parfum/heren/"
 ---

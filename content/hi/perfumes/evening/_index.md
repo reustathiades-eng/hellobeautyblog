@@ -4,4 +4,6 @@ description: "सूर्यास्त के बाद स्थायी �
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/hi/perfumes/evening/"
 ---

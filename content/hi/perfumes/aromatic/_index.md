@@ -4,4 +4,6 @@ description: "जड़ी-बूटियों, लैवेंडर और �
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/hi/perfumes/aromatic/"
 ---

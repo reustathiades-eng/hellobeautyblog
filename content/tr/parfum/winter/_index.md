@@ -4,4 +4,6 @@ description: "Soğuk günler için zengin, saran notalarla sıcak kış kokular�
 emoji: "❄️"
 subcategory_type: "occasion"
 subcategory_value: "Winter"
+translationKey: "perfumes-winter"
+url: "/tr/parfum/kis/"
 ---

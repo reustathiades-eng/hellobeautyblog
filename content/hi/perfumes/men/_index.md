@@ -4,4 +4,6 @@ description: "ताज़ा एक्वाटिक से बोल्ड �
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/hi/perfumes/men/"
 ---

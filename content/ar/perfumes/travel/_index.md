@@ -4,4 +4,6 @@ description: "عطور عملية للمسافرين والمغامرين."
 emoji: "✈️"
 subcategory_type: "occasion"
 subcategory_value: "Travel"
+translationKey: "perfumes-travel"
+url: "/ar/perfumes/travel/"
 ---

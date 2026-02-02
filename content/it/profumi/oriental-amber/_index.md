@@ -4,4 +4,6 @@ description: "Rich amber fragrances with warm, resinous notes of benzoin and lab
 emoji: "🔶"
 subcategory_type: "subfamily"
 subcategory_value: "oriental-amber"
+translationKey: "perfumes-oriental-amber"
+url: "/it/profumi/orientale-ambra/"
 ---

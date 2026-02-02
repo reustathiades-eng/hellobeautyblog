@@ -4,4 +4,6 @@ description: "Delektuj się perfumami gourmand z nutami wanilii, czekolady i kaw
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/pl/perfumy/gourmand/"
 ---

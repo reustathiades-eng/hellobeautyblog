@@ -4,4 +4,6 @@ description: "Explore fragrâncias sedutoras para encontros românticos e ocasi�
 emoji: "💕"
 subcategory_type: "occasion"
 subcategory_value: "Romantic"
+translationKey: "perfumes-romantic"
+url: "/pt/perfumes/romantico/"
 ---

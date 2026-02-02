@@ -4,4 +4,6 @@ description: "Classic fougère fragrances built on lavender, oakmoss, and coumar
 emoji: "🌾"
 subcategory_type: "subfamily"
 subcategory_value: "aromatic-fougere"
+translationKey: "perfumes-aromatic-fougere"
+url: "/zh/perfumes/aromatic-fougere/"
 ---

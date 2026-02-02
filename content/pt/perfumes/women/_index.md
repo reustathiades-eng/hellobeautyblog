@@ -4,4 +4,6 @@ description: "Descubra nossa coleção de perfumes femininos, de florais atempor
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/pt/perfumes/feminino/"
 ---

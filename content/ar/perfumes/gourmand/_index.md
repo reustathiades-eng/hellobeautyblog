@@ -4,4 +4,6 @@ description: "استمتع بعطور الذواقة اللذيذة بنوتات
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/ar/perfumes/gourmand/"
 ---

@@ -4,4 +4,6 @@ description: "Aromatic spicy fragrances blending herbs with warm pepper and ging
 emoji: "🫚"
 subcategory_type: "subfamily"
 subcategory_value: "aromatic-spicy"
+translationKey: "perfumes-aromatic-spicy"
+url: "/en/perfumes/aromatic-spicy/"
 ---

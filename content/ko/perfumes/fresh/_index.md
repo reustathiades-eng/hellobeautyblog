@@ -4,4 +4,6 @@ description: "시트러스, 아쿠아틱, 그린 노트의 상쾌한 프레시 �
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/ko/perfumes/fresh/"
 ---

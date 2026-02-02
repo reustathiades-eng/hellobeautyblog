@@ -4,4 +4,6 @@ description: "अपने खास दिन के लिए सही इत
 emoji: "💒"
 subcategory_type: "occasion"
 subcategory_value: "Wedding"
+translationKey: "perfumes-wedding"
+url: "/hi/perfumes/wedding/"
 ---

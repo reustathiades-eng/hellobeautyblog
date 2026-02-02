@@ -4,4 +4,6 @@ description: "寒い日のための温かみのある豊かなウィンター香
 emoji: "❄️"
 subcategory_type: "occasion"
 subcategory_value: "Winter"
+translationKey: "perfumes-winter"
+url: "/ja/perfumes/winter/"
 ---

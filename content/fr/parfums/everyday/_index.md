@@ -4,4 +4,6 @@ description: "Trouvez votre parfum idéal pour tous les jours, des senteurs poly
 emoji: "☀️"
 subcategory_type: "occasion"
 subcategory_value: "Everyday"
+translationKey: "perfumes-everyday"
+url: "/fr/parfums/quotidien/"
 ---

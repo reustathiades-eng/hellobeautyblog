@@ -4,4 +4,6 @@ description: "Ontdek aromatische geuren die kruiden, lavendel en specerijen comb
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/nl/parfum/aromatisch/"
 ---

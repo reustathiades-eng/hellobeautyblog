@@ -4,4 +4,6 @@ description: "Seçkin erkek parfümlerimizi keşfedin, taze akuatik notalardan c
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/tr/parfum/erkek/"
 ---

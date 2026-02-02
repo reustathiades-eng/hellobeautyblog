@@ -4,4 +4,6 @@ description: "शाश्वत पुष्प से आधुनिक ओ�
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/hi/perfumes/women/"
 ---

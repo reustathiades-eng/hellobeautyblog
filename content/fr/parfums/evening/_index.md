@@ -4,4 +4,6 @@ description: "Découvrez des fragrances captivantes qui marquent les esprits apr
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/fr/parfums/soiree/"
 ---

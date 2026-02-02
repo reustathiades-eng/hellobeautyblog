@@ -4,4 +4,6 @@ description: "Parcourez notre collection de parfums boisés au santal, cèdre et
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/fr/parfums/boise/"
 ---

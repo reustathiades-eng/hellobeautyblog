@@ -4,4 +4,6 @@ description: "Ontdek onze collectie van genderneutrale geuren die grenzen oversc
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/nl/parfum/unisex/"
 ---

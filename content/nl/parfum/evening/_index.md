@@ -4,4 +4,6 @@ description: "Ontdek betoverende avondparfums die een blijvende indruk maken."
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/nl/parfum/avond/"
 ---

@@ -4,4 +4,6 @@ description: "Rich coffee fragrances with espresso, mocha, and roasted bean note
 emoji: "☕"
 subcategory_type: "subfamily"
 subcategory_value: "gourmand-coffee"
+translationKey: "perfumes-gourmand-coffee"
+url: "/en/perfumes/gourmand-coffee/"
 ---

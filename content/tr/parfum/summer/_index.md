@@ -4,4 +4,6 @@ description: "Sıcak hava için hafif, ferah notalarla canlandırıcı yaz kokul
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/tr/parfum/yaz/"
 ---

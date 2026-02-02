@@ -4,4 +4,6 @@ description: "Des fragrances rafraîchissantes aux notes légères et aériennes
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/fr/parfums/ete/"
 ---

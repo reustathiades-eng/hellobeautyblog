@@ -4,4 +4,6 @@ description: "Esplora la nostra selezione di profumi maschili distinti, dai fres
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/it/profumi/uomo/"
 ---

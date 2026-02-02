@@ -4,4 +4,6 @@ description: "Vanilya, amber ve egzotik baharat notalarıyla zengin oryantal kok
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/tr/parfum/oryantal/"
 ---

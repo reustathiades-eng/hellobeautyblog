@@ -4,4 +4,6 @@ description: "Refreshing summer fragrances with light, breezy notes for warm wea
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/en/perfumes/summer/"
 ---

@@ -4,4 +4,6 @@ description: "フレッシュアクアティックからボールドウッディ
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/ja/perfumes/men/"
 ---

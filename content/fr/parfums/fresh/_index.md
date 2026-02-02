@@ -4,4 +4,6 @@ description: "Découvrez des fragrances fraîches vivifiantes aux notes d'agrume
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/fr/parfums/frais/"
 ---

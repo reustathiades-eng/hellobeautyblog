@@ -4,4 +4,6 @@ description: "Scopri fragranze fresche e tonificanti con note agrumate, acquatic
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/it/profumi/fresco/"
 ---

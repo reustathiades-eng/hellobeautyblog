@@ -4,4 +4,6 @@ description: "Entdecken Sie unsere Kollektion der feinsten Damenparfums, von zei
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/de/parfum/damen/"
 ---

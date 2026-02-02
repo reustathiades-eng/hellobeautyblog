@@ -4,4 +4,6 @@ description: "اكتشف عالم عطور الشيبر الأنيقة المب�
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/ar/perfumes/chypre/"
 ---

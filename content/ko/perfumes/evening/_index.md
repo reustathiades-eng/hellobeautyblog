@@ -4,4 +4,6 @@ description: "해가 진 후 강렬한 인상을 남기는 매혹적인 이브�
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/ko/perfumes/evening/"
 ---

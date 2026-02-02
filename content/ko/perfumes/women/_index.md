@@ -4,4 +4,6 @@ description: "시대를 초월한 플로럴부터 모던 오리엔탈까지, 엄
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/ko/perfumes/women/"
 ---

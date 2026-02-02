@@ -4,4 +4,6 @@ description: "Elegant chypre fruity fragrances combining citrus with oakmoss and
 emoji: "🍊"
 subcategory_type: "subfamily"
 subcategory_value: "chypre-fruity"
+translationKey: "perfumes-chypre-fruity"
+url: "/ja/perfumes/chypre-fruity/"
 ---

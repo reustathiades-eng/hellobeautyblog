@@ -4,4 +4,6 @@ description: "Irresistible sweet fragrances with caramel, toffee, and praline no
 emoji: "🍬"
 subcategory_type: "subfamily"
 subcategory_value: "gourmand-sweet"
+translationKey: "perfumes-gourmand-sweet"
+url: "/ar/perfumes/gourmand-sweet/"
 ---

@@ -4,4 +4,6 @@ description: "Scopri la nostra collezione di fragranze gender-neutral che trasce
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/it/profumi/unisex/"
 ---

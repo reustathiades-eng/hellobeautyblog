@@ -4,4 +4,6 @@ description: "探索我们的东方调香水系列，蕴含香草、琥珀和异
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/zh/perfumes/oriental/"
 ---

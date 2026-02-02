@@ -4,4 +4,6 @@ description: "Genießen Sie köstliche Gourmand-Düfte mit Noten von Vanille, Sc
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/de/parfum/gourmand/"
 ---

@@ -4,4 +4,6 @@ description: "اكتشف عطوراً منعشة بنوتات الحمضيات �
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/ar/perfumes/fresh/"
 ---

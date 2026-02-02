@@ -4,4 +4,6 @@ description: "اكتشف عطوراً صيفية منعشة بنوتات خفي�
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/ar/perfumes/summer/"
 ---

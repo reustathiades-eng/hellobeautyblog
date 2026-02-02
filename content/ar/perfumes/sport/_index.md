@@ -4,4 +4,6 @@ description: "عطور منشطة تبقيك منتعشاً أثناء النش�
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/ar/perfumes/sport/"
 ---

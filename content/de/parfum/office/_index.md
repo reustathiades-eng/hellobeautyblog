@@ -4,4 +4,6 @@ description: "Professionelle, raffinierte und dezente Düfte für den Arbeitspla
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/de/parfum/buero/"
 ---

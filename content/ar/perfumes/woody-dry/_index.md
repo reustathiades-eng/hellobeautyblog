@@ -4,4 +4,6 @@ description: "Refined dry woody fragrances featuring vetiver, cedar, and sandalw
 emoji: "🏜️"
 subcategory_type: "subfamily"
 subcategory_value: "woody-dry"
+translationKey: "perfumes-woody-dry"
+url: "/ar/perfumes/woody-dry/"
 ---

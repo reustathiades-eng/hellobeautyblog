@@ -4,4 +4,6 @@ description: "चंदन, देवदार और वेटिवर के 
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/hi/perfumes/woody/"
 ---

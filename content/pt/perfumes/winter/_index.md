@@ -4,4 +4,6 @@ description: "Fragrâncias quentes e envolventes com notas ricas para os dias fr
 emoji: "❄️"
 subcategory_type: "occasion"
 subcategory_value: "Winter"
+translationKey: "perfumes-winter"
+url: "/pt/perfumes/inverno/"
 ---

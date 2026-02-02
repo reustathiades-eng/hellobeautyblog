@@ -4,4 +4,6 @@ description: "Odkryj elegancki świat perfum chypre, zbudowanych na mchu dębowy
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/pl/perfumy/chypre/"
 ---

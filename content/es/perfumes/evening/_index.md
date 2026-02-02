@@ -4,4 +4,6 @@ description: "Descubre fragancias cautivadoras que dejan una impresión duradera
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/es/perfumes/noche/"
 ---

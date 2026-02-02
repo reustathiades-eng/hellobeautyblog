@@ -4,4 +4,6 @@ description: "Odkryj naszą kolekcję kwiatowych zapachów, od delikatnej róży
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/pl/perfumy/kwiatowe/"
 ---

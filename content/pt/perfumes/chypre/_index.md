@@ -4,4 +4,6 @@ description: "Descubra o elegante mundo das fragrâncias chipre, construídas so
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/pt/perfumes/chipre/"
 ---

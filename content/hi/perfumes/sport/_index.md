@@ -4,4 +4,6 @@ description: "सक्रिय गतिविधियों के दौर
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/hi/perfumes/sport/"
 ---

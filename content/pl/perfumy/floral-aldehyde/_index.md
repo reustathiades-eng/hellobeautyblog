@@ -4,4 +4,6 @@ description: "Classic floral aldehyde fragrances, the foundation of timeless per
 emoji: "✨"
 subcategory_type: "subfamily"
 subcategory_value: "floral-aldehyde"
+translationKey: "perfumes-floral-aldehyde"
+url: "/pl/perfumy/kwiatowo-aldehydowe/"
 ---

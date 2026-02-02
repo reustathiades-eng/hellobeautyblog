@@ -4,4 +4,6 @@ description: "Fragranze energizzanti che ti mantengono fresco durante l'attivitÃ
 emoji: "ğŸƒ"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/it/profumi/sport/"
 ---

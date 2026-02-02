@@ -4,4 +4,6 @@ description: "Esplora fragranze seducenti per serate romantiche e occasioni spec
 emoji: "💕"
 subcategory_type: "occasion"
 subcategory_value: "Romantic"
+translationKey: "perfumes-romantic"
+url: "/it/profumi/romantico/"
 ---

@@ -4,4 +4,6 @@ description: "Entdecken Sie verführerische Düfte für romantische Abende und b
 emoji: "💕"
 subcategory_type: "occasion"
 subcategory_value: "Romantic"
+translationKey: "perfumes-romantic"
+url: "/de/parfum/romantisch/"
 ---

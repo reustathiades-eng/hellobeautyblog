@@ -4,4 +4,6 @@ description: "Encuentra tu fragancia perfecta para el día a día, aromas versá
 emoji: "☀️"
 subcategory_type: "occasion"
 subcategory_value: "Everyday"
+translationKey: "perfumes-everyday"
+url: "/es/perfumes/diario/"
 ---

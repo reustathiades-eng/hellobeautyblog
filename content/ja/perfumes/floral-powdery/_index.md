@@ -4,4 +4,6 @@ description: "Soft and elegant floral powdery fragrances with iris, violet, and 
 emoji: "💜"
 subcategory_type: "subfamily"
 subcategory_value: "floral-powdery"
+translationKey: "perfumes-floral-powdery"
+url: "/ja/perfumes/floral-powdery/"
 ---

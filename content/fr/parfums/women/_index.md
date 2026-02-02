@@ -4,4 +4,6 @@ description: "Découvrez notre collection de parfums pour femme, des floraux int
 emoji: "👩"
 subcategory_type: "gender"
 subcategory_value: "Women"
+translationKey: "perfumes-women"
+url: "/fr/parfums/femme/"
 ---

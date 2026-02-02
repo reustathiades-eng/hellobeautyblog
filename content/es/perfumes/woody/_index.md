@@ -4,4 +4,6 @@ description: "Explora nuestra colección de fragancias amaderadas con sándalo, 
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/es/perfumes/amaderado/"
 ---

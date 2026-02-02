@@ -4,4 +4,6 @@ description: "اكتشف العطور الشرقية الفاخرة بنوتات
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/ar/perfumes/oriental/"
 ---

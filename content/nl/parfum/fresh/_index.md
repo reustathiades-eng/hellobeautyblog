@@ -4,4 +4,6 @@ description: "Ontdek verkwikkende frisse geuren met citrus-, aquatische en groen
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/nl/parfum/fris/"
 ---

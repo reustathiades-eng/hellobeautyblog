@@ -4,4 +4,6 @@ description: "Discover rich oriental fragrances with warm notes of vanilla, ambe
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/en/perfumes/oriental/"
 ---

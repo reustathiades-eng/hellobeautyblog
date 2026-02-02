@@ -4,4 +4,6 @@ description: "Entdecken Sie unsere Auswahl an distinguierten Herrenparfums, von 
 emoji: "👨"
 subcategory_type: "gender"
 subcategory_value: "Men"
+translationKey: "perfumes-men"
+url: "/de/parfum/herren/"
 ---

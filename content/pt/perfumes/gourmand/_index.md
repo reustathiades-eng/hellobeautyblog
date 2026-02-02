@@ -4,4 +4,6 @@ description: "Delicie-se com fragrâncias gourmand com notas de baunilha, chocol
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/pt/perfumes/gourmand/"
 ---

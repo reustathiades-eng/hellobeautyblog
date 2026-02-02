@@ -4,4 +4,6 @@ description: "साहसिक यात्रियों के लिए �
 emoji: "✈️"
 subcategory_type: "occasion"
 subcategory_value: "Travel"
+translationKey: "perfumes-travel"
+url: "/hi/perfumes/travel/"
 ---

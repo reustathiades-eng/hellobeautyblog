@@ -4,4 +4,6 @@ description: "Fresh marine fragrances with sea salt, seaweed, and ocean air note
 emoji: "⛵"
 subcategory_type: "subfamily"
 subcategory_value: "aromatic-marine"
+translationKey: "perfumes-aromatic-marine"
+url: "/hi/perfumes/aromatic-marine/"
 ---

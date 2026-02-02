@@ -4,4 +4,6 @@ description: "Entdecken Sie aromatische Düfte, die Kräuter, Lavendel und Gewü
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/de/parfum/aromatisch/"
 ---

@@ -4,4 +4,6 @@ description: "夜に印象を残す魅惑的なイブニング香水コレクシ
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/ja/perfumes/evening/"
 ---

@@ -4,4 +4,6 @@ description: "Geniet van heerlijke gourmand-geuren met noten van vanille, chocol
 emoji: "🍫"
 subcategory_type: "family"
 subcategory_value: "gourmand"
+translationKey: "perfumes-gourmand"
+url: "/nl/parfum/gourmand/"
 ---

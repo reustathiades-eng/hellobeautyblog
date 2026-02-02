@@ -4,4 +4,6 @@ description: "Crisp green fragrances with galbanum, fig leaf, and fresh-cut gras
 emoji: "🍃"
 subcategory_type: "subfamily"
 subcategory_value: "fresh-green"
+translationKey: "perfumes-fresh-green"
+url: "/nl/parfum/groen/"
 ---

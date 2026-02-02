@@ -4,4 +4,6 @@ description: "Playful fresh fruity fragrances with peach, apple, pear, and berry
 emoji: "🍑"
 subcategory_type: "subfamily"
 subcategory_value: "fresh-fruity"
+translationKey: "perfumes-fresh-fruity"
+url: "/hi/perfumes/fresh-fruity/"
 ---

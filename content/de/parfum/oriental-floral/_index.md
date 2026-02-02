@@ -4,4 +4,6 @@ description: "Exotic oriental floral fragrances blending Eastern mystique with f
 emoji: "🌺"
 subcategory_type: "subfamily"
 subcategory_value: "oriental-floral"
+translationKey: "perfumes-oriental-floral"
+url: "/de/parfum/orientalisch-blumig/"
 ---

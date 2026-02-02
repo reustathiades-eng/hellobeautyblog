@@ -4,4 +4,6 @@ description: "繊細なローズからエキゾチックなジャスミンまで
 emoji: "🌸"
 subcategory_type: "family"
 subcategory_value: "floral"
+translationKey: "perfumes-floral"
+url: "/ja/perfumes/floral/"
 ---

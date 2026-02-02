@@ -4,4 +4,6 @@ description: "ओक मॉस और बरगामोट पर निर्�
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/hi/perfumes/chypre/"
 ---

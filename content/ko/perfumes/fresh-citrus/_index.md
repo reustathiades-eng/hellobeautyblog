@@ -4,4 +4,6 @@ description: "Bright and zesty citrus fragrances with bergamot, lemon, and grape
 emoji: "🍋"
 subcategory_type: "subfamily"
 subcategory_value: "fresh-citrus"
+translationKey: "perfumes-fresh-citrus"
+url: "/ko/perfumes/fresh-citrus/"
 ---

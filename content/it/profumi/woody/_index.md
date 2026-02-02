@@ -4,4 +4,6 @@ description: "Esplora la nostra collezione di fragranze legnose con sandalo, ced
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/it/profumi/legnoso/"
 ---

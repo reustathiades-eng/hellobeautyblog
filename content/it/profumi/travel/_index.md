@@ -4,4 +4,6 @@ description: "Fragranze pratiche per viaggiatori e avventurieri."
 emoji: "✈️"
 subcategory_type: "occasion"
 subcategory_value: "Travel"
+translationKey: "perfumes-travel"
+url: "/it/profumi/viaggio/"
 ---

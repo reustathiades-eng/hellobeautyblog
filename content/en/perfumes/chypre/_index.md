@@ -4,4 +4,6 @@ description: "Discover the elegant world of chypre fragrances, built on oakmoss 
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/en/perfumes/chypre/"
 ---

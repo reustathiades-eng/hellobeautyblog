@@ -4,4 +4,6 @@ description: "运动时保持清新的活力运动香水。"
 emoji: "🏃"
 subcategory_type: "occasion"
 subcategory_value: "Sport"
+translationKey: "perfumes-sport"
+url: "/zh/perfumes/sport/"
 ---

@@ -4,4 +4,6 @@ description: "Entdecken Sie belebende frische Düfte mit Zitrus-, Aquatischen un
 emoji: "🍃"
 subcategory_type: "family"
 subcategory_value: "fresh"
+translationKey: "perfumes-fresh"
+url: "/de/parfum/frisch/"
 ---

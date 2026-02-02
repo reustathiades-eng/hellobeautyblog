@@ -4,4 +4,6 @@ description: "Woody aromatic fragrances combining noble woods with fresh herbs a
 emoji: "🌿"
 subcategory_type: "subfamily"
 subcategory_value: "woody-aromatic"
+translationKey: "perfumes-woody-aromatic"
+url: "/hi/perfumes/woody-aromatic/"
 ---

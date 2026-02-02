@@ -4,4 +4,6 @@ description: "Fragranze professionali, raffinate e sottili, appropriate per l'uf
 emoji: "💼"
 subcategory_type: "occasion"
 subcategory_value: "Office"
+translationKey: "perfumes-office"
+url: "/it/profumi/ufficio/"
 ---

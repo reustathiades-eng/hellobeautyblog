@@ -4,4 +4,6 @@ description: "ハーブ、ラベンダー、スパイスを融合したアロマ
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/ja/perfumes/aromatic/"
 ---

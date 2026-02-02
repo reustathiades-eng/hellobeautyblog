@@ -4,4 +4,6 @@ description: "Sınırları aşan cinsiyet ayrımı gözetmeyen parfüm koleksiyo
 emoji: "⚧️"
 subcategory_type: "gender"
 subcategory_value: "Unisex"
+translationKey: "perfumes-unisex"
+url: "/tr/parfum/unisex/"
 ---

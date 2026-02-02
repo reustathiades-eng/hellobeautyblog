@@ -4,4 +4,6 @@ description: "Scopri fragranze orientali ricche e opulente con note di vaniglia,
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/it/profumi/orientale/"
 ---

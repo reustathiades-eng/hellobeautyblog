@@ -4,4 +4,6 @@ description: "Bold woody spicy fragrances with cedar, pepper, and warm spice not
 emoji: "🔥"
 subcategory_type: "subfamily"
 subcategory_value: "woody-spicy"
+translationKey: "perfumes-woody-spicy"
+url: "/ja/perfumes/woody-spicy/"
 ---

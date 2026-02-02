@@ -4,4 +4,6 @@ description: "オークモスとベルガモットを基調としたシプレ香
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/ja/perfumes/chypre/"
 ---

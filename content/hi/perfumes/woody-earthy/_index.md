@@ -4,4 +4,6 @@ description: "Grounding earthy woody fragrances with oud, patchouli, and incense
 emoji: "🍄"
 subcategory_type: "subfamily"
 subcategory_value: "woody-earthy"
+translationKey: "perfumes-woody-earthy"
+url: "/hi/perfumes/woody-earthy/"
 ---

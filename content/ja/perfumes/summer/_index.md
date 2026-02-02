@@ -4,4 +4,6 @@ description: "暖かい季節にぴったりの軽やかでフレッシュなサ
 emoji: "🏖️"
 subcategory_type: "occasion"
 subcategory_value: "Summer"
+translationKey: "perfumes-summer"
+url: "/ja/perfumes/summer/"
 ---

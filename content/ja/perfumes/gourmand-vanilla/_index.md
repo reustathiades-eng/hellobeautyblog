@@ -4,4 +4,6 @@ description: "Decadent gourmand vanilla fragrances with rich, creamy, and sweet 
 emoji: "🍨"
 subcategory_type: "subfamily"
 subcategory_value: "gourmand-vanilla"
+translationKey: "perfumes-gourmand-vanilla"
+url: "/ja/perfumes/gourmand-vanilla/"
 ---

@@ -4,4 +4,6 @@ description: "Meşe yosunu ve bergamot üzerine inşa edilmiş chypre kokuları 
 emoji: "🍂"
 subcategory_type: "family"
 subcategory_value: "chypre"
+translationKey: "perfumes-chypre"
+url: "/tr/parfum/chypre/"
 ---

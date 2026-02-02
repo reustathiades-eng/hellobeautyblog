@@ -4,4 +4,6 @@ description: "Odkryj aromatyczne zapachy łączące zioła, lawendę i przyprawy
 emoji: "🌿"
 subcategory_type: "family"
 subcategory_value: "aromatic"
+translationKey: "perfumes-aromatic"
+url: "/pl/perfumy/aromatyczne/"
 ---

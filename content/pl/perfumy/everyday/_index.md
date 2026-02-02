@@ -4,4 +4,6 @@ description: "Znajdź swój idealny codzienny zapach — wszechstronne i komfort
 emoji: "☀️"
 subcategory_type: "occasion"
 subcategory_value: "Everyday"
+translationKey: "perfumes-everyday"
+url: "/pl/perfumy/codzienny/"
 ---

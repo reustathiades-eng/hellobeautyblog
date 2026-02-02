@@ -4,4 +4,6 @@ description: "サンダルウッド、シダー、ベチバーのウッディ香
 emoji: "🌲"
 subcategory_type: "family"
 subcategory_value: "woody"
+translationKey: "perfumes-woody"
+url: "/ja/perfumes/woody/"
 ---

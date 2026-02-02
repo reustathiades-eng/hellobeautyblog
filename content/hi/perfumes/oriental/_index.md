@@ -4,4 +4,6 @@ description: "वेनिला, एम्बर और विदेशी म�
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/hi/perfumes/oriental/"
 ---

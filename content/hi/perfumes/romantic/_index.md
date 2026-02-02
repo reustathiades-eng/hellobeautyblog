@@ -4,4 +4,6 @@ description: "डेट नाइट और विशेष अवसरों �
 emoji: "💕"
 subcategory_type: "occasion"
 subcategory_value: "Romantic"
+translationKey: "perfumes-romantic"
+url: "/hi/perfumes/romantic/"
 ---

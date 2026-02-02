@@ -4,4 +4,6 @@ description: "Odkryj bogate orientalne zapachy z nutami wanilii, ambry i przypra
 emoji: "🌙"
 subcategory_type: "family"
 subcategory_value: "oriental"
+translationKey: "perfumes-oriental"
+url: "/pl/perfumy/orientalne/"
 ---

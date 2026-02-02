@@ -4,4 +4,6 @@ description: "Gün batımından sonra kalıcı bir izlenim bırakan büyüleyici
 emoji: "🌃"
 subcategory_type: "occasion"
 subcategory_value: "Evening"
+translationKey: "perfumes-evening"
+url: "/tr/parfum/aksam/"
 ---
