@@ -126,27 +126,27 @@
           {
             "name": "Grasse",
             "emoji": "💧",
-            "url": "/fr/soins/grasse/"
+            "url": "/fr/soins/oily/"
           },
           {
             "name": "Sèche",
             "emoji": "🏜️",
-            "url": "/fr/soins/seche/"
+            "url": "/fr/soins/dry/"
           },
           {
             "name": "Mixte",
             "emoji": "⚖️",
-            "url": "/fr/soins/mixte/"
+            "url": "/fr/soins/combination/"
           },
           {
             "name": "Sensible",
             "emoji": "🌸",
-            "url": "/fr/soins/sensible/"
+            "url": "/fr/soins/sensitive/"
           },
           {
             "name": "Normale",
             "emoji": "✨",
-            "url": "/fr/soins/normale/"
+            "url": "/fr/soins/normal/"
           }
         ]
       },
@@ -156,12 +156,12 @@
           {
             "name": "Nettoyant",
             "emoji": "🧴",
-            "url": "/fr/soins/nettoyant/"
+            "url": "/fr/soins/cleanser/"
           },
           {
             "name": "Tonique",
             "emoji": "💦",
-            "url": "/fr/soins/tonique/"
+            "url": "/fr/soins/toner/"
           },
           {
             "name": "Sérum",
@@ -171,7 +171,7 @@
           {
             "name": "Crème",
             "emoji": "🧊",
-            "url": "/fr/soins/creme/"
+            "url": "/fr/soins/moisturizer/"
           },
           {
             "name": "SPF",
@@ -181,7 +181,7 @@
           {
             "name": "Masque",
             "emoji": "🎭",
-            "url": "/fr/soins/masque/"
+            "url": "/fr/soins/mask/"
           }
         ]
       },
@@ -191,7 +191,7 @@
           {
             "name": "Anti-Âge",
             "emoji": "⏰",
-            "url": "/fr/soins/anti-age/"
+            "url": "/fr/soins/anti-aging/"
           },
           {
             "name": "Acné",
@@ -201,12 +201,12 @@
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/fr/soins/hydratation/"
+            "url": "/fr/soins/hydration/"
           },
           {
             "name": "Éclat",
             "emoji": "✨",
-            "url": "/fr/soins/eclat/"
+            "url": "/fr/soins/brightening/"
           },
           {
             "name": "Pores",
@@ -243,27 +243,27 @@
           {
             "name": "Fettige Haut",
             "emoji": "✨",
-            "url": "/de/hautpflege/fettige-haut/"
+            "url": "/de/hautpflege/oily/"
           },
           {
             "name": "Trockene Haut",
             "emoji": "💧",
-            "url": "/de/hautpflege/trockene-haut/"
+            "url": "/de/hautpflege/dry/"
           },
           {
             "name": "Mischhaut",
             "emoji": "⚖️",
-            "url": "/de/hautpflege/mischhaut/"
+            "url": "/de/hautpflege/combination/"
           },
           {
             "name": "Sensible Haut",
             "emoji": "🌸",
-            "url": "/de/hautpflege/sensible-haut/"
+            "url": "/de/hautpflege/sensitive/"
           },
           {
             "name": "Normale Haut",
             "emoji": "🌟",
-            "url": "/de/hautpflege/normale-haut/"
+            "url": "/de/hautpflege/normal/"
           }
         ]
       },
@@ -273,7 +273,7 @@
           {
             "name": "Reinigung",
             "emoji": "🧼",
-            "url": "/de/hautpflege/reinigung/"
+            "url": "/de/hautpflege/cleanser/"
           },
           {
             "name": "Toner",
@@ -288,17 +288,17 @@
           {
             "name": "Feuchtigkeitspflege",
             "emoji": "🌊",
-            "url": "/de/hautpflege/feuchtigkeitspflege/"
+            "url": "/de/hautpflege/moisturizer/"
           },
           {
             "name": "Sonnenschutz",
             "emoji": "☀️",
-            "url": "/de/hautpflege/sonnenschutz/"
+            "url": "/de/hautpflege/sunscreen/"
           },
           {
             "name": "Masken",
             "emoji": "🎭",
-            "url": "/de/hautpflege/masken/"
+            "url": "/de/hautpflege/mask/"
           }
         ]
       },
@@ -313,22 +313,22 @@
           {
             "name": "Akne",
             "emoji": "🎯",
-            "url": "/de/hautpflege/akne/"
+            "url": "/de/hautpflege/acne/"
           },
           {
             "name": "Feuchtigkeit",
             "emoji": "💧",
-            "url": "/de/hautpflege/feuchtigkeit/"
+            "url": "/de/hautpflege/hydration/"
           },
           {
             "name": "Aufhellung",
             "emoji": "✨",
-            "url": "/de/hautpflege/aufhellung/"
+            "url": "/de/hautpflege/brightening/"
           },
           {
             "name": "Poren",
             "emoji": "🔍",
-            "url": "/de/hautpflege/poren/"
+            "url": "/de/hautpflege/pores/"
           }
         ]
       }
@@ -360,27 +360,27 @@
           {
             "name": "Piel Grasa",
             "emoji": "🌟",
-            "url": "/es/cuidado-piel/piel-grasa/"
+            "url": "/es/cuidado-piel/oily/"
           },
           {
             "name": "Piel Seca",
             "emoji": "💧",
-            "url": "/es/cuidado-piel/piel-seca/"
+            "url": "/es/cuidado-piel/dry/"
           },
           {
             "name": "Piel Mixta",
             "emoji": "⚖️",
-            "url": "/es/cuidado-piel/piel-mixta/"
+            "url": "/es/cuidado-piel/combination/"
           },
           {
             "name": "Piel Sensible",
             "emoji": "🌸",
-            "url": "/es/cuidado-piel/piel-sensible/"
+            "url": "/es/cuidado-piel/sensitive/"
           },
           {
             "name": "Piel Normal",
             "emoji": "✨",
-            "url": "/es/cuidado-piel/piel-normal/"
+            "url": "/es/cuidado-piel/normal/"
           }
         ]
       },
@@ -390,32 +390,32 @@
           {
             "name": "Limpiadores",
             "emoji": "🧼",
-            "url": "/es/cuidado-piel/limpiadores/"
+            "url": "/es/cuidado-piel/cleanser/"
           },
           {
             "name": "Tónicos",
             "emoji": "💫",
-            "url": "/es/cuidado-piel/tonicos/"
+            "url": "/es/cuidado-piel/toner/"
           },
           {
             "name": "Sérums",
             "emoji": "💎",
-            "url": "/es/cuidado-piel/serums/"
+            "url": "/es/cuidado-piel/serum/"
           },
           {
             "name": "Hidratantes",
             "emoji": "🌊",
-            "url": "/es/cuidado-piel/hidratantes/"
+            "url": "/es/cuidado-piel/moisturizer/"
           },
           {
             "name": "Protector Solar",
             "emoji": "☀️",
-            "url": "/es/cuidado-piel/protector-solar/"
+            "url": "/es/cuidado-piel/sunscreen/"
           },
           {
             "name": "Mascarillas",
             "emoji": "🎭",
-            "url": "/es/cuidado-piel/mascarillas/"
+            "url": "/es/cuidado-piel/mask/"
           }
         ]
       },
@@ -425,7 +425,7 @@
           {
             "name": "Anti-Edad",
             "emoji": "🕐",
-            "url": "/es/cuidado-piel/anti-edad/"
+            "url": "/es/cuidado-piel/anti-aging/"
           },
           {
             "name": "Acné",
@@ -435,17 +435,17 @@
           {
             "name": "Hidratación",
             "emoji": "💧",
-            "url": "/es/cuidado-piel/hidratacion/"
+            "url": "/es/cuidado-piel/hydration/"
           },
           {
             "name": "Luminosidad",
             "emoji": "✨",
-            "url": "/es/cuidado-piel/luminosidad/"
+            "url": "/es/cuidado-piel/brightening/"
           },
           {
             "name": "Poros",
             "emoji": "🔍",
-            "url": "/es/cuidado-piel/poros/"
+            "url": "/es/cuidado-piel/pores/"
           }
         ]
       }
@@ -477,27 +477,27 @@
           {
             "name": "Pelle Grassa",
             "emoji": "🛢️",
-            "url": "/it/skincare/pelle-grassa/"
+            "url": "/it/skincare/oily/"
           },
           {
             "name": "Pelle Secca",
             "emoji": "🏜️",
-            "url": "/it/skincare/pelle-secca/"
+            "url": "/it/skincare/dry/"
           },
           {
             "name": "Pelle Mista",
             "emoji": "⚖️",
-            "url": "/it/skincare/pelle-mista/"
+            "url": "/it/skincare/combination/"
           },
           {
             "name": "Pelle Sensibile",
             "emoji": "🌸",
-            "url": "/it/skincare/pelle-sensibile/"
+            "url": "/it/skincare/sensitive/"
           },
           {
             "name": "Pelle Normale",
             "emoji": "✨",
-            "url": "/it/skincare/pelle-normale/"
+            "url": "/it/skincare/normal/"
           }
         ]
       },
@@ -507,32 +507,32 @@
           {
             "name": "Detergente",
             "emoji": "🧴",
-            "url": "/it/skincare/detergente/"
+            "url": "/it/skincare/cleanser/"
           },
           {
             "name": "Tonico",
             "emoji": "💧",
-            "url": "/it/skincare/tonico/"
+            "url": "/it/skincare/toner/"
           },
           {
             "name": "Siero",
             "emoji": "💎",
-            "url": "/it/skincare/siero/"
+            "url": "/it/skincare/serum/"
           },
           {
             "name": "Crema Idratante",
             "emoji": "🍯",
-            "url": "/it/skincare/crema-idratante/"
+            "url": "/it/skincare/moisturizer/"
           },
           {
             "name": "Protezione Solare",
             "emoji": "☀️",
-            "url": "/it/skincare/protezione-solare/"
+            "url": "/it/skincare/sunscreen/"
           },
           {
             "name": "Maschera",
             "emoji": "🎭",
-            "url": "/it/skincare/maschera/"
+            "url": "/it/skincare/mask/"
           }
         ]
       },
@@ -542,7 +542,7 @@
           {
             "name": "Anti-Età",
             "emoji": "⏰",
-            "url": "/it/skincare/anti-eta/"
+            "url": "/it/skincare/anti-aging/"
           },
           {
             "name": "Acne",
@@ -552,17 +552,17 @@
           {
             "name": "Idratazione",
             "emoji": "💦",
-            "url": "/it/skincare/idratazione/"
+            "url": "/it/skincare/hydration/"
           },
           {
             "name": "Illuminante",
             "emoji": "✨",
-            "url": "/it/skincare/illuminante/"
+            "url": "/it/skincare/brightening/"
           },
           {
             "name": "Pori",
             "emoji": "🔍",
-            "url": "/it/skincare/pori/"
+            "url": "/it/skincare/pores/"
           }
         ]
       }
@@ -594,27 +594,27 @@
           {
             "name": "Pele Oleosa",
             "emoji": "✨",
-            "url": "/pt/skincare/pele-oleosa/"
+            "url": "/pt/cuidados-pele/oily/"
           },
           {
             "name": "Pele Seca",
             "emoji": "💧",
-            "url": "/pt/skincare/pele-seca/"
+            "url": "/pt/cuidados-pele/dry/"
           },
           {
             "name": "Pele Mista",
             "emoji": "⚖️",
-            "url": "/pt/skincare/pele-mista/"
+            "url": "/pt/cuidados-pele/combination/"
           },
           {
             "name": "Pele Sensível",
             "emoji": "🌸",
-            "url": "/pt/skincare/pele-sensivel/"
+            "url": "/pt/cuidados-pele/sensitive/"
           },
           {
             "name": "Pele Normal",
             "emoji": "🌿",
-            "url": "/pt/skincare/pele-normal/"
+            "url": "/pt/cuidados-pele/normal/"
           }
         ]
       },
@@ -624,32 +624,32 @@
           {
             "name": "Limpeza",
             "emoji": "🧼",
-            "url": "/pt/skincare/limpeza/"
+            "url": "/pt/cuidados-pele/cleanser/"
           },
           {
             "name": "Tônico",
             "emoji": "💫",
-            "url": "/pt/skincare/tonico/"
+            "url": "/pt/cuidados-pele/toner/"
           },
           {
             "name": "Sérum",
             "emoji": "🔬",
-            "url": "/pt/skincare/serum/"
+            "url": "/pt/cuidados-pele/serum/"
           },
           {
             "name": "Hidratante",
             "emoji": "🧴",
-            "url": "/pt/skincare/hidratante/"
+            "url": "/pt/cuidados-pele/moisturizer/"
           },
           {
             "name": "Protetor Solar",
             "emoji": "☀️",
-            "url": "/pt/skincare/protetor-solar/"
+            "url": "/pt/cuidados-pele/sunscreen/"
           },
           {
             "name": "Máscara",
             "emoji": "🎭",
-            "url": "/pt/skincare/mascara/"
+            "url": "/pt/cuidados-pele/mask/"
           }
         ]
       },
@@ -659,27 +659,27 @@
           {
             "name": "Anti-Idade",
             "emoji": "⏰",
-            "url": "/pt/skincare/anti-idade/"
+            "url": "/pt/cuidados-pele/anti-aging/"
           },
           {
             "name": "Acne",
             "emoji": "🎯",
-            "url": "/pt/skincare/acne/"
+            "url": "/pt/cuidados-pele/acne/"
           },
           {
             "name": "Hidratação",
             "emoji": "💦",
-            "url": "/pt/skincare/hidratacao/"
+            "url": "/pt/cuidados-pele/hydration/"
           },
           {
             "name": "Iluminação",
             "emoji": "✨",
-            "url": "/pt/skincare/iluminacao/"
+            "url": "/pt/cuidados-pele/brightening/"
           },
           {
             "name": "Poros",
             "emoji": "🔍",
-            "url": "/pt/skincare/poros/"
+            "url": "/pt/cuidados-pele/pores/"
           }
         ]
       }
@@ -711,27 +711,27 @@
           {
             "name": "Vette Huid",
             "emoji": "✨",
-            "url": "/nl/huidverzorging/vette-huid/"
+            "url": "/nl/huidverzorging/oily/"
           },
           {
             "name": "Droge Huid",
             "emoji": "💧",
-            "url": "/nl/huidverzorging/droge-huid/"
+            "url": "/nl/huidverzorging/dry/"
           },
           {
             "name": "Gemengde Huid",
             "emoji": "⚖️",
-            "url": "/nl/huidverzorging/gemengde-huid/"
+            "url": "/nl/huidverzorging/combination/"
           },
           {
             "name": "Gevoelige Huid",
             "emoji": "🌸",
-            "url": "/nl/huidverzorging/gevoelige-huid/"
+            "url": "/nl/huidverzorging/sensitive/"
           },
           {
             "name": "Normale Huid",
             "emoji": "😊",
-            "url": "/nl/huidverzorging/normale-huid/"
+            "url": "/nl/huidverzorging/normal/"
           }
         ]
       },
@@ -741,7 +741,7 @@
           {
             "name": "Reiniger",
             "emoji": "🧼",
-            "url": "/nl/huidverzorging/reiniger/"
+            "url": "/nl/huidverzorging/cleanser/"
           },
           {
             "name": "Toner",
@@ -756,17 +756,17 @@
           {
             "name": "Vochtcrème",
             "emoji": "🍯",
-            "url": "/nl/huidverzorging/vochtcreme/"
+            "url": "/nl/huidverzorging/moisturizer/"
           },
           {
             "name": "Zonnebescherming",
             "emoji": "☀️",
-            "url": "/nl/huidverzorging/spf/"
+            "url": "/nl/huidverzorging/sunscreen/"
           },
           {
             "name": "Masker",
             "emoji": "🎭",
-            "url": "/nl/huidverzorging/masker/"
+            "url": "/nl/huidverzorging/mask/"
           }
         ]
       },
@@ -786,7 +786,7 @@
           {
             "name": "Hydratatie",
             "emoji": "💦",
-            "url": "/nl/huidverzorging/hydratatie/"
+            "url": "/nl/huidverzorging/hydration/"
           },
           {
             "name": "Brightening",
@@ -796,7 +796,7 @@
           {
             "name": "Poriën",
             "emoji": "🔍",
-            "url": "/nl/huidverzorging/porien/"
+            "url": "/nl/huidverzorging/pores/"
           }
         ]
       }
@@ -828,27 +828,27 @@
           {
             "name": "Skóra Tłusta",
             "emoji": "✨",
-            "url": "/pl/pielegnacja/skora-tlusta/"
+            "url": "/pl/pielegnacja/oily/"
           },
           {
             "name": "Skóra Sucha",
             "emoji": "💧",
-            "url": "/pl/pielegnacja/skora-sucha/"
+            "url": "/pl/pielegnacja/dry/"
           },
           {
             "name": "Skóra Mieszana",
             "emoji": "🌟",
-            "url": "/pl/pielegnacja/skora-mieszana/"
+            "url": "/pl/pielegnacja/combination/"
           },
           {
             "name": "Skóra Wrażliwa",
             "emoji": "🌸",
-            "url": "/pl/pielegnacja/skora-wrazliwa/"
+            "url": "/pl/pielegnacja/sensitive/"
           },
           {
             "name": "Skóra Normalna",
             "emoji": "🍃",
-            "url": "/pl/pielegnacja/skora-normalna/"
+            "url": "/pl/pielegnacja/normal/"
           }
         ]
       },
@@ -858,12 +858,12 @@
           {
             "name": "Oczyszczanie",
             "emoji": "🧼",
-            "url": "/pl/pielegnacja/oczyszczanie/"
+            "url": "/pl/pielegnacja/cleanser/"
           },
           {
             "name": "Tonik",
             "emoji": "💫",
-            "url": "/pl/pielegnacja/tonik/"
+            "url": "/pl/pielegnacja/toner/"
           },
           {
             "name": "Serum",
@@ -873,17 +873,17 @@
           {
             "name": "Krem Nawilżający",
             "emoji": "🌊",
-            "url": "/pl/pielegnacja/krem-nawilzajacy/"
+            "url": "/pl/pielegnacja/moisturizer/"
           },
           {
             "name": "Filtry UV",
             "emoji": "☀️",
-            "url": "/pl/pielegnacja/filtry-uv/"
+            "url": "/pl/pielegnacja/sunscreen/"
           },
           {
             "name": "Maski",
             "emoji": "🎭",
-            "url": "/pl/pielegnacja/maski/"
+            "url": "/pl/pielegnacja/mask/"
           }
         ]
       },
@@ -898,22 +898,22 @@
           {
             "name": "Trądzik",
             "emoji": "🎯",
-            "url": "/pl/pielegnacja/tradzik/"
+            "url": "/pl/pielegnacja/acne/"
           },
           {
             "name": "Nawilżenie",
             "emoji": "💧",
-            "url": "/pl/pielegnacja/nawilzenie/"
+            "url": "/pl/pielegnacja/hydration/"
           },
           {
             "name": "Rozświetlenie",
             "emoji": "✨",
-            "url": "/pl/pielegnacja/rozswietlenie/"
+            "url": "/pl/pielegnacja/brightening/"
           },
           {
             "name": "Pory",
             "emoji": "🔍",
-            "url": "/pl/pielegnacja/pory/"
+            "url": "/pl/pielegnacja/pores/"
           }
         ]
       }
@@ -945,27 +945,27 @@
           {
             "name": "Yağlı Cilt",
             "emoji": "✨",
-            "url": "/tr/cilt-bakimi/yagli-cilt/"
+            "url": "/tr/cilt-bakimi/oily/"
           },
           {
             "name": "Kuru Cilt",
             "emoji": "💧",
-            "url": "/tr/cilt-bakimi/kuru-cilt/"
+            "url": "/tr/cilt-bakimi/dry/"
           },
           {
             "name": "Karma Cilt",
             "emoji": "🌿",
-            "url": "/tr/cilt-bakimi/karma-cilt/"
+            "url": "/tr/cilt-bakimi/combination/"
           },
           {
             "name": "Hassas Cilt",
             "emoji": "🌸",
-            "url": "/tr/cilt-bakimi/hassas-cilt/"
+            "url": "/tr/cilt-bakimi/sensitive/"
           },
           {
             "name": "Normal Cilt",
             "emoji": "☁️",
-            "url": "/tr/cilt-bakimi/normal-cilt/"
+            "url": "/tr/cilt-bakimi/normal/"
           }
         ]
       },
@@ -975,12 +975,12 @@
           {
             "name": "Temizleyici",
             "emoji": "🧼",
-            "url": "/tr/cilt-bakimi/temizleyici/"
+            "url": "/tr/cilt-bakimi/cleanser/"
           },
           {
             "name": "Tonik",
             "emoji": "💫",
-            "url": "/tr/cilt-bakimi/tonik/"
+            "url": "/tr/cilt-bakimi/toner/"
           },
           {
             "name": "Serum",
@@ -990,17 +990,17 @@
           {
             "name": "Nemlendirici",
             "emoji": "💧",
-            "url": "/tr/cilt-bakimi/nemlendirici/"
+            "url": "/tr/cilt-bakimi/moisturizer/"
           },
           {
             "name": "Güneş Koruyucu",
             "emoji": "☀️",
-            "url": "/tr/cilt-bakimi/gunes-koruyucu/"
+            "url": "/tr/cilt-bakimi/sunscreen/"
           },
           {
             "name": "Maske",
             "emoji": "🎭",
-            "url": "/tr/cilt-bakimi/maske/"
+            "url": "/tr/cilt-bakimi/mask/"
           }
         ]
       },
@@ -1010,27 +1010,27 @@
           {
             "name": "Yaşlanma Karşıtı",
             "emoji": "⏰",
-            "url": "/tr/cilt-bakimi/yaslanma-karsiti/"
+            "url": "/tr/cilt-bakimi/anti-aging/"
           },
           {
             "name": "Akne",
             "emoji": "🌟",
-            "url": "/tr/cilt-bakimi/akne/"
+            "url": "/tr/cilt-bakimi/acne/"
           },
           {
             "name": "Nemlendirme",
             "emoji": "💧",
-            "url": "/tr/cilt-bakimi/nemlendirme/"
+            "url": "/tr/cilt-bakimi/hydration/"
           },
           {
             "name": "Aydınlatıcı",
             "emoji": "✨",
-            "url": "/tr/cilt-bakimi/aydinlatici/"
+            "url": "/tr/cilt-bakimi/brightening/"
           },
           {
             "name": "Gözenek Bakımı",
             "emoji": "🔍",
-            "url": "/tr/cilt-bakimi/gozenek-bakimi/"
+            "url": "/tr/cilt-bakimi/pores/"
           }
         ]
       }
@@ -1062,27 +1062,27 @@
           {
             "name": "البشرة الدهنية",
             "emoji": "✨",
-            "url": "/ar/skincare/بشرة-دهنية/"
+            "url": "/ar/skincare/oily/"
           },
           {
             "name": "البشرة الجافة",
             "emoji": "💧",
-            "url": "/ar/skincare/بشرة-جافة/"
+            "url": "/ar/skincare/dry/"
           },
           {
             "name": "البشرة المختلطة",
             "emoji": "⚖️",
-            "url": "/ar/skincare/بشرة-مختلطة/"
+            "url": "/ar/skincare/combination/"
           },
           {
             "name": "البشرة الحساسة",
             "emoji": "🌸",
-            "url": "/ar/skincare/بشرة-حساسة/"
+            "url": "/ar/skincare/sensitive/"
           },
           {
             "name": "البشرة العادية",
             "emoji": "🌟",
-            "url": "/ar/skincare/بشرة-عادية/"
+            "url": "/ar/skincare/normal/"
           }
         ]
       },
@@ -1092,32 +1092,32 @@
           {
             "name": "منظف الوجه",
             "emoji": "🧼",
-            "url": "/ar/skincare/منظف/"
+            "url": "/ar/skincare/cleanser/"
           },
           {
             "name": "التونر",
             "emoji": "💫",
-            "url": "/ar/skincare/تونر/"
+            "url": "/ar/skincare/toner/"
           },
           {
             "name": "السيروم",
             "emoji": "🔬",
-            "url": "/ar/skincare/سيروم/"
+            "url": "/ar/skincare/serum/"
           },
           {
             "name": "مرطب الوجه",
             "emoji": "🌿",
-            "url": "/ar/skincare/مرطب/"
+            "url": "/ar/skincare/moisturizer/"
           },
           {
             "name": "واقي الشمس",
             "emoji": "☀️",
-            "url": "/ar/skincare/واقي-شمس/"
+            "url": "/ar/skincare/sunscreen/"
           },
           {
             "name": "الماسك",
             "emoji": "🎭",
-            "url": "/ar/skincare/ماسك/"
+            "url": "/ar/skincare/mask/"
           }
         ]
       },
@@ -1127,27 +1127,27 @@
           {
             "name": "مكافحة الشيخوخة",
             "emoji": "⏰",
-            "url": "/ar/skincare/مكافحة-شيخوخة/"
+            "url": "/ar/skincare/anti-aging/"
           },
           {
             "name": "علاج حب الشباب",
             "emoji": "🎯",
-            "url": "/ar/skincare/حب-شباب/"
+            "url": "/ar/skincare/acne/"
           },
           {
             "name": "الترطيب العميق",
             "emoji": "💎",
-            "url": "/ar/skincare/ترطيب/"
+            "url": "/ar/skincare/hydration/"
           },
           {
             "name": "تفتيح البشرة",
             "emoji": "✨",
-            "url": "/ar/skincare/تفتيح/"
+            "url": "/ar/skincare/brightening/"
           },
           {
             "name": "تنظيف المسام",
             "emoji": "🔍",
-            "url": "/ar/skincare/مسام/"
+            "url": "/ar/skincare/pores/"
           }
         ]
       }
@@ -1179,27 +1179,27 @@
           {
             "name": "油性肌肤",
             "emoji": "✨",
-            "url": "/zh/skincare/油性肌肤/"
+            "url": "/zh/skincare/oily/"
           },
           {
             "name": "干性肌肤",
             "emoji": "💧",
-            "url": "/zh/skincare/干性肌肤/"
+            "url": "/zh/skincare/dry/"
           },
           {
             "name": "混合性肌肤",
             "emoji": "🌟",
-            "url": "/zh/skincare/混合性肌肤/"
+            "url": "/zh/skincare/combination/"
           },
           {
             "name": "敏感性肌肤",
             "emoji": "🌸",
-            "url": "/zh/skincare/敏感性肌肤/"
+            "url": "/zh/skincare/sensitive/"
           },
           {
             "name": "中性肌肤",
             "emoji": "🌿",
-            "url": "/zh/skincare/中性肌肤/"
+            "url": "/zh/skincare/normal/"
           }
         ]
       },
@@ -1209,32 +1209,32 @@
           {
             "name": "洁面产品",
             "emoji": "🧴",
-            "url": "/zh/skincare/洁面/"
+            "url": "/zh/skincare/cleanser/"
           },
           {
             "name": "爽肤水",
             "emoji": "💦",
-            "url": "/zh/skincare/爽肤水/"
+            "url": "/zh/skincare/toner/"
           },
           {
             "name": "精华液",
             "emoji": "✨",
-            "url": "/zh/skincare/精华/"
+            "url": "/zh/skincare/serum/"
           },
           {
             "name": "面霜",
             "emoji": "🤍",
-            "url": "/zh/skincare/面霜/"
+            "url": "/zh/skincare/moisturizer/"
           },
           {
             "name": "防晒霜",
             "emoji": "☀️",
-            "url": "/zh/skincare/防晒/"
+            "url": "/zh/skincare/sunscreen/"
           },
           {
             "name": "面膜",
             "emoji": "🎭",
-            "url": "/zh/skincare/面膜/"
+            "url": "/zh/skincare/mask/"
           }
         ]
       },
@@ -1244,27 +1244,27 @@
           {
             "name": "抗衰老",
             "emoji": "⏰",
-            "url": "/zh/skincare/抗衰老/"
+            "url": "/zh/skincare/anti-aging/"
           },
           {
             "name": "祛痘",
             "emoji": "🌱",
-            "url": "/zh/skincare/祛痘/"
+            "url": "/zh/skincare/acne/"
           },
           {
             "name": "补水保湿",
             "emoji": "💧",
-            "url": "/zh/skincare/补水/"
+            "url": "/zh/skincare/hydration/"
           },
           {
             "name": "美白亮肤",
             "emoji": "✨",
-            "url": "/zh/skincare/美白/"
+            "url": "/zh/skincare/brightening/"
           },
           {
             "name": "收缩毛孔",
             "emoji": "🔍",
-            "url": "/zh/skincare/毛孔/"
+            "url": "/zh/skincare/pores/"
           }
         ]
       }
@@ -1296,27 +1296,27 @@
           {
             "name": "オイリー肌",
             "emoji": "✨",
-            "url": "/ja/skincare/オイリー肌/"
+            "url": "/ja/skincare/oily/"
           },
           {
             "name": "乾燥肌",
             "emoji": "💧",
-            "url": "/ja/skincare/乾燥肌/"
+            "url": "/ja/skincare/dry/"
           },
           {
             "name": "混合肌",
             "emoji": "🌿",
-            "url": "/ja/skincare/混合肌/"
+            "url": "/ja/skincare/combination/"
           },
           {
             "name": "敏感肌",
             "emoji": "🤍",
-            "url": "/ja/skincare/敏感肌/"
+            "url": "/ja/skincare/sensitive/"
           },
           {
             "name": "普通肌",
             "emoji": "🌸",
-            "url": "/ja/skincare/普通肌/"
+            "url": "/ja/skincare/normal/"
           }
         ]
       },
@@ -1326,32 +1326,32 @@
           {
             "name": "クレンザー",
             "emoji": "🧼",
-            "url": "/ja/skincare/クレンザー/"
+            "url": "/ja/skincare/cleanser/"
           },
           {
             "name": "化粧水",
             "emoji": "💦",
-            "url": "/ja/skincare/化粧水/"
+            "url": "/ja/skincare/toner/"
           },
           {
             "name": "美容液",
             "emoji": "✨",
-            "url": "/ja/skincare/美容液/"
+            "url": "/ja/skincare/serum/"
           },
           {
             "name": "保湿クリーム",
             "emoji": "🤍",
-            "url": "/ja/skincare/保湿クリーム/"
+            "url": "/ja/skincare/moisturizer/"
           },
           {
             "name": "日焼け止め",
             "emoji": "☀️",
-            "url": "/ja/skincare/日焼け止め/"
+            "url": "/ja/skincare/sunscreen/"
           },
           {
             "name": "パック・マスク",
             "emoji": "🎭",
-            "url": "/ja/skincare/パック/"
+            "url": "/ja/skincare/mask/"
           }
         ]
       },
@@ -1361,27 +1361,27 @@
           {
             "name": "エイジングケア",
             "emoji": "⏰",
-            "url": "/ja/skincare/エイジングケア/"
+            "url": "/ja/skincare/anti-aging/"
           },
           {
             "name": "ニキビケア",
             "emoji": "🌱",
-            "url": "/ja/skincare/ニキビケア/"
+            "url": "/ja/skincare/acne/"
           },
           {
             "name": "保湿ケア",
             "emoji": "💧",
-            "url": "/ja/skincare/保湿ケア/"
+            "url": "/ja/skincare/hydration/"
           },
           {
             "name": "美白・トーンアップ",
             "emoji": "🌟",
-            "url": "/ja/skincare/美白/"
+            "url": "/ja/skincare/brightening/"
           },
           {
             "name": "毛穴ケア",
             "emoji": "🔍",
-            "url": "/ja/skincare/毛穴ケア/"
+            "url": "/ja/skincare/pores/"
           }
         ]
       }
@@ -1413,27 +1413,27 @@
           {
             "name": "지성 피부",
             "emoji": "✨",
-            "url": "/ko/skincare/지성피부/"
+            "url": "/ko/skincare/oily/"
           },
           {
             "name": "건성 피부",
             "emoji": "💧",
-            "url": "/ko/skincare/건성피부/"
+            "url": "/ko/skincare/dry/"
           },
           {
             "name": "복합성 피부",
             "emoji": "🌟",
-            "url": "/ko/skincare/복합성피부/"
+            "url": "/ko/skincare/combination/"
           },
           {
             "name": "민감성 피부",
             "emoji": "🌸",
-            "url": "/ko/skincare/민감성피부/"
+            "url": "/ko/skincare/sensitive/"
           },
           {
             "name": "보통 피부",
             "emoji": "🌿",
-            "url": "/ko/skincare/보통피부/"
+            "url": "/ko/skincare/normal/"
           }
         ]
       },
@@ -1443,32 +1443,32 @@
           {
             "name": "클렌저",
             "emoji": "🧴",
-            "url": "/ko/skincare/클렌저/"
+            "url": "/ko/skincare/cleanser/"
           },
           {
             "name": "토너",
             "emoji": "💦",
-            "url": "/ko/skincare/토너/"
+            "url": "/ko/skincare/toner/"
           },
           {
             "name": "세럼",
             "emoji": "🔬",
-            "url": "/ko/skincare/세럼/"
+            "url": "/ko/skincare/serum/"
           },
           {
             "name": "모이스처라이저",
             "emoji": "🌺",
-            "url": "/ko/skincare/모이스처라이저/"
+            "url": "/ko/skincare/moisturizer/"
           },
           {
             "name": "자외선차단제",
             "emoji": "☀️",
-            "url": "/ko/skincare/자외선차단제/"
+            "url": "/ko/skincare/sunscreen/"
           },
           {
             "name": "마스크",
             "emoji": "🎭",
-            "url": "/ko/skincare/마스크/"
+            "url": "/ko/skincare/mask/"
           }
         ]
       },
@@ -1478,27 +1478,27 @@
           {
             "name": "안티에이징",
             "emoji": "⏰",
-            "url": "/ko/skincare/안티에이징/"
+            "url": "/ko/skincare/anti-aging/"
           },
           {
             "name": "여드름",
             "emoji": "🎯",
-            "url": "/ko/skincare/여드름/"
+            "url": "/ko/skincare/acne/"
           },
           {
             "name": "수분 공급",
             "emoji": "💎",
-            "url": "/ko/skincare/수분공급/"
+            "url": "/ko/skincare/hydration/"
           },
           {
             "name": "브라이트닝",
             "emoji": "✨",
-            "url": "/ko/skincare/브라이트닝/"
+            "url": "/ko/skincare/brightening/"
           },
           {
             "name": "모공 관리",
             "emoji": "🔍",
-            "url": "/ko/skincare/모공관리/"
+            "url": "/ko/skincare/pores/"
           }
         ]
       }
@@ -1530,27 +1530,27 @@
           {
             "name": "तैलीय त्वचा",
             "emoji": "✨",
-            "url": "/hi/skincare/tailiy-twacha/"
+            "url": "/hi/skincare/oily/"
           },
           {
             "name": "रूखी त्वचा",
             "emoji": "💧",
-            "url": "/hi/skincare/rukhi-twacha/"
+            "url": "/hi/skincare/dry/"
           },
           {
             "name": "मिश्रित त्वचा",
             "emoji": "🌸",
-            "url": "/hi/skincare/mishrit-twacha/"
+            "url": "/hi/skincare/combination/"
           },
           {
             "name": "संवेदनशील त्वचा",
             "emoji": "🌺",
-            "url": "/hi/skincare/sanvedansheel-twacha/"
+            "url": "/hi/skincare/sensitive/"
           },
           {
             "name": "सामान्य त्वचा",
             "emoji": "🌟",
-            "url": "/hi/skincare/samanya-twacha/"
+            "url": "/hi/skincare/normal/"
           }
         ]
       },
@@ -1560,7 +1560,7 @@
           {
             "name": "फेस क्लींजर",
             "emoji": "🧴",
-            "url": "/hi/skincare/face-cleanser/"
+            "url": "/hi/skincare/cleanser/"
           },
           {
             "name": "टोनर",
@@ -1580,12 +1580,12 @@
           {
             "name": "सन प्रोटेक्शन",
             "emoji": "☀️",
-            "url": "/hi/skincare/sun-protection/"
+            "url": "/hi/skincare/sunscreen/"
           },
           {
             "name": "फेस मास्क",
             "emoji": "🎭",
-            "url": "/hi/skincare/face-mask/"
+            "url": "/hi/skincare/mask/"
           }
         ]
       },
@@ -1600,7 +1600,7 @@
           {
             "name": "मुंहासे की समस्या",
             "emoji": "🔴",
-            "url": "/hi/skincare/acne-treatment/"
+            "url": "/hi/skincare/acne/"
           },
           {
             "name": "नमी की कमी",
@@ -1615,7 +1615,7 @@
           {
             "name": "पोर्स की समस्या",
             "emoji": "🎯",
-            "url": "/hi/skincare/pore-care/"
+            "url": "/hi/skincare/pores/"
           }
         ]
       }

@@ -9,27 +9,27 @@
           {
             "name": "Fine Hair",
             "emoji": "🪶",
-            "url": "/en/haircare/fine/"
+            "url": "/en/haircare/fine-hair/"
           },
           {
             "name": "Thick Hair",
             "emoji": "🦁",
-            "url": "/en/haircare/thick/"
+            "url": "/en/haircare/thick-hair/"
           },
           {
             "name": "Curly Hair",
             "emoji": "🌀",
-            "url": "/en/haircare/curly/"
+            "url": "/en/haircare/curly-hair/"
           },
           {
             "name": "Straight Hair",
             "emoji": "📏",
-            "url": "/en/haircare/straight/"
+            "url": "/en/haircare/straight-hair/"
           },
           {
             "name": "Color-Treated",
             "emoji": "🎨",
-            "url": "/en/haircare/colored/"
+            "url": "/en/haircare/color-treated/"
           }
         ]
       },
@@ -59,7 +59,7 @@
           {
             "name": "Color Protection",
             "emoji": "🛡️",
-            "url": "/en/haircare/color/"
+            "url": "/en/haircare/color-treated/"
           }
         ]
       }
@@ -91,27 +91,27 @@
           {
             "name": "Cheveux Fins",
             "emoji": "🪶",
-            "url": "/fr/cheveux/fins/"
+            "url": "/fr/cheveux/fine-hair/"
           },
           {
             "name": "Cheveux Épais",
             "emoji": "🦁",
-            "url": "/fr/cheveux/epais/"
+            "url": "/fr/cheveux/thick-hair/"
           },
           {
             "name": "Cheveux Bouclés",
             "emoji": "🌀",
-            "url": "/fr/cheveux/boucles/"
+            "url": "/fr/cheveux/curly-hair/"
           },
           {
             "name": "Cheveux Lisses",
             "emoji": "📏",
-            "url": "/fr/cheveux/lisses/"
+            "url": "/fr/cheveux/straight-hair/"
           },
           {
             "name": "Cheveux Colorés",
             "emoji": "🎨",
-            "url": "/fr/cheveux/colores/"
+            "url": "/fr/cheveux/color-treated/"
           }
         ]
       },
@@ -126,22 +126,22 @@
           {
             "name": "Réparation",
             "emoji": "🔧",
-            "url": "/fr/cheveux/reparation/"
+            "url": "/fr/cheveux/repair/"
           },
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/fr/cheveux/hydratation/"
+            "url": "/fr/cheveux/hydration/"
           },
           {
             "name": "Pellicules",
             "emoji": "❄️",
-            "url": "/fr/cheveux/pellicules/"
+            "url": "/fr/cheveux/dandruff/"
           },
           {
             "name": "Protection Couleur",
             "emoji": "🛡️",
-            "url": "/fr/cheveux/couleur/"
+            "url": "/fr/cheveux/color-protection/"
           }
         ]
       }
@@ -173,27 +173,27 @@
           {
             "name": "Feines Haar",
             "emoji": "🪶",
-            "url": "/de/haarpflege/feines-haar/"
+            "url": "/de/haarpflege/fine-hair/"
           },
           {
             "name": "Dickes Haar",
             "emoji": "💪",
-            "url": "/de/haarpflege/dickes-haar/"
+            "url": "/de/haarpflege/thick-hair/"
           },
           {
             "name": "Lockiges Haar",
             "emoji": "🌀",
-            "url": "/de/haarpflege/lockiges-haar/"
+            "url": "/de/haarpflege/curly-hair/"
           },
           {
             "name": "Glattes Haar",
             "emoji": "✨",
-            "url": "/de/haarpflege/glattes-haar/"
+            "url": "/de/haarpflege/straight-hair/"
           },
           {
             "name": "Coloriertes Haar",
             "emoji": "🎨",
-            "url": "/de/haarpflege/coloriertes-haar/"
+            "url": "/de/haarpflege/color-treated/"
           }
         ]
       },
@@ -203,27 +203,27 @@
           {
             "name": "Volumen",
             "emoji": "💨",
-            "url": "/de/haarpflege/volumen/"
+            "url": "/de/haarpflege/volume/"
           },
           {
             "name": "Reparatur",
             "emoji": "🔧",
-            "url": "/de/haarpflege/reparatur/"
+            "url": "/de/haarpflege/repair/"
           },
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/de/haarpflege/hydratation/"
+            "url": "/de/haarpflege/hydration/"
           },
           {
             "name": "Schuppen",
             "emoji": "🧴",
-            "url": "/de/haarpflege/schuppen/"
+            "url": "/de/haarpflege/dandruff/"
           },
           {
             "name": "Farbschutz",
             "emoji": "🛡️",
-            "url": "/de/haarpflege/farbschutz/"
+            "url": "/de/haarpflege/color-protection/"
           }
         ]
       }
@@ -255,27 +255,27 @@
           {
             "name": "Cabello Fino",
             "emoji": "🪶",
-            "url": "/es/cabello/cabello-fino/"
+            "url": "/es/cabello/fine-hair/"
           },
           {
             "name": "Cabello Grueso",
             "emoji": "💪",
-            "url": "/es/cabello/cabello-grueso/"
+            "url": "/es/cabello/thick-hair/"
           },
           {
             "name": "Cabello Rizado",
             "emoji": "🌀",
-            "url": "/es/cabello/cabello-rizado/"
+            "url": "/es/cabello/curly-hair/"
           },
           {
             "name": "Cabello Liso",
             "emoji": "✨",
-            "url": "/es/cabello/cabello-liso/"
+            "url": "/es/cabello/straight-hair/"
           },
           {
             "name": "Cabello Teñido",
             "emoji": "🎨",
-            "url": "/es/cabello/cabello-tenido/"
+            "url": "/es/cabello/color-treated/"
           }
         ]
       },
@@ -285,27 +285,27 @@
           {
             "name": "Volumen",
             "emoji": "📈",
-            "url": "/es/cabello/volumen/"
+            "url": "/es/cabello/volume/"
           },
           {
             "name": "Reparación",
             "emoji": "🔧",
-            "url": "/es/cabello/reparacion/"
+            "url": "/es/cabello/repair/"
           },
           {
             "name": "Hidratación",
             "emoji": "💧",
-            "url": "/es/cabello/hidratacion/"
+            "url": "/es/cabello/hydration/"
           },
           {
             "name": "Caspa",
             "emoji": "❄️",
-            "url": "/es/cabello/caspa/"
+            "url": "/es/cabello/dandruff/"
           },
           {
             "name": "Protección Color",
             "emoji": "🛡️",
-            "url": "/es/cabello/proteccion-color/"
+            "url": "/es/cabello/color-protection/"
           }
         ]
       }
@@ -337,27 +337,27 @@
           {
             "name": "Capelli Fini",
             "emoji": "🪶",
-            "url": "/it/capelli/capelli-fini/"
+            "url": "/it/capelli/fine-hair/"
           },
           {
             "name": "Capelli Spessi",
             "emoji": "💪",
-            "url": "/it/capelli/capelli-spessi/"
+            "url": "/it/capelli/thick-hair/"
           },
           {
             "name": "Capelli Ricci",
             "emoji": "🌀",
-            "url": "/it/capelli/capelli-ricci/"
+            "url": "/it/capelli/curly-hair/"
           },
           {
             "name": "Capelli Lisci",
             "emoji": "✨",
-            "url": "/it/capelli/capelli-lisci/"
+            "url": "/it/capelli/straight-hair/"
           },
           {
             "name": "Capelli Colorati",
             "emoji": "🎨",
-            "url": "/it/capelli/capelli-colorati/"
+            "url": "/it/capelli/color-treated/"
           }
         ]
       },
@@ -372,22 +372,22 @@
           {
             "name": "Riparazione",
             "emoji": "🔧",
-            "url": "/it/capelli/riparazione/"
+            "url": "/it/capelli/repair/"
           },
           {
             "name": "Idratazione",
             "emoji": "💧",
-            "url": "/it/capelli/idratazione/"
+            "url": "/it/capelli/hydration/"
           },
           {
             "name": "Forfora",
             "emoji": "🧴",
-            "url": "/it/capelli/forfora/"
+            "url": "/it/capelli/dandruff/"
           },
           {
             "name": "Protezione Colore",
             "emoji": "🛡️",
-            "url": "/it/capelli/protezione-colore/"
+            "url": "/it/capelli/color-protection/"
           }
         ]
       }
@@ -419,27 +419,27 @@
           {
             "name": "Cabelo Fino",
             "emoji": "🪶",
-            "url": "/pt/cabelos/cabelo-fino/"
+            "url": "/pt/cabelos/fine-hair/"
           },
           {
             "name": "Cabelo Grosso",
             "emoji": "💪",
-            "url": "/pt/cabelos/cabelo-grosso/"
+            "url": "/pt/cabelos/thick-hair/"
           },
           {
             "name": "Cabelo Cacheado",
             "emoji": "🌀",
-            "url": "/pt/cabelos/cabelo-cacheado/"
+            "url": "/pt/cabelos/curly-hair/"
           },
           {
             "name": "Cabelo Liso",
             "emoji": "✨",
-            "url": "/pt/cabelos/cabelo-liso/"
+            "url": "/pt/cabelos/straight-hair/"
           },
           {
             "name": "Cabelo Colorido",
             "emoji": "🎨",
-            "url": "/pt/cabelos/cabelo-colorido/"
+            "url": "/pt/cabelos/color-treated/"
           }
         ]
       },
@@ -454,22 +454,22 @@
           {
             "name": "Reparação",
             "emoji": "🔧",
-            "url": "/pt/cabelos/reparacao/"
+            "url": "/pt/cabelos/repair/"
           },
           {
             "name": "Hidratação",
             "emoji": "💧",
-            "url": "/pt/cabelos/hidratacao/"
+            "url": "/pt/cabelos/hydration/"
           },
           {
             "name": "Caspa",
             "emoji": "🚫",
-            "url": "/pt/cabelos/caspa/"
+            "url": "/pt/cabelos/dandruff/"
           },
           {
             "name": "Proteção da Cor",
             "emoji": "🛡️",
-            "url": "/pt/cabelos/protecao-cor/"
+            "url": "/pt/cabelos/color-protection/"
           }
         ]
       }
@@ -501,27 +501,27 @@
           {
             "name": "Fijn Haar",
             "emoji": "🪶",
-            "url": "/nl/haarverzorging/fijn-haar/"
+            "url": "/nl/haarverzorging/fine-hair/"
           },
           {
             "name": "Dik Haar",
             "emoji": "💪",
-            "url": "/nl/haarverzorging/dik-haar/"
+            "url": "/nl/haarverzorging/thick-hair/"
           },
           {
             "name": "Krullend Haar",
             "emoji": "🌀",
-            "url": "/nl/haarverzorging/krullend-haar/"
+            "url": "/nl/haarverzorging/curly-hair/"
           },
           {
             "name": "Steil Haar",
             "emoji": "📏",
-            "url": "/nl/haarverzorging/steil-haar/"
+            "url": "/nl/haarverzorging/straight-hair/"
           },
           {
             "name": "Gekleurd Haar",
             "emoji": "🎨",
-            "url": "/nl/haarverzorging/gekleurd-haar/"
+            "url": "/nl/haarverzorging/color-treated/"
           }
         ]
       },
@@ -536,22 +536,22 @@
           {
             "name": "Herstel",
             "emoji": "🔧",
-            "url": "/nl/haarverzorging/herstel/"
+            "url": "/nl/haarverzorging/repair/"
           },
           {
             "name": "Hydratatie",
             "emoji": "💧",
-            "url": "/nl/haarverzorging/hydratatie/"
+            "url": "/nl/haarverzorging/hydration/"
           },
           {
             "name": "Roos",
             "emoji": "❄️",
-            "url": "/nl/haarverzorging/roos/"
+            "url": "/nl/haarverzorging/dandruff/"
           },
           {
             "name": "Kleurbescherming",
             "emoji": "🛡️",
-            "url": "/nl/haarverzorging/kleurbescherming/"
+            "url": "/nl/haarverzorging/color-protection/"
           }
         ]
       }
@@ -583,27 +583,27 @@
           {
             "name": "Włosy Cienkie",
             "emoji": "🪶",
-            "url": "/pl/wlosy/cienkie/"
+            "url": "/pl/wlosy/fine-hair/"
           },
           {
             "name": "Włosy Grube",
             "emoji": "💪",
-            "url": "/pl/wlosy/grube/"
+            "url": "/pl/wlosy/thick-hair/"
           },
           {
             "name": "Włosy Kręcone",
             "emoji": "🌀",
-            "url": "/pl/wlosy/krecone/"
+            "url": "/pl/wlosy/curly-hair/"
           },
           {
             "name": "Włosy Proste",
             "emoji": "📏",
-            "url": "/pl/wlosy/proste/"
+            "url": "/pl/wlosy/straight-hair/"
           },
           {
             "name": "Włosy Farbowane",
             "emoji": "🎨",
-            "url": "/pl/wlosy/farbowane/"
+            "url": "/pl/wlosy/color-treated/"
           }
         ]
       },
@@ -613,27 +613,27 @@
           {
             "name": "Zwiększenie Objętości",
             "emoji": "⬆️",
-            "url": "/pl/wlosy/objetosc/"
+            "url": "/pl/wlosy/volume/"
           },
           {
             "name": "Regeneracja",
             "emoji": "🔧",
-            "url": "/pl/wlosy/regeneracja/"
+            "url": "/pl/wlosy/repair/"
           },
           {
             "name": "Nawilżenie",
             "emoji": "💧",
-            "url": "/pl/wlosy/nawilzenie/"
+            "url": "/pl/wlosy/hydration/"
           },
           {
             "name": "Łupież",
             "emoji": "❄️",
-            "url": "/pl/wlosy/lupiez/"
+            "url": "/pl/wlosy/dandruff/"
           },
           {
             "name": "Ochrona Koloru",
             "emoji": "🛡️",
-            "url": "/pl/wlosy/ochrona-koloru/"
+            "url": "/pl/wlosy/color-protection/"
           }
         ]
       }
@@ -665,27 +665,27 @@
           {
             "name": "İnce Saçlar",
             "emoji": "🪶",
-            "url": "/tr/sac-bakimi/ince-saclar/"
+            "url": "/tr/sac-bakimi/fine-hair/"
           },
           {
             "name": "Kalın Saçlar",
             "emoji": "💪",
-            "url": "/tr/sac-bakimi/kalin-saclar/"
+            "url": "/tr/sac-bakimi/thick-hair/"
           },
           {
             "name": "Kıvırcık Saçlar",
             "emoji": "🌀",
-            "url": "/tr/sac-bakimi/kivircik-saclar/"
+            "url": "/tr/sac-bakimi/curly-hair/"
           },
           {
             "name": "Düz Saçlar",
             "emoji": "📏",
-            "url": "/tr/sac-bakimi/duz-saclar/"
+            "url": "/tr/sac-bakimi/straight-hair/"
           },
           {
             "name": "Boyalı Saçlar",
             "emoji": "🎨",
-            "url": "/tr/sac-bakimi/boyali-saclar/"
+            "url": "/tr/sac-bakimi/color-treated/"
           }
         ]
       },
@@ -695,27 +695,27 @@
           {
             "name": "Hacim Verici",
             "emoji": "📈",
-            "url": "/tr/sac-bakimi/hacim-verici/"
+            "url": "/tr/sac-bakimi/volume/"
           },
           {
             "name": "Onarıcı Bakım",
             "emoji": "🔧",
-            "url": "/tr/sac-bakimi/onarici-bakim/"
+            "url": "/tr/sac-bakimi/repair/"
           },
           {
             "name": "Nemlendirici",
             "emoji": "💧",
-            "url": "/tr/sac-bakimi/nemlendirici/"
+            "url": "/tr/sac-bakimi/hydration/"
           },
           {
             "name": "Kepek Karşıtı",
             "emoji": "❄️",
-            "url": "/tr/sac-bakimi/kepek-karsiti/"
+            "url": "/tr/sac-bakimi/dandruff/"
           },
           {
             "name": "Renk Koruyucu",
             "emoji": "🛡️",
-            "url": "/tr/sac-bakimi/renk-koruyucu/"
+            "url": "/tr/sac-bakimi/color-protection/"
           }
         ]
       }
@@ -747,27 +747,27 @@
           {
             "name": "الشعر الناعم",
             "emoji": "🌸",
-            "url": "/ar/haircare/شعر-ناعم/"
+            "url": "/ar/haircare/fine-hair/"
           },
           {
             "name": "الشعر الكثيف",
             "emoji": "💪",
-            "url": "/ar/haircare/شعر-كثيف/"
+            "url": "/ar/haircare/thick-hair/"
           },
           {
             "name": "الشعر المجعد",
             "emoji": "🌀",
-            "url": "/ar/haircare/شعر-مجعد/"
+            "url": "/ar/haircare/curly-hair/"
           },
           {
             "name": "الشعر المستقيم",
             "emoji": "✨",
-            "url": "/ar/haircare/شعر-مستقيم/"
+            "url": "/ar/haircare/straight-hair/"
           },
           {
             "name": "الشعر المصبوغ",
             "emoji": "🎨",
-            "url": "/ar/haircare/شعر-مصبوغ/"
+            "url": "/ar/haircare/color-treated/"
           }
         ]
       },
@@ -777,27 +777,27 @@
           {
             "name": "زيادة الكثافة",
             "emoji": "📈",
-            "url": "/ar/haircare/كثافة-الشعر/"
+            "url": "/ar/haircare/volume/"
           },
           {
             "name": "إصلاح التلف",
             "emoji": "🔧",
-            "url": "/ar/haircare/اصلاح-الشعر/"
+            "url": "/ar/haircare/repair/"
           },
           {
             "name": "الترطيب العميق",
             "emoji": "💧",
-            "url": "/ar/haircare/ترطيب-الشعر/"
+            "url": "/ar/haircare/hydration/"
           },
           {
             "name": "علاج القشرة",
             "emoji": "🌿",
-            "url": "/ar/haircare/علاج-القشرة/"
+            "url": "/ar/haircare/dandruff/"
           },
           {
             "name": "حماية اللون",
             "emoji": "🛡️",
-            "url": "/ar/haircare/حماية-اللون/"
+            "url": "/ar/haircare/color-protection/"
           }
         ]
       }
@@ -829,27 +829,27 @@
           {
             "name": "细软发质",
             "emoji": "🌸",
-            "url": "/zh/haircare/xiruan-fazhi/"
+            "url": "/zh/haircare/fine-hair/"
           },
           {
             "name": "粗硬发质",
             "emoji": "💪",
-            "url": "/zh/haircare/cuying-fazhi/"
+            "url": "/zh/haircare/thick-hair/"
           },
           {
             "name": "卷发",
             "emoji": "🌀",
-            "url": "/zh/haircare/juanfa/"
+            "url": "/zh/haircare/curly-hair/"
           },
           {
             "name": "直发",
             "emoji": "✨",
-            "url": "/zh/haircare/zhifa/"
+            "url": "/zh/haircare/straight-hair/"
           },
           {
             "name": "染烫发质",
             "emoji": "🎨",
-            "url": "/zh/haircare/rantang-fazhi/"
+            "url": "/zh/haircare/color-treated/"
           }
         ]
       },
@@ -859,27 +859,27 @@
           {
             "name": "丰盈蓬松",
             "emoji": "🎈",
-            "url": "/zh/haircare/fengying-pengsong/"
+            "url": "/zh/haircare/volume/"
           },
           {
             "name": "修护重建",
             "emoji": "🔧",
-            "url": "/zh/haircare/xiuhu-chongjian/"
+            "url": "/zh/haircare/repair/"
           },
           {
             "name": "深层滋养",
             "emoji": "💧",
-            "url": "/zh/haircare/shenchen-ziyang/"
+            "url": "/zh/haircare/hydration/"
           },
           {
             "name": "去屑止痒",
             "emoji": "🌿",
-            "url": "/zh/haircare/quxie-zhiyang/"
+            "url": "/zh/haircare/dandruff/"
           },
           {
             "name": "护色锁色",
             "emoji": "🌈",
-            "url": "/zh/haircare/huse-suose/"
+            "url": "/zh/haircare/color-protection/"
           }
         ]
       }
@@ -911,27 +911,27 @@
           {
             "name": "細毛・猫っ毛",
             "emoji": "🌸",
-            "url": "/ja/haircare/saimo/"
+            "url": "/ja/haircare/fine-hair/"
           },
           {
             "name": "太毛・剛毛",
             "emoji": "💪",
-            "url": "/ja/haircare/taimo/"
+            "url": "/ja/haircare/thick-hair/"
           },
           {
             "name": "くせ毛・カーリーヘア",
             "emoji": "🌀",
-            "url": "/ja/haircare/kusege/"
+            "url": "/ja/haircare/curly-hair/"
           },
           {
             "name": "ストレートヘア",
             "emoji": "✨",
-            "url": "/ja/haircare/straight/"
+            "url": "/ja/haircare/straight-hair/"
           },
           {
             "name": "カラーリング毛",
             "emoji": "🎨",
-            "url": "/ja/haircare/coloring/"
+            "url": "/ja/haircare/color-treated/"
           }
         ]
       },
@@ -951,7 +951,7 @@
           {
             "name": "うるおい・保湿",
             "emoji": "💧",
-            "url": "/ja/haircare/moisturizing/"
+            "url": "/ja/haircare/hydration/"
           },
           {
             "name": "フケ・かゆみ",
@@ -993,27 +993,27 @@
           {
             "name": "얇은 모발",
             "emoji": "🪶",
-            "url": "/ko/haircare/얇은모발/"
+            "url": "/ko/haircare/fine-hair/"
           },
           {
             "name": "굵은 모발",
             "emoji": "💪",
-            "url": "/ko/haircare/굵은모발/"
+            "url": "/ko/haircare/thick-hair/"
           },
           {
             "name": "곱슬 모발",
             "emoji": "🌀",
-            "url": "/ko/haircare/곱슬모발/"
+            "url": "/ko/haircare/curly-hair/"
           },
           {
             "name": "직모",
             "emoji": "📏",
-            "url": "/ko/haircare/직모/"
+            "url": "/ko/haircare/straight-hair/"
           },
           {
             "name": "염색 모발",
             "emoji": "🎨",
-            "url": "/ko/haircare/염색모발/"
+            "url": "/ko/haircare/color-treated/"
           }
         ]
       },
@@ -1023,27 +1023,27 @@
           {
             "name": "볼륨업",
             "emoji": "⬆️",
-            "url": "/ko/haircare/볼륨업/"
+            "url": "/ko/haircare/volume/"
           },
           {
             "name": "모발 복구",
             "emoji": "🔧",
-            "url": "/ko/haircare/모발복구/"
+            "url": "/ko/haircare/repair/"
           },
           {
             "name": "수분 공급",
             "emoji": "💧",
-            "url": "/ko/haircare/수분공급/"
+            "url": "/ko/haircare/hydration/"
           },
           {
             "name": "비듬 케어",
             "emoji": "❄️",
-            "url": "/ko/haircare/비듬케어/"
+            "url": "/ko/haircare/dandruff/"
           },
           {
             "name": "컬러 보호",
             "emoji": "🛡️",
-            "url": "/ko/haircare/컬러보호/"
+            "url": "/ko/haircare/color-protection/"
           }
         ]
       }
@@ -1075,27 +1075,27 @@
           {
             "name": "पतले बाल",
             "emoji": "🪶",
-            "url": "/hi/haircare/patale-baal/"
+            "url": "/hi/haircare/fine-hair/"
           },
           {
             "name": "घने बाल",
             "emoji": "🌿",
-            "url": "/hi/haircare/ghane-baal/"
+            "url": "/hi/haircare/thick-hair/"
           },
           {
             "name": "कर्ली हेयर",
             "emoji": "🌀",
-            "url": "/hi/haircare/karly-hair/"
+            "url": "/hi/haircare/curly-hair/"
           },
           {
             "name": "सीधे बाल",
             "emoji": "✨",
-            "url": "/hi/haircare/seedhe-baal/"
+            "url": "/hi/haircare/straight-hair/"
           },
           {
             "name": "रंगे हुए बाल",
             "emoji": "🎨",
-            "url": "/hi/haircare/range-hue-baal/"
+            "url": "/hi/haircare/color-treated/"
           }
         ]
       },
@@ -1105,22 +1105,22 @@
           {
             "name": "वॉल्यूम बढ़ाना",
             "emoji": "📈",
-            "url": "/hi/haircare/volume-badhana/"
+            "url": "/hi/haircare/volume/"
           },
           {
             "name": "बाल रिपेयर",
             "emoji": "🔧",
-            "url": "/hi/haircare/baal-repair/"
+            "url": "/hi/haircare/repair/"
           },
           {
             "name": "नमी प्रदान करना",
             "emoji": "💧",
-            "url": "/hi/haircare/nami-pradan/"
+            "url": "/hi/haircare/hydration/"
           },
           {
             "name": "डैंड्रफ ट्रीटमेंट",
             "emoji": "❄️",
-            "url": "/hi/haircare/dandruff-treatment/"
+            "url": "/hi/haircare/dandruff/"
           },
           {
             "name": "कलर प्रोटेक्शन",

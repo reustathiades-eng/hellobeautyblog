@@ -101,17 +101,17 @@
           {
             "name": "Femme",
             "emoji": "👩",
-            "url": "/fr/parfums/femme/"
+            "url": "/fr/parfums/women/"
           },
           {
             "name": "Homme",
             "emoji": "👨",
-            "url": "/fr/parfums/homme/"
+            "url": "/fr/parfums/men/"
           },
           {
             "name": "Unisexe",
             "emoji": "⚧️",
-            "url": "/fr/parfums/unisexe/"
+            "url": "/fr/parfums/unisex/"
           }
         ]
       },
@@ -131,12 +131,12 @@
           {
             "name": "Boisé",
             "emoji": "🌲",
-            "url": "/fr/parfums/boise/"
+            "url": "/fr/parfums/woody/"
           },
           {
             "name": "Frais",
             "emoji": "🍃",
-            "url": "/fr/parfums/frais/"
+            "url": "/fr/parfums/fresh/"
           }
         ]
       },
@@ -146,22 +146,22 @@
           {
             "name": "Quotidien",
             "emoji": "☀️",
-            "url": "/fr/parfums/quotidien/"
+            "url": "/fr/parfums/everyday/"
           },
           {
             "name": "Soirée",
             "emoji": "🌃",
-            "url": "/fr/parfums/soiree/"
+            "url": "/fr/parfums/evening/"
           },
           {
             "name": "Été",
             "emoji": "🏖️",
-            "url": "/fr/parfums/romantique/"
+            "url": "/fr/parfums/romantic/"
           },
           {
             "name": "Hiver",
             "emoji": "❄️",
-            "url": "/fr/parfums/bureau/"
+            "url": "/fr/parfums/office/"
           }
         ]
       }
@@ -193,12 +193,12 @@
           {
             "name": "Damenparfum",
             "emoji": "👩",
-            "url": "/de/parfum/damen/"
+            "url": "/de/parfum/women/"
           },
           {
             "name": "Herrenparfum",
             "emoji": "👨",
-            "url": "/de/parfum/herren/"
+            "url": "/de/parfum/men/"
           },
           {
             "name": "Unisex-Parfum",
@@ -213,22 +213,22 @@
           {
             "name": "Blumig",
             "emoji": "🌸",
-            "url": "/de/parfum/blumig/"
+            "url": "/de/parfum/floral/"
           },
           {
             "name": "Oriental",
             "emoji": "🌙",
-            "url": "/de/parfum/orientalisch/"
+            "url": "/de/parfum/oriental/"
           },
           {
             "name": "Holzig",
             "emoji": "🌲",
-            "url": "/de/parfum/holzig/"
+            "url": "/de/parfum/woody/"
           },
           {
             "name": "Frisch",
             "emoji": "🍃",
-            "url": "/de/parfum/frisch/"
+            "url": "/de/parfum/fresh/"
           }
         ]
       },
@@ -238,22 +238,22 @@
           {
             "name": "Alltag",
             "emoji": "☀️",
-            "url": "/de/parfum/alltag/"
+            "url": "/de/parfum/everyday/"
           },
           {
             "name": "Abend",
             "emoji": "🌃",
-            "url": "/de/parfum/abend/"
+            "url": "/de/parfum/evening/"
           },
           {
             "name": "Sommer",
             "emoji": "🏖️",
-            "url": "/de/parfum/romantisch/"
+            "url": "/de/parfum/romantic/"
           },
           {
             "name": "Winter",
             "emoji": "❄️",
-            "url": "/de/parfum/buero/"
+            "url": "/de/parfum/office/"
           }
         ]
       }
@@ -285,12 +285,12 @@
           {
             "name": "Mujer",
             "emoji": "👩",
-            "url": "/es/perfumes/mujer/"
+            "url": "/es/perfumes/women/"
           },
           {
             "name": "Hombre",
             "emoji": "👨",
-            "url": "/es/perfumes/hombre/"
+            "url": "/es/perfumes/men/"
           },
           {
             "name": "Unisex",
@@ -315,12 +315,12 @@
           {
             "name": "Amaderada",
             "emoji": "🌲",
-            "url": "/es/perfumes/amaderado/"
+            "url": "/es/perfumes/woody/"
           },
           {
             "name": "Fresca",
             "emoji": "🍃",
-            "url": "/es/perfumes/fresco/"
+            "url": "/es/perfumes/fresh/"
           }
         ]
       },
@@ -330,22 +330,22 @@
           {
             "name": "Diario",
             "emoji": "☀️",
-            "url": "/es/perfumes/diario/"
+            "url": "/es/perfumes/everyday/"
           },
           {
             "name": "Noche",
             "emoji": "🌃",
-            "url": "/es/perfumes/noche/"
+            "url": "/es/perfumes/evening/"
           },
           {
             "name": "Verano",
             "emoji": "🏖️",
-            "url": "/es/perfumes/romantico/"
+            "url": "/es/perfumes/romantic/"
           },
           {
             "name": "Invierno",
             "emoji": "❄️",
-            "url": "/es/perfumes/oficina/"
+            "url": "/es/perfumes/office/"
           }
         ]
       }
@@ -377,12 +377,12 @@
           {
             "name": "Donna",
             "emoji": "👩",
-            "url": "/it/profumi/donna/"
+            "url": "/it/profumi/women/"
           },
           {
             "name": "Uomo",
             "emoji": "👨",
-            "url": "/it/profumi/uomo/"
+            "url": "/it/profumi/men/"
           },
           {
             "name": "Unisex",
@@ -397,22 +397,22 @@
           {
             "name": "Floreale",
             "emoji": "🌸",
-            "url": "/it/profumi/floreale/"
+            "url": "/it/profumi/floral/"
           },
           {
             "name": "Orientale",
             "emoji": "🌙",
-            "url": "/it/profumi/orientale/"
+            "url": "/it/profumi/oriental/"
           },
           {
             "name": "Legnoso",
             "emoji": "🌲",
-            "url": "/it/profumi/legnoso/"
+            "url": "/it/profumi/woody/"
           },
           {
             "name": "Fresco",
             "emoji": "🍃",
-            "url": "/it/profumi/fresco/"
+            "url": "/it/profumi/fresh/"
           }
         ]
       },
@@ -422,22 +422,22 @@
           {
             "name": "Quotidiano",
             "emoji": "☀️",
-            "url": "/it/profumi/quotidiano/"
+            "url": "/it/profumi/everyday/"
           },
           {
             "name": "Serale",
             "emoji": "🌃",
-            "url": "/it/profumi/sera/"
+            "url": "/it/profumi/evening/"
           },
           {
             "name": "Estivo",
             "emoji": "🏖️",
-            "url": "/it/profumi/romantico/"
+            "url": "/it/profumi/romantic/"
           },
           {
             "name": "Invernale",
             "emoji": "❄️",
-            "url": "/it/profumi/ufficio/"
+            "url": "/it/profumi/office/"
           }
         ]
       }
@@ -469,17 +469,17 @@
           {
             "name": "Feminino",
             "emoji": "👩",
-            "url": "/pt/perfumes/feminino/"
+            "url": "/pt/perfumes/women/"
           },
           {
             "name": "Masculino",
             "emoji": "👨",
-            "url": "/pt/perfumes/masculino/"
+            "url": "/pt/perfumes/men/"
           },
           {
             "name": "Unissex",
             "emoji": "⚧️",
-            "url": "/pt/perfumes/unissex/"
+            "url": "/pt/perfumes/unisex/"
           }
         ]
       },
@@ -499,12 +499,12 @@
           {
             "name": "Amadeirado",
             "emoji": "🌲",
-            "url": "/pt/perfumes/amadeirado/"
+            "url": "/pt/perfumes/woody/"
           },
           {
             "name": "Fresco",
             "emoji": "🍃",
-            "url": "/pt/perfumes/fresco/"
+            "url": "/pt/perfumes/fresh/"
           }
         ]
       },
@@ -514,22 +514,22 @@
           {
             "name": "Dia a Dia",
             "emoji": "☀️",
-            "url": "/pt/perfumes/dia-a-dia/"
+            "url": "/pt/perfumes/everyday/"
           },
           {
             "name": "Noite",
             "emoji": "🌃",
-            "url": "/pt/perfumes/noite/"
+            "url": "/pt/perfumes/evening/"
           },
           {
             "name": "Verão",
             "emoji": "🏖️",
-            "url": "/pt/perfumes/romantico/"
+            "url": "/pt/perfumes/romantic/"
           },
           {
             "name": "Inverno",
             "emoji": "❄️",
-            "url": "/pt/perfumes/escritorio/"
+            "url": "/pt/perfumes/office/"
           }
         ]
       }
@@ -561,12 +561,12 @@
           {
             "name": "Damesparfum",
             "emoji": "👩",
-            "url": "/nl/parfum/dames/"
+            "url": "/nl/parfum/women/"
           },
           {
             "name": "Herenparfum",
             "emoji": "👨",
-            "url": "/nl/parfum/heren/"
+            "url": "/nl/parfum/men/"
           },
           {
             "name": "Unisex parfum",
@@ -581,22 +581,22 @@
           {
             "name": "Bloemig",
             "emoji": "🌸",
-            "url": "/nl/parfum/bloemig/"
+            "url": "/nl/parfum/floral/"
           },
           {
             "name": "Oriëntaals",
             "emoji": "🌙",
-            "url": "/nl/parfum/oosters/"
+            "url": "/nl/parfum/oriental/"
           },
           {
             "name": "Houtachtig",
             "emoji": "🌲",
-            "url": "/nl/parfum/houtachtig/"
+            "url": "/nl/parfum/woody/"
           },
           {
             "name": "Fris",
             "emoji": "🍃",
-            "url": "/nl/parfum/fris/"
+            "url": "/nl/parfum/fresh/"
           }
         ]
       },
@@ -606,22 +606,22 @@
           {
             "name": "Dagelijks",
             "emoji": "☀️",
-            "url": "/nl/parfum/dagelijks/"
+            "url": "/nl/parfum/everyday/"
           },
           {
             "name": "Avond",
             "emoji": "🌃",
-            "url": "/nl/parfum/avond/"
+            "url": "/nl/parfum/evening/"
           },
           {
             "name": "Zomer",
             "emoji": "🏖️",
-            "url": "/nl/parfum/romantisch/"
+            "url": "/nl/parfum/romantic/"
           },
           {
             "name": "Winter",
             "emoji": "❄️",
-            "url": "/nl/parfum/kantoor/"
+            "url": "/nl/parfum/office/"
           }
         ]
       }
@@ -653,12 +653,12 @@
           {
             "name": "Damskie",
             "emoji": "👩",
-            "url": "/pl/perfumy/damskie/"
+            "url": "/pl/perfumy/women/"
           },
           {
             "name": "Męskie",
             "emoji": "👨",
-            "url": "/pl/perfumy/meskie/"
+            "url": "/pl/perfumy/men/"
           },
           {
             "name": "Unisex",
@@ -673,22 +673,22 @@
           {
             "name": "Kwiatowe",
             "emoji": "🌸",
-            "url": "/pl/perfumy/kwiatowe/"
+            "url": "/pl/perfumy/floral/"
           },
           {
             "name": "Orientalne",
             "emoji": "🌙",
-            "url": "/pl/perfumy/orientalne/"
+            "url": "/pl/perfumy/oriental/"
           },
           {
             "name": "Drzewne",
             "emoji": "🌲",
-            "url": "/pl/perfumy/drzewne/"
+            "url": "/pl/perfumy/woody/"
           },
           {
             "name": "Świeże",
             "emoji": "🍃",
-            "url": "/pl/perfumy/swieze/"
+            "url": "/pl/perfumy/fresh/"
           }
         ]
       },
@@ -698,22 +698,22 @@
           {
             "name": "Codzienne",
             "emoji": "☀️",
-            "url": "/pl/perfumy/codzienny/"
+            "url": "/pl/perfumy/everyday/"
           },
           {
             "name": "Wieczorowe",
             "emoji": "🌃",
-            "url": "/pl/perfumy/wieczorowy/"
+            "url": "/pl/perfumy/evening/"
           },
           {
             "name": "Letnie",
             "emoji": "🏖️",
-            "url": "/pl/perfumy/romantyczne/"
+            "url": "/pl/perfumy/romantic/"
           },
           {
             "name": "Zimowe",
             "emoji": "❄️",
-            "url": "/pl/perfumy/biurowe/"
+            "url": "/pl/perfumy/office/"
           }
         ]
       }
@@ -745,12 +745,12 @@
           {
             "name": "Kadın Parfümleri",
             "emoji": "👩",
-            "url": "/tr/parfum/kadin/"
+            "url": "/tr/parfum/women/"
           },
           {
             "name": "Erkek Parfümleri",
             "emoji": "👨",
-            "url": "/tr/parfum/erkek/"
+            "url": "/tr/parfum/men/"
           },
           {
             "name": "Unisex Parfümler",
@@ -765,22 +765,22 @@
           {
             "name": "Çiçeksi Kokular",
             "emoji": "🌸",
-            "url": "/tr/parfum/ciceksi/"
+            "url": "/tr/parfum/floral/"
           },
           {
             "name": "Oriental Kokular",
             "emoji": "🌙",
-            "url": "/tr/parfum/oryantal/"
+            "url": "/tr/parfum/oriental/"
           },
           {
             "name": "Odunsu Kokular",
             "emoji": "🌲",
-            "url": "/tr/parfum/odunsu/"
+            "url": "/tr/parfum/woody/"
           },
           {
             "name": "Taze Kokular",
             "emoji": "🍃",
-            "url": "/tr/parfum/taze/"
+            "url": "/tr/parfum/fresh/"
           }
         ]
       },
@@ -790,22 +790,22 @@
           {
             "name": "Günlük Kullanım",
             "emoji": "☀️",
-            "url": "/tr/parfum/gunluk/"
+            "url": "/tr/parfum/everyday/"
           },
           {
             "name": "Akşam Parfümleri",
             "emoji": "🌃",
-            "url": "/tr/parfum/aksam/"
+            "url": "/tr/parfum/evening/"
           },
           {
             "name": "Yaz Parfümleri",
             "emoji": "🏖️",
-            "url": "/tr/parfum/romantik/"
+            "url": "/tr/parfum/romantic/"
           },
           {
             "name": "Kış Parfümleri",
             "emoji": "❄️",
-            "url": "/tr/parfum/ofis/"
+            "url": "/tr/parfum/office/"
           }
         ]
       }
