@@ -11,8 +11,11 @@ productType: "Reparaturbehandlung"
 rating: 5
 hairType: "Alle Haartypen"
 images:
-  - /images/haircare/olaplex-no-3.webp
-featured: true
+  - /images/haircare/olaplex-no-3-hair-perfector-swatch.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector-2.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector-3.jpg
+featured: false
 draft: false
 author: "Olivia Taylor"
 description: "Unser ausführlicher Test von Olaplex No. 3, der revolutionären Haarpflege."

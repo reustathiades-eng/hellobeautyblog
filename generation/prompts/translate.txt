@@ -32,10 +32,12 @@ You MUST translate/adapt these frontmatter fields into native {target_language}:
 
 === WHAT TO KEEP UNCHANGED IN FRONTMATTER ===
 - translationKey (always English)
+  **CRITICAL**: translationKey MUST be copied EXACTLY from the EN source file. Do NOT modify, shorten, or adapt it. It is the key Hugo uses to link translations together.
 - author / authorSlug
 - brand / productName (brand names are never translated)
 - date / lastmod
 - images
+  **CRITICAL**: Copy the images array EXACTLY from the EN source. Same paths, same order. Never change image filenames.
 - featured / draft
 - rating (number)
 - Boolean values (crueltyFree, vegan, etc.)
@@ -48,7 +50,7 @@ CULTURAL ADAPTATION (not translation):
 - Adapt cultural references: if the English version mentions "Target" or "Sephora US", replace with relevant local equivalent
 - Use {target_language} beauty terminology naturally: French readers know "fond de teint", German readers know "Grundierung", etc.
 - Metric system is standard (most languages already use it)
-- Currency: keep € (European languages) or adapt if needed for Asian languages
+- Currency: Use € for all European languages (FR, DE, ES, IT, PT, NL, PL, TR). Use local currency for Asian languages (¥ for JA/ZH, ₩ for KO, ₹ for HI). Adapt prices to approximate local equivalents (e.g., $38 → 42€). Do NOT keep USD for European markets.
 - Humor, sarcasm, casual tone: adapt to what feels natural in {target_language}. Japanese is more polite/structured. Spanish is warmer. German is more precise. Arabic reads right-to-left and has different rhythm.
 
 WRITING QUALITY:
@@ -68,7 +70,7 @@ ANTI-AI IN TARGET LANGUAGE:
 === LANGUAGE-SPECIFIC NOTES ===
 - **French (fr)**: Tutoiement for casual blogs. Use "fond de teint", "soin", etc. French beauty vocabulary is rich — use it.
 - **German (de)**: Compound words are your friend. "Feuchtigkeitscreme" not "Moisturizer". Precise, detailed.
-- **Spanish (es)**: Warm, enthusiastic. "¿Merece la pena?" not literal "Is it worth it?". Use LatAm-neutral Spanish.
+- **Spanish (es)**: Warm, enthusiastic. "¿Merece la pena?" not literal "Is it worth it?". Use LatAm-neutral vocabulary but European pricing (€). Avoid region-specific slang.
 - **Italian (it)**: Expressive. "Ci sono rimasta male" (I was disappointed) feels more natural than literal translations.
 - **Portuguese (pt)**: Brazilian Portuguese preferred (larger audience). Warm, conversational.
 - **Dutch (nl)**: Direct, practical. Dutch beauty vocabulary exists — use it.

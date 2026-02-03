@@ -43,7 +43,7 @@ subcategories:
   - "color-protection"
   - "color-treated"
   - "olaplex"
-translationKey: "olaplex-no-3-hair-perfector"
+translationKey: "olaplex-no-3"
 ---
 
 My hair looked like I'd been in a fight with a curling iron and lost. Badly. After going from dark brown to platinum in one (very ambitious, very stupid) salon session, my mid-length hair had that crispy texture that makes you wince when you touch it. You know the one — where your ends feel more like dried seaweed than actual human hair.
