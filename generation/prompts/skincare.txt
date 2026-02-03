@@ -58,7 +58,18 @@ translationKey: "{slug}"
 === CONTENT REQUIREMENTS ===
 
 STRUCTURE (SEO):
-- Minimum 2 H2 headings, minimum 4 H3 headings
+- MANDATORY HEADING HIERARCHY: You MUST use both H2 (##) AND H3 (###) headings.
+  - Use 2-4 H2 headings for MAJOR sections (big thematic blocks)
+  - Use 4-6 H3 headings NESTED UNDER H2s for sub-topics within those sections
+  - Example structure:
+    ## The Scent Journey: From First Spray to Dry Down [H2 = major section]
+    ### Opening Notes: That Initial Bergamot Burst [H3 = sub-topic]
+    ### The Heart: Where Things Get Interesting [H3 = sub-topic]
+    ## Real-Life Performance: 12 Hours in the Office [H2 = major section]
+    ### The Sillage Test: Who Actually Noticed? [H3 = sub-topic]
+    ### Longevity on Skin vs. Fabric [H3 = sub-topic]
+  - NEVER use only H2s. Articles with 0 H3 headings will be REJECTED.
+  - H3 headings show Google your content has depth and structure
 - H2/H3 MUST be unique to this product — NEVER use generic "Ingredients Breakdown" or "How to Use"
 - Use ingredient-specific, result-specific headings: "What 10% Niacinamide Actually Does to Your Pores", "The Zinc PCA Addition Nobody Talks About", "Week 4: When I Finally Saw the Difference"
 - End with FAQ section (3-5 questions real people Google about this product)
