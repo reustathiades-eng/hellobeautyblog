@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/zh/skincare/eye-cream/"
+url: "/zh/skincare/yanshuang/"
 
 seo_title: "眼霜推荐2024 | 去细纹黑眼圈眼部护理产品选购指南"
 intro_title: "👁️ 眼霜精选 - 专业眼部护理解决方案"

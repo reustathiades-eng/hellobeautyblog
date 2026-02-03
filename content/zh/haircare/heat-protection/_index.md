@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/zh/haircare/heat-protection/"
+url: "/zh/haircare/re-fanghu/"
 
 seo_title: "护发防热产品 - 专业防热护发喷雾精华 | 守护秀发健康光泽"
 intro_title: "🔥 防热护发产品 - 为您的秀发提供全方位热损伤防护"

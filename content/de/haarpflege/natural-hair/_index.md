@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/de/haarpflege/natural-hair/"
+url: "/de/haarpflege/naturhaar/"
 
 seo_title: "Naturhaar Pflege: Tipps & Produkte für natürliches Haar"
 intro_title: "🌿 Naturhaar Pflege - Schönheit in ihrer reinsten Form"

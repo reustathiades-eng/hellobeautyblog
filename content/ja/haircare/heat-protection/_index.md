@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/ja/haircare/heat-protection/"
+url: "/ja/haircare/netsupurotekushon/"
 
 seo_title: "ヒートプロテクション製品 | 熱から髪を守るヘアケア用品"
 intro_title: "🔥 ヒートプロテクション - 熱から髪を守る必須アイテム"

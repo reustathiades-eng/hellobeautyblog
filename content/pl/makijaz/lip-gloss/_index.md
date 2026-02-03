@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/pl/makijaz/lip-gloss/"
+url: "/pl/makijaz/polyjsk-do-ust/"
 
 seo_title: "Błyszczyki do Ust - Najlepsze Kosmetyki Online"
 intro_title: "💋 Błyszczyki do Ust - Idealne Wykończenie Makijażu"

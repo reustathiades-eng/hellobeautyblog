@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/pt/maquiagem/foundation/"
+url: "/pt/maquiagem/base/"
 
 seo_title: "Base para o Rosto | Encontre sua Base Perfeita Online"
 intro_title: "Base para o Rosto 💄 - Cobertura Perfeita para sua Pele"

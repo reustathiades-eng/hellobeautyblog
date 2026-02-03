@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/ko/skincare/spot-treatment/"
+url: "/ko/skincare/budun-kea/"
 
 seo_title: "스팟 트리트먼트 제품 추천 | 여드름 집중 케어 화장품"
 intro_title: "🎯 스팟 트리트먼트 - 집중 케어의 완성"

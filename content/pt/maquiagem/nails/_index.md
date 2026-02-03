@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/pt/maquiagem/nails/"
+url: "/pt/maquiagem/unhas/"
 
 seo_title: "Esmaltes e Nail Art - Produtos para Unhas | Maquiagem"
 intro_title: "💅 Unhas: Esmaltes e Nail Art para Looks Perfeitos"

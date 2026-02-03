@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/pt/cuidados-pele/spot-treatment/"
+url: "/pt/cuidados-pele/tratamento-localizado/"
 
 seo_title: "Tratamento Localizado: Produtos Anti-Acne e Manchas"
 intro_title: "Tratamento Localizado 🎯"

@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/pl/pielegnacja/dark-circles/"
+url: "/pl/pielegnacja/cienie-pod-oczami/"
 
 seo_title: "Ciemne Kręgi Pod Oczami - Kremy i Kosmetyki | Pielęgnacja"
 intro_title: "👁️ Ciemne Kręgi Pod Oczami - Skuteczne Rozwiązania"

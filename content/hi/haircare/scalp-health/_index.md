@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/hi/haircare/scalp-health/"
+url: "/hi/haircare/sir-ki-sehat/"
 
 seo_title: "स्कैल्प हेल्थ के लिए बेस्ट उत्पाद - खुजली, रूसी और बालों की समस्या का समाधान"
 intro_title: "🌿 स्कैल्प हेल्थ - स्वस्थ बालों की जड़ें"

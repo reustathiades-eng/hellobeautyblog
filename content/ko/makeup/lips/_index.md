@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/ko/makeup/lips/"
+url: "/ko/makeup/ib-sul/"
 
 seo_title: "립 메이크업 완벽 가이드 | 립스틱, 립글로스, 립틴트 추천 및 꿀팁"
 intro_title: "💋 완벽한 립 메이크업의 모든 것"

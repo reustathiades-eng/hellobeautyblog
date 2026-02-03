@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/it/skincare/sensitive/"
+url: "/it/skincare/sensibile/"
 
 seo_title: "Cosmetici per Pelle Sensibile | Skincare Delicata e Sicura"
 intro_title: "🌸 Skincare per Pelle Sensibile"

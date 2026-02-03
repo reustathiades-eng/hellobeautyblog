@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/ja/makeup/matte/"
+url: "/ja/makeup/matto/"
 
 seo_title: "マットメイク完全ガイド | テカリ知らずの美肌を叶える仕上げ方法とおすすめアイテム"
 intro_title: "✨ マットメイク - 上品で洗練された仕上がりを叶える"

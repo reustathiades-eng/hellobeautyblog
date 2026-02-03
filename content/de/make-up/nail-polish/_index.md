@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/de/make-up/nail-polish/"
+url: "/de/make-up/nagellack/"
 
 seo_title: "Nagellack kaufen - Premium Qualität & große Auswahl"
 intro_title: "💅 Nagellack - Perfekte Farben für jeden Anlass"

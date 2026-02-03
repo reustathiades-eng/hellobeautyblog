@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/ja/makeup/light-coverage/"
+url: "/ja/makeup/raito-kabareji/"
 
 seo_title: "ライトカバレッジ化粧品｜自然な仕上がりのメイクアップ完全ガイド"
 intro_title: "✨ ライトカバレッジメイクアップ - 自然で軽やかな美肌を叶える"

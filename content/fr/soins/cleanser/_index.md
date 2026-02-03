@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/fr/soins/cleanser/"
+url: "/fr/soins/nettoyant/"
 
 seo_title: "Nettoyants Visage - Démaquillants et Gels Purifiants"
 intro_title: "🧼 Nettoyants Visage : La Base d'une Routine Beauté Parfaite"

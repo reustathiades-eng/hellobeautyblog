@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/fr/soins/firmness/"
+url: "/fr/soins/fermete/"
 
 seo_title: "Soins Fermeté : Raffermissez votre Peau Naturellement"
 intro_title: "💪 Soins Fermeté pour une Peau Tonique et Raffermie"

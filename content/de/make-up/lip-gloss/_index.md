@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/de/make-up/lip-gloss/"
+url: "/de/make-up/lipgloss/"
 
 seo_title: "Lipgloss kaufen - Glänzende Lippen für jeden Look"
 intro_title: "Lipgloss - Für verführerisch glänzende Lippen ✨"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/fr/maquillage/false-lashes/"
+url: "/fr/maquillage/faux-cils/"
 
 seo_title: "Faux Cils - Collection de Cils Artificiels Premium"
 intro_title: "Faux Cils 👁️ - Sublimez Votre Regard Instantanément"

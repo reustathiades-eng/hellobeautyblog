@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/nl/haarverzorging/hair-growth/"
+url: "/nl/haarverzorging/haargroei/"
 
 seo_title: "Haargroei Producten - Stimuleer Sterke & Gezonde Haargroei"
 intro_title: "Haargroei Stimuleren 🌱"

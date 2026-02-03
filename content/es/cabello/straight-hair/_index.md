@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/es/cabello/straight-hair/"
+url: "/es/cabello/cabello-liso/"
 
 seo_title: "Cuidado del Cabello Liso: Productos y Consejos Expertos"
 intro_title: "Cuidado del Cabello Liso ✨"

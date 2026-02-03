@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/it/skincare/sunscreen/"
+url: "/it/skincare/protezione-solare/"
 
 seo_title: "Creme Solari Viso e Corpo - Protezione UV Premium"
 intro_title: "☀️ Creme Solari: Protezione Essenziale per la Tua Pelle"

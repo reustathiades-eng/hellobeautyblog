@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/es/cuidado-piel/vitamin-c/"
+url: "/es/cuidado-piel/vitamina-c/"
 
 seo_title: "Vitamina C para el Rostro: Beneficios y Mejores Productos"
 intro_title: "Vitamina C: El Antioxidante Estrella para tu Piel ✨"

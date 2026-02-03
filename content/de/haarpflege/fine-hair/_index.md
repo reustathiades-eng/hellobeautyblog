@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/de/haarpflege/fine-hair/"
+url: "/de/haarpflege/feines-haar/"
 
 seo_title: "Feines Haar richtig pflegen - Tipps & Produkte | Ratgeber"
 intro_title: "Feines Haar: Die perfekte Pflege für mehr Volumen 💫"

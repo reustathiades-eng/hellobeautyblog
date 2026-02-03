@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/it/capelli/hair-oil/"
+url: "/it/capelli/olio-capelli/"
 
 seo_title: "Olio per Capelli: Nutrizione e Protezione | Shop Online"
 intro_title: "✨ Olio per Capelli: Nutrizione Profonda e Lucentezza Naturale"

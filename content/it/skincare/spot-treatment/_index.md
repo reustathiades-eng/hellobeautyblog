@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/it/skincare/spot-treatment/"
+url: "/it/skincare/trattamento-localizzato/"
 
 seo_title: "Trattamenti Anti-Brufoli: Prodotti Mirati per Imperfezioni"
 intro_title: "🎯 Trattamenti Spot Anti-Imperfezioni"

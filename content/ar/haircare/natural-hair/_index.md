@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/ar/haircare/natural-hair/"
+url: "/ar/haircare/shaar-ṭabee/"
 
 seo_title: "منتجات العناية بالشعر الطبيعي - دليلك الشامل للجمال"
 intro_title: "العناية بالشعر الطبيعي 🌿"

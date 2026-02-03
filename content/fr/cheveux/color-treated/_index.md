@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/fr/cheveux/color-treated/"
+url: "/fr/cheveux/cheveux-colores/"
 
 seo_title: "Soins Cheveux Colorés : Produits & Conseils Experts 2024"
 intro_title: "Cheveux Colorés : Le Guide Complet pour Préserver Votre Couleur ✨"

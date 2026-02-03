@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/ko/haircare/color-treated/"
+url: "/ko/haircare/yeom-saek-meolli/"
 
 seo_title: "염색모 헤어케어 제품 추천 | 컬러 손상모발 전용 샴푸 트리트먼트"
 intro_title: "염색모 헤어케어 🎨 컬러 보호와 모발 건강을 동시에"

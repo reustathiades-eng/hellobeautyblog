@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/es/cabello/hair-mask/"
+url: "/es/cabello/mascarilla-cabello/"
 
 seo_title: "Mascarillas Capilares Nutritivas | Hidratación Profunda"
 intro_title: "Mascarillas Capilares 💆‍♀️ Nutrición Intensa para Tu Cabello"

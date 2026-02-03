@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/ja/haircare/frizz/"
+url: "/ja/haircare/hirogari/"
 
 seo_title: "髪の広がり・うねり対策｜フリッツケア方法とおすすめアイテム"
 intro_title: "髪の広がり・うねり（フリッツ）対策 💁‍♀️"

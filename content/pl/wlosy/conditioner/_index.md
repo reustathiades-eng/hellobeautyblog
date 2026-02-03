@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/pl/wlosy/conditioner/"
+url: "/pl/wlosy/odzywka/"
 
 seo_title: "Odżywki do Włosów - Najlepsze Odżywki Online | Sklep"
 intro_title: "🌟 Odżywki do Włosów - Pielęgnacja i Odżywianie"

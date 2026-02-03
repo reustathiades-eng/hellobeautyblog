@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/fr/maquillage/sensitive-skin/"
+url: "/fr/maquillage/peau-sensible/"
 
 seo_title: "Maquillage Peau Sensible - Produits Doux & Hypoallergéniques"
 intro_title: "Maquillage pour Peau Sensible 🌸"

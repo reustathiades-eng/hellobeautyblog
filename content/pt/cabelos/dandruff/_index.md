@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/pt/cabelos/dandruff/"
+url: "/pt/cabelos/caspa/"
 
 seo_title: "Tratamento para Caspa: Produtos e Dicas Eficazes"
 intro_title: "🌿 Tratamento para Caspa: Soluções Definitivas"

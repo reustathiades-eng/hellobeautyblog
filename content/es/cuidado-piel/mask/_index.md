@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/es/cuidado-piel/mask/"
+url: "/es/cuidado-piel/mascarilla/"
 
 seo_title: "Mascarillas Faciales: Cuidado Intensivo para Tu Piel"
 intro_title: "Mascarillas Faciales: Transforma Tu Rutina de Belleza ✨"

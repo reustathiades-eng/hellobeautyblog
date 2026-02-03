@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/ja/skincare/vitamin-c/"
+url: "/ja/skincare/bitamin-c/"
 
 seo_title: "ビタミンC美容液・化粧品｜美白・毛穴ケアに効果的なスキンケア商品"
 intro_title: "🍊 ビタミンC配合スキンケア - 透明感のある美肌へ"

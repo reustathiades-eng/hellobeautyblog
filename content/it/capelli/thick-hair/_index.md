@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/it/capelli/thick-hair/"
+url: "/it/capelli/capelli-spessi/"
 
 seo_title: "Prodotti per Capelli Spessi: Shampoo e Trattamenti Professionali"
 intro_title: "Cura dei Capelli Spessi 💪"

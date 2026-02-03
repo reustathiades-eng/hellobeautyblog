@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/zh/skincare/oil/"
+url: "/zh/skincare/jinghua-you/"
 
 seo_title: "护肤油推荐 | 精华油面部护理 | 天然植物油护肤品选购指南"
 intro_title: "护肤油 💧 深层滋养肌肤的天然之选"

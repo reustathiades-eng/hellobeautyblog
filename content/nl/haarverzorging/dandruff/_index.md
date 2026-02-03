@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/nl/haarverzorging/dandruff/"
+url: "/nl/haarverzorging/roos/"
 
 seo_title: "Roos Behandeling | Anti-Roos Producten | Haircare Expert"
 intro_title: "Roos Bestrijden ❄️ Effectieve Anti-Roos Behandeling"

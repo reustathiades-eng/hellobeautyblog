@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/pt/cabelos/hair-mask/"
+url: "/pt/cabelos/mascara-capilar/"
 
 seo_title: "Máscaras Capilares: Tratamento Intensivo para Cabelos"
 intro_title: "🌟 Máscaras Capilares: Transforme seus Cabelos"

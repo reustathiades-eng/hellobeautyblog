@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/ja/haircare/styling-gel/"
+url: "/ja/haircare/sutairingujeru/"
 
 seo_title: "スタイリングジェル通販｜髪型キープ・ウェットヘア｜公式オンラインストア"
 intro_title: "💎 スタイリングジェル - 理想のヘアスタイルを一日中キープ"

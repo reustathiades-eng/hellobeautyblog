@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/hi/skincare/hydration/"
+url: "/hi/skincare/namee/"
 
 seo_title: "त्वचा हाइड्रेशन उत्पाद - स्किन मॉइस्चराइज़र ऑनलाइन खरीदें"
 intro_title: "💧 त्वचा के लिए हाइड्रेशन उत्पाद - नमी और चमक का खजाना"

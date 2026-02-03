@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/nl/haarverzorging/hair-mask/"
+url: "/nl/haarverzorging/haarmasker/"
 
 seo_title: "Haarmaskers Kopen Online | Voedende & Herstellende Maskers"
 intro_title: "💆‍♀️ Haarmaskers - Intensive Verzorging voor Prachtig Haar"

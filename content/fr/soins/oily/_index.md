@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/fr/soins/oily/"
+url: "/fr/soins/grasse/"
 
 seo_title: "Soins Visage Peau Grasse | Produits Anti-Brillance Expert"
 intro_title: "🌿 Soins pour Peau Grasse - Solutions Expertes"

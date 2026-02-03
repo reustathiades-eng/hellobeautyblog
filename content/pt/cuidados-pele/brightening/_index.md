@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/pt/cuidados-pele/brightening/"
+url: "/pt/cuidados-pele/iluminador/"
 
 seo_title: "Clareamento da Pele - Produtos para Luminosidade Natural"
 intro_title: "✨ Clareamento e Luminosidade da Pele"

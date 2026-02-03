@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/ja/makeup/powder/"
+url: "/ja/makeup/paudaa/"
 
 seo_title: "フェイスパウダー・プレストパウダー通販｜高品質メイクアップ"
 intro_title: "💄 フェイスパウダー・プレストパウダー"

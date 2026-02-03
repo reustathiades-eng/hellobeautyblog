@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/fr/cheveux/dry-shampoo/"
+url: "/fr/cheveux/shampoing-sec/"
 
 seo_title: "Shampooing Sec - Cheveux Frais Sans Eau | Guide Complet"
 intro_title: "🌟 Shampooing Sec : La Solution Miracle pour des Cheveux Frais"

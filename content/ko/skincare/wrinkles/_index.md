@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/ko/skincare/wrinkles/"
+url: "/ko/skincare/jueum/"
 
 seo_title: "주름 개선 스킨케어 제품 추천 | 효과적인 안티에이징 화장품"
 intro_title: "주름 개선 스킨케어 🌟"

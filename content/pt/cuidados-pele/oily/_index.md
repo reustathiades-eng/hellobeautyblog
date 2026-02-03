@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/pt/cuidados-pele/oily/"
+url: "/pt/cuidados-pele/oleosa/"
 
 seo_title: "Cuidados para Pele Oleosa | Produtos e Tratamentos"
 intro_title: "Cuidados para Pele Oleosa 🌟"

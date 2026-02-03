@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/ar/haircare/hydration/"
+url: "/ar/haircare/tarteeb/"
 
 seo_title: "منتجات ترطيب الشعر - أفضل الحلول للشعر الجاف والتالف"
 intro_title: "ترطيب الشعر 💧 الدليل الشامل للعناية المثلى"

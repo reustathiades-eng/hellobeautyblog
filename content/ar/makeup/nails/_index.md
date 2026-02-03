@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/ar/makeup/nails/"
+url: "/ar/makeup/aẓafir/"
 
 seo_title: "مكياج الأظافر - أفضل منتجات طلاء وعناية الأظافر"
 intro_title: "💅 مكياج الأظافر - دليلك الشامل لأظافر جميلة ومميزة"

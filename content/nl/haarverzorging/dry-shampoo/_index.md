@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/nl/haarverzorging/dry-shampoo/"
+url: "/nl/haarverzorging/droogshampoo/"
 
 seo_title: "Droogshampoo Kopen | Beste Droge Shampoos Online"
 intro_title: "Droogshampoo 🌟 Voor Fris & Volumineus Haar"

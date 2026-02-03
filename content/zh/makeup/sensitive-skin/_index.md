@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/zh/makeup/sensitive-skin/"
+url: "/zh/makeup/mingan-pifu/"
 
 seo_title: "敏感肌肌膚化妝品推薦 | 溫和不刺激彩妝產品指南 - 美妝專家"
 intro_title: "💕 敏感肌專用化妝品 - 溫和呵護每一寸肌膚"

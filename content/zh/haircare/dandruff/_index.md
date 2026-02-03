@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/zh/haircare/dandruff/"
+url: "/zh/haircare/tou-pi-xie/"
 
 seo_title: "去屑洗发水推荐|头皮屑护理产品|专业去屑方案-美妆护发专区"
 intro_title: "去屑护理 ❄️ 告别头皮屑困扰"

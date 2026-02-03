@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/ja/haircare/hair-growth/"
+url: "/ja/haircare/hatsumo/"
 
 seo_title: "育毛・発毛ケア完全ガイド | 効果的な髪の成長促進方法とおすすめアイテム"
 intro_title: "🌱 育毛・発毛ケアで健やかな髪を育てよう"

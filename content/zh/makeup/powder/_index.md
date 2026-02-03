@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/zh/makeup/powder/"
+url: "/zh/makeup/sanfen/"
 
 seo_title: "散粉粉饼定妆粉专区 - 优质控油定妆产品推荐 | 美妆商城"
 intro_title: "散粉粉饼专区 ✨ 打造持久完美妆容"

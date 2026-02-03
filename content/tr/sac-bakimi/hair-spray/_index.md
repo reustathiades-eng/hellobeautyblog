@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/tr/sac-bakimi/hair-spray/"
+url: "/tr/sac-bakimi/sac-spreyi/"
 
 seo_title: "Saç Spreyi - Kalıcı Tutuş ve Doğal Görünüm | En İyi Fiyat"
 intro_title: "💫 Saç Spreyi - Mükemmel Saç Şekli için Vazgeçilmez Ürün"

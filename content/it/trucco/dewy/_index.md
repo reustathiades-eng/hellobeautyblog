@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/it/trucco/dewy/"
+url: "/it/trucco/effetto-bagnato/"
 
 seo_title: "Makeup Finish Dewy: Prodotti per un Look Luminoso e Naturale"
 intro_title: "Makeup Finish Dewy ✨ Per una Pelle Radiosa e Naturale"

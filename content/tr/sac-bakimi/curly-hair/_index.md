@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/tr/sac-bakimi/curly-hair/"
+url: "/tr/sac-bakimi/bukle-sac/"
 
 seo_title: "Kıvırcık Saç Bakımı | En İyi Ürünler ve Öneriler"
 intro_title: "Kıvırcık Saç Bakımı Rehberi 🌀"

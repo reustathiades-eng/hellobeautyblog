@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/tr/sac-bakimi/thinning/"
+url: "/tr/sac-bakimi/seyrek-sac/"
 
 seo_title: "Saç İncelmesi Bakımı - Doğal Çözümler ve Etkili Ürünler"
 intro_title: "Saç İncelmesi Bakımı 💪"

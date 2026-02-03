@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/it/trucco/foundation/"
+url: "/it/trucco/fondotinta/"
 
 seo_title: "Fondotinta di Qualità | Scopri le Migliori Basi Trucco"
 intro_title: "Fondotinta Perfetto per Ogni Tipo di Pelle 💄"

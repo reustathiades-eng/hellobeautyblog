@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/es/cuidado-piel/toner/"
+url: "/es/cuidado-piel/tonico/"
 
 seo_title: "Tónicos Faciales: Hidrata y Equilibra tu Piel | Skincare"
 intro_title: "🌸 Tónicos Faciales para una Piel Radiante"

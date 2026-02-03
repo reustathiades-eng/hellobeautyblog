@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/pt/maquiagem/lipstick/"
+url: "/pt/maquiagem/batom/"
 
 seo_title: "Batom: Encontre o Tom Perfeito | Maquiagem Premium"
 intro_title: "💄 Batons - Cores Incríveis para Todos os Momentos"

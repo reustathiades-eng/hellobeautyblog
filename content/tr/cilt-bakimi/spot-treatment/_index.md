@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/tr/cilt-bakimi/spot-treatment/"
+url: "/tr/cilt-bakimi/nokta-bakimi/"
 
 seo_title: "Leke Giderici Ürünler | En İyi Leke Karşıtı Bakım"
 intro_title: "Leke Giderici Ürünler ✨"

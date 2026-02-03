@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/ja/skincare/dark-spots/"
+url: "/ja/skincare/shimi/"
 
 seo_title: "シミ・色素沈着対策スキンケア商品一覧｜美白効果のある化粧品を厳選"
 intro_title: "✨ シミ・色素沈着対策スキンケア"

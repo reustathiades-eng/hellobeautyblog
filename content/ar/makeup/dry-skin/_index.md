@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/ar/makeup/dry-skin/"
+url: "/ar/makeup/bashra-jaffa/"
 
 seo_title: "مكياج للبشرة الجافة - منتجات وأساسيات العناية بالبشرة الجافة"
 intro_title: "💧 مكياج مثالي للبشرة الجافة - دليلك الشامل"

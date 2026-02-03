@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/zh/makeup/lip-gloss/"
+url: "/zh/makeup/changcai/"
 
 seo_title: "唇彩推荐 | 高品质润唇彩产品大全 - 打造水润双唇"
 intro_title: "💋 唇彩 - 展现你的迷人双唇魅力"

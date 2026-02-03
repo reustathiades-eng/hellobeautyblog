@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/pl/wlosy/hair-growth/"
+url: "/pl/wlosy/wzrost-wlosow/"
 
 seo_title: "Porost Włosów - Skuteczne Produkty i Metody na Gęstsze Włosy"
 intro_title: "Porost Włosów 🌱 Jak Skutecznie Pobudzić Wzrost Włosów"

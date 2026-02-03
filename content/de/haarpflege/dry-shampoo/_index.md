@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/de/haarpflege/dry-shampoo/"
+url: "/de/haarpflege/trockenshampoo/"
 
 seo_title: "Trockenshampoo kaufen - Frische Haare ohne Waschen"
 intro_title: "Trockenshampoo 🌟 - Sofortige Frische für Ihr Haar"

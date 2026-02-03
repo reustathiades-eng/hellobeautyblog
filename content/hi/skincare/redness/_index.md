@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/hi/skincare/redness/"
+url: "/hi/skincare/lali/"
 
 seo_title: "चेहरे की लालिमा के लिए स्किनकेयर प्रोडक्ट्स | रेडनेस कम करें"
 intro_title: "चेहरे की लालिमा और रेडनेस का इलाज 🌹"

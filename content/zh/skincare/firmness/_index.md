@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/zh/skincare/firmness/"
+url: "/zh/skincare/jinzhi/"
 
 seo_title: "紧致护肤产品推荐 - 专业抗老化紧肤方案 | 护肤品商城"
 intro_title: "🌟 紧致护肤：重现年轻肌肤弹性"

@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/fr/cheveux/hydration/"
+url: "/fr/cheveux/hydratation/"
 
 seo_title: "Hydratation Cheveux : Soins & Produits pour Cheveux Secs"
 intro_title: "Hydratation Cheveux 💧 : Retrouvez des Cheveux Doux et Brillants"

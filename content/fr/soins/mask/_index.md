@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/fr/soins/mask/"
+url: "/fr/soins/masque/"
 
 seo_title: "Masques Visage : Hydratants, Purifiants & Anti-Âge"
 intro_title: "🎭 Masques Visage : Guide Complet des Soins Intensifs"

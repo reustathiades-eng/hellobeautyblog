@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/ja/haircare/hair-oil/"
+url: "/ja/haircare/heaaoiru/"
 
 seo_title: "ヘアオイル通販 - 美髪ケア・ツヤ髪に導くおすすめアイテム"
 intro_title: "✨ ヘアオイルで理想の美髪を手に入れよう"

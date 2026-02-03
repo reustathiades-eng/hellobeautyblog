@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/it/skincare/dark-circles/"
+url: "/it/skincare/occhiaie/"
 
 seo_title: "Occhiaie: Prodotti e Trattamenti Efficaci | Skincare Italia"
 intro_title: "Occhiaie: Cause, Rimedi e Prodotti Migliori 👁️"

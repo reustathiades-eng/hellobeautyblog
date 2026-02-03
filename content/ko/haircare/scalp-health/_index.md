@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/ko/haircare/scalp-health/"
+url: "/ko/haircare/dupi-geon-gang/"
 
 seo_title: "두피 건강 관리법 | 전문가 추천 두피케어 제품 & 솔루션"
 intro_title: "🌿 건강한 두피를 위한 완벽 케어 가이드"

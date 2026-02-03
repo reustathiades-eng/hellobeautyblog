@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/it/trucco/satin/"
+url: "/it/trucco/satinato/"
 
 seo_title: "Makeup Satin: Trucco Effetto Setoso | Guida Completa"
 intro_title: "Makeup Satin: L'Arte del Finish Perfetto ✨"

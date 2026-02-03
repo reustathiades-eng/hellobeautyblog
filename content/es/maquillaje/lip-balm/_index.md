@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/es/maquillaje/lip-balm/"
+url: "/es/maquillaje/balsamo-labial/"
 
 seo_title: "Bálsamos Labiales - Hidrata y Protege tus Labios"
 intro_title: "💋 Bálsamos Labiales: Cuidado y Belleza para tus Labios"

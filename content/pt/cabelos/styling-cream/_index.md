@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/pt/cabelos/styling-cream/"
+url: "/pt/cabelos/creme-modelador/"
 
 seo_title: "Creme de Pentear: Hidratação e Estilo para Cabelos"
 intro_title: "💫 Creme de Pentear: Transforme Seus Cabelos com Hidratação e Estilo"

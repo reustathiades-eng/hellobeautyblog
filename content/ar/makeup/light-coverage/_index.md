@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/ar/makeup/light-coverage/"
+url: "/ar/makeup/taghṭiya-khafeefa/"
 
 seo_title: "مكياج التغطية الخفيفة - منتجات طبيعية ومشرقة للبشرة"
 intro_title: "مكياج التغطية الخفيفة ✨ إطلالة طبيعية مشرقة"

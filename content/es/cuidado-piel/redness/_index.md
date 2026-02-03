@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/es/cuidado-piel/redness/"
+url: "/es/cuidado-piel/rojeces/"
 
 seo_title: "Productos para Rojeces Faciales | Cuidado de Piel Sensible"
 intro_title: "Rojeces Faciales 🌹 Productos y Tratamientos Especializados"

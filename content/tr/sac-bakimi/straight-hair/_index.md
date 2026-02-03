@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/tr/sac-bakimi/straight-hair/"
+url: "/tr/sac-bakimi/duz-sac/"
 
 seo_title: "Düz Saç Bakımı | En İyi Ürünler ve Rutinler"
 intro_title: "Düz Saç Bakımı Rehberi ✨"

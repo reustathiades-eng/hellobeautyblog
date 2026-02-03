@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/tr/cilt-bakimi/sunscreen/"
+url: "/tr/cilt-bakimi/gunes-kremi/"
 
 seo_title: "Güneş Kremi & SPF Ürünleri | En İyi Güneş Koruyucu"
 intro_title: "Güneş Kremi & Koruyucu Ürünler ☀️"

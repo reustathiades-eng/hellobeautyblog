@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/it/trucco/matte/"
+url: "/it/trucco/opaco/"
 
 seo_title: "Makeup Matte: Fondotinta e Prodotti Effetto Opaco | Guida"
 intro_title: "✨ Makeup Matte: La Perfezione dell'Effetto Opaco"

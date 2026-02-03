@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/zh/skincare/anti-aging/"
+url: "/zh/skincare/kang-shuailao/"
 
 seo_title: "抗衰老护肤品推荐 - 专业抗老化护肤产品选购指南 | 美肌护理"
 intro_title: "🌟 抗衰老护肤专区 - 重现年轻光彩"

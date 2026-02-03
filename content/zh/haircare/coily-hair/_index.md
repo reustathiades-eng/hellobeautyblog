@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/zh/haircare/coily-hair/"
+url: "/zh/haircare/quan-fa/"
 
 seo_title: "卷曲发质护理指南 | 专业护发产品推荐与护理技巧"
 intro_title: "卷曲发质护理完全指南 🌀"

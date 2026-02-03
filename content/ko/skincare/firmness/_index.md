@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/ko/skincare/firmness/"
+url: "/ko/skincare/tanlyeok/"
 
 seo_title: "탄력 개선 스킨케어 제품 | 피부 탄력 관리 화장품 추천"
 intro_title: "🌟 피부 탄력 개선 스킨케어"

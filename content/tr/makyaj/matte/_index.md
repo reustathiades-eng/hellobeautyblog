@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/tr/makyaj/matte/"
+url: "/tr/makyaj/mat/"
 
 seo_title: "Mat Makyaj Ürünleri | Kadifemsi Finish İçin En İyi Seçenekler"
 intro_title: "✨ Mat Finish Makyaj Ürünleri - Kadifemsi Güzellik"

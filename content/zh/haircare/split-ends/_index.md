@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/zh/haircare/split-ends/"
+url: "/zh/haircare/kai-cha/"
 
 seo_title: "分叉护理产品推荐｜修复开叉发尾专业护发方案-美妆护肤网"
 intro_title: "分叉护理 ✂️ 专业修复开叉发尾"

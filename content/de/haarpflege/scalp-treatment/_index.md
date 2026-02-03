@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/de/haarpflege/scalp-treatment/"
+url: "/de/haarpflege/kopfhautbehandlung/"
 
 seo_title: "Kopfhautbehandlung kaufen - Pflege für gesunde Kopfhaut"
 intro_title: "🌿 Kopfhautbehandlung - Intensive Pflege für Ihre Kopfhaut"

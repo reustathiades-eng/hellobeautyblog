@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/de/haarpflege/scalp-health/"
+url: "/de/haarpflege/kopfhautgesundheit/"
 
 seo_title: "Kopfhaut Gesundheit - Pflege für gesunde Kopfhaut | Guide"
 intro_title: "🌿 Kopfhaut Gesundheit: Der Schlüssel zu schönem Haar"

@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/es/cabello/hair-spray/"
+url: "/es/cabello/laca/"
 
 seo_title: "Laca para Cabello | Fijación Duradera y Profesional"
 intro_title: "Laca para Cabello ✨ Fijación Perfecta Todo el Día"

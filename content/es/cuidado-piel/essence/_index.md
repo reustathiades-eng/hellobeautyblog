@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/es/cuidado-piel/essence/"
+url: "/es/cuidado-piel/esencia/"
 
 seo_title: "Esencias Faciales: Hidratación y Nutrición para tu Piel"
 intro_title: "✨ Esencias Faciales: El Secreto de la Rutina Coreana"

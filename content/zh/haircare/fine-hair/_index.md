@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/zh/haircare/fine-hair/"
+url: "/zh/haircare/xi-ruan-fa/"
 
 seo_title: "细软发质护理指南 - 专业细软头发护理产品推荐与使用技巧"
 intro_title: "细软发质护理完全指南 💫"

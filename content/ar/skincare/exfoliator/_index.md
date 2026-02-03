@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/ar/skincare/exfoliator/"
+url: "/ar/skincare/muqashshir/"
 
 seo_title: "مقشر البشرة - أفضل منتجات التقشير للوجه والجسم"
 intro_title: "مقشر البشرة ✨ لإشراقة طبيعية ونعومة فائقة"

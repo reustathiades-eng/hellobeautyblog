@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/ko/makeup/blush/"
+url: "/ko/makeup/beul-leo-syeo/"
 
 seo_title: "블러셔 추천 | 인기 치크 컬러 모음 | 자연스러운 혈색 연출"
 intro_title: "블러셔 💖 자연스러운 혈색으로 생기 넘치는 피부 연출"

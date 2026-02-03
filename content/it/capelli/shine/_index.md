@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/it/capelli/shine/"
+url: "/it/capelli/lucentezza/"
 
 seo_title: "Prodotti per Capelli Lucidi | Haircare Shine - Lucentezza"
 intro_title: "Capelli Lucidi e Brillanti ✨"

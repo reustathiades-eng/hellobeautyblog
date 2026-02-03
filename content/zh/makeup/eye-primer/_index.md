@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/zh/makeup/eye-primer/"
+url: "/zh/makeup/yan-bu-diben/"
 
 seo_title: "眼部打底膏推荐 | 持久眼妆必备 | 专业眼影底妆产品选购指南"
 intro_title: "💎 眼部打底膏 - 持久完美眼妆的秘密武器"

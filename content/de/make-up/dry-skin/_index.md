@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/de/make-up/dry-skin/"
+url: "/de/make-up/trockene-haut/"
 
 seo_title: "Make-up für trockene Haut - Perfekte Foundation & Pflege"
 intro_title: "Make-up für trockene Haut 💧 Perfekte Schönheit mit der richtigen Pflege"

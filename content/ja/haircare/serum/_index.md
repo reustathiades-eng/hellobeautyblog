@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "haircare-serum"
-url: "/ja/haircare/serum/"
+url: "/ja/haircare/seramu/"
 
 seo_title: "ヘアセラム通販｜髪質改善・ダメージケア専用美容液【公式】"
 intro_title: "✨ヘアセラム - 髪に輝きと潤いを与える集中美容液"

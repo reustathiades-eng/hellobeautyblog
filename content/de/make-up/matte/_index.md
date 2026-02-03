@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/de/make-up/matte/"
+url: "/de/make-up/matt/"
 
 seo_title: "Matte Make-up Online kaufen | Samtiges Finish ohne Glanz"
 intro_title: "Matte Make-up Produkte ✨"

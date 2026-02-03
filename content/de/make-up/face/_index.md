@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/de/make-up/face/"
+url: "/de/make-up/gesicht/"
 
 seo_title: "Gesichts-Makeup kaufen | Foundation, Concealer & mehr"
 intro_title: "Gesichts-Makeup 💄 - Perfekte Base für jeden Look"

@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/hi/haircare/color-protection/"
+url: "/hi/haircare/rang-suraksha/"
 
 seo_title: "रंगे बालों की सुरक्षा - कलर प्रोटेक्शन हेयरकेयर प्रोडक्ट्स"
 intro_title: "रंगे बालों की सुरक्षा 🌈 - आपके कलर को बनाए रखें चमकदार"

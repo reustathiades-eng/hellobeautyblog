@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/de/make-up/shimmer/"
+url: "/de/make-up/schimmer/"
 
 seo_title: "Shimmer Makeup ✨ Glitzerndes Finish für strahlende Looks"
 intro_title: "Shimmer Makeup ✨ Verleihe deinem Look strahlende Eleganz"

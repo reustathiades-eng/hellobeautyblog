@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/fr/cheveux/fine-hair/"
+url: "/fr/cheveux/cheveux-fins/"
 
 seo_title: "Soins Cheveux Fins : Produits & Conseils Experts 2024"
 intro_title: "Cheveux Fins : Guide Complet pour des Soins Adaptés ✨"

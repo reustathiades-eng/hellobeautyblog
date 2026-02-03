@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/tr/sac-bakimi/scalp-treatment/"
+url: "/tr/sac-bakimi/sac-derisi-bakimi/"
 
 seo_title: "Saç Derisi Bakım Ürünleri | Profesyonel Scalp Treatment"
 intro_title: "🌿 Saç Derisi Bakım Ürünleri"

@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/pl/wlosy/volume/"
+url: "/pl/wlosy/objetos/"
 
 seo_title: "Objętość Włosów - Kosmetyki i Porady | Sklep Beauty"
 intro_title: "Objętość Włosów - Jak Nadać Włosom Pełności 💫"

@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/it/skincare/dry/"
+url: "/it/skincare/secca/"
 
 seo_title: "Skincare Pelle Secca: Prodotti e Routine per Idratare"
 intro_title: "💧 Skincare per Pelle Secca: La Guida Completa"

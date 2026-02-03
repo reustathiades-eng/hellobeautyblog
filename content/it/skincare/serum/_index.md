@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "skincare-serum"
-url: "/it/skincare/serum/"
+url: "/it/skincare/siero/"
 
 seo_title: "Sieri Viso: I Migliori Trattamenti per la Tua Pelle"
 intro_title: "✨ Sieri Viso: La Chiave per una Pelle Perfetta"

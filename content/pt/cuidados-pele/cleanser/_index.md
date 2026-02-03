@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/pt/cuidados-pele/cleanser/"
+url: "/pt/cuidados-pele/limpador/"
 
 seo_title: "Demaquilantes e Limpadores Faciais | Skincare Brasil"
 intro_title: "🧴 Demaquilantes e Limpadores Faciais"

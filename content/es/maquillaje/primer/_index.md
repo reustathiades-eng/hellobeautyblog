@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/es/maquillaje/primer/"
+url: "/es/maquillaje/prebase/"
 
 seo_title: "Primer Maquillaje - Base Perfecta para tu Makeup | Tienda"
 intro_title: "Primer para Maquillaje ✨ Base Perfecta para tu Look"

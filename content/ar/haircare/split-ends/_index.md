@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/ar/haircare/split-ends/"
+url: "/ar/haircare/aṭraf-mutashaqqa/"
 
 seo_title: "علاج تقصف الشعر: منتجات ونصائح فعالة للعناية بالأطراف"
 intro_title: "✂️ علاج تقصف الشعر والأطراف المتضررة"

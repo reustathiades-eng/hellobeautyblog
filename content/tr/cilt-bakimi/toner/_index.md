@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/tr/cilt-bakimi/toner/"
+url: "/tr/cilt-bakimi/tonik/"
 
 seo_title: "Tonik - Yüz Tonikleri | En İyi Cilt Bakım Tonikleri"
 intro_title: "🌿 Tonik - Cildinizi Canlandıran Mucizevi Formüller"

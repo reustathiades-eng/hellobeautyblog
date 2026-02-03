@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/ja/makeup/lips/"
+url: "/ja/makeup/kuchibiru/"
 
 seo_title: "リップメイク・口紅コスメ特集｜人気ブランド比較＆おすすめ商品"
 intro_title: "💋 リップメイク・口紅コレクション"

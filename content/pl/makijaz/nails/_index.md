@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/pl/makijaz/nails/"
+url: "/pl/makijaz/paznokcie/"
 
 seo_title: "Makijaż Paznokci - Lakiery, Hybrydy i Akcesoria | Shop"
 intro_title: "💅 Makijaż Paznokci - Piękne i Zadbane Dłonie"

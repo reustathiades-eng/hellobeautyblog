@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/de/make-up/oily-skin/"
+url: "/de/make-up/fettige-haut/"
 
 seo_title: "Make-up für fettige Haut - Tipps & beste Produkte 2024"
 intro_title: "💄 Make-up für fettige Haut - Der ultimative Guide"

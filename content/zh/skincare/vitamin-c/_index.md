@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/zh/skincare/vitamin-c/"
+url: "/zh/skincare/weisheng-su-c/"
 
 seo_title: "维生素C护肤品推荐指南 - 美白淡斑精华液面膜排行榜 | 护肤成分百科"
 intro_title: "✨ 维生素C护肤品：开启美白抗老的护肤新篇章"

@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/fr/cheveux/hair-oil/"
+url: "/fr/cheveux/huile-cheveux/"
 
 seo_title: "Huile Cheveux - Soins Nourrissants & Réparateurs"
 intro_title: "🌿 Huiles pour Cheveux - Nutrition et Brillance Naturelle"

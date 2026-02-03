@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/nl/huidverzorging/dark-circles/"
+url: "/nl/huidverzorging/donkere-kringen/"
 
 seo_title: "Donkere Kringen Onder Ogen Wegwerken | Effectieve Oogverzorging"
 intro_title: "👁️ Donkere Kringen Onder Je Ogen Wegwerken"

@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/ko/makeup/eyes/"
+url: "/ko/makeup/nun/"
 
 seo_title: "아이 메이크업 완벽 가이드 | 아이섀도우 아이라이너 마스카라 추천"
 intro_title: "👁️ 눈 메이크업의 모든 것"

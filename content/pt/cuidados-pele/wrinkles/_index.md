@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/pt/cuidados-pele/wrinkles/"
+url: "/pt/cuidados-pele/rugas/"
 
 seo_title: "Produtos Anti-Rugas | Tratamento para Linhas de Expressão"
 intro_title: "Produtos Anti-Rugas para uma Pele Jovem e Radiante ✨"

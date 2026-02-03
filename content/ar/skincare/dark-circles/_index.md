@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/ar/skincare/dark-circles/"
+url: "/ar/skincare/halaqat-sawda/"
 
 seo_title: "علاج الهالات السوداء - منتجات العناية بالبشرة الفعالة"
 intro_title: "الهالات السوداء 👁️ حلول فعالة للعناية بمحيط العينين"

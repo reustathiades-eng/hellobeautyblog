@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/pt/maquiagem/highlighter/"
+url: "/pt/maquiagem/iluminador/"
 
 seo_title: "Iluminador: Produtos para um Brilho Natural e Radiante"
 intro_title: "✨ Iluminador: O Segredo para uma Pele Radiante"

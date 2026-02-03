@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/zh/skincare/redness/"
+url: "/zh/skincare/fahong/"
 
 seo_title: "脸部泛红护理产品推荐 - 敏感肌舒缓修护专区 | 护肤品商城"
 intro_title: "🌹 脸部泛红护理专区 - 温和舒缓，重现健康肌肤"

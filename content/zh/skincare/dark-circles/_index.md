@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/zh/skincare/dark-circles/"
+url: "/zh/skincare/heiyan-quan/"
 
 seo_title: "黑眼圈护理产品推荐 | 淡化眼部暗沉 改善熊猫眼 专业眼部护理"
 intro_title: "👁️ 黑眼圈护理专区 - 告别熊猫眼，重现明亮双眸"

@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/zh/skincare/spot-treatment/"
+url: "/zh/skincare/dian-hu/"
 
 seo_title: "祛痘精华液_痘痘肌护理_专业祛痘产品推荐 - 美妆护肤专区"
 intro_title: "🎯 专业祛痘精华 - 精准击退痘痘烦恼"

@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/ar/haircare/wavy-hair/"
+url: "/ar/haircare/shaar-mumaawaj/"
 
 seo_title: "منتجات العناية بالشعر المموج - أفضل روتين للشعر المموج"
 intro_title: "العناية بالشعر المموج 🌊 دليلك الشامل"

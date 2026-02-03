@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/hi/haircare/hair-growth/"
+url: "/hi/haircare/baal-ka-vikas/"
 
 seo_title: "बालों की ग्रोथ बढ़ाने के तरीके और प्रोडक्ट्स | हेयर ग्रोथ टिप्स"
 intro_title: "बालों की ग्रोथ बढ़ाने के प्रभावी तरीके 🌿"

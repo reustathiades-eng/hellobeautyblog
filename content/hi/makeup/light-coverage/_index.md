@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/hi/makeup/light-coverage/"
+url: "/hi/makeup/halka-coverage/"
 
 seo_title: "Light Coverage Makeup Products - हल्का कवरेज मेकअप | Best Collection"
 intro_title: "Light Coverage Makeup ✨ - नेचुरल लुक के लिए बेस्ट प्रोडक्ट्स"

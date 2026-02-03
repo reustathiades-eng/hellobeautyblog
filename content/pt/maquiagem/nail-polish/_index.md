@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/pt/maquiagem/nail-polish/"
+url: "/pt/maquiagem/esmalte/"
 
 seo_title: "Esmaltes de Unha - Cores e Marcas Premium | Makeup Brasil"
 intro_title: "💅 Esmaltes de Unha Premium"

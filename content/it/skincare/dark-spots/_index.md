@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/it/skincare/dark-spots/"
+url: "/it/skincare/macchie-scure/"
 
 seo_title: "Macchie Scure Viso: Prodotti e Trattamenti Efficaci"
 intro_title: "✨ Macchie Scure: Soluzioni Efficaci per una Pelle Uniforme"

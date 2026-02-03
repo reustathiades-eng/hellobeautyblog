@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/tr/cilt-bakimi/anti-aging/"
+url: "/tr/cilt-bakimi/yaslanma-karsiti/"
 
 seo_title: "Anti-Aging Cilt Bakım Ürünleri | Yaşlanma Karşıtı Bakım"
 intro_title: "✨ Anti-Aging Cilt Bakım Ürünleri"

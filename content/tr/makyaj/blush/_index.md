@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/tr/makyaj/blush/"
+url: "/tr/makyaj/allik/"
 
 seo_title: "Allık Ürünleri - En İyi Allık Markaları | Online Alışveriş"
 intro_title: "💖 Allık Ürünleri ile Doğal Parlaklık"

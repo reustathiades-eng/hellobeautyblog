@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/fr/maquillage/eyeliner/"
+url: "/fr/maquillage/eye-liner/"
 
 seo_title: "Eyeliner Maquillage - Collection Complète | Beauté Premium"
 intro_title: "✨ Eyeliner : Sublimez Votre Regard avec Précision"

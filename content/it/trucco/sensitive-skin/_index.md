@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/it/trucco/sensitive-skin/"
+url: "/it/trucco/pelle-sensibile/"
 
 seo_title: "Makeup per Pelle Sensibile | Cosmetici Delicati e Sicuri"
 intro_title: "Makeup per Pelle Sensibile 🌸 Bellezza Senza Compromessi"

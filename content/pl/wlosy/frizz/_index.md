@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/pl/wlosy/frizz/"
+url: "/pl/wlosy/puszyste-wlosy/"
 
 seo_title: "Pielęgnacja Włosów Puszących się - Kosmetyki Przeciw Puszeniu"
 intro_title: "Kosmetyki na włosy puszące się ✨"

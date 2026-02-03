@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/ja/haircare/thick-hair/"
+url: "/ja/haircare/futoge/"
 
 seo_title: "太い髪・剛毛のためのヘアケア方法とおすすめアイテム｜美髪ガイド"
 intro_title: "太い髪・剛毛のヘアケア完全ガイド 💪✨"

@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/hi/skincare/wrinkles/"
+url: "/hi/skincare/jhurriyan/"
 
 seo_title: "झुर्रियों के लिए बेहतरीन स्किनकेयर प्रोडक्ट्स - एंटी एजिंग समाधान"
 intro_title: "झुर्रियों के लिए स्किनकेयर 🌟"

@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/hi/skincare/combination/"
+url: "/hi/skincare/mishrit/"
 
 seo_title: "कॉम्बिनेशन स्किन के लिए स्किनकेयर प्रोडक्ट्स | बेस्ट केयर रूटीन"
 intro_title: "कॉम्बिनेशन स्किन केयर 🌟 संपूर्ण गाइड"

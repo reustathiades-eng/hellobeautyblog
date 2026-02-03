@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/ar/makeup/oily-skin/"
+url: "/ar/makeup/bashra-dahniya/"
 
 seo_title: "مكياج البشرة الدهنية - منتجات وطرق المكياج المناسبة"
 intro_title: "مكياج البشرة الدهنية ✨ دليلك الشامل للحصول على إطلالة مثالية"

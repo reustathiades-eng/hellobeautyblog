@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/pl/pielegnacja/pores/"
+url: "/pl/pielegnacja/pory/"
 
 seo_title: "Pielęgnacja Porów - Kosmetyki na Rozszerzone Pory | Sklep"
 intro_title: "Pielęgnacja Porów 🔍 Kosmetyki na Rozszerzone i Widoczne Pory"

@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/ja/haircare/color-treated/"
+url: "/ja/haircare/karaaheaa/"
 
 seo_title: "カラーヘア用ヘアケア商品｜色持ちと艶を保つ専用アイテム"
 intro_title: "🎨 カラートリートメントヘア専用ケア"

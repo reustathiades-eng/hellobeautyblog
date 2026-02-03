@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/pl/pielegnacja/acne/"
+url: "/pl/pielegnacja/tradzik/"
 
 seo_title: "Kosmetyki na Trądzik - Skuteczne Produkty Przeciwtrądzikowe"
 intro_title: "Kosmetyki na Trądzik 🌟"

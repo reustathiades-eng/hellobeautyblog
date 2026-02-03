@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/de/hautpflege/oil/"
+url: "/de/hautpflege/oel/"
 
 seo_title: "Hautöle kaufen - Premium Gesichtsöle & Körperöle"
 intro_title: "Hautöle für natürliche Pflege ✨"

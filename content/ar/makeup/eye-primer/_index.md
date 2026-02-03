@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/ar/makeup/eye-primer/"
+url: "/ar/makeup/aasas-al-ayn/"
 
 seo_title: "برايمر العيون - أفضل منتجات تحضير العيون للمكياج المثالي"
 intro_title: "برايمر العيون 💫 لمكياج عيون يدوم طويلاً"

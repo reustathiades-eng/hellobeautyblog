@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/es/maquillaje/contour/"
+url: "/es/maquillaje/contorno/"
 
 seo_title: "Contorno Facial - Productos de Maquillaje | Tienda Online"
 intro_title: "Contorno Facial ✨ - Define y Esculpe tu Rostro"

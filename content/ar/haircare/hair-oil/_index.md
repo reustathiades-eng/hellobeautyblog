@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/ar/haircare/hair-oil/"
+url: "/ar/haircare/zayt-al-shaar/"
 
 seo_title: "زيت الشعر الطبيعي - منتجات العناية بالشعر الأصلية"
 intro_title: "🌟 زيت الشعر - العناية المثالية لشعرك"

@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/ja/makeup/eyeliner/"
+url: "/ja/makeup/airainaa/"
 
 seo_title: "アイライナー通販｜人気ブランド多数取り揃え - プロ仕様から初心者まで"
 intro_title: "✨ アイライナー - 理想のアイメイクを叶える必須アイテム"

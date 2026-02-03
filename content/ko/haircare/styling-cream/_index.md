@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/ko/haircare/styling-cream/"
+url: "/ko/haircare/seu-tai-ling-keurim/"
 
 seo_title: "스타일링 크림 추천 | 헤어 스타일링 제품 모음 - 완벽한 헤어스타일링"
 intro_title: "💫 스타일링 크림으로 완성하는 완벽한 헤어스타일"

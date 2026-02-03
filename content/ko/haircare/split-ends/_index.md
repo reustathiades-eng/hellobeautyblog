@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/ko/haircare/split-ends/"
+url: "/ko/haircare/galra-jin-mo/"
 
 seo_title: "갈라진 모발 관리법 | 끝갈래 예방과 치료를 위한 헤어케어 가이드"
 intro_title: "갈라진 모발 완벽 케어 가이드 ✂️"

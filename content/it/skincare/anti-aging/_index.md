@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/it/skincare/anti-aging/"
+url: "/it/skincare/anti-eta/"
 
 seo_title: "Prodotti Anti-Aging | Creme e Sieri Anti-Età Efficaci"
 intro_title: "✨ Prodotti Anti-Aging per una Pelle Giovane e Radiosa"

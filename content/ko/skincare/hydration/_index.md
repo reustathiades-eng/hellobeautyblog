@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/ko/skincare/hydration/"
+url: "/ko/skincare/soobuun/"
 
 seo_title: "수분 스킨케어 제품 추천 | 건조한 피부를 위한 보습 화장품"
 intro_title: "💧 수분 스킨케어 - 촉촉하고 건강한 피부를 위한 완벽한 솔루션"

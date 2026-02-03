@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/ko/skincare/anti-aging/"
+url: "/ko/skincare/noi-bangjji/"
 
 seo_title: "안티에이징 스킨케어 제품 추천 | 주름 개선 화장품 모음"
 intro_title: "🌟 안티에이징 스킨케어로 젊고 건강한 피부 만들기"

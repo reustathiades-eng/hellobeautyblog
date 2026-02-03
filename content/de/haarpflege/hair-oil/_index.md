@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/de/haarpflege/hair-oil/"
+url: "/de/haarpflege/haaroel/"
 
 seo_title: "Haaröl kaufen - Premium Haarpflege für gesundes Haar"
 intro_title: "Haaröl - Intensive Pflege für strahlend schönes Haar ✨"

@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/es/maquillaje/matte/"
+url: "/es/maquillaje/mate/"
 
 seo_title: "Maquillaje Mate: Bases, Labiales y Sombras de Acabado Mate"
 intro_title: "Maquillaje Mate ✨ Acabado Perfecto y Duradero"

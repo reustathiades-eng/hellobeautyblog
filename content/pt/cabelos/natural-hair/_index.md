@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/pt/cabelos/natural-hair/"
+url: "/pt/cabelos/cabelo-natural/"
 
 seo_title: "Cuidados para Cabelos Naturais - Dicas e Produtos | Guia"
 intro_title: "Cabelos Naturais: O Guia Completo para Cuidar da Sua Beleza Natural 🌿"

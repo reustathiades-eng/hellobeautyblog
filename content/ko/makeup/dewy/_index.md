@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/ko/makeup/dewy/"
+url: "/ko/makeup/mul-gwang/"
 
 seo_title: "데위 메이크업 완벽 가이드 | 촉촉하고 윤기나는 피부 연출법"
 intro_title: "✨ 데위 메이크업으로 건강한 윤기 피부 완성하기"

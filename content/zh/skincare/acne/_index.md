@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/zh/skincare/acne/"
+url: "/zh/skincare/qingchun-dou/"
 
 seo_title: "痘痘护理产品推荐 | 专业祛痘护肤品 | 有效改善痘痘肌肤问题"
 intro_title: "🌟 痘痘护理专区 - 告别痘痘困扰"

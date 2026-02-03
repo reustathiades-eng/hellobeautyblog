@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/ar/haircare/styling-gel/"
+url: "/ar/haircare/jeel-tasfeef/"
 
 seo_title: "جل تصفيف الشعر - منتجات تصفيف عالية الجودة | متجرنا"
 intro_title: "جل تصفيف الشعر 💫 للحصول على إطلالة مثالية"

@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/es/cabello/styling-cream/"
+url: "/es/cabello/crema-peinado/"
 
 seo_title: "Cremas para Peinar: Define y Controla tu Cabello"
 intro_title: "✨ Cremas para Peinar: El Secreto de un Cabello Perfecto"

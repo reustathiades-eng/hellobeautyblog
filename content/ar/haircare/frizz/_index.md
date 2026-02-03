@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/ar/haircare/frizz/"
+url: "/ar/haircare/tanafush/"
 
 seo_title: "علاج الشعر المجعد والهايش - منتجات العناية بالشعر المجعد"
 intro_title: "🌟 العناية بالشعر المجعد والهايش - حلول فعالة ونتائج مضمونة"

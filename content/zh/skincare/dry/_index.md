@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/zh/skincare/dry/"
+url: "/zh/skincare/ganxing/"
 
 seo_title: "干性肌肤护理产品推荐 | 专业补水保湿护肤品 - 告别干燥肌肤"
 intro_title: "💧 干性肌肤护理 - 深度滋养补水解决方案"

@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/pl/makijaz/dry-skin/"
+url: "/pl/makijaz/sucha-skora/"
 
 seo_title: "Makijaż dla Skóry Suchej - Kosmetyki i Wskazówki 2024"
 intro_title: "Makijaż dla Skóry Suchej 💧 - Kompletny Przewodnik"

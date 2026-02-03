@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/fr/cheveux/shine/"
+url: "/fr/cheveux/brillance/"
 
 seo_title: "Brillance Cheveux : Soins & Produits pour Cheveux Lumineux"
 intro_title: "Brillance Cheveux ✨ : Révélez l'Éclat Naturel de Votre Chevelure"

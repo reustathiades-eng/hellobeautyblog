@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/hi/skincare/sensitive/"
+url: "/hi/skincare/sanvedansheel/"
 
 seo_title: "संवेदनशील त्वचा के लिए स्किनकेयर - बेस्ट प्रोडक्ट्स और टिप्स"
 intro_title: "संवेदनशील त्वचा की देखभाल 🌸"

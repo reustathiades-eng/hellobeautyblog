@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/ar/haircare/shine/"
+url: "/ar/haircare/laman/"
 
 seo_title: "منتجات لمع الشعر - أفضل كريمات وزيوت إضافة البريق للشعر"
 intro_title: "✨ منتجات لمع الشعر وإضافة البريق"

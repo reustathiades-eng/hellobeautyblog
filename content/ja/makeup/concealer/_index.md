@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/ja/makeup/concealer/"
+url: "/ja/makeup/konshiiraa/"
 
 seo_title: "コンシーラー通販｜肌悩みカバー・プロ仕上げ｜高品質メイクアップ"
 intro_title: "💫 コンシーラー - 完璧な肌を叶えるカバー力"

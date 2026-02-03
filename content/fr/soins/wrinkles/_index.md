@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/fr/soins/wrinkles/"
+url: "/fr/soins/rides/"
 
 seo_title: "Soins Anti-Rides | Crèmes & Sérums Efficaces"
 intro_title: "✨ Soins Anti-Rides : Solutions Expertes pour une Peau Lisse"

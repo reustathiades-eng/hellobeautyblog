@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/zh/makeup/face/"
+url: "/zh/makeup/lianbu/"
 
 seo_title: "面部彩妆大全｜底妆遮瑕腮红高光修容产品推荐与教程"
 intro_title: "面部彩妆 💄 打造完美底妆与立体轮廓"

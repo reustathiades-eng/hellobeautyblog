@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/zh/haircare/dry-shampoo/"
+url: "/zh/haircare/gan-xi-fa-shui/"
 
 seo_title: "免洗洗髮水推薦 | 乾洗髮噴霧 | 頭髮護理專區"
 intro_title: "💫 免洗洗髮水 - 隨時隨地保持清爽秀髮"

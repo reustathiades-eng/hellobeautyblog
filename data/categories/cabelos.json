@@ -419,27 +419,27 @@
           {
             "name": "Cabelo Fino",
             "emoji": "🪶",
-            "url": "/pt/cabelos/fine-hair/"
+            "url": "/pt/cabelos/cabelo-fino/"
           },
           {
             "name": "Cabelo Grosso",
             "emoji": "💪",
-            "url": "/pt/cabelos/thick-hair/"
+            "url": "/pt/cabelos/cabelo-grosso/"
           },
           {
             "name": "Cabelo Cacheado",
             "emoji": "🌀",
-            "url": "/pt/cabelos/curly-hair/"
+            "url": "/pt/cabelos/cabelo-cacheado/"
           },
           {
             "name": "Cabelo Liso",
             "emoji": "✨",
-            "url": "/pt/cabelos/straight-hair/"
+            "url": "/pt/cabelos/cabelo-liso/"
           },
           {
             "name": "Cabelo Colorido",
             "emoji": "🎨",
-            "url": "/pt/cabelos/color-treated/"
+            "url": "/pt/cabelos/cabelo-colorido/"
           }
         ]
       },
@@ -454,22 +454,22 @@
           {
             "name": "Reparação",
             "emoji": "🔧",
-            "url": "/pt/cabelos/repair/"
+            "url": "/pt/cabelos/reparacao/"
           },
           {
             "name": "Hidratação",
             "emoji": "💧",
-            "url": "/pt/cabelos/hydration/"
+            "url": "/pt/cabelos/hidratacao/"
           },
           {
             "name": "Caspa",
             "emoji": "🚫",
-            "url": "/pt/cabelos/dandruff/"
+            "url": "/pt/cabelos/caspa/"
           },
           {
             "name": "Proteção da Cor",
             "emoji": "🛡️",
-            "url": "/pt/cabelos/color-protection/"
+            "url": "/pt/cabelos/protecao-da-cor/"
           }
         ]
       }

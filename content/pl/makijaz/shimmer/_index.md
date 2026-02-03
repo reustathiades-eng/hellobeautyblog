@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/pl/makijaz/shimmer/"
+url: "/pl/makijaz/migotliwy/"
 
 seo_title: "Kosmetyki Shimmer - Rozświetlające Produkty Makeup | Sklep"
 intro_title: "Kosmetyki Shimmer - Rozświetl Swój Makijaż ✨"

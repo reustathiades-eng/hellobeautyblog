@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/pl/wlosy/thinning/"
+url: "/pl/wlosy/przerzedzajace/"
 
 seo_title: "Przerzedzianie Włosów - Kosmetyki i Pielęgnacja | Expert"
 intro_title: "Przerzedzianie Włosów - Skuteczna Pielęgnacja 💪"

@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/ar/haircare/leave-in/"
+url: "/ar/haircare/yubqa-fi-al-shaar/"
 
 seo_title: "منتجات العناية بالشعر بدون شطف - تسوقي الآن"
 intro_title: "💫 منتجات العناية بالشعر بدون شطف"

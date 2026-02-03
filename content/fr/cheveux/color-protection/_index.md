@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/fr/cheveux/color-protection/"
+url: "/fr/cheveux/protection-couleur/"
 
 seo_title: "Protection Couleur Cheveux : Soins pour Préserver l'Éclat"
 intro_title: "🌈 Protection Couleur : Préservez l'Éclat de vos Cheveux Colorés"

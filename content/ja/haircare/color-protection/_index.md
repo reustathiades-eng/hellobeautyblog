@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/ja/haircare/color-protection/"
+url: "/ja/haircare/karaープurotekushon/"
 
 seo_title: "カラープロテクション｜髪色を美しく保つヘアケア商品一覧"
 intro_title: "💎 カラープロテクション - 美しい髪色を長持ちさせるヘアケア"

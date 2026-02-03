@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/fr/cheveux/scalp-health/"
+url: "/fr/cheveux/sante-cuir-chevelu/"
 
 seo_title: "Santé du Cuir Chevelu : Soins et Conseils Experts"
 intro_title: "🌿 Prendre Soin de la Santé de son Cuir Chevelu"

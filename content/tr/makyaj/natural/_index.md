@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/tr/makyaj/natural/"
+url: "/tr/makyaj/dogal/"
 
 seo_title: "Doğal Görünümlü Makyaj Ürünleri | Natural Finish Kozmetik"
 intro_title: "🌿 Doğal Görünümlü Makyaj Ürünleri"

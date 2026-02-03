@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/fr/cheveux/frizz/"
+url: "/fr/cheveux/frisottis/"
 
 seo_title: "Anti-Frisottis : Solutions Efficaces pour Cheveux Lisses"
 intro_title: "Dites Adieu aux Frisottis ✨ Solutions Professionnelles"

@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/ar/skincare/combination/"
+url: "/ar/skincare/mukhtalaṭ/"
 
 seo_title: "منتجات العناية بالبشرة المختلطة - مجموعة شاملة ومتخصصة"
 intro_title: "🌟 العناية المثالية للبشرة المختلطة"

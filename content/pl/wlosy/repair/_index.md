@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/pl/wlosy/repair/"
+url: "/pl/wlosy/regeneracja/"
 
 seo_title: "Regeneracja Włosów - Odżywki i Maski Naprawcze | Pielęgnacja"
 intro_title: "Regeneracja Włosów ✨ - Przywróć Włosom Zdrowy Blask"

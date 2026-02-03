@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/ar/haircare/color-treated/"
+url: "/ar/haircare/mushaghal-bil-lawn/"
 
 seo_title: "منتجات العناية بالشعر المصبوغ - حماية وإشراق اللون"
 intro_title: "🎨 العناية المثالية بالشعر المصبوغ"

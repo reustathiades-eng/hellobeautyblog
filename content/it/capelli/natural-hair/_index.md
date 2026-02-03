@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/it/capelli/natural-hair/"
+url: "/it/capelli/capelli-naturali/"
 
 seo_title: "Capelli Naturali: Guida Completa per Cura e Styling"
 intro_title: "Capelli Naturali: La Guida Definitiva per la Cura ✨"

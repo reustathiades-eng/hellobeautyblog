@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/fr/maquillage/foundation/"
+url: "/fr/maquillage/fond-de-teint/"
 
 seo_title: "Fond de Teint - Trouvez Votre Base Parfaite | Maquillage"
 intro_title: "💄 Fond de Teint - Votre Base Maquillage Parfaite"

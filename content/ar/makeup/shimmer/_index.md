@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/ar/makeup/shimmer/"
+url: "/ar/makeup/baraq/"
 
 seo_title: "مكياج شيمر لامع - منتجات التألق والإشراق | متجر التجميل"
 intro_title: "✨ مكياج الشيمر - أضيفي التألق واللمعان لإطلالتك"

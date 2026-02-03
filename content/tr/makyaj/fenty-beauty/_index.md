@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"
 translationKey: "makeup-fenty-beauty"
-url: "/tr/makyaj/fenty-beauty/"
+url: "/tr/makyaj/fenty/"
 
 seo_title: "Fenty Beauty Türkiye | Rihanna'nın Makyaj Markası"
 intro_title: "Fenty Beauty 💎 Rihanna'nın Devrimci Makyaj Markası"

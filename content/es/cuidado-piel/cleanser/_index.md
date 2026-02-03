@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/es/cuidado-piel/cleanser/"
+url: "/es/cuidado-piel/limpiador/"
 
 seo_title: "Limpiadores Faciales | Productos de Limpieza para el Rostro"
 intro_title: "🧴 Limpiadores Faciales: La Base de una Rutina de Cuidado Perfecta"

@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/pl/pielegnacja/oily/"
+url: "/pl/pielegnacja/tlusta/"
 
 seo_title: "Kosmetyki do skóry tłustej - Najlepsze produkty 2024"
 intro_title: "Kosmetyki do skóry tłustej ✨"

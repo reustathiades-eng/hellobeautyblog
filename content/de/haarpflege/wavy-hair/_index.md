@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/de/haarpflege/wavy-hair/"
+url: "/de/haarpflege/welliges-haar/"
 
 seo_title: "Welliges Haar pflegen - Tipps & Produkte für schöne Wellen"
 intro_title: "Welliges Haar richtig pflegen 🌊"

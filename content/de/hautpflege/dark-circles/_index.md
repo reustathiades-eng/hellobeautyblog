@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/de/hautpflege/dark-circles/"
+url: "/de/hautpflege/augenringe/"
 
 seo_title: "Augenringe entfernen - Effektive Pflege gegen dunkle Ringe"
 intro_title: "Augenringe loswerden 👁️ Wirksame Augenpflege"

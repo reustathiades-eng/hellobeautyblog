@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/zh/haircare/curly-hair/"
+url: "/zh/haircare/juan-fa/"
 
 seo_title: "卷发护理指南 - 专业卷发护理产品推荐与护理技巧 | 美发护理"
 intro_title: "🌀 卷发护理完全指南 - 让你的卷发更加迷人动感"

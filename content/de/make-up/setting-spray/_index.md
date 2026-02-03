@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/de/make-up/setting-spray/"
+url: "/de/make-up/fixierspray/"
 
 seo_title: "Setting Spray kaufen - Makeup Fixierung für langanhaltende Schönheit"
 intro_title: "Setting Spray - Perfekte Makeup-Fixierung ✨"

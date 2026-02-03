@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/hi/haircare/split-ends/"
+url: "/hi/haircare/baal-ke-phate-sire/"
 
 seo_title: "दोमुंहे बालों की समस्या का समाधान - Split Ends के लिए बेस्ट प्रोडक्ट्स"
 intro_title: "दोमुंहे बाल की समस्या का पूरा समाधान ✨"

@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/pt/maquiagem/face/"
+url: "/pt/maquiagem/rosto/"
 
 seo_title: "Maquiagem para Rosto: Base, Corretivo, Pó e Mais | Guia"
 intro_title: "Maquiagem para o Rosto 💄"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/tr/makyaj/false-lashes/"
+url: "/tr/makyaj/takma-kirpik/"
 
 seo_title: "Takma Kirpik Modelleri - En İyi Fiyatlarla Online Satış"
 intro_title: "💫 Takma Kirpik Koleksiyonu"

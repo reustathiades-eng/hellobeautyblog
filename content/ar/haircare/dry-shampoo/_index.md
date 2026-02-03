@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/ar/haircare/dry-shampoo/"
+url: "/ar/haircare/shampoo-jaff/"
 
 seo_title: "شامبو جاف للشعر - أفضل المنتجات لتنظيف فوري وطبيعي"
 intro_title: "الشامبو الجاف 🌟 حلك المثالي لشعر منتعش ونظيف"

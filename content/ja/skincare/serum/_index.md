@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "skincare-serum"
-url: "/ja/skincare/serum/"
+url: "/ja/skincare/seramu/"
 
 seo_title: "美容液・セラム通販｜高機能スキンケアで理想の肌へ"
 intro_title: "美容液・セラム ✨ 集中ケアで美肌を叶える"

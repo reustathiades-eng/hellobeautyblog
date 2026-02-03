@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/ja/makeup/foundation/"
+url: "/ja/makeup/fandeeshon/"
 
 seo_title: "ファンデーション通販｜肌質別おすすめコスメ - 美肌ベースメイク"
 intro_title: "💄 ファンデーション - 理想の肌を叶えるベースメイク"

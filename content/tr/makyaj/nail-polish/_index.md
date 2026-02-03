@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/tr/makyaj/nail-polish/"
+url: "/tr/makyaj/oje/"
 
 seo_title: "Oje Modelleri ve Fiyatları | En İyi Oje Markaları"
 intro_title: "💅 Oje - Tırnaklarınızı Güzelleştirin"

@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/it/trucco/light-coverage/"
+url: "/it/trucco/coprenza-leggera/"
 
 seo_title: "Trucco Coprenza Leggera: Foundation e Prodotti Naturali"
 intro_title: "✨ Trucco a Coprenza Leggera: La Bellezza Naturale"

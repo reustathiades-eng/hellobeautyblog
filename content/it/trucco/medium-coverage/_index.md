@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/it/trucco/medium-coverage/"
+url: "/it/trucco/coprenza-media/"
 
 seo_title: "Makeup Copertura Media: Guida Completa ai Prodotti Beauty"
 intro_title: "Makeup a Copertura Media: L'Equilibrio Perfetto 💄"

@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/es/cuidado-piel/moisturizer/"
+url: "/es/cuidado-piel/hidratante/"
 
 seo_title: "Cremas Hidratantes Faciales | Mejores Hidratantes 2024"
 intro_title: "Cremas Hidratantes: Tu Guía Completa 💧"

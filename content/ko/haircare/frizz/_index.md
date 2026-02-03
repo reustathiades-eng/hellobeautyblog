@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/ko/haircare/frizz/"
+url: "/ko/haircare/gob-seum/"
 
 seo_title: "모발 곱슬거림 관리법 | 부스스한 머리 케어 제품 추천"
 intro_title: "곱슬거림 케어 💫 부스스한 모발 관리의 모든 것"

@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/it/capelli/split-ends/"
+url: "/it/capelli/doppie-punte/"
 
 seo_title: "Doppie Punte: Trattamenti e Rimedi per Capelli Danneggiati"
 intro_title: "✂️ Doppie Punte: Come Prevenirle e Trattarle"

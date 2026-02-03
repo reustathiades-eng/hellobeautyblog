@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/es/cabello/shine/"
+url: "/es/cabello/brillo/"
 
 seo_title: "Productos para el Brillo del Cabello | Guía Completa 2024"
 intro_title: "Brillo Capilar ✨ - Transforma tu Cabello Opaco"

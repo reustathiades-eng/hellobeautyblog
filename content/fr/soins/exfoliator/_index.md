@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/fr/soins/exfoliator/"
+url: "/fr/soins/exfoliant/"
 
 seo_title: "Exfoliants Visage & Corps - Guide Complet Soins Beauté"
 intro_title: "Exfoliants ✨ Révélez l'éclat naturel de votre peau"

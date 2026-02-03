@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/es/maquillaje/blush/"
+url: "/es/maquillaje/colorete/"
 
 seo_title: "Colorete y Rubor Online - Mejores Marcas | Maquillaje"
 intro_title: "Colorete y Rubor 🌸 Dale Color Natural a tus Mejillas"

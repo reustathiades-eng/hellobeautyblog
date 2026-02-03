@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/de/hautpflege/mature/"
+url: "/de/hautpflege/reife-haut/"
 
 seo_title: "Reife Haut Pflege | Anti-Aging Skincare für 40+ | BEAUTYCARE"
 intro_title: "Reife Haut Pflege 🌸 Anti-Aging Skincare ab 40+"

@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/pl/wlosy/scalp-treatment/"
+url: "/pl/wlosy/pielegnacja-skory-glowy/"
 
 seo_title: "Kuracje do Skóry Głowy - Profesjonalne Preparaty | Sklep"
 intro_title: "💆‍♀️ Kuracje do Skóry Głowy - Zdrowa Skóra, Piękne Włosy"

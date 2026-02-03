@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/es/cuidado-piel/mist/"
+url: "/es/cuidado-piel/bruma/"
 
 seo_title: "Brumas Faciales - Hidratación y Frescura para tu Piel"
 intro_title: "Brumas Faciales 💧 La Hidratación Perfecta en Spray"

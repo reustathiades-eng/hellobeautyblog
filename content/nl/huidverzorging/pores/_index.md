@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/nl/huidverzorging/pores/"
+url: "/nl/huidverzorging/porieen/"
 
 seo_title: "Poriën Verfijnen | Huidverzorging voor Grote Poriën"
 intro_title: "🔍 Poriën Verfijnen: Jouw Gids naar Gladdere Huid"

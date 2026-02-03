@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/ar/haircare/thick-hair/"
+url: "/ar/haircare/shaar-katheef/"
 
 seo_title: "منتجات العناية بالشعر الكثيف - دليل شامل للعناية المثلى"
 intro_title: "العناية بالشعر الكثيف 💁‍♀️ دليلك الشامل للجمال والصحة"

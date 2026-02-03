@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/it/skincare/moisturizer/"
+url: "/it/skincare/crema-idratante/"
 
 seo_title: "Creme Idratanti Viso e Corpo | Prodotti per Idratazione"
 intro_title: "Creme Idratanti: La Base per una Pelle Sana e Radiosa 💧"

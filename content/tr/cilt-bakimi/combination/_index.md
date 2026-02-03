@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/tr/cilt-bakimi/combination/"
+url: "/tr/cilt-bakimi/karma/"
 
 seo_title: "Karma Cilt Bakımı Ürünleri | En İyi Karma Cilt Kremleri"
 intro_title: "🌟 Karma Cilt Bakım Ürünleri"

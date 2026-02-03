@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/pt/cuidados-pele/mist/"
+url: "/pt/cuidados-pele/spray/"
 
 seo_title: "Mist Facial: Hidratação e Frescor para sua Pele | Guia"
 intro_title: "Mist Facial 💧 Hidratação Instantânea para sua Rotina"

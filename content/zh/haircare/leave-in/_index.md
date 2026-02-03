@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/zh/haircare/leave-in/"
+url: "/zh/haircare/mianxi/"
 
 seo_title: "免洗护发产品 - 专业护发护理 | 滋养修复秀发健康光泽"
 intro_title: "💧 免洗护发产品 - 便捷护发新选择"

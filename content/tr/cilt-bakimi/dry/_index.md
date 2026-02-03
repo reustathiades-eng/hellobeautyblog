@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/tr/cilt-bakimi/dry/"
+url: "/tr/cilt-bakimi/kuru/"
 
 seo_title: "Kuru Cilt Bakımı Ürünleri | Nemlendirici Kremler ve Serumlar"
 intro_title: "Kuru Cilt Bakımı 💧"

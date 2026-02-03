@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/ko/haircare/color-protection/"
+url: "/ko/haircare/keulaeo-boho/"
 
 seo_title: "염색모발 관리법 | 컬러 보호 헤어케어 제품 추천 가이드"
 intro_title: "💎 염색모발 컬러 보호 헤어케어"

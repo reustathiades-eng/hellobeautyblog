@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/tr/makyaj/eyes/"
+url: "/tr/makyaj/gozler/"
 
 seo_title: "Göz Makyajı Ürünleri | Far, Maskara, Eyeliner ve Daha Fazlası"
 intro_title: "👁️ Göz Makyajı: Bakışlarınızı Büyüleyin"

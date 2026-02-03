@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/tr/makyaj/lip-gloss/"
+url: "/tr/makyaj/dudak-parlatici/"
 
 seo_title: "Dudak Parlatıcısı Modelleri ve Fiyatları | Lip Gloss"
 intro_title: "✨ Dudak Parlatıcısı - Işıltılı Dudaklar İçin"

@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/de/hautpflege/dry/"
+url: "/de/hautpflege/trocken/"
 
 seo_title: "Trockene Haut Pflege - Feuchtigkeitspflege & Tipps"
 intro_title: "💧 Trockene Haut richtig pflegen"

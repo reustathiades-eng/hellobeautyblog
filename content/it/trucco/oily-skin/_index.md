@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/it/trucco/oily-skin/"
+url: "/it/trucco/pelle-grassa/"
 
 seo_title: "Makeup per Pelle Grassa: Prodotti e Consigli per Trucco Perfetto"
 intro_title: "💄 Makeup per Pelle Grassa: La Guida Completa"

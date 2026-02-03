@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/hi/haircare/scalp-treatment/"
+url: "/hi/haircare/sir-ka-ilaaj/"
 
 seo_title: "स्कैल्प ट्रीटमेंट उत्पाद - सिर की त्वचा की देखभाल | बेस्ट प्राइस"
 intro_title: "🌿 स्कैल्प ट्रीटमेंट - स्वस्थ बालों की शुरुआत"

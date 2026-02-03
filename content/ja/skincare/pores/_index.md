@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/ja/skincare/pores/"
+url: "/ja/skincare/keana/"
 
 seo_title: "毛穴ケア化粧品 | 黒ずみ・開き・詰まりを改善するスキンケア商品"
 intro_title: "🕳️ 毛穴ケア - 美しい肌への第一歩"

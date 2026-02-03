@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/ko/skincare/dry/"
+url: "/ko/skincare/geonseong/"
 
 seo_title: "건성피부 스킨케어 제품 추천 | 보습 화장품 완벽 가이드 2024"
 intro_title: "💧 건성피부 전용 스킨케어 완벽 솔루션"

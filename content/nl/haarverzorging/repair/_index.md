@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/nl/haarverzorging/repair/"
+url: "/nl/haarverzorging/herstel/"
 
 seo_title: "Haar Reparatie Producten - Herstel Beschadigd Haar | Shop"
 intro_title: "Haar Reparatie 💆‍♀️ Herstel Je Beschadigde Haar"

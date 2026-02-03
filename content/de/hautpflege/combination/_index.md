@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/de/hautpflege/combination/"
+url: "/de/hautpflege/mischhaut/"
 
 seo_title: "Mischhaut Pflege | Produkte für fettige T-Zone & trockene Wangen"
 intro_title: "🌟 Mischhaut richtig pflegen - Balance für Ihr Gesicht"

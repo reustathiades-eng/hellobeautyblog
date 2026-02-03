@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/fr/cheveux/hair-spray/"
+url: "/fr/cheveux/laque/"
 
 seo_title: "Laque Cheveux - Fixation & Tenue Parfaite | Coiffure Pro"
 intro_title: "Laque pour Cheveux ✨ Fixation et Volume Longue Durée"

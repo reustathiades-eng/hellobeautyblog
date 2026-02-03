@@ -337,27 +337,27 @@
           {
             "name": "Capelli Fini",
             "emoji": "🪶",
-            "url": "/it/capelli/fine-hair/"
+            "url": "/it/capelli/capelli-fini/"
           },
           {
             "name": "Capelli Spessi",
             "emoji": "💪",
-            "url": "/it/capelli/thick-hair/"
+            "url": "/it/capelli/capelli-spessi/"
           },
           {
             "name": "Capelli Ricci",
             "emoji": "🌀",
-            "url": "/it/capelli/curly-hair/"
+            "url": "/it/capelli/capelli-ricci/"
           },
           {
             "name": "Capelli Lisci",
             "emoji": "✨",
-            "url": "/it/capelli/straight-hair/"
+            "url": "/it/capelli/capelli-lisci/"
           },
           {
             "name": "Capelli Colorati",
             "emoji": "🎨",
-            "url": "/it/capelli/color-treated/"
+            "url": "/it/capelli/colorati/"
           }
         ]
       },
@@ -372,22 +372,22 @@
           {
             "name": "Riparazione",
             "emoji": "🔧",
-            "url": "/it/capelli/repair/"
+            "url": "/it/capelli/riparazione/"
           },
           {
             "name": "Idratazione",
             "emoji": "💧",
-            "url": "/it/capelli/hydration/"
+            "url": "/it/capelli/idratazione/"
           },
           {
             "name": "Forfora",
             "emoji": "🧴",
-            "url": "/it/capelli/dandruff/"
+            "url": "/it/capelli/forfora/"
           },
           {
             "name": "Protezione Colore",
             "emoji": "🛡️",
-            "url": "/it/capelli/color-protection/"
+            "url": "/it/capelli/protezione-colore/"
           }
         ]
       }

@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/fr/soins/redness/"
+url: "/fr/soins/rougeurs/"
 
 seo_title: "Soins Anti-Rougeurs | Apaisez et Calmez votre Peau"
 intro_title: "Soins Anti-Rougeurs 🌸 Solutions pour une Peau Apaisée"

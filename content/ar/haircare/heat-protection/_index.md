@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/ar/haircare/heat-protection/"
+url: "/ar/haircare/himayat-al-harara/"
 
 seo_title: "منتجات حماية الشعر من الحرارة - واقيات حرارية للشعر"
 intro_title: "🔥 حماية الشعر من الحرارة - واقيات حرارية متطورة"

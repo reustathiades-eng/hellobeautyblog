@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/fr/soins/anti-aging/"
+url: "/fr/soins/anti-age/"
 
 seo_title: "Soins Anti-Âge: Crèmes & Sérums pour une Peau Jeune"
 intro_title: "✨ Soins Anti-Âge: Retrouvez une Peau Éclatante"

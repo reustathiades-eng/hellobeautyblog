@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/tr/cilt-bakimi/eye-cream/"
+url: "/tr/cilt-bakimi/goz-kremi/"
 
 seo_title: "Göz Kremi - Kırışıklık ve Koyu Halka Karşı Etkili Bakım"
 intro_title: "👁️ Göz Kremi - Gözlerinize Özel Bakım"

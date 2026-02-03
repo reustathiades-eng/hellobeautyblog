@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/zh/haircare/hair-oil/"
+url: "/zh/haircare/fa-you/"
 
 seo_title: "护发精油大全 - 天然滋养修复受损发质 | 优质护发油推荐"
 intro_title: "🌿 护发精油：深度滋养秀发的天然护理专家"

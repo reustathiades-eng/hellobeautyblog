@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/ko/skincare/toner/"
+url: "/ko/skincare/toneeo/"
 
 seo_title: "토너 추천 | 피부타입별 스킨케어 토너 브랜드 모음 - 최저가 비교"
 intro_title: "💧 토너 - 건강한 피부의 첫걸음"

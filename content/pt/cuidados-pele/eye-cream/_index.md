@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/pt/cuidados-pele/eye-cream/"
+url: "/pt/cuidados-pele/creme-para-olhos/"
 
 seo_title: "Creme para os Olhos: Guia Completo e Melhores Produtos"
 intro_title: "Creme para os Olhos 👁️ Guia Definitivo"

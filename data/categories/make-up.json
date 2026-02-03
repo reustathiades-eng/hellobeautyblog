@@ -243,7 +243,7 @@
           {
             "name": "Rouge",
             "emoji": "🌹",
-            "url": "/de/make-up/blush/"
+            "url": "/de/make-up/rouge/"
           },
           {
             "name": "Highlighter",
@@ -253,7 +253,7 @@
           {
             "name": "Puder",
             "emoji": "🤍",
-            "url": "/de/make-up/powder/"
+            "url": "/de/make-up/puder/"
           }
         ]
       },
@@ -273,12 +273,12 @@
           {
             "name": "Lidschatten",
             "emoji": "🎨",
-            "url": "/de/make-up/eyeshadow/"
+            "url": "/de/make-up/lidschatten/"
           },
           {
             "name": "Augenbrauen",
             "emoji": "✨",
-            "url": "/de/make-up/brows/"
+            "url": "/de/make-up/augenbrauen/"
           }
         ]
       },
@@ -288,17 +288,17 @@
           {
             "name": "Lippenstift",
             "emoji": "💄",
-            "url": "/de/make-up/lipstick/"
+            "url": "/de/make-up/lippenstift/"
           },
           {
             "name": "Lipgloss",
             "emoji": "✨",
-            "url": "/de/make-up/lip-gloss/"
+            "url": "/de/make-up/lipgloss/"
           },
           {
             "name": "Lipliner",
             "emoji": "✏️",
-            "url": "/de/make-up/lip-liner/"
+            "url": "/de/make-up/lippenkonturenstift/"
           }
         ]
       },
@@ -308,12 +308,12 @@
           {
             "name": "Nagellack",
             "emoji": "💅",
-            "url": "/de/make-up/nail-polish/"
+            "url": "/de/make-up/nagellack/"
           },
           {
             "name": "Nagelpflege",
             "emoji": "✨",
-            "url": "/de/make-up/nails/"
+            "url": "/de/make-up/naegel/"
           }
         ]
       }

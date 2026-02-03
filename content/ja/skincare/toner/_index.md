@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/ja/skincare/toner/"
+url: "/ja/skincare/keshousui/"
 
 seo_title: "化粧水・トナー通販 | 保湿・美白・毛穴ケア | スキンケア専門店"
 intro_title: "💧 化粧水・トナーで理想の美肌へ"

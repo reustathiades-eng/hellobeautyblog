@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/nl/haarverzorging/styling-cream/"
+url: "/nl/haarverzorging/stylingcreme/"
 
 seo_title: "Styling Crème Kopen | Professionele Haarstyling Producten"
 intro_title: "✨ Styling Crème voor Perfect Gemodelleerd Haar"

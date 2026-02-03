@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/zh/haircare/scalp-health/"
+url: "/zh/haircare/toupi-jiankang/"
 
 seo_title: "头皮健康护理产品推荐|专业头皮护理解决方案|美妆护发专区"
 intro_title: "头皮健康护理 🌿 专业解决方案"

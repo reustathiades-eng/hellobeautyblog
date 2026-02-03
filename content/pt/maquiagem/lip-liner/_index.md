@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/pt/maquiagem/lip-liner/"
+url: "/pt/maquiagem/lapis-labial/"
 
 seo_title: "Lápis de Boca: Produtos de Qualidade para Contorno Perfeito"
 intro_title: "💋 Lápis de Boca - Defina e Intensifique seus Lábios"

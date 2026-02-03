@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/de/make-up/eyeshadow/"
+url: "/de/make-up/lidschatten/"
 
 seo_title: "Lidschatten kaufen - Premium Eyeshadow Paletten online"
 intro_title: "✨ Lidschatten - Verleihe deinen Augen strahlende Farbe"

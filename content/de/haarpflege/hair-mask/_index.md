@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/de/haarpflege/hair-mask/"
+url: "/de/haarpflege/haarmaske/"
 
 seo_title: "Haarmasken kaufen - Intensive Haarpflege online bestellen"
 intro_title: "Haarmasken 💆‍♀️ - Luxuriöse Tiefenpflege für geschädigtes Haar"

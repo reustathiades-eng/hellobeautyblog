@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/pt/maquiagem/setting-spray/"
+url: "/pt/maquiagem/spray-fixador/"
 
 seo_title: "Spray Fixador de Maquiagem | Fixação Duradoura"
 intro_title: "Spray Fixador: Maquiagem Perfeita o Dia Todo ✨"

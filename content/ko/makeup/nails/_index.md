@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/ko/makeup/nails/"
+url: "/ko/makeup/son-top/"
 
 seo_title: "네일 케어 & 네일 아트 완벽 가이드 | 셀프 네일 팁부터 전문 관리까지"
 intro_title: "💅 네일 케어 & 아트의 모든 것"

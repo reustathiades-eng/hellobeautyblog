@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/ko/makeup/dry-skin/"
+url: "/ko/makeup/geonseong-pibu/"
 
 seo_title: "건성피부 메이크업 추천 | 촉촉하고 지속력 좋은 화장품 가이드"
 intro_title: "건성피부 메이크업 💧 촉촉함을 지켜주는 완벽한 화장법"

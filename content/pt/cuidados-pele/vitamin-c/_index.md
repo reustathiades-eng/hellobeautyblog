@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/pt/cuidados-pele/vitamin-c/"
+url: "/pt/cuidados-pele/vitamina-c/"
 
 seo_title: "Vitamina C para Pele: Benefícios e Melhores Produtos"
 intro_title: "✨ Vitamina C: O Ingrediente Milagroso para sua Pele"

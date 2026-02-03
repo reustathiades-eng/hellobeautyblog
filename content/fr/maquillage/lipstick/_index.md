@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/fr/maquillage/lipstick/"
+url: "/fr/maquillage/rouge-levres/"
 
 seo_title: "Rouge à Lèvres - Découvrez Notre Collection Complète"
 intro_title: "💋 Rouge à Lèvres - Sublimez Vos Lèvres avec Style"

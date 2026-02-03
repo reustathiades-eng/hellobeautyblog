@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/es/maquillaje/medium-coverage/"
+url: "/es/maquillaje/cobertura-media/"
 
 seo_title: "Maquillaje Cobertura Media - Bases y Correctores Naturales"
 intro_title: "Maquillaje de Cobertura Media 💄"

@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/fr/soins/hydration/"
+url: "/fr/soins/hydratation/"
 
 seo_title: "Hydratation Visage : Soins et Produits pour Peau Sèche"
 intro_title: "Hydratation 💧 Soins pour une peau repulpée et éclatante"

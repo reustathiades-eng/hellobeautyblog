@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/ja/haircare/shine/"
+url: "/ja/haircare/tsuya/"
 
 seo_title: "髪のツヤ・輝きを取り戻すヘアケア方法｜美髪のための完全ガイド"
 intro_title: "✨髪のツヤ・輝きを取り戻すヘアケア完全ガイド"

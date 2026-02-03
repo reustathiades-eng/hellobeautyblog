@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/ja/haircare/volume/"
+url: "/ja/haircare/boryuumu/"
 
 seo_title: "ボリュームアップ髪の悩み解決｜ふんわりヘアケア商品・方法を徹底解説"
 intro_title: "💫 髪のボリュームアップで理想のヘアスタイルを手に入れよう"

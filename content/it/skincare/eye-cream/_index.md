@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/it/skincare/eye-cream/"
+url: "/it/skincare/crema-occhi/"
 
 seo_title: "Creme Contorno Occhi: Le Migliori per Rughe e Borse"
 intro_title: "Creme Contorno Occhi 👁️ Guida Completa ai Migliori Trattamenti"

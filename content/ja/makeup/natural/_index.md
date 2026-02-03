@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/ja/makeup/natural/"
+url: "/ja/makeup/natyuraru/"
 
 seo_title: "ナチュラルメイク完全ガイド｜自然な仕上がりのコツとおすすめ商品"
 intro_title: "✨ ナチュラルメイクで叶える自然美"

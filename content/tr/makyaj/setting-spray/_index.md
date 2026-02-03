@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/tr/makyaj/setting-spray/"
+url: "/tr/makyaj/sabitleyici-sprey/"
 
 seo_title: "Makyaj Sabitleyici Spray | Kalıcı Makyaj İçin Setting Spray"
 intro_title: "Makyaj Sabitleyici Spray ✨"

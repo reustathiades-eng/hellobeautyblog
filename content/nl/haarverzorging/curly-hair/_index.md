@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/nl/haarverzorging/curly-hair/"
+url: "/nl/haarverzorging/krullend-haar/"
 
 seo_title: "Krullend Haar Verzorging - Tips & Producten voor Krullen"
 intro_title: "Krullend Haar Verzorging 🌀"

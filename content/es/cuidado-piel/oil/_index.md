@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/es/cuidado-piel/oil/"
+url: "/es/cuidado-piel/aceite/"
 
 seo_title: "Aceites Faciales: Los Mejores Tratamientos Naturales"
 intro_title: "Aceites Faciales 🌿 Nutrición Profunda para tu Piel"

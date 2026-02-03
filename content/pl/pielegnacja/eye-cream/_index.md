@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/pl/pielegnacja/eye-cream/"
+url: "/pl/pielegnacja/krem-pod-oczy/"
 
 seo_title: "Kremy pod Oczy - Najlepsze Kosmetyki do Pielęgnacji 2024"
 intro_title: "Kremy pod Oczy 👁️ - Skuteczna Pielęgnacja Delikatnej Skóry"

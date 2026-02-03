@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/hi/haircare/dandruff/"
+url: "/hi/haircare/rookhsi/"
 
 seo_title: "डैंड्रफ हटाने के उपाय | रूसी के लिए बेस्ट शैम्पू और घरेलू नुस्खे"
 intro_title: "डैंड्रफ या रूसी की समस्या से छुटकारा 🌿"

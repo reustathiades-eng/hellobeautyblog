@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/ko/haircare/shine/"
+url: "/ko/haircare/yun-gi/"
 
 seo_title: "모발 윤기 관리법 | 건강한 모발 광택을 위한 헤어케어 팁과 제품 추천"
 intro_title: "✨ 모발 윤기 케어로 건강하고 빛나는 헤어 스타일링하기"

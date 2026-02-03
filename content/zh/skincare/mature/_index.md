@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/zh/skincare/mature/"
+url: "/zh/skincare/chengshu/"
 
 seo_title: "熟龄肌护肤品推荐 | 抗老精华面霜 | 专业熟龄肌护理方案"
 intro_title: "熟龄肌护肤专区 ✨ 重现青春光彩"

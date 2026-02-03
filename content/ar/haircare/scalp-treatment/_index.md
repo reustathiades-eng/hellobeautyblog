@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/ar/haircare/scalp-treatment/"
+url: "/ar/haircare/ilaj-farwat-al-raas/"
 
 seo_title: "منتجات علاج فروة الرأس - حلول فعالة لصحة الشعر"
 intro_title: "🌿 علاج فروة الرأس - العناية المتخصصة لشعر صحي"

@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/es/cuidado-piel/oily/"
+url: "/es/cuidado-piel/grasa/"
 
 seo_title: "Cuidado de la Piel Grasa - Productos y Rutinas Efectivas"
 intro_title: "Cuidado para Piel Grasa 🌟"

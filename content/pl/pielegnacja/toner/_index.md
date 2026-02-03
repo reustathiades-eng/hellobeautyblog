@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/pl/pielegnacja/toner/"
+url: "/pl/pielegnacja/tonik/"
 
 seo_title: "Toniki do Twarzy - Najlepsze Toniki Oczyszczające | Sklep"
 intro_title: "🌸 Toniki do Twarzy - Nawilżające i Oczyszczające"

@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/zh/haircare/repair/"
+url: "/zh/haircare/xiufu/"
 
 seo_title: "头发修复护理产品推荐_受损发质修护方法_专业护发指南"
 intro_title: "头发修复护理 💫 重现健康光泽秀发"

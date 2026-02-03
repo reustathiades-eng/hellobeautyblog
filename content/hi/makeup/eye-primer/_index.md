@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/hi/makeup/eye-primer/"
+url: "/hi/makeup/aankh-ka-primer/"
 
 seo_title: "आई प्राइमर - आंखों का बेस मेकअप | Eye Primer Online"
 intro_title: "👁️ आई प्राइमर - परफेक्ट आई मेकअप का बेस"

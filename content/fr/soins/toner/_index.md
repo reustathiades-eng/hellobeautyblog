@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/fr/soins/toner/"
+url: "/fr/soins/tonique/"
 
 seo_title: "Tonique Visage - Lotion Tonifiante pour Tous Types de Peau"
 intro_title: "✨ Tonique Visage - La Base d'une Routine Beauté Parfaite"

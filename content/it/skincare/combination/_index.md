@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/it/skincare/combination/"
+url: "/it/skincare/mista/"
 
 seo_title: "Skincare per Pelle Mista: Prodotti e Routine Specifiche"
 intro_title: "Skincare per Pelle Mista: La Guida Completa 🌟"

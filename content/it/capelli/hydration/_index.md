@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/it/capelli/hydration/"
+url: "/it/capelli/idratazione/"
 
 seo_title: "Idratazione Capelli: Prodotti e Trattamenti Professionali"
 intro_title: "Idratazione Capelli 💧 Trattamenti e Prodotti Professionali"

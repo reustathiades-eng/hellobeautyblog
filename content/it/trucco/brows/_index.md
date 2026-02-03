@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/it/trucco/brows/"
+url: "/it/trucco/sopracciglia/"
 
 seo_title: "Prodotti per Sopracciglia - Matite, Gel e Palette | Shop"
 intro_title: "Prodotti per Sopracciglia: Definisci il Tuo Sguardo ✨"

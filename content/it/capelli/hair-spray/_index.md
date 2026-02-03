@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/it/capelli/hair-spray/"
+url: "/it/capelli/lacca/"
 
 seo_title: "Lacca per Capelli: Fissaggio Perfetto e Duraturo | Shop"
 intro_title: "💫 Lacca per Capelli: Tenuta Perfetta per Ogni Styling"

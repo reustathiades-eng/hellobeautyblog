@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/nl/huidverzorging/mist/"
+url: "/nl/huidverzorging/spray/"
 
 seo_title: "Gezichtsmist Kopen | Face Mist & Toner Spray Online"
 intro_title: "Gezichtsmist: Verfrissende Hydratatie voor je Huid 💧"

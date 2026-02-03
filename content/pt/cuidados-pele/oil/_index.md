@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/pt/cuidados-pele/oil/"
+url: "/pt/cuidados-pele/oleo/"
 
 seo_title: "Óleos Faciais: Hidratação e Nutrição para Sua Pele"
 intro_title: "Óleos Faciais: O Segredo da Hidratação Profunda ✨"

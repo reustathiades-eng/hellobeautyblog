@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/tr/cilt-bakimi/moisturizer/"
+url: "/tr/cilt-bakimi/nemlendirici/"
 
 seo_title: "En İyi Nemlendirici Kremler | Yüz ve Vücut Nemlendiricileri"
 intro_title: "💧 Nemlendirici Kremler - Cildiniz İçin Mükemmel Nem"

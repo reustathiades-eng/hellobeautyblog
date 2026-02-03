@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/tr/sac-bakimi/volume/"
+url: "/tr/sac-bakimi/hacim/"
 
 seo_title: "Saç Hacmi Arttırma Ürünleri | Hacim Veren Şampuan & Bakım"
 intro_title: "Saç Hacmi Arttırma Ürünleri 💁‍♀️"

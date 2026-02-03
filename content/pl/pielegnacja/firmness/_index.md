@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/pl/pielegnacja/firmness/"
+url: "/pl/pielegnacja/napieciePrzeciw/"
 
 seo_title: "Ujędrnianie Skóry - Kosmetyki na Zwiotczałą Cerę | Sklep"
 intro_title: "Ujędrnianie Skóry 💪 Skuteczne Kosmetyki Przeciw Zwiotczeniu"

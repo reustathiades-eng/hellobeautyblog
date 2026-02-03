@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/it/skincare/mist/"
+url: "/it/skincare/spray/"
 
 seo_title: "Spray Viso e Mist Idratanti | Skincare Professionale"
 intro_title: "Spray Viso e Mist Idratanti 💧"

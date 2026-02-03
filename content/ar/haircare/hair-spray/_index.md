@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/ar/haircare/hair-spray/"
+url: "/ar/haircare/rakhl-al-shaar/"
 
 seo_title: "سبراي الشعر - أفضل منتجات تثبيت وتصفيف الشعر | متجرنا"
 intro_title: "💫 سبراي الشعر - الحل المثالي لتثبيت تسريحتك"

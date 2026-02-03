@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/fr/maquillage/natural/"
+url: "/fr/maquillage/naturel/"
 
 seo_title: "Maquillage Naturel : Guide Complet & Produits Essentiels"
 intro_title: "Maquillage Naturel : L'Art de la Beauté Authentique 🌿"

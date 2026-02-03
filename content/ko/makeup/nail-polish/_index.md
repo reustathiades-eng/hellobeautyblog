@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/ko/makeup/nail-polish/"
+url: "/ko/makeup/ne-il-peo-ri-syeo/"
 
 seo_title: "네일폴리쉬 | 다양한 색상과 브랜드의 매니큐어 컬렉션"
 intro_title: "💅 네일폴리쉬로 완성하는 완벽한 네일 아트"

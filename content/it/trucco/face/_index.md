@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/it/trucco/face/"
+url: "/it/trucco/viso/"
 
 seo_title: "Makeup Viso: Fondotinta, Correttori e Prodotti per il Viso"
 intro_title: "Makeup Viso: La Base Perfetta per ogni Look ✨"

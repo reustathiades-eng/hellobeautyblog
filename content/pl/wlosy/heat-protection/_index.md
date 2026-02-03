@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/pl/wlosy/heat-protection/"
+url: "/pl/wlosy/ochrona-termiczna/"
 
 seo_title: "Ochrona Termiczna Włosów - Spraye i Kremy Termoprotektory"
 intro_title: "🔥 Ochrona Termiczna dla Włosów"

@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/it/capelli/scalp-treatment/"
+url: "/it/capelli/trattamento-cuoio-capelluto/"
 
 seo_title: "Trattamenti Cuoio Capelluto - Prodotti Professionali"
 intro_title: "🌿 Trattamenti per il Cuoio Capelluto"

@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/tr/sac-bakimi/color-treated/"
+url: "/tr/sac-bakimi/boyali-sac/"
 
 seo_title: "Boyalı Saçlar İçin Bakım Ürünleri | En İyi Seçenekler"
 intro_title: "Boyalı Saçlar İçin Özel Bakım 💫"

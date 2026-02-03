@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/ja/makeup/nails/"
+url: "/ja/makeup/tsume/"
 
 seo_title: "ネイル・マニキュア完全ガイド｜最新トレンドとケア方法を徹底解説"
 intro_title: "💅 ネイル・マニキュアの魅力を徹底解説"

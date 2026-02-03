@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/nl/huidverzorging/mask/"
+url: "/nl/huidverzorging/masker/"
 
 seo_title: "Gezichtsmaskers Kopen | Premium Maskers voor Alle Huidtypen"
 intro_title: "Gezichtsmaskers: Jouw Weg naar Stralende Huid ✨"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/zh/skincare/sensitive/"
+url: "/zh/skincare/mingan/"
 
 seo_title: "敏感肌肤护肤品推荐 | 温和无刺激护肤产品 | 敏感肌专用护肤指南"
 intro_title: "🌸 敏感肌肤护肤专区 - 温和呵护每一寸肌肤"

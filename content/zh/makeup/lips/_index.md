@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/zh/makeup/lips/"
+url: "/zh/makeup/chunbu/"
 
 seo_title: "唇部彩妆产品大全 - 口红唇釉唇膏专业推荐 | 美妆护理"
 intro_title: "💋 唇部彩妆 - 打造完美双唇的必备单品"

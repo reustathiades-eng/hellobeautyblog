@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/ar/makeup/primer/"
+url: "/ar/makeup/aasas/"
 
 seo_title: "برايمر المكياج - أفضل كريم أساس تحضيري للوجه والعيون"
 intro_title: "💫 برايمر المكياج - القاعدة المثالية لإطلالة مكياج مثالية"

@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/fr/soins/normal/"
+url: "/fr/soins/normale/"
 
 seo_title: "Soins Visage Peau Normale | Routine Beauté Équilibrée"
 intro_title: "Soins pour Peau Normale ✨"

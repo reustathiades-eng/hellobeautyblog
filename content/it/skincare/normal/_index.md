@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/it/skincare/normal/"
+url: "/it/skincare/normale/"
 
 seo_title: "Skincare per Pelle Normale - Prodotti e Routine Ideali"
 intro_title: "✨ Skincare per Pelle Normale: La Guida Completa"

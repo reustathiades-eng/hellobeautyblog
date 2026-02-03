@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/ar/makeup/lip-liner/"
+url: "/ar/makeup/qalam-al-shafayf/"
 
 seo_title: "محدد الشفاه - أفضل أقلام تحديد الشفاه لإطلالة مثالية"
 intro_title: "محدد الشفاه 💋 - الحل المثالي لشفاه محددة وجذابة"

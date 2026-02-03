@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/fr/cheveux/hair-growth/"
+url: "/fr/cheveux/croissance-cheveux/"
 
 seo_title: "Produits pour la Croissance Capillaire | Soins Cheveux"
 intro_title: "🌱 Stimuler la Croissance des Cheveux Naturellement"

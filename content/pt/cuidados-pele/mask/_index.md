@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/pt/cuidados-pele/mask/"
+url: "/pt/cuidados-pele/mascara/"
 
 seo_title: "Máscaras Faciais: Hidratantes, Purificantes e Anti-Idade"
 intro_title: "Máscaras Faciais: Transforme Sua Pele em Minutos 🎭"

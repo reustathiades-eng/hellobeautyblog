@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/fr/maquillage/oily-skin/"
+url: "/fr/maquillage/peau-grasse/"
 
 seo_title: "Maquillage Peau Grasse : Produits & Conseils Experts 2024"
 intro_title: "Maquillage pour Peau Grasse 💄"

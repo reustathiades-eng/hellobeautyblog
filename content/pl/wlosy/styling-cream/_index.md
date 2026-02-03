@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/pl/wlosy/styling-cream/"
+url: "/pl/wlosy/krem-stylizujacy/"
 
 seo_title: "Kremy do stylizacji włosów - Najlepsze produkty online"
 intro_title: "Kremy do stylizacji włosów ✨ Perfekcyjna fryzura każdego dnia"

@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/de/make-up/medium-coverage/"
+url: "/de/make-up/mittlere-deckung/"
 
 seo_title: "Medium Coverage Makeup - Natürlicher Look mit perfekter Abdeckung"
 intro_title: "Medium Coverage Makeup ✨ Der perfekte Mittelweg"

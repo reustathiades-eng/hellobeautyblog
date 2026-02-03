@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/es/cabello/curly-hair/"
+url: "/es/cabello/cabello-rizado/"
 
 seo_title: "Cuidado del Cabello Rizado - Productos y Consejos | 2024"
 intro_title: "Cuidado del Cabello Rizado 🌀"

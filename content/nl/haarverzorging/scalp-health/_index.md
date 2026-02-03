@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/nl/haarverzorging/scalp-health/"
+url: "/nl/haarverzorging/hoofdhuidgezondheid/"
 
 seo_title: "Hoofdhuidverzorging: Expert Tips voor een Gezonde Hoofdhuid"
 intro_title: "Hoofdhuidgezondheid: De Basis van Mooi Haar 🌿"

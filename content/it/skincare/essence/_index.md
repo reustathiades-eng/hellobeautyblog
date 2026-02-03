@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/it/skincare/essence/"
+url: "/it/skincare/essenza/"
 
 seo_title: "Essence Viso: Le Migliori Essenze per la Skincare"
 intro_title: "Essence Viso ✨ Scopri il Segreto della Bellezza Coreana"

@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/zh/haircare/styling-gel/"
+url: "/zh/haircare/zaoxing-zhe/"
 
 seo_title: "造型凝胶定型啫喱 - 专业发型定型产品 | 持久定型不僵硬"
 intro_title: "💫 造型凝胶 - 打造完美发型的专业定型产品"

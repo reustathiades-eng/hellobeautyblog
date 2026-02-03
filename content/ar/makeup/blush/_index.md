@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/ar/makeup/blush/"
+url: "/ar/makeup/ahmar-al-khuddud/"
 
 seo_title: "أحمر الخدود - مجموعة واسعة من منتجات البلاش عالية الجودة"
 intro_title: "أحمر الخدود 🌸 - اكتشفي إطلالة مشرقة وطبيعية"

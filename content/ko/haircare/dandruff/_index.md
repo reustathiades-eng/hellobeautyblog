@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/ko/haircare/dandruff/"
+url: "/ko/haircare/bidu/"
 
 seo_title: "비듬 관리 완벽 가이드 | 효과적인 비듬 샴푸 및 케어 제품 추천"
 intro_title: "비듬 완벽 관리법 🌿 건강한 두피를 위한 솔루션"

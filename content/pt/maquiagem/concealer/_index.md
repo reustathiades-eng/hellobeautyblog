@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/pt/maquiagem/concealer/"
+url: "/pt/maquiagem/corretivo/"
 
 seo_title: "Corretor: Encontre o Melhor Concealer para sua Pele"
 intro_title: "Corretor: O Segredo para uma Pele Impecável ✨"

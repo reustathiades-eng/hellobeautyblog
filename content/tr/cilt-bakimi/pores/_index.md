@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/tr/cilt-bakimi/pores/"
+url: "/tr/cilt-bakimi/goznek/"
 
 seo_title: "Gözenek Bakımı Ürünleri | En İyi Gözenek Küçültücü Ürünler"
 intro_title: "🔍 Gözenek Bakımı ve Küçültme Ürünleri"

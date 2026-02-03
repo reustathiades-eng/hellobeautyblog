@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/hi/makeup/sensitive-skin/"
+url: "/hi/makeup/sanvedansheel-twacha/"
 
 seo_title: "संवेदनशील त्वचा के लिए मेकअप | सेंसिटिव स्किन मेकअप प्रोडक्ट्स"
 intro_title: "संवेदनशील त्वचा के लिए मेकअप 💄✨"

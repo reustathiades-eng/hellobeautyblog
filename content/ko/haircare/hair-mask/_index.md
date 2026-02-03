@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/ko/haircare/hair-mask/"
+url: "/ko/haircare/hea-maseukeeu/"
 
 seo_title: "헤어 마스크 추천 | 손상모발 집중케어 트리트먼트 모음"
 intro_title: "🌟 헤어 마스크로 완성하는 건강한 모발 관리"

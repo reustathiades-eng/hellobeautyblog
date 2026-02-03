@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/de/hautpflege/firmness/"
+url: "/de/hautpflege/straffung/"
 
 seo_title: "Hautstraffung & Festigkeit - Anti-Aging Pflege | Shop"
 intro_title: "Hautfestigkeit & Straffung 💪"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/tr/makyaj/sensitive-skin/"
+url: "/tr/makyaj/hassas-cilt/"
 
 seo_title: "Hassas Cilt Makyajı | Doğal ve Güvenli Ürünler"
 intro_title: "Hassas Cilt İçin Makyaj Ürünleri 🌸"

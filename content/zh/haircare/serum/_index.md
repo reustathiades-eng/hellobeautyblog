@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "haircare-serum"
-url: "/zh/haircare/serum/"
+url: "/zh/haircare/jinghua/"
 
 seo_title: "護髮精華液推薦 - 修復受損髮質專業護髮產品 | 髮絲保養必備"
 intro_title: "✨ 護髮精華液 - 深層滋養修復秀髮的專業選擇"

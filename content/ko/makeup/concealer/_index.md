@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/ko/makeup/concealer/"
+url: "/ko/makeup/kin-sil-leo/"
 
 seo_title: "컨실러 추천 | 완벽한 커버력의 베스트 컨실러 모음"
 intro_title: "💫 완벽한 커버력의 컨실러 컬렉션"

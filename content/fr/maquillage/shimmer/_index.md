@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/fr/maquillage/shimmer/"
+url: "/fr/maquillage/irise/"
 
 seo_title: "Maquillage Shimmer - Finitions Nacrées & Irisées | Guide"
 intro_title: "✨ Maquillage Shimmer : L'Art des Finitions Nacrées"

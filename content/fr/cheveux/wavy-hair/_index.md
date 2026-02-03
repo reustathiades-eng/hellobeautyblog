@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/fr/cheveux/wavy-hair/"
+url: "/fr/cheveux/cheveux-ondules/"
 
 seo_title: "Soins Cheveux Ondulés : Guide Complet & Produits Experts"
 intro_title: "🌊 Soins pour Cheveux Ondulés : Sublimez vos Ondulations Naturelles"

@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/zh/makeup/nails/"
+url: "/zh/makeup/zhijia/"
 
 seo_title: "美甲产品大全 - 指甲油、美甲工具、甲片贴纸一站式购买指南"
 intro_title: "💅 美甲产品专区 - 打造完美指尖艺术"

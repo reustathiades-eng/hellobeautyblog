@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/ja/makeup/face/"
+url: "/ja/makeup/kao/"
 
 seo_title: "フェイスメイクアップ完全ガイド｜ベース・チーク・ハイライト"
 intro_title: "✨ フェイスメイクアップの完全ガイド"

@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/tr/cilt-bakimi/oil/"
+url: "/tr/cilt-bakimi/yag/"
 
 seo_title: "Yüz Yağı & Cilt Bakım Yağları | Premium Kalite"
 intro_title: "🌟 Yüz Yağları ve Cilt Bakım Yağları"

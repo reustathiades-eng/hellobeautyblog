@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/pl/wlosy/dry-shampoo/"
+url: "/pl/wlosy/suchy-szampon/"
 
 seo_title: "Suchy szampon - najlepsze produkty do pielęgnacji włosów"
 intro_title: "Suchy szampon - odświeżenie włosów bez mycia 🌟"

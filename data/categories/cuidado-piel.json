@@ -360,22 +360,22 @@
           {
             "name": "Piel Grasa",
             "emoji": "🌟",
-            "url": "/es/cuidado-piel/oily/"
+            "url": "/es/cuidado-piel/grasa/"
           },
           {
             "name": "Piel Seca",
             "emoji": "💧",
-            "url": "/es/cuidado-piel/dry/"
+            "url": "/es/cuidado-piel/seca/"
           },
           {
             "name": "Piel Mixta",
             "emoji": "⚖️",
-            "url": "/es/cuidado-piel/combination/"
+            "url": "/es/cuidado-piel/mixta/"
           },
           {
             "name": "Piel Sensible",
             "emoji": "🌸",
-            "url": "/es/cuidado-piel/sensitive/"
+            "url": "/es/cuidado-piel/sensible/"
           },
           {
             "name": "Piel Normal",
@@ -390,12 +390,12 @@
           {
             "name": "Limpiadores",
             "emoji": "🧼",
-            "url": "/es/cuidado-piel/cleanser/"
+            "url": "/es/cuidado-piel/limpiador/"
           },
           {
             "name": "Tónicos",
             "emoji": "💫",
-            "url": "/es/cuidado-piel/toner/"
+            "url": "/es/cuidado-piel/tonico/"
           },
           {
             "name": "Sérums",
@@ -405,17 +405,17 @@
           {
             "name": "Hidratantes",
             "emoji": "🌊",
-            "url": "/es/cuidado-piel/moisturizer/"
+            "url": "/es/cuidado-piel/hidratante/"
           },
           {
             "name": "Protector Solar",
             "emoji": "☀️",
-            "url": "/es/cuidado-piel/sunscreen/"
+            "url": "/es/cuidado-piel/protector-solar/"
           },
           {
             "name": "Mascarillas",
             "emoji": "🎭",
-            "url": "/es/cuidado-piel/mask/"
+            "url": "/es/cuidado-piel/mascarilla/"
           }
         ]
       },
@@ -425,7 +425,7 @@
           {
             "name": "Anti-Edad",
             "emoji": "🕐",
-            "url": "/es/cuidado-piel/anti-aging/"
+            "url": "/es/cuidado-piel/antiedad/"
           },
           {
             "name": "Acné",
@@ -435,17 +435,17 @@
           {
             "name": "Hidratación",
             "emoji": "💧",
-            "url": "/es/cuidado-piel/hydration/"
+            "url": "/es/cuidado-piel/hidratacion/"
           },
           {
             "name": "Luminosidad",
             "emoji": "✨",
-            "url": "/es/cuidado-piel/brightening/"
+            "url": "/es/cuidado-piel/iluminador/"
           },
           {
             "name": "Poros",
             "emoji": "🔍",
-            "url": "/es/cuidado-piel/pores/"
+            "url": "/es/cuidado-piel/poros/"
           }
         ]
       }

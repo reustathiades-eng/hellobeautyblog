@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/es/cabello/conditioner/"
+url: "/es/cabello/acondicionador/"
 
 seo_title: "Acondicionadores para el Cabello - Hidratación y Suavidad"
 intro_title: "💧 Acondicionadores: El Secreto de un Cabello Suave y Brillante"

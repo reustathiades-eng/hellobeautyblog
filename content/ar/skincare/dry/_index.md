@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/ar/skincare/dry/"
+url: "/ar/skincare/jaff/"
 
 seo_title: "منتجات العناية بالبشرة الجافة - حلول فعالة للترطيب والحماية"
 intro_title: "💧 العناية المثالية للبشرة الجافة والمتعطشة للترطيب"

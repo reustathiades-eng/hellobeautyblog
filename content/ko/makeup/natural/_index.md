@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/ko/makeup/natural/"
+url: "/ko/makeup/ja-yeon/"
 
 seo_title: "자연스러운 메이크업 피니시 제품 추천 | 내추럴 마무리 화장품"
 intro_title: "자연스러운 마무리 메이크업 🌿 내추럴 피니시"

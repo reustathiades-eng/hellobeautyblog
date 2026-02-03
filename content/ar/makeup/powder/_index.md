@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/ar/makeup/powder/"
+url: "/ar/makeup/budra/"
 
 seo_title: "بودرة الوجه - أفضل أنواع البودرة للمكياج والتثبيت"
 intro_title: "بودرة الوجه ✨ للحصول على إطلالة مثالية"

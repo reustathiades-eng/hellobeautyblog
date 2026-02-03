@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/pl/pielegnacja/combination/"
+url: "/pl/pielegnacja/mieszana/"
 
 seo_title: "Kosmetyki do cery mieszanej - pielęgnacja idealnie dobrana"
 intro_title: "Kosmetyki do cery mieszanej 🌟"

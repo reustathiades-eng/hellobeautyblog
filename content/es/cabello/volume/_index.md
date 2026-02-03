@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/es/cabello/volume/"
+url: "/es/cabello/volumen/"
 
 seo_title: "Productos para Dar Volumen al Cabello - Guía Experta 2024"
 intro_title: "💫 Productos para Dar Volumen al Cabello"

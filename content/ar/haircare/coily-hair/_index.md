@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/ar/haircare/coily-hair/"
+url: "/ar/haircare/shaar-mulafaf/"
 
 seo_title: "منتجات العناية بالشعر المجعد الكيرلي | دليل شامل للعناية"
 intro_title: "العناية بالشعر المجعد والكيرلي 🌀"

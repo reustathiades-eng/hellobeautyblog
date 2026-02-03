@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/de/make-up/full-coverage/"
+url: "/de/make-up/volldeckung/"
 
 seo_title: "Full Coverage Make-up kaufen | Perfekte Deckkraft online"
 intro_title: "Full Coverage Make-up 💯 Perfekte Deckkraft für jeden Anlass"

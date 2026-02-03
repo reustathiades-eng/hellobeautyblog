@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/fr/maquillage/highlighter/"
+url: "/fr/maquillage/enlumineur/"
 
 seo_title: "Highlighter Visage - Illuminateur Maquillage | Beauté"
 intro_title: "✨ Highlighter : Révélez votre Éclat Naturel"

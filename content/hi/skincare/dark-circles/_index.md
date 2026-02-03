@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/hi/skincare/dark-circles/"
+url: "/hi/skincare/kale-ghere/"
 
 seo_title: "डार्क सर्कल्स हटाने के लिए बेस्ट प्रोडक्ट्स | आंखों के नीचे काले घेरे"
 intro_title: "डार्क सर्कल्स - आंखों के नीचे काले घेरे का इलाज 👁️"

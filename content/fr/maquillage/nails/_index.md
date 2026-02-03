@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/fr/maquillage/nails/"
+url: "/fr/maquillage/ongles/"
 
 seo_title: "Vernis à Ongles & Soins des Ongles - Guide Beauté"
 intro_title: "💅 Vernis à Ongles et Soins des Ongles"

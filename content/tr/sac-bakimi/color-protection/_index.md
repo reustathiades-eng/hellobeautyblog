@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/tr/sac-bakimi/color-protection/"
+url: "/tr/sac-bakimi/renk-koruma/"
 
 seo_title: "Renk Koruyucu Saç Bakımı - En İyi Ürünler ve Öneriler"
 intro_title: "Renk Koruyucu Saç Bakımı 🌈"

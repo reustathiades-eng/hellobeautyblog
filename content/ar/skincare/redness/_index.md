@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/ar/skincare/redness/"
+url: "/ar/skincare/ihtimarar/"
 
 seo_title: "منتجات العناية بالبشرة لعلاج الاحمرار والحساسية"
 intro_title: "🌹 علاج احمرار البشرة والحساسية"

@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/pl/pielegnacja/moisturizer/"
+url: "/pl/pielegnacja/krem-nawilzajacy/"
 
 seo_title: "Kremy Nawilżające do Twarzy | Najlepsze Kosmetyki 2024"
 intro_title: "Kremy Nawilżające 💧 - Klucz do Zdrowej i Promiennej Skóry"

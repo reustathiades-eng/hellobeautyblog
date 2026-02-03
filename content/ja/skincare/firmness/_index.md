@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/ja/skincare/firmness/"
+url: "/ja/skincare/haritsuke/"
 
 seo_title: "ハリ・弾力ケア化粧品｜エイジングケアで若々しい肌へ - スキンケア専門店"
 intro_title: "✨ ハリ・弾力ケア化粧品で若々しい美肌を取り戻そう"

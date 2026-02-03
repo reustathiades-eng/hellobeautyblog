@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/ja/makeup/nail-polish/"
+url: "/ja/makeup/neirupurishh/"
 
 seo_title: "ネイルポリッシュ・マニキュア通販｜人気ブランド多数取扱い"
 intro_title: "💅 ネイルポリッシュ・マニキュア"

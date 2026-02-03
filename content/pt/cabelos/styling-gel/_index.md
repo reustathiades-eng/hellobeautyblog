@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/pt/cabelos/styling-gel/"
+url: "/pt/cabelos/gel-modelador/"
 
 seo_title: "Gel para Cabelo - Fixação e Modelagem Profissional"
 intro_title: "💇‍♀️ Gel para Cabelo - Estilo e Fixação Perfeitos"

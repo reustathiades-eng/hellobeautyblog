@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/zh/skincare/mask/"
+url: "/zh/skincare/mianmo/"
 
 seo_title: "面膜推荐指南 | 补水美白抗衰老面膜选购攻略 - 护肤专家推荐"
 intro_title: "🎭 面膜护肤指南 - 打造完美肌肤的秘密武器"

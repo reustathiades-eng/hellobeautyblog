@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/ko/haircare/volume/"
+url: "/ko/haircare/bol-lyum/"
 
 seo_title: "볼륨업 헤어케어 제품 추천 | 뿌리볼륨 모발관리 완벽가이드"
 intro_title: "💁‍♀️ 볼륨 없는 모발을 위한 전문 헤어케어"

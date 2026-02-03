@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/pl/wlosy/straight-hair/"
+url: "/pl/wlosy/proste-wlosy/"
 
 seo_title: "Pielęgnacja Włosów Prostych - Kosmetyki i Porady | 2024"
 intro_title: "Pielęgnacja Włosów Prostych ✨ Kompletny Przewodnik"

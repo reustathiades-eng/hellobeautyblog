@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/zh/makeup/light-coverage/"
+url: "/zh/makeup/qing-bo/"
 
 seo_title: "轻薄遮瑕化妆品推荐 | 自然轻透底妆产品大全 - 专业美妆指南"
 intro_title: "✨ 轻薄遮瑕化妆品 - 打造自然透亮底妆"

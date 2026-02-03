@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/it/skincare/exfoliator/"
+url: "/it/skincare/esfoliante/"
 
 seo_title: "Esfolianti Viso e Corpo | Scrub e Peeling per Pelle Radiosa"
 intro_title: "Esfolianti ✨ Rinnova la Tua Pelle con Delicatezza"

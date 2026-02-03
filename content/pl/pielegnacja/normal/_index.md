@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/pl/pielegnacja/normal/"
+url: "/pl/pielegnacja/normalna/"
 
 seo_title: "Kosmetyki do Cery Normalnej | Najlepsze Produkty 2024"
 intro_title: "Kosmetyki do Cery Normalnej ✨"

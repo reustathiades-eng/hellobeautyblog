@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/ja/makeup/dry-skin/"
+url: "/ja/makeup/kansou-hada/"
 
 seo_title: "乾燥肌向けメイクアップ・化粧品｜保湿重視のベースメイク完全ガイド"
 intro_title: "乾燥肌のためのメイクアップ完全ガイド ✨"

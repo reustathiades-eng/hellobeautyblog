@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/it/trucco/powder/"
+url: "/it/trucco/cipria/"
 
 seo_title: "Ciprie e Polveri per il Viso - Makeup Professionale Online"
 intro_title: "✨ Ciprie e Polveri per il Viso - Finitura Perfetta"

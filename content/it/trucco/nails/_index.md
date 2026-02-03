@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/it/trucco/nails/"
+url: "/it/trucco/unghie/"
 
 seo_title: "Smalti e Nail Art: Prodotti per Unghie Perfette | Beauty"
 intro_title: "💅 Nail Art e Smalti: La Tua Guida Completa per Unghie Perfette"

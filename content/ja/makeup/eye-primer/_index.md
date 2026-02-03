@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/ja/makeup/eye-primer/"
+url: "/ja/makeup/ai-puraimaa/"
 
 seo_title: "アイプライマー｜目元メイクの仕上がりを格段にアップする下地コスメ"
 intro_title: "👁️ アイプライマーで美しいアイメイクを長時間キープ"

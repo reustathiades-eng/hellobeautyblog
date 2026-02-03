@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/de/haarpflege/dandruff/"
+url: "/de/haarpflege/schuppen/"
 
 seo_title: "Anti-Schuppen Shampoo & Pflege | Schuppen wirksam bekämpfen"
 intro_title: "Anti-Schuppen Pflege ❄️ Wirksame Hilfe gegen Schuppen"

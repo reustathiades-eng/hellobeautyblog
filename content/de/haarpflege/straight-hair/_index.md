@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/de/haarpflege/straight-hair/"
+url: "/de/haarpflege/glattes-haar/"
 
 seo_title: "Haarpflege für glattes Haar - Tipps & Produkte | Beauty"
 intro_title: "Haarpflege für glattes Haar ✨"

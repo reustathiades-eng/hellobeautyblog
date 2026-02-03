@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/hi/haircare/thinning/"
+url: "/hi/haircare/patale-hote-baal/"
 
 seo_title: "बालों का झड़ना रोकने के उपाय और बेस्ट प्रोडक्ट्स | हेयरकेयर टिप्स"
 intro_title: "बालों का झड़ना और पतलेपन की समस्या 💇‍♀️"

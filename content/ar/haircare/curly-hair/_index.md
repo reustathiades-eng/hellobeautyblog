@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/ar/haircare/curly-hair/"
+url: "/ar/haircare/shaar-mujaad/"
 
 seo_title: "منتجات العناية بالشعر المجعد - أفضل المستحضرات للشعر الكيرلي"
 intro_title: "🌀 العناية بالشعر المجعد - دليلك الشامل للحصول على تجعيدات مثالية"

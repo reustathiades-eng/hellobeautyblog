@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/tr/makyaj/primer/"
+url: "/tr/makyaj/baz/"
 
 seo_title: "Primer Makyaj Ürünleri | En İyi Primer Fiyatları"
 intro_title: "✨ Primer Makyaj Ürünleri"

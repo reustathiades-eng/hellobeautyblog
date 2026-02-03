@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/de/hautpflege/brightening/"
+url: "/de/hautpflege/aufhellend/"
 
 seo_title: "Aufhellende Hautpflege für strahlenden Teint | Skincare"
 intro_title: "✨ Aufhellende Hautpflege für einen strahlenden Teint"

@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/hi/haircare/straight-hair/"
+url: "/hi/haircare/seedhe-baal/"
 
 seo_title: "सीधे बालों की देखभाल - टिप्स और प्रोडक्ट्स | Straight Hair Care"
 intro_title: "सीधे बालों की संपूर्ण देखभाल गाइड ✨"

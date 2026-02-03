@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/zh/haircare/shampoo/"
+url: "/zh/haircare/xi-fa-shui/"
 
 seo_title: "洗发水大全 | 专业洗发护理产品选购指南 | 优质洗发液推荐"
 intro_title: "🧴 洗发水专区 - 呵护秀发从洗护开始"

@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/ko/makeup/highlighter/"
+url: "/ko/makeup/hai-lai-teo/"
 
 seo_title: "하이라이터 추천 | 윤기나는 피부연출 하이라이터 모음 - 뷰티샵"
 intro_title: "✨ 하이라이터로 완성하는 글로우 메이크업"

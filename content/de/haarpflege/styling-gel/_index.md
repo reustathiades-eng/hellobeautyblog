@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/de/haarpflege/styling-gel/"
+url: "/de/haarpflege/stylinggel/"
 
 seo_title: "Styling Gel für perfekten Halt - Haargel online kaufen"
 intro_title: "Styling Gel 💇‍♀️ Für starken Halt und perfektes Styling"

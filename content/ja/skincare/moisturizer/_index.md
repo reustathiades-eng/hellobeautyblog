@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/ja/skincare/moisturizer/"
+url: "/ja/skincare/hoshitsu/"
 
 seo_title: "保湿クリーム・乳液おすすめ｜美肌を叶えるモイスチャライザー特集"
 intro_title: "💧 保湿クリーム・モイスチャライザーで理想の美肌へ"

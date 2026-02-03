@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/zh/haircare/color-treated/"
+url: "/zh/haircare/ranfa/"
 
 seo_title: "染发护理产品推荐 | 专业染发后护发指南 | 护色洗发水护发素"
 intro_title: "🎨 染发护理专区 - 守护你的彩色发丝"

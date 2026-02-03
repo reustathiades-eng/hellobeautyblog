@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/ja/haircare/wavy-hair/"
+url: "/ja/haircare/weebihea/"
 
 seo_title: "ウェーブヘア・天然パーマのヘアケア方法とおすすめアイテム"
 intro_title: "🌊 ウェーブヘア・天然パーマのヘアケア完全ガイド"

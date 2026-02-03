@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/tr/sac-bakimi/hydration/"
+url: "/tr/sac-bakimi/nemlendirme/"
 
 seo_title: "Saç Nemlendirme Ürünleri - Kuru Saçlar İçin Bakım"
 intro_title: "Saç Nemlendirme 💧 Kuru ve Susuz Saçlar İçin Etkili Çözümler"

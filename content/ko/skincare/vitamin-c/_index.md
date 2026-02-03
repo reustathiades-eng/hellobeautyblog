@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/ko/skincare/vitamin-c/"
+url: "/ko/skincare/bitamin-c/"
 
 seo_title: "비타민C 스킨케어 제품 추천 | 미백 안티에이징 효과"
 intro_title: "✨ 비타민C 스킨케어로 빛나는 피부 만들기"

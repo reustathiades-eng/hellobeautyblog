@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/ar/skincare/mature/"
+url: "/ar/skincare/naḍij/"
 
 seo_title: "منتجات العناية بالبشرة الناضجة - حلول مكافحة الشيخوخة"
 intro_title: "✨ العناية بالبشرة الناضجة - استعيدي نضارة شبابك"

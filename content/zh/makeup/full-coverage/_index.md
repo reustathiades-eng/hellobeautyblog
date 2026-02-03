@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/zh/makeup/full-coverage/"
+url: "/zh/makeup/gao-zhegai/"
 
 seo_title: "全覆盖妆容产品推荐 | 遮瑕力强的彩妆产品选购指南 - 专业美妆"
 intro_title: "💄 全覆盖妆容 - 打造完美无瑕肌底"

@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/zh/makeup/medium-coverage/"
+url: "/zh/makeup/zhongdeng-zhegai/"
 
 seo_title: "中度遮瑕化妆品推荐 | 自然遮瑕产品选购指南 - 美妆专区"
 intro_title: "💄 中度遮瑕化妆品 - 打造自然完美底妆"

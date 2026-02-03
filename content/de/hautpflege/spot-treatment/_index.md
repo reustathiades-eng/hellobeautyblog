@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/de/hautpflege/spot-treatment/"
+url: "/de/hautpflege/pickelbehandlung/"
 
 seo_title: "Spot Treatment Pickelbehandlung ✨ Gezielte Hautpflege"
 intro_title: "Spot Treatment - Gezielte Pickelbehandlung für reine Haut ✨"

@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/hi/haircare/hair-mask/"
+url: "/hi/haircare/baal-ka-mask/"
 
 seo_title: "बेस्ट हेयर मास्क ऑनलाइन खरीदें | हेयर मास्क की कीमत"
 intro_title: "हेयर मास्क 💆‍♀️ - बालों की गहरी देखभाल के लिए"

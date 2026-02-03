@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/ar/skincare/vitamin-c/"
+url: "/ar/skincare/fitameen-c/"
 
 seo_title: "فيتامين سي للبشرة - منتجات وسيروم فيتامين C الأصلية"
 intro_title: "فيتامين سي للبشرة ✨ المكون السحري لإشراق طبيعي"

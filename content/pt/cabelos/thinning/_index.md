@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/pt/cabelos/thinning/"
+url: "/pt/cabelos/afinamento/"
 
 seo_title: "Cabelo Fino e Ralo: Tratamentos e Produtos Eficazes"
 intro_title: "Cabelo Fino e Ralo 💪 Soluções Comprovadas"

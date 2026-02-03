@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/es/cabello/wavy-hair/"
+url: "/es/cabello/cabello-ondulado/"
 
 seo_title: "Cuidado Cabello Ondulado - Productos y Rutinas Naturales"
 intro_title: "🌊 Cuidado del Cabello Ondulado"

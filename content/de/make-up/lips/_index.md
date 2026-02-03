@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/de/make-up/lips/"
+url: "/de/make-up/lippen/"
 
 seo_title: "Lippen Make-up: Lippenstift, Gloss & Liner | Beauty Shop"
 intro_title: "Lippen Make-up 💋 - Perfekte Lippen für jeden Anlass"

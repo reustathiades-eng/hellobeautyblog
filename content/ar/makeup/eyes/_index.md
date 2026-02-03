@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/ar/makeup/eyes/"
+url: "/ar/makeup/uyun/"
 
 seo_title: "مكياج العيون - أجمل إطلالات عيون ساحرة ومنتجات عالية الجودة"
 intro_title: "مكياج العيون ✨ - إبرزي جمال عينيك بأروع الإطلالات"

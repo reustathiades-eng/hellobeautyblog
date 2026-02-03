@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/it/capelli/heat-protection/"
+url: "/it/capelli/protezione-calore/"
 
 seo_title: "Protezione Calore Capelli | Prodotti Termoprotettori"
 intro_title: "🔥 Protezione Calore per Capelli Sani e Splendenti"

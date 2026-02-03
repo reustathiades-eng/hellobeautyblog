@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/pl/makijaz/eyeshadow/"
+url: "/pl/makijaz/cienie-do-powiek/"
 
 seo_title: "Cienie do powiek - Profesjonalny makijaż oczu | Sklep"
 intro_title: "✨ Cienie do powiek - Stwórz idealny makijaż oczu"

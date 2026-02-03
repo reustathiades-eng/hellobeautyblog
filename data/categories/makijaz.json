@@ -793,27 +793,27 @@
           {
             "name": "Podkład",
             "emoji": "🧴",
-            "url": "/pl/makijaz/foundation/"
+            "url": "/pl/makijaz/podklad/"
           },
           {
             "name": "Korektor",
             "emoji": "✨",
-            "url": "/pl/makijaz/concealer/"
+            "url": "/pl/makijaz/korektor/"
           },
           {
             "name": "Róż",
             "emoji": "🌸",
-            "url": "/pl/makijaz/blush/"
+            "url": "/pl/makijaz/roz/"
           },
           {
             "name": "Rozświetlacz",
             "emoji": "💎",
-            "url": "/pl/makijaz/highlighter/"
+            "url": "/pl/makijaz/rozswietlacz/"
           },
           {
             "name": "Puder",
             "emoji": "🪶",
-            "url": "/pl/makijaz/powder/"
+            "url": "/pl/makijaz/puder/"
           }
         ]
       },
@@ -823,7 +823,7 @@
           {
             "name": "Tusz do rzęs",
             "emoji": "👁️",
-            "url": "/pl/makijaz/mascara/"
+            "url": "/pl/makijaz/tusz-do-rzes/"
           },
           {
             "name": "Eyeliner",
@@ -833,12 +833,12 @@
           {
             "name": "Cień do powiek",
             "emoji": "🎨",
-            "url": "/pl/makijaz/eyeshadow/"
+            "url": "/pl/makijaz/cienie-do-powiek/"
           },
           {
             "name": "Brwi",
             "emoji": "🖌️",
-            "url": "/pl/makijaz/brows/"
+            "url": "/pl/makijaz/brwi/"
           }
         ]
       },
@@ -848,17 +848,17 @@
           {
             "name": "Szminka",
             "emoji": "💄",
-            "url": "/pl/makijaz/lipstick/"
+            "url": "/pl/makijaz/pomadka/"
           },
           {
             "name": "Błyszczyk",
             "emoji": "✨",
-            "url": "/pl/makijaz/lip-gloss/"
+            "url": "/pl/makijaz/polyjsk-do-ust/"
           },
           {
             "name": "Konturówka",
             "emoji": "📝",
-            "url": "/pl/makijaz/lip-liner/"
+            "url": "/pl/makijaz/konturowka-do-ust/"
           }
         ]
       },
@@ -868,12 +868,12 @@
           {
             "name": "Lakier do paznokci",
             "emoji": "💅",
-            "url": "/pl/makijaz/nail-polish/"
+            "url": "/pl/makijaz/lakier-do-paznokci/"
           },
           {
             "name": "Pielęgnacja paznokci",
             "emoji": "🌿",
-            "url": "/pl/makijaz/nails/"
+            "url": "/pl/makijaz/paznokcie/"
           }
         ]
       }

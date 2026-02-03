@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/it/skincare/brightening/"
+url: "/it/skincare/illuminante/"
 
 seo_title: "Prodotti Illuminanti Viso - Schiarire Macchie e Uniformare"
 intro_title: "✨ Prodotti Illuminanti per il Viso"

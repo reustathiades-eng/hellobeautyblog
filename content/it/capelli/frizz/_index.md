@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/it/capelli/frizz/"
+url: "/it/capelli/effetto-crespo/"
 
 seo_title: "Prodotti Anti-Crespo | Trattamenti per Capelli Crespi"
 intro_title: "🌟 Prodotti Anti-Crespo per Capelli Perfetti"

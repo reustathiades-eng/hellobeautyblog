@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/ar/skincare/firmness/"
+url: "/ar/skincare/shadd/"
 
 seo_title: "منتجات شد البشرة وتحسين المرونة | عناية متخصصة للوجه"
 intro_title: "منتجات شد البشرة وتحسين المرونة 🌟"

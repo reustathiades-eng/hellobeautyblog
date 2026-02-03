@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/ja/makeup/bronzer/"
+url: "/ja/makeup/buronzaa/"
 
 seo_title: "ブロンザー・日焼け風メイク｜自然な小麦色肌を演出するコスメ通販"
 intro_title: "🌞 ブロンザー - 自然な日焼け風メイクで健康的な肌色を演出"

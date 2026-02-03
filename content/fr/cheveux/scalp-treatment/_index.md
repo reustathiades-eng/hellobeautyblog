@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/fr/cheveux/scalp-treatment/"
+url: "/fr/cheveux/soin-cuir-chevelu/"
 
 seo_title: "Soins du Cuir Chevelu - Traitements Professionnels"
 intro_title: "🌿 Soins du Cuir Chevelu : Révélez la Beauté de vos Cheveux"

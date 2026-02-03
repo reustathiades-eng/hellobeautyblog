@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/hi/skincare/normal/"
+url: "/hi/skincare/samanya/"
 
 seo_title: "सामान्य त्वचा के लिए स्किनकेयर उत्पाद | Normal Skin Care"
 intro_title: "✨ सामान्य त्वचा के लिए स्किनकेयर गाइड"

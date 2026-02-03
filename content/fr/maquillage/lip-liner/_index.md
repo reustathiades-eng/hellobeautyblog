@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/fr/maquillage/lip-liner/"
+url: "/fr/maquillage/crayon-levres/"
 
 seo_title: "Crayon Contour des Lèvres | Lip Liner Précision Longue Tenue"
 intro_title: "💋 Crayon Contour des Lèvres - Définition Parfaite"

@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/es/maquillaje/concealer/"
+url: "/es/maquillaje/corrector/"
 
 seo_title: "Correctores de Maquillaje | Cubre Ojeras y Imperfecciones"
 intro_title: "Correctores de Maquillaje ✨"

@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/ar/haircare/styling-cream/"
+url: "/ar/haircare/kreem-tasfeef/"
 
 seo_title: "كريمات تصفيف الشعر - منتجات عناية وتصفيف احترافية"
 intro_title: "كريمات تصفيف الشعر ✨"

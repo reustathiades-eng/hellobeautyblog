@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/de/hautpflege/mask/"
+url: "/de/hautpflege/maske/"
 
 seo_title: "Gesichtsmasken für alle Hauttypen - Premium Skincare"
 intro_title: "Gesichtsmasken 🎭 - Intensive Pflege für strahlende Haut"

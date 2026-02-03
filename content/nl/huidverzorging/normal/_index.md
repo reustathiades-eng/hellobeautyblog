@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/nl/huidverzorging/normal/"
+url: "/nl/huidverzorging/normale-huid/"
 
 seo_title: "Verzorging Normale Huid | Beste Producten & Tips"
 intro_title: "Verzorging voor de Normale Huid ✨"

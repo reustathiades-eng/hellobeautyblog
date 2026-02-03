@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/ar/skincare/cleanser/"
+url: "/ar/skincare/ghassul/"
 
 seo_title: "غسول الوجه والبشرة - منتجات تنظيف طبيعية وفعالة"
 intro_title: "🧴 غسول الوجه - تنظيف مثالي لبشرة نضرة وصحية"

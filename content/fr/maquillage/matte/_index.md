@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/fr/maquillage/matte/"
+url: "/fr/maquillage/mat/"
 
 seo_title: "Maquillage Effet Mat - Finitions Mates pour un Look Parfait"
 intro_title: "Maquillage Effet Mat : L'Art de la Finition Parfaite ✨"

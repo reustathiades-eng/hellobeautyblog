@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/de/hautpflege/toner/"
+url: "/de/hautpflege/gesichtswasser/"
 
 seo_title: "Gesichtswasser & Toner online kaufen | Premium Hautpflege"
 intro_title: "🌿 Gesichtswasser & Toner für strahlende Haut"

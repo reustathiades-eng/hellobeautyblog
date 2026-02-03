@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/ja/makeup/lip-gloss/"
+url: "/ja/makeup/ripugurosu/"
 
 seo_title: "リップグロス通販｜人気ブランドから選ぶツヤ感リップコスメ"
 intro_title: "✨ リップグロス - 美しいツヤ感で魅力的な唇を演出"

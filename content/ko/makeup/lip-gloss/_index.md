@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/ko/makeup/lip-gloss/"
+url: "/ko/makeup/lib-geu-ros/"
 
 seo_title: "립글로스 추천 | 윤기나는 입술 연출 필수 아이템 - 뷰티샵"
 intro_title: "💋 립글로스로 완성하는 윤기나는 매력적인 입술"

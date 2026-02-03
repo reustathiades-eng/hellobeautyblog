@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/zh/makeup/contour/"
+url: "/zh/makeup/xiuying/"
 
 seo_title: "修容产品大全 - 专业修容粉/膏/棒，打造立体小脸 | 美妆商城"
 intro_title: "✨ 修容产品 - 雕塑完美轮廓"

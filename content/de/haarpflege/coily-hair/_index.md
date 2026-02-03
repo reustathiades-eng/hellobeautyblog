@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/de/haarpflege/coily-hair/"
+url: "/de/haarpflege/krauses-haar/"
 
 seo_title: "Lockige Haare pflegen - Tipps & Produkte für Coily Hair"
 intro_title: "Lockige Haare: Die ultimative Pflege für Coily Hair 🌀"

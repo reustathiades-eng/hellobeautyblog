@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/ja/haircare/thinning/"
+url: "/ja/haircare/usugesasu/"
 
 seo_title: "髪の薄毛対策｜効果的なヘアケア方法とおすすめアイテム完全ガイド"
 intro_title: "💫 薄毛の悩みを解決するヘアケア完全ガイド"

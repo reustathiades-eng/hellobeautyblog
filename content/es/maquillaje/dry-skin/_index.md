@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/es/maquillaje/dry-skin/"
+url: "/es/maquillaje/piel-seca/"
 
 seo_title: "Maquillaje para Piel Seca - Productos y Tips | Guía 2024"
 intro_title: "Maquillaje para Piel Seca ✨ Guía Completa"

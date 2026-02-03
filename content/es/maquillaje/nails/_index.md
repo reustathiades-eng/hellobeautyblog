@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/es/maquillaje/nails/"
+url: "/es/maquillaje/unas/"
 
 seo_title: "Maquillaje de Uñas - Guía Completa y Tendencias 2024"
 intro_title: "💅 Maquillaje de Uñas: Arte y Estilo en Tus Manos"

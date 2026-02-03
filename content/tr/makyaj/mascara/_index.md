@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/tr/makyaj/mascara/"
+url: "/tr/makyaj/maskara/"
 
 seo_title: "Mascara Çeşitleri ve En İyi Maskara Markaları | Online"
 intro_title: "💫 Mascara: Gözlerinizi Büyüleyici Kılan Sihirli Dokunuş"

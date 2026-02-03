@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/es/cuidado-piel/spot-treatment/"
+url: "/es/cuidado-piel/tratamiento-localizado/"
 
 seo_title: "Tratamientos Localizados para Granos y Manchas | Skincare"
 intro_title: "Tratamientos Localizados ✨ Soluciones Específicas"

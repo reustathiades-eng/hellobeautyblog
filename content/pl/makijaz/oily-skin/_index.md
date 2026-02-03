@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/pl/makijaz/oily-skin/"
+url: "/pl/makijaz/tlusta-skora/"
 
 seo_title: "Makijaż dla cery tłustej - kosmetyki matujące | Sklep"
 intro_title: "Makijaż dla cery tłustej ✨"

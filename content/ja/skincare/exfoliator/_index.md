@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/ja/skincare/exfoliator/"
+url: "/ja/skincare/pikuringu/"
 
 seo_title: "角質ケア・ピーリング化粧品｜おすすめエクスフォリエーター比較【2024年最新】"
 intro_title: "✨ 角質ケア・エクスフォリエーター"

@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/fr/maquillage/lip-balm/"
+url: "/fr/maquillage/baume-levres/"
 
 seo_title: "Baume à Lèvres - Soins et Protection pour Lèvres Douces"
 intro_title: "💋 Baume à Lèvres : Hydratation et Protection Parfaites"

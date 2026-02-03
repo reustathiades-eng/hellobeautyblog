@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/de/make-up/eye-primer/"
+url: "/de/make-up/lidschatten-base/"
 
 seo_title: "Eye Primer kaufen - Langanhaltende Lidschatten Base"
 intro_title: "Eye Primer 👁️ - Perfekte Base für langanhaltenden Lidschatten"

@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/zh/makeup/primer/"
+url: "/zh/makeup/diben/"
 
 seo_title: "妆前乳推荐 - 专业底妆打底产品选购指南 | 美妆护肤"
 intro_title: "💄 妆前乳 - 完美底妆的第一步"

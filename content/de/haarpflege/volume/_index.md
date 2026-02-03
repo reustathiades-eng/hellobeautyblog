@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/de/haarpflege/volume/"
+url: "/de/haarpflege/volumen/"
 
 seo_title: "Volumen Haarpflege: Produkte für mehr Fülle & Schwung"
 intro_title: "Volumen Haarpflege 💫 Für kraftvolles, fülliges Haar"

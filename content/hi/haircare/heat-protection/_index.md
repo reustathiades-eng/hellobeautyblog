@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/hi/haircare/heat-protection/"
+url: "/hi/haircare/garmi-suraksha/"
 
 seo_title: "हीट प्रोटेक्शन हेयर प्रोडक्ट्स | बेस्ट थर्मल प्रोटेक्शन स्प्रे"
 intro_title: "🔥 हीट प्रोटेक्शन हेयर प्रोडक्ट्स - बालों को गर्मी से बचाएं"

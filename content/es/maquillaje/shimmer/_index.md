@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/es/maquillaje/shimmer/"
+url: "/es/maquillaje/nacarado/"
 
 seo_title: "Maquillaje con Acabado Shimmer - Brillo Sutil y Elegante"
 intro_title: "Maquillaje con Acabado Shimmer ✨"

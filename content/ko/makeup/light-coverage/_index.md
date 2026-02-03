@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/ko/makeup/light-coverage/"
+url: "/ko/makeup/ra-i-teu-keo-beo-riji/"
 
 seo_title: "라이트 커버리지 메이크업 제품 추천 | 자연스러운 베이스 메이크업"
 intro_title: "라이트 커버리지 메이크업 ✨ 자연스러운 아름다움"

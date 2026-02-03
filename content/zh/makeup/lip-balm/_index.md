@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/zh/makeup/lip-balm/"
+url: "/zh/makeup/runchangao/"
 
 seo_title: "润唇膏大全 - 滋润保湿护唇产品选购指南 | 美妆护肤专区"
 intro_title: "💋 润唇膏 - 呵护双唇，展现迷人魅力"

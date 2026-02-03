@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/it/capelli/dandruff/"
+url: "/it/capelli/forfora/"
 
 seo_title: "Prodotti Anti-Forfora: Shampoo e Trattamenti Efficaci"
 intro_title: "Trattamenti Anti-Forfora 🌿 Sconfiggi la Forfora Definitivamente"

@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/ja/skincare/brightening/"
+url: "/ja/skincare/kousai/"
 
 seo_title: "美白・ブライトニング化粧品｜透明感のある肌へ導くスキンケア商品一覧"
 intro_title: "✨ 美白・ブライトニングケア"

@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/de/hautpflege/wrinkles/"
+url: "/de/hautpflege/falten/"
 
 seo_title: "Anti-Falten Pflege | Wirksame Produkte gegen Falten"
 intro_title: "Anti-Falten Pflege 🌟 Wirksame Lösungen für glatte Haut"

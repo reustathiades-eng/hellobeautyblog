@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"
 translationKey: "makeup-fenty-beauty"
-url: "/es/maquillaje/fenty-beauty/"
+url: "/es/maquillaje/fenty/"
 
 seo_title: "Fenty Beauty: Maquillaje Inclusivo de Rihanna | Comprar Online"
 intro_title: "Fenty Beauty 💎 La Revolución del Maquillaje Inclusivo"

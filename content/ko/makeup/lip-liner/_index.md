@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/ko/makeup/lip-liner/"
+url: "/ko/makeup/lib-lai-neo/"
 
 seo_title: "립라이너 추천 | 최고의 립라이너 브랜드 모음 - 완벽한 입술 라인 연출"
 intro_title: "💋 립라이너 - 완벽한 입술 라인의 시작"

@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/ko/haircare/shampoo/"
+url: "/ko/haircare/syam-pu/"
 
 seo_title: "샴푸 추천 | 모발타입별 프리미엄 샴푸 브랜드 모음"
 intro_title: "🧴 프리미엄 샴푸 컬렉션"

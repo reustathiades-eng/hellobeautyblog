@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/pl/pielegnacja/brightening/"
+url: "/pl/pielegnacja/rozjasniajace/"
 
 seo_title: "Kosmetyki Rozjaśniające - Pielęgnacja Przeciw Przebarwieniom"
 intro_title: "Kosmetyki Rozjaśniające ✨ - Skuteczna Walka z Przebarwieniami"

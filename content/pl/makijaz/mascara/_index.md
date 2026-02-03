@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/pl/makijaz/mascara/"
+url: "/pl/makijaz/tusz-do-rzes/"
 
 seo_title: "Tusz do rzęs - najlepsze tusze do makijażu oczu online"
 intro_title: "Tusz do rzęs 👁️ Idealny makijaż oczu"

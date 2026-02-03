@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/fr/maquillage/lips/"
+url: "/fr/maquillage/levres/"
 
 seo_title: "Maquillage des Lèvres - Rouge à Lèvres & Gloss | Guide"
 intro_title: "💋 Maquillage des Lèvres : Sublimez Votre Sourire"

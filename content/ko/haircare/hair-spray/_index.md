@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/ko/haircare/hair-spray/"
+url: "/ko/haircare/hea-seu-peu-lei/"
 
 seo_title: "헤어스프레이 추천 | 볼륨 & 고정력 최고의 헤어스프레이 모음집"
 intro_title: "💫 완벽한 스타일링을 위한 헤어스프레이"

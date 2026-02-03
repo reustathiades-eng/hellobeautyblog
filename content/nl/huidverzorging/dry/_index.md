@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/nl/huidverzorging/dry/"
+url: "/nl/huidverzorging/droge-huid/"
 
 seo_title: "Droge Huid Verzorging | Hydraterende Producten | BeautyShop"
 intro_title: "Verzorging voor Droge Huid 💧"

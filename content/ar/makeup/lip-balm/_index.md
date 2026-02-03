@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/ar/makeup/lip-balm/"
+url: "/ar/makeup/murtab-al-shafayf/"
 
 seo_title: "مرطب الشفاه - أفضل أنواع مرطبات الشفاه الطبيعية والملونة"
 intro_title: "💄 مرطب الشفاه - العناية المثالية لشفاه ناعمة ومشرقة"

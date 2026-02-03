@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/zh/makeup/shimmer/"
+url: "/zh/makeup/shanshuo/"
 
 seo_title: "珠光妆容产品大全 - 闪亮妆效完美打造 | 美妆专业指南"
 intro_title: "✨ 珠光妆容完美指南 - 打造迷人闪亮妆效"

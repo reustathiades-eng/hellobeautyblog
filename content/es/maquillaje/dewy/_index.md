@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/es/maquillaje/dewy/"
+url: "/es/maquillaje/luminoso/"
 
 seo_title: "Maquillaje Dewy: Base y Productos para Piel Luminosa"
 intro_title: "Maquillaje Dewy ✨ Consigue una Piel Luminosa y Natural"

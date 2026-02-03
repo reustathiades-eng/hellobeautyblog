@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/ko/makeup/satin/"
+url: "/ko/makeup/sa-tin/"
 
 seo_title: "새틴 피니시 메이크업 | 고급스러운 실크 질감 화장품 추천"
 intro_title: "새틴 피니시 메이크업 ✨ 고급스러운 실크 질감의 완벽한 마무리"

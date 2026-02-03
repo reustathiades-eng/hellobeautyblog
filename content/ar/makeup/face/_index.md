@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/ar/makeup/face/"
+url: "/ar/makeup/wajh/"
 
 seo_title: "مكياج الوجه - منتجات تجميل الوجه الأساسية | دليل شامل"
 intro_title: "🎨 مكياج الوجه - أساسيات الجمال المثالي"

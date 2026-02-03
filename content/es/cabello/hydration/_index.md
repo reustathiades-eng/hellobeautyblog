@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/es/cabello/hydration/"
+url: "/es/cabello/hidratacion/"
 
 seo_title: "Hidratación Capilar: Productos y Consejos para Cabello Seco"
 intro_title: "💧 Hidratación Capilar: La Clave para un Cabello Sano y Radiante"

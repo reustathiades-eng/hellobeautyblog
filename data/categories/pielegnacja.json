@@ -828,27 +828,27 @@
           {
             "name": "Skóra Tłusta",
             "emoji": "✨",
-            "url": "/pl/pielegnacja/oily/"
+            "url": "/pl/pielegnacja/tlusta/"
           },
           {
             "name": "Skóra Sucha",
             "emoji": "💧",
-            "url": "/pl/pielegnacja/dry/"
+            "url": "/pl/pielegnacja/sucha/"
           },
           {
             "name": "Skóra Mieszana",
             "emoji": "🌟",
-            "url": "/pl/pielegnacja/combination/"
+            "url": "/pl/pielegnacja/mieszana/"
           },
           {
             "name": "Skóra Wrażliwa",
             "emoji": "🌸",
-            "url": "/pl/pielegnacja/sensitive/"
+            "url": "/pl/pielegnacja/wrazliwa/"
           },
           {
             "name": "Skóra Normalna",
             "emoji": "🍃",
-            "url": "/pl/pielegnacja/normal/"
+            "url": "/pl/pielegnacja/normalna/"
           }
         ]
       },
@@ -858,12 +858,12 @@
           {
             "name": "Oczyszczanie",
             "emoji": "🧼",
-            "url": "/pl/pielegnacja/cleanser/"
+            "url": "/pl/pielegnacja/zel-do-mycia/"
           },
           {
             "name": "Tonik",
             "emoji": "💫",
-            "url": "/pl/pielegnacja/toner/"
+            "url": "/pl/pielegnacja/tonik/"
           },
           {
             "name": "Serum",
@@ -873,17 +873,17 @@
           {
             "name": "Krem Nawilżający",
             "emoji": "🌊",
-            "url": "/pl/pielegnacja/moisturizer/"
+            "url": "/pl/pielegnacja/krem-nawilzajacy/"
           },
           {
             "name": "Filtry UV",
             "emoji": "☀️",
-            "url": "/pl/pielegnacja/sunscreen/"
+            "url": "/pl/pielegnacja/krem-z-filtrem/"
           },
           {
             "name": "Maski",
             "emoji": "🎭",
-            "url": "/pl/pielegnacja/mask/"
+            "url": "/pl/pielegnacja/maska/"
           }
         ]
       },
@@ -893,27 +893,27 @@
           {
             "name": "Anti-Aging",
             "emoji": "⏰",
-            "url": "/pl/pielegnacja/anti-aging/"
+            "url": "/pl/pielegnacja/przeciwstarzeniowe/"
           },
           {
             "name": "Trądzik",
             "emoji": "🎯",
-            "url": "/pl/pielegnacja/acne/"
+            "url": "/pl/pielegnacja/tradzik/"
           },
           {
             "name": "Nawilżenie",
             "emoji": "💧",
-            "url": "/pl/pielegnacja/hydration/"
+            "url": "/pl/pielegnacja/nawilzanie/"
           },
           {
             "name": "Rozświetlenie",
             "emoji": "✨",
-            "url": "/pl/pielegnacja/brightening/"
+            "url": "/pl/pielegnacja/rozjasniajace/"
           },
           {
             "name": "Pory",
             "emoji": "🔍",
-            "url": "/pl/pielegnacja/pores/"
+            "url": "/pl/pielegnacja/pory/"
           }
         ]
       }

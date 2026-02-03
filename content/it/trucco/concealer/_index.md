@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/it/trucco/concealer/"
+url: "/it/trucco/correttore/"
 
 seo_title: "Correttori Makeup: Scopri i Migliori per Viso Perfetto"
 intro_title: "✨ Correttori Makeup: La Guida Completa per un Viso Impeccabile"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/ja/haircare/natural-hair/"
+url: "/ja/haircare/shizenhea/"
 
 seo_title: "ナチュラルヘア向けヘアケア｜自然な髪質のお手入れガイド"
 intro_title: "ナチュラルヘアケア完全ガイド 🌿"

@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/nl/haarverzorging/split-ends/"
+url: "/nl/haarverzorging/gespleten-punten/"
 
 seo_title: "Haarsplitsen Verzorgen en Voorkomen | Haarproducten"
 intro_title: "Haarsplitsen ✂️ Voorkomen en Verzorgen"

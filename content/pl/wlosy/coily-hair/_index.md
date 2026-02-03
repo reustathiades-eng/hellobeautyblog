@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/pl/wlosy/coily-hair/"
+url: "/pl/wlosy/wlosy-krecone/"
 
 seo_title: "Pielęgnacja Włosów Spiralnych | Kosmetyki do Włosów 4A-4C"
 intro_title: "Pielęgnacja Włosów Spiralnych 🌀"

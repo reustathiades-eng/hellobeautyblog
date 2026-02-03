@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/ja/haircare/dandruff/"
+url: "/ja/haircare/fuke/"
 
 seo_title: "フケ対策・頭皮ケア｜原因から改善方法まで専門家が解説"
 intro_title: "フケ対策完全ガイド 🌿 原因から解決法まで"

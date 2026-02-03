@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/tr/sac-bakimi/thick-hair/"
+url: "/tr/sac-bakimi/kalin-sac/"
 
 seo_title: "Kalın Saç Bakımı: En İyi Ürünler ve Bakım Rutini | 2024"
 intro_title: "💫 Kalın Saçlar İçin Özel Bakım Rehberi"

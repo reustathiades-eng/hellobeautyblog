@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/ko/makeup/medium-coverage/"
+url: "/ko/makeup/mi-di-eom-keo-beo-riji/"
 
 seo_title: "미디엄 커버리지 메이크업 추천 | 자연스러운 베이스 메이크업 완성법"
 intro_title: "미디엄 커버리지 메이크업 💫 자연스럽고 완벽한 베이스 완성"

@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/pl/wlosy/shine/"
+url: "/pl/wlosy/polysm/"
 
 seo_title: "Kosmetyki do Nabłyszczania Włosów - Naturalne Produkty"
 intro_title: "Kosmetyki do Nabłyszczania Włosów ✨"

@@ -501,17 +501,17 @@
           {
             "name": "Fijn Haar",
             "emoji": "🪶",
-            "url": "/nl/haarverzorging/fine-hair/"
+            "url": "/nl/haarverzorging/fijn-haar/"
           },
           {
             "name": "Dik Haar",
             "emoji": "💪",
-            "url": "/nl/haarverzorging/thick-hair/"
+            "url": "/nl/haarverzorging/dik-haar/"
           },
           {
             "name": "Krullend Haar",
             "emoji": "🌀",
-            "url": "/nl/haarverzorging/curly-hair/"
+            "url": "/nl/haarverzorging/krullend-haar/"
           },
           {
             "name": "Steil Haar",
@@ -521,7 +521,7 @@
           {
             "name": "Gekleurd Haar",
             "emoji": "🎨",
-            "url": "/nl/haarverzorging/color-treated/"
+            "url": "/nl/haarverzorging/gekleurd-haar/"
           }
         ]
       },
@@ -536,22 +536,22 @@
           {
             "name": "Herstel",
             "emoji": "🔧",
-            "url": "/nl/haarverzorging/repair/"
+            "url": "/nl/haarverzorging/herstel/"
           },
           {
             "name": "Hydratatie",
             "emoji": "💧",
-            "url": "/nl/haarverzorging/hydration/"
+            "url": "/nl/haarverzorging/hydratatie/"
           },
           {
             "name": "Roos",
             "emoji": "❄️",
-            "url": "/nl/haarverzorging/dandruff/"
+            "url": "/nl/haarverzorging/roos/"
           },
           {
             "name": "Kleurbescherming",
             "emoji": "🛡️",
-            "url": "/nl/haarverzorging/color-protection/"
+            "url": "/nl/haarverzorging/kleurbescherming/"
           }
         ]
       }

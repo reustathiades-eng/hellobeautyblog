@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/de/haarpflege/split-ends/"
+url: "/de/haarpflege/spliss/"
 
 seo_title: "Spliss behandeln & vorbeugen - Tipps für gesunde Spitzen"
 intro_title: "Spliss bekämpfen: Gesunde Haarspitzen für jeden Haartyp ✂️"

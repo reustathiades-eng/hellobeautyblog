@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/ja/skincare/acne/"
+url: "/ja/skincare/nikibi/"
 
 seo_title: "ニキビケア化粧品・スキンケア商品｜効果的な肌荒れ対策アイテム一覧"
 intro_title: "🌟 ニキビケア・肌荒れ対策スキンケア"

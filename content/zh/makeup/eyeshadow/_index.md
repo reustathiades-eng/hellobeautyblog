@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/zh/makeup/eyeshadow/"
+url: "/zh/makeup/yanying/"
 
 seo_title: "眼影化妆品大全 - 专业眼影盘、单色眼影推荐 | 美妆护肤品牌官网"
 intro_title: "💫 眼影 - 打造迷人眼妆的必备单品"

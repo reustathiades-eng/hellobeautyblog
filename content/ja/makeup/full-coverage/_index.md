@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/ja/makeup/full-coverage/"
+url: "/ja/makeup/furu-kabareji/"
 
 seo_title: "フルカバレッジメイク完全ガイド｜完璧肌を作る方法とおすすめアイテム"
 intro_title: "💄 フルカバレッジメイクで完璧な美肌を手に入れよう"

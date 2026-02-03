@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/de/make-up/brows/"
+url: "/de/make-up/augenbrauen/"
 
 seo_title: "Augenbrauen Make-up online kaufen - Perfekte Brauen"
 intro_title: "Augenbrauen Make-up 🤎 Für perfekt definierte Brauen"

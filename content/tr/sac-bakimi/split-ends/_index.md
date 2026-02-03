@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/tr/sac-bakimi/split-ends/"
+url: "/tr/sac-bakimi/ciatalak-uc/"
 
 seo_title: "Saç Ucu Kırılması - Önleme ve Onarım Rehberi | Saç Bakımı"
 intro_title: "Saç Ucu Kırılması: Sebepleri ve Çözümleri ✂️"

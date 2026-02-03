@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/zh/makeup/lipstick/"
+url: "/zh/makeup/kouchun/"
 
 seo_title: "口红唇膏大全 - 专业彩妆品牌正品口红在线购买 | 美妆商城"
 intro_title: "💄 口红唇膏 - 打造完美双唇的彩妆必备"

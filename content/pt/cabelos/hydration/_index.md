@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/pt/cabelos/hydration/"
+url: "/pt/cabelos/hidratacao/"
 
 seo_title: "Hidratação Capilar: Produtos e Tratamentos para Cabelos"
 intro_title: "Hidratação Capilar 💧 Tratamentos para Cabelos Ressecados"

@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/it/capelli/curly-hair/"
+url: "/it/capelli/capelli-ricci/"
 
 seo_title: "Cura Capelli Ricci: Prodotti e Consigli per Ricci Perfetti"
 intro_title: "Capelli Ricci: La Guida Completa per la Cura Perfetta 🌀"

@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/de/haarpflege/repair/"
+url: "/de/haarpflege/reparatur/"
 
 seo_title: "Haarrepair ✨ Geschädigtes Haar reparieren | Pflegeprodukte"
 intro_title: "Haarreparatur ✨ Intensivpflege für geschädigtes Haar"

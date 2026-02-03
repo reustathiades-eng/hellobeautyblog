@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/tr/cilt-bakimi/redness/"
+url: "/tr/cilt-bakimi/kizariklik/"
 
 seo_title: "Cilt Kızarıklığı Giderme Ürünleri | Hassas Cilt Bakımı"
 intro_title: "🌸 Cilt Kızarıklığı ve Hassasiyet Bakımı"

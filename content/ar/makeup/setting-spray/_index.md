@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/ar/makeup/setting-spray/"
+url: "/ar/makeup/rakhl-tathbeet/"
 
 seo_title: "بخاخ تثبيت المكياج - أفضل الأنواع والأسعار | متجر التجميل"
 intro_title: "بخاخ تثبيت المكياج ✨ - للحصول على إطلالة مثالية تدوم طوال اليوم"

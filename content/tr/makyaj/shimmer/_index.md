@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/tr/makyaj/shimmer/"
+url: "/tr/makyaj/simmer/"
 
 seo_title: "Shimmer Makyaj Ürünleri | Işıltılı Finish Kozmetik"
 intro_title: "✨ Shimmer Finish Makyaj Ürünleri"

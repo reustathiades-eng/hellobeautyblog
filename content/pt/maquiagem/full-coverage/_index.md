@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/pt/maquiagem/full-coverage/"
+url: "/pt/maquiagem/cobertura-total/"
 
 seo_title: "Maquiagem Full Coverage - Base e Produtos Alta Cobertura"
 intro_title: "Maquiagem Full Coverage: Cobertura Total e Perfeita ✨"

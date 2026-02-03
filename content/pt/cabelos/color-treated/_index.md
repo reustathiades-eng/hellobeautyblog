@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/pt/cabelos/color-treated/"
+url: "/pt/cabelos/cabelo-colorido/"
 
 seo_title: "Cuidados para Cabelo Colorido - Produtos e Dicas"
 intro_title: "Cuidados Especiais para Cabelo Colorido 🌈"

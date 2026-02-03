@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/fr/soins/dark-spots/"
+url: "/fr/soins/taches-brunes/"
 
 seo_title: "Taches Brunes & Pigmentaires : Soins Anti-Taches Efficaces"
 intro_title: "✨ Taches Brunes et Hyperpigmentation : Solutions Expertes"

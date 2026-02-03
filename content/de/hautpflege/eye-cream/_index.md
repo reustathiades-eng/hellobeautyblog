@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/de/hautpflege/eye-cream/"
+url: "/de/hautpflege/augencreme/"
 
 seo_title: "Augencreme kaufen - Premium Augenpflege für jeden Hauttyp"
 intro_title: "Augencreme - Intensive Pflege für strahlende Augen 👁️✨"

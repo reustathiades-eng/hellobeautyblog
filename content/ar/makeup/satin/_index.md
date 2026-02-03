@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/ar/makeup/satin/"
+url: "/ar/makeup/hareeree/"
 
 seo_title: "مكياج ساتان - منتجات نهائية ساتان للحصول على إطلالة مثالية"
 intro_title: "مكياج الساتان ✨ - النعومة والأناقة في إطلالة واحدة"

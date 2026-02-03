@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/tr/sac-bakimi/frizz/"
+url: "/tr/sac-bakimi/elektriklenmis-sac/"
 
 seo_title: "Kabarık Saç Bakımı | Anti-Frizz Ürünleri ve Çözümler"
 intro_title: "Kabarık Saç Bakımı 💫"

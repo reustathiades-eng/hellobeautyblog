@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/ar/makeup/dewy/"
+url: "/ar/makeup/naadi/"
 
 seo_title: "مكياج ديوي طبيعي - أفضل منتجات الإطلالة المتوهجة الرطبة"
 intro_title: "مكياج ديوي: اكتشفي سر الإطلالة المتوهجة والرطبة ✨"

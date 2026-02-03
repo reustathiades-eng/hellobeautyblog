@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/es/cuidado-piel/brightening/"
+url: "/es/cuidado-piel/iluminador/"
 
 seo_title: "Productos Iluminadores para el Rostro | Tratamientos Anti-Manchas"
 intro_title: "✨ Tratamientos Iluminadores para una Piel Radiante"

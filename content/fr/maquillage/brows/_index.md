@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/fr/maquillage/brows/"
+url: "/fr/maquillage/sourcils/"
 
 seo_title: "Produits pour Sourcils - Crayons, Gels & Palettes Sourcils"
 intro_title: "Sourcils Parfaits ✨ - Tous nos Produits pour Sublimer vos Sourcils"

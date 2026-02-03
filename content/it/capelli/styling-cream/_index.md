@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/it/capelli/styling-cream/"
+url: "/it/capelli/crema-styling/"
 
 seo_title: "Creme Styling Capelli: Texture e Controllo Perfetto"
 intro_title: "Creme Styling per Capelli ✨"

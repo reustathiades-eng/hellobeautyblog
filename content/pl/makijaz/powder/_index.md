@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/pl/makijaz/powder/"
+url: "/pl/makijaz/puder/"
 
 seo_title: "Puder do twarzy - najlepsze pudry matujące i rozświetlające"
 intro_title: "✨ Puder do twarzy - idealny makeup na każdą okazję"

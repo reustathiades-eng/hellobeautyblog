@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/de/make-up/sensitive-skin/"
+url: "/de/make-up/empfindliche-haut/"
 
 seo_title: "Make-up für empfindliche Haut | Sanfte Kosmetik & Tipps"
 intro_title: "Make-up für empfindliche Haut 💕"

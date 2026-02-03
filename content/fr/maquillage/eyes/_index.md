@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/fr/maquillage/eyes/"
+url: "/fr/maquillage/yeux/"
 
 seo_title: "Maquillage des Yeux - Fards, Mascaras & Accessoires Beauté"
 intro_title: "Maquillage des Yeux 👁️ : Sublimez votre Regard"

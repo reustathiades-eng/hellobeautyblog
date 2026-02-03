@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/nl/haarverzorging/natural-hair/"
+url: "/nl/haarverzorging/natuurlijk-haar/"
 
 seo_title: "Natuurlijk Haar Verzorging | Tips & Producten 2024"
 intro_title: "Natuurlijk Haar Verzorging 🌿"

@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/hi/haircare/repair/"
+url: "/hi/haircare/sudhar/"
 
 seo_title: "बालों की मरम्मत के लिए बेस्ट हेयर रिपेयर प्रोडक्ट्स"
 intro_title: "हेयर रिपेयर - क्षतिग्रस्त बालों की संपूर्ण देखभाल 💫"

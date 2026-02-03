@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/tr/cilt-bakimi/brightening/"
+url: "/tr/cilt-bakimi/aydinlatici/"
 
 seo_title: "Aydınlatıcı Cilt Bakım Ürünleri | Leke Giderici Kremler"
 intro_title: "✨ Aydınlatıcı Cilt Bakım Ürünleri"

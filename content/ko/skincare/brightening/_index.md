@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/ko/skincare/brightening/"
+url: "/ko/skincare/mibaek/"
 
 seo_title: "브라이트닝 스킨케어 제품 추천 | 피부 톤업과 미백 케어 완벽 가이드"
 intro_title: "✨ 브라이트닝 스킨케어로 맑고 환한 피부 완성하기"

@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/fr/cheveux/thinning/"
+url: "/fr/cheveux/perte-cheveux/"
 
 seo_title: "Cheveux Clairsemés : Solutions & Traitements Efficaces"
 intro_title: "Cheveux Clairsemés : Retrouvez Volume et Densité 💪"

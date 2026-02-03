@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/de/hautpflege/exfoliator/"
+url: "/de/hautpflege/peeling/"
 
 seo_title: "Peeling & Exfoliator - Sanfte Hauterneuerung | Beauty Shop"
 intro_title: "Peeling & Exfoliator ✨ - Für strahlend reine Haut"

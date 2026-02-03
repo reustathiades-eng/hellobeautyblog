@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/ko/makeup/shimmer/"
+url: "/ko/makeup/si-meo/"
 
 seo_title: "시머 메이크업 제품 추천 | 글로우 하이라이터 & 아이섀도우 완벽 가이드"
 intro_title: "✨ 시머 메이크업으로 완성하는 글로우 룩"

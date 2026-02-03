@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/hi/haircare/natural-hair/"
+url: "/hi/haircare/prakritik-baal/"
 
 seo_title: "प्राकृतिक बालों की देखभाल - Natural Hair Care Tips in Hindi"
 intro_title: "प्राकृतिक बालों की संपूर्ण गाइड 🌿"

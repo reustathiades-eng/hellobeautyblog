@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/pt/maquiagem/eyeliner/"
+url: "/pt/maquiagem/delineador/"
 
 seo_title: "Delineador - Delineadores para Olhos | Maquiagem Premium"
 intro_title: "✨ Delineador: Defina Seu Olhar com Precisão"

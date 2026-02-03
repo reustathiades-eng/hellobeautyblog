@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/ko/makeup/sensitive-skin/"
+url: "/ko/makeup/min-gam-pibu/"
 
 seo_title: "민감성 피부 메이크업 추천 | 순한 화장품으로 안전하게"
 intro_title: "민감성 피부를 위한 메이크업 가이드 💕"

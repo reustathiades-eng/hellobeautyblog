@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/ja/skincare/mist/"
+url: "/ja/skincare/misuto/"
 
 seo_title: "フェイスミスト・スプレー化粧水｜保湿・ツヤ肌におすすめ美容ミスト"
 intro_title: "💧 フェイスミスト・スプレー化粧水"

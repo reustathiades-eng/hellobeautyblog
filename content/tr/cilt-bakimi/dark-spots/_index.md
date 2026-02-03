@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/tr/cilt-bakimi/dark-spots/"
+url: "/tr/cilt-bakimi/koyu-lekeler/"
 
 seo_title: "Cilt Lekesi Giderici Ürünler | Koyu Leke Karşıtı Bakım"
 intro_title: "✨ Cilt Lekesi ve Koyu Leke Bakımı"

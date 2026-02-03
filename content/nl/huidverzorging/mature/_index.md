@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/nl/huidverzorging/mature/"
+url: "/nl/huidverzorging/rijpe-huid/"
 
 seo_title: "Huidverzorging voor Rijpe Huid | Anti-Aging Producten"
 intro_title: "Huidverzorging voor Rijpe Huid ✨"

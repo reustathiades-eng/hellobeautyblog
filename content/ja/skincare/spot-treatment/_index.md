@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/ja/skincare/spot-treatment/"
+url: "/ja/skincare/bubunkea/"
 
 seo_title: "スポットケア・部分集中ケア化粧品 | ニキビ・シミ・毛穴対策アイテム"
 intro_title: "🎯 スポットケア・部分集中ケア化粧品"

@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/it/trucco/lip-balm/"
+url: "/it/trucco/balsamo-labbra/"
 
 seo_title: "Balsami per Labbra | I Migliori Burrocacao Online"
 intro_title: "💋 Balsami per Labbra - Cura e Idratazione Perfetta"

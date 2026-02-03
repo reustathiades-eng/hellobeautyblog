@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/zh/haircare/scalp-treatment/"
+url: "/zh/haircare/toupi-huli/"
 
 seo_title: "头皮护理产品｜专业头皮治疗护理用品｜改善头皮健康问题"
 intro_title: "🌿 头皮护理产品 - 专业头皮治疗解决方案"

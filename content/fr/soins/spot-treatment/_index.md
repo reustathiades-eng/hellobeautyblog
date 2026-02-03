@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/fr/soins/spot-treatment/"
+url: "/fr/soins/soin-localise/"
 
 seo_title: "Soins Anti-Imperfections : Traitements Ciblés Efficaces"
 intro_title: "🎯 Traitements Ciblés Anti-Imperfections"

@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/pl/wlosy/leave-in/"
+url: "/pl/wlosy/bez-splakaznia/"
 
 seo_title: "Odżywki bez spłukiwania - pielęgnacja włosów"
 intro_title: "Odżywki bez spłukiwania 💫 - najlepsze produkty do pielęgnacji włosów"

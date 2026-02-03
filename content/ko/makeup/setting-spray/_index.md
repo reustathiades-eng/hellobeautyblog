@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/ko/makeup/setting-spray/"
+url: "/ko/makeup/se-ting-seu-peu-lei/"
 
 seo_title: "세팅스프레이 추천 | 메이크업 고정 스프레이 베스트 제품"
 intro_title: "💧 세팅스프레이로 완벽한 메이크업 마무리"

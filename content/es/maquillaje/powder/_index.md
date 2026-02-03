@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/es/maquillaje/powder/"
+url: "/es/maquillaje/polvo/"
 
 seo_title: "Polvos de Maquillaje - Compactos y Sueltos | Tienda Online"
 intro_title: "Polvos de Maquillaje ✨"

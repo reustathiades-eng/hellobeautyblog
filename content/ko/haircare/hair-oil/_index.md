@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/ko/haircare/hair-oil/"
+url: "/ko/haircare/hea-oil/"
 
 seo_title: "헤어오일 추천 | 모발 영양 관리용 헤어 오일 모음집"
 intro_title: "✨ 헤어오일로 완성하는 윤기 넘치는 건강한 모발"

@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/tr/makyaj/dry-skin/"
+url: "/tr/makyaj/kuru-cilt/"
 
 seo_title: "Kuru Cilt Makyajı | Kuru Ciltler İçin En İyi Ürünler"
 intro_title: "Kuru Cilt İçin Makyaj Ürünleri 💧"

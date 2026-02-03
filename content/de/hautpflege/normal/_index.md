@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/de/hautpflege/normal/"
+url: "/de/hautpflege/normale-haut/"
 
 seo_title: "Normale Haut Pflege - Produkte & Tipps für ausgeglichene Haut"
 intro_title: "Pflege für normale Haut ✨"

@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/fr/soins/dark-circles/"
+url: "/fr/soins/cernes/"
 
 seo_title: "Cernes et Poches : Solutions Anti-Cernes Efficaces | BeautyShop"
 intro_title: "👁️ Soins Anti-Cernes : Éliminez les Cernes et Poches"

@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/ja/haircare/scalp-treatment/"
+url: "/ja/haircare/toupikea/"
 
 seo_title: "頭皮ケア用品｜スカルプトリートメント・頭皮美容液の通販サイト"
 intro_title: "🌿 頭皮ケア・スカルプトリートメント"

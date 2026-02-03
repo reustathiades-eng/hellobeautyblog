@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/ko/makeup/full-coverage/"
+url: "/ko/makeup/pul-keo-beo-riji/"
 
 seo_title: "풀커버리지 메이크업 제품 추천 | 완벽한 커버력으로 흠없는 피부 연출"
 intro_title: "풀커버리지 메이크업 💄 완벽한 커버력의 모든 것"

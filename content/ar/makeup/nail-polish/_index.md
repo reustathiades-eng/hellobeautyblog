@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/ar/makeup/nail-polish/"
+url: "/ar/makeup/ṭila-aẓafir/"
 
 seo_title: "طلاء أظافر - مجموعة ألوان وجودة عالية | متجر المكياج"
 intro_title: "💅 طلاء الأظافر - إطلالة مثالية لأظافرك"

@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/nl/haarverzorging/heat-protection/"
+url: "/nl/haarverzorging/hittebescherming/"
 
 seo_title: "Hittebescherming Haar | Bescherm je Haar tegen Warmte"
 intro_title: "🔥 Hittebescherming voor je Haar"

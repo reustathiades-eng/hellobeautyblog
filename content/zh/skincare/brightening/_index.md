@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/zh/skincare/brightening/"
+url: "/zh/skincare/liangliang/"
 
 seo_title: "美白护肤品推荐 | 肌肤亮白淡斑产品大全 - 专业护肤指南"
 intro_title: "✨ 美白亮肤护肤专区"

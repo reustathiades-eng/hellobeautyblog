@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/hi/makeup/oily-skin/"
+url: "/hi/makeup/chamikli-twacha/"
 
 seo_title: "तैलीय त्वचा के लिए मेकअप - Oily Skin Makeup Products"
 intro_title: "तैलीय त्वचा के लिए मेकअप 💄✨"

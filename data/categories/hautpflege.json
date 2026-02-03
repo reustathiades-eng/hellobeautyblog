@@ -243,27 +243,27 @@
           {
             "name": "Fettige Haut",
             "emoji": "✨",
-            "url": "/de/hautpflege/oily/"
+            "url": "/de/hautpflege/fettige-haut/"
           },
           {
             "name": "Trockene Haut",
             "emoji": "💧",
-            "url": "/de/hautpflege/dry/"
+            "url": "/de/hautpflege/trocken/"
           },
           {
             "name": "Mischhaut",
             "emoji": "⚖️",
-            "url": "/de/hautpflege/combination/"
+            "url": "/de/hautpflege/mischhaut/"
           },
           {
             "name": "Sensible Haut",
             "emoji": "🌸",
-            "url": "/de/hautpflege/sensitive/"
+            "url": "/de/hautpflege/empfindlich/"
           },
           {
             "name": "Normale Haut",
             "emoji": "🌟",
-            "url": "/de/hautpflege/normal/"
+            "url": "/de/hautpflege/normale-haut/"
           }
         ]
       },
@@ -273,12 +273,12 @@
           {
             "name": "Reinigung",
             "emoji": "🧼",
-            "url": "/de/hautpflege/cleanser/"
+            "url": "/de/hautpflege/reiniger/"
           },
           {
             "name": "Toner",
             "emoji": "💫",
-            "url": "/de/hautpflege/toner/"
+            "url": "/de/hautpflege/gesichtswasser/"
           },
           {
             "name": "Serum",
@@ -288,17 +288,17 @@
           {
             "name": "Feuchtigkeitspflege",
             "emoji": "🌊",
-            "url": "/de/hautpflege/moisturizer/"
+            "url": "/de/hautpflege/feuchtigkeitscreme/"
           },
           {
             "name": "Sonnenschutz",
             "emoji": "☀️",
-            "url": "/de/hautpflege/sunscreen/"
+            "url": "/de/hautpflege/sonnenschutz/"
           },
           {
             "name": "Masken",
             "emoji": "🎭",
-            "url": "/de/hautpflege/mask/"
+            "url": "/de/hautpflege/maske/"
           }
         ]
       },
@@ -313,22 +313,22 @@
           {
             "name": "Akne",
             "emoji": "🎯",
-            "url": "/de/hautpflege/acne/"
+            "url": "/de/hautpflege/akne/"
           },
           {
             "name": "Feuchtigkeit",
             "emoji": "💧",
-            "url": "/de/hautpflege/hydration/"
+            "url": "/de/hautpflege/feuchtigkeit/"
           },
           {
             "name": "Aufhellung",
             "emoji": "✨",
-            "url": "/de/hautpflege/brightening/"
+            "url": "/de/hautpflege/aufhellend/"
           },
           {
             "name": "Poren",
             "emoji": "🔍",
-            "url": "/de/hautpflege/pores/"
+            "url": "/de/hautpflege/poren/"
           }
         ]
       }

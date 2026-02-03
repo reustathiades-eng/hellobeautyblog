@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/hi/haircare/fine-hair/"
+url: "/hi/haircare/patale-baal/"
 
 seo_title: "बारीक बालों की देखभाल - पतले बालों के लिए बेस्ट हेयर केयर टिप्स"
 intro_title: "बारीक बालों की देखभाल 💫 पतले बालों को वॉल्यूम दें"

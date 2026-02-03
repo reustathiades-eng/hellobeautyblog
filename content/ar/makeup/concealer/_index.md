@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/ar/makeup/concealer/"
+url: "/ar/makeup/khafi/"
 
 seo_title: "كونسيلر - خافي العيوب للوجه | أفضل الأنواع والماركات"
 intro_title: "كونسيلر - خافي العيوب المثالي لإطلالة خالية من العيوب ✨"

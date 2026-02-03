@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/ar/haircare/hair-growth/"
+url: "/ar/haircare/namuuw-al-shaar/"
 
 seo_title: "منتجات تطويل الشعر وتحفيز نموه | العناية بالشعر"
 intro_title: "تطويل الشعر وتحفيز النمو 🌱"

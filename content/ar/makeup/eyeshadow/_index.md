@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/ar/makeup/eyeshadow/"
+url: "/ar/makeup/ẓill-al-ayn/"
 
 seo_title: "ظلال العيون - أجمل الألوان والدرجات | متجر المكياج"
 intro_title: "ظلال العيون ✨ - اكتشفي عالم الألوان الساحرة"

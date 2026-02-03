@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/de/hautpflege/redness/"
+url: "/de/hautpflege/roetungen/"
 
 seo_title: "Rötungen im Gesicht behandeln - Hautpflege gegen Rötungen"
 intro_title: "Hautpflege gegen Rötungen 🌸"

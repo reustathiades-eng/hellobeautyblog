@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/pl/pielegnacja/sunscreen/"
+url: "/pl/pielegnacja/krem-z-filtrem/"
 
 seo_title: "Kremy z Filtrem SPF - Najlepsze Kremy Przeciwsłoneczne"
 intro_title: "☀️ Kremy z Filtrem - Ochrona Przed Słońcem"

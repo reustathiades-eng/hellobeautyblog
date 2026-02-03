@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/hi/makeup/full-coverage/"
+url: "/hi/makeup/poora-coverage/"
 
 seo_title: "फुल कवरेज मेकअप प्रोडक्ट्स - बेस्ट फाउंडेशन और कंसीलर"
 intro_title: "फुल कवरेज मेकअप 💄 - परफेक्ट बेस के लिए"

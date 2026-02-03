@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/fr/cheveux/conditioner/"
+url: "/fr/cheveux/apres-shampoing/"
 
 seo_title: "Après-shampoings pour tous types de cheveux - Soins capillaires"
 intro_title: "Après-shampoings 💆‍♀️ Hydratation et Protection Capillaire"

@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/tr/sac-bakimi/fine-hair/"
+url: "/tr/sac-bakimi/ince-sac/"
 
 seo_title: "İnce Saç Bakımı - En İyi Ürünler ve Profesyonel Öneriler"
 intro_title: "İnce Saç Bakımı Rehberi ✨"

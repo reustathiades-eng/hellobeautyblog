@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/hi/haircare/hydration/"
+url: "/hi/haircare/namee/"
 
 seo_title: "बालों की हाइड्रेशन - सूखे बालों की देखभाल और उपचार"
 intro_title: "बालों की हाइड्रेशन 💧 - सूखे और बेजान बालों का समाधान"

@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/ja/haircare/shampoo/"
+url: "/ja/haircare/shampuu/"
 
 seo_title: "シャンプー通販 | 美髪ケア商品が豊富 | プロ仕様から市販まで"
 intro_title: "🧴 シャンプー - 美しい髪の基礎を築く必須アイテム"

@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/tr/makyaj/contour/"
+url: "/tr/makyaj/kontur/"
 
 seo_title: "Kontur Makyaj Ürünleri | En İyi Kontur Paletleri ve Fırçaları"
 intro_title: "✨ Kontur Makyaj Ürünleri - Yüz Hatlarını Belirginleştir"

@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/ar/haircare/fine-hair/"
+url: "/ar/haircare/shaar-naaim/"
 
 seo_title: "منتجات العناية بالشعر الخفيف - نصائح وحلول فعالة"
 intro_title: "العناية بالشعر الخفيف 💫"

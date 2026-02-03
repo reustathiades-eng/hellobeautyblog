@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/pt/cabelos/hair-oil/"
+url: "/pt/cabelos/oleo-capilar/"
 
 seo_title: "Óleo Capilar: Nutrição e Brilho para Todos os Tipos de Cabelo"
 intro_title: "✨ Óleo Capilar: O Segredo para Cabelos Saudáveis e Radiantes"

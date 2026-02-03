@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/ar/makeup/foundation/"
+url: "/ar/makeup/asas/"
 
 seo_title: "كريم الأساس - أفضل أنواع الفاونديشن للوجه | متجر المكياج"
 intro_title: "💄 كريم الأساس - الخطوة الأولى لإطلالة مثالية"

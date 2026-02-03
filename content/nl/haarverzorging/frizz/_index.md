@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/nl/haarverzorging/frizz/"
+url: "/nl/haarverzorging/pluizig-haar/"
 
 seo_title: "Anti-Frizz Producten | Krullend & Pluizig Haar Verzorging"
 intro_title: "Anti-Frizz Haarverzorging ✨ Glad & Gecontroleerd Haar"

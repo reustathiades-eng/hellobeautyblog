@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/fr/maquillage/medium-coverage/"
+url: "/fr/maquillage/couvrance-moyenne/"
 
 seo_title: "Maquillage Moyenne Couvrance : Fond de Teint & Correcteur"
 intro_title: "Maquillage Moyenne Couvrance ✨"

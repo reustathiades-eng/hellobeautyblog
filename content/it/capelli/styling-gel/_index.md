@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/it/capelli/styling-gel/"
+url: "/it/capelli/gel-styling/"
 
 seo_title: "Gel per Capelli Styling - Migliori Prodotti per Acconciature"
 intro_title: "💇‍♂️ Gel per Capelli: La Guida Completa ai Prodotti Styling"

@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/pt/cuidados-pele/moisturizer/"
+url: "/pt/cuidados-pele/hidratante/"
 
 seo_title: "Hidratantes Faciais: Os Melhores Produtos para Sua Pele"
 intro_title: "Hidratantes Faciais 💧 Os Essenciais para uma Pele Saudável"

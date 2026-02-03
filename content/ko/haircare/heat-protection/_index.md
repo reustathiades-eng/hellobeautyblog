@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/ko/haircare/heat-protection/"
+url: "/ko/haircare/yeol-boho/"
 
 seo_title: "열 보호 헤어 제품 | 드라이기 고데기 열손상 방지 헤어케어"
 intro_title: "🔥 열 보호 헤어 제품"

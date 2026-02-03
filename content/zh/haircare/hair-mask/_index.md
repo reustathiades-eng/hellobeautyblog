@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/zh/haircare/hair-mask/"
+url: "/zh/haircare/fa-mo/"
 
 seo_title: "发膜护发产品大全 | 深层滋养修护发质 | 专业护发品牌推荐"
 intro_title: "🌟 发膜 - 深层滋养秀发的护理专家"

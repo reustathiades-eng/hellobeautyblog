@@ -905,27 +905,27 @@
           {
             "name": "Fondöten",
             "emoji": "🤍",
-            "url": "/tr/makyaj/foundation/"
+            "url": "/tr/makyaj/fondoten/"
           },
           {
             "name": "Kapatıcı",
             "emoji": "✨",
-            "url": "/tr/makyaj/concealer/"
+            "url": "/tr/makyaj/kapatici/"
           },
           {
             "name": "Allık",
             "emoji": "🌸",
-            "url": "/tr/makyaj/blush/"
+            "url": "/tr/makyaj/allik/"
           },
           {
             "name": "Aydınlatıcı",
             "emoji": "💫",
-            "url": "/tr/makyaj/highlighter/"
+            "url": "/tr/makyaj/aydinlatici/"
           },
           {
             "name": "Pudra",
             "emoji": "🌟",
-            "url": "/tr/makyaj/powder/"
+            "url": "/tr/makyaj/pudra/"
           }
         ]
       },
@@ -935,22 +935,22 @@
           {
             "name": "Rimel",
             "emoji": "👁️",
-            "url": "/tr/makyaj/mascara/"
+            "url": "/tr/makyaj/maskara/"
           },
           {
             "name": "Eyeliner",
             "emoji": "👀",
-            "url": "/tr/makyaj/eyeliner/"
+            "url": "/tr/makyaj/goz-kalemi/"
           },
           {
             "name": "Göz Farı",
             "emoji": "🎨",
-            "url": "/tr/makyaj/eyeshadow/"
+            "url": "/tr/makyaj/far/"
           },
           {
             "name": "Kaş Ürünleri",
             "emoji": "😍",
-            "url": "/tr/makyaj/brows/"
+            "url": "/tr/makyaj/kas/"
           }
         ]
       },
@@ -960,17 +960,17 @@
           {
             "name": "Ruj",
             "emoji": "💋",
-            "url": "/tr/makyaj/lipstick/"
+            "url": "/tr/makyaj/ruj/"
           },
           {
             "name": "Dudak Parlatıcısı",
             "emoji": "💕",
-            "url": "/tr/makyaj/lip-gloss/"
+            "url": "/tr/makyaj/dudak-parlatici/"
           },
           {
             "name": "Dudak Kalemi",
             "emoji": "💄",
-            "url": "/tr/makyaj/lip-liner/"
+            "url": "/tr/makyaj/dudak-kalemi/"
           }
         ]
       },
@@ -980,12 +980,12 @@
           {
             "name": "Oje",
             "emoji": "💅",
-            "url": "/tr/makyaj/nail-polish/"
+            "url": "/tr/makyaj/oje/"
           },
           {
             "name": "Tırnak Bakım",
             "emoji": "✋",
-            "url": "/tr/makyaj/nails/"
+            "url": "/tr/makyaj/tirnaklar/"
           }
         ]
       }

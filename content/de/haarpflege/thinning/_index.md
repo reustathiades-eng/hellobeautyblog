@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/de/haarpflege/thinning/"
+url: "/de/haarpflege/duennes-haar/"
 
 seo_title: "Dünnes Haar stärken - Pflegeprodukte gegen Haarausfall"
 intro_title: "Dünnes Haar stärken & Volumen verleihen 💪"

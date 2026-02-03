@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/nl/huidverzorging/exfoliator/"
+url: "/nl/huidverzorging/exfoliant/"
 
 seo_title: "Exfoliator Kopen | Beste Scrubs & Peelings Online"
 intro_title: "Exfoliator: Voor een Stralende & Gladde Huid ✨"

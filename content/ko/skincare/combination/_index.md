@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/ko/skincare/combination/"
+url: "/ko/skincare/bokhab/"
 
 seo_title: "복합성 피부 스킨케어 제품 추천 | 유분과 건조함을 동시에 관리하는 화장품"
 intro_title: "복합성 피부 스킨케어 💧 T존과 U존을 동시에 케어하는 맞춤 화장품"

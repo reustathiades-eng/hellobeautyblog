@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/ja/haircare/scalp-health/"
+url: "/ja/haircare/toupikenkou/"
 
 seo_title: "頭皮ケア・頭皮の健康｜悩み別ヘアケア方法とおすすめアイテム"
 intro_title: "頭皮の健康を整える🌿 正しいケア方法で美髪を手に入れよう"

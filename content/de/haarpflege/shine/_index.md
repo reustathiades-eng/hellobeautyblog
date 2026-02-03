@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/de/haarpflege/shine/"
+url: "/de/haarpflege/glanz/"
 
 seo_title: "Glanzpflege Haare: Produkte für strahlenden Haarglanz"
 intro_title: "Glanzpflege für strahlend schönes Haar ✨"

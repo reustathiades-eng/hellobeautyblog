@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/ja/skincare/oily/"
+url: "/ja/skincare/abura/"
 
 seo_title: "オイリー肌スキンケア｜皮脂コントロール・毛穴ケアのおすすめ商品"
 intro_title: "🌟 オイリー肌向けスキンケア"

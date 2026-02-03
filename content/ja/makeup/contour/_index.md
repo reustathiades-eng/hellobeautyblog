@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/ja/makeup/contour/"
+url: "/ja/makeup/kontuua/"
 
 seo_title: "コントゥア化粧品 - 立体感のある美しい顔立ちを演出｜プロ仕様コスメ通販"
 intro_title: "✨ コントゥア化粧品で理想の立体美人に"

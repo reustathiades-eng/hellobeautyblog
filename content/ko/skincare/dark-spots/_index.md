@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/ko/skincare/dark-spots/"
+url: "/ko/skincare/saekso-chim-chak/"
 
 seo_title: "다크스팟 관리 스킨케어 제품 | 기미 잡티 개선 화장품 추천"
 intro_title: "✨ 다크스팟 집중 관리로 맑고 균일한 피부톤 완성하기"

@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/pl/wlosy/hair-spray/"
+url: "/pl/wlosy/lakier-do-wlosow/"
 
 seo_title: "Lakier do Włosów - Trwałe Utrwalenie Fryzury | Sklep"
 intro_title: "Lakier do Włosów ✨ - Perfekcyjne Utrwalenie Każdej Fryzury"

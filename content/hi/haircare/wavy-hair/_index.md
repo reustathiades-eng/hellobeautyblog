@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/hi/haircare/wavy-hair/"
+url: "/hi/haircare/lehraate-baal/"
 
 seo_title: "वेवी हेयर केयर टिप्स | लहरदार बालों की देखभाल गाइड"
 intro_title: "वेवी हेयर केयर गाइड 🌊 लहरदार बालों की संपूर्ण देखभाल"

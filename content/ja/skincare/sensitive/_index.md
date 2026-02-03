@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/ja/skincare/sensitive/"
+url: "/ja/skincare/binkanhada/"
 
 seo_title: "敏感肌向けスキンケア商品 | 低刺激で優しい肌ケアアイテム特集"
 intro_title: "🌸 敏感肌向けスキンケア - 優しく守る美肌ケア"

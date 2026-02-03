@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/zh/skincare/normal/"
+url: "/zh/skincare/zhengchang/"
 
 seo_title: "中性肌肤护肤品推荐 - 温和保湿护肤产品选购指南"
 intro_title: "✨ 中性肌肤护肤指南"

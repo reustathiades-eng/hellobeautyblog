@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/hi/haircare/color-treated/"
+url: "/hi/haircare/rang-kiye-baal/"
 
 seo_title: "रंगे बालों की देखभाल | कलर ट्रीटेड हेयर केयर टिप्स"
 intro_title: "रंगे बालों की देखभाल 💇‍♀️"

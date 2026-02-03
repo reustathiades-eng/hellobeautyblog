@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/de/make-up/lip-balm/"
+url: "/de/make-up/lippenbalsam/"
 
 seo_title: "Lippenbalsam kaufen - Pflege & Schutz für schöne Lippen"
 intro_title: "Lippenbalsam 💋 - Intensive Lippenpflege für jeden Tag"

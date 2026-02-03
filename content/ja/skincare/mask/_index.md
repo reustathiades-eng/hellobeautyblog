@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/ja/skincare/mask/"
+url: "/ja/skincare/masuku/"
 
 seo_title: "フェイスマスク・パック｜スキンケア商品一覧 - 美肌効果抜群のマスク専門"
 intro_title: "🎭 フェイスマスク・パック - あなたの肌を変える特別なスキンケア"

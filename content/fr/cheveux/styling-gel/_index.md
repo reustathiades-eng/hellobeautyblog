@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/fr/cheveux/styling-gel/"
+url: "/fr/cheveux/gel-coiffant/"
 
 seo_title: "Gel Coiffant - Fixation Parfaite pour Tous Types de Cheveux"
 intro_title: "💇‍♀️ Gel Coiffant : La Solution Parfaite pour un Style Impeccable"

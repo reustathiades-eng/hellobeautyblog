@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/ko/makeup/lip-balm/"
+url: "/ko/makeup/lib-bam/"
 
 seo_title: "립밤 추천 | 촉촉하고 부드러운 입술 케어 제품 모음집"
 intro_title: "💋 립밤으로 완성하는 촉촉한 입술 케어"

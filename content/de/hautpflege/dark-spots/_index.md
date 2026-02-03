@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/de/hautpflege/dark-spots/"
+url: "/de/hautpflege/pigmentflecken/"
 
 seo_title: "Pigmentflecken entfernen - Effektive Hautpflege gegen dunkle Flecken"
 intro_title: "🌟 Pigmentflecken & Dunkle Flecken - Für einen ebenmäßigen Teint"

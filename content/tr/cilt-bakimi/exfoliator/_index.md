@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/tr/cilt-bakimi/exfoliator/"
+url: "/tr/cilt-bakimi/peeling/"
 
 seo_title: "Peeling Ürünleri | En İyi Exfoliator Çeşitleri | Online"
 intro_title: "✨ Peeling ve Exfoliator Ürünleri"

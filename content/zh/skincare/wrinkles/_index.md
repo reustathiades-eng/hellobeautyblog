@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/zh/skincare/wrinkles/"
+url: "/zh/skincare/zhou-wen/"
 
 seo_title: "抗皱护肤品推荐 | 淡化细纹紧致肌肤 | 专业抗衰老护肤方案"
 intro_title: "🌟 抗皱护肤：重现年轻紧致肌肤"

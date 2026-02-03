@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/tr/makyaj/lipstick/"
+url: "/tr/makyaj/ruj/"
 
 seo_title: "Ruj Çeşitleri ve En İyi Ruj Markaları | Online Satış"
 intro_title: "💄 Ruj Koleksiyonu"

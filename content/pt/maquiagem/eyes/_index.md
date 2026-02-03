@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/pt/maquiagem/eyes/"
+url: "/pt/maquiagem/olhos/"
 
 seo_title: "Maquiagem para Olhos: Sombras, Delineadores e Máscaras"
 intro_title: "Maquiagem para Olhos 👁️ - Realce seu Olhar"

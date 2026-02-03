@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/pl/makijaz/false-lashes/"
+url: "/pl/makijaz/sztuczne-rzesy/"
 
 seo_title: "Sztuczne Rzęsy - Duży Wybór Накладных Ресниц Online"
 intro_title: "Sztuczne Rzęsy 💫 Piękny Wzrok w Mgnieniu Oka"

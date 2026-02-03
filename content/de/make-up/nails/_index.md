@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/de/make-up/nails/"
+url: "/de/make-up/naegel/"
 
 seo_title: "Nagellack & Nageldesign | Perfekte Maniküre Online"
 intro_title: "💅 Nagellack & Nageldesign - Perfekte Nägel für jeden Anlass"

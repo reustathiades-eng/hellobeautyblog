@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/zh/haircare/straight-hair/"
+url: "/zh/haircare/zhi-fa/"
 
 seo_title: "直发护理指南2024 - 专业直发护理产品推荐与护理技巧"
 intro_title: "💁‍♀️ 直发护理完全指南 - 打造健康顺滑秀发"

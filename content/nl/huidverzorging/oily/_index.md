@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/nl/huidverzorging/oily/"
+url: "/nl/huidverzorging/vette-huid/"
 
 seo_title: "Verzorging Vette Huid | Producten tegen Glans & Puistjes"
 intro_title: "Verzorging voor de Vette Huid 🌿"

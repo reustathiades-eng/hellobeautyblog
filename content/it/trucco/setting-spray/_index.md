@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/it/trucco/setting-spray/"
+url: "/it/trucco/spray-fissante/"
 
 seo_title: "Setting Spray: Fissa il Trucco per un Look Perfetto"
 intro_title: "Setting Spray ✨ Fissa il Tuo Makeup Tutto il Giorno"

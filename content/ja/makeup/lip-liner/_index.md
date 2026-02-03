@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/ja/makeup/lip-liner/"
+url: "/ja/makeup/ripurainaa/"
 
 seo_title: "リップライナー通販 | プロ仕様からプチプラまで豊富な品揃え"
 intro_title: "💋 リップライナー - 完璧な唇の輪郭を作る必須アイテム"

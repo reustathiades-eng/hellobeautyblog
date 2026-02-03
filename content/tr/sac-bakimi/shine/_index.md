@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/tr/sac-bakimi/shine/"
+url: "/tr/sac-bakimi/parlaklik/"
 
 seo_title: "Saç Parlaklığı Ürünleri | Parlak Saçlar İçin Bakım"
 intro_title: "Saç Parlaklığı ✨"

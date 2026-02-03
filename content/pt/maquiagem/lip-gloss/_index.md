@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/pt/maquiagem/lip-gloss/"
+url: "/pt/maquiagem/gloss/"
 
 seo_title: "Lip Gloss - Brilho Labial de Qualidade | Loja Online"
 intro_title: "✨ Lip Gloss - Brilho Labial Perfeito"

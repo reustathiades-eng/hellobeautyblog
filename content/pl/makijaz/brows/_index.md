@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/pl/makijaz/brows/"
+url: "/pl/makijaz/brwi/"
 
 seo_title: "Kosmetyki do brwi - kredki, cienie, żele | Sklep online"
 intro_title: "Kosmetyki do brwi 🤍 Kredki, cienie i żele do stylizacji"

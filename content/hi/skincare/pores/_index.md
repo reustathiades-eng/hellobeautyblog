@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/hi/skincare/pores/"
+url: "/hi/skincare/rom-chhed/"
 
 seo_title: "पोर्स केयर प्रोडक्ट्स - छिद्र कम करें | स्किनकेयर समाधान"
 intro_title: "पोर्स केयर - बड़े छिद्रों का समाधान ✨"

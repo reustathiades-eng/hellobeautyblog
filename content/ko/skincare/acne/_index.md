@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/ko/skincare/acne/"
+url: "/ko/skincare/yeodeureum/"
 
 seo_title: "여드름 관리 스킨케어 제품 추천 | 효과적인 여드름 케어 솔루션"
 intro_title: "🌟 여드름 케어 스킨케어"

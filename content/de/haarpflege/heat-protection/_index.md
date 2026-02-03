@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/de/haarpflege/heat-protection/"
+url: "/de/haarpflege/hitzeschutz/"
 
 seo_title: "Hitzeschutz für Haare - Professionelle Styling-Produkte"
 intro_title: "🔥 Hitzeschutz für gesundes Haarstyling"

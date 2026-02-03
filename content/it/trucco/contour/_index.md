@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/it/trucco/contour/"
+url: "/it/trucco/contouring/"
 
 seo_title: "Contour Makeup: Prodotti per Scolpire il Viso | Bellezza"
 intro_title: "✨ Contour Makeup - Scolpisci il tuo Viso alla Perfezione"

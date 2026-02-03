@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/pl/makijaz/highlighter/"
+url: "/pl/makijaz/rozswietlacz/"
 
 seo_title: "Rozświetlacze do Twarzy - Najlepsze Highlightery Online"
 intro_title: "✨ Rozświetlacze do Twarzy - Dodaj Blasku Swojej Cerze"

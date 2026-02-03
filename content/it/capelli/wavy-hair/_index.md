@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/it/capelli/wavy-hair/"
+url: "/it/capelli/capelli-mossi/"
 
 seo_title: "Prodotti per Capelli Mossi - Cura e Styling Professionale"
 intro_title: "🌊 Capelli Mossi: La Guida Completa per la Cura Perfetta"

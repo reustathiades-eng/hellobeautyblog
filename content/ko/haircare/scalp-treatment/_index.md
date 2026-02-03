@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/ko/haircare/scalp-treatment/"
+url: "/ko/haircare/dupi-kea/"
 
 seo_title: "두피케어 제품 추천 | 건강한 모발을 위한 전문 두피 트리트먼트"
 intro_title: "🌿 두피 트리트먼트 - 건강한 모발의 시작"

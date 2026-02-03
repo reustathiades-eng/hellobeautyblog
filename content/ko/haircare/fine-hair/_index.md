@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/ko/haircare/fine-hair/"
+url: "/ko/haircare/ga-neun-meolli/"
 
 seo_title: "얇은 모발 관리법 | 볼륨업 헤어케어 제품 추천 - 모발 타입별 관리"
 intro_title: "얇은 모발을 위한 전문 헤어케어 가이드 💇‍♀️"

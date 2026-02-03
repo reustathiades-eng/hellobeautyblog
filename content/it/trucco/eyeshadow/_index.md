@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/it/trucco/eyeshadow/"
+url: "/it/trucco/ombretto/"
 
 seo_title: "Ombretti Professionali | Palette e Colori per Occhi"
 intro_title: "Ombretti per Ogni Look 👁️✨"

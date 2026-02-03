@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/ko/haircare/thick-hair/"
+url: "/ko/haircare/du-kkeoun-meolli/"
 
 seo_title: "굵은 모발 관리법 | 두꺼운 머리카락 전용 헤어케어 제품 추천"
 intro_title: "굵은 모발 전용 헤어케어 💪"

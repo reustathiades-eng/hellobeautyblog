@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/ar/makeup/sensitive-skin/"
+url: "/ar/makeup/bashra-hassasa/"
 
 seo_title: "مكياج للبشرة الحساسة - منتجات آمنة وطبيعية للجمال"
 intro_title: "مكياج للبشرة الحساسة 💄✨"

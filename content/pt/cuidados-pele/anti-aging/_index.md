@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/pt/cuidados-pele/anti-aging/"
+url: "/pt/cuidados-pele/anti-idade/"
 
 seo_title: "Anti-Aging: Produtos e Tratamentos Antienvelhecimento"
 intro_title: "✨ Anti-Aging: Cuidados Antienvelhecimento para Sua Pele"

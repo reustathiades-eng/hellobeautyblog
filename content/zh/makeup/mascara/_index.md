@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/zh/makeup/mascara/"
+url: "/zh/makeup/jie-maogao/"
 
 seo_title: "睫毛膏推荐 - 浓密纤长防水睫毛膏品牌排行榜 | 专业化妆品商城"
 intro_title: "💫 睫毛膏 - 打造迷人电眼的必备神器"

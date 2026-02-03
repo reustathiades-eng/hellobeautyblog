@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/ko/makeup/oily-skin/"
+url: "/ko/makeup/jiseong-pibu/"
 
 seo_title: "지성피부 메이크업 추천 | 오일컨트롤 화장품 완벽가이드"
 intro_title: "지성피부를 위한 완벽 메이크업 가이드 ✨"

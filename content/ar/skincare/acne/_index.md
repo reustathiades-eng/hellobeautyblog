@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/ar/skincare/acne/"
+url: "/ar/skincare/habb-al-shabab/"
 
 seo_title: "منتجات علاج حب الشباب - أفضل كريمات وغسول للبشرة الدهنية"
 intro_title: "🌟 علاج حب الشباب والبثور - حلول فعالة للبشرة الصافية"

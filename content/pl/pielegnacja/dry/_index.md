@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/pl/pielegnacja/dry/"
+url: "/pl/pielegnacja/sucha/"
 
 seo_title: "Kosmetyki dla Skóry Suchej - Pielęgnacja i Nawilżanie"
 intro_title: "Kosmetyki dla Skóry Suchej 💧"

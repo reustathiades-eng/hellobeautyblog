@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/pl/makijaz/nail-polish/"
+url: "/pl/makijaz/lakier-do-paznokci/"
 
 seo_title: "Lakier do paznokci - szeroki wybór kolorów | Sklep"
 intro_title: "💅 Lakiery do paznokci - odkryj świat kolorów"

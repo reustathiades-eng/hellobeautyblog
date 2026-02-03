@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/es/cabello/color-protection/"
+url: "/es/cabello/proteccion-color/"
 
 seo_title: "Protección del Color del Cabello | Productos y Consejos"
 intro_title: "🌈 Protección del Color: Mantén tu Cabello Radiante"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/ar/makeup/false-lashes/"
+url: "/ar/makeup/rumush-suna/"
 
 seo_title: "رموش صناعية - تسوقي أفضل أنواع الرموش المستعارة"
 intro_title: "رموش صناعية 💫 لإطلالة ساحرة"

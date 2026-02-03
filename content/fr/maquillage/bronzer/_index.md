@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/fr/maquillage/bronzer/"
+url: "/fr/maquillage/poudre-bronzante/"
 
 seo_title: "Bronzer Visage - Poudre Bronzante & Terre de Soleil"
 intro_title: "Bronzer ☀️ - Sublimez votre teint avec nos terres de soleil"

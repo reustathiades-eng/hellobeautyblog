@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/hi/haircare/curly-hair/"
+url: "/hi/haircare/ghunghrale-baal/"
 
 seo_title: "कर्ली हेयर केयर टिप्स और प्रोडक्ट्स | घुंघराले बालों की देखभाल"
 intro_title: "घुंघराले बालों की संपूर्ण देखभाल 🌀"

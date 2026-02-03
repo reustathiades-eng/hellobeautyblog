@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/es/cuidado-piel/eye-cream/"
+url: "/es/cuidado-piel/crema-ojos/"
 
 seo_title: "Cremas para Ojos: Cuidado Especializado para tu Mirada"
 intro_title: "👁️ Cremas para Ojos: El Secreto de una Mirada Radiante"

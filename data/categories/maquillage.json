@@ -121,12 +121,12 @@
           {
             "name": "Fond de Teint",
             "emoji": "🎨",
-            "url": "/fr/maquillage/foundation/"
+            "url": "/fr/maquillage/fond-de-teint/"
           },
           {
             "name": "Correcteur",
             "emoji": "✨",
-            "url": "/fr/maquillage/concealer/"
+            "url": "/fr/maquillage/anticernes/"
           },
           {
             "name": "Blush",
@@ -136,12 +136,12 @@
           {
             "name": "Highlighter",
             "emoji": "💫",
-            "url": "/fr/maquillage/highlighter/"
+            "url": "/fr/maquillage/enlumineur/"
           },
           {
             "name": "Poudre",
             "emoji": "☁️",
-            "url": "/fr/maquillage/powder/"
+            "url": "/fr/maquillage/poudre/"
           }
         ]
       },
@@ -156,17 +156,17 @@
           {
             "name": "Eyeliner",
             "emoji": "✒️",
-            "url": "/fr/maquillage/eyeliner/"
+            "url": "/fr/maquillage/eye-liner/"
           },
           {
             "name": "Fards",
             "emoji": "🎨",
-            "url": "/fr/maquillage/eyeshadow/"
+            "url": "/fr/maquillage/fard-paupieres/"
           },
           {
             "name": "Sourcils",
             "emoji": "〰️",
-            "url": "/fr/maquillage/brows/"
+            "url": "/fr/maquillage/sourcils/"
           }
         ]
       },
@@ -176,17 +176,17 @@
           {
             "name": "Rouge à Lèvres",
             "emoji": "💄",
-            "url": "/fr/maquillage/lipstick/"
+            "url": "/fr/maquillage/rouge-levres/"
           },
           {
             "name": "Gloss",
             "emoji": "💋",
-            "url": "/fr/maquillage/lip-gloss/"
+            "url": "/fr/maquillage/gloss/"
           },
           {
             "name": "Crayon",
             "emoji": "✏️",
-            "url": "/fr/maquillage/lip-liner/"
+            "url": "/fr/maquillage/crayon-levres/"
           }
         ]
       },
@@ -196,12 +196,12 @@
           {
             "name": "Vernis",
             "emoji": "💅",
-            "url": "/fr/maquillage/nail-polish/"
+            "url": "/fr/maquillage/vernis-ongles/"
           },
           {
             "name": "Soins Ongles",
             "emoji": "🤍",
-            "url": "/fr/maquillage/nails/"
+            "url": "/fr/maquillage/ongles/"
           }
         ]
       }

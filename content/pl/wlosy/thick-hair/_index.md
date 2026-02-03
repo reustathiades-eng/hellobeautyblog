@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/pl/wlosy/thick-hair/"
+url: "/pl/wlosy/grube-wlosy/"
 
 seo_title: "Pielęgnacja Grubych Włosów - Kosmetyki i Porady | Sklep"
 intro_title: "Pielęgnacja Grubych Włosów 💪"

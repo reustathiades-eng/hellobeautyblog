@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/pt/cabelos/shine/"
+url: "/pt/cabelos/brilho/"
 
 seo_title: "Brilho Capilar: Produtos e Dicas para Cabelos Luminosos"
 intro_title: "✨ Brilho Capilar: Conquiste Fios Radiantes e Luminosos"

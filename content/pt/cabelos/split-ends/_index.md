@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/pt/cabelos/split-ends/"
+url: "/pt/cabelos/pontas-duplas/"
 
 seo_title: "Pontas Duplas: Tratamentos e Cuidados para Cabelos Saudáveis"
 intro_title: "Pontas Duplas ✂️ Tratamentos e Prevenção Eficaz"

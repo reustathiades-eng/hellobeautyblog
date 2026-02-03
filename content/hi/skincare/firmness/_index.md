@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/hi/skincare/firmness/"
+url: "/hi/skincare/mazbooti/"
 
 seo_title: "त्वचा की मजबूती और कसावट के लिए बेहतरीन उत्पाद - OnlyNess"
 intro_title: "त्वचा की मजबूती और कसावट 💪✨"

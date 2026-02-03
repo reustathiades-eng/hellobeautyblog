@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/hi/skincare/dark-spots/"
+url: "/hi/skincare/kale-daag/"
 
 seo_title: "डार्क स्पॉट्स हटाने के उपाय | काले धब्बे हटाने के प्रोडक्ट्स"
 intro_title: "डार्क स्पॉट्स और काले धब्बे हटाने के बेहतरीन उपाय ✨"

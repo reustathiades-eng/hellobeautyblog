@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/fr/cheveux/hair-mask/"
+url: "/fr/cheveux/masque-cheveux/"
 
 seo_title: "Masques Cheveux - Soins Intensifs pour Tous Types"
 intro_title: "✨ Masques Cheveux : Révélez la Beauté de vos Cheveux"

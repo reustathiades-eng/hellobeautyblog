@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/tr/cilt-bakimi/hydration/"
+url: "/tr/cilt-bakimi/nemlendirme/"
 
 seo_title: "Cilt Nemlendirme Ürünleri ve Bakım Rutini | En İyi Hydrasyon"
 intro_title: "Cilt Nemlendiricileri 💧"

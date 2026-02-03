@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/de/hautpflege/oily/"
+url: "/de/hautpflege/fettige-haut/"
 
 seo_title: "Fettige Haut Pflege - Produkte & Tipps für ölige Haut"
 intro_title: "Fettige Haut richtig pflegen ✨"

@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/de/hautpflege/pores/"
+url: "/de/hautpflege/poren/"
 
 seo_title: "Poren verfeinern & verkleinern - Skincare gegen große Poren"
 intro_title: "Poren verfeinern: Der Schlüssel zu ebenmäßiger Haut ✨"

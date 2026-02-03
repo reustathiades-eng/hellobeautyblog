@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/hi/makeup/brows/"
+url: "/hi/makeup/bhauhen/"
 
 seo_title: "ब्रो मेकअप - आइब्रो पेंसिल, जेल और पाउडर ऑनलाइन"
 intro_title: "✨ ब्रो मेकअप - परफेक्ट आइब्रो के लिए बेस्ट प्रोडक्ट्स"

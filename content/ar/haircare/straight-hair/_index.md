@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/ar/haircare/straight-hair/"
+url: "/ar/haircare/shaar-mustaqeem/"
 
 seo_title: "منتجات العناية بالشعر المستقيم - نصائح وحلول مثالية"
 intro_title: "العناية المثالية بالشعر المستقيم ✨"

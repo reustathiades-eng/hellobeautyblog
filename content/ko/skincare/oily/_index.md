@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/ko/skincare/oily/"
+url: "/ko/skincare/jiseong/"
 
 seo_title: "지성피부 스킨케어 제품 추천 | 유분기 많은 피부 관리법"
 intro_title: "지성피부 스킨케어 🌟 완벽한 유분 컨트롤의 시작"

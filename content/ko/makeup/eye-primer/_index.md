@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/ko/makeup/eye-primer/"
+url: "/ko/makeup/ai-peu-lai-meo/"
 
 seo_title: "아이 프라이머 추천 | 오래가는 아이섀도우 베이스 모음"
 intro_title: "👁️ 완벽한 아이메이크업을 위한 아이 프라이머"

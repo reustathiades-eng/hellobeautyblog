@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/ar/makeup/highlighter/"
+url: "/ar/makeup/mubarriz/"
 
 seo_title: "هايلايتر - إضاءة طبيعية لإطلالة مشرقة ومتألقة"
 intro_title: "✨ هايلايتر - أضيئي جمالك الطبيعي"

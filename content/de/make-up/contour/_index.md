@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/de/make-up/contour/"
+url: "/de/make-up/kontur/"
 
 seo_title: "Contour Produkte Online Kaufen | Professionelle Konturierung"
 intro_title: "Contour Makeup - Perfekte Gesichtskonturen ✨"

@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/ko/skincare/redness/"
+url: "/ko/skincare/hongjo/"
 
 seo_title: "홍조 진정 스킨케어 제품 추천 | 민감한 피부를 위한 레드니스 케어"
 intro_title: "🌹 홍조 진정 스킨케어"

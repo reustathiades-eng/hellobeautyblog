@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/pl/makijaz/lip-balm/"
+url: "/pl/makijaz/balsam-do-ust/"
 
 seo_title: "Balsam do ust - Pielęgnacja i nawilżanie ust | Sklep"
 intro_title: "💋 Balsam do ust - Idealna pielęgnacja dla Twoich ust"

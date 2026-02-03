@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/ja/haircare/hydration/"
+url: "/ja/haircare/hosuiryoku/"
 
 seo_title: "髪の乾燥対策・保湿ケア方法 | うるおい美髪を叶えるヘアケア特集"
 intro_title: "💧 髪の保湿・うるおいケア完全ガイド"

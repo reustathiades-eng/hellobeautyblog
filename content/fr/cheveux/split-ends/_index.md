@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/fr/cheveux/split-ends/"
+url: "/fr/cheveux/pointes-fourchues/"
 
 seo_title: "Soins Pointes Abîmées | Réparer & Prévenir Efficacement"
 intro_title: "Pointes Abîmées : Solutions Expertes pour des Cheveux Sains ✂️"

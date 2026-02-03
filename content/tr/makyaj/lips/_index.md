@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/tr/makyaj/lips/"
+url: "/tr/makyaj/dudaklar/"
 
 seo_title: "Dudak Makyajı Ürünleri ve Lipstick Çeşitleri | Güzellik"
 intro_title: "Dudak Makyajı 💋 - Mükemmel Dudaklar İçin Her Şey"

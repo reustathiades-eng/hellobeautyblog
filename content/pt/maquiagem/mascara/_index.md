@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/pt/maquiagem/mascara/"
+url: "/pt/maquiagem/rimel/"
 
 seo_title: "Máscara para Cílios: Encontre a Ideal para Você"
 intro_title: "Máscara para Cílios 💫"

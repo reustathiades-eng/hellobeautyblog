@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/zh/haircare/natural-hair/"
+url: "/zh/haircare/ziran-fa/"
 
 seo_title: "自然发质护理指南 - 天然头发护理产品与护理技巧大全"
 intro_title: "🌿 自然发质护理完全指南"

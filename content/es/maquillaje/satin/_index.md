@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/es/maquillaje/satin/"
+url: "/es/maquillaje/satinado/"
 
 seo_title: "Maquillaje Acabado Satinado - Productos de Belleza Satin"
 intro_title: "Maquillaje con Acabado Satinado ✨"

@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/pt/cuidados-pele/sunscreen/"
+url: "/pt/cuidados-pele/protetor-solar/"
 
 seo_title: "Protetor Solar: Melhores Produtos para Sua Pele | Guia 2024"
 intro_title: "☀️ Protetor Solar: Sua Defesa Essencial Contra os Danos do Sol"

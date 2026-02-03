@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/zh/makeup/bronzer/"
+url: "/zh/makeup/guse-fen/"
 
 seo_title: "修容粉推荐 | 专业修容产品选购指南 | 热门修容粉品牌对比评测"
 intro_title: "✨ 修容粉 - 塑造立体轮廓的美妆神器"

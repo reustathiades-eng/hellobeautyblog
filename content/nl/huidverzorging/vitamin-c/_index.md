@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/nl/huidverzorging/vitamin-c/"
+url: "/nl/huidverzorging/vitamine-c/"
 
 seo_title: "Vitamine C Skincare | Anti-aging & Heldere Huid | Shop Nu"
 intro_title: "Vitamine C Skincare ✨"

@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/ar/skincare/dark-spots/"
+url: "/ar/skincare/buqa-dakina/"
 
 seo_title: "منتجات علاج البقع الداكنة والتصبغات - عناية فائقة بالبشرة"
 intro_title: "✨ علاج البقع الداكنة والتصبغات الجلدية"

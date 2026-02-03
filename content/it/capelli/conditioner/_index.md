@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/it/capelli/conditioner/"
+url: "/it/capelli/balsamo/"
 
 seo_title: "Balsamo per Capelli - Trattamenti Nutrienti | Shop Online"
 intro_title: "🌿 Balsamo per Capelli: Nutrizione e Morbidezza"

@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/tr/sac-bakimi/styling-gel/"
+url: "/tr/sac-bakimi/sekillendirici-jel/"
 
 seo_title: "Saç Şekillendirici Jel - Güçlü Tutuş ve Doğal Görünüm"
 intro_title: "💇‍♀️ Saç Şekillendirici Jel Koleksiyonu"

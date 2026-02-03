@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/ja/haircare/split-ends/"
+url: "/ja/haircare/sakege/"
 
 seo_title: "枝毛対策完全ガイド｜原因から予防・ケア方法まで専門家が解説"
 intro_title: "枝毛対策の完全ガイド ✂️ 美しい髪を取り戻す方法"

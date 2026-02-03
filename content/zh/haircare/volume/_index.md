@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/zh/haircare/volume/"
+url: "/zh/haircare/pengsong/"
 
 seo_title: "头发蓬松丰盈护理产品推荐 | 细软塌陷发质解决方案 | 专业护发指南"
 intro_title: "💫 头发蓬松丰盈护理 - 告别扁塌，重现饱满发量"

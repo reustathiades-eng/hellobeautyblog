@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/fr/soins/sensitive/"
+url: "/fr/soins/sensible/"
 
 seo_title: "Soins pour Peau Sensible | Produits Doux & Hypoallergéniques"
 intro_title: "Soins pour Peau Sensible 🌸"

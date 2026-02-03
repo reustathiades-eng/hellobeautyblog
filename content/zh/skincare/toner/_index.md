@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/zh/skincare/toner/"
+url: "/zh/skincare/shuang-shui/"
 
 seo_title: "爽肤水推荐 | 补水保湿控油收毛孔 | 敏感肌适用爽肤水大全"
 intro_title: "💧 爽肤水 - 肌肤补水保湿第一步"

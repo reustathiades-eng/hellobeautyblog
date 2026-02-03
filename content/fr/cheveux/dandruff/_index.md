@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/fr/cheveux/dandruff/"
+url: "/fr/cheveux/pellicules/"
 
 seo_title: "Anti-Pelliculaire : Soins Efficaces Contre les Pellicules"
 intro_title: "Pellicules : Solutions Expertes pour un Cuir Chevelu Sain 🌿"

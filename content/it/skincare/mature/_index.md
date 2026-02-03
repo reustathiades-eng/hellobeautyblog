@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/it/skincare/mature/"
+url: "/it/skincare/matura/"
 
 seo_title: "Skincare Pelle Matura: Prodotti Anti-Età e Routine"
 intro_title: "✨ Skincare per Pelle Matura: Bellezza Senza Età"

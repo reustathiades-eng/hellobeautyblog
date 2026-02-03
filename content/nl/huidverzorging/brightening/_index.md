@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/nl/huidverzorging/brightening/"
+url: "/nl/huidverzorging/opheldering/"
 
 seo_title: "Huidverheldering Producten | Stralende Huid - Shop Nu"
 intro_title: "✨ Huidverheldering: Voor een Stralende & Egale Teint"

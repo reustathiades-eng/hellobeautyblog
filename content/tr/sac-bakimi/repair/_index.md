@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/tr/sac-bakimi/repair/"
+url: "/tr/sac-bakimi/onarim/"
 
 seo_title: "Saç Onarım Ürünleri | Hasarlı Saçlar İçin Bakım"
 intro_title: "Saç Onarım Ürünleri 💫"

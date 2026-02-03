@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/fr/maquillage/eyeshadow/"
+url: "/fr/maquillage/fard-paupieres/"
 
 seo_title: "Fard à Paupières | Collection Ombres à Paupières Premium"
 intro_title: "Fard à Paupières ✨ Sublimez Votre Regard"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/tr/cilt-bakimi/sensitive/"
+url: "/tr/cilt-bakimi/hassas/"
 
 seo_title: "Hassas Cilt Bakım Ürünleri | Doğal ve Hipoalerjenik"
 intro_title: "🌸 Hassas Cilt Bakım Ürünleri"

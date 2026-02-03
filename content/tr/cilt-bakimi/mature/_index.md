@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/tr/cilt-bakimi/mature/"
+url: "/tr/cilt-bakimi/olgun/"
 
 seo_title: "Olgun Cilt Bakımı Ürünleri - Anti-Aging Krem ve Serumlar"
 intro_title: "Olgun Cilt Bakımı 🌟"

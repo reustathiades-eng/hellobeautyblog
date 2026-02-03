@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/de/haarpflege/color-protection/"
+url: "/de/haarpflege/farbschutz/"
 
 seo_title: "Farbschutz für coloriertes Haar - Pflegeprodukte & Tipps"
 intro_title: "Farbschutz für coloriertes Haar 🌈"

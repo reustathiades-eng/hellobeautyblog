@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/tr/makyaj/foundation/"
+url: "/tr/makyaj/fondoten/"
 
 seo_title: "Fondöten - En İyi Makyaj Foundation Ürünleri | Güzellik"
 intro_title: "💄 Fondöten - Mükemmel Makyaj İçin Temel"

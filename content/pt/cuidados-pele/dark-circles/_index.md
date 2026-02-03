@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/pt/cuidados-pele/dark-circles/"
+url: "/pt/cuidados-pele/olheiras/"
 
 seo_title: "Olheiras: Tratamentos e Produtos Eficazes para o Contorno"
 intro_title: "👁️ Tratamento para Olheiras: Guia Completo"

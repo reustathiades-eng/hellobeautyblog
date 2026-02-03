@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/tr/makyaj/eyeshadow/"
+url: "/tr/makyaj/far/"
 
 seo_title: "Göz Farı Modelleri ve Fiyatları | En İyi Markalar"
 intro_title: "✨ Göz Farı Koleksiyonu - Gözlerinizi Büyüleyin"

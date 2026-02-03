@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/ko/skincare/exfoliator/"
+url: "/ko/skincare/gakjil-jegeo/"
 
 seo_title: "각질제거제 추천 | 피부타입별 엑스폴리에이터 비교 리뷰"
 intro_title: "✨ 각질제거제로 매끄러운 피부 완성하기"

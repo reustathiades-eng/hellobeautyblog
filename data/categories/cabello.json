@@ -255,27 +255,27 @@
           {
             "name": "Cabello Fino",
             "emoji": "🪶",
-            "url": "/es/cabello/fine-hair/"
+            "url": "/es/cabello/cabello-fino/"
           },
           {
             "name": "Cabello Grueso",
             "emoji": "💪",
-            "url": "/es/cabello/thick-hair/"
+            "url": "/es/cabello/cabello-grueso/"
           },
           {
             "name": "Cabello Rizado",
             "emoji": "🌀",
-            "url": "/es/cabello/curly-hair/"
+            "url": "/es/cabello/cabello-rizado/"
           },
           {
             "name": "Cabello Liso",
             "emoji": "✨",
-            "url": "/es/cabello/straight-hair/"
+            "url": "/es/cabello/cabello-liso/"
           },
           {
             "name": "Cabello Teñido",
             "emoji": "🎨",
-            "url": "/es/cabello/color-treated/"
+            "url": "/es/cabello/cabello-tenido/"
           }
         ]
       },
@@ -285,27 +285,27 @@
           {
             "name": "Volumen",
             "emoji": "📈",
-            "url": "/es/cabello/volume/"
+            "url": "/es/cabello/volumen/"
           },
           {
             "name": "Reparación",
             "emoji": "🔧",
-            "url": "/es/cabello/repair/"
+            "url": "/es/cabello/reparacion/"
           },
           {
             "name": "Hidratación",
             "emoji": "💧",
-            "url": "/es/cabello/hydration/"
+            "url": "/es/cabello/hidratacion/"
           },
           {
             "name": "Caspa",
             "emoji": "❄️",
-            "url": "/es/cabello/dandruff/"
+            "url": "/es/cabello/caspa/"
           },
           {
             "name": "Protección Color",
             "emoji": "🛡️",
-            "url": "/es/cabello/color-protection/"
+            "url": "/es/cabello/proteccion-color/"
           }
         ]
       }

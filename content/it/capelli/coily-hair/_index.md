@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/it/capelli/coily-hair/"
+url: "/it/capelli/capelli-crespi/"
 
 seo_title: "Capelli Ricci Afro: Prodotti e Trattamenti per Capelli Coily"
 intro_title: "Capelli Coily: La Guida Completa per la Cura Perfetta 💫"

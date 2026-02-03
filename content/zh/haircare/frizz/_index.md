@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/zh/haircare/frizz/"
+url: "/zh/haircare/maozao/"
 
 seo_title: "毛躁髮質護理攻略｜專業抗毛躁髮品推薦｜有效改善毛躁髮質"
 intro_title: "毛躁髮質護理全攻略 ✨ 重現柔順亮澤秀髮"

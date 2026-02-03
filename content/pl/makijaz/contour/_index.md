@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/pl/makijaz/contour/"
+url: "/pl/makijaz/konturowanie/"
 
 seo_title: "Konturowanie - Kosmetyki do Konturowania Twarzy | Sklep"
 intro_title: "Konturowanie 🎨 Wymodeluj Swoją Twarz Idealnie"

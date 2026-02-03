@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/ja/makeup/brows/"
+url: "/ja/makeup/mayu/"
 
 seo_title: "アイブロウ・眉メイク用品｜理想の眉毛を作るコスメ通販"
 intro_title: "✨ アイブロウ・眉メイク用品"

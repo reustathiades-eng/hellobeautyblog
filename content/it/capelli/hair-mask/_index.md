@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/it/capelli/hair-mask/"
+url: "/it/capelli/maschera-capelli/"
 
 seo_title: "Maschere per Capelli: Nutrimento e Riparazione Profonda"
 intro_title: "🌟 Maschere per Capelli: Il Segreto di una Chioma Perfetta"

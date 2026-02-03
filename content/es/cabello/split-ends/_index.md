@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/es/cabello/split-ends/"
+url: "/es/cabello/puntas-abiertas/"
 
 seo_title: "Puntas Abiertas: Tratamientos y Productos Profesionales"
 intro_title: "Puntas Abiertas ✂️ Soluciones Efectivas para Reparar tu Cabello"

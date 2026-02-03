@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/pt/maquiagem/shimmer/"
+url: "/pt/maquiagem/cintilante/"
 
 seo_title: "Maquiagem Shimmer: Brilho e Luminosidade | Guia Completo"
 intro_title: "Maquiagem Shimmer: O Segredo do Brilho Perfeito ✨"

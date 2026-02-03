@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/ko/haircare/hair-growth/"
+url: "/ko/haircare/meolli-seong-jang/"
 
 seo_title: "모발성장 촉진 방법과 효과적인 헤어케어 제품 추천 | 탈모 예방"
 intro_title: "🌱 건강한 모발성장을 위한 완벽 가이드"

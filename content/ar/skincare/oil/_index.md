@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/ar/skincare/oil/"
+url: "/ar/skincare/zayt/"
 
 seo_title: "زيوت العناية بالبشرة الطبيعية - أفضل الزيوت للوجه والجسم"
 intro_title: "زيوت العناية بالبشرة 🌿 - دليلك الشامل للجمال الطبيعي"

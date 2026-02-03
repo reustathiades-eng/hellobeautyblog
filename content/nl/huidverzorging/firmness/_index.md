@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/nl/huidverzorging/firmness/"
+url: "/nl/huidverzorging/stevigheid/"
 
 seo_title: "Stevigheid Huid Verbeteren | Huidverzorging voor Firmness"
 intro_title: "✨ Stevigheid & Elasticiteit van je Huid"

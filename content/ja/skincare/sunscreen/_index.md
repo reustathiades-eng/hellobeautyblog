@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/ja/skincare/sunscreen/"
+url: "/ja/skincare/hiyakedome/"
 
 seo_title: "日焼け止め・UVケア製品｜紫外線対策スキンケア商品一覧"
 intro_title: "🌞 日焼け止め・UVケア製品"

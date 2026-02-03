@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/tr/sac-bakimi/shampoo/"
+url: "/tr/sac-bakimi/sampuan/"
 
 seo_title: "Şampuan Çeşitleri ve En İyi Şampuan Markaları - 2024"
 intro_title: "🧴 Şampuan - Saç Bakımının Temel Taşı"

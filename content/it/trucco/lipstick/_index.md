@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/it/trucco/lipstick/"
+url: "/it/trucco/rossetto/"
 
 seo_title: "Rossetti di Alta Qualità | Scopri la Collezione Completa"
 intro_title: "💋 Rossetti: La Collezione Definitiva per Labbra Perfette"

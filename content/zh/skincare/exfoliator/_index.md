@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/zh/skincare/exfoliator/"
+url: "/zh/skincare/qujiao/"
 
 seo_title: "去角质产品大全 - 温和有效的脸部身体去角质护肤品推荐"
 intro_title: "✨ 去角质产品 - 焕发肌肤光彩的必备护肤步骤"

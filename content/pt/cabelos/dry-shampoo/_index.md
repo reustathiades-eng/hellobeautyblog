@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/pt/cabelos/dry-shampoo/"
+url: "/pt/cabelos/shampoo-seco/"
 
 seo_title: "Shampoo Seco: Cabelos Limpos e Volumosos Instantaneamente"
 intro_title: "Shampoo Seco: Solução Prática para Cabelos Sempre Perfeitos ✨"

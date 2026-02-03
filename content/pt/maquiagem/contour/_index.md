@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/pt/maquiagem/contour/"
+url: "/pt/maquiagem/contorno/"
 
 seo_title: "Contorno: Produtos de Maquiagem para Definir o Rosto"
 intro_title: "✨ Contorno: Defina e Esculpa Seu Rosto Perfeitamente"

@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/ko/haircare/conditioner/"
+url: "/ko/haircare/klin-jeo/"
 
 seo_title: "컨디셔너 추천 | 모발 타입별 최고의 헤어 컨디셔너 모음집"
 intro_title: "✨ 완벽한 모발 관리를 위한 컨디셔너"

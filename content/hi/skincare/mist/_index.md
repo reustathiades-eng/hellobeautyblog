@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/hi/skincare/mist/"
+url: "/hi/skincare/spray/"
 
 seo_title: "फेशियल मिस्ट - त्वचा को तरोताजा और हाइड्रेट रखें | ऑनलाइन"
 intro_title: "फेशियल मिस्ट 💧 - त्वचा की नमी और चमक के लिए"

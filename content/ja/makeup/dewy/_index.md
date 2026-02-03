@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/ja/makeup/dewy/"
+url: "/ja/makeup/tsuya/"
 
 seo_title: "ツヤ肌メイク完全ガイド｜デューイフィニッシュのコツとおすすめアイテム"
 intro_title: "✨ツヤ肌メイクで理想の美肌を演出"

@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/ar/haircare/thinning/"
+url: "/ar/haircare/takhaff/"
 
 seo_title: "علاج تساقط الشعر وترققه | منتجات ونصائح فعالة للعناية"
 intro_title: "علاج تساقط وترقق الشعر 💪"

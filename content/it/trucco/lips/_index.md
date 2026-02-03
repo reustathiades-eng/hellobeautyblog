@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/it/trucco/lips/"
+url: "/it/trucco/labbra/"
 
 seo_title: "Makeup Labbra: Rossetti, Gloss e Prodotti per Labbra"
 intro_title: "💋 Makeup Labbra: La Guida Completa"

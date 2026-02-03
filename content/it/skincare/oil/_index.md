@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/it/skincare/oil/"
+url: "/it/skincare/olio/"
 
 seo_title: "Oli Viso e Corpo: Scopri i Migliori per la Tua Pelle"
 intro_title: "Oli per la Skincare: Nutrimento Puro per la Tua Pelle ✨"

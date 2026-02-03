@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/zh/makeup/natural/"
+url: "/zh/makeup/ziran/"
 
 seo_title: "自然妆效化妆品推荐 - 打造清透裸妆必备产品指南"
 intro_title: "✨ 自然妆效化妆品 - 轻松打造清透裸妆"

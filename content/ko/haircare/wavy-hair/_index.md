@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/ko/haircare/wavy-hair/"
+url: "/ko/haircare/mul-gyeol-meolli/"
 
 seo_title: "웨이브 헤어 관리법 | 곱슬머리 케어 제품 추천 가이드"
 intro_title: "웨이브 헤어 완벽 케어 가이드 🌊"

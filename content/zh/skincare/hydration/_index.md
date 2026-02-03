@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/zh/skincare/hydration/"
+url: "/zh/skincare/bushi/"
 
 seo_title: "补水保湿护肤品推荐 - 专业保湿护肤解决方案 | 肌肤补水专区"
 intro_title: "💧 肌肤补水保湿 - 打造水润透亮好肌肤"

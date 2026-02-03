@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/zh/makeup/matte/"
+url: "/zh/makeup/wuguang/"
 
 seo_title: "哑光妆容产品大全 | 专业哑光彩妆推荐与选购指南 - 打造完美无瑕妆效"
 intro_title: "哑光妆容 ✨ 打造专业无瑕妆效的秘密武器"

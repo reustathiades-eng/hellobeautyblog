@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/ja/skincare/essence/"
+url: "/ja/skincare/esensu/"
 
 seo_title: "美容液・エッセンス通販｜効果的なスキンケア美容液の選び方とおすすめ商品"
 intro_title: "✨ 美容液・エッセンス - 美肌への近道"

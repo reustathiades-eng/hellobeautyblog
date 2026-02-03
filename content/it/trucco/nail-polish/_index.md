@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/it/trucco/nail-polish/"
+url: "/it/trucco/smalto/"
 
 seo_title: "Smalti per Unghie: Scopri i Migliori Colori e Brand"
 intro_title: "💅 Smalti per Unghie: La Collezione Completa per Nail Art Perfette"

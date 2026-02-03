@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/pl/wlosy/styling-gel/"
+url: "/pl/wlosy/zel-stylizujacy/"
 
 seo_title: "Żele do stylizacji włosów - Profesjonalne produkty fryzjerskie"
 intro_title: "💇‍♀️ Żele do Stylizacji Włosów - Idealne Utrwalenie"

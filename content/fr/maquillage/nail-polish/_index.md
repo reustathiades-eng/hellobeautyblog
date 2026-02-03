@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/fr/maquillage/nail-polish/"
+url: "/fr/maquillage/vernis-ongles/"
 
 seo_title: "Vernis à Ongles - Collection Complète de Couleurs"
 intro_title: "💅 Vernis à Ongles - Sublimez vos Ongles avec Style"

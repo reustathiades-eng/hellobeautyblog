@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/zh/makeup/highlighter/"
+url: "/zh/makeup/gaoliang/"
 
 seo_title: "高光产品大全 - 专业修容高光粉饼液体高光棒 | 打造立体妆容"
 intro_title: "✨ 高光产品 - 打造完美立体妆容的秘密武器"

@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/ko/haircare/dry-shampoo/"
+url: "/ko/haircare/deu-lai-syam-pu/"
 
 seo_title: "드라이 샴푸 추천 | 기름기 제거 헤어케어 제품 모음"
 intro_title: "✨ 드라이 샴푸로 완벽한 헤어케어"

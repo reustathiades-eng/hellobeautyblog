@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/ko/haircare/leave-in/"
+url: "/ko/haircare/lib-in/"
 
 seo_title: "리브인 헤어트리트먼트 추천 | 모발 끝까지 촉촉하게 관리하는 제품"
 intro_title: "💧 리브인 헤어트리트먼트로 완성하는 건강한 모발 관리"

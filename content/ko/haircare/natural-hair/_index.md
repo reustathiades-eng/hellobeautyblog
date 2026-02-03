@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/ko/haircare/natural-hair/"
+url: "/ko/haircare/ja-yeon-meolli/"
 
 seo_title: "자연모 헤어케어 완벽 가이드 | 건강한 모발 관리법과 추천 제품"
 intro_title: "🌿 자연모 헤어케어 완벽 가이드"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/ko/makeup/false-lashes/"
+url: "/ko/makeup/in-jo-seong-mok/"
 
 seo_title: "속눈썹 연장 | 가짜 속눈썹 추천 브랜드 모음 - 뷰티샵"
 intro_title: "💫 가짜 속눈썹으로 완성하는 매혹적인 눈매"

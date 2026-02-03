@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/tr/sac-bakimi/hair-growth/"
+url: "/tr/sac-bakimi/sac-uzatma/"
 
 seo_title: "Saç Uzatma ve Saç Büyütme Ürünleri | Etkili Çözümler"
 intro_title: "Saç Uzatma ve Büyütme Ürünleri 🌱"

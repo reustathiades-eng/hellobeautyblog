@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/ar/makeup/eyeliner/"
+url: "/ar/makeup/kohl/"
 
 seo_title: "كحل العيون - أفضل أنواع الآيلاينر للعيون الجذابة"
 intro_title: "كحل العيون والآيلاينر ✨ لإطلالة عيون ساحرة"

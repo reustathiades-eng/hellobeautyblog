@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/ja/makeup/highlighter/"
+url: "/ja/makeup/haiuraito/"
 
 seo_title: "ハイライター - 輝く美肌を演出する人気コスメ通販 | 最新トレンド商品"
 intro_title: "✨ ハイライター - 美しい輝きで立体感のある顔立ちを演出"

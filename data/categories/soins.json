@@ -126,27 +126,27 @@
           {
             "name": "Grasse",
             "emoji": "💧",
-            "url": "/fr/soins/oily/"
+            "url": "/fr/soins/grasse/"
           },
           {
             "name": "Sèche",
             "emoji": "🏜️",
-            "url": "/fr/soins/dry/"
+            "url": "/fr/soins/seche/"
           },
           {
             "name": "Mixte",
             "emoji": "⚖️",
-            "url": "/fr/soins/combination/"
+            "url": "/fr/soins/mixte/"
           },
           {
             "name": "Sensible",
             "emoji": "🌸",
-            "url": "/fr/soins/sensitive/"
+            "url": "/fr/soins/sensible/"
           },
           {
             "name": "Normale",
             "emoji": "✨",
-            "url": "/fr/soins/normal/"
+            "url": "/fr/soins/normale/"
           }
         ]
       },
@@ -156,12 +156,12 @@
           {
             "name": "Nettoyant",
             "emoji": "🧴",
-            "url": "/fr/soins/cleanser/"
+            "url": "/fr/soins/nettoyant/"
           },
           {
             "name": "Tonique",
             "emoji": "💦",
-            "url": "/fr/soins/toner/"
+            "url": "/fr/soins/tonique/"
           },
           {
             "name": "Sérum",
@@ -171,17 +171,17 @@
           {
             "name": "Crème",
             "emoji": "🧊",
-            "url": "/fr/soins/moisturizer/"
+            "url": "/fr/soins/hydratant/"
           },
           {
             "name": "SPF",
             "emoji": "☀️",
-            "url": "/fr/soins/sunscreen/"
+            "url": "/fr/soins/creme-solaire/"
           },
           {
             "name": "Masque",
             "emoji": "🎭",
-            "url": "/fr/soins/mask/"
+            "url": "/fr/soins/masque/"
           }
         ]
       },
@@ -191,7 +191,7 @@
           {
             "name": "Anti-Âge",
             "emoji": "⏰",
-            "url": "/fr/soins/anti-aging/"
+            "url": "/fr/soins/anti-age/"
           },
           {
             "name": "Acné",
@@ -201,12 +201,12 @@
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/fr/soins/hydration/"
+            "url": "/fr/soins/hydratation/"
           },
           {
             "name": "Éclat",
             "emoji": "✨",
-            "url": "/fr/soins/brightening/"
+            "url": "/fr/soins/eclat/"
           },
           {
             "name": "Pores",

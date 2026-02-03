@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/ja/haircare/fine-hair/"
+url: "/ja/haircare/hosoge/"
 
 seo_title: "細い髪・薄毛の方向けヘアケア完全ガイド｜ボリュームアップのコツとおすすめアイテム"
 intro_title: "細い髪のためのヘアケア完全ガイド 💫"

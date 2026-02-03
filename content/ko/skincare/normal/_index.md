@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/ko/skincare/normal/"
+url: "/ko/skincare/boltong/"
 
 seo_title: "보통피부 스킨케어 제품 추천 | 균형잡힌 피부관리 루틴"
 intro_title: "보통피부를 위한 완벽한 스킨케어 가이드 ✨"

@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/it/skincare/redness/"
+url: "/it/skincare/rossore/"
 
 seo_title: "Rossori Viso: Prodotti per Pelle Sensibile e Irritata"
 intro_title: "🌹 Rossori del Viso: Soluzioni Delicate per Pelle Sensibile"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/ja/makeup/false-lashes/"
+url: "/ja/makeup/tsukematsuge/"
 
 seo_title: "つけまつげ・false lashes - 人気商品を豊富に取り揃え | メイクアップ"
 intro_title: "つけまつげでドラマティックな目元を演出 💫"

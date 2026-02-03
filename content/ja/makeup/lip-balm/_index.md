@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/ja/makeup/lip-balm/"
+url: "/ja/makeup/ripubaramu/"
 
 seo_title: "リップバーム・リップクリーム通販｜保湿・UVカット・色付きタイプも豊富"
 intro_title: "💋 リップバーム・リップクリーム"

@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/nl/haarverzorging/coily-hair/"
+url: "/nl/haarverzorging/krullend-haar/"
 
 seo_title: "Krullend Haar Verzorging | Producten voor Type 4 Krullen"
 intro_title: "Krullend Haar Verzorging 🌀"

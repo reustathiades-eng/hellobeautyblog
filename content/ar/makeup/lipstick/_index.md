@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/ar/makeup/lipstick/"
+url: "/ar/makeup/ahmar-shafayf/"
 
 seo_title: "أحمر الشفاه - أفضل أنواع روج الشفايف الأصلي بأسعار مناسبة"
 intro_title: "💋 أحمر الشفاه - مجموعة متنوعة من أفضل أنواع الروج"

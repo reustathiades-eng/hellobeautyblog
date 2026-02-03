@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/zh/haircare/shine/"
+url: "/zh/haircare/liang-ze/"
 
 seo_title: "头发光泽护理产品推荐 | 专业亮发护发产品 | 美发护理专家"
 intro_title: "头发光泽护理 ✨ 专业亮发护发解决方案"

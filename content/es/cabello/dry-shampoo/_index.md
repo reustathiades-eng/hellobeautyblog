@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/es/cabello/dry-shampoo/"
+url: "/es/cabello/champu-seco/"
 
 seo_title: "Champú en Seco | Los Mejores Productos para Cabello"
 intro_title: "✨ Champú en Seco: Frescura Instantánea para tu Cabello"

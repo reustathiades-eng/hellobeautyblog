@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/zh/haircare/thinning/"
+url: "/zh/haircare/xishao/"
 
 seo_title: "头发稀疏护理产品推荐 | 防脱发增发密度专业护发方案"
 intro_title: "头发稀疏护理专区 💪 重拾浓密秀发自信"

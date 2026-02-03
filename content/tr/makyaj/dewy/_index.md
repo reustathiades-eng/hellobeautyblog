@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/tr/makyaj/dewy/"
+url: "/tr/makyaj/nemli/"
 
 seo_title: "Dewy Makyaj Ürünleri - Doğal Işıltılı Cilt Görünümü"
 intro_title: "✨ Dewy Makyaj: Doğal Işıltı ve Nem Dolu Cilt"

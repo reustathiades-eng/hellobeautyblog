@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/es/cabello/thinning/"
+url: "/es/cabello/cabello-debil/"
 
 seo_title: "Cabello Fino: Tratamientos y Productos para Dar Volumen"
 intro_title: "💇‍♀️ Cabello Fino y Pérdida de Densidad: Guía Completa"

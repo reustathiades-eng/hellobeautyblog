@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/es/cabello/frizz/"
+url: "/es/cabello/encrespamiento/"
 
 seo_title: "Cómo Controlar el Frizz: Productos y Consejos Expertos"
 intro_title: "Control del Frizz 💁‍♀️ Domina tu Cabello Rebelde"

@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/de/haarpflege/hydration/"
+url: "/de/haarpflege/feuchtigkeit/"
 
 seo_title: "Haar Hydration: Feuchtigkeitspflege für trockenes Haar"
 intro_title: "Haar Hydration 💧 - Intensive Feuchtigkeitspflege für gesundes Haar"

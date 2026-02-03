@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/zh/skincare/combination/"
+url: "/zh/skincare/hunhe-xing/"
 
 seo_title: "混合性肌肤护肤品推荐 - 专业护理方案与产品选择指南"
 intro_title: "🌟 混合性肌肤护理专区"

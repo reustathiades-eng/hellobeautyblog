@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/ko/skincare/moisturizer/"
+url: "/ko/skincare/soobuun-keurim/"
 
 seo_title: "모이스처라이저 추천 | 수분크림 보습제 스킨케어 제품 비교"
 intro_title: "💧 모이스처라이저 - 완벽한 수분 보습의 시작"

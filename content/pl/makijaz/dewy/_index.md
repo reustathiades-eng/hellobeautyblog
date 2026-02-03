@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/pl/makijaz/dewy/"
+url: "/pl/makijaz/rozswietlajacy/"
 
 seo_title: "Makijaż Dewy - Naturalny Blask i Świeżość | Kosmetyki"
 intro_title: "Makijaż Dewy ✨ - Naturalny Blask dla Każdej Skóry"

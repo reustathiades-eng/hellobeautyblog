@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/fr/maquillage/primer/"
+url: "/fr/maquillage/base/"
 
 seo_title: "Base de Maquillage Primer - Fixateur & Primer Visage"
 intro_title: "Base de Maquillage Primer 💫"

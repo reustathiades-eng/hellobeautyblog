@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/fr/soins/vitamin-c/"
+url: "/fr/soins/vitamine-c/"
 
 seo_title: "Vitamine C Cosmétique : Sérum Anti-Âge & Éclat"
 intro_title: "Vitamine C : L'Ingrédient Miracle pour une Peau Éclatante ✨"

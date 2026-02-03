@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/ar/skincare/normal/"
+url: "/ar/skincare/ṭabee/"
 
 seo_title: "منتجات العناية بالبشرة العادية - روتين العناية المثالي"
 intro_title: "✨ العناية بالبشرة العادية - دليلك الشامل للعناية المثلى"

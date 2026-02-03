@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/ko/makeup/matte/"
+url: "/ko/makeup/ma-teu/"
 
 seo_title: "매트 메이크업 제품 추천 | 완벽한 무광 피니쉬를 위한 메이크업"
 intro_title: "✨ 매트 피니쉬 메이크업 완벽 가이드"

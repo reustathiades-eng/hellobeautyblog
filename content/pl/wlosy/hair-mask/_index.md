@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/pl/wlosy/hair-mask/"
+url: "/pl/wlosy/maska-do-wlosow/"
 
 seo_title: "Maski do Włosów - Intensywna Pielęgnacja | Sklep Online"
 intro_title: "Maski do Włosów 💆‍♀️ - Intensywna Regeneracja i Odżywienie"

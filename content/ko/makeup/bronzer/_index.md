@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/ko/makeup/bronzer/"
+url: "/ko/makeup/beu-ron-jeo/"
 
 seo_title: "브론저 추천 | 자연스러운 윤곽 메이크업 필수템 - 뷰티샵"
 intro_title: "✨ 브론저로 완성하는 완벽한 윤곽 메이크업"

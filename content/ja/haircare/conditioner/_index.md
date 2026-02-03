@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/ja/haircare/conditioner/"
+url: "/ja/haircare/konshonaا/"
 
 seo_title: "コンディショナー通販｜髪質改善・保湿効果抜群の人気商品を厳選"
 intro_title: "🌿 コンディショナー - なめらかで美しい髪へ"

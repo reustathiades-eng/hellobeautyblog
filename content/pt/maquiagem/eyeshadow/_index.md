@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/pt/maquiagem/eyeshadow/"
+url: "/pt/maquiagem/sombra/"
 
 seo_title: "Sombra de Olhos: As Melhores Paletas e Cores | Loja Online"
 intro_title: "Sombras de Olhos 💄 Paletas e Cores Incríveis"

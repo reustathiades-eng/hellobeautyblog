@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/hi/haircare/thick-hair/"
+url: "/hi/haircare/ghane-baal/"
 
 seo_title: "मोटे बालों की देखभाल के लिए बेहतरीन टिप्स और उत्पाद"
 intro_title: "मोटे बाल की संपूर्ण देखभाल 💪"

@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/pl/pielegnacja/spot-treatment/"
+url: "/pl/pielegnacja/preparat-na-wypryski/"
 
 seo_title: "Kosmetyki Punktowe na Wypryski - Skuteczne Żele i Kremy"
 intro_title: "Kosmetyki Punktowe na Wypryski 🎯"

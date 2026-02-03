@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/tr/makyaj/medium-coverage/"
+url: "/tr/makyaj/orta-kapaticilik/"
 
 seo_title: "Orta Kapatıcılık Makyaj Ürünleri | Doğal Görünüm"
 intro_title: "Orta Kapatıcılık Makyaj Ürünleri ✨"

@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"
 translationKey: "makeup-nail-polish"
-url: "/zh/makeup/nail-polish/"
+url: "/zh/makeup/zhijia-you/"
 
 seo_title: "指甲油大全｜各色美甲油品牌推荐｜持久显色指甲油选购指南"
 intro_title: "💅 指甲油 - 打造完美指尖色彩"

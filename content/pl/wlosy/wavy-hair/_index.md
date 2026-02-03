@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/pl/wlosy/wavy-hair/"
+url: "/pl/wlosy/falowane-wlosy/"
 
 seo_title: "Pielęgnacja Włosów Falowanych - Kosmetyki i Porady 2024"
 intro_title: "Pielęgnacja Włosów Falowanych 🌊 - Odkryj Piękno Naturalnych Fal"

@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/zh/haircare/styling-cream/"
+url: "/zh/haircare/zaoxing-shuang/"
 
 seo_title: "造型霜推荐 - 专业发型定型护发产品 | 打造完美造型"
 intro_title: "💫 造型霜 - 打造理想发型的专业定型产品"

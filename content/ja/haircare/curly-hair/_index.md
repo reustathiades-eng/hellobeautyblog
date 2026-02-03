@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/ja/haircare/curly-hair/"
+url: "/ja/haircare/kaarlihea/"
 
 seo_title: "くせ毛・カーリーヘアケア完全ガイド｜おすすめ商品とケア方法を紹介"
 intro_title: "くせ毛・カーリーヘア専用ケア 🌀 美しいカールを活かすヘアケア方法"

@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/it/skincare/oily/"
+url: "/it/skincare/grassa/"
 
 seo_title: "Skincare per Pelle Grassa - Prodotti e Routine Efficaci"
 intro_title: "✨ Skincare per Pelle Grassa: La Guida Completa"

@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/hi/makeup/dry-skin/"
+url: "/hi/makeup/shushk-twacha/"
 
 seo_title: "ड्राई स्किन के लिए बेस्ट मेकअप प्रोडक्ट्स - रूखी त्वचा गाइड"
 intro_title: "ड्राई स्किन के लिए परफेक्ट मेकअप गाइड ✨"

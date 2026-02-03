@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/ar/makeup/lip-gloss/"
+url: "/ar/makeup/laman-al-shafayf/"
 
 seo_title: "لمعة شفاه - أفضل أنواع الجلوس للشفاه | متجر المكياج"
 intro_title: "✨ لمعة الشفاه - إشراق وجاذبية لا تقاوم"

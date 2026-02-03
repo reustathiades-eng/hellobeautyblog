@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/ko/haircare/coily-hair/"
+url: "/ko/haircare/gop-seul-meolli/"
 
 seo_title: "곱슬머리 관리법 완벽 가이드 | 코일리 헤어 케어 제품 추천"
 intro_title: "곱슬머리 완벽 케어 가이드 🌀"

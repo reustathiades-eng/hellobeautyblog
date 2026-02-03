@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/ko/skincare/dark-circles/"
+url: "/ko/skincare/daem/"
 
 seo_title: "다크서클 관리 제품 | 눈가 케어 스킨케어 - 완벽한 솔루션"
 intro_title: "👀 다크서클 케어 - 밝고 생기있는 눈가를 위한 특별한 관리"

@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/it/capelli/fine-hair/"
+url: "/it/capelli/capelli-fini/"
 
 seo_title: "Cura Capelli Fini: Prodotti e Consigli per Volume | 2024"
 intro_title: "Cura dei Capelli Fini ✨ Guida Completa per Volume e Corpo"

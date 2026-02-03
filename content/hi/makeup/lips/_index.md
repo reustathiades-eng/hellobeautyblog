@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/hi/makeup/lips/"
+url: "/hi/makeup/hont/"
 
 seo_title: "लिप मेकअप - लिपस्टिक, ग्लॉस और बाम | ऑनलाइन शॉपिंग"
 intro_title: "💋 लिप मेकअप - खूबसूरत होंठों का राज"

@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/hi/haircare/hair-oil/"
+url: "/hi/haircare/baal-ka-tel/"
 
 seo_title: "बेस्ट हेयर ऑयल ऑनलाइन - नेचुरल हेयर ऑयल | Hair Oil"
 intro_title: "बेस्ट हेयर ऑयल कलेक्शन 🌿 - बालों की संपूर्ण देखभाल"

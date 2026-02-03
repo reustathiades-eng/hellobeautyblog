@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/pl/makijaz/foundation/"
+url: "/pl/makijaz/podklad/"
 
 seo_title: "Podkład do Twarzy - Najlepsze Kosmetyki Makijażowe"
 intro_title: "💄 Podkład do Twarzy - Perfekcyjna Baza Makijażu"

@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/hi/skincare/mature/"
+url: "/hi/skincare/paripakv/"
 
 seo_title: "परिपक्व त्वचा के लिए स्किनकेयर - बेस्ट एंटी एजिंग प्रोडक्ट्स"
 intro_title: "परिपक्व त्वचा के लिए स्किनकेयर 🌟"

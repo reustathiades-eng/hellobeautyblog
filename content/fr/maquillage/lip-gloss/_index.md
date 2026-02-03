@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/fr/maquillage/lip-gloss/"
+url: "/fr/maquillage/gloss/"
 
 seo_title: "Gloss à Lèvres - Collection Brillante | Beauté Parfaite"
 intro_title: "Gloss à Lèvres ✨ Pour des Lèvres Irrésistibles"

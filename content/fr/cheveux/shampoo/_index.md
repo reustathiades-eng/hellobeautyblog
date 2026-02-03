@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/fr/cheveux/shampoo/"
+url: "/fr/cheveux/shampoing/"
 
 seo_title: "Shampoings Professionnels - Soins Capillaires Premium"
 intro_title: "🧴 Shampoings de Qualité Professionnelle"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/de/make-up/false-lashes/"
+url: "/de/make-up/kuenstliche-wimpern/"
 
 seo_title: "Falsche Wimpern kaufen - Künstliche Wimpern online"
 intro_title: "Falsche Wimpern 💫 Für verführerische Augenblicke"

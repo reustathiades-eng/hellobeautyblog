@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/tr/cilt-bakimi/essence/"
+url: "/tr/cilt-bakimi/esans/"
 
 seo_title: "Essence Ürünleri | Cilt Bakım Essenceları | En İyi Markalar"
 intro_title: "✨ Essence (Esans) - Cilt Bakımının Gizli Silahı"

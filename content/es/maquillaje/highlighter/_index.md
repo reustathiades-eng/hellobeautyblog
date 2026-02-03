@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/es/maquillaje/highlighter/"
+url: "/es/maquillaje/iluminador/"
 
 seo_title: "Iluminadores de Maquillaje | Los Mejores Highlighters"
 intro_title: "✨ Iluminadores: El Secreto del Glow Perfecto"

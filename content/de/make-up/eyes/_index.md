@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/de/make-up/eyes/"
+url: "/de/make-up/augen/"
 
 seo_title: "Augen Make-up online kaufen - Lidschatten, Mascara & mehr"
 intro_title: "Augen Make-up 👁️ - Verleihe deinem Blick Ausdruck"

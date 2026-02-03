@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/fr/maquillage/face/"
+url: "/fr/maquillage/teint/"
 
 seo_title: "Maquillage Visage : Fond de teint, Poudre & Contouring"
 intro_title: "💄 Maquillage du Visage : Sublimez votre beauté naturelle"

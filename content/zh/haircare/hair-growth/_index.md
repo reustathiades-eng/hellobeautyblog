@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/zh/haircare/hair-growth/"
+url: "/zh/haircare/sheng-fa/"
 
 seo_title: "生发护理产品推荐 | 促进头发生长的有效方法和产品指南"
 intro_title: "生发护理 🌱 科学促进头发健康生长"

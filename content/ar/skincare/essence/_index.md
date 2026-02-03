@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/ar/skincare/essence/"
+url: "/ar/skincare/khulaṣa/"
 
 seo_title: "إسنس العناية بالبشرة - أفضل المنتجات والعلامات التجارية"
 intro_title: "الإسنس للعناية بالبشرة ✨ اكتشفي سر النضارة والإشراق"

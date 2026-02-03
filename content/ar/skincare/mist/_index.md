@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/ar/skincare/mist/"
+url: "/ar/skincare/radhath/"
 
 seo_title: "بخاخات الوجه والجسم - منتجات العناية بالبشرة | متجر التجميل"
 intro_title: "بخاخات العناية بالبشرة 💧"

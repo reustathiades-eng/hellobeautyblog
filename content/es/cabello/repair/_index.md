@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/es/cabello/repair/"
+url: "/es/cabello/reparacion/"
 
 seo_title: "Reparación Capilar: Productos para Cabello Dañado | Guía"
 intro_title: "Reparación Capilar: Restaura tu Cabello Dañado ✨"

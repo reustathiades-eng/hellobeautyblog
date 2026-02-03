@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/ko/makeup/face/"
+url: "/ko/makeup/eol-gul/"
 
 seo_title: "페이스 메이크업 완벽 가이드 | 베이스부터 하이라이터까지"
 intro_title: "💄 페이스 메이크업 완벽 가이드"

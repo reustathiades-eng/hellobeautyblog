@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/pt/cabelos/straight-hair/"
+url: "/pt/cabelos/cabelo-liso/"
 
 seo_title: "Cabelo Liso: Guia Completo de Cuidados e Produtos 2024"
 intro_title: "✨ Cabelo Liso: O Guia Definitivo para Fios Sedosos"

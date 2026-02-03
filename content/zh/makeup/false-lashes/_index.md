@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/zh/makeup/false-lashes/"
+url: "/zh/makeup/jia-jiemao/"
 
 seo_title: "假睫毛大全 | 优质假睫毛产品推荐 | 美妆必备单品"
 intro_title: "💫 假睫毛 - 打造迷人电眼的必备美妆神器"

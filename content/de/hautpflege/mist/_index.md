@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/de/hautpflege/mist/"
+url: "/de/hautpflege/spray/"
 
 seo_title: "Gesichtsspray & Mist für strahlende Haut | Premium Beauty"
 intro_title: "Gesichtsspray & Mist 💦 Erfrischende Hautpflege"

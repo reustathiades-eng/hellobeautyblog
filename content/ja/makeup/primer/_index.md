@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/ja/makeup/primer/"
+url: "/ja/makeup/puraimaa/"
 
 seo_title: "化粧下地・プライマー｜ベースメイクの完璧な仕上がりを実現"
 intro_title: "💫 化粧下地・プライマーで理想のベースメイクを"

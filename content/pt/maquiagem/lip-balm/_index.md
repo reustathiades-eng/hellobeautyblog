@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/pt/maquiagem/lip-balm/"
+url: "/pt/maquiagem/balsamo-labial/"
 
 seo_title: "Protetor Labial: Hidratação e Proteção para os Lábios"
 intro_title: "💋 Protetor Labial: Cuidado Essencial para Lábios Saudáveis"

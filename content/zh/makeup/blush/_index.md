@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/zh/makeup/blush/"
+url: "/zh/makeup/saihong/"
 
 seo_title: "腮红产品大全 - 优质腮红粉饼液体腮红 | 打造自然红润好气色"
 intro_title: "腮红专区 💄 打造完美红润妆容"

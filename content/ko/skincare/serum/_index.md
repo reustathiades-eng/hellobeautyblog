@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "skincare-serum"
-url: "/ko/skincare/serum/"
+url: "/ko/skincare/seeom/"
 
 seo_title: "세럼 추천 | 피부타입별 최고의 세럼 제품 비교 리뷰"
 intro_title: "✨ 세럼으로 완성하는 완벽한 피부 케어"

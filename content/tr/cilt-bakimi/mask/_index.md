@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/tr/cilt-bakimi/mask/"
+url: "/tr/cilt-bakimi/maske/"
 
 seo_title: "Yüz Maskesi Çeşitleri | Cilt Bakım Maskeleri Online"
 intro_title: "Yüz Maskeleri: Cildinize Özel Bakım Çözümleri 🎭"

@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/de/hautpflege/hydration/"
+url: "/de/hautpflege/feuchtigkeit/"
 
 seo_title: "Hautfeuchtigkeit & Hydratation - Pflegeprodukte online"
 intro_title: "Hautfeuchtigkeit & Hydratation 💧"

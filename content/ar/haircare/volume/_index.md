@@ -5,7 +5,7 @@ emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"
 translationKey: "haircare-volume"
-url: "/ar/haircare/volume/"
+url: "/ar/haircare/hajm/"
 
 seo_title: "منتجات العناية بالشعر لزيادة الكثافة والحجم - دليل شامل"
 intro_title: "🔥 العناية بالشعر لزيادة الحجم والكثافة"

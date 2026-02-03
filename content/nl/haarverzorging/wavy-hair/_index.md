@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/nl/haarverzorging/wavy-hair/"
+url: "/nl/haarverzorging/golvend-haar/"
 
 seo_title: "Golvend Haar Verzorging | Tips & Producten voor Mooie Golven"
 intro_title: "Golvend Haar Verzorging 🌊"

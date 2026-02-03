@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/ja/skincare/dry/"
+url: "/ja/skincare/kansou/"
 
 seo_title: "乾燥肌のスキンケア | おすすめ保湿アイテム・ケア方法完全ガイド"
 intro_title: "💧 乾燥肌のスキンケア完全ガイド"

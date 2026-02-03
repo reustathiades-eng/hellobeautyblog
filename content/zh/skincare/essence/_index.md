@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/zh/skincare/essence/"
+url: "/zh/skincare/jinghua/"
 
 seo_title: "精华液推荐 | 美白保湿抗老精华 | 护肤精华选购指南"
 intro_title: "✨ 精华液 - 肌肤护理的黄金步骤"

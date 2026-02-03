@@ -5,7 +5,7 @@ emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"
 translationKey: "haircare-split-ends"
-url: "/pl/wlosy/split-ends/"
+url: "/pl/wlosy/rozdwojone-konczki/"
 
 seo_title: "Rozdwojone Końcówki Włosów - Skuteczne Sposoby Leczenia"
 intro_title: "Rozdwojone Końcówki Włosów ✂️"

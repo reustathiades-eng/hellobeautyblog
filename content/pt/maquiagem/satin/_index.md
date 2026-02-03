@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/pt/maquiagem/satin/"
+url: "/pt/maquiagem/cetim/"
 
 seo_title: "Maquiagem Satin: Acabamento Sedoso e Natural | Guia"
 intro_title: "Maquiagem com Acabamento Satin ✨"

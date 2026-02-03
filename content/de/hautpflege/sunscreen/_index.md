@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/de/hautpflege/sunscreen/"
+url: "/de/hautpflege/sonnenschutz/"
 
 seo_title: "Sonnenschutz Kaufen - UV-Schutz für Gesicht & Körper"
 intro_title: "Sonnenschutz ☀️ - Perfekter UV-Schutz für Ihre Haut"

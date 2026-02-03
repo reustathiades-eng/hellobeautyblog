@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/tr/sac-bakimi/hair-oil/"
+url: "/tr/sac-bakimi/sac-yagi/"
 
 seo_title: "Saç Yağı - Doğal ve Etkili Saç Bakım Yağları"
 intro_title: "✨ Saç Yağı - Sağlıklı ve Parlak Saçlar İçin"

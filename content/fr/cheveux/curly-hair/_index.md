@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/fr/cheveux/curly-hair/"
+url: "/fr/cheveux/cheveux-boucles/"
 
 seo_title: "Soins Cheveux Bouclés : Produits & Routine Experte 2024"
 intro_title: "Soins pour Cheveux Bouclés 🌀"

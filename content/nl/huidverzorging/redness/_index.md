@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/nl/huidverzorging/redness/"
+url: "/nl/huidverzorging/roodheid/"
 
 seo_title: "Roodheid Verzorging | Anti-Roodheid Producten Online"
 intro_title: "Roodheid Verzorging 🌹"

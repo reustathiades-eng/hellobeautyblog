@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/ko/haircare/styling-gel/"
+url: "/ko/haircare/seu-tai-ling-jel/"
 
 seo_title: "스타일링젤 - 완벽한 헤어스타일링을 위한 최고의 젤 제품"
 intro_title: "💪 스타일링젤로 완성하는 완벽한 헤어스타일"

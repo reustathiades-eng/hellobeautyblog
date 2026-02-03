@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/pt/cabelos/scalp-health/"
+url: "/pt/cabelos/saude-do-couro-cabeludo/"
 
 seo_title: "Saúde do Couro Cabeludo: Guia Completo e Tratamentos"
 intro_title: "Saúde do Couro Cabeludo 🌱"

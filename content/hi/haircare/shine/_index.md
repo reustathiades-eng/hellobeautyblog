@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/hi/haircare/shine/"
+url: "/hi/haircare/chamak/"
 
 seo_title: "बालों में चमक के लिए बेस्ट प्रोडक्ट्स | Hair Shine Products"
 intro_title: "बालों में चमक और ग्लो के लिए बेस्ट प्रोडक्ट्स ✨"

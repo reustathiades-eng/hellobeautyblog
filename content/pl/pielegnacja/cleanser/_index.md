@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/pl/pielegnacja/cleanser/"
+url: "/pl/pielegnacja/zel-do-mycia/"
 
 seo_title: "Żele i mleczka do mycia twarzy - Profesjonalne kosmetyki"
 intro_title: "🧴 Żele i mleczka do mycia twarzy"

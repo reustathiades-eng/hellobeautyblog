@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/hi/makeup/lip-balm/"
+url: "/hi/makeup/hont-ka-balm/"
 
 seo_title: "लिप बाम ऑनलाइन खरीदें | होंठों की देखभाल | सर्वोत्तम दाम"
 intro_title: "💋 लिप बाम - होंठों की संपूर्ण देखभाल और सुरक्षा"

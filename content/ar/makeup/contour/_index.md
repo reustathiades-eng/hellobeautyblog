@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/ar/makeup/contour/"
+url: "/ar/makeup/naht/"
 
 seo_title: "كونتور للوجه - منتجات تحديد ونحت الوجه عالية الجودة"
 intro_title: "✨ كونتور الوجه - اكتشفي فن تحديد ونحت الوجه"

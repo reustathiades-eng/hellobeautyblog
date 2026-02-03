@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/es/cabello/dandruff/"
+url: "/es/cabello/caspa/"
 
 seo_title: "Tratamientos Anticaspa: Guía Completa para Eliminar Caspa"
 intro_title: "Tratamientos Anticaspa: Tu Solución Definitiva ❄️"

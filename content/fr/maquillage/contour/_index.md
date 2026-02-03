@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/fr/maquillage/contour/"
+url: "/fr/maquillage/contouring/"
 
 seo_title: "Maquillage Contour - Produits de Sculpture du Visage"
 intro_title: "Maquillage Contour : Sculpte et Sublime ton Visage ✨"

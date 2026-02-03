@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/tr/makyaj/lip-liner/"
+url: "/tr/makyaj/dudak-kalemi/"
 
 seo_title: "Dudak Kalemi - Kalıcı ve Profesyonel Lip Liner Çeşitleri"
 intro_title: "💋 Dudak Kalemi - Mükemmel Dudak Hatları İçin"

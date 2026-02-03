@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/zh/haircare/conditioner/"
+url: "/zh/haircare/hufa-su/"
 
 seo_title: "护发素推荐指南 - 优质护发素品牌选购攻略与使用技巧"
 intro_title: "💧 护发素完整选购指南 - 让秀发柔顺亮泽"

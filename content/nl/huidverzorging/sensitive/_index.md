@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/nl/huidverzorging/sensitive/"
+url: "/nl/huidverzorging/gevoelige-huid/"
 
 seo_title: "Gevoelige Huid Verzorging | Milde Producten | BeautyShop"
 intro_title: "💕 Verzorging voor de Gevoelige Huid"

@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/tr/sac-bakimi/coily-hair/"
+url: "/tr/sac-bakimi/kivircik-sac/"
 
 seo_title: "Kıvırcık Saç Bakımı | En İyi Ürünler ve Öneriler"
 intro_title: "Kıvırcık Saç Bakımı 🌀"

@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/ar/skincare/brightening/"
+url: "/ar/skincare/ishraaq/"
 
 seo_title: "منتجات تفتيح البشرة وتوحيد لونها - العناية المتخصصة"
 intro_title: "✨ منتجات تفتيح البشرة وتوحيد اللون"

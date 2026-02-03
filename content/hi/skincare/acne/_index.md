@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/hi/skincare/acne/"
+url: "/hi/skincare/muhanse/"
 
 seo_title: "मुंहासे हटाने के उपाय | Acne Treatment Products Online"
 intro_title: "मुंहासे और पिंपल्स का इलाज 🌟"

@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/de/haarpflege/thick-hair/"
+url: "/de/haarpflege/dickes-haar/"
 
 seo_title: "Dicke Haare pflegen: Tipps & Produkte für volles Haar"
 intro_title: "Pflege für dickes Haar 💪"

@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/tr/sac-bakimi/hair-mask/"
+url: "/tr/sac-bakimi/sac-maskesi/"
 
 seo_title: "Saç Maskesi - Besleyici ve Onarıcı Saç Bakım Maskeleri"
 intro_title: "🌟 Saç Maskesi - Saçlarınıza Derin Bakım"

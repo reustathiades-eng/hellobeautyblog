@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/it/skincare/mask/"
+url: "/it/skincare/maschera/"
 
 seo_title: "Maschere Viso: Idratanti, Purificanti e Anti-Età | Shop"
 intro_title: "Maschere Viso: Il Segreto per una Pelle Perfetta ✨"

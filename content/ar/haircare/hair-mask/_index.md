@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/ar/haircare/hair-mask/"
+url: "/ar/haircare/qinaa-al-shaar/"
 
 seo_title: "أقنعة الشعر - علاج مكثف لشعر صحي ولامع | متجر التجميل"
 intro_title: "أقنعة الشعر 💇‍♀️ - العناية المكثفة لشعر أحلامك"

@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/nl/huidverzorging/oil/"
+url: "/nl/huidverzorging/olie/"
 
 seo_title: "Gezichtsolie Kopen | Natuurlijke Huidolie | Beauty Shop"
 intro_title: "Gezichtsoliën & Huidoliën ✨"

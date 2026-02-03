@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/pl/pielegnacja/vitamin-c/"
+url: "/pl/pielegnacja/witamina-c/"
 
 seo_title: "Witamina C w Kosmetykach - Właściwości i Zastosowanie"
 intro_title: "Witamina C w Pielęgnacji Skóry ✨"

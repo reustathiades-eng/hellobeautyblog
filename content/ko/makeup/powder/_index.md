@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/ko/makeup/powder/"
+url: "/ko/makeup/pa-u-deo/"
 
 seo_title: "파우더 메이크업 | 프리미엄 파우더 컬렉션 - 완벽한 마무리감"
 intro_title: "✨ 파우더 - 완벽한 마무리를 위한 필수 아이템"

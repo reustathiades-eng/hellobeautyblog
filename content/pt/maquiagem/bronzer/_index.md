@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/pt/maquiagem/bronzer/"
+url: "/pt/maquiagem/bronzeador/"
 
 seo_title: "Bronzer: Bronzeadores para um Bronzeado Natural | Loja"
 intro_title: "✨ Bronzer: O Segredo para um Bronzeado Perfeito"

@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/ja/skincare/redness/"
+url: "/ja/skincare/akami/"
 
 seo_title: "赤み対策スキンケア｜敏感肌・赤ら顔の原因と効果的なケア方法"
 intro_title: "🌸 肌の赤み・赤ら顔対策スキンケア"

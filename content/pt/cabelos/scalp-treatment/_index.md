@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/pt/cabelos/scalp-treatment/"
+url: "/pt/cabelos/tratamento-do-couro-cabeludo/"
 
 seo_title: "Tratamentos para Couro Cabeludo | Cuidados Capilares"
 intro_title: "🌿 Tratamentos para Couro Cabeludo"

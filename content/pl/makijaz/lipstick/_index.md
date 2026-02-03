@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/pl/makijaz/lipstick/"
+url: "/pl/makijaz/pomadka/"
 
 seo_title: "Szminki - Najlepsze Pomadki do Ust | Sklep Online"
 intro_title: "Szminki 💄 - Odkryj Idealną Pomadkę do Swoich Ust"

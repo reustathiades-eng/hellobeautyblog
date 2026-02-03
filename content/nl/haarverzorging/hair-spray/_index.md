@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/nl/haarverzorging/hair-spray/"
+url: "/nl/haarverzorging/haarspray/"
 
 seo_title: "Haarspray Kopen Online | Sterke Fixatie & Volume | Shop Nu"
 intro_title: "Haarspray: De Perfecte Finish voor Elke Hairstyle 💫"

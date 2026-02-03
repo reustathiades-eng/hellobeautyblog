@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/hi/skincare/dry/"
+url: "/hi/skincare/shushk/"
 
 seo_title: "ड्राई स्किन केयर प्रोडक्ट्स | रूखी त्वचा के लिए बेस्ट क्रीम"
 intro_title: "ड्राई स्किन केयर - रूखी त्वचा के लिए बेहतरीन उत्पाद 🌸"

@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/ar/skincare/oily/"
+url: "/ar/skincare/dahni/"
 
 seo_title: "منتجات العناية بالبشرة الدهنية - حلول فعالة للتحكم باللمعان"
 intro_title: "✨ العناية بالبشرة الدهنية - حلولك المثالية للحصول على بشرة صحية"

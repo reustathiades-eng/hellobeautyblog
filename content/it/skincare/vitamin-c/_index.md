@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/it/skincare/vitamin-c/"
+url: "/it/skincare/vitamina-c/"
 
 seo_title: "Vitamina C per il Viso: Sieri e Creme Antiage Illuminanti"
 intro_title: "🍊 Vitamina C: Il Segreto per una Pelle Luminosa e Giovane"

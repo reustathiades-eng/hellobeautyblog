@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/zh/makeup/concealer/"
+url: "/zh/makeup/zhe-xia-gao/"
 
 seo_title: "遮瑕膏推荐 | 专业遮瑕产品选购指南 | 完美底妆必备化妆品"
 intro_title: "💄 遮瑕膏 - 打造无瑕底妆的秘密武器"

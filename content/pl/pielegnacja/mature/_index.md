@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/pl/pielegnacja/mature/"
+url: "/pl/pielegnacja/dojrzala/"
 
 seo_title: "Kosmetyki do Skóry Dojrzałej - Skuteczna Pielęgnacja"
 intro_title: "Kosmetyki do Skóry Dojrzałej 🌸"

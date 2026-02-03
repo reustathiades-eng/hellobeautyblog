@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/es/cabello/leave-in/"
+url: "/es/cabello/sin-aclarado/"
 
 seo_title: "Leave-In Sin Enjuague: Protección y Nutrición Capilar"
 intro_title: "🌟 Tratamientos Leave-In: Cuida tu Cabello sin Enjuague"

@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/ja/skincare/dark-circles/"
+url: "/ja/skincare/kuma/"
 
 seo_title: "目の下のクマ対策スキンケア商品一覧｜効果的なアイケア製品"
 intro_title: "👁️ 目の下のクマを改善するスキンケア"

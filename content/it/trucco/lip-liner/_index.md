@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/it/trucco/lip-liner/"
+url: "/it/trucco/matita-labbra/"
 
 seo_title: "Matite Labbra: Definizione Perfetta per il Tuo Look 💄"
 intro_title: "💋 Matite Labbra: La Base Perfetta per Labbra Impeccabili"

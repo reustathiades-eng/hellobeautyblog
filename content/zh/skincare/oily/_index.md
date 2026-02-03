@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/zh/skincare/oily/"
+url: "/zh/skincare/youxing/"
 
 seo_title: "油性肌肤护肤品推荐 | 控油补水护肤产品精选 - 专业护肤指南"
 intro_title: "🌟 油性肌肤护肤专区 - 控油保湿双重呵护"

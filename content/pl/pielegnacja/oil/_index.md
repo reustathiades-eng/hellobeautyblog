@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/pl/pielegnacja/oil/"
+url: "/pl/pielegnacja/olejek/"
 
 seo_title: "Olejki do Twarzy - Naturalna Pielęgnacja Skóry | Kosmetyki"
 intro_title: "Olejki do Twarzy 🌿 - Naturalna Moc w Pielęgnacji Skóry"

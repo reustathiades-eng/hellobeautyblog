@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/ko/skincare/mask/"
+url: "/ko/skincare/maseukeeu/"
 
 seo_title: "마스크팩 추천 | 피부타입별 최고의 마스크 제품 - 뷰티샵"
 intro_title: "✨ 완벽한 피부를 위한 마스크팩 컬렉션"

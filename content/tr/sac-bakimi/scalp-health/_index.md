@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/tr/sac-bakimi/scalp-health/"
+url: "/tr/sac-bakimi/sac-derisi-sagligi/"
 
 seo_title: "Saç Derisi Sağlığı | Kepek, Kaşıntı ve Yağlanma Çözümleri"
 intro_title: "Saç Derisi Sağlığı 🌿 Sağlıklı Saçlar İçin Temel"

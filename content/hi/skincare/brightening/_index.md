@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/hi/skincare/brightening/"
+url: "/hi/skincare/chamakdar/"
 
 seo_title: "ब्राइटनिंग स्किनकेयर प्रोडक्ट्स | चमकदार त्वचा पाएं"
 intro_title: "ब्राइटनिंग स्किनकेयर ✨ निखार और चमक के लिए"

@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/ko/skincare/eye-cream/"
+url: "/ko/skincare/nun-keurim/"
 
 seo_title: "아이크림 추천 | 눈가 주름 개선 & 다크서클 케어 제품 모음"
 intro_title: "👁️ 아이크림으로 완성하는 완벽한 눈가 케어"

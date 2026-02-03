@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/ar/haircare/scalp-health/"
+url: "/ar/haircare/sihat-farwat-al-raas/"
 
 seo_title: "منتجات صحة فروة الرأس - علاج مشاكل فروة الرأس الطبيعي"
 intro_title: "صحة فروة الرأس 🌿 الحل الشامل لجميع مشاكل فروة الرأس"

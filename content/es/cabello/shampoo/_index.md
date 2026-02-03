@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/es/cabello/shampoo/"
+url: "/es/cabello/champu/"
 
 seo_title: "Champús para Todo Tipo de Cabello | Cuidado Capilar"
 intro_title: "🧴 Champús Premium para el Cuidado de tu Cabello"

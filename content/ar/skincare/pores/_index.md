@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/ar/skincare/pores/"
+url: "/ar/skincare/masam/"
 
 seo_title: "منتجات العناية بالمسام - حلول فعالة لتصغير المسام الواسعة"
 intro_title: "🔍 العناية بالمسام وتصغيرها"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/ar/makeup/natural/"
+url: "/ar/makeup/ṭabee/"
 
 seo_title: "مكياج طبيعي | منتجات المكياج بلمسة نهائية طبيعية"
 intro_title: "💄 مكياج بلمسة نهائية طبيعية - جمالك الأصيل"

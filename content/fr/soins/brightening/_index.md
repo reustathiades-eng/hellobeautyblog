@@ -5,7 +5,7 @@ emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"
 translationKey: "skincare-brightening"
-url: "/fr/soins/brightening/"
+url: "/fr/soins/eclat/"
 
 seo_title: "Soins Éclaircissants Visage | Peaux Ternes & Teint Terne"
 intro_title: "Soins Éclaircissants ✨"

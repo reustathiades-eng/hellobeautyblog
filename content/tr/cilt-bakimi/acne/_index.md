@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/tr/cilt-bakimi/acne/"
+url: "/tr/cilt-bakimi/akne/"
 
 seo_title: "Akne Bakımı ve Tedavisi - Sivilce Karşıtı Ürünler"
 intro_title: "Akne ve Sivilce Bakımı 🌟"

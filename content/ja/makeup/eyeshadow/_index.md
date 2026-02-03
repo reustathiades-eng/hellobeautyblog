@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/ja/makeup/eyeshadow/"
+url: "/ja/makeup/aishadou/"
 
 seo_title: "アイシャドウ通販｜豊富な色とブランドで理想の目元メイクを実現"
 intro_title: "✨ アイシャドウ - 魅力的な目元を演出する必須コスメ"

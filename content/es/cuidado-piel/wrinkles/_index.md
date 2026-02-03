@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/es/cuidado-piel/wrinkles/"
+url: "/es/cuidado-piel/arrugas/"
 
 seo_title: "Productos Antiarrugas - Tratamientos para Arrugas Efectivos"
 intro_title: "Tratamientos Antiarrugas ✨"

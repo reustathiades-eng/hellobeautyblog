@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/fr/soins/mist/"
+url: "/fr/soins/brume/"
 
 seo_title: "Brumes Visage - Hydratation & Éclat Instantanés | Soins"
 intro_title: "Brumes Visage ✨ - L'hydratation instantanée pour tous"

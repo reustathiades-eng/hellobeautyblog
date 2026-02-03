@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/es/maquillaje/bronzer/"
+url: "/es/maquillaje/bronceador/"
 
 seo_title: "Bronceadores de Maquillaje - Los Mejores para Tu Piel"
 intro_title: "Bronceadores ☀️ Dale Color y Luminosidad a Tu Rostro"

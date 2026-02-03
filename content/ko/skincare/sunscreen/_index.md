@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/ko/skincare/sunscreen/"
+url: "/ko/skincare/jaoe-seon-chada/"
 
 seo_title: "선크림 추천 | 자외선차단제 순위 | 피부타입별 썬크림"
 intro_title: "☀️ 선크림 · 자외선차단제"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/pl/pielegnacja/sensitive/"
+url: "/pl/pielegnacja/wrazliwa/"
 
 seo_title: "Kosmetyki dla Skóry Wrażliwej - Delikatna Pielęgnacja"
 intro_title: "Kosmetyki dla Skóry Wrażliwej 🌸"

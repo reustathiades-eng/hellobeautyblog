@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/pl/pielegnacja/essence/"
+url: "/pl/pielegnacja/esencja/"
 
 seo_title: "Essence - Esencje do Twarzy | Kosmetyki Pielęgnacyjne"
 intro_title: "Esencje do Pielęgnacji Skóry ✨"

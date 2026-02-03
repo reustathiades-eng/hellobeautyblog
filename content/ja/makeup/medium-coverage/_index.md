@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/ja/makeup/medium-coverage/"
+url: "/ja/makeup/midiyamu-kabareji/"
 
 seo_title: "ミディアムカバレッジファンデーション｜自然な仕上がりで美肌メイク"
 intro_title: "ミディアムカバレッジで叶える自然美肌メイク ✨"

@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/nl/haarverzorging/thick-hair/"
+url: "/nl/haarverzorging/dik-haar/"
 
 seo_title: "Dik Haar Verzorging: Tips & Producten voor Volle Lokken"
 intro_title: "Dik Haar Verzorging 💁‍♀️ Alles voor Jouw Volle Lokken"

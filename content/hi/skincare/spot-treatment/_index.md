@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/hi/skincare/spot-treatment/"
+url: "/hi/skincare/daag-ilaaj/"
 
 seo_title: "स्पॉट ट्रीटमेंट - दाग धब्बे हटाने के बेस्ट प्रोडक्ट्स"
 intro_title: "स्पॉट ट्रीटमेंट: चेहरे के दाग धब्बे मिटाएं ✨"

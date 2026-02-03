@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/fr/soins/combination/"
+url: "/fr/soins/mixte/"
 
 seo_title: "Soins Peau Mixte : Produits & Routines Adaptées"
 intro_title: "Soins pour Peau Mixte ⚖️"

@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/pl/makijaz/light-coverage/"
+url: "/pl/makijaz/lekkie-krycie/"
 
 seo_title: "Kosmetyki z Lekkim Kryciem - Naturalne Podkłady i Bazy"
 intro_title: "Kosmetyki z Lekkim Kryciem ✨"

@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
 translationKey: "skincare-essence"
-url: "/pt/cuidados-pele/essence/"
+url: "/pt/cuidados-pele/essencia/"
 
 seo_title: "Essência Facial: Hidratação e Nutrição Profunda | Skincare"
 intro_title: "Essência Facial ✨ O Segredo da Pele Radiante"

@@ -5,7 +5,7 @@ emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"
 translationKey: "skincare-acne"
-url: "/de/hautpflege/acne/"
+url: "/de/hautpflege/akne/"
 
 seo_title: "Akne Pflege & Anti-Pickel Produkte | Hautpflege"
 intro_title: "Akne & unreine Haut 🌿"

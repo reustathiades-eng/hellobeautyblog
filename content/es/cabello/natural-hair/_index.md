@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/es/cabello/natural-hair/"
+url: "/es/cabello/cabello-natural/"
 
 seo_title: "Cuidado del Cabello Natural - Productos y Rutinas Ideales"
 intro_title: "🌿 Cuidado del Cabello Natural: Tu Guía Completa"

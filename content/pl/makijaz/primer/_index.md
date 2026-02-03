@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/pl/makijaz/primer/"
+url: "/pl/makijaz/baza/"
 
 seo_title: "Primer do Makijażu - Baza pod Makijaż | Sklep Online"
 intro_title: "💄 Primer - Idealna Baza pod Makijaż"

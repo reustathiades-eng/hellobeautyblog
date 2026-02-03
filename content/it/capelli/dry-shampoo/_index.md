@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/it/capelli/dry-shampoo/"
+url: "/it/capelli/shampoo-secco/"
 
 seo_title: "Shampoo Secco: I Migliori Prodotti per Capelli Freschi"
 intro_title: "Shampoo Secco: La Soluzione Perfetta per Capelli Sempre Freschi ✨"

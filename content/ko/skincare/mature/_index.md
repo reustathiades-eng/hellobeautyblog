@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/ko/skincare/mature/"
+url: "/ko/skincare/seongsum/"
 
 seo_title: "성숙한 피부 스킨케어 제품 추천 | 탄력과 주름 개선 화장품"
 intro_title: "🌸 성숙한 피부를 위한 전문 스킨케어"

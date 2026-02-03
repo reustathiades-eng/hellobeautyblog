@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/de/make-up/dewy/"
+url: "/de/make-up/strahlend/"
 
 seo_title: "Dewy Makeup - Strahlender Glow für natürliche Frische"
 intro_title: "Dewy Makeup ✨ - Der perfekte Glow für strahlende Haut"

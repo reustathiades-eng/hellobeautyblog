@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/fr/cheveux/coily-hair/"
+url: "/fr/cheveux/cheveux-crepus/"
 
 seo_title: "Soins Cheveux Crépus : Guide Complet & Produits Experts"
 intro_title: "Cheveux Crépus : Le Guide Ultime des Soins Adaptés 🌀"

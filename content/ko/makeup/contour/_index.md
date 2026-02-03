@@ -5,7 +5,7 @@ emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"
 translationKey: "makeup-contour"
-url: "/ko/makeup/contour/"
+url: "/ko/makeup/kin-tu-eol/"
 
 seo_title: "컨투어 메이크업 제품 - 입체적인 얼굴 윤곽 완성 | 뷰티샵"
 intro_title: "✨ 컨투어로 완성하는 입체적인 얼굴 윤곽"

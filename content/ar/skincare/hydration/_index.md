@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/ar/skincare/hydration/"
+url: "/ar/skincare/tarteeb/"
 
 seo_title: "ترطيب البشرة - منتجات العناية المتخصصة للترطيب العميق"
 intro_title: "💧 ترطيب البشرة - العناية المثلى لبشرة نضرة ومشرقة"

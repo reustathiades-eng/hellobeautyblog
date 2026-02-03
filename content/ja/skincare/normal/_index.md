@@ -5,7 +5,7 @@ emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"
 translationKey: "skincare-normal"
-url: "/ja/skincare/normal/"
+url: "/ja/skincare/futsuu/"
 
 seo_title: "普通肌スキンケア｜おすすめ化粧品・基礎化粧品で美肌ケア"
 intro_title: "普通肌スキンケア ✨ 理想的な肌質を保つケア方法"

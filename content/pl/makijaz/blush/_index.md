@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/pl/makijaz/blush/"
+url: "/pl/makijaz/roz/"
 
 seo_title: "Róż do policzków - najlepsze róże do makijażu | Sklep"
 intro_title: "Róż do policzków 🌸 - nadaj twarzy naturalny rumieniec"

@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/it/trucco/eye-primer/"
+url: "/it/trucco/primer-occhi/"
 
 seo_title: "Primer Occhi: Base Perfetta per Ombretto Duraturo"
 intro_title: "Primer per Occhi 👁️ La Base Perfetta per il Tuo Look"

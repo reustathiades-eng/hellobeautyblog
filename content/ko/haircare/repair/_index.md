@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/ko/haircare/repair/"
+url: "/ko/haircare/bogsoo/"
 
 seo_title: "모발 복구 헤어케어 제품 추천 | 손상모발 집중관리 솔루션"
 intro_title: "💆‍♀️ 손상된 모발을 위한 전문 복구 헤어케어"

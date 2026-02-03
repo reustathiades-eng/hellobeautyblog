@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/es/maquillaje/lips/"
+url: "/es/maquillaje/labios/"
 
 seo_title: "Maquillaje de Labios - Pintalabios y Gloss | Guía 2024"
 intro_title: "Maquillaje de Labios 💄 Todo para Unos Labios Perfectos"

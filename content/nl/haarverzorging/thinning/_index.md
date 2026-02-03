@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/nl/haarverzorging/thinning/"
+url: "/nl/haarverzorging/dunner-wordend-haar/"
 
 seo_title: "Dun Haar Verzorging | Producten tegen Dunner Wordend Haar"
 intro_title: "Dun Haar Verzorging 💪 Versterk je Lokken"

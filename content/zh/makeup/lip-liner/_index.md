@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/zh/makeup/lip-liner/"
+url: "/zh/makeup/changxian-bi/"
 
 seo_title: "唇线笔专区 - 精准勾勒完美唇形，打造立体双唇妆容效果"
 intro_title: "💋 唇线笔 - 精准勾勒，塑造完美唇形"

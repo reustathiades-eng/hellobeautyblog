@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/ko/skincare/pores/"
+url: "/ko/skincare/moegong/"
 
 seo_title: "모공 케어 스킨케어 제품 | 모공축소 블랙헤드 제거 화장품 추천"
 intro_title: "🕳️ 모공 케어 - 깨끗하고 매끈한 피부를 위한 완벽한 솔루션"

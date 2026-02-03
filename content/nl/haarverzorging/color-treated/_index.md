@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/nl/haarverzorging/color-treated/"
+url: "/nl/haarverzorging/gekleurd-haar/"
 
 seo_title: "Verzorging Gekleurd Haar - Producten & Tips | Haartype"
 intro_title: "Verzorging voor Gekleurd Haar 🌈"

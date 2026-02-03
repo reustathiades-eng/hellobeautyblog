@@ -665,27 +665,27 @@
           {
             "name": "İnce Saçlar",
             "emoji": "🪶",
-            "url": "/tr/sac-bakimi/fine-hair/"
+            "url": "/tr/sac-bakimi/ince-sac/"
           },
           {
             "name": "Kalın Saçlar",
             "emoji": "💪",
-            "url": "/tr/sac-bakimi/thick-hair/"
+            "url": "/tr/sac-bakimi/kalin-sac/"
           },
           {
             "name": "Kıvırcık Saçlar",
             "emoji": "🌀",
-            "url": "/tr/sac-bakimi/curly-hair/"
+            "url": "/tr/sac-bakimi/bukle-sac/"
           },
           {
             "name": "Düz Saçlar",
             "emoji": "📏",
-            "url": "/tr/sac-bakimi/straight-hair/"
+            "url": "/tr/sac-bakimi/duz-sac/"
           },
           {
             "name": "Boyalı Saçlar",
             "emoji": "🎨",
-            "url": "/tr/sac-bakimi/color-treated/"
+            "url": "/tr/sac-bakimi/boyali-sac/"
           }
         ]
       },
@@ -695,27 +695,27 @@
           {
             "name": "Hacim Verici",
             "emoji": "📈",
-            "url": "/tr/sac-bakimi/volume/"
+            "url": "/tr/sac-bakimi/hacim/"
           },
           {
             "name": "Onarıcı Bakım",
             "emoji": "🔧",
-            "url": "/tr/sac-bakimi/repair/"
+            "url": "/tr/sac-bakimi/onarim/"
           },
           {
             "name": "Nemlendirici",
             "emoji": "💧",
-            "url": "/tr/sac-bakimi/hydration/"
+            "url": "/tr/sac-bakimi/nemlendirme/"
           },
           {
             "name": "Kepek Karşıtı",
             "emoji": "❄️",
-            "url": "/tr/sac-bakimi/dandruff/"
+            "url": "/tr/sac-bakimi/kepek/"
           },
           {
             "name": "Renk Koruyucu",
             "emoji": "🛡️",
-            "url": "/tr/sac-bakimi/color-protection/"
+            "url": "/tr/sac-bakimi/renk-koruma/"
           }
         ]
       }

@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/de/haarpflege/curly-hair/"
+url: "/de/haarpflege/lockiges-haar/"
 
 seo_title: "Lockenpflege: Die beste Haarpflege für lockiges Haar"
 intro_title: "Lockenpflege - Perfekte Pflege für dein lockiges Haar 🌀"

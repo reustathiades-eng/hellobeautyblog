@@ -5,7 +5,7 @@ emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"
 translationKey: "makeup-lip-balm"
-url: "/tr/makyaj/lip-balm/"
+url: "/tr/makyaj/dudak-balsami/"
 
 seo_title: "Dudak Balsamı - Nemlendirici Lip Balm Çeşitleri | Güzellik"
 intro_title: "💋 Dudak Balsamı - Yumuşak ve Nemli Dudaklar İçin"

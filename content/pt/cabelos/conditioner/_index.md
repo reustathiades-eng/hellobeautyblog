@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/pt/cabelos/conditioner/"
+url: "/pt/cabelos/condicionador/"
 
 seo_title: "Condicionadores para Cabelo - Hidratação e Maciez | Loja"
 intro_title: "Condicionadores 💧 Hidratação Profunda para Todos os Tipos de Cabelo"

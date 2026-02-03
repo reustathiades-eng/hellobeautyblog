@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/tr/makyaj/light-coverage/"
+url: "/tr/makyaj/hafif-kapaticilik/"
 
 seo_title: "Hafif Kapatıcılık Makyaj Ürünleri | Doğal Görünüm"
 intro_title: "Hafif Kapatıcılık Makyaj Ürünleri ✨"

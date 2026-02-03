@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/es/maquillaje/false-lashes/"
+url: "/es/maquillaje/pestanas-postizas/"
 
 seo_title: "Pestañas Postizas - Amplifica tu Mirada | Maquillaje"
 intro_title: "✨ Pestañas Postizas: Transforma tu Mirada al Instante"

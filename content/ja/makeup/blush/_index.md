@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/ja/makeup/blush/"
+url: "/ja/makeup/chiiku/"
 
 seo_title: "チークブラシ・パウダーチーク通販｜人気ブランド豊富な品揃え"
 intro_title: "💖 チーク・頬紅で自然な血色感をプラス"

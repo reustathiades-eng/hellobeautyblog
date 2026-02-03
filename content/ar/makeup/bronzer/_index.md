@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/ar/makeup/bronzer/"
+url: "/ar/makeup/musammiran/"
 
 seo_title: "برونزر للوجه - أفضل منتجات البرونزر للإطلالة المثالية"
 intro_title: "✨ برونزر الوجه - إشراقة طبيعية وجمال لا يُقاوم"

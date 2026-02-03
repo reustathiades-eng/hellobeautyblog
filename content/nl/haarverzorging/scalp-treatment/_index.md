@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"
 translationKey: "haircare-scalp-treatment"
-url: "/nl/haarverzorging/scalp-treatment/"
+url: "/nl/haarverzorging/hoofdhuidbehandeling/"
 
 seo_title: "Hoofdhuid Behandeling Kopen | Beste Scalp Care Producten"
 intro_title: "🌿 Hoofdhuid Behandeling - Voor een Gezonde Scalp"

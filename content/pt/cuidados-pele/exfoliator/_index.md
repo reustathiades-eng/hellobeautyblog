@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/pt/cuidados-pele/exfoliator/"
+url: "/pt/cuidados-pele/esfoliante/"
 
 seo_title: "Esfoliantes Faciais e Corporais | Melhores Produtos 2024"
 intro_title: "Esfoliantes ✨ Renove sua Pele com os Melhores Produtos"

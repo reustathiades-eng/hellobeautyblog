@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/pl/wlosy/fine-hair/"
+url: "/pl/wlosy/cienkie-wlosy/"
 
 seo_title: "Pielęgnacja Cienkich Włosów - Porady i Produkty | Expert"
 intro_title: "Pielęgnacja Cienkich Włosów 💫"

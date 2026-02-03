@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/ar/haircare/conditioner/"
+url: "/ar/haircare/malayyin/"
 
 seo_title: "بلسم الشعر - أفضل منتجات العناية والترطيب للشعر"
 intro_title: "🌟 بلسم الشعر - الحل الأمثل لشعر صحي ولامع"

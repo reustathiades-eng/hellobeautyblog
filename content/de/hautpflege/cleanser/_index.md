@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/de/hautpflege/cleanser/"
+url: "/de/hautpflege/reiniger/"
 
 seo_title: "Gesichtsreiniger kaufen | Premium Cleanser online"
 intro_title: "✨ Gesichtsreiniger - Perfekte Reinigung für jeden Hauttyp"

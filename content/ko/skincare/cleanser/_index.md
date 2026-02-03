@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/ko/skincare/cleanser/"
+url: "/ko/skincare/seanjeongjae/"
 
 seo_title: "클렌저 추천 | 순한 세안제부터 딥클렌징까지 - 피부타입별 맞춤 클렌저"
 intro_title: "🧴 클렌저 - 건강한 피부의 첫 번째 단계"

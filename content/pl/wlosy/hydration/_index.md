@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/pl/wlosy/hydration/"
+url: "/pl/wlosy/nawilzanie/"
 
 seo_title: "Nawilżanie Włosów - Produkty do Suchych Włosów | Pielęgnacja"
 intro_title: "Nawilżanie Włosów 💧 - Przywróć Zdrowy Blask Twoim Włosom"

@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/ar/skincare/toner/"
+url: "/ar/skincare/maqwi/"
 
 seo_title: "تونر للوجه - أفضل أنواع التونر لجميع أنواع البشرة"
 intro_title: "تونر الوجه 💧 العناية المثالية لبشرة نضرة ومشرقة"

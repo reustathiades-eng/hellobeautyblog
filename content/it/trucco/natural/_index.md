@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/it/trucco/natural/"
+url: "/it/trucco/naturale/"
 
 seo_title: "Makeup Effetto Naturale: Prodotti per un Look Fresco"
 intro_title: "Makeup Effetto Naturale 🌿 - La Bellezza Autentica"

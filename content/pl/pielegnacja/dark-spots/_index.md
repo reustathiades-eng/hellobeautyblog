@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/pl/pielegnacja/dark-spots/"
+url: "/pl/pielegnacja/ciemne-plamy/"
 
 seo_title: "Kosmetyki na Przebarwienia i Ciemne Plamy - Skuteczna Pielęgnacja"
 intro_title: "Kosmetyki na Przebarwienia i Ciemne Plamy ✨"

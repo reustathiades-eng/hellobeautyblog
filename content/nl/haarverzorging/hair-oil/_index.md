@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/nl/haarverzorging/hair-oil/"
+url: "/nl/haarverzorging/haarolie/"
 
 seo_title: "Hairolie Kopen Online | Beste Haarverzorging | Shop Nu"
 intro_title: "🌟 Hairolie - Voor Gezond & Glanzend Haar"

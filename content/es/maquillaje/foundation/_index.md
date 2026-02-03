@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/es/maquillaje/foundation/"
+url: "/es/maquillaje/base/"
 
 seo_title: "Base de Maquillaje - Encuentra tu Tono Perfecto Online"
 intro_title: "💄 Base de Maquillaje - Cobertura Perfecta para Cada Tono de Piel"

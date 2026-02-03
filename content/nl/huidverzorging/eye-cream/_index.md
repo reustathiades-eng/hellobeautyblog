@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/nl/huidverzorging/eye-cream/"
+url: "/nl/huidverzorging/oogcreme/"
 
 seo_title: "Oogcrème Kopen | Beste Oogverzorging Online | BeautyShop"
 intro_title: "👁️ Oogcrème: De Ultieme Gids voor Stralende Ogen"

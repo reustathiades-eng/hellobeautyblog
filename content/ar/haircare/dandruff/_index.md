@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/ar/haircare/dandruff/"
+url: "/ar/haircare/qashra/"
 
 seo_title: "علاج قشرة الشعر - منتجات فعالة للتخلص من القشرة نهائياً"
 intro_title: "🌿 علاج قشرة الشعر - الحلول المثبتة علمياً"

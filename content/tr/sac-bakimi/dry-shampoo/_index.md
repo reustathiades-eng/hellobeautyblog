@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/tr/sac-bakimi/dry-shampoo/"
+url: "/tr/sac-bakimi/kuru-sampuan/"
 
 seo_title: "Kuru Şampuan Ürünleri - Hızlı Saç Temizliği | En İyi"
 intro_title: "🌟 Kuru Şampuan - Pratik Saç Bakımının Vazgeçilmezi"

@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/ar/makeup/full-coverage/"
+url: "/ar/makeup/taghṭiya-kamila/"
 
 seo_title: "مكياج التغطية الكاملة - أفضل منتجات الإخفاء والتغطية المثالية"
 intro_title: "💫 مكياج التغطية الكاملة - للإطلالة المثالية"

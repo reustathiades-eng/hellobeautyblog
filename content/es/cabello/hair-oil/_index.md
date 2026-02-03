@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/es/cabello/hair-oil/"
+url: "/es/cabello/aceite-cabello/"
 
 seo_title: "Aceites Capilares Premium - Nutrición y Brillo Natural"
 intro_title: "✨ Aceites Capilares: Transforma tu Cabello con Nutrición Profunda"

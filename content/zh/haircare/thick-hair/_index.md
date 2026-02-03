@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/zh/haircare/thick-hair/"
+url: "/zh/haircare/cu-ying-fa/"
 
 seo_title: "粗硬发质护理指南 - 专业洗护产品推荐与护理技巧"
 intro_title: "粗硬发质护理专区 💪✨"

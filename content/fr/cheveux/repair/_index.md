@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/fr/cheveux/repair/"
+url: "/fr/cheveux/reparation/"
 
 seo_title: "Soins Réparateurs Cheveux | Produits pour Cheveux Abîmés"
 intro_title: "🔧 Soins Réparateurs pour Cheveux Abîmés"

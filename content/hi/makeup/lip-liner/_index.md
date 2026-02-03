@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/hi/makeup/lip-liner/"
+url: "/hi/makeup/hont-ka-liner/"
 
 seo_title: "लिप लाइनर खरीदें - बेस्ट ब्रांड्स | ऑनलाइन शॉपिंग"
 intro_title: "💋 लिप लाइनर - परफेक्ट लिप शेप के लिए"

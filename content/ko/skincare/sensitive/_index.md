@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/ko/skincare/sensitive/"
+url: "/ko/skincare/min-gam/"
 
 seo_title: "민감성 피부 스킨케어 | 순한 화장품 추천 및 관리법"
 intro_title: "🌸 민감성 피부 스킨케어"

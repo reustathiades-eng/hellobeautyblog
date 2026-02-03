@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/nl/huidverzorging/wrinkles/"
+url: "/nl/huidverzorging/rimpels/"
 
 seo_title: "Anti-Rimpel Skincare | Effectieve Verzorging tegen Rimpels"
 intro_title: "Anti-Rimpel Verzorging ✨"

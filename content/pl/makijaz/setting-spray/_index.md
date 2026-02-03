@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/pl/makijaz/setting-spray/"
+url: "/pl/makijaz/spray-utrwalajacy/"
 
 seo_title: "Spray Utrwalający Makijaż - Profesjonalne Setting Spray"
 intro_title: "💧 Spray Utrwalający Makijaż - Długotrwały Efekt"

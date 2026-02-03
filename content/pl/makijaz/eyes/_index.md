@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/pl/makijaz/eyes/"
+url: "/pl/makijaz/oczy/"
 
 seo_title: "Makijaż Oczu - Cienie, Eyelinery, Tusze | Kosmetyki"
 intro_title: "👁️ Makijaż Oczu - Podkreśl Swoje Piękno"

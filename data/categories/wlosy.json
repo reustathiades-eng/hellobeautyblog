@@ -583,27 +583,27 @@
           {
             "name": "Włosy Cienkie",
             "emoji": "🪶",
-            "url": "/pl/wlosy/fine-hair/"
+            "url": "/pl/wlosy/cienkie-wlosy/"
           },
           {
             "name": "Włosy Grube",
             "emoji": "💪",
-            "url": "/pl/wlosy/thick-hair/"
+            "url": "/pl/wlosy/grube-wlosy/"
           },
           {
             "name": "Włosy Kręcone",
             "emoji": "🌀",
-            "url": "/pl/wlosy/curly-hair/"
+            "url": "/pl/wlosy/wlosy-krecone/"
           },
           {
             "name": "Włosy Proste",
             "emoji": "📏",
-            "url": "/pl/wlosy/straight-hair/"
+            "url": "/pl/wlosy/proste-wlosy/"
           },
           {
             "name": "Włosy Farbowane",
             "emoji": "🎨",
-            "url": "/pl/wlosy/color-treated/"
+            "url": "/pl/wlosy/farbowane/"
           }
         ]
       },
@@ -613,27 +613,27 @@
           {
             "name": "Zwiększenie Objętości",
             "emoji": "⬆️",
-            "url": "/pl/wlosy/volume/"
+            "url": "/pl/wlosy/objetos/"
           },
           {
             "name": "Regeneracja",
             "emoji": "🔧",
-            "url": "/pl/wlosy/repair/"
+            "url": "/pl/wlosy/regeneracja/"
           },
           {
             "name": "Nawilżenie",
             "emoji": "💧",
-            "url": "/pl/wlosy/hydration/"
+            "url": "/pl/wlosy/nawilzanie/"
           },
           {
             "name": "Łupież",
             "emoji": "❄️",
-            "url": "/pl/wlosy/dandruff/"
+            "url": "/pl/wlosy/lupież/"
           },
           {
             "name": "Ochrona Koloru",
             "emoji": "🛡️",
-            "url": "/pl/wlosy/color-protection/"
+            "url": "/pl/wlosy/ochrona-koloru/"
           }
         ]
       }

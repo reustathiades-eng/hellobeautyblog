@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/it/capelli/thinning/"
+url: "/it/capelli/diradamento/"
 
 seo_title: "Capelli che si Diradano: Prodotti e Soluzioni Efficaci"
 intro_title: "Capelli che si Diradano: Soluzioni e Trattamenti Efficaci 💪"

@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"
 translationKey: "makeup-bronzer"
-url: "/tr/makyaj/bronzer/"
+url: "/tr/makyaj/bronzlastirici/"
 
 seo_title: "Bronzer Ürünleri - En İyi Bronzer Markaları | Güzellik"
 intro_title: "Bronzer ile Doğal Güneş Işıltısı ✨"

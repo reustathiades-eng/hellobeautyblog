@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/it/trucco/highlighter/"
+url: "/it/trucco/illuminante/"
 
 seo_title: "Illuminanti Viso: Scopri i Migliori Highlighter Online"
 intro_title: "✨ Illuminanti e Highlighter per un Viso Radioso"

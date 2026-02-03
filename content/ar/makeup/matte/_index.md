@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/ar/makeup/matte/"
+url: "/ar/makeup/mat/"
 
 seo_title: "مكياج مات - منتجات التجميل بلمسة نهائية غير لامعة"
 intro_title: "مكياج مات ✨ لإطلالة مخملية مثالية"

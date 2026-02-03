@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/pt/maquiagem/light-coverage/"
+url: "/pt/maquiagem/cobertura-leve/"
 
 seo_title: "Bases de Cobertura Leve: Natural e Perfeita para o Dia"
 intro_title: "✨ Bases de Cobertura Leve: O Segredo da Pele Natural"

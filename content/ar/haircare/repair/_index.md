@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/ar/haircare/repair/"
+url: "/ar/haircare/islaah/"
 
 seo_title: "منتجات إصلاح الشعر التالف - علاج وترميم الشعر المتضرر"
 intro_title: "🔧 إصلاح وترميم الشعر التالف"

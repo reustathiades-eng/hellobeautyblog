@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/zh/makeup/satin/"
+url: "/zh/makeup/duanguang/"
 
 seo_title: "缎面妆容完整指南 - 专业缎面妆效产品推荐与技巧分享"
 intro_title: "✨ 缎面妆容 - 打造自然光泽的完美妆效"

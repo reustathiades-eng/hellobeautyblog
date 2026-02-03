@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/pt/cabelos/hair-spray/"
+url: "/pt/cabelos/spray-capilar/"
 
 seo_title: "Hair Spray: Fixação e Volume Perfeitos | Loja Online"
 intro_title: "Hair Spray: Fixação Profissional para Todos os Tipos de Cabelo ✨"

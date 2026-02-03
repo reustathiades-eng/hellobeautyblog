@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/pt/cuidados-pele/redness/"
+url: "/pt/cuidados-pele/vermelhidao/"
 
 seo_title: "Produtos para Vermelhidão na Pele | Cosméticos Calmantes"
 intro_title: "Vermelhidão na Pele 🌸"

@@ -457,12 +457,12 @@
           {
             "name": "Fondotinta",
             "emoji": "🤍",
-            "url": "/it/trucco/foundation/"
+            "url": "/it/trucco/fondotinta/"
           },
           {
             "name": "Correttore",
             "emoji": "✨",
-            "url": "/it/trucco/concealer/"
+            "url": "/it/trucco/correttore/"
           },
           {
             "name": "Blush",
@@ -472,12 +472,12 @@
           {
             "name": "Illuminante",
             "emoji": "✨",
-            "url": "/it/trucco/highlighter/"
+            "url": "/it/trucco/illuminante/"
           },
           {
             "name": "Cipria",
             "emoji": "💫",
-            "url": "/it/trucco/powder/"
+            "url": "/it/trucco/cipria/"
           }
         ]
       },
@@ -497,12 +497,12 @@
           {
             "name": "Ombretti",
             "emoji": "🎨",
-            "url": "/it/trucco/eyeshadow/"
+            "url": "/it/trucco/ombretto/"
           },
           {
             "name": "Sopracciglia",
             "emoji": "🤎",
-            "url": "/it/trucco/brows/"
+            "url": "/it/trucco/sopracciglia/"
           }
         ]
       },
@@ -512,17 +512,17 @@
           {
             "name": "Rossetto",
             "emoji": "💄",
-            "url": "/it/trucco/lipstick/"
+            "url": "/it/trucco/rossetto/"
           },
           {
             "name": "Lucidalabbra",
             "emoji": "✨",
-            "url": "/it/trucco/lip-gloss/"
+            "url": "/it/trucco/lucidalabbra/"
           },
           {
             "name": "Matita Labbra",
             "emoji": "✏️",
-            "url": "/it/trucco/lip-liner/"
+            "url": "/it/trucco/matita-labbra/"
           }
         ]
       },
@@ -532,12 +532,12 @@
           {
             "name": "Smalto",
             "emoji": "💅",
-            "url": "/it/trucco/nail-polish/"
+            "url": "/it/trucco/smalto/"
           },
           {
             "name": "Cura Unghie",
             "emoji": "✨",
-            "url": "/it/trucco/nails/"
+            "url": "/it/trucco/unghie/"
           }
         ]
       }

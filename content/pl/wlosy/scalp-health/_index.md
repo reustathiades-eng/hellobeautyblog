@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/pl/wlosy/scalp-health/"
+url: "/pl/wlosy/zdrowie-skory-glowy/"
 
 seo_title: "Zdrowie Skóry Głowy - Porady i Pielęgnacja | Ekspert"
 intro_title: "🌿 Zdrowie Skóry Głowy - Fundament Pięknych Włosów"

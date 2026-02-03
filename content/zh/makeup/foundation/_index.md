@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/zh/makeup/foundation/"
+url: "/zh/makeup/fendi-ye/"
 
 seo_title: "粉底液推荐2024 | 持久遮瑕粉底产品大全 - 完美底妆必备"
 intro_title: "💄 粉底液 - 打造完美底妆的必备单品"

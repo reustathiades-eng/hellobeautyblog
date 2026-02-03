@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/es/cuidado-piel/combination/"
+url: "/es/cuidado-piel/mixta/"
 
 seo_title: "Cuidado Facial Piel Mixta - Productos y Rutinas 2024"
 intro_title: "Cuidado para Piel Mixta 🌟"

@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/hi/makeup/medium-coverage/"
+url: "/hi/makeup/madhyam-coverage/"
 
 seo_title: "मीडियम कवरेज मेकअप - बेस्ट फाउंडेशन और कंसीलर"
 intro_title: "मीडियम कवरेज मेकअप 💄 - परफेक्ट बेस के लिए"

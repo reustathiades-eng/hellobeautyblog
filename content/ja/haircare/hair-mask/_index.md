@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"
 translationKey: "haircare-hair-mask"
-url: "/ja/haircare/hair-mask/"
+url: "/ja/haircare/heaamasuku/"
 
 seo_title: "ヘアマスク通販｜集中ケアで美髪を実現 - プレミアムヘアケア"
 intro_title: "💆‍♀️ ヘアマスクで理想の美髪を手に入れよう"

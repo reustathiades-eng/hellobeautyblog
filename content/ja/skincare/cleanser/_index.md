@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/ja/skincare/cleanser/"
+url: "/ja/skincare/kuresenzingu/"
 
 seo_title: "クレンザー・洗顔料 | 毛穴ケア・敏感肌対応の洗顔アイテム一覧"
 intro_title: "🧼 クレンザー・洗顔料で理想の素肌を手に入れよう"

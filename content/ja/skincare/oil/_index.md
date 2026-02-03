@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/ja/skincare/oil/"
+url: "/ja/skincare/oiru/"
 
 seo_title: "美容オイル・フェイスオイル | 肌質別おすすめスキンケアオイル特集"
 intro_title: "✨ 美容オイル・フェイスオイル"

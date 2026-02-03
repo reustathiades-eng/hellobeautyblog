@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/tr/makyaj/full-coverage/"
+url: "/tr/makyaj/tam-kapaticilik/"
 
 seo_title: "Full Coverage Makyaj Ürünleri | Tam Kapatıcı Kozmetik"
 intro_title: "Full Coverage Makyaj Ürünleri 💄"

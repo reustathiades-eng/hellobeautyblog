@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/zh/haircare/color-protection/"
+url: "/zh/haircare/huse-baohu/"
 
 seo_title: "护色洗发水推荐|染后头发护理产品|专业护色护发产品选购指南"
 intro_title: "🌈 护色护发 - 让染发色彩持久绚烂"

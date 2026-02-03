@@ -5,7 +5,7 @@ emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"
 translationKey: "haircare-scalp-health"
-url: "/it/capelli/scalp-health/"
+url: "/it/capelli/salute-cuoio-capelluto/"
 
 seo_title: "Salute del Cuoio Capelluto: Prodotti e Trattamenti"
 intro_title: "Salute del Cuoio Capelluto 🌿"

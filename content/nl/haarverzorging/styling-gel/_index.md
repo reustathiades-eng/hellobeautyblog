@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/nl/haarverzorging/styling-gel/"
+url: "/nl/haarverzorging/stylinggel/"
 
 seo_title: "Styling Gel Kopen | Beste Haargel voor Alle Haartypes"
 intro_title: "💪 Styling Gel - Voor Perfect Gedefinieerd Haar"

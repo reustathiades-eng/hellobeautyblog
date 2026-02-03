@@ -5,7 +5,7 @@ emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"
 translationKey: "makeup-satin"
-url: "/tr/makyaj/satin/"
+url: "/tr/makyaj/saten/"
 
 seo_title: "Satin Finish Makyaj Ürünleri | Mat ile Parlak Arası"
 intro_title: "✨ Satin Finish Makyaj: Mükemmel Denge"

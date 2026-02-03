@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/es/maquillaje/lip-liner/"
+url: "/es/maquillaje/perfilador-labios/"
 
 seo_title: "Delineadores de Labios - Perfiles Perfectos y Duraderos"
 intro_title: "Delineadores de Labios 💋"

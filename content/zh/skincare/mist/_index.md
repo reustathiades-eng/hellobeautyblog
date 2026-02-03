@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/zh/skincare/mist/"
+url: "/zh/skincare/penqiu/"
 
 seo_title: "面部喷雾推荐｜补水保湿喷雾｜定妆喷雾｜敏感肌适用护肤喷雾大全"
 intro_title: "💧 面部喷雾 - 随时补水，焕活肌肤光彩"

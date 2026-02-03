@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/ja/makeup/eyes/"
+url: "/ja/makeup/me/"
 
 seo_title: "アイメイク完全ガイド｜アイシャドウ・アイライナー・マスカラの選び方とテクニック"
 intro_title: "👁️ アイメイク完全ガイド - 魅力的な目元を作る秘訣"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/pt/maquiagem/false-lashes/"
+url: "/pt/maquiagem/cilios-posticos/"
 
 seo_title: "Cílios Postiços | Melhores Marcas e Preços Online"
 intro_title: "Cílios Postiços 👁️ Transforme Seu Olhar"

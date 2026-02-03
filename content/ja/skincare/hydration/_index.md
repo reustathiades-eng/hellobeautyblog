@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/ja/skincare/hydration/"
+url: "/ja/skincare/hosuiryoku/"
 
 seo_title: "保湿スキンケア完全ガイド｜乾燥肌対策と潤い美肌の作り方"
 intro_title: "💧 保湿スキンケアで理想の潤い美肌を手に入れよう"

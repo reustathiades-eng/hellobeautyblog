@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/nl/huidverzorging/sunscreen/"
+url: "/nl/huidverzorging/zonnebrand/"
 
 seo_title: "Zonnebrandcrème & Zonnecrème Kopen | UV Bescherming"
 intro_title: "Zonnebrandcrème ☀️ Complete UV Bescherming voor Elke Huidtype"

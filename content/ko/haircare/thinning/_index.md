@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"
 translationKey: "haircare-thinning"
-url: "/ko/haircare/thinning/"
+url: "/ko/haircare/ta-mo/"
 
 seo_title: "모발 탈모 관리 제품 추천 | 얇아지는 모발 케어 솔루션"
 intro_title: "얇아지는 모발 관리 💪 전문 케어로 건강한 모발 되찾기"

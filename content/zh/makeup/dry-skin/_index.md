@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"
 translationKey: "makeup-dry-skin"
-url: "/zh/makeup/dry-skin/"
+url: "/zh/makeup/ganxing-pifu/"
 
 seo_title: "干性肌肤化妆品推荐 | 保湿底妆遮瑕产品指南 - 专业美妆选购"
 intro_title: "💧 干性肌肤化妆品专区 - 滋润保湿美妆产品"

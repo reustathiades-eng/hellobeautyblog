@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/it/skincare/cleanser/"
+url: "/it/skincare/detergente/"
 
 seo_title: "Detergenti Viso: Scopri i Migliori Cleanser per Skincare"
 intro_title: "🧴 Detergenti Viso: La Base della Tua Routine di Skincare"

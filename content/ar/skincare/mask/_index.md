@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/ar/skincare/mask/"
+url: "/ar/skincare/qinaa/"
 
 seo_title: "أقنعة العناية بالبشرة - تسوق أفضل الماسكات للوجه اونلاين"
 intro_title: "أقنعة العناية بالبشرة 🎭 - حلولك المثالية للجمال"

@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/es/cabello/coily-hair/"
+url: "/es/cabello/cabello-ensortijado/"
 
 seo_title: "Cuidado para Cabello Rizado | Productos y Rutinas 2024"
 intro_title: "Cuidado del Cabello Rizado 🌀"

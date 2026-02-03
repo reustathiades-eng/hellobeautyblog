@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/fr/soins/moisturizer/"
+url: "/fr/soins/hydratant/"
 
 seo_title: "Crèmes Hydratantes Visage - Soins Beauté Premium"
 intro_title: "Crèmes Hydratantes 💧 - Le Secret d'une Peau Parfaite"

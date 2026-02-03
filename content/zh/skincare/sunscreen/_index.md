@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/zh/skincare/sunscreen/"
+url: "/zh/skincare/fangshaishuang/"
 
 seo_title: "防晒霜推荐2024 | 专业防晒产品选购指南 - 美妆护肤"
 intro_title: "☀️ 防晒霜 - 肌肤防护必备单品"

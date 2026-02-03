@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/tr/cilt-bakimi/mist/"
+url: "/tr/cilt-bakimi/sprey/"
 
 seo_title: "Yüz Spreyi ve Mist Ürünleri | En İyi Nemlendirici Sprey"
 intro_title: "Yüz Spreyi & Mist Ürünleri 💧"

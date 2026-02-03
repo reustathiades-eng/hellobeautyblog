@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/pl/pielegnacja/anti-aging/"
+url: "/pl/pielegnacja/przeciwstarzeniowe/"
 
 seo_title: "Kosmetyki Anti-Aging | Skuteczna Pielęgnacja Przeciwstarzeniowa"
 intro_title: "Anti-Aging - Kosmetyki Przeciwstarzeniowe 🌟"

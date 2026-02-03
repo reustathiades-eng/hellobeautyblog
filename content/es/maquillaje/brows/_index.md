@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/es/maquillaje/brows/"
+url: "/es/maquillaje/cejas/"
 
 seo_title: "Productos para Cejas - Lápices, Geles y Polvos | Makeup"
 intro_title: "Cejas Perfectas: Productos para Definir y Realzar 🤎"

@@ -5,7 +5,7 @@ emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"
 translationKey: "skincare-vitamin-c"
-url: "/tr/cilt-bakimi/vitamin-c/"
+url: "/tr/cilt-bakimi/c-vitamini/"
 
 seo_title: "Vitamin C Cilt Bakımı Ürünleri | En İyi C Vitamini Serumu"
 intro_title: "🍊 Vitamin C ile Cilt Bakımı: Aydınlık ve Genç Cilt"

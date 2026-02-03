@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/pl/wlosy/curly-hair/"
+url: "/pl/wlosy/wlosy-krecone/"
 
 seo_title: "Pielęgnacja Włosów Kręconych - Kosmetyki i Porady"
 intro_title: "Pielęgnacja Włosów Kręconych 🌀"

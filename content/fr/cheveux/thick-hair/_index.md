@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/fr/cheveux/thick-hair/"
+url: "/fr/cheveux/cheveux-epais/"
 
 seo_title: "Soins Cheveux Épais : Produits & Conseils pour Cheveux Volumineux"
 intro_title: "Soins pour Cheveux Épais 💪"

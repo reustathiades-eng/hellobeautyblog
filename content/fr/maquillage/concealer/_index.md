@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/fr/maquillage/concealer/"
+url: "/fr/maquillage/anticernes/"
 
 seo_title: "Anticernes - Correcteurs & Caches-cernes | Maquillage"
 intro_title: "Anticernes : Le Secret d'un Teint Parfait ✨"

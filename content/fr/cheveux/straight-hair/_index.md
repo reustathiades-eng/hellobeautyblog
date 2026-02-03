@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/fr/cheveux/straight-hair/"
+url: "/fr/cheveux/cheveux-raides/"
 
 seo_title: "Soins Cheveux Raides : Guide Complet & Produits Experts"
 intro_title: "✨ Cheveux Raides : Le Guide Ultime pour des Cheveux Parfaits"

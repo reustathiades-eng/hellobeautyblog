@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/de/make-up/powder/"
+url: "/de/make-up/puder/"
 
 seo_title: "Puder kaufen - Premium Makeup Powder online bestellen"
 intro_title: "💫 Puder - Perfekter Teint für jeden Hauttyp"

@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/ar/skincare/sensitive/"
+url: "/ar/skincare/hassas/"
 
 seo_title: "منتجات العناية بالبشرة الحساسة - مستحضرات طبيعية وآمنة"
 intro_title: "🌸 العناية بالبشرة الحساسة - منتجات طبيعية ولطيفة"

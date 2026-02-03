@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/nl/haarverzorging/color-protection/"
+url: "/nl/haarverzorging/kleurbescherming/"
 
 seo_title: "Kleurbescherming Haarverzorging | Behoud Jouw Haarkleur"
 intro_title: "Kleurbescherming voor je Haar 🌈"

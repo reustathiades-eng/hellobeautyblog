@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/pl/makijaz/lips/"
+url: "/pl/makijaz/usta/"
 
 seo_title: "Makijaż Ust - Szminki, Błyszczyki i Pomadki | Kosmetyki"
 intro_title: "Makijaż Ust 💋 - Odkryj Idealny Kolor dla Siebie"

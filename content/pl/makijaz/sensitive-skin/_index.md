@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/pl/makijaz/sensitive-skin/"
+url: "/pl/makijaz/wrazliwa-skora/"
 
 seo_title: "Makijaż dla skóry wrażliwej | Kosmetyki hipoalergiczne"
 intro_title: "Makijaż dla skóry wrażliwej 💕"

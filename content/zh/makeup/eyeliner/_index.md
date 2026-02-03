@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/zh/makeup/eyeliner/"
+url: "/zh/makeup/yanxian-bi/"
 
 seo_title: "眼线笔眼线液推荐｜防水不晕染眼线产品选购指南"
 intro_title: "✨ 眼线产品大全 - 打造完美眼妆必备"

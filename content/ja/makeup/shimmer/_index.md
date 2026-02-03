@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"
 translationKey: "makeup-shimmer"
-url: "/ja/makeup/shimmer/"
+url: "/ja/makeup/shimmaa/"
 
 seo_title: "シマーメイク完全ガイド｜輝く美しさを叶えるコスメ選び"
 intro_title: "✨ シマーメイクで叶える輝く美しさ"

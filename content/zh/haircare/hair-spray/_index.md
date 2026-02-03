@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/zh/haircare/hair-spray/"
+url: "/zh/haircare/ding-xing-pen/"
 
 seo_title: "定型喷雾_造型喷雾_头发定型产品_专业护发定型喷雾推荐"
 intro_title: "💫 定型喷雾 - 专业造型护发产品"

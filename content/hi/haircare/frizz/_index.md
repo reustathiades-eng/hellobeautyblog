@@ -5,7 +5,7 @@ emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"
 translationKey: "haircare-frizz"
-url: "/hi/haircare/frizz/"
+url: "/hi/haircare/bekaboo-baal/"
 
 seo_title: "बेझिझक बालों का इलाज - फ्रिज़ी हेयर केयर टिप्स और उत्पाद"
 intro_title: "फ्रिज़ी बालों की समस्या का समाधान 🌟"

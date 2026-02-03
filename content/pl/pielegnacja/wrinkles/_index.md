@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/pl/pielegnacja/wrinkles/"
+url: "/pl/pielegnacja/zmarszczki/"
 
 seo_title: "Kosmetyki przeciwzmarszczkowe - skuteczna pielęgnacja"
 intro_title: "Kosmetyki przeciwzmarszczkowe ✨"

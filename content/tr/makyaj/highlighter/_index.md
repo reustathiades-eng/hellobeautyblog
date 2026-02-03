@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"
 translationKey: "makeup-highlighter"
-url: "/tr/makyaj/highlighter/"
+url: "/tr/makyaj/aydinlatici/"
 
 seo_title: "Aydınlatıcı - Highlighter Makyaj Ürünleri | En İyi Fiyatlar"
 intro_title: "✨ Aydınlatıcı - Highlighter Koleksiyonu"

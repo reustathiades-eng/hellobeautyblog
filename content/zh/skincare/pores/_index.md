@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/zh/skincare/pores/"
+url: "/zh/skincare/maokong/"
 
 seo_title: "毛孔护理产品推荐 | 收缩毛孔精华乳液面膜 - 专业毛孔护理解决方案"
 intro_title: "🌟 毛孔护理专区 - 告别粗大毛孔，重现光滑肌肤"

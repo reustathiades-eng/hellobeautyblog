@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/ja/makeup/setting-spray/"
+url: "/ja/makeup/settingu-supuree/"
 
 seo_title: "セッティングスプレー｜メイク仕上げに最適な化粧品通販サイト"
 intro_title: "💧 セッティングスプレー - メイクを長時間キープ"

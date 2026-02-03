@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/nl/huidverzorging/dark-spots/"
+url: "/nl/huidverzorging/donkere-vlekken/"
 
 seo_title: "Donkere Vlekken Behandelen | Pigmentvlekken Verzorging"
 intro_title: "✨ Donkere Vlekken & Pigmentvlekken Verzorging"

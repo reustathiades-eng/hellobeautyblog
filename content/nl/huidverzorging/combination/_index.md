@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/nl/huidverzorging/combination/"
+url: "/nl/huidverzorging/gemengde-huid/"
 
 seo_title: "Huidverzorging voor Gemengde Huid | Beste Producten Online"
 intro_title: "Huidverzorging voor Gemengde Huid ✨"

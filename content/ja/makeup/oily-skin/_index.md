@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/ja/makeup/oily-skin/"
+url: "/ja/makeup/abura-hada/"
 
 seo_title: "オイリー肌向けメイク完全ガイド｜テカリ知らずの美肌メイク術"
 intro_title: "オイリー肌のためのメイク術 ✨ 一日中崩れない美肌を叶える"

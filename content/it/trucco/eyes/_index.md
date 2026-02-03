@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/it/trucco/eyes/"
+url: "/it/trucco/occhi/"
 
 seo_title: "Makeup Occhi: Trucco e Cosmetici per il Contorno Occhi"
 intro_title: "Makeup Occhi 👁️ Trucco e Cosmetici per Sguardi Perfetti"

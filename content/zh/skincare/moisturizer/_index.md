@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/zh/skincare/moisturizer/"
+url: "/zh/skincare/baoshi-shuang/"
 
 seo_title: "面霜保湿霜推荐 | 补水锁水护肤品选购指南 | 专业美容护肤"
 intro_title: "💧 保湿霜面霜 - 水润肌肤的秘密武器"

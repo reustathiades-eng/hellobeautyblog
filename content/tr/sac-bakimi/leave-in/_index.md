@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/tr/sac-bakimi/leave-in/"
+url: "/tr/sac-bakimi/durulanmaz/"
 
 seo_title: "Leave-In Saç Bakım Ürünleri | Kalıcı Koruma ve Beslenme"
 intro_title: "✨ Leave-In Saç Bakım Ürünleri"

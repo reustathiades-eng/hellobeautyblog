@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/ja/haircare/hair-spray/"
+url: "/ja/haircare/heasupuree/"
 
 seo_title: "ヘアスプレー通販 | スタイリング・キープ力抜群の人気ブランド一覧"
 intro_title: "💨 ヘアスプレー - 理想のヘアスタイルを一日中キープ"

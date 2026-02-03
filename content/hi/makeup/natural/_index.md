@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"
 translationKey: "makeup-natural"
-url: "/hi/makeup/natural/"
+url: "/hi/makeup/prakritik/"
 
 seo_title: "नेचुरल मेकअप फिनिश - प्राकृतिक लुक के लिए बेस्ट प्रोडक्ट्स"
 intro_title: "नेचुरल मेकअप फिनिश ✨ - प्राकृतिक और ग्लो भरा लुक"

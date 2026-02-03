@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/nl/huidverzorging/hydration/"
+url: "/nl/huidverzorging/hydratatie/"
 
 seo_title: "Hydraterende Huidverzorging | Droge Huid Verzorgen"
 intro_title: "Hydraterende Huidverzorging 💧"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/hi/makeup/false-lashes/"
+url: "/hi/makeup/nakli-palken/"
 
 seo_title: "फॉल्स आईलैशेज - बेस्ट आर्टिफिशियल पलकें | ऑनलाइन"
 intro_title: "फॉल्स आईलैशेज - खूबसूरत आंखों का राज 👁️✨"

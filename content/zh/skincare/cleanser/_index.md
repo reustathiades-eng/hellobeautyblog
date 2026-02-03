@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/zh/skincare/cleanser/"
+url: "/zh/skincare/jieyan-lu/"
 
 seo_title: "洁面乳推荐｜温和深层清洁洗面奶｜敏感肌适用洁面产品大全"
 intro_title: "🧴 洁面乳 - 温和深层清洁，开启护肤第一步"

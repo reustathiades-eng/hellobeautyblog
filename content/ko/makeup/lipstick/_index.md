@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/ko/makeup/lipstick/"
+url: "/ko/makeup/lib-seu-tik/"
 
 seo_title: "립스틱 추천 | 인기 브랜드 립스틱 모음 | 온라인 화장품 쇼핑몰"
 intro_title: "💋 립스틱 - 완벽한 입술 연출의 필수템"

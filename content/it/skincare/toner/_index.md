@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"
 translationKey: "skincare-toner"
-url: "/it/skincare/toner/"
+url: "/it/skincare/tonico/"
 
 seo_title: "Tonico Viso: I Migliori Prodotti per la Tua Routine"
 intro_title: "🌸 Tonico Viso: La Chiave per una Pelle Perfetta"

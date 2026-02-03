@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/hi/skincare/cleanser/"
+url: "/hi/skincare/safai-karne-wala/"
 
 seo_title: "बेस्ट फेस क्लींजर ऑनलाइन खरीदें | सभी स्किन टाइप के लिए"
 intro_title: "🧴 फेस क्लींजर - साफ और चमकदार त्वचा का राज"

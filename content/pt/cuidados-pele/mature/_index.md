@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/pt/cuidados-pele/mature/"
+url: "/pt/cuidados-pele/madura/"
 
 seo_title: "Cuidados para Pele Madura - Produtos Anti-Idade | Skincare"
 intro_title: "✨ Cuidados Especiais para Pele Madura"

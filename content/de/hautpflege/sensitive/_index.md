@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"
 translationKey: "skincare-sensitive"
-url: "/de/hautpflege/sensitive/"
+url: "/de/hautpflege/empfindlich/"
 
 seo_title: "Empfindliche Haut Pflege | Sanfte Hautpflege für sensible Haut"
 intro_title: "🌸 Hautpflege für empfindliche Haut"

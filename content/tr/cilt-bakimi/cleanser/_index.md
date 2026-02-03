@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/tr/cilt-bakimi/cleanser/"
+url: "/tr/cilt-bakimi/temizleyici/"
 
 seo_title: "Yüz Temizleme Ürünleri | En İyi Temizleyiciler"
 intro_title: "🧴 Yüz Temizleme Ürünleri - Cildin Temizlik Rutini"

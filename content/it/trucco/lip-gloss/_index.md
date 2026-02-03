@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/it/trucco/lip-gloss/"
+url: "/it/trucco/lucidalabbra/"
 
 seo_title: "Lucidalabbra: Scopri i Migliori Lip Gloss per Labbra"
 intro_title: "✨ Lucidalabbra: La Guida Completa ai Lip Gloss"

@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/zh/makeup/brows/"
+url: "/zh/makeup/mei-mao/"
 
 seo_title: "眉毛彩妆产品大全 - 眉笔眉粉眉膏专业选择指南 | 打造完美眉形"
 intro_title: "眉毛彩妆 ✨ 塑造完美眉形的专业选择"

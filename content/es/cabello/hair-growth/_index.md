@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/es/cabello/hair-growth/"
+url: "/es/cabello/crecimiento-cabello/"
 
 seo_title: "Productos para Crecimiento del Cabello - Guía Completa"
 intro_title: "🌱 Crecimiento del Cabello: Todo lo que Necesitas Saber"

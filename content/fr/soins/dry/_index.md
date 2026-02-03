@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/fr/soins/dry/"
+url: "/fr/soins/seche/"
 
 seo_title: "Soins Visage Peau Sèche - Hydratation et Réparation"
 intro_title: "💧 Soins pour Peau Sèche - Hydratation Intense"

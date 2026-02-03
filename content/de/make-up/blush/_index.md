@@ -5,7 +5,7 @@ emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"
 translationKey: "makeup-blush"
-url: "/de/make-up/blush/"
+url: "/de/make-up/rouge/"
 
 seo_title: "Rouge & Blush kaufen - Natürliche Farbe für Ihre Wangen"
 intro_title: "Rouge & Blush 🌹 Für einen strahlenden Teint"

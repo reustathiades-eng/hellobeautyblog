@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/pt/cabelos/curly-hair/"
+url: "/pt/cabelos/cabelo-cacheado/"
 
 seo_title: "Cabelo Cacheado: Produtos e Dicas para Cuidados Especiais"
 intro_title: "Cabelo Cacheado: Guia Completo para Cachos Perfeitos 🌀"

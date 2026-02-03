@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/hi/skincare/oily/"
+url: "/hi/skincare/chamikli/"
 
 seo_title: "तैलीय त्वचा के लिए स्किनकेयर प्रोडक्ट्स - ऑयली स्किन केयर"
 intro_title: "तैलीय त्वचा के लिए स्किनकेयर 🌟"

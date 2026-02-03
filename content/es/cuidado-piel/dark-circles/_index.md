@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/es/cuidado-piel/dark-circles/"
+url: "/es/cuidado-piel/ojeras/"
 
 seo_title: "Ojeras: Tratamientos y Productos Efectivos | Guía 2024"
 intro_title: "Elimina las Ojeras: Tu Guía Completa 👁️✨"

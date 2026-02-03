@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/pt/maquiagem/oily-skin/"
+url: "/pt/maquiagem/pele-oleosa/"
 
 seo_title: "Maquiagem para Pele Oleosa - Produtos e Dicas Especiais"
 intro_title: "Maquiagem para Pele Oleosa 💎"

@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"
 translationKey: "haircare-styling-gel"
-url: "/es/cabello/styling-gel/"
+url: "/es/cabello/gel-peinado/"
 
 seo_title: "Geles de Peinado para Cabello - Control y Definición"
 intro_title: "✨ Geles de Peinado: Define tu Estilo con Control Duradero"

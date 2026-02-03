@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/it/capelli/leave-in/"
+url: "/it/capelli/senza-risciacquo/"
 
 seo_title: "Prodotti Leave-in per Capelli | Cura Senza Risciacquo"
 intro_title: "Prodotti Leave-in per Capelli ✨"

@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/tr/sac-bakimi/wavy-hair/"
+url: "/tr/sac-bakimi/dalgali-sac/"
 
 seo_title: "Dalgalı Saç Bakımı: Ürünler, Rutinler ve Uzman Tavsiyeleri"
 intro_title: "🌊 Dalgalı Saç Bakımı Rehberi"

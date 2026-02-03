@@ -5,7 +5,7 @@ emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"
 translationKey: "makeup-nails"
-url: "/tr/makyaj/nails/"
+url: "/tr/makyaj/tirnaklar/"
 
 seo_title: "Tırnak Bakımı ve Oje Ürünleri | En İyi Nail Art Koleksiyonu"
 intro_title: "💅 Tırnak Bakımı ve Oje Dünyası"

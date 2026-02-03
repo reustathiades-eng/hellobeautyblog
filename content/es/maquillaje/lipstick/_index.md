@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/es/maquillaje/lipstick/"
+url: "/es/maquillaje/pintalabios/"
 
 seo_title: "Labiales de Calidad Premium - Maquillaje Profesional"
 intro_title: "💋 Labiales: El Toque Perfecto para tus Labios"

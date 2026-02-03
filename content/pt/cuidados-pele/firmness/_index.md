@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/pt/cuidados-pele/firmness/"
+url: "/pt/cuidados-pele/firmeza/"
 
 seo_title: "Firmeza da Pele: Produtos e Tratamentos Anti-Idade"
 intro_title: "Firmeza da Pele: Recupere a Elasticidade Natural 🌟"

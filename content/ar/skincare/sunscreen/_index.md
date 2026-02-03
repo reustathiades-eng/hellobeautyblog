@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/ar/skincare/sunscreen/"
+url: "/ar/skincare/waqee-shams/"
 
 seo_title: "واقي الشمس - أفضل كريمات الحماية من الأشعة الضارة"
 intro_title: "واقي الشمس ☀️ - حماية مثالية لبشرتك من الأشعة الضارة"

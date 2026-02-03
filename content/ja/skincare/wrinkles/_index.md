@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/ja/skincare/wrinkles/"
+url: "/ja/skincare/shiwa/"
 
 seo_title: "しわケア化粧品・アンチエイジング商品一覧｜効果的なスキンケア"
 intro_title: "しわケア・アンチエイジング化粧品 ✨"

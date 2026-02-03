@@ -5,7 +5,7 @@ emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"
 translationKey: "makeup-full-coverage"
-url: "/it/trucco/full-coverage/"
+url: "/it/trucco/coprenza-totale/"
 
 seo_title: "Makeup Full Coverage: Fondotinta e Prodotti Coprenza Totale"
 intro_title: "Makeup Full Coverage: La Guida Completa alla Coprenza Perfetta ✨"

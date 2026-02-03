@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"
 translationKey: "skincare-cleanser"
-url: "/nl/huidverzorging/cleanser/"
+url: "/nl/huidverzorging/reiniger/"
 
 seo_title: "Gezichtsreinigers Kopen | Beste Cleansers Online"
 intro_title: "🧴 Gezichtsreinigers voor Elke Huidtype"

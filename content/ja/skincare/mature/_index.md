@@ -5,7 +5,7 @@ emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"
 translationKey: "skincare-mature"
-url: "/ja/skincare/mature/"
+url: "/ja/skincare/seijuku/"
 
 seo_title: "成熟肌スキンケア商品一覧｜エイジングケア化粧品の専門店"
 intro_title: "🌸 成熟肌のためのスキンケア商品"

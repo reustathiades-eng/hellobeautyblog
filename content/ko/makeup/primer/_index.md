@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"
 translationKey: "makeup-primer"
-url: "/ko/makeup/primer/"
+url: "/ko/makeup/peu-lai-meo/"
 
 seo_title: "프라이머 추천 | 베이스 메이크업 완성도를 높이는 화장 프라이머 모음"
 intro_title: "💄 프라이머 - 완벽한 베이스 메이크업의 시작"

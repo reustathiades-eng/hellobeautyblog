@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/ko/makeup/eyeliner/"
+url: "/ko/makeup/ai-lai-neo/"
 
 seo_title: "아이라이너 추천 | 워터프루프 펜슬 젤 리퀴드 아이라이너 모음"
 intro_title: "✨ 완벽한 아이라인을 위한 아이라이너 컬렉션"

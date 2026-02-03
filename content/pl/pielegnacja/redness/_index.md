@@ -5,7 +5,7 @@ emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"
 translationKey: "skincare-redness"
-url: "/pl/pielegnacja/redness/"
+url: "/pl/pielegnacja/zaczerwienienia/"
 
 seo_title: "Pielęgnacja Skóry z Zaczerwienieniami - Kosmetyki"
 intro_title: "🌹 Pielęgnacja Skóry z Zaczerwienieniami"

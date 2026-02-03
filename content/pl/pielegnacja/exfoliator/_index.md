@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/pl/pielegnacja/exfoliator/"
+url: "/pl/pielegnacja/peeling/"
 
 seo_title: "Peelingi do Twarzy - Najlepsze Eksfoliatory | Sklep"
 intro_title: "Peelingi do Twarzy ✨ Odkryj Moc Eksfoliacji"

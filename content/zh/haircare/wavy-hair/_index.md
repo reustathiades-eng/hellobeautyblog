@@ -5,7 +5,7 @@ emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"
 translationKey: "haircare-wavy-hair"
-url: "/zh/haircare/wavy-hair/"
+url: "/zh/haircare/bo-lang-fa/"
 
 seo_title: "波浪卷发护理指南 - 专业波浪发型护理产品推荐与造型技巧"
 intro_title: "🌊 波浪卷发护理完全指南"

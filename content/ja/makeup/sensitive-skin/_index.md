@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"
 translationKey: "makeup-sensitive-skin"
-url: "/ja/makeup/sensitive-skin/"
+url: "/ja/makeup/binkan-hada/"
 
 seo_title: "敏感肌向けメイクアップ｜優しい化粧品で美しく仕上げるコツとおすすめアイテム"
 intro_title: "敏感肌向けメイクアップ 💕 優しく美しく仕上げる方法"

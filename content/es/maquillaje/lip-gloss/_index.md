@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"
 translationKey: "makeup-lip-gloss"
-url: "/es/maquillaje/lip-gloss/"
+url: "/es/maquillaje/brillo-labios/"
 
 seo_title: "Brillo Labial | Los Mejores Lip Gloss - Belleza Online"
 intro_title: "💋 Brillo Labial - Dale Vida y Color a tus Labios"

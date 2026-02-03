@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"
 translationKey: "haircare-hair-oil"
-url: "/pl/wlosy/hair-oil/"
+url: "/pl/wlosy/olejek-do-wlosow/"
 
 seo_title: "Olejki do Włosów - Naturalna Pielęgnacja | Sklep Online"
 intro_title: "Olejki do Włosów 💆‍♀️ Naturalna Pielęgnacja dla Zdrowych Kosmyków"

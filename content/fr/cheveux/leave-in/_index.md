@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/fr/cheveux/leave-in/"
+url: "/fr/cheveux/sans-rincage/"
 
 seo_title: "Soins Sans Rinçage - Leave-in pour Cheveux | Guide Complet"
 intro_title: "🌿 Soins Sans Rinçage : Nourrissez Vos Cheveux en Profondeur"

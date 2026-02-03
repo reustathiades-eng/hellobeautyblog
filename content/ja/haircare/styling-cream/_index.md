@@ -5,7 +5,7 @@ emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"
 translationKey: "haircare-styling-cream"
-url: "/ja/haircare/styling-cream/"
+url: "/ja/haircare/sutairingukuriimu/"
 
 seo_title: "スタイリングクリーム | 髪をまとめるヘアケア商品一覧"
 intro_title: "💫 スタイリングクリームで理想のヘアスタイルを"

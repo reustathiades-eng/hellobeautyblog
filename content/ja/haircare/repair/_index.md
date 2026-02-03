@@ -5,7 +5,7 @@ emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"
 translationKey: "haircare-repair"
-url: "/ja/haircare/repair/"
+url: "/ja/haircare/shuufuku/"
 
 seo_title: "髪の修復・ダメージケア｜プロが教える効果的なヘアリペア方法"
 intro_title: "✨ 髪の修復・ダメージケア完全ガイド"

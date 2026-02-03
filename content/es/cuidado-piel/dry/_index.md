@@ -5,7 +5,7 @@ emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"
 translationKey: "skincare-dry"
-url: "/es/cuidado-piel/dry/"
+url: "/es/cuidado-piel/seca/"
 
 seo_title: "Cuidado de la Piel Seca - Productos y Rutinas Efectivas"
 intro_title: "💧 Cuidado Especializado para Piel Seca"

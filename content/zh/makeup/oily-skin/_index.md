@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/zh/makeup/oily-skin/"
+url: "/zh/makeup/youxing-pifu/"
 
 seo_title: "油性肌肤化妆技巧与产品推荐 - 控油持久妆容指南"
 intro_title: "💄 油性肌肤化妆全攻略 - 打造持久无油光妆容"

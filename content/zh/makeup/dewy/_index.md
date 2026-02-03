@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/zh/makeup/dewy/"
+url: "/zh/makeup/shuirun/"
 
 seo_title: "水光妆容产品大全 | 打造自然透亮肌肤妆效 | 专业美妆指南"
 intro_title: "✨ 水光妆容 - 打造自然透亮的完美肌肤"

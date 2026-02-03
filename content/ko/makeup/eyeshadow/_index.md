@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"
 translationKey: "makeup-eyeshadow"
-url: "/ko/makeup/eyeshadow/"
+url: "/ko/makeup/ai-syae-do/"
 
 seo_title: "아이섀도 추천 | 인기 브랜드별 아이섀도 팔레트 모음 - 뷰티샵"
 intro_title: "✨ 완벽한 눈매를 위한 아이섀도 컬렉션"

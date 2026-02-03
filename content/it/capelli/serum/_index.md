@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "haircare-serum"
-url: "/it/capelli/serum/"
+url: "/it/capelli/siero/"
 
 seo_title: "Sieri per Capelli: Trattamenti Intensivi e Nutrienti"
 intro_title: "Sieri per Capelli ✨ Trattamenti di Bellezza Intensivi"

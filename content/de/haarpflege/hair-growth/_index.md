@@ -5,7 +5,7 @@ emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"
 translationKey: "haircare-hair-growth"
-url: "/de/haarpflege/hair-growth/"
+url: "/de/haarpflege/haarwachstum/"
 
 seo_title: "Haarwachstum fördern: Tipps & Produkte für kräftiges Haar"
 intro_title: "Haarwachstum fördern 🌱 Natürlich zu vollerem Haar"

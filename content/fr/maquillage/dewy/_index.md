@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/fr/maquillage/dewy/"
+url: "/fr/maquillage/effet-rose/"
 
 seo_title: "Maquillage Effet Rosée : Produits & Astuces pour un Teint Dewy"
 intro_title: "Maquillage Effet Rosée ✨ : L'Art du Teint Lumineux Naturel"

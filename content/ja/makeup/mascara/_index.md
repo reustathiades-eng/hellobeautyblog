@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/ja/makeup/mascara/"
+url: "/ja/makeup/masukara/"
 
 seo_title: "マスカラ通販 | ウォータープルーフ・ロングタイプまで豊富な品揃え"
 intro_title: "💫 マスカラ - 印象的な目元を演出するアイメイクの必需品"

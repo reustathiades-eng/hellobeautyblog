@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"
 translationKey: "skincare-oily"
-url: "/tr/cilt-bakimi/oily/"
+url: "/tr/cilt-bakimi/yagli/"
 
 seo_title: "Yağlı Cilt Bakımı | En İyi Ürünler ve Öneriler"
 intro_title: "Yağlı Cilt Bakımı 🌟"

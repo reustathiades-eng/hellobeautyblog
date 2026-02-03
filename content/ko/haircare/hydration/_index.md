@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/ko/haircare/hydration/"
+url: "/ko/haircare/soobuun/"
 
 seo_title: "모발 수분 관리 제품 추천 | 건조한 머리카락 케어 솔루션"
 intro_title: "💧 모발 수분 관리 - 건조하고 거친 머리카락을 위한 완벽한 솔루션"

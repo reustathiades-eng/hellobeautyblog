@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/zh/makeup/eyes/"
+url: "/zh/makeup/yan-bu/"
 
 seo_title: "眼部彩妆大全 - 眼影、眼线、睫毛膏专业选购指南 | 美妆专区"
 intro_title: "👁️ 眼部彩妆专区 - 打造迷人双眸的完美选择"

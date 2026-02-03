@@ -5,7 +5,7 @@ emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"
 translationKey: "haircare-serum"
-url: "/ko/haircare/serum/"
+url: "/ko/haircare/seeom/"
 
 seo_title: "헤어 세럼 | 모발 영양 세럼 | 헤어케어 전문 쇼핑몰"
 intro_title: "✨ 헤어 세럼으로 완성하는 건강하고 윤기나는 모발"

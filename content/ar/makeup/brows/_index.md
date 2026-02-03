@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/ar/makeup/brows/"
+url: "/ar/makeup/haajibyan/"
 
 seo_title: "منتجات الحواجب - قلم حواجب، جل، بودرة | متجر المكياج"
 intro_title: "منتجات الحواجب المثالية 💄✨"

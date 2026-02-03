@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/nl/haarverzorging/hydration/"
+url: "/nl/haarverzorging/hydratatie/"
 
 seo_title: "Droog Haar Hydrateren - Beste Producten & Tips 2024"
 intro_title: "Haar Hydratatie 💧 Vocht voor Droog & Beschadigd Haar"

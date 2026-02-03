@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/ar/makeup/lips/"
+url: "/ar/makeup/shafayf/"
 
 seo_title: "مكياج الشفاه - أحمر شفاه وملمعات وأقلام تحديد"
 intro_title: "مكياج الشفاه 💋 أجمل الألوان والإطلالات"

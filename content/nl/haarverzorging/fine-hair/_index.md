@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/nl/haarverzorging/fine-hair/"
+url: "/nl/haarverzorging/fijn-haar/"
 
 seo_title: "Fijn Haar Verzorging | Tips & Producten voor Volume"
 intro_title: "Fijn Haar Verzorging 💫 Volume en Body Tips"

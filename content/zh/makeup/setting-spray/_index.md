@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"
 translationKey: "makeup-setting-spray"
-url: "/zh/makeup/setting-spray/"
+url: "/zh/makeup/dingzhuang-pen/"
 
 seo_title: "定妆喷雾推荐 | 持久定妆不脱妆 | 专业化妆品商城"
 intro_title: "💧 定妆喷雾 - 完美妆容持久不脱妆"

@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/ko/makeup/mascara/"
+url: "/ko/makeup/ma-seu-ka-ra/"
 
 seo_title: "마스카라 추천 | 볼륨업·컬링·워터프루프 마스카라 모음"
 intro_title: "💫 완벽한 속눈썹 연출을 위한 마스카라"

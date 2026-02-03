@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/tr/makyaj/brows/"
+url: "/tr/makyaj/kas/"
 
 seo_title: "Kaş Ürünleri | Kaş Kalemi, Jel ve Pudra Çeşitleri"
 intro_title: "🔥 Kaş Ürünleri ile Mükemmel Bakış"

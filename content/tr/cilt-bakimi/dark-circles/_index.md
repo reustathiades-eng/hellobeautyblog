@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"
 translationKey: "skincare-dark-circles"
-url: "/tr/cilt-bakimi/dark-circles/"
+url: "/tr/cilt-bakimi/goز-alti-morarliklari/"
 
 seo_title: "Göz Altı Morlukları İçin Etkili Bakım Ürünleri | 2024"
 intro_title: "👁️ Göz Altı Morlukları ve Halkaları İçin Etkili Çözümler"

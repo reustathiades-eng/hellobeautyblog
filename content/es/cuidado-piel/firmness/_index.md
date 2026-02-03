@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/es/cuidado-piel/firmness/"
+url: "/es/cuidado-piel/firmeza/"
 
 seo_title: "Productos para la Firmeza de la Piel | Cosméticos Anti-Edad"
 intro_title: "🌟 Productos para Mejorar la Firmeza de tu Piel"

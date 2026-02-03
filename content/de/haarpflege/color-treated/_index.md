@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/de/haarpflege/color-treated/"
+url: "/de/haarpflege/coloriertes-haar/"
 
 seo_title: "Coloriertes Haar pflegen ✨ Tipps & Produkte für gefärbte Haare"
 intro_title: "Haarpflege für coloriertes Haar 🌈"

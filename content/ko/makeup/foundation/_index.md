@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"
 translationKey: "makeup-foundation"
-url: "/ko/makeup/foundation/"
+url: "/ko/makeup/paun-de-i-syeon/"
 
 seo_title: "파운데이션 추천 | 완벽한 베이스 메이크업을 위한 파운데이션 모음"
 intro_title: "💄 완벽한 베이스를 위한 파운데이션"

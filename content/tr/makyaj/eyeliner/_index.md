@@ -5,7 +5,7 @@ emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"
 translationKey: "makeup-eyeliner"
-url: "/tr/makyaj/eyeliner/"
+url: "/tr/makyaj/goz-kalemi/"
 
 seo_title: "Eyeliner Çeşitleri | En İyi Göz Kalemi Modelleri"
 intro_title: "✨ Eyeliner - Göz Makyajının Vazgeçilmezi"

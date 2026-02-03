@@ -5,7 +5,7 @@ emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"
 translationKey: "makeup-lips"
-url: "/pt/maquiagem/lips/"
+url: "/pt/maquiagem/labios/"
 
 seo_title: "Maquiagem para Lábios: Batons, Gloss e Produtos Labiais"
 intro_title: "Maquiagem para Lábios 💋"

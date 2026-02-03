@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/hi/haircare/coily-hair/"
+url: "/hi/haircare/kunchit-baal/"
 
 seo_title: "कॉयली हेयर केयर टिप्स और प्रोडक्ट्स - घुंघराले बालों की देखभाल"
 intro_title: "कॉयली हेयर की पूर्ण गाइड 🌀"

@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/tr/makyaj/powder/"
+url: "/tr/makyaj/pudra/"
 
 seo_title: "Pudra Çeşitleri ve Fiyatları | En İyi Pudra Markaları"
 intro_title: "✨ Pudra - Mükemmel Makyaj İçin"

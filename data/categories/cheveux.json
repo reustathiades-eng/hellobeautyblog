@@ -91,27 +91,27 @@
           {
             "name": "Cheveux Fins",
             "emoji": "🪶",
-            "url": "/fr/cheveux/fine-hair/"
+            "url": "/fr/cheveux/cheveux-fins/"
           },
           {
             "name": "Cheveux Épais",
             "emoji": "🦁",
-            "url": "/fr/cheveux/thick-hair/"
+            "url": "/fr/cheveux/cheveux-epais/"
           },
           {
             "name": "Cheveux Bouclés",
             "emoji": "🌀",
-            "url": "/fr/cheveux/curly-hair/"
+            "url": "/fr/cheveux/cheveux-boucles/"
           },
           {
             "name": "Cheveux Lisses",
             "emoji": "📏",
-            "url": "/fr/cheveux/straight-hair/"
+            "url": "/fr/cheveux/cheveux-raides/"
           },
           {
             "name": "Cheveux Colorés",
             "emoji": "🎨",
-            "url": "/fr/cheveux/color-treated/"
+            "url": "/fr/cheveux/cheveux-colores/"
           }
         ]
       },
@@ -126,22 +126,22 @@
           {
             "name": "Réparation",
             "emoji": "🔧",
-            "url": "/fr/cheveux/repair/"
+            "url": "/fr/cheveux/reparation/"
           },
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/fr/cheveux/hydration/"
+            "url": "/fr/cheveux/hydratation/"
           },
           {
             "name": "Pellicules",
             "emoji": "❄️",
-            "url": "/fr/cheveux/dandruff/"
+            "url": "/fr/cheveux/pellicules/"
           },
           {
             "name": "Protection Couleur",
             "emoji": "🛡️",
-            "url": "/fr/cheveux/color-protection/"
+            "url": "/fr/cheveux/protection-couleur/"
           }
         ]
       }

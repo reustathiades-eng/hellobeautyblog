@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/pl/wlosy/dandruff/"
+url: "/pl/wlosy/lupież/"
 
 seo_title: "Łupież - Skuteczne Sposoby Leczenia i Pielęgnacji"
 intro_title: "Łupież - Kompletny Przewodnik po Leczeniu i Pielęgnacji ❄️"

@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/tr/makyaj/face/"
+url: "/tr/makyaj/yuz/"
 
 seo_title: "Yüz Makyajı Ürünleri | Fondöten, Kapatıcı ve Allık"
 intro_title: "Yüz Makyajı 💄 Mükemmel Ten İçin Tüm Ürünler"

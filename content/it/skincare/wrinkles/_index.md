@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/it/skincare/wrinkles/"
+url: "/it/skincare/rughe/"
 
 seo_title: "Creme Anti Rughe e Prodotti Anti-Age | Trattamenti Viso"
 intro_title: "Prodotti Anti Rughe: Trattamenti Efficaci per un Viso Giovane ✨"

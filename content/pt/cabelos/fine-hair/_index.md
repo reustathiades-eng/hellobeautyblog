@@ -5,7 +5,7 @@ emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"
 translationKey: "haircare-fine-hair"
-url: "/pt/cabelos/fine-hair/"
+url: "/pt/cabelos/cabelo-fino/"
 
 seo_title: "Cabelos Finos: Guia Completo de Cuidados e Produtos"
 intro_title: "Cuidados Especiais para Cabelos Finos 💆‍♀️"

@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"
 translationKey: "makeup-eyes"
-url: "/hi/makeup/eyes/"
+url: "/hi/makeup/aankhen/"
 
 seo_title: "आंखों के लिए मेकअप | आई मेकअप प्रोडक्ट्स ऑनलाइन"
 intro_title: "आंखों के लिए मेकअप 👁️✨"

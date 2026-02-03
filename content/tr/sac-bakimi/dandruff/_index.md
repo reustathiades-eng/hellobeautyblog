@@ -5,7 +5,7 @@ emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"
 translationKey: "haircare-dandruff"
-url: "/tr/sac-bakimi/dandruff/"
+url: "/tr/sac-bakimi/kepek/"
 
 seo_title: "Kepek Sorunu Çözümü | En Etkili Kepek Karşıtı Ürünler"
 intro_title: "Kepek Sorunu Çözümü 🌿"

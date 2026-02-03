@@ -5,7 +5,7 @@ emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"
 translationKey: "makeup-brows"
-url: "/ko/makeup/brows/"
+url: "/ko/makeup/nun-ssop/"
 
 seo_title: "아이브로우 제품 - 눈썹 펜슬, 파우더, 젤 | 완벽한 눈썹 메이크업"
 intro_title: "✨ 완벽한 눈썹을 위한 아이브로우 제품"

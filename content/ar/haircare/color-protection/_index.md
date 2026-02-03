@@ -5,7 +5,7 @@ emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"
 translationKey: "haircare-color-protection"
-url: "/ar/haircare/color-protection/"
+url: "/ar/haircare/himayat-al-lawn/"
 
 seo_title: "منتجات حماية لون الشعر المصبوغ - عناية فائقة للشعر الملون"
 intro_title: "حماية لون الشعر المصبوغ 🌈✨"

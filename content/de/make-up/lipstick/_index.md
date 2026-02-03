@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/de/make-up/lipstick/"
+url: "/de/make-up/lippenstift/"
 
 seo_title: "Lippenstift kaufen - Premium Qualität & große Auswahl"
 intro_title: "💋 Lippenstift - Perfekte Lippen für jeden Anlass"

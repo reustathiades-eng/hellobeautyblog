@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/ar/skincare/anti-aging/"
+url: "/ar/skincare/mukafahat-al-taqaddum-fi-al-sinn/"
 
 seo_title: "منتجات مكافحة الشيخوخة - عناية متقدمة للبشرة الناضجة"
 intro_title: "✨ منتجات مكافحة الشيخوخة للعناية بالبشرة"

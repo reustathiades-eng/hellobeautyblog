@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/pt/cuidados-pele/hydration/"
+url: "/pt/cuidados-pele/hidratacao/"
 
 seo_title: "Hidratação Facial: Produtos para Pele Seca e Desidratada"
 intro_title: "Hidratação Facial: O Segredo para uma Pele Radiante 💧"

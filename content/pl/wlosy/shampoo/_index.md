@@ -5,7 +5,7 @@ emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"
 translationKey: "haircare-shampoo"
-url: "/pl/wlosy/shampoo/"
+url: "/pl/wlosy/szampon/"
 
 seo_title: "Szampony do włosów - najlepsze produkty pielęgnacyjne"
 intro_title: "🧴 Szampony do włosów - kompletny przewodnik po pielęgnacji"

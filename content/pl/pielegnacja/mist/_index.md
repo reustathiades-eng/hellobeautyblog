@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/pl/pielegnacja/mist/"
+url: "/pl/pielegnacja/mgieka/"
 
 seo_title: "Mgiełki do Twarzy - Nawilżające Mist'y | Sklep Online"
 intro_title: "Mgiełki do Twarzy 💧 Odświeżające Mist'y dla Każdej Cery"

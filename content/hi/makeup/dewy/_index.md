@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"
 translationKey: "makeup-dewy"
-url: "/hi/makeup/dewy/"
+url: "/hi/makeup/namee-finish/"
 
 seo_title: "डेवी मेकअप फिनिश - ग्लोइंग स्किन के लिए बेस्ट प्रोडक्ट्स"
 intro_title: "✨ डेवी मेकअप फिनिश - नेचुरल ग्लो के लिए कम्प्लीट गाइड"

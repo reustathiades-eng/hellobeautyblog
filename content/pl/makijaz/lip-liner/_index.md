@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/pl/makijaz/lip-liner/"
+url: "/pl/makijaz/konturowka-do-ust/"
 
 seo_title: "Konturówki do Ust - Trwały Makijaż Warg | Sklep Online"
 intro_title: "💋 Konturówki do Ust - Precyzyjny Makijaż Warg"

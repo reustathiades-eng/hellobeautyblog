@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/fr/soins/oil/"
+url: "/fr/soins/huile/"
 
 seo_title: "Huiles Visage Premium | Soins Nourrissants & Anti-Âge"
 intro_title: "Huiles pour le Visage ✨ Nutrition & Éclat Naturel"

@@ -5,7 +5,7 @@ emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"
 translationKey: "makeup-false-lashes"
-url: "/it/trucco/false-lashes/"
+url: "/it/trucco/ciglia-finte/"
 
 seo_title: "Ciglia Finte | Scopri la Collezione di False Lashes"
 intro_title: "Ciglia Finte per uno Sguardo Magnetico 💫"

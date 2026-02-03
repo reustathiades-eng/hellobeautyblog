@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/tr/cilt-bakimi/wrinkles/"
+url: "/tr/cilt-bakimi/kirisikliklar/"
 
 seo_title: "Kırışıklık Karşıtı Ürünler | Anti-Aging Cilt Bakımı"
 intro_title: "✨ Kırışıklık Karşıtı Cilt Bakım Ürünleri"

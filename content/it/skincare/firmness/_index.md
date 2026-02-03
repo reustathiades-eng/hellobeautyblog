@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/it/skincare/firmness/"
+url: "/it/skincare/rassodante/"
 
 seo_title: "Prodotti per la Compattezza della Pelle | Skincare Rassodante"
 intro_title: "✨ Prodotti per la Compattezza e Tonicità della Pelle"

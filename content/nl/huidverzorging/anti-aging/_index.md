@@ -5,7 +5,7 @@ emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"
 translationKey: "skincare-anti-aging"
-url: "/nl/huidverzorging/anti-aging/"
+url: "/nl/huidverzorging/anti-veroudering/"
 
 seo_title: "Anti-Aging Producten | Effectieve Verzorging Tegen Huidveroudering"
 intro_title: "🌟 Anti-Aging Producten voor een Jeugdige Uitstraling"

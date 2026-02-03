@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/ja/haircare/coily-hair/"
+url: "/ja/haircare/chijirege/"
 
 seo_title: "カーリーヘア（コイリーヘア）ケア完全ガイド｜プロ監修のヘアケア方法"
 intro_title: "カーリーヘア（コイリーヘア）の専門ケア 🌀"

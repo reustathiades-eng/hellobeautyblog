@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/pt/cuidados-pele/dark-spots/"
+url: "/pt/cuidados-pele/manchas-escuras/"
 
 seo_title: "Manchas Escuras na Pele: Tratamentos e Produtos Eficazes"
 intro_title: "✨ Tratamento para Manchas Escuras na Pele"

@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/hi/skincare/eye-cream/"
+url: "/hi/skincare/aankh-ki-cream/"
 
 seo_title: "आई क्रीम - आंखों के लिए बेस्ट स्किनकेयर प्रोडक्ट्स"
 intro_title: "👁️ आई क्रीम - आंखों की खूबसूरती का राज"

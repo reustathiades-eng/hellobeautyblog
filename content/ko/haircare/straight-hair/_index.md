@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/ko/haircare/straight-hair/"
+url: "/ko/haircare/jig-mo/"
 
 seo_title: "직모 관리법 완벽 가이드 | 스트레이트 헤어 케어 제품 추천"
 intro_title: "✨ 직모를 위한 완벽한 헤어케어 가이드"

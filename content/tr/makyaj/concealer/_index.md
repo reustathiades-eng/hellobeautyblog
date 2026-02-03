@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/tr/makyaj/concealer/"
+url: "/tr/makyaj/kapatici/"
 
 seo_title: "Kapatıcı Ürünleri | En İyi Concealer Markaları Online"
 intro_title: "💫 Kapatıcı - Mükemmel Cilt için Vazgeçilmez"

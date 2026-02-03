@@ -5,7 +5,7 @@ emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"
 translationKey: "skincare-firmness"
-url: "/tr/cilt-bakimi/firmness/"
+url: "/tr/cilt-bakimi/sikilik/"
 
 seo_title: "Sıkılaştırıcı Cilt Bakım Ürünleri | Elastikiyet Artırıcı"
 intro_title: "Sıkılaştırıcı Cilt Bakım Ürünleri 🌟"

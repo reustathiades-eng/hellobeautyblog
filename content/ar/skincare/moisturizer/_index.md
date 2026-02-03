@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/ar/skincare/moisturizer/"
+url: "/ar/skincare/murattib/"
 
 seo_title: "كريمات الترطيب للوجه والجسم - مرطبات طبيعية وفعالة"
 intro_title: "مرطبات البشرة 💧 الحل الأمثل لبشرة نضرة وصحية"

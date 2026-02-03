@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"
 translationKey: "haircare-leave-in"
-url: "/ja/haircare/leave-in/"
+url: "/ja/haircare/riibuin/"
 
 seo_title: "洗い流さないトリートメント｜ヘアケア商品の選び方とおすすめアイテム"
 intro_title: "💫 洗い流さないトリートメントで美髪を手に入れよう"

@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/zh/skincare/dark-spots/"
+url: "/zh/skincare/heise-ban-dian/"
 
 seo_title: "淡斑祛斑护肤品推荐 - 有效改善色斑暗沉 | 专业美白淡斑产品"
 intro_title: "✨ 淡斑祛斑护肤专区 - 重现肌肤净透光采"

@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"
 translationKey: "haircare-dry-shampoo"
-url: "/ja/haircare/dry-shampoo/"
+url: "/ja/haircare/doraishampuu/"
 
 seo_title: "ドライシャンプー｜水なしで髪をリフレッシュ｜人気商品一覧"
 intro_title: "🌟 ドライシャンプーで忙しい毎日もヘアケア完璧"

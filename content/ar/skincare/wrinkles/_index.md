@@ -5,7 +5,7 @@ emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"
 translationKey: "skincare-wrinkles"
-url: "/ar/skincare/wrinkles/"
+url: "/ar/skincare/tujaaeed/"
 
 seo_title: "منتجات العناية بالبشرة لمحاربة التجاعيد - حلول فعالة ومضمونة"
 intro_title: "محاربة التجاعيد 🌟 منتجات العناية المتخصصة"

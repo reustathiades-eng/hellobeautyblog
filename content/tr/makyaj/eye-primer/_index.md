@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/tr/makyaj/eye-primer/"
+url: "/tr/makyaj/goz-bazi/"
 
 seo_title: "Göz Primerı - Kalıcı Göz Makyajı için En İyi Primer"
 intro_title: "👁️ Göz Primerı - Makyajınızın Kalıcılığını Artırın"

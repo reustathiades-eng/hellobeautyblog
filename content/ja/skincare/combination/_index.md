@@ -5,7 +5,7 @@ emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"
 translationKey: "skincare-combination"
-url: "/ja/skincare/combination/"
+url: "/ja/skincare/konbineeshon/"
 
 seo_title: "混合肌スキンケア完全ガイド｜おすすめ化粧品と正しいケア方法"
 intro_title: "🌟 混合肌のためのスキンケアガイド"

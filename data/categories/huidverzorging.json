@@ -711,27 +711,27 @@
           {
             "name": "Vette Huid",
             "emoji": "✨",
-            "url": "/nl/huidverzorging/oily/"
+            "url": "/nl/huidverzorging/vette-huid/"
           },
           {
             "name": "Droge Huid",
             "emoji": "💧",
-            "url": "/nl/huidverzorging/dry/"
+            "url": "/nl/huidverzorging/droge-huid/"
           },
           {
             "name": "Gemengde Huid",
             "emoji": "⚖️",
-            "url": "/nl/huidverzorging/combination/"
+            "url": "/nl/huidverzorging/gemengde-huid/"
           },
           {
             "name": "Gevoelige Huid",
             "emoji": "🌸",
-            "url": "/nl/huidverzorging/sensitive/"
+            "url": "/nl/huidverzorging/gevoelige-huid/"
           },
           {
             "name": "Normale Huid",
             "emoji": "😊",
-            "url": "/nl/huidverzorging/normal/"
+            "url": "/nl/huidverzorging/normale-huid/"
           }
         ]
       },
@@ -741,7 +741,7 @@
           {
             "name": "Reiniger",
             "emoji": "🧼",
-            "url": "/nl/huidverzorging/cleanser/"
+            "url": "/nl/huidverzorging/reiniger/"
           },
           {
             "name": "Toner",
@@ -761,12 +761,12 @@
           {
             "name": "Zonnebescherming",
             "emoji": "☀️",
-            "url": "/nl/huidverzorging/sunscreen/"
+            "url": "/nl/huidverzorging/zonnebrand/"
           },
           {
             "name": "Masker",
             "emoji": "🎭",
-            "url": "/nl/huidverzorging/mask/"
+            "url": "/nl/huidverzorging/masker/"
           }
         ]
       },
@@ -776,7 +776,7 @@
           {
             "name": "Anti-Aging",
             "emoji": "⏳",
-            "url": "/nl/huidverzorging/anti-aging/"
+            "url": "/nl/huidverzorging/anti-veroudering/"
           },
           {
             "name": "Acne",
@@ -786,17 +786,17 @@
           {
             "name": "Hydratatie",
             "emoji": "💦",
-            "url": "/nl/huidverzorging/hydration/"
+            "url": "/nl/huidverzorging/hydratatie/"
           },
           {
             "name": "Brightening",
             "emoji": "✨",
-            "url": "/nl/huidverzorging/brightening/"
+            "url": "/nl/huidverzorging/opheldering/"
           },
           {
             "name": "Poriën",
             "emoji": "🔍",
-            "url": "/nl/huidverzorging/pores/"
+            "url": "/nl/huidverzorging/porieen/"
           }
         ]
       }

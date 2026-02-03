@@ -5,7 +5,7 @@ emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"
 translationKey: "haircare-heat-protection"
-url: "/tr/sac-bakimi/heat-protection/"
+url: "/tr/sac-bakimi/isi-koruma/"
 
 seo_title: "Isı Koruyucu Saç Ürünleri | En İyi Fiyatlarla"
 intro_title: "🔥 Isı Koruyucu Saç Bakım Ürünleri"

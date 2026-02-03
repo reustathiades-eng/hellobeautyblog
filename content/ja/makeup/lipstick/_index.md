@@ -5,7 +5,7 @@ emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"
 translationKey: "makeup-lipstick"
-url: "/ja/makeup/lipstick/"
+url: "/ja/makeup/ripusutikku/"
 
 seo_title: "リップスティック通販｜人気ブランドの口紅を豊富に取り揃え - コスメショップ"
 intro_title: "💋 リップスティック・口紅｜美しい唇を演出する人気アイテム"

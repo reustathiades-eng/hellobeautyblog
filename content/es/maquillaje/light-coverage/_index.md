@@ -5,7 +5,7 @@ emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"
 translationKey: "makeup-light-coverage"
-url: "/es/maquillaje/light-coverage/"
+url: "/es/maquillaje/cobertura-ligera/"
 
 seo_title: "Maquillaje de Cobertura Ligera - Base Natural y Fresca"
 intro_title: "Maquillaje de Cobertura Ligera ✨"

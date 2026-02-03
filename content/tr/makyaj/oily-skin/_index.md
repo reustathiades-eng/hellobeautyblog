@@ -5,7 +5,7 @@ emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"
 translationKey: "makeup-oily-skin"
-url: "/tr/makyaj/oily-skin/"
+url: "/tr/makyaj/yagli-cilt/"
 
 seo_title: "Yağlı Cilt Makyajı | En İyi Ürünler ve Öneriler"
 intro_title: "Yağlı Cilt için Makyaj Rehberi ✨"

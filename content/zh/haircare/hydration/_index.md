@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "haircare-hydration"
-url: "/zh/haircare/hydration/"
+url: "/zh/haircare/bushi/"
 
 seo_title: "头发保湿护理产品推荐｜干燥发质护理方案｜专业补水护发"
 intro_title: "头发保湿护理 💧 告别干燥毛躁，重现柔顺光泽"

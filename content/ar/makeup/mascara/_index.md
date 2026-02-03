@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"
 translationKey: "makeup-mascara"
-url: "/ar/makeup/mascara/"
+url: "/ar/makeup/maskara/"
 
 seo_title: "ماسكارا عالية الجودة - تسوقي أفضل أنواع الماسكارا أونلاين"
 intro_title: "💫 ماسكارا لرموش خلابة وجذابة"

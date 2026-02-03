@@ -5,7 +5,7 @@ emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"
 translationKey: "skincare-mask"
-url: "/pl/pielegnacja/mask/"
+url: "/pl/pielegnacja/maska/"
 
 seo_title: "Maski do twarzy - najlepsze kosmetyki pielęgnacyjne"
 intro_title: "Maski do twarzy 🧴 - intensywna pielęgnacja skóry"

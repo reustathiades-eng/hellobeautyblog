@@ -5,7 +5,7 @@ emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"
 translationKey: "skincare-dark-spots"
-url: "/es/cuidado-piel/dark-spots/"
+url: "/es/cuidado-piel/manchas-oscuras/"
 
 seo_title: "Manchas Oscuras: Tratamientos y Productos Efectivos 2024"
 intro_title: "✨ Elimina las Manchas Oscuras de tu Piel"

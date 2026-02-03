@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/ar/makeup/medium-coverage/"
+url: "/ar/makeup/taghṭiya-mutawassiṭa/"
 
 seo_title: "مكياج التغطية المتوسطة - منتجات طبيعية ومثالية للإطلالة اليومية"
 intro_title: "💄 مكياج التغطية المتوسطة - الإطلالة المثالية بين الطبيعية والكاملة"

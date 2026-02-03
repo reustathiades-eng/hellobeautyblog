@@ -5,7 +5,7 @@ emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"
 translationKey: "skincare-moisturizer"
-url: "/de/hautpflege/moisturizer/"
+url: "/de/hautpflege/feuchtigkeitscreme/"
 
 seo_title: "Feuchtigkeitscremes für jeden Hauttyp | Premium Pflege"
 intro_title: "Feuchtigkeitscremes 💧 - Perfekte Hydration für Ihre Haut"

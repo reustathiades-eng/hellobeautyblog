@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/pl/makijaz/face/"
+url: "/pl/makijaz/twarz/"
 
 seo_title: "Makijaż Twarzy - Podkłady, Korektory i Kosmetyki do Twarzy"
 intro_title: "Makijaż Twarzy 💄 - Kompleksowa Kolekcja Kosmetyków"

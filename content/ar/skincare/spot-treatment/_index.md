@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/ar/skincare/spot-treatment/"
+url: "/ar/skincare/ilaj-al-buqa/"
 
 seo_title: "علاج البقع الداكنة - منتجات فعالة للبشرة الصافية"
 intro_title: "علاج البقع والتصبغات ✨ للحصول على بشرة موحدة ونقية"

@@ -5,7 +5,7 @@ emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"
 translationKey: "skincare-spot-treatment"
-url: "/nl/huidverzorging/spot-treatment/"
+url: "/nl/huidverzorging/plaatselijke-behandeling/"
 
 seo_title: "Spot Treatment | Puistjes & Acne Bestrijden | Huidverzorging"
 intro_title: "🎯 Spot Treatment: Gerichte Oplossing voor Puistjes"

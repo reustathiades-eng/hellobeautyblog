@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/pl/pielegnacja/hydration/"
+url: "/pl/pielegnacja/nawilzanie/"
 
 seo_title: "Nawilżanie Skóry - Kosmetyki i Produkty | Sklep Online"
 intro_title: "Nawilżanie Skóry 💧"

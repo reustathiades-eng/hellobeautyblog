@@ -5,7 +5,7 @@ emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"
 translationKey: "skincare-exfoliator"
-url: "/es/cuidado-piel/exfoliator/"
+url: "/es/cuidado-piel/exfoliante/"
 
 seo_title: "Exfoliantes Faciales y Corporales - Renueva tu Piel"
 intro_title: "Exfoliantes ✨ Renueva y Revitaliza tu Piel"

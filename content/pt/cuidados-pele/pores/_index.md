@@ -5,7 +5,7 @@ emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"
 translationKey: "skincare-pores"
-url: "/pt/cuidados-pele/pores/"
+url: "/pt/cuidados-pele/poros/"
 
 seo_title: "Produtos para Poros Dilatados | Skincare Profissional"
 intro_title: "🔍 Poros Dilatados: Cuidados Especializados"

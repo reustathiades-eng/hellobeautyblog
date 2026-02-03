@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/pt/maquiagem/powder/"
+url: "/pt/maquiagem/po/"
 
 seo_title: "Pó Facial: Base em Pó, Compacto e Solto | Maquiagem"
 intro_title: "✨ Pó Facial - Acabamento Perfeito para Sua Maquiagem"

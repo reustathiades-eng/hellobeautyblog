@@ -5,7 +5,7 @@ emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"
 translationKey: "haircare-shine"
-url: "/nl/haarverzorging/shine/"
+url: "/nl/haarverzorging/glans/"
 
 seo_title: "Glanzend Haar Producten | Haarglans Verzorging Online"
 intro_title: "Haarglans & Shine ✨"

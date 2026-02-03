@@ -5,7 +5,7 @@ emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"
 translationKey: "makeup-lip-liner"
-url: "/de/make-up/lip-liner/"
+url: "/de/make-up/lippenkonturenstift/"
 
 seo_title: "Lipliner kaufen - Präzise Lippenkontur für perfekte Lippen"
 intro_title: "💄 Lipliner - Für perfekt definierte Lippen"

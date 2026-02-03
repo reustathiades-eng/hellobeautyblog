@@ -5,7 +5,7 @@ emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"
 translationKey: "skincare-mist"
-url: "/ko/skincare/mist/"
+url: "/ko/skincare/miseuteu/"
 
 seo_title: "페이스 미스트 추천 | 보습 진정 스킨케어 미스트 모음"
 intro_title: "💦 페이스 미스트 - 언제 어디서나 즉시 수분 충전"

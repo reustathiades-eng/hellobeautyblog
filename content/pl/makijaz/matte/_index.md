@@ -5,7 +5,7 @@ emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"
 translationKey: "makeup-matte"
-url: "/pl/makijaz/matte/"
+url: "/pl/makijaz/matowy/"
 
 seo_title: "Matowe kosmetyki do makijażu - Najlepsze produkty matte"
 intro_title: "Matowe kosmetyki do makijażu 💄"

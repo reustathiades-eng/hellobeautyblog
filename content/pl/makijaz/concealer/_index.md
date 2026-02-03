@@ -5,7 +5,7 @@ emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"
 translationKey: "makeup-concealer"
-url: "/pl/makijaz/concealer/"
+url: "/pl/makijaz/korektor/"
 
 seo_title: "Korektor do twarzy - najlepsze korektory online"
 intro_title: "Korektor 💄 Idealny makijaż bez niedoskonałości"

@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/ja/haircare/straight-hair/"
+url: "/ja/haircare/sutreetohea/"
 
 seo_title: "ストレートヘアケア完全ガイド｜美しいサラサラ髪の作り方とおすすめケア方法"
 intro_title: "✨ ストレートヘアの魅力を最大限に引き出すヘアケア術"

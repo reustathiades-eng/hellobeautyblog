@@ -5,7 +5,7 @@ emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"
 translationKey: "haircare-natural-hair"
-url: "/tr/sac-bakimi/natural-hair/"
+url: "/tr/sac-bakimi/dogal-sac/"
 
 seo_title: "Doğal Saç Bakımı | En İyi Ürünler ve Öneriler"
 intro_title: "🌿 Doğal Saç Bakımı Rehberi"

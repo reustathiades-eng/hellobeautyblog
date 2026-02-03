@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/ja/skincare/eye-cream/"
+url: "/ja/skincare/aimukuriimu/"
 
 seo_title: "アイクリーム おすすめ｜目元ケア専用クリーム - エイジングケア・保湿・美容液"
 intro_title: "👁️ アイクリーム - 目元の美しさを保つ専用ケア"

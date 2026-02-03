@@ -5,7 +5,7 @@ emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"
 translationKey: "makeup-face"
-url: "/hi/makeup/face/"
+url: "/hi/makeup/chehra/"
 
 seo_title: "फेस मेकअप - चेहरे के लिए बेस्ट फेस मेकअप प्रोडक्ट्स"
 intro_title: "फेस मेकअप 💄 - परफेक्ट लुक के लिए कम्प्लीट गाइड"

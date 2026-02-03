@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/ar/skincare/eye-cream/"
+url: "/ar/skincare/kreem-al-ayn/"
 
 seo_title: "كريم العين - أفضل منتجات العناية بمحيط العين | متجر التجميل"
 intro_title: "👁️ كريم العين - العناية المثلى بمنطقة محيط العينين الحساسة"

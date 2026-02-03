@@ -5,7 +5,7 @@ emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"
 translationKey: "haircare-hair-spray"
-url: "/de/haarpflege/hair-spray/"
+url: "/de/haarpflege/haarspray/"
 
 seo_title: "Haarspray kaufen - Starker Halt & Volumen | Online Shop"
 intro_title: "💨 Haarspray - Perfekter Halt für jeden Styling-Look"

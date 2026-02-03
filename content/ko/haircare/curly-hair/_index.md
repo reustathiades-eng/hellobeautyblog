@@ -5,7 +5,7 @@ emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"
 translationKey: "haircare-curly-hair"
-url: "/ko/haircare/curly-hair/"
+url: "/ko/haircare/gob-seul-meolli/"
 
 seo_title: "곱슬머리 관리 완벽 가이드 | 헤어케어 전문가 추천 제품과 팁"
 intro_title: "곱슬머리 완벽 가이드 🌀"

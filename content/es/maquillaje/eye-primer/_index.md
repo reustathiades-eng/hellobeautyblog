@@ -5,7 +5,7 @@ emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"
 translationKey: "makeup-eye-primer"
-url: "/es/maquillaje/eye-primer/"
+url: "/es/maquillaje/prebase-ojos/"
 
 seo_title: "Primer de Ojos - Base Perfecta para tu Maquillaje | Tienda"
 intro_title: "👁️ Primer de Ojos: La Base Perfecta para un Look Duradero"

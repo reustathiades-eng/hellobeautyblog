@@ -173,27 +173,27 @@
           {
             "name": "Feines Haar",
             "emoji": "🪶",
-            "url": "/de/haarpflege/fine-hair/"
+            "url": "/de/haarpflege/feines-haar/"
           },
           {
             "name": "Dickes Haar",
             "emoji": "💪",
-            "url": "/de/haarpflege/thick-hair/"
+            "url": "/de/haarpflege/dickes-haar/"
           },
           {
             "name": "Lockiges Haar",
             "emoji": "🌀",
-            "url": "/de/haarpflege/curly-hair/"
+            "url": "/de/haarpflege/lockiges-haar/"
           },
           {
             "name": "Glattes Haar",
             "emoji": "✨",
-            "url": "/de/haarpflege/straight-hair/"
+            "url": "/de/haarpflege/glattes-haar/"
           },
           {
             "name": "Coloriertes Haar",
             "emoji": "🎨",
-            "url": "/de/haarpflege/color-treated/"
+            "url": "/de/haarpflege/coloriertes-haar/"
           }
         ]
       },
@@ -203,27 +203,27 @@
           {
             "name": "Volumen",
             "emoji": "💨",
-            "url": "/de/haarpflege/volume/"
+            "url": "/de/haarpflege/volumen/"
           },
           {
             "name": "Reparatur",
             "emoji": "🔧",
-            "url": "/de/haarpflege/repair/"
+            "url": "/de/haarpflege/reparatur/"
           },
           {
             "name": "Hydratation",
             "emoji": "💧",
-            "url": "/de/haarpflege/hydration/"
+            "url": "/de/haarpflege/feuchtigkeit/"
           },
           {
             "name": "Schuppen",
             "emoji": "🧴",
-            "url": "/de/haarpflege/dandruff/"
+            "url": "/de/haarpflege/schuppen/"
           },
           {
             "name": "Farbschutz",
             "emoji": "🛡️",
-            "url": "/de/haarpflege/color-protection/"
+            "url": "/de/haarpflege/farbschutz/"
           }
         ]
       }

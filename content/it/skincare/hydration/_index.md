@@ -5,7 +5,7 @@ emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"
 translationKey: "skincare-hydration"
-url: "/it/skincare/hydration/"
+url: "/it/skincare/idratazione/"
 
 seo_title: "Idratazione Viso: Prodotti e Trattamenti per Pelle Secca"
 intro_title: "💧 Idratazione: La Chiave per una Pelle Radiosa e Sana"

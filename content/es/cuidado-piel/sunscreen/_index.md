@@ -5,7 +5,7 @@ emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"
 translationKey: "skincare-sunscreen"
-url: "/es/cuidado-piel/sunscreen/"
+url: "/es/cuidado-piel/protector-solar/"
 
 seo_title: "Protectores Solares - Cuida tu Piel del Sol | Cosméticos"
 intro_title: "☀️ Protectores Solares: Tu Escudo Contra el Daño Solar"

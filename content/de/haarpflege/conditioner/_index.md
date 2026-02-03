@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/de/haarpflege/conditioner/"
+url: "/de/haarpflege/spuelung/"
 
 seo_title: "Conditioner für gesundes Haar ✨ Premium Haarpflege"
 intro_title: "Conditioner - Ihre Geheimwaffe für seidig-weiches Haar ✨"

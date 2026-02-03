@@ -5,7 +5,7 @@ emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"
 translationKey: "haircare-thick-hair"
-url: "/pt/cabelos/thick-hair/"
+url: "/pt/cabelos/cabelo-grosso/"
 
 seo_title: "Cabelo Grosso: Produtos e Dicas de Cuidados Especiais"
 intro_title: "Cabelo Grosso: Guia Completo de Cuidados 💪"

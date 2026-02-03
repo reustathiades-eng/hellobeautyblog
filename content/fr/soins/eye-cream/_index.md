@@ -5,7 +5,7 @@ emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"
 translationKey: "skincare-eye-cream"
-url: "/fr/soins/eye-cream/"
+url: "/fr/soins/creme-contour-yeux/"
 
 seo_title: "Crème Contour des Yeux - Soins Anti-Âge et Hydratants"
 intro_title: "Crèmes Contour des Yeux 👁️ - Votre Guide Expert"

@@ -5,7 +5,7 @@ emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"
 translationKey: "haircare-conditioner"
-url: "/tr/sac-bakimi/conditioner/"
+url: "/tr/sac-bakimi/sac-kremi/"
 
 seo_title: "Saç Kremi Çeşitleri | Besleyici ve Onarıcı Kremler"
 intro_title: "✨ Saç Kremi - Saçlarınızı Besleyin ve Koruyun"

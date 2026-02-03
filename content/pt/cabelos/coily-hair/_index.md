@@ -5,7 +5,7 @@ emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"
 translationKey: "haircare-coily-hair"
-url: "/pt/cabelos/coily-hair/"
+url: "/pt/cabelos/cabelo-crespo/"
 
 seo_title: "Cuidados para Cabelo Crespo: Produtos e Dicas Essenciais"
 intro_title: "Cabelo Crespo: Guia Completo de Cuidados 💫"

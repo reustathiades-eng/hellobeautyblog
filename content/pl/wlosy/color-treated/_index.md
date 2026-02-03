@@ -5,7 +5,7 @@ emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"
 translationKey: "haircare-color-treated"
-url: "/pl/wlosy/color-treated/"
+url: "/pl/wlosy/farbowane/"
 
 seo_title: "Kosmetyki do Włosów Farbowanych - Pielęgnacja i Ochrona"
 intro_title: "Kosmetyki do Włosów Farbowanych 🎨"

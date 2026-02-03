@@ -5,7 +5,7 @@ emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"
 translationKey: "skincare-oil"
-url: "/hi/skincare/oil/"
+url: "/hi/skincare/tel/"
 
 seo_title: "स्किनकेयर ऑयल - फेस ऑयल और बॉडी ऑयल | ऑनलाइन खरीदें"
 intro_title: "स्किनकेयर ऑयल - प्राकृतिक सुंदरता का खजाना ✨"

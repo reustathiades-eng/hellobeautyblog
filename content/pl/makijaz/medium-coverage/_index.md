@@ -5,7 +5,7 @@ emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"
 translationKey: "makeup-medium-coverage"
-url: "/pl/makijaz/medium-coverage/"
+url: "/pl/makijaz/srednie-krycie/"
 
 seo_title: "Kosmetyki Medium Coverage - Naturalny Makijaż | Sklep"
 intro_title: "Kosmetyki Medium Coverage - Idealne Krycie na Każdy Dzień ✨"

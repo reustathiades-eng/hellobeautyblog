@@ -5,7 +5,7 @@ emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"
 translationKey: "makeup-powder"
-url: "/fr/maquillage/powder/"
+url: "/fr/maquillage/poudre/"
 
 seo_title: "Poudres Maquillage - Fixation & Matité Parfaites"
 intro_title: "Poudres de Maquillage ✨"

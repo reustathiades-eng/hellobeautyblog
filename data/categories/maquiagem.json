@@ -569,12 +569,12 @@
           {
             "name": "Base",
             "emoji": "🤍",
-            "url": "/pt/maquiagem/foundation/"
+            "url": "/pt/maquiagem/base/"
           },
           {
             "name": "Corretivo",
             "emoji": "✨",
-            "url": "/pt/maquiagem/concealer/"
+            "url": "/pt/maquiagem/corretivo/"
           },
           {
             "name": "Blush",
@@ -584,12 +584,12 @@
           {
             "name": "Iluminador",
             "emoji": "💫",
-            "url": "/pt/maquiagem/highlighter/"
+            "url": "/pt/maquiagem/iluminador/"
           },
           {
             "name": "Pó",
             "emoji": "🌟",
-            "url": "/pt/maquiagem/powder/"
+            "url": "/pt/maquiagem/po/"
           }
         ]
       },
@@ -599,22 +599,22 @@
           {
             "name": "Rímel",
             "emoji": "👁️",
-            "url": "/pt/maquiagem/mascara/"
+            "url": "/pt/maquiagem/rimel/"
           },
           {
             "name": "Delineador",
             "emoji": "🖤",
-            "url": "/pt/maquiagem/eyeliner/"
+            "url": "/pt/maquiagem/delineador/"
           },
           {
             "name": "Sombra",
             "emoji": "🎨",
-            "url": "/pt/maquiagem/eyeshadow/"
+            "url": "/pt/maquiagem/sombra/"
           },
           {
             "name": "Sobrancelha",
             "emoji": "✏️",
-            "url": "/pt/maquiagem/brows/"
+            "url": "/pt/maquiagem/sobrancelhas/"
           }
         ]
       },
@@ -624,17 +624,17 @@
           {
             "name": "Batom",
             "emoji": "💋",
-            "url": "/pt/maquiagem/lipstick/"
+            "url": "/pt/maquiagem/batom/"
           },
           {
             "name": "Gloss",
             "emoji": "✨",
-            "url": "/pt/maquiagem/lip-gloss/"
+            "url": "/pt/maquiagem/gloss/"
           },
           {
             "name": "Lápis Labial",
             "emoji": "📝",
-            "url": "/pt/maquiagem/lip-liner/"
+            "url": "/pt/maquiagem/lapis-labial/"
           }
         ]
       },
@@ -644,12 +644,12 @@
           {
             "name": "Esmalte",
             "emoji": "💅",
-            "url": "/pt/maquiagem/nail-polish/"
+            "url": "/pt/maquiagem/esmalte/"
           },
           {
             "name": "Cuidados das Unhas",
             "emoji": "🧴",
-            "url": "/pt/maquiagem/nails/"
+            "url": "/pt/maquiagem/unhas/"
           }
         ]
       }

@@ -5,7 +5,7 @@ emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"
 translationKey: "haircare-straight-hair"
-url: "/it/capelli/straight-hair/"
+url: "/it/capelli/capelli-lisci/"
 
 seo_title: "Capelli Lisci: Prodotti e Consigli per la Cura Perfetta"
 intro_title: "Capelli Lisci ✨ Guida Completa alla Cura e Styling"
