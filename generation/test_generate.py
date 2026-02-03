@@ -11,7 +11,7 @@ PRODUCTS = [
         "brand": "Tom Ford",
         "name": "Black Orchid",
         "slug": "tom-ford-black-orchid",
-        "gender": "unisex",
+        "gender": "Unisex",
         "subcategories": ["unisex", "oriental", "romantic", "winter", "evening", "oriental-spicy"]
     },
     {
@@ -75,6 +75,23 @@ def clean_frontmatter(content):
     
     return "---\n" + "\n".join(clean_lines) + "\n---" + parts[2]
 
+
+def fix_yaml_quotes(content):
+    """Ensure tags and keywords have quoted values"""
+    import re
+    def quote_inline_array(match):
+        key = match.group(1)
+        values = match.group(2)
+        items = [i.strip() for i in values.split(',')]
+        quoted = ', '.join(
+            f'"{i.strip().strip(chr(34))}"' for i in items
+        )
+        return f"{key}: [{quoted}]"
+    
+    content = re.sub(r"^(tags): \[([^\]]+)\]", quote_inline_array, content, flags=re.MULTILINE)
+    content = re.sub(r"^(keywords): \[([^\]]+)\]", quote_inline_array, content, flags=re.MULTILINE)
+    return content
+
 def generate_article(product, max_retries=2):
     cat = product["category"]
     slug = product["slug"]
@@ -131,6 +148,7 @@ def generate_article(product, max_retries=2):
             
             # Deduplicate frontmatter
             content = clean_frontmatter(content)
+            content = fix_yaml_quotes(content)
             
             # Save
             output_path = f"content/en/{cat}/{slug}.md"
@@ -152,9 +170,35 @@ def generate_article(product, max_retries=2):
             print(f"     Tokens: {usage.get('input_tokens', '?')} in / {usage.get('output_tokens', '?')} out")
             print(f"     Saved: {output_path}")
             
-            # Validate H3 requirement
-            if h3_count == 0:
-                print(f"     ⚠️  WARNING: No H3 headings found!")
+            # Validate H3 requirement - retry if 0 H3
+            if h3_count == 0 and attempt < max_retries:
+                print(f"     ⚠️  No H3 headings! Auto-retrying...")
+                wait = 10 * (attempt + 1)
+                time.sleep(wait)
+                continue
+            elif h3_count == 0:
+                print(f"     ⚠️  WARNING: No H3 headings after all retries!")
+            
+            # Check tags/keywords quoting
+            import re as regex_check
+            unquoted_tags = regex_check.findall(r'^tags: \[([^\]]+)\]', article_text, regex_check.MULTILINE)
+            for match in unquoted_tags:
+                items = [i.strip() for i in match.split(',')]
+                unquoted = [i for i in items if not (i.startswith('"') and i.endswith('"'))]
+                if unquoted:
+                    print(f"     ⚠️  Unquoted tags detected: {unquoted[:3]}... Auto-fixing!")
+                    # Auto-fix: quote all tag values
+                    fixed_items = ', '.join(f'"{i.strip().strip(chr(34))}"' for i in items)
+                    article_text = article_text.replace(f"tags: [{match}]", f"tags: [{fixed_items}]")
+            
+            unquoted_kw = regex_check.findall(r'^keywords: \[([^\]]+)\]', article_text, regex_check.MULTILINE)
+            for match in unquoted_kw:
+                items = [i.strip() for i in match.split(',')]
+                unquoted = [i for i in items if not (i.startswith('"') and i.endswith('"'))]
+                if unquoted:
+                    print(f"     ⚠️  Unquoted keywords detected! Auto-fixing!")
+                    fixed_items = ', '.join(f'"{i.strip().strip(chr(34))}"' for i in items)
+                    article_text = article_text.replace(f"keywords: [{match}]", f"keywords: [{fixed_items}]")
             
             return True
             

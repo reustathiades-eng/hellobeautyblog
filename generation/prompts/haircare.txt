@@ -29,11 +29,11 @@ featured: false
 draft: false
 brand: "{brand}"
 productName: "{name}"
-productType: "[Shampoo / Conditioner / Hair Mask / Hair Oil / Hair Serum / Leave-In / Heat Protectant / Dry Shampoo / Hair Spray / Styling Cream / Curl Cream / Hair Treatment / Scalp Treatment / Hair Color — accurate]"
-rating: [3.5 to 5.0 — honest]
-hairType: "[Straight / Wavy / Curly / Coily / All hair types — who it works best for]"
-texture: "[Thick Cream / Light Gel / Liquid / Rich Balm / Mousse / Spray / Oil / Milky — the product's actual texture]"
-scent: "[Describe the scent briefly: 'Fresh coconut', 'Subtle floral', 'Strong chemical', 'Fragrance-free' — honest]"
+productType: "[see constrained values — must be accurate]"
+rating: 4.0  # MUST be 3.5 | 4.0 | 4.5 | 5.0 — be honest
+hairType: "[see constrained values]"
+texture: "[see constrained values — the product's actual texture]"
+scent: "[Free text, 2-5 words max: e.g. Fresh coconut, Subtle floral, Mild chemical, Fragrance-free]"
 sulfateFree: [true/false — accurate for this product]
 siliconeFree: [true/false — accurate]
 colorSafe: [true/false — accurate]
@@ -48,7 +48,8 @@ keyIngredients:
   - name: "[Ingredient #3]"
     benefit: "[Benefit]"
 subcategories:
-  - [list from provided subcategories data]
+  - "hair-treatments"
+  - "damaged-hair"  # use slugs from provided subcategories data
 translationKey: "{slug}"
 ---
 

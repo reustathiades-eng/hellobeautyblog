@@ -30,25 +30,28 @@ featured: false
 draft: false
 brand: "{brand}"
 productName: "{name}"
-concentration: "[Eau de Toilette / Eau de Parfum / Parfum / Eau de Cologne / Extrait — must be accurate for this specific product]"
+concentration: "[see constrained values — must be accurate for this specific product]"
 gender: "{gender}"
-family: "[Main olfactory family: floral, oriental, woody, fresh, chypre, aromatic, gourmand, leather — must match actual perfume]"
-subfamily: "[Specific subfamily: floral-fruity, oriental-spicy, woody-aromatic, etc.]"
+family: "[see constrained values — must match actual perfume]"
+subfamily: "[see constrained values — e.g. oriental-spicy, woody-aromatic]"
 occasion:
-  - "[2-4 occasions: Everyday, Office, Evening, Romantic, Sport, Special Occasion, Wedding]"
-rating: [4.0 or 4.5 or 5.0 — be realistic, not everything is 5.0]
+  - "Evening"
+  - "Romantic"  # 2-4 values from constrained values below
+rating: 4.5  # MUST be 3.5 | 4.0 | 4.5 | 5.0 — be realistic
 topNotes:
   - "[Accurate top notes for this specific perfume, 2-4 notes]"
 heartNotes:
   - "[Accurate heart notes, 2-4 notes]"
 baseNotes:
   - "[Accurate base notes, 2-4 notes]"
-longevity: "[e.g. 6-8 hours, 4-6 hours, 8-10 hours, 10+ hours]"
-sillage: "[Light / Moderate / Strong / Beast mode]"
+longevity: "[see constrained values — e.g. 6-8 hours]"
+sillage: "[see constrained values]"
 season:
-  - "[1-3 seasons: Spring, Summer, Fall, Winter]"
+  - "Fall"
+  - "Winter"  # 1-3 values from constrained values below
 subcategories:
-  - [list from provided subcategories data]
+  - "men-fragrances"
+  - "evening-perfumes"  # use slugs from provided subcategories data
 translationKey: "{slug}"
 ---
 
@@ -127,6 +130,7 @@ subfamily: MUST follow pattern "{family}-{modifier}". Modifiers: spicy, fruity, 
 sillage: MUST be one of: "Light" | "Moderate" | "Strong" | "Beast mode"
 occasion: MUST be from: "Everyday" | "Office" | "Evening" | "Romantic" | "Sport" | "Special Occasion" | "Wedding" | "Summer Casual" | "Night Out"
 season: MUST be from: "Spring" | "Summer" | "Fall" | "Winter"
+longevity: MUST follow format: "X-Y hours" (e.g. "6-8 hours", "4-6 hours", "10+ hours")
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
 
 

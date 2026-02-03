@@ -29,14 +29,15 @@ featured: false
 draft: false
 brand: "{brand}"
 productName: "{name}"
-productType: "[Serum / Moisturizer / Cleanser / Toner / Exfoliant / Mask / Eye Cream / Sunscreen / Oil / Treatment — accurate for this product]"
-rating: [3.5 to 5.0 — be honest and realistic]
-texture: "[Lightweight Liquid / Gel / Cream / Thick Balm / Milky Lotion / Watery Essence / Oil / Foam — accurate]"
+productType: "[see constrained values — must be accurate for this product]"
+rating: 4.0  # MUST be 3.5 | 4.0 | 4.5 | 5.0 — be honest
+texture: "[see constrained values — must be accurate]"
 applicationTime:
-  - "[AM and/or PM — what makes sense for this product type and ingredients]"
-formulaType: "[Water-based / Oil-based / Gel-based / Emulsion / Acid / Balm]"
-routineStep: "[1. Cleanse / 2. Tone / 3. Treat / 4. Moisturize / 5. Protect]"
-origin: "[Clean Beauty / K-Beauty / J-Beauty / French Pharmacy / Clinical / Dermatologist-Developed / Organic / Luxury — whatever best describes the brand]"
+  - "AM"
+  - "PM"  # Array of "AM" and/or "PM" — pick what makes sense for this product
+formulaType: "[see constrained values]"
+routineStep: "[see constrained values — pick the correct step]"
+origin: "[see constrained values — pick what best describes the brand]"
 fragranceFree: [true/false — accurate for this product]
 crueltyFree: [true/false — accurate for this brand]
 vegan: [true/false — accurate if known, default false if unsure]
@@ -48,10 +49,13 @@ keyIngredients:
     benefit: "[Benefit]"
   - name: "[Key ingredient #3]"
     benefit: "[Benefit]"
-skinType: "[Best for: Oily / Dry / Combination / Sensitive / Normal / All skin types]"
-skinConcern: "[Primary concerns: Acne, Aging, Hyperpigmentation, Dryness, Redness, Pores, Dullness]"
+skinType: "[see constrained values]"
+skinConcern:
+  - "Pores"
+  - "Acne"  # 1-3 values from constrained values below
 subcategories:
-  - [list from provided subcategories data]
+  - "serums-treatments"
+  - "oily-skin"  # use slugs from provided subcategories data
 translationKey: "{slug}"
 ---
 
@@ -125,8 +129,9 @@ texture: MUST be one of: "Lightweight Liquid" | "Gel" | "Cream" | "Thick Balm" |
 formulaType: MUST be one of: "Water-based" | "Oil-based" | "Gel-based" | "Emulsion" | "Acid" | "Balm" | "Micellar" | "Cream-based"
 routineStep: MUST be one of: "1. Cleanse" | "2. Tone" | "3. Treat" | "4. Moisturize" | "5. Protect" | "0. Remove" | "Weekly Treatment"
 origin: MUST be one of: "Clean Beauty" | "K-Beauty" | "J-Beauty" | "French Pharmacy" | "Clinical" | "Dermatologist-Developed" | "Organic" | "Luxury" | "Indie Brand" | "Mass Market"
-applicationTime: MUST be from: "AM" | "PM" (one or both)
 skinType: MUST be one of: "Oily" | "Dry" | "Combination" | "Sensitive" | "Normal" | "All skin types" | "Mature" | "Acne-prone"
+skinConcern: Array of 1-3 values from: "Acne" | "Aging" | "Hyperpigmentation" | "Dryness" | "Redness" | "Pores" | "Dullness" | "Dark Spots" | "Fine Lines" | "Sensitivity"
+applicationTime: Array of "AM" and/or "PM" (e.g. ["AM", "PM"] or ["PM"] only)
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
 
 

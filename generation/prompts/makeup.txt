@@ -29,13 +29,13 @@ featured: false
 draft: false
 brand: "{brand}"
 productName: "{name}"
-productType: "[Foundation / Concealer / Powder / Blush / Bronzer / Highlighter / Eyeshadow / Eyeliner / Mascara / Lipstick / Lip Gloss / Setting Spray / Primer / Brow Product / Contour — accurate for this product]"
-rating: [3.5 to 5.0 — honest]
-finish: "[Matte / Dewy / Satin / Natural / Radiant / Luminous / Velvet / Metallic / Shimmer / Gloss — accurate]"
-coverage: "[Sheer / Light / Medium / Buildable / Full — accurate for this product]"
-shadeRange: "[Number of shades if known, e.g. '50 shades' or 'Limited (12 shades)' or 'N/A' for mascara etc.]"
-longwear: "[e.g. '8-10 hours', '12+ hours', '4-6 hours', 'All day' — realistic assessment]"
-spf: "[SPF value if product has it, e.g. 'SPF 25', or leave empty/omit if none]"
+productType: "[see constrained values — must be accurate]"
+rating: 4.0  # MUST be 3.5 | 4.0 | 4.5 | 5.0 — be honest
+finish: "[see constrained values]"
+coverage: "[see constrained values]"
+shadeRange: "[see constrained values — e.g. 50 shades, Limited (12 shades)]"
+longwear: "[see constrained values — e.g. 8-10 hours]"
+spf: "None"  # MUST be: "SPF 15" | "SPF 20" | "SPF 25" | "SPF 30" | "SPF 50" | "SPF 50+" | "None"
 waterproof: [true/false — accurate]
 fragranceFree: [true/false]
 crueltyFree: [true/false — accurate for this brand]
@@ -46,7 +46,8 @@ keyIngredients:
   - name: "[Ingredient #2, e.g. 'Hyaluronic Acid']"
     benefit: "[e.g. 'Keeps skin hydrated under makeup']"
 subcategories:
-  - [list from provided subcategories data]
+  - "foundations"
+  - "oily-skin-makeup"  # use slugs from provided subcategories data
 translationKey: "{slug}"
 ---
 
@@ -120,6 +121,7 @@ finish: MUST be one of: "Matte" | "Dewy" | "Satin" | "Natural" | "Radiant" | "Lu
 coverage: MUST be one of: "Sheer" | "Light" | "Medium" | "Buildable" | "Full" | "N/A"
 longwear: MUST follow format: "X-Y hours" or "All day" or "N/A"
 shadeRange: MUST follow format: "X shades" or "Limited (X shades)" or "Universal" or "N/A"
+spf: MUST be one of: "SPF 15" | "SPF 20" | "SPF 25" | "SPF 30" | "SPF 50" | "SPF 50+" | "None"
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
 
 

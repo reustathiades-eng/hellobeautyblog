@@ -18,17 +18,17 @@ You MUST translate/adapt these frontmatter fields into native {target_language}:
 10. **applicationTime** — Keep "AM"/"PM" (universal)
 11. **formulaType** — Translate naturally
 12. **routineStep** — Translate: "3. Treat"→{target_language} equivalent
-14. **origin** — Translate: "Clean Beauty", "K-Beauty", "French Pharmacy" → keep recognizable terms but adapt if {target_language} uses different terms
-15. **skinType** / **skinConcern** — Translate fully
-16. **hairType** — Translate
-17. **scent** — Translate the scent description
-18. **occasion** — Translate each occasion
-19. **season** — Translate each season
-110. **keyIngredients** — Keep ingredient `name` in original/scientific form. Translate the `benefit` field into {target_language}.
+13. **origin** — Translate: "Clean Beauty", "K-Beauty", "French Pharmacy" → keep recognizable terms but adapt if {target_language} uses different terms
+14. **skinType** / **skinConcern** — Translate fully
+15. **hairType** — Translate
+16. **scent** — Translate the scent description
+17. **occasion** — Translate each occasion
+18. **season** — Translate each season
+19. **keyIngredients** — Keep ingredient `name` in original/scientific form. Translate the `benefit` field into {target_language}.
 20. **finish** / **coverage** / **shadeRange** / **longwear** — Translate naturally
 21. **longevity** / **sillage** — Translate labels, keep numbers
 22. **family** / **subfamily** — Keep in English (these are standard olfactory classification terms used internationally)
-24. **Notes (topNotes, heartNotes, baseNotes)** — Translate ingredient names into {target_language}
+23. **Notes (topNotes, heartNotes, baseNotes)** — Translate ingredient names into {target_language}
 
 === WHAT TO KEEP UNCHANGED IN FRONTMATTER ===
 - translationKey (always English)
@@ -83,5 +83,21 @@ ANTI-AI IN TARGET LANGUAGE:
 === INPUT ===
 {english_article_content}
 
+=== YAML FORMATTING RULES (CRITICAL) ===
+- tags and keywords MUST always use double quotes: ["valeur 1", "valeur 2"]
+- NEVER output unquoted values in inline YAML arrays
+- All string values in arrays must be quoted: ["value"]
+- This applies to ALL frontmatter array fields: tags, keywords, occasion, season, subcategories, etc.
+
 === OUTPUT FORMAT ===
 Output the complete file: YAML frontmatter (with translated fields) between --- markers, then the markdown article in {target_language}. Nothing else.
+
+
+=== FINAL REMINDER (read this last) ===
+Before outputting: verify these points:
+- The article MUST have both ## (H2) AND ### (H3) headings — keep the same hierarchy as the English source
+- At least 3 H2 and at least 6 H3 headings
+- Tags and keywords MUST be quoted: ["valeur 1", "valeur 2"]
+- slug MUST be translated and URL-safe (lowercase, hyphens, no accents)
+- All frontmatter string values must be in the target language (except brand names, translationKey, author)
+- The content must read as native {target_language}, NOT as a translation
