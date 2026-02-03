@@ -232,15 +232,15 @@
                 <div class="author-card-content">
                     <div class="author-card-label">{{ if eq $lang "fr" }}Rédigé par{{ else if eq $lang "de" }}Geschrieben von{{ else if eq $lang "es" }}Escrito por{{ else if eq $lang "it" }}Scritto da{{ else if eq $lang "pt" }}Escrito por{{ else if eq $lang "nl" }}Geschreven door{{ else if eq $lang "pl" }}Napisane przez{{ else if eq $lang "tr" }}Yazan{{ else if eq $lang "ja" }}執筆者{{ else if eq $lang "ko" }}작성자{{ else if eq $lang "zh" }}作者{{ else if eq $lang "ar" }}بقلم{{ else if eq $lang "hi" }}लेखक{{ else }}Written by{{ end }}</div>
                     <h4 class="author-card-name">{{ . }}</h4>
-                    {{ if eq . "Emma Collins" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Parfums & Skincare{{ else if eq $lang "de" }}Parfüm & Skincare-Expertin{{ else if eq $lang "es" }}Experta en Perfumes y Skincare{{ else if eq $lang "it" }}Esperta Profumi e Skincare{{ else if eq $lang "pt" }}Especialista em Perfumes e Skincare{{ else }}Fragrance & Skincare Expert{{ end }}</p>
+                    {{ if eq . "Sophie Laurent" }}
+                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte en Parfumerie{{ else if eq $lang "de" }}Parfüm-Expertin{{ else if eq $lang "es" }}Experta en Perfumería{{ else if eq $lang "it" }}Esperta di Profumeria{{ else if eq $lang "pt" }}Especialista em Perfumaria{{ else }}Fragrance Expert{{ end }}</p>
                     {{ end }}
                     <p class="author-card-bio">
-                        {{ if eq . "Emma Collins" }}
+                        {{ if eq . "Sophie Laurent" }}
                             {{ if eq $lang "fr" }}Passionnée par la beauté depuis plus de 15 ans, Emma teste et analyse chaque produit avec rigueur pour vous guider vers les meilleurs choix parfums et skincare.
                             {{ else if eq $lang "de" }}Mit über 15 Jahren Leidenschaft für Schönheit testet und analysiert Emma jedes Produkt sorgfältig, um Sie zu den besten Parfüm- und Hautpflegeentscheidungen zu führen.
                             {{ else if eq $lang "es" }}Apasionada por la belleza desde hace más de 15 años, Emma prueba y analiza cada producto con rigor para guiarte hacia las mejores opciones de perfumes y skincare.
-                            {{ else }}With over 15 years of passion for beauty, Emma rigorously tests and analyzes every product to guide you toward the best fragrance and skincare choices.
+                            {{ else }}Trained at ISIPCA in Grasse and former evaluator at Guerlain, Sophie has spent over a decade immersed in the world of raw materials and olfactory creation. She brings her expert nose to every review.
                             {{ end }}
                         {{ else }}
                             {{ if eq $lang "fr" }}Rédacteur passionné chez HelloBeautyBlog, spécialisé dans les tendances beauté et les conseils experts.

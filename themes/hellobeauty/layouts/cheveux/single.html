@@ -234,8 +234,8 @@
                 <div class="author-card-content">
                     <div class="author-card-label">{{ if eq $lang "fr" }}Rédigé par{{ else if eq $lang "de" }}Geschrieben von{{ else if eq $lang "es" }}Escrito por{{ else if eq $lang "it" }}Scritto da{{ else if eq $lang "pt" }}Escrito por{{ else if eq $lang "nl" }}Geschreven door{{ else if eq $lang "pl" }}Napisane przez{{ else if eq $lang "tr" }}Yazan{{ else if eq $lang "ja" }}執筆者{{ else if eq $lang "ko" }}작성자{{ else if eq $lang "zh" }}作者{{ else if eq $lang "ar" }}بقلم{{ else if eq $lang "hi" }}लेखक{{ else }}Written by{{ end }}</div>
                     <h4 class="author-card-name">{{ . }}</h4>
-                    {{ if eq . "Emma Collins" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Skincare & Parfums{{ else if eq $lang "de" }}Skincare & Parfüm-Expertin{{ else if eq $lang "es" }}Experta en Skincare y Perfumes{{ else if eq $lang "it" }}Esperta Skincare e Profumi{{ else if eq $lang "pt" }}Especialista em Skincare e Perfumes{{ else }}Skincare & Fragrance Expert{{ end }}</p>
+                    {{ if eq . "Olivia Taylor" }}
+                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Capillaire & Trichologue{{ else if eq $lang "de" }}Haarpflege-Expertin & Trichologin{{ else if eq $lang "es" }}Experta Capilar & Tricóloga{{ else if eq $lang "it" }}Esperta Capelli & Tricologa{{ else if eq $lang "pt" }}Especialista Capilar & Tricologista{{ else }}Haircare Expert & Trichologist{{ end }}</p>
                     {{ else if eq . "Sofia Martinez" }}
                     <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Maquillage{{ else if eq $lang "de" }}Make-up-Expertin{{ else if eq $lang "es" }}Experta en Maquillaje{{ else if eq $lang "it" }}Esperta Trucco{{ else if eq $lang "pt" }}Especialista em Maquiagem{{ else }}Makeup Expert{{ end }}</p>
                     {{ else if eq . "Lena Park" }}
@@ -244,11 +244,11 @@
                     <p class="author-card-specialty">{{ if eq $lang "fr" }}Expert Cheveux & Grooming{{ else }}Hair & Grooming Expert{{ end }}</p>
                     {{ end }}
                     <p class="author-card-bio">
-                        {{ if eq . "Emma Collins" }}
-                            {{ if eq $lang "fr" }}Passionnée par la beauté depuis plus de 15 ans, Emma teste et analyse chaque produit avec rigueur pour vous guider vers les meilleurs choix skincare et parfums.
-                            {{ else if eq $lang "de" }}Mit über 15 Jahren Leidenschaft für Schönheit testet und analysiert Emma jedes Produkt sorgfältig, um Sie zu den besten Hautpflege- und Parfümentscheidungen zu führen.
-                            {{ else if eq $lang "es" }}Apasionada por la belleza desde hace más de 15 años, Emma prueba y analiza cada producto con rigor para guiarte hacia las mejores opciones de skincare y perfumes.
-                            {{ else }}With over 15 years of passion for beauty, Emma rigorously tests and analyzes every product to guide you toward the best skincare and fragrance choices.
+                        {{ if eq . "Olivia Taylor" }}
+                            {{ if eq $lang "fr" }}Trichologue certifiée IAT et diplômée de la Vidal Sassoon Academy, Olivia est spécialiste de la santé du cuir chevelu, des méthodes pour cheveux bouclés et des formulations clean.
+                            {{ else if eq $lang "de" }}Als IAT-zertifizierte Trichologin und Absolventin der Vidal Sassoon Academy ist Olivia Spezialistin für Kopfhautgesundheit, Locken-Methoden und saubere Formulierungen.
+                            {{ else if eq $lang "es" }}Tricóloga certificada IAT y graduada de la Vidal Sassoon Academy, Olivia es especialista en salud del cuero cabelludo, métodos para rizos y formulaciones limpias.
+                            {{ else }}An IAT Certified Trichologist and Vidal Sassoon Academy graduate, Olivia specializes in scalp health, curly hair methods, and clean formulations. She's consulted for professional haircare brands and brings clinical expertise to every review.
                             {{ end }}
                         {{ else if eq . "Sofia Martinez" }}
                             {{ if eq $lang "fr" }}Maquilleuse professionnelle avec 12 ans d'expérience en beauté mode et éditoriale, Sofia partage son expertise pour vous aider à trouver votre look parfait.
