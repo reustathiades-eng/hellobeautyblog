@@ -1,0 +1,3253 @@
+[
+  {
+    "brand": "CeraVe",
+    "name": "Hydrating Cleanser",
+    "slug": "cerave-hydrating-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "cerave",
+      "sensitive",
+      "cleanser",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "slug": "the-ordinary-niacinamide-10-zinc-1",
+    "subcategories": [
+      "pores",
+      "acne",
+      "the-ordinary",
+      "combination",
+      "serum",
+      "niacinamide",
+      "oily"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Ultra Light Sunscreen SPF 60",
+    "slug": "la-roche-posay-anthelios-ultra-light-sunscreen-spf-60",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "sensitive",
+      "combination",
+      "oily",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Estee Lauder",
+    "name": "Advanced Night Repair Synchronized Multi-Recovery Complex",
+    "slug": "estee-lauder-advanced-night-repair-synchronized-multi-recovery-complex",
+    "subcategories": [
+      "normal",
+      "estee-lauder",
+      "dry",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "Facial Treatment Essence",
+    "slug": "sk-ii-facial-treatment-essence",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "essence",
+      "dry",
+      "anti-aging",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "C-Firma Day Serum",
+    "slug": "drunk-elephant-c-firma-day-serum",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "firmness",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Low pH Good Morning Gel Cleanser",
+    "slug": "cosrx-low-ph-good-morning-gel-cleanser",
+    "subcategories": [
+      "acne",
+      "sensitive",
+      "combination",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Water Sleeping Mask",
+    "slug": "laneige-water-sleeping-mask",
+    "subcategories": [
+      "normal",
+      "mask",
+      "dry",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Daily Moisturizing Lotion",
+    "slug": "cerave-daily-moisturizing-lotion",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "cerave",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Hyaluronic Acid 2% + B5",
+    "slug": "the-ordinary-hyaluronic-acid-2-b5",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "serum",
+      "the-ordinary",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Water Gel",
+    "slug": "neutrogena-hydro-boost-water-gel",
+    "subcategories": [
+      "normal",
+      "neutrogena",
+      "moisturizer",
+      "combination",
+      "oily",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Ultimune Power Infusing Concentrate",
+    "slug": "shiseido-ultimune-power-infusing-concentrate",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "serum",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Paula's Choice",
+    "name": "Skin Perfecting 2% BHA Liquid Exfoliant",
+    "slug": "paulas-choice-skin-perfecting-2-bha-liquid-exfoliant",
+    "subcategories": [
+      "pores",
+      "exfoliator",
+      "acne",
+      "combination",
+      "oily",
+      "paulas-choice"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Dramatically Different Moisturizing Lotion+",
+    "slug": "clinique-dramatically-different-moisturizing-lotion",
+    "subcategories": [
+      "normal",
+      "clinique",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "First Care Activating Serum",
+    "slug": "sulwhasoo-first-care-activating-serum",
+    "subcategories": [
+      "essence",
+      "serum",
+      "anti-aging",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Olay",
+    "name": "Regenerist Micro-Sculpting Cream",
+    "slug": "olay-regenerist-micro-sculpting-cream",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging",
+      "olay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Water Cream",
+    "slug": "tatcha-the-water-cream",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "combination",
+      "tatcha",
+      "oily",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Ultra Facial Cleanser",
+    "slug": "kiehls-ultra-facial-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "kiehls",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Retinol 0.5% in Squalane",
+    "slug": "the-ordinary-retinol-0-5-in-squalane",
+    "subcategories": [
+      "acne",
+      "normal",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "the-ordinary"
+    ]
+  },
+  {
+    "brand": "Fresh",
+    "name": "Soy Face Cleanser",
+    "slug": "fresh-soy-face-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "slug": "cosrx-advanced-snail-96-mucin-power-essence",
+    "subcategories": [
+      "acne",
+      "essence",
+      "sensitive",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Sunday Riley",
+    "name": "Good Genes All-in-One Lactic Acid Treatment",
+    "slug": "sunday-riley-good-genes-all-in-one-lactic-acid-treatment",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "anti-aging",
+      "dark-spots",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Mer",
+    "name": "Crème de la Mer",
+    "slug": "la-mer-creme-de-la-mer",
+    "subcategories": [
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Protini Polypeptide Cream",
+    "slug": "drunk-elephant-protini-polypeptide-cream",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "moisturizer",
+      "anti-aging",
+      "peptides",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The INKEY List",
+    "name": "Salicylic Acid Cleanser",
+    "slug": "the-inkey-list-salicylic-acid-cleanser",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "combination",
+      "salicylic-acid",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Cetaphil",
+    "name": "Gentle Skin Cleanser",
+    "slug": "cetaphil-gentle-skin-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Pixi",
+    "name": "Glow Tonic",
+    "slug": "pixi-glow-tonic",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "toner",
+      "combination",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Priming Moisturizer",
+    "slug": "glossier-priming-moisturizer",
+    "subcategories": [
+      "primer",
+      "normal",
+      "moisturizer",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Youth to the People",
+    "name": "Superfood Cleanser",
+    "slug": "youth-to-the-people-superfood-cleanser",
+    "subcategories": [
+      "normal",
+      "combination",
+      "cleanser",
+      "antioxidant",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Biossance",
+    "name": "Squalane + Vitamin C Rose Oil",
+    "slug": "biossance-squalane-vitamin-c-rose-oil",
+    "subcategories": [
+      "oil",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "vitamin-c",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Origins",
+    "name": "Clear Improvement Active Charcoal Mask",
+    "slug": "origins-clear-improvement-active-charcoal-mask",
+    "subcategories": [
+      "pores",
+      "acne",
+      "mask",
+      "combination",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Aveeno",
+    "name": "Daily Moisturizing Lotion",
+    "slug": "aveeno-daily-moisturizing-lotion",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "First Aid Beauty",
+    "name": "Pure Skin Face Cleanser",
+    "slug": "first-aid-beauty-pure-skin-face-cleanser",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "cleanser",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "AHA 30% + BHA 2% Peeling Solution",
+    "slug": "the-ordinary-aha-30-bha-2-peeling-solution",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "mask",
+      "dark-spots",
+      "the-ordinary",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Fenty Skin",
+    "name": "Total Cleans'r Remove-It-All Cleanser",
+    "slug": "fenty-skin-total-cleansr-remove-it-all-cleanser",
+    "subcategories": [
+      "normal",
+      "combination",
+      "cleanser",
+      "makeup-remover",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Knockout Tingling Treatment",
+    "slug": "tarte-knockout-tingling-treatment",
+    "subcategories": [
+      "pores",
+      "exfoliator",
+      "acne",
+      "toner",
+      "oily"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "BHA Blackhead Power Liquid",
+    "slug": "cosrx-bha-blackhead-power-liquid",
+    "subcategories": [
+      "pores",
+      "exfoliator",
+      "acne",
+      "combination",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Watermelon Glow Sleeping Mask",
+    "slug": "glow-recipe-watermelon-glow-sleeping-mask",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "mask",
+      "glow-recipe",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Midnight Recovery Concentrate",
+    "slug": "kiehls-midnight-recovery-concentrate",
+    "subcategories": [
+      "normal",
+      "oil",
+      "serum",
+      "anti-aging",
+      "kiehls",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Farmacy",
+    "name": "Green Clean Makeup Removing Cleansing Balm",
+    "slug": "farmacy-green-clean-makeup-removing-cleansing-balm",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "makeup-remover"
+    ]
+  },
+  {
+    "brand": "Supergoop!",
+    "name": "Unseen Sunscreen SPF 40",
+    "slug": "supergoop-unseen-sunscreen-spf-40",
+    "subcategories": [
+      "primer",
+      "normal",
+      "sunscreen",
+      "combination",
+      "oily"
+    ]
+  },
+  {
+    "brand": "IT Cosmetics",
+    "name": "Confidence in a Cream",
+    "slug": "it-cosmetics-confidence-in-a-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Murad",
+    "name": "AHA/BHA Exfoliating Cleanser",
+    "slug": "murad-aha-bha-exfoliating-cleanser",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "cleanser",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Herbivore",
+    "name": "Lapis Facial Oil",
+    "slug": "herbivore-lapis-facial-oil",
+    "subcategories": [
+      "acne",
+      "oil",
+      "combination",
+      "serum",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Dermalogica",
+    "name": "Special Cleansing Gel",
+    "slug": "dermalogica-special-cleansing-gel",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "combination",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Belif",
+    "name": "The True Cream Aqua Bomb",
+    "slug": "belif-the-true-cream-aqua-bomb",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "combination",
+      "oily",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Thayers",
+    "name": "Rose Petal Witch Hazel Toner",
+    "slug": "thayers-rose-petal-witch-hazel-toner",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "toner",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Mario Badescu",
+    "name": "Drying Lotion",
+    "slug": "mario-badescu-drying-lotion",
+    "subcategories": [
+      "acne",
+      "normal",
+      "combination",
+      "spot-treatment",
+      "oily"
+    ]
+  },
+  {
+    "brand": "NIOD",
+    "name": "Copper Amino Isolate Serum 2:1",
+    "slug": "niod-copper-amino-isolate-serum-2-1",
+    "subcategories": [
+      "normal",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Philosophy",
+    "name": "Purity Made Simple One-Step Facial Cleanser",
+    "slug": "philosophy-purity-made-simple-one-step-facial-cleanser",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "cleanser",
+      "makeup-remover",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Granactive Retinoid 2% Emulsion",
+    "slug": "the-ordinary-granactive-retinoid-2-emulsion",
+    "subcategories": [
+      "the-ordinary",
+      "normal",
+      "dry",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "combination"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Double Repair Face Moisturizer",
+    "slug": "la-roche-posay-toleriane-double-repair-face-moisturizer",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "la-roche-posay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "AHA/BHA Clarifying Treatment Toner",
+    "slug": "cosrx-aha-bha-clarifying-treatment-toner",
+    "subcategories": [
+      "pores",
+      "exfoliator",
+      "acne",
+      "toner",
+      "combination",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "B-Hydra Intensive Hydration Serum",
+    "slug": "drunk-elephant-b-hydra-intensive-hydration-serum",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "sensitive",
+      "serum",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Cream Skin Refiner",
+    "slug": "laneige-cream-skin-refiner",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "toner",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Buffet",
+    "slug": "the-ordinary-buffet",
+    "subcategories": [
+      "normal",
+      "dry",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "the-ordinary",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "R.N.A. Power Radical New Age Eye Cream",
+    "slug": "sk-ii-rna-power-radical-new-age-eye-cream",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Foaming Facial Cleanser",
+    "slug": "cerave-foaming-facial-cleanser",
+    "subcategories": [
+      "acne",
+      "normal",
+      "cerave",
+      "combination",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "White Lucent Brightening Gel Cream",
+    "slug": "shiseido-white-lucent-brightening-gel-cream",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "dark-spots",
+      "combination",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "Double Wear Stay-in-Place Foundation",
+    "slug": "estee-lauder-double-wear-stay-in-place-foundation",
+    "subcategories": [
+      "normal",
+      "estee-lauder",
+      "combination",
+      "foundation",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Concentrated Ginseng Renewing Cream",
+    "slug": "sulwhasoo-concentrated-ginseng-renewing-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Oil-Free Ultra-Moisturizing Lotion",
+    "slug": "cosrx-oil-free-ultra-moisturizing-lotion",
+    "subcategories": [
+      "acne",
+      "moisturizer",
+      "combination",
+      "oily",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Vitamin C Suspension 23% + HA Spheres 2%",
+    "slug": "the-ordinary-vitamin-c-suspension-23-ha-spheres-2",
+    "subcategories": [
+      "the-ordinary",
+      "normal",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "oily",
+      "dullness",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "TLC Framboos Glycolic Night Serum",
+    "slug": "drunk-elephant-tlc-framboos-glycolic-night-serum",
+    "subcategories": [
+      "glycolic-acid",
+      "exfoliator",
+      "normal",
+      "drunk-elephant",
+      "serum",
+      "anti-aging",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Effaclar Duo Dual Action Acne Treatment",
+    "slug": "la-roche-posay-effaclar-duo-dual-action-acne-treatment",
+    "subcategories": [
+      "pores",
+      "acne",
+      "combination",
+      "spot-treatment",
+      "oily",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Lip Sleeping Mask",
+    "slug": "laneige-lip-sleeping-mask",
+    "subcategories": [
+      "mask",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "PM Facial Moisturizing Lotion",
+    "slug": "cerave-pm-facial-moisturizing-lotion",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "cerave",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Centella Blemish Cream",
+    "slug": "cosrx-centella-blemish-cream",
+    "subcategories": [
+      "acne",
+      "sensitive",
+      "redness",
+      "spot-treatment",
+      "oily"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Marine Hyaluronics",
+    "slug": "the-ordinary-marine-hyaluronics",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "serum",
+      "the-ordinary",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Essential Skin Moisturizer",
+    "slug": "shiseido-essential-skin-moisturizer",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "GenOptics Aura Essence",
+    "slug": "sk-ii-genoptics-aura-essence",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "essence",
+      "dry",
+      "dark-spots",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Lala Retro Whipped Cream",
+    "slug": "drunk-elephant-lala-retro-whipped-cream",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Hydraphase Intense Hyaluronic Acid Serum",
+    "slug": "la-roche-posay-hydraphase-intense-hyaluronic-acid-serum",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "serum",
+      "la-roche-posay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Essential Firming Cream",
+    "slug": "sulwhasoo-essential-firming-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging",
+      "firmness"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Hyaluronic Acid Intensive Cream",
+    "slug": "cosrx-hyaluronic-acid-intensive-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Lactic Acid 10% + HA",
+    "slug": "the-ordinary-lactic-acid-10-ha",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "dry",
+      "serum",
+      "anti-aging",
+      "the-ordinary",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "Revitalizing Supreme+ Global Anti-Aging Cream",
+    "slug": "estee-lauder-revitalizing-supreme-global-anti-aging-cream",
+    "subcategories": [
+      "mature",
+      "normal",
+      "estee-lauder",
+      "dry",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Eye Repair Cream",
+    "slug": "cerave-eye-repair-cream",
+    "subcategories": [
+      "normal",
+      "cerave",
+      "sensitive",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Perfect Renew 3X Eye Cream",
+    "slug": "laneige-perfect-renew-3x-eye-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "A-Passioni Retinol Cream",
+    "slug": "drunk-elephant-a-passioni-retinol-cream",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging",
+      "oily"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Azelaic Acid Suspension 10%",
+    "slug": "the-ordinary-azelaic-acid-suspension-10",
+    "subcategories": [
+      "acne",
+      "the-ordinary",
+      "sensitive",
+      "serum",
+      "redness",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Pure Vitamin C Face Serum",
+    "slug": "la-roche-posay-pure-vitamin-c-face-serum",
+    "subcategories": [
+      "normal",
+      "dry",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "la-roche-posay",
+      "dullness",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Ultimate Moisturizing Honey Overnight Mask",
+    "slug": "cosrx-ultimate-moisturizing-honey-overnight-mask",
+    "subcategories": [
+      "normal",
+      "mask",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Future Solution LX Eye and Lip Contour Regenerating Cream",
+    "slug": "shiseido-future-solution-lx-eye-lip-contour-regenerating-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "Skinpower Airy Milky Lotion",
+    "slug": "sk-ii-skinpower-airy-milky-lotion",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "moisturizer",
+      "anti-aging",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Vitamin C Serum",
+    "slug": "cerave-vitamin-c-serum",
+    "subcategories": [
+      "normal",
+      "dry",
+      "cerave",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "dullness",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Mandelic Acid 10% + HA",
+    "slug": "the-ordinary-mandelic-acid-10-ha",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "normal",
+      "sensitive",
+      "serum",
+      "the-ordinary"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Beste No. 9 Jelly Cleanser",
+    "slug": "drunk-elephant-beste-no-9-jelly-cleanser",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "combination"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Cica Sleeping Mask",
+    "slug": "laneige-cica-sleeping-mask",
+    "subcategories": [
+      "normal",
+      "mask",
+      "sensitive",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Cicaplast Baume B5",
+    "slug": "la-roche-posay-cicaplast-baume-b5",
+    "subcategories": [
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "redness",
+      "la-roche-posay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Propolis Light Ampule",
+    "slug": "cosrx-propolis-light-ampule",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "serum",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Overnight Vitalizing Mask",
+    "slug": "sulwhasoo-overnight-vitalizing-mask",
+    "subcategories": [
+      "normal",
+      "mask",
+      "dry",
+      "anti-aging",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Alpha Arbutin 2% + HA",
+    "slug": "the-ordinary-alpha-arbutin-2-ha",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "serum",
+      "dark-spots",
+      "the-ordinary",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "DayWear Anti-Oxidant 72H-Hydration Sorbet Creme SPF 15",
+    "slug": "estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "estee-lauder",
+      "moisturizer",
+      "anti-aging",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Benefiance Wrinkle Smoothing Eye Cream",
+    "slug": "shiseido-benefiance-wrinkle-smoothing-eye-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Resurfacing Retinol Serum",
+    "slug": "cerave-resurfacing-retinol-serum",
+    "subcategories": [
+      "pores",
+      "normal",
+      "cerave",
+      "serum",
+      "anti-aging",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Shaba Complex Eye Serum",
+    "slug": "drunk-elephant-shaba-complex-eye-serum",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Full Fit Propolis Light Cream",
+    "slug": "cosrx-full-fit-propolis-light-cream",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "sensitive",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Glycolic Acid 7% Toning Solution",
+    "slug": "the-ordinary-glycolic-acid-7-toning-solution",
+    "subcategories": [
+      "pores",
+      "glycolic-acid",
+      "exfoliator",
+      "the-ordinary",
+      "normal",
+      "toner",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Redermic R Anti-Aging Face Moisturizer",
+    "slug": "la-roche-posay-redermic-r-anti-aging-face-moisturizer",
+    "subcategories": [
+      "mature",
+      "normal",
+      "moisturizer",
+      "sensitive",
+      "wrinkles",
+      "anti-aging",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Foreo",
+    "name": "Luna Mini 3 Facial Cleansing Brush",
+    "slug": "foreo-luna-mini-3-facial-cleansing-brush",
+    "subcategories": [
+      "pores",
+      "cleanser",
+      "anti-aging",
+      "all-skin-types"
+    ]
+  },
+  {
+    "brand": "Sunday Riley",
+    "name": "A+ High-Dose Retinoid Serum",
+    "slug": "sunday-riley-a-plus-high-dose-retinoid-serum",
+    "subcategories": [
+      "serum",
+      "anti-aging",
+      "wrinkles",
+      "dry"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Rice Polish Classic Foaming Enzyme Powder",
+    "slug": "tatcha-the-rice-polish-classic-foaming-enzyme-powder",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "tatcha",
+      "cleanser",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Umbra Sheer Physical Daily Defense SPF 30",
+    "slug": "drunk-elephant-umbra-sheer-physical-daily-defense-spf-30",
+    "subcategories": [
+      "drunk-elephant",
+      "sunscreen",
+      "anti-aging",
+      "sensitive"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Salicylic Acid 2% Masque",
+    "slug": "the-ordinary-salicylic-acid-2-masque",
+    "subcategories": [
+      "pores",
+      "exfoliator",
+      "acne",
+      "the-ordinary",
+      "mask",
+      "salicylic-acid",
+      "oily"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Niacinamide 10%",
+    "slug": "cosrx-niacinamide-10",
+    "subcategories": [
+      "pores",
+      "acne",
+      "serum",
+      "niacinamide",
+      "oily"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Effaclar H Iso-Biome Moisturizer",
+    "slug": "la-roche-posay-effaclar-h-iso-biome-moisturizer",
+    "subcategories": [
+      "acne",
+      "moisturizer",
+      "sensitive",
+      "oily",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Avocado Eye Cream",
+    "slug": "kiehls-avocado-eye-cream",
+    "subcategories": [
+      "dry",
+      "anti-aging",
+      "eye-cream",
+      "kiehls",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Fresh",
+    "name": "Black Tea Age-Delay Eye Concentrate",
+    "slug": "fresh-black-tea-age-delay-eye-concentrate",
+    "subcategories": [
+      "dark-spots",
+      "eye-cream",
+      "anti-aging",
+      "wrinkles"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Blueberry Bounce Gentle Cleanser",
+    "slug": "glow-recipe-blueberry-bounce-gentle-cleanser",
+    "subcategories": [
+      "glow-recipe",
+      "sensitive",
+      "cleanser",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Paula's Choice",
+    "name": "Clinical 0.3% Retinol Treatment",
+    "slug": "paulas-choice-clinical-0-3-retinol-treatment",
+    "subcategories": [
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "paulas-choice"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Water Bank Blue Hyaluronic Serum",
+    "slug": "laneige-water-bank-blue-hyaluronic-serum",
+    "subcategories": [
+      "serum",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Urban Environment Oil-Free UV Protector SPF 42",
+    "slug": "shiseido-urban-environment-oil-free-uv-protector-spf-42",
+    "subcategories": [
+      "sunscreen",
+      "anti-aging",
+      "oily",
+      "combination"
+    ]
+  },
+  {
+    "brand": "Biossance",
+    "name": "Squalane + Peptide Eye Gel",
+    "slug": "biossance-squalane-peptide-eye-gel",
+    "subcategories": [
+      "sensitive",
+      "peptides",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Peter Thomas Roth",
+    "name": "Hungarian Thermal Water Mineral-Rich Moisturizer",
+    "slug": "peter-thomas-roth-hungarian-thermal-water-mineral-rich-moisturizer",
+    "subcategories": [
+      "anti-aging",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Green Tea Seed Serum",
+    "slug": "innisfree-green-tea-seed-serum",
+    "subcategories": [
+      "serum",
+      "anti-aging",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Caudalie",
+    "name": "Vinopure Pore Purifying Gel Cleanser",
+    "slug": "caudalie-vinopure-pore-purifying-gel-cleanser",
+    "subcategories": [
+      "pores",
+      "cleanser",
+      "oily",
+      "combination"
+    ]
+  },
+  {
+    "brand": "First Aid Beauty",
+    "name": "KP Bump Eraser Body Scrub",
+    "slug": "first-aid-beauty-kp-bump-eraser-body-scrub",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "sensitive",
+      "body"
+    ]
+  },
+  {
+    "brand": "The INKEY List",
+    "name": "Hyaluronic Acid Serum",
+    "slug": "the-inkey-list-hyaluronic-acid-serum",
+    "subcategories": [
+      "serum",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Youth to the People",
+    "name": "Mandelic Acid + Superfood Unity Exfoliant",
+    "slug": "youth-to-the-people-mandelic-acid-superfood-unity-exfoliant",
+    "subcategories": [
+      "dullness",
+      "exfoliator",
+      "sensitive",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Snowise EX Brightening Serum",
+    "slug": "sulwhasoo-snowise-ex-brightening-serum",
+    "subcategories": [
+      "dark-spots",
+      "serum",
+      "anti-aging",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "Olay",
+    "name": "Eyes Deep Hydrating Eye Gel",
+    "slug": "olay-eyes-deep-hydrating-eye-gel",
+    "subcategories": [
+      "wrinkles",
+      "olay",
+      "anti-aging",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Ultra Gentle Daily Cleanser",
+    "slug": "neutrogena-ultra-gentle-daily-cleanser",
+    "subcategories": [
+      "normal",
+      "neutrogena",
+      "dry",
+      "sensitive",
+      "cleanser"
+    ]
+  },
+  {
+    "brand": "Elemis",
+    "name": "Pro-Collagen Marine Cream",
+    "slug": "elemis-pro-collagen-marine-cream",
+    "subcategories": [
+      "anti-aging",
+      "moisturizer",
+      "wrinkles",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Origins",
+    "name": "GinZing Energy-Boosting Gel Moisturizer",
+    "slug": "origins-ginzing-energy-boosting-gel-moisturizer",
+    "subcategories": [
+      "oily",
+      "dullness",
+      "moisturizer",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Dermalogica",
+    "name": "Daily Microfoliant",
+    "slug": "dermalogica-daily-microfoliant",
+    "subcategories": [
+      "dullness",
+      "exfoliator",
+      "sensitive",
+      "normal"
+    ]
+  },
+  {
+    "brand": "IT Cosmetics",
+    "name": "Confidence in an Eye Cream",
+    "slug": "it-cosmetics-confidence-in-an-eye-cream",
+    "subcategories": [
+      "eye-cream",
+      "anti-aging",
+      "wrinkles",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Maracuja Oil",
+    "slug": "tarte-maracuja-oil",
+    "subcategories": [
+      "oil",
+      "anti-aging",
+      "dry",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Murad",
+    "name": "Vitamin C Glycolic Brightening Serum",
+    "slug": "murad-vitamin-c-glycolic-brightening-serum",
+    "subcategories": [
+      "glycolic-acid",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "dullness",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "Farmacy",
+    "name": "Honey Halo Ultra-Hydrating Ceramic Slip Mask",
+    "slug": "farmacy-honey-halo-ultra-hydrating-ceramic-slip-mask",
+    "subcategories": [
+      "mask",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Belif",
+    "name": "Moisturizing Eye Bomb",
+    "slug": "belif-moisturizing-eye-bomb",
+    "subcategories": [
+      "eye-cream",
+      "anti-aging",
+      "dry",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Mario Badescu",
+    "name": "Enzyme Cleansing Gel",
+    "slug": "mario-badescu-enzyme-cleansing-gel",
+    "subcategories": [
+      "cleanser",
+      "combination",
+      "oily",
+      "normal"
+    ]
+  },
+  {
+    "brand": "Philosophy",
+    "name": "Anti-Wrinkle Miracle Worker+ Line-Correcting Primer",
+    "slug": "philosophy-anti-wrinkle-miracle-worker-line-correcting-primer",
+    "subcategories": [
+      "serum",
+      "anti-aging",
+      "wrinkles",
+      "primer"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Milky Jelly Cleanser",
+    "slug": "glossier-milky-jelly-cleanser",
+    "subcategories": [
+      "cleanser",
+      "dry",
+      "sensitive",
+      "normal"
+    ]
+  },
+  {
+    "brand": "Herbivore",
+    "name": "Prism AHA + BHA Exfoliating Glow Serum",
+    "slug": "herbivore-prism-aha-bha-exfoliating-glow-serum",
+    "subcategories": [
+      "serum",
+      "exfoliator",
+      "dullness",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "NIOD",
+    "name": "Multi-Molecular Hyaluronic Complex",
+    "slug": "niod-multi-molecular-hyaluronic-complex",
+    "subcategories": [
+      "serum",
+      "anti-aging",
+      "dry",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Thayers",
+    "name": "Cucumber Witch Hazel Toner",
+    "slug": "thayers-cucumber-witch-hazel-toner",
+    "subcategories": [
+      "sensitive",
+      "oily",
+      "toner",
+      "normal"
+    ]
+  },
+  {
+    "brand": "Peach & Lily",
+    "name": "Glass Skin Refining Serum",
+    "slug": "peach-lily-glass-skin-refining-serum",
+    "subcategories": [
+      "pores",
+      "serum",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Magic Cream Moisturizer",
+    "slug": "charlotte-tilbury-magic-cream-moisturizer",
+    "subcategories": [
+      "dry",
+      "anti-aging",
+      "moisturizer",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Dr. Barbara Sturm",
+    "name": "Hyaluronic Serum",
+    "slug": "dr-barbara-sturm-hyaluronic-serum",
+    "subcategories": [
+      "serum",
+      "anti-aging",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Klairs",
+    "name": "Supple Preparation Facial Toner",
+    "slug": "klairs-supple-preparation-facial-toner",
+    "subcategories": [
+      "sensitive",
+      "dry",
+      "toner",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Good Molecules",
+    "name": "Hyaluronic Acid Serum",
+    "slug": "good-molecules-hyaluronic-acid-serum",
+    "subcategories": [
+      "serum",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Avène",
+    "name": "Thermal Spring Water",
+    "slug": "avene-thermal-spring-water",
+    "subcategories": [
+      "sensitive",
+      "mist",
+      "redness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "OSEA",
+    "name": "Ocean Cleanser",
+    "slug": "osea-ocean-cleanser",
+    "subcategories": [
+      "cleanser",
+      "combination",
+      "hydration",
+      "normal"
+    ]
+  },
+  {
+    "brand": "Tower 28",
+    "name": "SOS Save.Our.Skin Rescue Spray",
+    "slug": "tower-28-sos-save-our-skin-rescue-spray",
+    "subcategories": [
+      "spot-treatment",
+      "sensitive",
+      "mist",
+      "redness"
+    ]
+  },
+  {
+    "brand": "Renée Rouleau",
+    "name": "Anti-Bump Solution",
+    "slug": "renee-rouleau-anti-bump-solution",
+    "subcategories": [
+      "spot-treatment",
+      "oily",
+      "acne",
+      "combination"
+    ]
+  },
+  {
+    "brand": "Vintner's Daughter",
+    "name": "Active Botanical Serum",
+    "slug": "vintners-daughter-active-botanical-serum",
+    "subcategories": [
+      "serum",
+      "oil",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Algenist",
+    "name": "Genius Ultimate Anti-Aging Cream",
+    "slug": "algenist-genius-ultimate-anti-aging-cream",
+    "subcategories": [
+      "mature",
+      "dry",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "EltaMD",
+    "name": "UV Clear Broad-Spectrum SPF 46",
+    "slug": "eltamd-uv-clear-broad-spectrum-spf-46",
+    "subcategories": [
+      "sunscreen",
+      "acne",
+      "sensitive",
+      "redness"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "F-Balm Electrolyte Waterfacial",
+    "slug": "drunk-elephant-f-balm-electrolyte-waterfacial",
+    "subcategories": [
+      "drunk-elephant",
+      "mask",
+      "moisturizer",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Hydrating Facial Cleanser",
+    "slug": "cerave-hydrating-facial-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "cerave",
+      "sensitive",
+      "cleanser",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Melt-in Milk Sunscreen SPF 100",
+    "slug": "la-roche-posay-anthelios-melt-in-milk-sunscreen-spf-100",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "sensitive",
+      "combination",
+      "oily",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "AM Facial Moisturizing Lotion SPF 30",
+    "slug": "cerave-am-facial-moisturizing-lotion-spf-30",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "cerave",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Caring Wash",
+    "slug": "la-roche-posay-toleriane-caring-wash",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "redness",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Snail 96 Mucin Power Essence",
+    "slug": "cosrx-snail-96-mucin-power-essence",
+    "subcategories": [
+      "acne",
+      "normal",
+      "essence",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Serozinc Face Mist",
+    "slug": "la-roche-posay-serozinc-face-mist",
+    "subcategories": [
+      "acne",
+      "mist",
+      "sensitive",
+      "combination",
+      "oily",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Essential Balancing Emulsion",
+    "slug": "laneige-essential-balancing-emulsion",
+    "subcategories": [
+      "normal",
+      "moisturizer",
+      "sensitive",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Renewing SA Cleanser",
+    "slug": "cerave-renewing-sa-cleanser",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "normal",
+      "cerave",
+      "combination",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "Perfectionist Pro Rapid Firm + Lift Treatment",
+    "slug": "estee-lauder-perfectionist-pro-rapid-firm-lift-treatment",
+    "subcategories": [
+      "normal",
+      "estee-lauder",
+      "dry",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "firmness"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "Skinpower Cream",
+    "slug": "sk-ii-skinpower-cream",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "dry",
+      "moisturizer",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + HA",
+    "slug": "the-ordinary-natural-moisturizing-factors-ha",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "the-ordinary",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Ibuki Smart Filtering Smoother",
+    "slug": "shiseido-ibuki-smart-filtering-smoother",
+    "subcategories": [
+      "pores",
+      "normal",
+      "moisturizer",
+      "combination",
+      "oily",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Virgin Marula Luxury Facial Oil",
+    "slug": "drunk-elephant-virgin-marula-luxury-facial-oil",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "oil",
+      "dry",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Thermal Spring Water",
+    "slug": "la-roche-posay-thermal-spring-water",
+    "subcategories": [
+      "mist",
+      "normal",
+      "sensitive",
+      "redness",
+      "la-roche-posay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Essential Power Skin Refiner",
+    "slug": "laneige-essential-power-skin-refiner",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "toner",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Facial Moisturizing Lotion",
+    "slug": "cerave-facial-moisturizing-lotion",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "cerave",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Gentle Cleansing Foam",
+    "slug": "sulwhasoo-gentle-cleansing-foam",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Galactomyces 95 Tone Balancing Essence",
+    "slug": "cosrx-galactomyces-95-tone-balancing-essence",
+    "subcategories": [
+      "normal",
+      "essence",
+      "oily",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Caffeine Solution 5% + EGCG",
+    "slug": "the-ordinary-caffeine-solution-5-egcg",
+    "subcategories": [
+      "the-ordinary",
+      "normal",
+      "dark-circles",
+      "sensitive",
+      "puffiness",
+      "eye-cream"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "Micro Essence Skin Activating Treatment Lotion",
+    "slug": "estee-lauder-micro-essence-skin-activating-treatment-lotion",
+    "subcategories": [
+      "normal",
+      "estee-lauder",
+      "essence",
+      "anti-aging",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "Atmosphere CC Cream SPF 50",
+    "slug": "sk-ii-atmosphere-cc-cream-spf-50",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "sunscreen",
+      "dry",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "Sukari Babyfacial",
+    "slug": "drunk-elephant-sukari-babyfacial",
+    "subcategories": [
+      "exfoliator",
+      "acne",
+      "normal",
+      "drunk-elephant",
+      "mask",
+      "oily",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Lipikar Baume AP+M",
+    "slug": "la-roche-posay-lipikar-baume-ap-m",
+    "subcategories": [
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "redness",
+      "la-roche-posay",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Clear-C Peeling Serum",
+    "slug": "laneige-clear-c-peeling-serum",
+    "subcategories": [
+      "exfoliator",
+      "normal",
+      "serum",
+      "dark-spots",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Hydrating Hyaluronic Acid Serum",
+    "slug": "cerave-hydrating-hyaluronic-acid-serum",
+    "subcategories": [
+      "normal",
+      "dry",
+      "cerave",
+      "sensitive",
+      "serum",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Waso Quick Gentle Cleanser",
+    "slug": "shiseido-waso-quick-gentle-cleanser",
+    "subcategories": [
+      "normal",
+      "sensitive",
+      "cleanser",
+      "combination",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "Aloe Soothing Sun Cream SPF 50",
+    "slug": "cosrx-aloe-soothing-sun-cream-spf-50",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "dry",
+      "sensitive",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Vitamin C Suspension 30% in Silicone",
+    "slug": "the-ordinary-vitamin-c-suspension-30-in-silicone",
+    "subcategories": [
+      "normal",
+      "serum",
+      "anti-aging",
+      "dark-spots",
+      "the-ordinary",
+      "dullness",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "D-Bronzi Anti-Pollution Sunshine Drops",
+    "slug": "drunk-elephant-d-bronzi-anti-pollution-sunshine-drops",
+    "subcategories": [
+      "normal",
+      "drunk-elephant",
+      "dry",
+      "serum",
+      "anti-aging",
+      "dullness"
+    ]
+  },
+  {
+    "brand": "La Roche-Posay",
+    "name": "Pigmentclar Eyes Dark Circle Skin Corrector",
+    "slug": "la-roche-posay-pigmentclar-eyes-dark-circle-skin-corrector",
+    "subcategories": [
+      "normal",
+      "dark-circles",
+      "sensitive",
+      "dark-spots",
+      "eye-cream",
+      "la-roche-posay"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Clarifying Mask",
+    "slug": "sulwhasoo-clarifying-mask",
+    "subcategories": [
+      "pores",
+      "acne",
+      "mask",
+      "combination",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Time Freeze Eye Serum",
+    "slug": "laneige-time-freeze-eye-serum",
+    "subcategories": [
+      "normal",
+      "dry",
+      "wrinkles",
+      "anti-aging",
+      "eye-cream"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Ultra-Light Moisturizing Lotion SPF 30",
+    "slug": "cerave-ultra-light-moisturizing-lotion-spf-30",
+    "subcategories": [
+      "normal",
+      "sunscreen",
+      "moisturizer",
+      "sensitive",
+      "cerave",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Estée Lauder",
+    "name": "DayWear Eye Cooling Anti-Oxidant Moisture GelCreme",
+    "slug": "estee-lauder-daywear-eye-cooling-anti-oxidant-moisture-gelcreme",
+    "subcategories": [
+      "normal",
+      "estee-lauder",
+      "anti-aging",
+      "puffiness",
+      "eye-cream",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "SK-II",
+    "name": "Skinpower Essence",
+    "slug": "sk-ii-skinpower-essence",
+    "subcategories": [
+      "sk-ii",
+      "normal",
+      "essence",
+      "anti-aging",
+      "dullness",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "COSRX",
+    "name": "AC Collection Calming Foam Cleanser",
+    "slug": "cosrx-ac-collection-calming-foam-cleanser",
+    "subcategories": [
+      "acne",
+      "sensitive",
+      "combination",
+      "cleanser",
+      "oily"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Squalane Cleanser",
+    "slug": "the-ordinary-squalane-cleanser",
+    "subcategories": [
+      "normal",
+      "dry",
+      "sensitive",
+      "cleanser",
+      "the-ordinary",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Vital Perfection Uplifting and Firming Cream",
+    "slug": "shiseido-vital-perfection-uplifting-and-firming-cream",
+    "subcategories": [
+      "normal",
+      "dry",
+      "moisturizer",
+      "wrinkles",
+      "anti-aging",
+      "firmness"
+    ]
+  },
+  {
+    "brand": "Youth to the People",
+    "name": "Superfood Antioxidant Cleanser",
+    "slug": "youth-to-the-people-superfood-antioxidant-cleanser",
+    "subcategories": [
+      "normal",
+      "combination",
+      "cleanser",
+      "antioxidant",
+      "anti-aging",
+      "oily"
+    ]
+  },
+  {
+    "brand": "The INKEY List",
+    "name": "Retinol Eye Cream",
+    "slug": "the-inkey-list-retinol-eye-cream",
+    "subcategories": [
+      "wrinkles",
+      "retinol",
+      "anti-aging",
+      "eye-cream",
+      "fine-lines"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Calendula Herbal Extract Toner",
+    "slug": "kiehls-calendula-herbal-extract-toner",
+    "subcategories": [
+      "sensitive",
+      "alcohol-free",
+      "toner",
+      "herbal",
+      "soothing",
+      "kiehls"
+    ]
+  },
+  {
+    "brand": "Biore",
+    "name": "UV Aqua Rich Watery Essence SPF 50",
+    "slug": "biore-uv-aqua-rich-watery-essence-spf-50",
+    "subcategories": [
+      "daily-protection",
+      "sunscreen",
+      "spf-50",
+      "water-resistant",
+      "lightweight"
+    ]
+  },
+  {
+    "brand": "Missha",
+    "name": "Time Revolution The First Treatment Essence",
+    "slug": "missha-time-revolution-first-treatment-essence",
+    "subcategories": [
+      "essence",
+      "anti-aging",
+      "fermented",
+      "brightening",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Olay",
+    "name": "Regenerist Whip Face Moisturizer",
+    "slug": "olay-regenerist-whip-face-moisturizer",
+    "subcategories": [
+      "moisturizer",
+      "peptides",
+      "anti-aging",
+      "olay",
+      "niacinamide",
+      "lightweight"
+    ]
+  },
+  {
+    "brand": "Eucerin",
+    "name": "Daily Face Cream SPF 30",
+    "slug": "eucerin-daily-face-cream-spf-30",
+    "subcategories": [
+      "daily-protection",
+      "sunscreen",
+      "moisturizer",
+      "sensitive",
+      "spf-30"
+    ]
+  },
+  {
+    "brand": "Banila Co",
+    "name": "Clean It Zero Cleansing Balm",
+    "slug": "banila-co-clean-it-zero-cleansing-balm",
+    "subcategories": [
+      "double-cleanse",
+      "cleanser",
+      "makeup-remover",
+      "oil-cleanser",
+      "balm"
+    ]
+  },
+  {
+    "brand": "Paula's Choice",
+    "name": "Calm Restoring Serum",
+    "slug": "paulas-choice-calm-restoring-serum",
+    "subcategories": [
+      "sensitive",
+      "serum",
+      "soothing",
+      "redness",
+      "niacinamide",
+      "paulas-choice"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Mineral 89 Hyaluronic Acid Face Moisturizer",
+    "slug": "vichy-mineral-89-hyaluronic-acid-face-moisturizer",
+    "subcategories": [
+      "sensitive",
+      "serum",
+      "hyaluronic-acid",
+      "mineral-water",
+      "vichy",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "IOPE",
+    "name": "Bio Intensive Conditioning Ampoule",
+    "slug": "iope-bio-intensive-conditioning-ampoule",
+    "subcategories": [
+      "firming",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "fermented"
+    ]
+  },
+  {
+    "brand": "Aveeno",
+    "name": "Daily Moisturizing Face Cream",
+    "slug": "aveeno-daily-moisturizing-face-cream",
+    "subcategories": [
+      "daily-care",
+      "moisturizer",
+      "sensitive",
+      "soothing",
+      "oat"
+    ]
+  },
+  {
+    "brand": "Skinceuticals",
+    "name": "Physical Fusion UV Defense SPF 50",
+    "slug": "skinceuticals-physical-fusion-uv-defense-spf-50",
+    "subcategories": [
+      "physical",
+      "sunscreen",
+      "sensitive",
+      "spf-50",
+      "zinc-oxide"
+    ]
+  },
+  {
+    "brand": "BENTON",
+    "name": "Aloe BHA Skin Toner",
+    "slug": "benton-aloe-bha-skin-toner",
+    "subcategories": [
+      "acne",
+      "toner",
+      "sensitive",
+      "soothing",
+      "bha",
+      "aloe"
+    ]
+  },
+  {
+    "brand": "RoC",
+    "name": "Retinol Correxion Deep Wrinkle Night Cream",
+    "slug": "roc-retinol-correxion-deep-wrinkle-night-cream",
+    "subcategories": [
+      "moisturizer",
+      "wrinkles",
+      "retinol",
+      "anti-aging",
+      "night-cream"
+    ]
+  },
+  {
+    "brand": "Hada Labo",
+    "name": "Gokujyun Premium Hyaluronic Lotion",
+    "slug": "hada-labo-gokujyun-premium-hyaluronic-lotion",
+    "subcategories": [
+      "plumping",
+      "essence",
+      "toner",
+      "hyaluronic-acid",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Bioderma",
+    "name": "Sensibio H2O Micellar Water",
+    "slug": "bioderma-sensibio-h2o-micellar-water",
+    "subcategories": [
+      "gentle",
+      "sensitive",
+      "cleanser",
+      "micellar-water",
+      "makeup-remover"
+    ]
+  },
+  {
+    "brand": "Some By Mi",
+    "name": "AHA BHA PHA 30 Days Miracle Serum",
+    "slug": "some-by-mi-aha-bha-pha-30-days-miracle-serum",
+    "subcategories": [
+      "aha",
+      "pores",
+      "exfoliator",
+      "acne",
+      "serum",
+      "pha",
+      "bha"
+    ]
+  },
+  {
+    "brand": "Clarins",
+    "name": "Double Serum Complete Age Control Concentrate",
+    "slug": "clarins-double-serum-complete-age-control-concentrate",
+    "subcategories": [
+      "firming",
+      "wrinkles",
+      "serum",
+      "anti-aging",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Dr. Jart+",
+    "name": "Ceramidin Cream",
+    "slug": "dr-jart-ceramidin-cream",
+    "subcategories": [
+      "barrier-repair",
+      "dry",
+      "moisturizer",
+      "sensitive",
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Beauty of Joseon",
+    "name": "Dynasty Cream",
+    "slug": "beauty-of-joseon-dynasty-cream",
+    "subcategories": [
+      "rice-water",
+      "moisturizer",
+      "anti-aging",
+      "traditional",
+      "ginseng"
+    ]
+  },
+  {
+    "brand": "The Face Shop",
+    "name": "Rice Water Bright Light Cleansing Oil",
+    "slug": "the-face-shop-rice-water-bright-light-cleansing-oil",
+    "subcategories": [
+      "rice-water",
+      "cleanser",
+      "makeup-remover",
+      "oil-cleanser",
+      "brightening"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Revitalift Triple Power Anti-Aging Moisturizer",
+    "slug": "loreal-revitalift-triple-power-anti-aging-moisturizer",
+    "subcategories": [
+      "mature",
+      "moisturizer",
+      "retinol",
+      "hyaluronic-acid",
+      "anti-aging",
+      "vitamin-c"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "SoonJung pH 5.5 Relief Toner",
+    "slug": "etude-house-soonjung-ph-5-5-relief-toner",
+    "subcategories": [
+      "ph-balanced",
+      "sensitive",
+      "toner",
+      "panthenol",
+      "soothing"
+    ]
+  },
+  {
+    "brand": "Differin",
+    "name": "Adapalene Gel 0.1% Acne Treatment",
+    "slug": "differin-adapalene-gel-acne-treatment",
+    "subcategories": [
+      "acne",
+      "adapalene",
+      "prescription-strength",
+      "spot-treatment",
+      "retinoid"
+    ]
+  },
+  {
+    "brand": "PURITO",
+    "name": "Centella Unscented Serum",
+    "slug": "purito-centella-unscented-serum",
+    "subcategories": [
+      "sensitive",
+      "serum",
+      "soothing",
+      "fragrance-free",
+      "redness",
+      "centella"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Micellar Cleansing Water",
+    "slug": "garnier-micellar-cleansing-water",
+    "subcategories": [
+      "gentle",
+      "cleanser",
+      "micellar-water",
+      "makeup-remover",
+      "no-rinse"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Advanced Génifique Youth Activating Serum",
+    "slug": "lancome-advanced-genifique-youth-activating-serum",
+    "subcategories": [
+      "radiance",
+      "prebiotics",
+      "serum",
+      "anti-aging",
+      "lancome",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Klairs",
+    "name": "Midnight Blue Calming Cream",
+    "slug": "klairs-midnight-blue-calming-cream",
+    "subcategories": [
+      "moisturizer",
+      "sensitive",
+      "soothing",
+      "redness",
+      "centella"
+    ]
+  },
+  {
+    "brand": "Boscia",
+    "name": "Luminizing Black Mask",
+    "slug": "boscia-luminizing-black-mask",
+    "subcategories": [
+      "pores",
+      "mask",
+      "charcoal",
+      "blackheads",
+      "peel-off"
+    ]
+  },
+  {
+    "brand": "No7",
+    "name": "Protect & Perfect Intense Advanced Serum",
+    "slug": "no7-protect-perfect-intense-advanced-serum",
+    "subcategories": [
+      "firming",
+      "serum",
+      "peptides",
+      "anti-aging",
+      "antioxidant"
+    ]
+  },
+  {
+    "brand": "AHAVA",
+    "name": "Essential Day Moisturizer",
+    "slug": "ahava-essential-day-moisturizer",
+    "subcategories": [
+      "daily-care",
+      "dead-sea-minerals",
+      "normal",
+      "moisturizer",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Super Volcanic Pore Clay Mask",
+    "slug": "innisfree-super-volcanic-pore-clay-mask",
+    "subcategories": [
+      "pores",
+      "sebum-control",
+      "clay",
+      "mask",
+      "volcanic",
+      "oily"
+    ]
+  },
+  {
+    "brand": "Philosophy",
+    "name": "Purity Made Simple Cleanser",
+    "slug": "philosophy-purity-made-simple-cleanser",
+    "subcategories": [
+      "daily-care",
+      "gentle",
+      "sensitive",
+      "cleanser",
+      "makeup-remover"
+    ]
+  },
+  {
+    "brand": "Versed",
+    "name": "The Shortcut Overnight Facial Peel",
+    "slug": "versed-the-shortcut-overnight-facial-peel",
+    "subcategories": [
+      "aha",
+      "exfoliator",
+      "texture",
+      "overnight",
+      "brightening"
+    ]
+  },
+  {
+    "brand": "Too Cool For School",
+    "name": "Egg Remedy Pack",
+    "slug": "too-cool-for-school-egg-remedy-pack",
+    "subcategories": [
+      "pore-strips",
+      "mask",
+      "tightening",
+      "blackheads",
+      "egg-white"
+    ]
+  },
+  {
+    "brand": "Embryolisse",
+    "name": "Lait-Crème Concentré",
+    "slug": "embryolisse-lait-creme-concentre",
+    "subcategories": [
+      "primer",
+      "makeup-base",
+      "multi-purpose",
+      "moisturizer",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Hanskin",
+    "name": "PHA Pore Cleansing Oil",
+    "slug": "hanskin-pha-pore-cleansing-oil",
+    "subcategories": [
+      "pores",
+      "cleanser",
+      "pha",
+      "makeup-remover",
+      "oil-cleanser"
+    ]
+  },
+  {
+    "brand": "Dr. Dennis Gross",
+    "name": "Alpha Beta Universal Daily Peel",
+    "slug": "dr-dennis-gross-alpha-beta-universal-daily-peel",
+    "subcategories": [
+      "aha",
+      "exfoliator",
+      "anti-aging",
+      "peel-pads",
+      "bha",
+      "brightening"
+    ]
+  },
+  {
+    "brand": "Curology",
+    "name": "Emergency Spot Patch",
+    "slug": "curology-emergency-spot-patch",
+    "subcategories": [
+      "overnight",
+      "acne-patches",
+      "hydrocolloid",
+      "blemishes",
+      "spot-treatment"
+    ]
+  },
+  {
+    "brand": "Tula",
+    "name": "The Cult Classic Purifying Face Cleanser",
+    "slug": "tula-cult-classic-purifying-face-cleanser",
+    "subcategories": [
+      "probiotics",
+      "daily-care",
+      "gentle",
+      "normal",
+      "cleanser"
+    ]
+  },
+  {
+    "brand": "Korres",
+    "name": "Wild Rose Vitamin C Active Brightening Oil",
+    "slug": "korres-wild-rose-vitamin-c-active-brightening-oil",
+    "subcategories": [
+      "rosehip",
+      "vitamin-c",
+      "oil",
+      "anti-aging",
+      "brightening"
+    ]
+  },
+  {
+    "brand": "Peach & Lily",
+    "name": "Good Acids Pore Toner",
+    "slug": "peach-lily-good-acids-pore-toner",
+    "subcategories": [
+      "aha",
+      "pores",
+      "exfoliator",
+      "toner",
+      "pha",
+      "bha"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Moisturizing Cream",
+    "slug": "cerave-moisturizing-cream",
+    "subcategories": [
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Dr. Jart+",
+    "name": "Ceramidin Liquid",
+    "slug": "dr-jart-ceramidin-liquid",
+    "subcategories": [
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Liquid Facial Soap Mild",
+    "slug": "clinique-liquid-facial-soap-mild",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Clarifying Lotion",
+    "slug": "clinique-clarifying-lotion",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Moisture Surge 72-Hour Auto-Replenishing Hydrator",
+    "slug": "clinique-moisture-surge-72-hour-auto-replenishing-hydrator",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "The INKEY List",
+    "name": "Caffeine Eye Cream",
+    "slug": "the-inkey-list-caffeine-eye-cream",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Creamy Eye Treatment with Avocado",
+    "slug": "kiehls-creamy-eye-treatment-with-avocado",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "Olay",
+    "name": "Eyes Ultimate Eye Cream",
+    "slug": "olay-eyes-ultimate-eye-cream",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "No7",
+    "name": "Protect & Perfect Intense Advanced Eye Cream",
+    "slug": "no7-protect-perfect-intense-advanced-eye-cream",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Watermelon Glow Niacinamide Dew Drops",
+    "slug": "glow-recipe-watermelon-glow-niacinamide-dew-drops",
+    "subcategories": [
+      "glow-recipe"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Avocado Ceramide Moisture Barrier Cleanser",
+    "slug": "glow-recipe-avocado-ceramide-moisture-barrier-cleanser",
+    "subcategories": [
+      "glow-recipe",
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Strawberry Smooth BHA + AHA Salicylic Serum",
+    "slug": "glow-recipe-strawberry-smooth-bha-aha-salicylic-serum",
+    "subcategories": [
+      "glow-recipe",
+      "salicylic-acid"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Watermelon Glow PHA + BHA Pore-Tight Toner",
+    "slug": "glow-recipe-watermelon-glow-pha-bha-pore-tight-toner",
+    "subcategories": [
+      "glow-recipe"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Rénergie Lift Multi-Action Ultra Face Cream",
+    "slug": "lancome-renergie-lift-multi-action-ultra-face-cream",
+    "subcategories": [
+      "lancome"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Clarifique Dual Essence",
+    "slug": "lancome-clarifique-dual-essence",
+    "subcategories": [
+      "lancome"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Bienfait Multi-Vital SPF 30 Cream",
+    "slug": "lancome-bienfait-multi-vital-spf-30-cream",
+    "subcategories": [
+      "lancome"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Hydrating Foaming Cleanser",
+    "slug": "neutrogena-hydrating-foaming-cleanser",
+    "subcategories": [
+      "neutrogena"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Rapid Wrinkle Repair Regenerating Cream",
+    "slug": "neutrogena-rapid-wrinkle-repair-regenerating-cream",
+    "subcategories": [
+      "neutrogena"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Oil-Free Acne Wash",
+    "slug": "neutrogena-oil-free-acne-wash",
+    "subcategories": [
+      "neutrogena",
+      "salicylic-acid"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Hydra Boost Water Gel",
+    "slug": "neutrogena-hydra-boost-water-gel",
+    "subcategories": [
+      "neutrogena"
+    ]
+  },
+  {
+    "brand": "Cetaphil",
+    "name": "Pro Oil Absorbing Moisturizer with SPF 30",
+    "slug": "cetaphil-pro-oil-absorbing-moisturizer-spf-30",
+    "subcategories": [
+      "salicylic-acid"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "SA Smoothing Cleanser",
+    "slug": "cerave-sa-smoothing-cleanser",
+    "subcategories": [
+      "salicylic-acid",
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Dewy Skin Cream",
+    "slug": "tatcha-the-dewy-skin-cream",
+    "subcategories": [
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Essence Plumping Skin Softener",
+    "slug": "tatcha-the-essence-plumping-skin-softener",
+    "subcategories": [
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Deep Cleanse Exfoliating Cleanser",
+    "slug": "tatcha-the-deep-cleanse-exfoliating-cleanser",
+    "subcategories": [
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "Violet-C Brightening Serum",
+    "slug": "tatcha-violet-c-brightening-serum",
+    "subcategories": [
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "LiftActiv Supreme Vitamin C Serum",
+    "slug": "vichy-liftactiv-supreme-vitamin-c-serum",
+    "subcategories": [
+      "vichy"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Aqualia Thermal Rich Cream",
+    "slug": "vichy-aqualia-thermal-rich-cream",
+    "subcategories": [
+      "vichy"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Pureté Thermale 3-in-1 One Step Cleanser",
+    "slug": "vichy-purete-thermale-3-in-1-one-step-cleanser",
+    "subcategories": [
+      "vichy"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Capital Soleil Ultra-Light Daily Fluid SPF 60",
+    "slug": "vichy-capital-soleil-ultra-light-daily-fluid-spf-60",
+    "subcategories": [
+      "vichy"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Facial Moisturizing Lotion PM",
+    "slug": "cerave-facial-moisturizing-lotion-pm",
+    "subcategories": [
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Elizabeth Arden",
+    "name": "Eight Hour Cream Skin Protectant",
+    "slug": "elizabeth-arden-eight-hour-cream-skin-protectant",
+    "subcategories": [
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Take the Day Off Cleansing Balm",
+    "slug": "clinique-take-the-day-off-cleansing-balm",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Pep-Start Daily UV Protector SPF 50",
+    "slug": "clinique-pep-start-daily-uv-protector-spf-50",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Even Better Clinical Radical Dark Spot Corrector",
+    "slug": "clinique-even-better-clinical-radical-dark-spot-corrector",
+    "subcategories": [
+      "clinique"
+    ]
+  },
+  {
+    "brand": "Ole Henriksen",
+    "name": "Banana Bright Eye Cream",
+    "slug": "ole-henriksen-banana-bright-eye-cream",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "C-Tango Multivitamin Eye Cream",
+    "slug": "drunk-elephant-c-tango-multivitamin-eye-cream",
+    "subcategories": [
+      "dark-circles"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "Luminous Deep Hydration Revitalizing Eye Mask",
+    "slug": "tatcha-luminous-deep-hydration-revitalizing-eye-mask",
+    "subcategories": [
+      "dark-circles",
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Avocado Ceramide Recovery Serum",
+    "slug": "glow-recipe-avocado-ceramide-recovery-serum",
+    "subcategories": [
+      "glow-recipe",
+      "ceramides"
+    ]
+  },
+  {
+    "brand": "Glow Recipe",
+    "name": "Plum Plump Hyaluronic Serum",
+    "slug": "glow-recipe-plum-plump-hyaluronic-serum",
+    "subcategories": [
+      "glow-recipe"
+    ]
+  },
+  {
+    "brand": "Lancome",
+    "name": "Absolue Premium Bx Regenerating and Replenishing Care",
+    "slug": "lancome-absolue-premium-bx-regenerating-replenishing-care",
+    "subcategories": [
+      "lancome"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Clear Pore Cleanser Mask",
+    "slug": "neutrogena-clear-pore-cleanser-mask",
+    "subcategories": [
+      "neutrogena",
+      "salicylic-acid"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Bright Boost Illuminating Serum",
+    "slug": "neutrogena-bright-boost-illuminating-serum",
+    "subcategories": [
+      "neutrogena"
+    ]
+  },
+  {
+    "brand": "Tatcha",
+    "name": "The Rice Wash Soft Cream Cleanser",
+    "slug": "tatcha-the-rice-wash-soft-cream-cleanser",
+    "subcategories": [
+      "tatcha"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "LiftActiv Supreme Anti-Aging Care",
+    "slug": "vichy-liftactiv-supreme-anti-aging-care",
+    "subcategories": [
+      "vichy"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Normaderm PhytoAction Daily Deep Cleansing Gel",
+    "slug": "vichy-normaderm-phytoaction-daily-deep-cleansing-gel",
+    "subcategories": [
+      "vichy",
+      "salicylic-acid"
+    ]
+  },
+  {
+    "brand": "Vichy",
+    "name": "Capital Soleil BB Cream SPF 50",
+    "slug": "vichy-capital-soleil-bb-cream-spf-50",
+    "subcategories": [
+      "vichy"
+    ]
+  }
+]

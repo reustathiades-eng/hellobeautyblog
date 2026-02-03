@@ -1,0 +1,3060 @@
+[
+  {
+    "brand": "Olaplex",
+    "name": "No. 3 Hair Perfector",
+    "slug": "olaplex-no-3-hair-perfector",
+    "subcategories": [
+      "wavy",
+      "hair-serum",
+      "color-protection",
+      "straight",
+      "damage-repair",
+      "curly",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Elixir Ultime Hair Oil",
+    "slug": "kerastase-elixir-ultime-hair-oil",
+    "subcategories": [
+      "wavy",
+      "coily",
+      "hair-oil",
+      "kerastase",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Treatment Original",
+    "slug": "moroccanoil-treatment-original",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "moroccanoil",
+      "hair-oil",
+      "styling",
+      "straight",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Pro-V Daily Moisture Renewal Shampoo",
+    "slug": "pantene-pro-v-daily-moisture-renewal-shampoo",
+    "subcategories": [
+      "wavy",
+      "pantene",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 4 Bond Maintenance Shampoo",
+    "slug": "olaplex-no-4-bond-maintenance-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "color-protection",
+      "straight",
+      "damage-repair",
+      "curly",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 5 Bond Maintenance Conditioner",
+    "slug": "olaplex-no-5-bond-maintenance-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "color-protection",
+      "straight",
+      "damage-repair",
+      "curly",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "All Soft Mega Mask",
+    "slug": "redken-all-soft-mega-mask",
+    "subcategories": [
+      "wavy",
+      "coily",
+      "hair-mask",
+      "redken",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Perfect Hair Day Dry Shampoo",
+    "slug": "living-proof-perfect-hair-day-dry-shampoo",
+    "subcategories": [
+      "wavy",
+      "dry-shampoo",
+      "fine",
+      "straight",
+      "styling",
+      "living-proof"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "Keratin Smooth Shampoo",
+    "slug": "tresemme-keratin-smooth-shampoo",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "shampoo",
+      "tresemme",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Nutritive Masquintense Hair Mask",
+    "slug": "kerastase-nutritive-masquintense-hair-mask",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "kerastase",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "3 Minute Miracle Moist Deep Conditioner",
+    "slug": "aussie-3-minute-miracle-moist-deep-conditioner",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Head & Shoulders",
+    "name": "Classic Clean Anti-Dandruff Shampoo",
+    "slug": "head-shoulders-classic-clean-anti-dandruff-shampoo",
+    "subcategories": [
+      "wavy",
+      "dandruff",
+      "straight",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "Gliss Hair Repair Ultimate Repair Shampoo",
+    "slug": "schwarzkopf-gliss-hair-repair-ultimate-repair-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Hydrating Shampoo",
+    "slug": "moroccanoil-hydrating-shampoo",
+    "subcategories": [
+      "wavy",
+      "moroccanoil",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Hydrating Conditioner",
+    "slug": "moroccanoil-hydrating-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "moroccanoil",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Tea Tree Special Shampoo",
+    "slug": "paul-mitchell-tea-tree-special-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "dandruff",
+      "straight",
+      "curly"
+    ]
+  },
+  {
+    "brand": "DevaCurl",
+    "name": "No-Poo Original Zero Lather Conditioning Cleanser",
+    "slug": "devacurl-no-poo-original-zero-lather-conditioning-cleanser",
+    "subcategories": [
+      "frizz",
+      "coily",
+      "shampoo",
+      "curly-hair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "DevaCurl",
+    "name": "One Condition Original Daily Cream Conditioner",
+    "slug": "devacurl-one-condition-original-daily-cream-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "coily",
+      "curly-hair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Coconut & Hibiscus Curl & Shine Shampoo",
+    "slug": "shea-moisture-coconut-hibiscus-curl-shine-shampoo",
+    "subcategories": [
+      "frizz",
+      "shine",
+      "coily",
+      "shampoo",
+      "curly-hair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Elvive Extraordinary Oil Treatment",
+    "slug": "loreal-elvive-extraordinary-oil-treatment",
+    "subcategories": [
+      "wavy",
+      "hair-oil",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Biolage Hydrasource Shampoo",
+    "slug": "matrix-biolage-hydrasource-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Tigi",
+    "name": "Bed Head Urban Antidotes Recovery Shampoo",
+    "slug": "tigi-bed-head-urban-antidotes-recovery-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Bio Renew Argan Oil of Morocco Shampoo",
+    "slug": "herbal-essences-bio-renew-argan-oil-morocco-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Pro-V Gold Series Deep Hydrating Co-Wash",
+    "slug": "pantene-pro-v-gold-series-deep-hydrating-co-wash",
+    "subcategories": [
+      "pantene",
+      "coily",
+      "shampoo",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Discipline Fluidealiste Anti-Frizz Spray",
+    "slug": "kerastase-discipline-fluidealiste-anti-frizz-spray",
+    "subcategories": [
+      "wavy",
+      "hair-serum",
+      "frizz",
+      "heat-protectant",
+      "kerastase",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Extreme Shampoo",
+    "slug": "redken-extreme-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "redken",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Joico",
+    "name": "K-Pak Deep Penetrating Reconstructor",
+    "slug": "joico-k-pak-deep-penetrating-reconstructor",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Bumble and Bumble",
+    "name": "Hairdresser's Invisible Oil",
+    "slug": "bumble-bumble-hairdressers-invisible-oil",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "hair-oil",
+      "bumble-and-bumble",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Fructis Sleek & Shine Anti-Frizz Serum",
+    "slug": "garnier-fructis-sleek-shine-anti-frizz-serum",
+    "subcategories": [
+      "wavy",
+      "hair-serum",
+      "frizz",
+      "shine",
+      "serum",
+      "straight",
+      "garnier"
+    ]
+  },
+  {
+    "brand": "CHI",
+    "name": "Silk Infusion",
+    "slug": "chi-silk-infusion",
+    "subcategories": [
+      "wavy",
+      "hair-serum",
+      "frizz",
+      "heat-protectant",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 6 Bond Smoother",
+    "slug": "olaplex-no-6-bond-smoother",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "heat-protectant",
+      "straight",
+      "leave-in",
+      "damage-repair",
+      "curly",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Pro-V Miracle Rescue Deep Conditioning Treatment",
+    "slug": "pantene-pro-v-miracle-rescue-deep-conditioning-treatment",
+    "subcategories": [
+      "wavy",
+      "pantene",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Nutritive Therapy Daily Moisture Shampoo",
+    "slug": "dove-nutritive-therapy-daily-moisture-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Nexxus",
+    "name": "Therappe Ultimate Moisture Shampoo",
+    "slug": "nexxus-therappe-ultimate-moisture-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Verb",
+    "name": "Ghost Oil",
+    "slug": "verb-ghost-oil",
+    "subcategories": [
+      "wavy",
+      "hair-oil",
+      "fine",
+      "straight",
+      "styling"
+    ]
+  },
+  {
+    "brand": "It's a 10",
+    "name": "Miracle Leave-In Product",
+    "slug": "its-a-10-miracle-leave-in-product",
+    "subcategories": [
+      "wavy",
+      "heat-protectant",
+      "straight",
+      "leave-in",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Ouai",
+    "name": "Hair Oil",
+    "slug": "ouai-hair-oil",
+    "subcategories": [
+      "wavy",
+      "hair-oil",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Briogeo",
+    "name": "Don't Despair Repair Deep Conditioning Mask",
+    "slug": "briogeo-dont-despair-repair-deep-conditioning-mask",
+    "subcategories": [
+      "wavy",
+      "briogeo",
+      "coily",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Resistance Therapiste Bain",
+    "slug": "kerastase-resistance-therapiste-bain",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "kerastase",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pureology",
+    "name": "Hydrate Shampoo",
+    "slug": "pureology-hydrate-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "color-protection",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Aveda",
+    "name": "Damage Remedy Restructuring Shampoo",
+    "slug": "aveda-damage-remedy-restructuring-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "aveda",
+      "straight",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Macadamia",
+    "name": "Natural Healing Oil Treatment",
+    "slug": "macadamia-natural-healing-oil-treatment",
+    "subcategories": [
+      "wavy",
+      "hair-oil",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Sebastian",
+    "name": "Potion 9 Styling Treatment",
+    "slug": "sebastian-potion-9-styling-treatment",
+    "subcategories": [
+      "wavy",
+      "curly",
+      "straight",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "BC Bonacure Repair Rescue Deep Nourishing Treatment",
+    "slug": "schwarzkopf-bc-bonacure-repair-rescue-deep-nourishing-treatment",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Wella",
+    "name": "SP Luxe Oil Keratin Protect Shampoo",
+    "slug": "wella-sp-luxe-oil-keratin-protect-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Total Miracle 7N1 Conditioner",
+    "slug": "aussie-total-miracle-7n1-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Total Results Brass Off Shampoo",
+    "slug": "matrix-total-results-brass-off-shampoo",
+    "subcategories": [
+      "wavy",
+      "color-protection",
+      "straight",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Restore Shampoo",
+    "slug": "living-proof-restore-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "straight",
+      "damage-repair",
+      "curly",
+      "living-proof"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Intense Hydrating Mask",
+    "slug": "moroccanoil-intense-hydrating-mask",
+    "subcategories": [
+      "wavy",
+      "moroccanoil",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 8 Bond Intense Moisture Mask",
+    "slug": "olaplex-no-8-bond-intense-moisture-mask",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "straight",
+      "damage-repair",
+      "curly",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 7 Bonding Oil",
+    "slug": "olaplex-no-7-bonding-oil",
+    "subcategories": [
+      "wavy",
+      "heat-protectant",
+      "hair-oil",
+      "curly",
+      "straight",
+      "damage-repair",
+      "styling",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Blond Absolu Bain Ultra-Violet Shampoo",
+    "slug": "kerastase-blond-absolu-bain-ultra-violet-shampoo",
+    "subcategories": [
+      "shampoo",
+      "kerastase",
+      "color-protection",
+      "purple-shampoo",
+      "blonde"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Curl Defining Cream",
+    "slug": "moroccanoil-curl-defining-cream",
+    "subcategories": [
+      "frizz",
+      "moroccanoil",
+      "coily",
+      "curly",
+      "curly-hair",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Dyson",
+    "name": "Supersonic Hair Dryer",
+    "slug": "dyson-supersonic-hair-dryer",
+    "subcategories": [
+      "wavy",
+      "heat-styling",
+      "curly",
+      "straight",
+      "damage-repair",
+      "styling"
+    ]
+  },
+  {
+    "brand": "ghd",
+    "name": "Platinum+ Professional Styler",
+    "slug": "ghd-platinum-professional-styler",
+    "subcategories": [
+      "styling",
+      "heat-styling",
+      "straight",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Color Extend Magnetics Shampoo",
+    "slug": "redken-color-extend-magnetics-shampoo",
+    "subcategories": [
+      "color-treated",
+      "shampoo",
+      "color-protection",
+      "redken",
+      "sulfate-free"
+    ]
+  },
+  {
+    "brand": "L'Oréal Professionnel",
+    "name": "Serie Expert Absolut Repair Molecular Mask",
+    "slug": "loreal-professionnel-serie-expert-absolut-repair-molecular-mask",
+    "subcategories": [
+      "thick",
+      "hair-mask",
+      "intensive-treatment",
+      "loreal-professionnel",
+      "damage-repair",
+      "repair"
+    ]
+  },
+  {
+    "brand": "Bumble and Bumble",
+    "name": "Curl Defining Cream",
+    "slug": "bumble-bumble-curl-defining-cream",
+    "subcategories": [
+      "frizz",
+      "coily",
+      "bumble-and-bumble",
+      "curly",
+      "curly-hair",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 9 Bond Protector Nourishing Hair Serum",
+    "slug": "olaplex-no-9-bond-protector-nourishing-hair-serum",
+    "subcategories": [
+      "hair-serum",
+      "heat-protectant",
+      "serum",
+      "antioxidant",
+      "damage-repair",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Genesis Bain Nutri-Fortifiant Shampoo",
+    "slug": "kerastase-genesis-bain-nutri-fortifiant-shampoo",
+    "subcategories": [
+      "shampoo",
+      "strengthening",
+      "hair-loss",
+      "kerastase",
+      "thinning"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Clarifying Shampoo",
+    "slug": "moroccanoil-clarifying-shampoo",
+    "subcategories": [
+      "moroccanoil",
+      "buildup-removal",
+      "shampoo",
+      "clarifying",
+      "deep-cleansing"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Gold Series Sulfate-Free Shampoo",
+    "slug": "pantene-gold-series-sulfate-free-shampoo",
+    "subcategories": [
+      "pantene",
+      "coily",
+      "shampoo",
+      "sulfate-free",
+      "curly",
+      "textured-hair"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Frizz Dismiss Shampoo",
+    "slug": "redken-frizz-dismiss-shampoo",
+    "subcategories": [
+      "frizz",
+      "shampoo",
+      "humidity-protection",
+      "redken",
+      "smoothing"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Botanique Nourish and Replenish Conditioner",
+    "slug": "tresemme-botanique-nourish-replenish-conditioner",
+    "subcategories": [
+      "conditioner",
+      "natural",
+      "tresemme",
+      "dry-hair",
+      "coconut"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Miracle Curls Shampoo",
+    "slug": "aussie-miracle-curls-shampoo",
+    "subcategories": [
+      "frizz",
+      "coily",
+      "shampoo",
+      "curly-hair",
+      "curly",
+      "coconut"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Oil Wonders Amazonian Murumuru Oil",
+    "slug": "matrix-oil-wonders-amazonian-murumuru-oil",
+    "subcategories": [
+      "hair-oil",
+      "frizz",
+      "shine",
+      "all-hair-types"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "GLISS Hair Repair Oil Nutritive Treatment",
+    "slug": "schwarzkopf-gliss-hair-repair-oil-nutritive-treatment",
+    "subcategories": [
+      "hair-oil",
+      "dry-hair",
+      "damage-repair",
+      "repair",
+      "argan-oil"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Super Skinny Serum",
+    "slug": "paul-mitchell-super-skinny-serum",
+    "subcategories": [
+      "hair-serum",
+      "frizz",
+      "heat-protectant",
+      "serum",
+      "smoothing",
+      "straight"
+    ]
+  },
+  {
+    "brand": "DevaCurl",
+    "name": "SuperCream Coconut Curl Styler",
+    "slug": "devacurl-supercream-coconut-curl-styler",
+    "subcategories": [
+      "coily",
+      "curly",
+      "curly-hair",
+      "leave-in",
+      "styling",
+      "coconut"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Manuka Honey & Mafura Oil Intensive Hydration Hair Masque",
+    "slug": "shea-moisture-manuka-honey-mafura-oil-intensive-hydration-hair-masque",
+    "subcategories": [
+      "natural",
+      "hair-mask",
+      "curly",
+      "dry-hair",
+      "honey"
+    ]
+  },
+  {
+    "brand": "TIGI",
+    "name": "Bed Head Ego Boost Split End Mender",
+    "slug": "tigi-bed-head-ego-boost-split-end-mender",
+    "subcategories": [
+      "damage-repair",
+      "hair-serum",
+      "split-ends",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Bio:Renew Sulfate Free Potent Aloe Vera Shampoo",
+    "slug": "herbal-essences-biorenew-sulfate-free-potent-aloe-vera-shampoo",
+    "subcategories": [
+      "natural",
+      "shampoo",
+      "sensitive",
+      "sulfate-free",
+      "aloe-vera"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Whole Blends Honey Treasures Repairing Mask",
+    "slug": "garnier-whole-blends-honey-treasures-repairing-mask",
+    "subcategories": [
+      "natural",
+      "hair-mask",
+      "dry-hair",
+      "garnier",
+      "damage-repair",
+      "repair",
+      "honey"
+    ]
+  },
+  {
+    "brand": "CHI",
+    "name": "Keratin K-Trix 5 Smoothing Treatment",
+    "slug": "chi-keratin-k-trix-5-smoothing-treatment",
+    "subcategories": [
+      "frizz",
+      "heat-protectant",
+      "keratin",
+      "smoothing",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Amplified Textures Shine and Moisture Finishing Gel",
+    "slug": "dove-amplified-textures-shine-moisture-finishing-gel",
+    "subcategories": [
+      "shine",
+      "coily",
+      "curly",
+      "gel",
+      "styling",
+      "textured-hair"
+    ]
+  },
+  {
+    "brand": "Nexxus",
+    "name": "Keraphix Gel Treatment for Damaged Hair",
+    "slug": "nexxus-keraphix-gel-treatment-damaged-hair",
+    "subcategories": [
+      "hair-mask",
+      "keratin",
+      "intensive-treatment",
+      "damage-repair",
+      "repair"
+    ]
+  },
+  {
+    "brand": "OUAI",
+    "name": "Treatment Mask",
+    "slug": "ouai-treatment-mask",
+    "subcategories": [
+      "damage-repair",
+      "hydration",
+      "keratin",
+      "hair-mask"
+    ]
+  },
+  {
+    "brand": "Briogeo",
+    "name": "Scalp Revival Charcoal + Coconut Oil Micro-Exfoliating Shampoo",
+    "slug": "briogeo-scalp-revival-charcoal-coconut-oil-micro-exfoliating-shampoo",
+    "subcategories": [
+      "natural",
+      "briogeo",
+      "exfoliating",
+      "shampoo",
+      "scalp-health",
+      "charcoal",
+      "scalp-care",
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "Pureology",
+    "name": "Strength Cure Blonde Shampoo",
+    "slug": "pureology-strength-cure-blonde-shampoo",
+    "subcategories": [
+      "shampoo",
+      "color-protection",
+      "sulfate-free",
+      "damage-repair",
+      "blonde"
+    ]
+  },
+  {
+    "brand": "Aveda",
+    "name": "Be Curly Curl Enhancer",
+    "slug": "aveda-be-curly-curl-enhancer",
+    "subcategories": [
+      "natural",
+      "coily",
+      "curly",
+      "curly-hair",
+      "aveda",
+      "wheat-protein",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Macadamia",
+    "name": "Ultra Rich Moisture Shampoo",
+    "slug": "macadamia-ultra-rich-moisture-shampoo",
+    "subcategories": [
+      "thick",
+      "macadamia-oil",
+      "shampoo",
+      "dry-hair",
+      "sulfate-free"
+    ]
+  },
+  {
+    "brand": "Sebastian",
+    "name": "Drench Moisturizing Shampoo",
+    "slug": "sebastian-drench-moisturizing-shampoo",
+    "subcategories": [
+      "hydration",
+      "thick",
+      "shampoo",
+      "dry-hair"
+    ]
+  },
+  {
+    "brand": "Wella",
+    "name": "EIMI Thermal Image Heat Protection Spray",
+    "slug": "wella-eimi-thermal-image-heat-protection-spray",
+    "subcategories": [
+      "heat-protectant",
+      "blow-dry",
+      "heat-protection",
+      "styling",
+      "spray"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "No Frizz Nourishing Styling Cream",
+    "slug": "living-proof-no-frizz-nourishing-styling-cream",
+    "subcategories": [
+      "frizz",
+      "humidity-protection",
+      "styling-cream",
+      "smoothing",
+      "leave-in",
+      "styling",
+      "living-proof"
+    ]
+  },
+  {
+    "brand": "Joico",
+    "name": "Moisture Recovery Shampoo",
+    "slug": "joico-moisture-recovery-shampoo",
+    "subcategories": [
+      "thick",
+      "damaged-hair",
+      "shampoo",
+      "dry-hair",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Curl Manifesto Crème de Jour Fondamentale",
+    "slug": "kerastase-curl-manifesto-creme-de-jour-fondamentale",
+    "subcategories": [
+      "coily",
+      "kerastase",
+      "curly-hair",
+      "leave-in",
+      "curly",
+      "manuka-honey",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Volume Shampoo",
+    "slug": "moroccanoil-volume-shampoo",
+    "subcategories": [
+      "moroccanoil",
+      "thin-hair",
+      "shampoo",
+      "volume",
+      "fine",
+      "sulfate-free"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 4C Bond Maintenance Clarifying Shampoo",
+    "slug": "olaplex-no-4c-bond-maintenance-clarifying-shampoo",
+    "subcategories": [
+      "buildup-removal",
+      "shampoo",
+      "clarifying",
+      "deep-cleansing",
+      "damage-repair",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Volume Injection Shampoo",
+    "slug": "redken-volume-injection-shampoo",
+    "subcategories": [
+      "thin-hair",
+      "shampoo",
+      "volume",
+      "fine",
+      "redken",
+      "body"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Nutrient Blends Fortifying Damage Rescue Shampoo",
+    "slug": "pantene-nutrient-blends-fortifying-damage-rescue-shampoo",
+    "subcategories": [
+      "pantene",
+      "shampoo",
+      "strengthening",
+      "damage-repair",
+      "repair",
+      "biotin"
+    ]
+  },
+  {
+    "brand": "ghd",
+    "name": "Heat Protect Spray",
+    "slug": "ghd-heat-protect-spray",
+    "subcategories": [
+      "heat-protectant",
+      "heat-protection",
+      "all-hair-types",
+      "styling",
+      "spray"
+    ]
+  },
+  {
+    "brand": "Dyson",
+    "name": "Corrale Hair Straightener",
+    "slug": "dyson-corrale-hair-straightener",
+    "subcategories": [
+      "heat-styling",
+      "cordless",
+      "straight-hair",
+      "styling",
+      "straightening"
+    ]
+  },
+  {
+    "brand": "Verb",
+    "name": "Sea Spray",
+    "slug": "verb-sea-spray",
+    "subcategories": [
+      "wavy",
+      "volume",
+      "sea-salt",
+      "texture-spray",
+      "styling"
+    ]
+  },
+  {
+    "brand": "It's a 10",
+    "name": "Keratin Leave-In Conditioner",
+    "slug": "its-a-10-keratin-leave-in-conditioner",
+    "subcategories": [
+      "frizz",
+      "heat-protectant",
+      "keratin",
+      "smoothing",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "Bumble and Bumble",
+    "name": "Thickening Spray",
+    "slug": "bumble-bumble-thickening-spray",
+    "subcategories": [
+      "thin-hair",
+      "volume",
+      "fine",
+      "bumble-and-bumble",
+      "styling",
+      "spray"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Densifique Bain Densité Shampoo",
+    "slug": "kerastase-densifique-bain-densite-shampoo",
+    "subcategories": [
+      "density",
+      "shampoo",
+      "kerastase",
+      "hair-loss",
+      "fine",
+      "thinning"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Dry Shampoo Dark Tones",
+    "slug": "moroccanoil-dry-shampoo-dark-tones",
+    "subcategories": [
+      "oil-absorption",
+      "moroccanoil",
+      "dry-shampoo",
+      "dark-hair",
+      "volume"
+    ]
+  },
+  {
+    "brand": "L'Oréal",
+    "name": "EverPure Sulfate Free Moisture Shampoo",
+    "slug": "loreal-everpure-sulfate-free-moisture-shampoo",
+    "subcategories": [
+      "color-protection",
+      "sulfate-free",
+      "rosemary",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Biolage ColorLast Conditioner",
+    "slug": "matrix-biolage-colorlast-conditioner",
+    "subcategories": [
+      "conditioner",
+      "paraben-free",
+      "color-treated",
+      "orchid",
+      "color-protection"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Awapuhi Wild Ginger Moisturizing Lather Shampoo",
+    "slug": "paul-mitchell-awapuhi-wild-ginger-moisturizing-lather-shampoo",
+    "subcategories": [
+      "natural",
+      "shampoo",
+      "ginger",
+      "dry-hair",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Thermal Creations Heat Tamer Spray",
+    "slug": "tresemme-thermal-creations-heat-tamer-spray",
+    "subcategories": [
+      "heat-protectant",
+      "blow-dry",
+      "spray",
+      "tresemme",
+      "heat-protection",
+      "styling",
+      "straightening"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Chronologiste Bain Regenerant Shampoo",
+    "slug": "kerastase-chronologiste-bain-regenerant-shampoo",
+    "subcategories": [
+      "shampoo",
+      "kerastase",
+      "fine",
+      "anti-aging",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Smoothing Lotion",
+    "slug": "moroccanoil-smoothing-lotion",
+    "subcategories": [
+      "frizz",
+      "moroccanoil",
+      "heat-protectant",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Acidic Bonding Concentrate Shampoo",
+    "slug": "redken-acidic-bonding-concentrate-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "color-protection",
+      "redken",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Pro-V Smooth & Sleek Conditioner",
+    "slug": "pantene-pro-v-smooth-sleek-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "pantene",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Dyson",
+    "name": "Airwrap Multi-Styler",
+    "slug": "dyson-airwrap-multi-styler",
+    "subcategories": [
+      "wavy",
+      "styling",
+      "curly",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "ghd",
+    "name": "Original Professional Styler",
+    "slug": "ghd-original-professional-styler",
+    "subcategories": [
+      "styling",
+      "straight",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Full Shampoo",
+    "slug": "living-proof-full-shampoo",
+    "subcategories": [
+      "volume",
+      "fine",
+      "living-proof",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "Color Revitalize Conditioner",
+    "slug": "tresemme-color-revitalize-conditioner",
+    "subcategories": [
+      "conditioner",
+      "tresemme",
+      "color-protection",
+      "color-treated"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "SOS Repair Deep Conditioning Treatment",
+    "slug": "aussie-sos-repair-deep-conditioning-treatment",
+    "subcategories": [
+      "damage-repair",
+      "repair",
+      "hair-mask"
+    ]
+  },
+  {
+    "brand": "Head & Shoulders",
+    "name": "Supreme Scalp Care & Dandruff Treatment",
+    "slug": "head-shoulders-supreme-scalp-care-dandruff-treatment",
+    "subcategories": [
+      "shampoo",
+      "dandruff",
+      "scalp-health",
+      "scalp-care",
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "BC Bonacure Color Freeze Shampoo",
+    "slug": "schwarzkopf-bc-bonacure-color-freeze-shampoo",
+    "subcategories": [
+      "color-protection",
+      "color-treated",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Neuro Liquid Primer HeatCTRL Blowout",
+    "slug": "paul-mitchell-neuro-liquid-primer-heatctrl-blowout",
+    "subcategories": [
+      "volume",
+      "styling",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "DevaCurl",
+    "name": "B'Leave-In Miracle Curl Plumper",
+    "slug": "devacurl-bleave-in-miracle-curl-plumper",
+    "subcategories": [
+      "curly-hair",
+      "curly",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Raw Shea Butter Deep Treatment Masque",
+    "slug": "shea-moisture-raw-shea-butter-deep-treatment-masque",
+    "subcategories": [
+      "damage-repair",
+      "curly",
+      "coily",
+      "hair-mask"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "EverPure Volume Conditioner",
+    "slug": "loreal-everpure-volume-conditioner",
+    "subcategories": [
+      "conditioner",
+      "fine",
+      "color-protection",
+      "volume"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Total Results High Amplify Shampoo",
+    "slug": "matrix-total-results-high-amplify-shampoo",
+    "subcategories": [
+      "volume",
+      "fine",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "TIGI",
+    "name": "Bed Head Masterpiece Hairspray",
+    "slug": "tigi-bed-head-masterpiece-hairspray",
+    "subcategories": [
+      "hair-spray",
+      "styling",
+      "hold"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Curl Boost Mousse",
+    "slug": "herbal-essences-curl-boost-mousse",
+    "subcategories": [
+      "wavy",
+      "volume",
+      "curly",
+      "curly-hair",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Fructis Grow Strong Shampoo",
+    "slug": "garnier-fructis-grow-strong-shampoo",
+    "subcategories": [
+      "strengthening",
+      "hair-loss",
+      "garnier",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "CHI",
+    "name": "44 Iron Guard Thermal Protecting Spray",
+    "slug": "chi-44-iron-guard-thermal-protecting-spray",
+    "subcategories": [
+      "heat-protection",
+      "styling",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Hair Therapy Breakage Remedy Conditioner",
+    "slug": "dove-hair-therapy-breakage-remedy-conditioner",
+    "subcategories": [
+      "conditioner",
+      "damage-repair",
+      "strengthening"
+    ]
+  },
+  {
+    "brand": "Nexxus",
+    "name": "Color Assure Shampoo",
+    "slug": "nexxus-color-assure-shampoo",
+    "subcategories": [
+      "color-protection",
+      "color-treated",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Verb",
+    "name": "Volume Dry Shampoo",
+    "slug": "verb-volume-dry-shampoo",
+    "subcategories": [
+      "volume",
+      "fine",
+      "dry-shampoo"
+    ]
+  },
+  {
+    "brand": "It's a 10",
+    "name": "Miracle Deep Conditioner Plus Keratin",
+    "slug": "its-a-10-miracle-deep-conditioner-plus-keratin",
+    "subcategories": [
+      "conditioner",
+      "damage-repair",
+      "keratin"
+    ]
+  },
+  {
+    "brand": "Ouai",
+    "name": "Medium Hair Shampoo",
+    "slug": "ouai-medium-hair-shampoo",
+    "subcategories": [
+      "shampoo",
+      "normal"
+    ]
+  },
+  {
+    "brand": "Briogeo",
+    "name": "Curl Charisma Rice Amino + Avocado Leave-In Defining Creme",
+    "slug": "briogeo-curl-charisma-rice-amino-avocado-leave-in-defining-creme",
+    "subcategories": [
+      "briogeo",
+      "styling",
+      "curly-hair",
+      "leave-in",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pureology",
+    "name": "Hydrate Conditioner",
+    "slug": "pureology-hydrate-conditioner",
+    "subcategories": [
+      "conditioner",
+      "color-protection",
+      "dry"
+    ]
+  },
+  {
+    "brand": "Aveda",
+    "name": "Nutriplenish Deep Moisture Shampoo",
+    "slug": "aveda-nutriplenish-deep-moisture-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "aveda",
+      "dry",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Macadamia",
+    "name": "Deep Repair Masque",
+    "slug": "macadamia-deep-repair-masque",
+    "subcategories": [
+      "damage-repair",
+      "repair",
+      "hair-mask"
+    ]
+  },
+  {
+    "brand": "Sebastian",
+    "name": "Shaper Hairspray",
+    "slug": "sebastian-shaper-hairspray",
+    "subcategories": [
+      "hair-spray",
+      "styling",
+      "hold"
+    ]
+  },
+  {
+    "brand": "Wella",
+    "name": "EIMI Perfect Me Lightweight Beauty Balm Lotion",
+    "slug": "wella-eimi-perfect-me-lightweight-beauty-balm-lotion",
+    "subcategories": [
+      "frizz",
+      "leave-in",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Joico",
+    "name": "HydraSplash Hydrating Shampoo",
+    "slug": "joico-hydrasplash-hydrating-shampoo",
+    "subcategories": [
+      "fine",
+      "dry",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Kerastase",
+    "name": "Specifique Bain Divalent Balancing Shampoo",
+    "slug": "kerastase-specifique-bain-divalent-balancing-shampoo",
+    "subcategories": [
+      "kerastase",
+      "oily",
+      "scalp-care",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Perfect Defense Heat Protectant",
+    "slug": "moroccanoil-perfect-defense-heat-protectant",
+    "subcategories": [
+      "heat-protection",
+      "styling",
+      "moroccanoil",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Olaplex",
+    "name": "No. 4D Clean Volume Detox Dry Shampoo",
+    "slug": "olaplex-no-4d-clean-volume-detox-dry-shampoo",
+    "subcategories": [
+      "volume",
+      "fine",
+      "dry-shampoo",
+      "olaplex"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "One United All-in-One Multi-Benefit Treatment",
+    "slug": "redken-one-united-all-in-one-multi-benefit-treatment",
+    "subcategories": [
+      "detangling",
+      "redken",
+      "leave-in",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Curl Perfection Defining Mousse",
+    "slug": "pantene-curl-perfection-defining-mousse",
+    "subcategories": [
+      "wavy",
+      "pantene",
+      "curly",
+      "curly-hair",
+      "styling"
+    ]
+  },
+  {
+    "brand": "L'Oreal Professionnel",
+    "name": "Metal Detox Anti-Metal Cleansing Cream Shampoo",
+    "slug": "loreal-professionnel-metal-detox-anti-metal-cleansing-cream-shampoo",
+    "subcategories": [
+      "color-protection",
+      "clarifying",
+      "shampoo",
+      "loreal-professionnel"
+    ]
+  },
+  {
+    "brand": "Bumble and bumble",
+    "name": "Don't Blow It Hair Styler",
+    "slug": "bumble-bumble-dont-blow-it-hair-styler",
+    "subcategories": [
+      "wavy",
+      "bumble-and-bumble",
+      "curly",
+      "styling",
+      "air-dry"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Curl Defining Gel",
+    "slug": "living-proof-curl-defining-gel",
+    "subcategories": [
+      "curly",
+      "hold",
+      "curly-hair",
+      "styling",
+      "living-proof"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "Flawless Curls Defining Gel",
+    "slug": "tresemme-flawless-curls-defining-gel",
+    "subcategories": [
+      "tresemme",
+      "curly",
+      "hold",
+      "curly-hair",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Instant Freeze Gel",
+    "slug": "aussie-instant-freeze-gel",
+    "subcategories": [
+      "styling",
+      "hold"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Biolage Advanced KeratinDose Conditioner",
+    "slug": "matrix-biolage-advanced-keratindose-conditioner",
+    "subcategories": [
+      "conditioner",
+      "damage-repair",
+      "keratin"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "OSiS+ Thrill Fiber Gum",
+    "slug": "schwarzkopf-osis-thrill-fiber-gum",
+    "subcategories": [
+      "styling",
+      "texture",
+      "hold"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "The Conditioner Leave-In Moisturizer",
+    "slug": "paul-mitchell-the-conditioner-leave-in-moisturizer",
+    "subcategories": [
+      "detangling",
+      "dry",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "DevaCurl",
+    "name": "Ultra Defining Gel",
+    "slug": "devacurl-ultra-defining-gel",
+    "subcategories": [
+      "curly-hair",
+      "styling",
+      "curly",
+      "hold"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Curl Enhancing Smoothie",
+    "slug": "shea-moisture-curl-enhancing-smoothie",
+    "subcategories": [
+      "coily",
+      "curly",
+      "curly-hair",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Tigi",
+    "name": "Bed Head Control Freak Serum",
+    "slug": "tigi-bed-head-control-freak-serum",
+    "subcategories": [
+      "serum",
+      "hair-serum",
+      "straight",
+      "frizz"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Totally Twisted Curl Boosting Mousse",
+    "slug": "herbal-essences-totally-twisted-curl-boosting-mousse",
+    "subcategories": [
+      "wavy",
+      "volume",
+      "curly",
+      "curly-hair",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Whole Blends Legendary Olive Leave-In Conditioner",
+    "slug": "garnier-whole-blends-legendary-olive-leave-in-conditioner",
+    "subcategories": [
+      "garnier",
+      "damage-repair",
+      "dry",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Resistance Thérapiste Serum",
+    "slug": "kerastase-resistance-therapiste-serum",
+    "subcategories": [
+      "hair-serum",
+      "heat-protectant",
+      "kerastase",
+      "fine",
+      "serum",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Hydrating Styling Cream",
+    "slug": "moroccanoil-hydrating-styling-cream",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "moroccanoil",
+      "styling-cream",
+      "curly",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Extreme Bleach Recovery Shampoo",
+    "slug": "redken-extreme-bleach-recovery-shampoo",
+    "subcategories": [
+      "shampoo",
+      "fine",
+      "color-protection",
+      "redken",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Miracle Rescue Deep Conditioning Shot",
+    "slug": "pantene-miracle-rescue-deep-conditioning-shot",
+    "subcategories": [
+      "wavy",
+      "pantene",
+      "hair-mask",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "L'Oréal Paris",
+    "name": "Elvive Dream Lengths Super Detangler",
+    "slug": "loreal-elvive-dream-lengths-super-detangler",
+    "subcategories": [
+      "wavy",
+      "coily",
+      "curly",
+      "leave-in",
+      "styling"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Biolage R.A.W. Recover Shampoo",
+    "slug": "matrix-biolage-raw-recover-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "curly",
+      "coily",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Instant Moisture Daily Treatment",
+    "slug": "paul-mitchell-instant-moisture-daily-treatment",
+    "subcategories": [
+      "wavy",
+      "damage-repair",
+      "curly",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Moisture Rich Conditioner",
+    "slug": "tresemme-moisture-rich-conditioner",
+    "subcategories": [
+      "conditioner",
+      "coily",
+      "tresemme",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Head & Shoulders",
+    "name": "Clinical Strength Dandruff Shampoo",
+    "slug": "head-shoulders-clinical-strength-dandruff-shampoo",
+    "subcategories": [
+      "wavy",
+      "dandruff",
+      "straight",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "BC Bonacure Peptide Repair Rescue Deep Nourishing Treatment",
+    "slug": "schwarzkopf-bc-peptide-repair-rescue-deep-nourishing-treatment",
+    "subcategories": [
+      "hair-mask",
+      "fine",
+      "color-protection",
+      "damage-repair",
+      "repair"
+    ]
+  },
+  {
+    "brand": "TIGI",
+    "name": "Bed Head Recovery Conditioner",
+    "slug": "tigi-bed-head-recovery-conditioner",
+    "subcategories": [
+      "conditioner",
+      "damage-repair",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Argan Oil of Morocco Deep Conditioner",
+    "slug": "herbal-essences-argan-oil-morocco-deep-conditioner",
+    "subcategories": [
+      "damage-repair",
+      "frizz",
+      "curly",
+      "hair-mask"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Fructis Sleek & Shine Intensely Smooth Leave-In Conditioning Cream",
+    "slug": "garnier-fructis-sleek-shine-intensely-smooth-leave-in-conditioning-cream",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "shine",
+      "straight",
+      "leave-in",
+      "garnier"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Intensive Repair Shampoo",
+    "slug": "dove-intensive-repair-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pureology",
+    "name": "Smooth Perfection Shampoo",
+    "slug": "pureology-smooth-perfection-shampoo",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "shampoo",
+      "color-protection",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Aveda",
+    "name": "Damage Remedy Restructuring Conditioner",
+    "slug": "aveda-damage-remedy-restructuring-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "aveda",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Macadamia",
+    "name": "Natural Oil Deep Repair Masque",
+    "slug": "macadamia-natural-oil-deep-repair-masque",
+    "subcategories": [
+      "coily",
+      "hair-mask",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Sebastian",
+    "name": "Penetraitt Strengthening and Repair Conditioner",
+    "slug": "sebastian-penetraitt-strengthening-repair-conditioner",
+    "subcategories": [
+      "conditioner",
+      "fine",
+      "color-protection",
+      "damage-repair",
+      "repair"
+    ]
+  },
+  {
+    "brand": "Wella",
+    "name": "EIMI Oil Spritz",
+    "slug": "wella-eimi-oil-spritz",
+    "subcategories": [
+      "hair-oil",
+      "frizz",
+      "styling",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Elixir Ultime L'Huile Original",
+    "slug": "kerastase-elixir-ultime-lhuile-original",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "heat-protectant",
+      "hair-oil",
+      "kerastase",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Restorative Hair Mask",
+    "slug": "moroccanoil-restorative-hair-mask",
+    "subcategories": [
+      "wavy",
+      "moroccanoil",
+      "hair-mask",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "All Soft Mega Conditioner",
+    "slug": "redken-all-soft-mega-conditioner",
+    "subcategories": [
+      "conditioner",
+      "coily",
+      "redken",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Daily Moisture Renewal Shampoo",
+    "slug": "pantene-daily-moisture-renewal-shampoo",
+    "subcategories": [
+      "wavy",
+      "pantene",
+      "shampoo",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "GHD",
+    "name": "Total Volume Foam",
+    "slug": "ghd-total-volume-foam",
+    "subcategories": [
+      "fine",
+      "styling",
+      "straight",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Dyson",
+    "name": "Styling Concentrator",
+    "slug": "dyson-styling-concentrator",
+    "subcategories": [
+      "fine",
+      "styling",
+      "straight",
+      "heat-protectant"
+    ]
+  },
+  {
+    "brand": "Verb",
+    "name": "Hydrating Shampoo",
+    "slug": "verb-hydrating-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "curly",
+      "coily",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "L'Oréal Professionnel",
+    "name": "Mythic Oil Shampoo",
+    "slug": "loreal-professionnel-mythic-oil-shampoo",
+    "subcategories": [
+      "frizz",
+      "shampoo",
+      "loreal-professionnel",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Matrix",
+    "name": "Oil Wonders Volume Rose Shampoo",
+    "slug": "matrix-oil-wonders-volume-rose-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "fine",
+      "color-protection",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Between Washes Style Reviever Dry Shampoo",
+    "slug": "tresemme-between-washes-style-reviever-dry-shampoo",
+    "subcategories": [
+      "wavy",
+      "dry-shampoo",
+      "fine",
+      "tresemme",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Smooth Conditioner",
+    "slug": "aussie-smooth-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "wavy",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Head & Shoulders",
+    "name": "Royal Oils Moisture Boost Shampoo",
+    "slug": "head-shoulders-royal-oils-moisture-boost-shampoo",
+    "subcategories": [
+      "damage-repair",
+      "curly",
+      "coily",
+      "shampoo"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "Gliss Kur Ultimate Repair Shampoo",
+    "slug": "schwarzkopf-gliss-kur-ultimate-repair-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Jamaican Black Castor Oil Strengthen & Restore Shampoo",
+    "slug": "shea-moisture-jamaican-black-castor-oil-strengthen-restore-shampoo",
+    "subcategories": [
+      "coily",
+      "shampoo",
+      "hair-loss",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Nutritive Bain Satin 2 Shampoo",
+    "slug": "kerastase-nutritive-bain-satin-2-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "kerastase",
+      "dry",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Moroccanoil",
+    "name": "Moisture Repair Conditioner",
+    "slug": "moroccanoil-moisture-repair-conditioner",
+    "subcategories": [
+      "conditioner",
+      "moroccanoil",
+      "coily",
+      "dry",
+      "damage-repair",
+      "repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Perfect Hair Day Conditioner",
+    "slug": "living-proof-perfect-hair-day-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "fine",
+      "straight",
+      "styling",
+      "living-proof"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Botanique Nourish Replenish Shampoo",
+    "slug": "tresemme-botanique-nourish-replenish-shampoo",
+    "subcategories": [
+      "coily",
+      "shampoo",
+      "tresemme",
+      "dry",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Miracle Curls Conditioner",
+    "slug": "aussie-miracle-curls-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "coily",
+      "styling",
+      "curly-hair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "BC Bonacure Moisture Kick Shampoo",
+    "slug": "schwarzkopf-bc-bonacure-moisture-kick-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "fine",
+      "dry",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Bio:Renew Argan Oil Conditioner",
+    "slug": "herbal-essences-biorenew-argan-oil-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "dry",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "CHI",
+    "name": "Silk Infusion Leave-In Treatment",
+    "slug": "chi-silk-infusion-leave-in-treatment",
+    "subcategories": [
+      "hair-serum",
+      "frizz",
+      "heat-protectant",
+      "straight",
+      "leave-in"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Nutritive Solutions Daily Moisture Shampoo",
+    "slug": "dove-nutritive-solutions-daily-moisture-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "fine",
+      "dry",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Nexxus",
+    "name": "Therappe Moisturizing Shampoo",
+    "slug": "nexxus-therappe-moisturizing-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "dry",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Pureology",
+    "name": "Strength Cure Shampoo",
+    "slug": "pureology-strength-cure-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "color-protection",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Macadamia",
+    "name": "Weightless Moisture Shampoo",
+    "slug": "macadamia-weightless-moisture-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "fine",
+      "dry",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Wella",
+    "name": "Professionals Invigo Nutri-Enrich Deep Nourishing Mask",
+    "slug": "wella-professionals-invigo-nutri-enrich-deep-nourishing-mask",
+    "subcategories": [
+      "coily",
+      "hair-mask",
+      "dry",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "Joico",
+    "name": "K-PAK Reconstructing Shampoo",
+    "slug": "joico-k-pak-reconstructing-shampoo",
+    "subcategories": [
+      "wavy",
+      "shampoo",
+      "color-protection",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Kérastase",
+    "name": "Resistance Masque Thérapiste",
+    "slug": "kerastase-resistance-masque-therapiste",
+    "subcategories": [
+      "wavy",
+      "hair-mask",
+      "kerastase",
+      "dry",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Extreme Conditioner",
+    "slug": "redken-extreme-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "dry",
+      "redken",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Relaxed & Natural Intensive Mask",
+    "slug": "pantene-relaxed-natural-intensive-mask",
+    "subcategories": [
+      "pantene",
+      "coily",
+      "hair-mask",
+      "dry",
+      "damage-repair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "ghd",
+    "name": "Bodyguard Heat Protect Spray",
+    "slug": "ghd-bodyguard-heat-protect-spray",
+    "subcategories": [
+      "wavy",
+      "heat-protectant",
+      "fine",
+      "heat-protection",
+      "straight",
+      "styling"
+    ]
+  },
+  {
+    "brand": "L'Oréal",
+    "name": "EverPure Repair & Defend Conditioner",
+    "slug": "loreal-everpure-repair-defend-conditioner",
+    "subcategories": [
+      "conditioner",
+      "wavy",
+      "color-protection",
+      "straight",
+      "damage-repair",
+      "repair"
+    ]
+  },
+  {
+    "brand": "Head & Shoulders",
+    "name": "Smooth & Silky Dandruff Shampoo",
+    "slug": "head-shoulders-smooth-silky-dandruff-shampoo",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "shampoo",
+      "dandruff",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Shea Moisture",
+    "name": "Coconut & Hibiscus Curl & Shine Conditioner",
+    "slug": "shea-moisture-coconut-hibiscus-curl-shine-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "shine",
+      "coily",
+      "styling",
+      "curly-hair",
+      "curly"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Keratin Smooth Deep Smoothing Mask",
+    "slug": "tresemme-keratin-smooth-deep-smoothing-mask",
+    "subcategories": [
+      "wavy",
+      "frizz",
+      "hair-mask",
+      "tresemme",
+      "straight",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "OSiS+ Thrill Texture Fibre Gum",
+    "slug": "schwarzkopf-osis-thrill-texture-fibre-gum",
+    "subcategories": [
+      "wavy",
+      "fine",
+      "styling",
+      "straight"
+    ]
+  },
+  {
+    "brand": "TIGI",
+    "name": "Bed Head Manipulator Matte",
+    "slug": "tigi-bed-head-manipulator-matte",
+    "subcategories": [
+      "wavy",
+      "fine",
+      "styling",
+      "straight"
+    ]
+  },
+  {
+    "brand": "Herbal Essences",
+    "name": "Hello Hydration Moisturizing Conditioner",
+    "slug": "herbal-essences-hello-hydration-moisturizing-conditioner",
+    "subcategories": [
+      "conditioner",
+      "frizz",
+      "coily",
+      "dry",
+      "curly"
+    ]
+  },
+  {
+    "brand": "CHI",
+    "name": "Keratin Mist Leave-In Strengthening Treatment",
+    "slug": "chi-keratin-mist-leave-in-strengthening-treatment",
+    "subcategories": [
+      "wavy",
+      "heat-protectant",
+      "straight",
+      "leave-in",
+      "damage-repair"
+    ]
+  },
+  {
+    "brand": "Dove",
+    "name": "Amplified Textures Moisture Lock Leave-In Conditioner",
+    "slug": "dove-amplified-textures-moisture-lock-leave-in-conditioner",
+    "subcategories": [
+      "frizz",
+      "coily",
+      "dry",
+      "leave-in",
+      "curly"
+    ]
+  },
+  {
+    "brand": "SheaMoisture",
+    "name": "Coconut and Hibiscus Curl Enhancing Smoothie",
+    "slug": "sheamoisture-coconut-hibiscus-curl-enhancing-smoothie",
+    "subcategories": [
+      "coily-hair",
+      "natural-hair"
+    ]
+  },
+  {
+    "brand": "Cantu",
+    "name": "Shea Butter Leave In Conditioning Repair Cream",
+    "slug": "cantu-shea-butter-leave-in-conditioning-repair-cream",
+    "subcategories": [
+      "coily-hair",
+      "natural-hair"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Fine Hair Volumizing Shampoo",
+    "slug": "pantene-fine-hair-volumizing-shampoo",
+    "subcategories": [
+      "fine-hair"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "Thermal Creations Volumizing Mousse",
+    "slug": "tresemme-thermal-creations-volumizing-mousse",
+    "subcategories": [
+      "fine-hair"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Full Thickening Cream",
+    "slug": "living-proof-full-thickening-cream",
+    "subcategories": [
+      "fine-hair"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Aussome Volume Shampoo",
+    "slug": "aussie-aussome-volume-shampoo",
+    "subcategories": [
+      "fine-hair"
+    ]
+  },
+  {
+    "brand": "Paul Mitchell",
+    "name": "Super Strong Daily Shampoo",
+    "slug": "paul-mitchell-super-strong-daily-shampoo",
+    "subcategories": [
+      "thick-hair"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "All Soft Mega Shampoo",
+    "slug": "redken-all-soft-mega-shampoo",
+    "subcategories": [
+      "thick-hair"
+    ]
+  },
+  {
+    "brand": "Ouai",
+    "name": "Wave Spray",
+    "slug": "ouai-wave-spray",
+    "subcategories": [
+      "wavy-hair"
+    ]
+  },
+  {
+    "brand": "Not Your Mothers",
+    "name": "Beach Babe Texturizing Sea Salt Spray",
+    "slug": "not-your-mothers-beach-babe-texturizing-sea-salt-spray",
+    "subcategories": [
+      "wavy-hair"
+    ]
+  },
+  {
+    "brand": "Bumble and Bumble",
+    "name": "Surf Spray",
+    "slug": "bumble-and-bumble-surf-spray",
+    "subcategories": [
+      "wavy-hair",
+      "fine-hair"
+    ]
+  },
+  {
+    "brand": "Schwarzkopf",
+    "name": "Got2b Glued Blasting Freeze Spray",
+    "slug": "schwarzkopf-got2b-glued-blasting-freeze-spray",
+    "subcategories": [
+      "straight-hair"
+    ]
+  },
+  {
+    "brand": "John Frieda",
+    "name": "Frizz Ease Extra Strength Serum",
+    "slug": "john-frieda-frizz-ease-extra-strength-serum",
+    "subcategories": [
+      "straight-hair"
+    ]
+  },
+  {
+    "brand": "Garnier",
+    "name": "Fructis Sleek and Shine Anti Frizz Serum",
+    "slug": "garnier-fructis-sleek-and-shine-anti-frizz-serum",
+    "subcategories": [
+      "straight-hair"
+    ]
+  },
+  {
+    "brand": "Carol's Daughter",
+    "name": "Black Vanilla Moisture and Shine Sulfate Free Shampoo",
+    "slug": "carols-daughter-black-vanilla-moisture-shine-sulfate-free-shampoo",
+    "subcategories": [
+      "natural-hair",
+      "coily-hair"
+    ]
+  },
+  {
+    "brand": "Aunt Jackie's",
+    "name": "Curls and Coils Flaxseed Recipes Don't Shrink Curling Gel",
+    "slug": "aunt-jackies-curls-coils-flaxseed-recipes-dont-shrink-curling-gel",
+    "subcategories": [
+      "natural-hair",
+      "coily-hair"
+    ]
+  },
+  {
+    "brand": "Mielle Organics",
+    "name": "Rosemary Mint Scalp and Hair Strengthening Oil",
+    "slug": "mielle-organics-rosemary-mint-scalp-hair-strengthening-oil",
+    "subcategories": [
+      "natural-hair",
+      "coily-hair"
+    ]
+  },
+  {
+    "brand": "Design Essentials",
+    "name": "Natural Almond and Avocado Moisturizing and Detangling Conditioner",
+    "slug": "design-essentials-natural-almond-avocado-moisturizing-detangling-conditioner",
+    "subcategories": [
+      "natural-hair",
+      "coily-hair"
+    ]
+  },
+  {
+    "brand": "Gisou",
+    "name": "Honey Infused Hair Oil",
+    "slug": "gisou-honey-infused-hair-oil",
+    "subcategories": [
+      "gisou",
+      "hair-oil",
+      "hair-treatment"
+    ]
+  },
+  {
+    "brand": "Gisou",
+    "name": "Honey Infused Hair Mask",
+    "slug": "gisou-honey-infused-hair-mask",
+    "subcategories": [
+      "gisou",
+      "hair-mask",
+      "hair-treatment"
+    ]
+  },
+  {
+    "brand": "Gisou",
+    "name": "Honey Infused Shampoo",
+    "slug": "gisou-honey-infused-shampoo",
+    "subcategories": [
+      "gisou",
+      "shampoo",
+      "cleansing"
+    ]
+  },
+  {
+    "brand": "Gisou",
+    "name": "Honey Infused Conditioner",
+    "slug": "gisou-honey-infused-conditioner",
+    "subcategories": [
+      "gisou",
+      "conditioner",
+      "moisturizing"
+    ]
+  },
+  {
+    "brand": "John Frieda",
+    "name": "Brilliant Brunette Shampoo",
+    "slug": "john-frieda-brilliant-brunette-shampoo",
+    "subcategories": [
+      "john-frieda",
+      "shampoo",
+      "color-enhancing"
+    ]
+  },
+  {
+    "brand": "John Frieda",
+    "name": "Beach Blonde Cool Dip Shampoo",
+    "slug": "john-frieda-beach-blonde-cool-dip-shampoo",
+    "subcategories": [
+      "john-frieda",
+      "shampoo",
+      "blonde-care"
+    ]
+  },
+  {
+    "brand": "John Frieda",
+    "name": "Volume Lift Lightweight Shampoo",
+    "slug": "john-frieda-volume-lift-lightweight-shampoo",
+    "subcategories": [
+      "john-frieda",
+      "shampoo",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "K18",
+    "name": "Leave In Molecular Repair Hair Mask",
+    "slug": "k18-leave-in-molecular-repair-hair-mask",
+    "subcategories": [
+      "k18",
+      "hair-mask",
+      "hair-repair"
+    ]
+  },
+  {
+    "brand": "K18",
+    "name": "Peptide Prep Detox Shampoo",
+    "slug": "k18-peptide-prep-detox-shampoo",
+    "subcategories": [
+      "k18",
+      "shampoo",
+      "detoxifying"
+    ]
+  },
+  {
+    "brand": "K18",
+    "name": "Peptide Prep pH Maintenance Shampoo",
+    "slug": "k18-peptide-prep-ph-maintenance-shampoo",
+    "subcategories": [
+      "k18",
+      "shampoo",
+      "ph-balancing"
+    ]
+  },
+  {
+    "brand": "K18",
+    "name": "Damage Shield Protective Conditioner",
+    "slug": "k18-damage-shield-protective-conditioner",
+    "subcategories": [
+      "k18",
+      "conditioner",
+      "hair-protection"
+    ]
+  },
+  {
+    "brand": "Rogaine",
+    "name": "Minoxidil Foam",
+    "slug": "rogaine-minoxidil-foam",
+    "subcategories": [
+      "hair-growth",
+      "thinning"
+    ]
+  },
+  {
+    "brand": "Nioxin",
+    "name": "System 1 Scalp Treatment",
+    "slug": "nioxin-system-1-scalp-treatment",
+    "subcategories": [
+      "hair-growth",
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "Viviscal",
+    "name": "Hair Growth Supplements",
+    "slug": "viviscal-hair-growth-supplements",
+    "subcategories": [
+      "hair-growth"
+    ]
+  },
+  {
+    "brand": "Pura D'or",
+    "name": "Hair Thinning Therapy Shampoo",
+    "slug": "pura-dor-hair-thinning-therapy-shampoo",
+    "subcategories": [
+      "hair-growth",
+      "thinning"
+    ]
+  },
+  {
+    "brand": "Bosley",
+    "name": "Professional Strength Hair Regrowth Treatment",
+    "slug": "bosley-professional-strength-hair-regrowth-treatment",
+    "subcategories": [
+      "thinning",
+      "hair-growth"
+    ]
+  },
+  {
+    "brand": "Keranique",
+    "name": "Hair Regrowth Treatment",
+    "slug": "keranique-hair-regrowth-treatment",
+    "subcategories": [
+      "thinning",
+      "hair-growth"
+    ]
+  },
+  {
+    "brand": "Nutrafol",
+    "name": "Hair Growth Supplement",
+    "slug": "nutrafol-hair-growth-supplement",
+    "subcategories": [
+      "thinning",
+      "hair-growth"
+    ]
+  },
+  {
+    "brand": "Hims",
+    "name": "Hair Loss Treatment Spray",
+    "slug": "hims-hair-loss-treatment-spray",
+    "subcategories": [
+      "thinning",
+      "hair-growth"
+    ]
+  },
+  {
+    "brand": "Head and Shoulders",
+    "name": "Clinical Strength Dandruff Shampoo",
+    "slug": "head-and-shoulders-clinical-strength-dandruff-shampoo",
+    "subcategories": [
+      "scalp-health",
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "Tea Tree",
+    "name": "Special Shampoo",
+    "slug": "tea-tree-special-shampoo",
+    "subcategories": [
+      "scalp-health"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "T/Gel Therapeutic Shampoo",
+    "slug": "neutrogena-t-gel-therapeutic-shampoo",
+    "subcategories": [
+      "scalp-health",
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "Briogeo",
+    "name": "Scalp Revival Charcoal Tea Tree Shampoo",
+    "slug": "briogeo-scalp-revival-charcoal-tea-tree-shampoo",
+    "subcategories": [
+      "scalp-health"
+    ]
+  },
+  {
+    "brand": "Selsun Blue",
+    "name": "Medicated Anti Dandruff Shampoo",
+    "slug": "selsun-blue-medicated-anti-dandruff-shampoo",
+    "subcategories": [
+      "scalp-treatment",
+      "scalp-health"
+    ]
+  },
+  {
+    "brand": "Nizoral",
+    "name": "Anti Dandruff Shampoo",
+    "slug": "nizoral-anti-dandruff-shampoo",
+    "subcategories": [
+      "scalp-treatment",
+      "scalp-health"
+    ]
+  },
+  {
+    "brand": "Ketoconazole",
+    "name": "Antifungal Shampoo",
+    "slug": "ketoconazole-antifungal-shampoo",
+    "subcategories": [
+      "scalp-treatment"
+    ]
+  },
+  {
+    "brand": "DermaZinc",
+    "name": "Zinc Pyrithione Shampoo",
+    "slug": "dermazinc-zinc-pyrithione-shampoo",
+    "subcategories": [
+      "scalp-treatment",
+      "scalp-health"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "TRES Two Extra Hold Hair Spray",
+    "slug": "tresemme-tres-two-extra-hold-hair-spray",
+    "subcategories": [
+      "hair-spray"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Elnett Satin Hair Spray",
+    "slug": "loreal-elnett-satin-hair-spray",
+    "subcategories": [
+      "hair-spray"
+    ]
+  },
+  {
+    "brand": "Aussie",
+    "name": "Instant Freeze Hair Spray",
+    "slug": "aussie-instant-freeze-hair-spray",
+    "subcategories": [
+      "hair-spray"
+    ]
+  },
+  {
+    "brand": "Pantene",
+    "name": "Pro-V Airspray Hair Spray",
+    "slug": "pantene-pro-v-airspray-hair-spray",
+    "subcategories": [
+      "hair-spray"
+    ]
+  },
+  {
+    "brand": "Moroccan Oil",
+    "name": "Styling Cream",
+    "slug": "moroccan-oil-styling-cream",
+    "subcategories": [
+      "styling-cream"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "Curl Defining Styling Cream",
+    "slug": "living-proof-curl-defining-styling-cream",
+    "subcategories": [
+      "styling-cream"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Curvaceous Cream",
+    "slug": "redken-curvaceous-cream",
+    "subcategories": [
+      "styling-cream"
+    ]
+  },
+  {
+    "brand": "LA Looks",
+    "name": "Extreme Sport Hair Gel",
+    "slug": "la-looks-extreme-sport-hair-gel",
+    "subcategories": [
+      "styling-gel"
+    ]
+  },
+  {
+    "brand": "Got2b",
+    "name": "Glued Blasting Freeze Gel",
+    "slug": "got2b-glued-blasting-freeze-gel",
+    "subcategories": [
+      "styling-gel"
+    ]
+  },
+  {
+    "brand": "Garnier Fructis",
+    "name": "Style Pure Clean Gel",
+    "slug": "garnier-fructis-style-pure-clean-gel",
+    "subcategories": [
+      "styling-gel"
+    ]
+  },
+  {
+    "brand": "TRESemme",
+    "name": "TRES Two Ultra Firm Control Gel",
+    "slug": "tresemme-tres-two-ultra-firm-control-gel",
+    "subcategories": [
+      "styling-gel"
+    ]
+  },
+  {
+    "brand": "Redken",
+    "name": "Extreme Anti-Snap Leave-In Treatment",
+    "slug": "redken-extreme-anti-snap-leave-in-treatment",
+    "subcategories": [
+      "split-ends"
+    ]
+  },
+  {
+    "brand": "TRESemmé",
+    "name": "Split Remedy Split End Sealing Serum",
+    "slug": "tresemme-split-remedy-split-end-sealing-serum",
+    "subcategories": [
+      "split-ends"
+    ]
+  },
+  {
+    "brand": "Living Proof",
+    "name": "No Frizz Shampoo",
+    "slug": "living-proof-no-frizz-shampoo",
+    "subcategories": [
+      "thick-hair"
+    ]
+  }
+]

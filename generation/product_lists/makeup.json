@@ -1,0 +1,5717 @@
+[
+  {
+    "brand": "Fenty Beauty",
+    "name": "Pro Filt'r Soft Matte Longwear Foundation",
+    "slug": "fenty-beauty-pro-filtr-soft-matte-longwear-foundation",
+    "subcategories": [
+      "matte",
+      "fenty-beauty",
+      "full-coverage",
+      "face",
+      "longwear",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Radiant Creamy Concealer",
+    "slug": "nars-radiant-creamy-concealer",
+    "subcategories": [
+      "nars",
+      "radiant",
+      "full-coverage",
+      "face",
+      "concealer",
+      "under-eye"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Airbrush Flawless Finish Setting Powder",
+    "slug": "charlotte-tilbury-airbrush-flawless-finish-setting-powder",
+    "subcategories": [
+      "matte",
+      "powder",
+      "charlotte-tilbury",
+      "setting-powder",
+      "blurring"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Blush in Orgasm",
+    "slug": "nars-blush-orgasm",
+    "subcategories": [
+      "nars",
+      "shimmer",
+      "buildable",
+      "peachy-pink",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Sun Stalk'r Instant Warmth Bronzer",
+    "slug": "fenty-beauty-sun-stalkr-instant-warmth-bronzer",
+    "subcategories": [
+      "matte",
+      "bronzer",
+      "fenty-beauty",
+      "contour",
+      "face",
+      "warmth"
+    ]
+  },
+  {
+    "brand": "Becca",
+    "name": "Shimmering Skin Perfector Pressed Highlighter in Champagne Pop",
+    "slug": "becca-shimmering-skin-perfector-pressed-highlighter-champagne-pop",
+    "subcategories": [
+      "highlighter",
+      "glow",
+      "champagne",
+      "shimmer"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked Eyeshadow Palette",
+    "slug": "urban-decay-naked-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "palette",
+      "versatile",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Stila",
+    "name": "Stay All Day Waterproof Liquid Eye Liner",
+    "slug": "stila-stay-all-day-waterproof-liquid-eye-liner",
+    "subcategories": [
+      "waterproof",
+      "eyeliner",
+      "precision",
+      "liquid",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Better Than Sex Mascara",
+    "slug": "too-faced-better-than-sex-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "too-faced",
+      "dramatic",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Brow Wiz",
+    "slug": "anastasia-beverly-hills-brow-wiz",
+    "subcategories": [
+      "natural",
+      "eyebrow",
+      "precision",
+      "brows",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Lipstick in Ruby Woo",
+    "slug": "mac-lipstick-ruby-woo",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "red",
+      "classic",
+      "lips",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Cloud Paint",
+    "slug": "glossier-cloud-paint",
+    "subcategories": [
+      "natural",
+      "buildable",
+      "liquid",
+      "blush"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Soft Pinch Liquid Blush",
+    "slug": "rare-beauty-soft-pinch-liquid-blush",
+    "subcategories": [
+      "blendable",
+      "liquid",
+      "blush",
+      "face",
+      "pigmented",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Pillow Talk Lipstick",
+    "slug": "charlotte-tilbury-pillow-talk-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "universally-flattering",
+      "nude-pink",
+      "charlotte-tilbury",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Fit Me Matte + Poreless Foundation",
+    "slug": "maybelline-fit-me-matte-poreless-foundation",
+    "subcategories": [
+      "matte",
+      "drugstore",
+      "maybelline",
+      "pore-minimizing",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "True Match Super-Blendable Foundation",
+    "slug": "loreal-true-match-super-blendable-foundation",
+    "subcategories": [
+      "natural",
+      "blendable",
+      "drugstore",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Shape Tape Contour Concealer",
+    "slug": "tarte-shape-tape-contour-concealer",
+    "subcategories": [
+      "full-coverage",
+      "tarte",
+      "contour",
+      "face",
+      "concealer",
+      "longwear"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Benetint Cheek & Lip Stain",
+    "slug": "benefit-benetint-cheek-lip-stain",
+    "subcategories": [
+      "natural",
+      "lip-stain",
+      "blush",
+      "lips",
+      "multi-use"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "All Nighter Long-Lasting Makeup Setting Spray",
+    "slug": "urban-decay-all-nighter-long-lasting-makeup-setting-spray",
+    "subcategories": [
+      "humidity-resistant",
+      "longwear",
+      "oil-control",
+      "urban-decay",
+      "setting-spray"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "35O Nature Glow Eyeshadow Palette",
+    "slug": "morphe-35o-nature-glow-eyeshadow-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "palette",
+      "versatile",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Hypnôse Mascara",
+    "slug": "lancome-hypnose-mascara",
+    "subcategories": [
+      "luxury",
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Milani",
+    "name": "Baked Blush",
+    "slug": "milani-baked-blush",
+    "subcategories": [
+      "drugstore",
+      "baked",
+      "blush",
+      "face",
+      "pigmented"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Professional Makeup Setting Spray",
+    "slug": "nyx-professional-makeup-setting-spray",
+    "subcategories": [
+      "longwear",
+      "drugstore",
+      "budget-friendly",
+      "setting-spray"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Rose Gold Remastered Eyeshadow Palette",
+    "slug": "huda-beauty-rose-gold-remastered-eyeshadow-palette",
+    "subcategories": [
+      "shimmer",
+      "rose-gold",
+      "eyeshadow",
+      "palette",
+      "huda-beauty",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Fix+ Setting Spray",
+    "slug": "mac-fix-setting-spray",
+    "subcategories": [
+      "setting-spray",
+      "refreshing",
+      "hydrating",
+      "mac",
+      "multi-use"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Born This Way Foundation",
+    "slug": "too-faced-born-this-way-foundation",
+    "subcategories": [
+      "hydrating",
+      "too-faced",
+      "medium-coverage",
+      "face",
+      "foundation",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Gimme Brow+ Volumizing Eyebrow Gel",
+    "slug": "benefit-gimme-brow-volumizing-eyebrow-gel",
+    "subcategories": [
+      "volumizing",
+      "tinted",
+      "eyebrow",
+      "brows",
+      "gel",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Gloss Bomb Universal Lip Luminizer",
+    "slug": "fenty-beauty-gloss-bomb-universal-lip-luminizer",
+    "subcategories": [
+      "shine",
+      "plumping",
+      "fenty-beauty",
+      "lip-gloss",
+      "universal",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Modern Renaissance Eyeshadow Palette",
+    "slug": "anastasia-beverly-hills-modern-renaissance-eyeshadow-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "palette",
+      "berry",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Sky High Mascara",
+    "slug": "maybelline-sky-high-mascara",
+    "subcategories": [
+      "volumizing",
+      "drugstore",
+      "mascara",
+      "maybelline",
+      "lengthening",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Cheek to Chic Blush",
+    "slug": "charlotte-tilbury-cheek-to-chic-blush",
+    "subcategories": [
+      "duo",
+      "buildable",
+      "charlotte-tilbury",
+      "blush",
+      "face",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Addict Lip Glow",
+    "slug": "dior-addict-lip-glow",
+    "subcategories": [
+      "lip-balm",
+      "tinted",
+      "hydrating",
+      "dior-beauty",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Laura Mercier",
+    "name": "Translucent Loose Setting Powder",
+    "slug": "laura-mercier-translucent-loose-setting-powder",
+    "subcategories": [
+      "setting-powder",
+      "powder",
+      "translucent",
+      "professional"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Dear Darling Water Gel Tint",
+    "slug": "etude-house-dear-darling-water-gel-tint",
+    "subcategories": [
+      "lip-tint",
+      "natural",
+      "k-beauty",
+      "water-gel"
+    ]
+  },
+  {
+    "brand": "3INA",
+    "name": "The Lipstick",
+    "slug": "3ina-the-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "affordable",
+      "pigmented",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Revlon",
+    "name": "ColorStay Foundation",
+    "slug": "revlon-colorstay-foundation",
+    "subcategories": [
+      "drugstore",
+      "full-coverage",
+      "face",
+      "longwear",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Studio Fix Fluid SPF 15 Foundation",
+    "slug": "mac-studio-fix-fluid-spf-15-foundation",
+    "subcategories": [
+      "medium-coverage",
+      "face",
+      "mac",
+      "foundation",
+      "natural-finish",
+      "spf"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Laguna Bronzing Powder",
+    "slug": "nars-laguna-bronzing-powder",
+    "subcategories": [
+      "matte",
+      "nars",
+      "bronzer",
+      "contour",
+      "golden"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked Heat Eyeshadow Palette",
+    "slug": "urban-decay-naked-heat-eyeshadow-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "palette",
+      "amber",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Boy Brow",
+    "slug": "glossier-boy-brow",
+    "subcategories": [
+      "natural",
+      "tinted",
+      "eyebrow",
+      "brows",
+      "gel"
+    ]
+  },
+  {
+    "brand": "Kat Von D Beauty",
+    "name": "Tattoo Liner",
+    "slug": "kat-von-d-beauty-tattoo-liner",
+    "subcategories": [
+      "longwear",
+      "liquid",
+      "precision",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Almost Powder Makeup",
+    "slug": "clinique-almost-powder-makeup",
+    "subcategories": [
+      "natural",
+      "foundation",
+      "powder",
+      "buildable"
+    ]
+  },
+  {
+    "brand": "Pixi",
+    "name": "Glow Tonic",
+    "slug": "pixi-glow-tonic",
+    "subcategories": [
+      "glycolic-acid",
+      "glow",
+      "toner",
+      "exfoliating"
+    ]
+  },
+  {
+    "brand": "Essence",
+    "name": "Lash Princess False Lash Effect Mascara",
+    "slug": "essence-lash-princess-false-lash-effect-mascara",
+    "subcategories": [
+      "volumizing",
+      "drugstore",
+      "mascara",
+      "budget-friendly",
+      "eyes",
+      "false-lashes"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Super Shock Shadow",
+    "slug": "colourpop-super-shock-shadow",
+    "subcategories": [
+      "affordable",
+      "metallic",
+      "cream",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Jeffree Star Cosmetics",
+    "name": "Velour Liquid Lipstick",
+    "slug": "jeffree-star-cosmetics-velour-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "liquid",
+      "longwear",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Long-Wear Gel Eyeliner",
+    "slug": "bobbi-brown-long-wear-gel-eyeliner",
+    "subcategories": [
+      "eyeliner",
+      "bobbi-brown",
+      "brows",
+      "gel",
+      "longwear",
+      "eyes",
+      "smudge-proof"
+    ]
+  },
+  {
+    "brand": "Physician's Formula",
+    "name": "Butter Bronzer",
+    "slug": "physicians-formula-butter-bronzer",
+    "subcategories": [
+      "natural",
+      "bronzer",
+      "drugstore",
+      "buttery",
+      "face"
+    ]
+  },
+  {
+    "brand": "IT Cosmetics",
+    "name": "CC+ Cream with SPF 50+",
+    "slug": "it-cosmetics-cc-cream-spf-50",
+    "subcategories": [
+      "cc-cream",
+      "spf",
+      "medium-coverage",
+      "anti-aging"
+    ]
+  },
+  {
+    "brand": "Kylie Cosmetics",
+    "name": "Lip Kit",
+    "slug": "kylie-cosmetics-lip-kit",
+    "subcategories": [
+      "matte",
+      "lip-kit",
+      "lips",
+      "lip-liner",
+      "liquid-lipstick"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Studio Fix Powder Plus Foundation",
+    "slug": "mac-studio-fix-powder-plus-foundation",
+    "subcategories": [
+      "matte",
+      "mac",
+      "powder",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Magic Foundation",
+    "slug": "charlotte-tilbury-magic-foundation",
+    "subcategories": [
+      "luminous",
+      "charlotte-tilbury",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Natural Radiant Longwear Foundation",
+    "slug": "nars-natural-radiant-longwear-foundation",
+    "subcategories": [
+      "nars",
+      "long-wear",
+      "radiant",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked3 Eyeshadow Palette",
+    "slug": "urban-decay-naked3-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "rose",
+      "eyeshadow",
+      "palette",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Chocolate Bar Eyeshadow Palette",
+    "slug": "too-faced-chocolate-bar-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "brown",
+      "eyeshadow",
+      "too-faced",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Killawatt Freestyle Highlighter",
+    "slug": "fenty-beauty-killawatt-freestyle-highlighter",
+    "subcategories": [
+      "highlighter",
+      "glow",
+      "powder",
+      "fenty-beauty"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Always An Optimist Primer",
+    "slug": "rare-beauty-always-an-optimist-primer",
+    "subcategories": [
+      "primer",
+      "smoothing",
+      "pore-minimizing",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Powder Kiss Lipstick",
+    "slug": "mac-powder-kiss-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "lips",
+      "comfortable",
+      "mac",
+      "powder-finish"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Instant Age Rewind Eraser Dark Circles Concealer",
+    "slug": "maybelline-instant-age-rewind-eraser-concealer",
+    "subcategories": [
+      "maybelline",
+      "full-coverage",
+      "anti-aging",
+      "face",
+      "concealer",
+      "under-eye"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Flawless Filter",
+    "slug": "charlotte-tilbury-flawless-filter",
+    "subcategories": [
+      "primer",
+      "charlotte-tilbury",
+      "glow",
+      "complexion-enhancer",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Eyeshadow Palette Wanted",
+    "slug": "nars-eyeshadow-palette-wanted",
+    "subcategories": [
+      "neutral",
+      "nars",
+      "eyeshadow",
+      "eyes",
+      "palette",
+      "warm"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "New Nude Eyeshadow Palette",
+    "slug": "huda-beauty-new-nude-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "palette",
+      "nude",
+      "huda-beauty",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "24/7 Glide-On Eye Pencil",
+    "slug": "urban-decay-24-7-glide-on-eye-pencil",
+    "subcategories": [
+      "waterproof",
+      "eyeliner",
+      "long-wear",
+      "pencil",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Sweet Peach Eyeshadow Palette",
+    "slug": "too-faced-sweet-peach-eyeshadow-palette",
+    "subcategories": [
+      "eyeshadow",
+      "too-faced",
+      "eyes",
+      "palette",
+      "warm",
+      "peach"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Flyliner Longwear Liquid Eyeliner",
+    "slug": "fenty-beauty-flyliner-longwear-liquid-eyeliner",
+    "subcategories": [
+      "eyeliner",
+      "long-wear",
+      "fenty-beauty",
+      "liquid",
+      "precise",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Mineralize Skinfinish Natural",
+    "slug": "mac-mineralize-skinfinish-natural",
+    "subcategories": [
+      "finish",
+      "natural",
+      "powder",
+      "setting",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Dipbrow Pomade",
+    "slug": "anastasia-beverly-hills-dipbrow-pomade",
+    "subcategories": [
+      "pomade",
+      "eyebrow",
+      "long-wear",
+      "brows",
+      "full-coverage"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Powermatte Lip Pigment",
+    "slug": "nars-powermatte-lip-pigment",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "nars",
+      "liquid",
+      "high-pigment",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Matte Revolution Lipstick",
+    "slug": "charlotte-tilbury-matte-revolution-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-wear",
+      "charlotte-tilbury",
+      "comfortable",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Liquid Touch Weightless Foundation",
+    "slug": "rare-beauty-liquid-touch-weightless-foundation",
+    "subcategories": [
+      "natural",
+      "medium-coverage",
+      "face",
+      "foundation",
+      "lightweight",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked Cherry Eyeshadow Palette",
+    "slug": "urban-decay-naked-cherry-eyeshadow-palette",
+    "subcategories": [
+      "red",
+      "eyeshadow",
+      "palette",
+      "cherry",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Melted Matte Liquid Lipstick",
+    "slug": "too-faced-melted-matte-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "too-faced",
+      "liquid",
+      "comfortable",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Match Stix Matte Skinstick",
+    "slug": "fenty-beauty-match-stix-matte-skinstick",
+    "subcategories": [
+      "matte",
+      "fenty-beauty",
+      "contour",
+      "concealer",
+      "stick"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Prep + Prime Lip",
+    "slug": "mac-prep-prime-lip",
+    "subcategories": [
+      "lip-primer",
+      "lips",
+      "smoothing",
+      "mac",
+      "base"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Superstay Matte Ink Liquid Lipstick",
+    "slug": "maybelline-superstay-matte-ink-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-wear",
+      "maybelline",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Eyes to Mesmerise",
+    "slug": "charlotte-tilbury-eyes-to-mesmerise",
+    "subcategories": [
+      "metallic",
+      "eyeshadow",
+      "charlotte-tilbury",
+      "single",
+      "eyes",
+      "cream"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Light Reflecting Setting Powder",
+    "slug": "nars-light-reflecting-setting-powder",
+    "subcategories": [
+      "luminous",
+      "nars",
+      "powder",
+      "finishing",
+      "setting"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Desert Dusk Eyeshadow Palette",
+    "slug": "huda-beauty-desert-dusk-eyeshadow-palette",
+    "subcategories": [
+      "sunset",
+      "eyeshadow",
+      "eyes",
+      "palette",
+      "huda-beauty",
+      "warm"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Vice Lipstick",
+    "slug": "urban-decay-vice-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "pigmented",
+      "comfortable",
+      "lips",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Hangover Replenishing Face Primer",
+    "slug": "too-faced-hangover-replenishing-face-primer",
+    "subcategories": [
+      "primer",
+      "hydrating",
+      "too-faced",
+      "smoothing",
+      "coconut"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Stunna Lip Paint Longwear Fluid Lip Color",
+    "slug": "fenty-beauty-stunna-lip-paint-longwear-fluid-lip-color",
+    "subcategories": [
+      "lipstick",
+      "long-wear",
+      "fenty-beauty",
+      "bold",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Extra Dimension Skinfinish",
+    "slug": "mac-extra-dimension-skinfinish",
+    "subcategories": [
+      "luminous",
+      "powder",
+      "highlighter",
+      "dimensional",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Perfect Strokes Universal Volumizing Mascara",
+    "slug": "rare-beauty-perfect-strokes-universal-volumizing-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "universal",
+      "eyes",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Contour Kit",
+    "slug": "anastasia-beverly-hills-contour-kit",
+    "subcategories": [
+      "kit",
+      "sculpting",
+      "contour",
+      "powder"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Velvet Matte Lip Pencil",
+    "slug": "nars-velvet-matte-lip-pencil",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "nars",
+      "lip-liner",
+      "pencil",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Legendary Lashes Mascara",
+    "slug": "charlotte-tilbury-legendary-lashes-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "charlotte-tilbury",
+      "dramatic",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Eyeshadow Primer Potion",
+    "slug": "urban-decay-eyeshadow-primer-potion",
+    "subcategories": [
+      "primer",
+      "long-wear",
+      "eyeshadow",
+      "crease-proof",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Natural Matte Eyeshadow Palette",
+    "slug": "too-faced-natural-matte-eyeshadow-palette",
+    "subcategories": [
+      "matte",
+      "neutral",
+      "eyeshadow",
+      "too-faced",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Cheeks Out Freestyle Cream Blush",
+    "slug": "fenty-beauty-cheeks-out-freestyle-cream-blush",
+    "subcategories": [
+      "natural",
+      "fenty-beauty",
+      "buildable",
+      "blush",
+      "face",
+      "cream"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Blush",
+    "slug": "mac-blush",
+    "subcategories": [
+      "classic",
+      "powder",
+      "blush",
+      "face",
+      "pigmented",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "The Falsies Lash Lift Mascara",
+    "slug": "maybelline-the-falsies-lash-lift-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "maybelline",
+      "lengthening",
+      "eyes",
+      "lifting"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Lip Lustre",
+    "slug": "charlotte-tilbury-lip-lustre",
+    "subcategories": [
+      "hydrating",
+      "lustrous",
+      "charlotte-tilbury",
+      "lip-gloss",
+      "lips",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Climax Mascara",
+    "slug": "nars-climax-mascara",
+    "subcategories": [
+      "nars",
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "dramatic",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Obsessions Eyeshadow Palette",
+    "slug": "huda-beauty-obsessions-eyeshadow-palette",
+    "subcategories": [
+      "compact",
+      "eyeshadow",
+      "palette",
+      "themed",
+      "huda-beauty",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked Honey Eyeshadow Palette",
+    "slug": "urban-decay-naked-honey-eyeshadow-palette",
+    "subcategories": [
+      "eyeshadow",
+      "eyes",
+      "palette",
+      "honey",
+      "warm",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Lip Injection Extreme",
+    "slug": "too-faced-lip-injection-extreme",
+    "subcategories": [
+      "tingling",
+      "plumping",
+      "volumizing",
+      "too-faced",
+      "lip-gloss",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Pro Kiss'r Luscious Lip Balm",
+    "slug": "fenty-beauty-pro-kissr-luscious-lip-balm",
+    "subcategories": [
+      "lip-balm",
+      "tinted",
+      "fenty-beauty",
+      "hydrating",
+      "lips",
+      "nourishing"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "In Extreme Dimension Mascara",
+    "slug": "mac-in-extreme-dimension-mascara",
+    "subcategories": [
+      "dramatic",
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "mac",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Kind Words Matte Lipstick",
+    "slug": "rare-beauty-kind-words-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "pigmented",
+      "comfortable",
+      "lips",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Glow Kit",
+    "slug": "anastasia-beverly-hills-glow-kit",
+    "subcategories": [
+      "highlighter",
+      "illuminating",
+      "kit",
+      "powder"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Audacious Lipstick",
+    "slug": "nars-audacious-lipstick",
+    "subcategories": [
+      "luxurious",
+      "lipstick",
+      "nars",
+      "creamy",
+      "full-coverage",
+      "lips"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Studio Sculpt Foundation",
+    "slug": "mac-studio-sculpt-foundation",
+    "subcategories": [
+      "mac",
+      "buildable",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Sheer Glow Foundation",
+    "slug": "nars-sheer-glow-foundation",
+    "subcategories": [
+      "luminous",
+      "nars",
+      "light-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Magic Away Concealer",
+    "slug": "charlotte-tilbury-magic-away-concealer",
+    "subcategories": [
+      "full-coverage",
+      "charlotte-tilbury",
+      "anti-aging",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Instant Retouch Concealer",
+    "slug": "fenty-beauty-instant-retouch-concealer",
+    "subcategories": [
+      "long-lasting",
+      "fenty-beauty",
+      "full-coverage",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Always Perfect Concealer",
+    "slug": "rare-beauty-always-perfect-concealer",
+    "subcategories": [
+      "buildable",
+      "medium-coverage",
+      "face",
+      "concealer",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "All Nighter Powder Foundation",
+    "slug": "urban-decay-all-nighter-powder-foundation",
+    "subcategories": [
+      "matte",
+      "powder",
+      "face",
+      "foundation",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Peach Perfect Foundation",
+    "slug": "too-faced-peach-perfect-foundation",
+    "subcategories": [
+      "matte",
+      "too-faced",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Glow Play Blush",
+    "slug": "mac-glow-play-blush",
+    "subcategories": [
+      "luminous",
+      "blush",
+      "face",
+      "mac",
+      "cream"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Hot Sand Bronzer",
+    "slug": "nars-hot-sand-bronzer",
+    "subcategories": [
+      "matte",
+      "nars",
+      "bronzer",
+      "contouring",
+      "face"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Hollywood Highlighter",
+    "slug": "charlotte-tilbury-hollywood-highlighter",
+    "subcategories": [
+      "highlighter",
+      "charlotte-tilbury",
+      "luminous",
+      "pressed"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Diamond Bomb Highlighter",
+    "slug": "fenty-beauty-diamond-bomb-highlighter",
+    "subcategories": [
+      "highlighter",
+      "fenty-beauty",
+      "cream",
+      "intense"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked2 Eyeshadow Palette",
+    "slug": "urban-decay-naked2-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "palette",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Natural Eyes Eyeshadow Palette",
+    "slug": "too-faced-natural-eyes-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "too-faced",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Mercury Retrograde Eyeshadow Palette",
+    "slug": "huda-beauty-mercury-retrograde-eyeshadow-palette",
+    "subcategories": [
+      "eyeshadow",
+      "palette",
+      "colorful",
+      "huda-beauty",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "Jaclyn Hill Eyeshadow Palette",
+    "slug": "morphe-jaclyn-hill-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Fluidline Eye Liner Gel",
+    "slug": "mac-fluidline-eye-liner-gel",
+    "subcategories": [
+      "long-lasting",
+      "eyeliner",
+      "gel",
+      "mac",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Stila",
+    "name": "Glitter Glow Liquid Eyeshadow",
+    "slug": "stila-glitter-glow-liquid-eyeshadow",
+    "subcategories": [
+      "glitter",
+      "eyes",
+      "liquid",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "They're Real Mascara",
+    "slug": "benefit-theyre-real-mascara",
+    "subcategories": [
+      "eyes",
+      "mascara",
+      "lengthening",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "Lancome",
+    "name": "Definicils High Definition Mascara",
+    "slug": "lancome-definicils-high-definition-mascara",
+    "subcategories": [
+      "lengthening",
+      "eyes",
+      "mascara",
+      "defining"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Great Lash Mascara",
+    "slug": "maybelline-great-lash-mascara",
+    "subcategories": [
+      "drugstore",
+      "classic",
+      "mascara",
+      "maybelline",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Perfect Brow Pencil",
+    "slug": "anastasia-beverly-hills-perfect-brow-pencil",
+    "subcategories": [
+      "eyebrow",
+      "brows",
+      "precise",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Precisely My Brow Pencil",
+    "slug": "benefit-precisely-my-brow-pencil",
+    "subcategories": [
+      "ultra-fine",
+      "eyebrow",
+      "brows",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Velvet Teddy Lipstick",
+    "slug": "mac-velvet-teddy-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "mac",
+      "nude",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Very Victoria Lipstick",
+    "slug": "charlotte-tilbury-very-victoria-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "charlotte-tilbury",
+      "berry",
+      "lips"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Dragon Girl Lipstick",
+    "slug": "nars-dragon-girl-lipstick",
+    "subcategories": [
+      "red",
+      "lipstick",
+      "nars",
+      "satin",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Mattemoiselle Plush Matte Lipstick",
+    "slug": "fenty-beauty-mattemoiselle-plush-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "fenty-beauty",
+      "comfortable",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Soft Matte Lip Cream",
+    "slug": "rare-beauty-soft-matte-lip-cream",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "liquid",
+      "lips",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Generation G Lipstick",
+    "slug": "glossier-generation-g-lipstick",
+    "subcategories": [
+      "buildable",
+      "lipstick",
+      "lips",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Lip Glass",
+    "slug": "mac-lip-glass",
+    "subcategories": [
+      "high-shine",
+      "classic",
+      "lips",
+      "lip-gloss",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Pillow Talk Lip Gloss",
+    "slug": "charlotte-tilbury-pillow-talk-lip-gloss",
+    "subcategories": [
+      "volumizing",
+      "charlotte-tilbury",
+      "lip-gloss",
+      "nude",
+      "lips"
+    ]
+  },
+  {
+    "brand": "3INA",
+    "name": "The Lip Gloss",
+    "slug": "3ina-the-lip-gloss",
+    "subcategories": [
+      "lip-gloss",
+      "affordable",
+      "lips",
+      "high-shine"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Spice Lip Pencil",
+    "slug": "mac-spice-lip-pencil",
+    "subcategories": [
+      "brown",
+      "mac",
+      "classic",
+      "lip-liner",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Lip Cheat Lip Liner",
+    "slug": "charlotte-tilbury-lip-cheat-lip-liner",
+    "subcategories": [
+      "charlotte-tilbury",
+      "lip-liner",
+      "precise",
+      "nude",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "24/7 Lip Liner",
+    "slug": "urban-decay-24-7-lip-liner",
+    "subcategories": [
+      "creamy",
+      "long-lasting",
+      "lip-liner",
+      "lips",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Fixing Tint",
+    "slug": "etude-house-fixing-tint",
+    "subcategories": [
+      "lip-tint",
+      "long-lasting",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink Velvet Lip Tint",
+    "slug": "peripera-ink-velvet-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "lips",
+      "matte",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "3CE",
+    "name": "Velvet Lip Tint",
+    "slug": "3ce-velvet-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "lips",
+      "matte",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "MISSHA",
+    "name": "Magic Cushion Foundation",
+    "slug": "missha-magic-cushion-foundation",
+    "subcategories": [
+      "foundation",
+      "k-beauty",
+      "cushion",
+      "face"
+    ]
+  },
+  {
+    "brand": "CoverGirl",
+    "name": "Clean Matte BB Cream",
+    "slug": "covergirl-clean-matte-bb-cream",
+    "subcategories": [
+      "light-coverage",
+      "drugstore",
+      "bb-cream"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Infallible Pro Matte Foundation",
+    "slug": "loreal-infallible-pro-matte-foundation",
+    "subcategories": [
+      "matte",
+      "full-coverage",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Revlon",
+    "name": "PhotoReady Candid Foundation",
+    "slug": "revlon-photoready-candid-foundation",
+    "subcategories": [
+      "foundation",
+      "medium-coverage",
+      "face",
+      "anti-pollution"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Can't Stop Won't Stop Foundation",
+    "slug": "nyx-professional-makeup-cant-stop-wont-stop-foundation",
+    "subcategories": [
+      "full-coverage",
+      "foundation",
+      "long-lasting",
+      "face"
+    ]
+  },
+  {
+    "brand": "e.l.f.",
+    "name": "Flawless Finish Foundation",
+    "slug": "elf-flawless-finish-foundation",
+    "subcategories": [
+      "drugstore",
+      "medium-coverage",
+      "face",
+      "elf",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Milani",
+    "name": "Conceal + Perfect Foundation",
+    "slug": "milani-conceal-perfect-foundation",
+    "subcategories": [
+      "full-coverage",
+      "foundation",
+      "face",
+      "drugstore"
+    ]
+  },
+  {
+    "brand": "Wet n Wild",
+    "name": "Photo Focus Foundation",
+    "slug": "wet-n-wild-photo-focus-foundation",
+    "subcategories": [
+      "full-coverage",
+      "foundation",
+      "face",
+      "drugstore"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Pretty Fresh Tinted Moisturizer",
+    "slug": "colourpop-pretty-fresh-tinted-moisturizer",
+    "subcategories": [
+      "tinted-moisturizer",
+      "light-coverage",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Serum Foundation",
+    "slug": "the-ordinary-serum-foundation",
+    "subcategories": [
+      "light-coverage",
+      "foundation",
+      "skincare-hybrid",
+      "face"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Perfecting Skin Tint",
+    "slug": "glossier-perfecting-skin-tint",
+    "subcategories": [
+      "tinted-moisturizer",
+      "dewy",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Face and Body Foundation",
+    "slug": "mac-face-and-body-foundation",
+    "subcategories": [
+      "water-based",
+      "light-coverage",
+      "mac",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Forever Foundation",
+    "slug": "dior-forever-foundation",
+    "subcategories": [
+      "long-lasting",
+      "full-coverage",
+      "dior-beauty",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Studio Fix Fluid SPF 15 Foundation",
+    "slug": "mac-studio-fix-fluid-foundation",
+    "subcategories": [
+      "long-wearing",
+      "mac",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Airbrush Flawless Finish Powder",
+    "slug": "charlotte-tilbury-airbrush-flawless-finish-powder",
+    "subcategories": [
+      "matte",
+      "setting-powder",
+      "powder",
+      "charlotte-tilbury"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Pro Filt'r Soft Matte Longwear Foundation",
+    "slug": "fenty-beauty-pro-filtr-soft-matte-foundation",
+    "subcategories": [
+      "matte",
+      "long-wearing",
+      "fenty-beauty",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Ruby Woo Lipstick",
+    "slug": "mac-ruby-woo-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "red",
+      "lips",
+      "mac"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Orgasm Blush",
+    "slug": "nars-orgasm-blush",
+    "subcategories": [
+      "nars",
+      "shimmer",
+      "peachy-pink",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "All Nighter Setting Spray",
+    "slug": "urban-decay-all-nighter-setting-spray",
+    "subcategories": [
+      "long-wearing",
+      "makeup-setting",
+      "urban-decay",
+      "setting-spray"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Gloss Bomb Universal Lip Luminizer",
+    "slug": "fenty-beauty-gloss-bomb-lip-luminizer",
+    "subcategories": [
+      "plumping",
+      "fenty-beauty",
+      "lip-gloss",
+      "universal",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Positive Light Liquid Luminizer Highlight",
+    "slug": "rare-beauty-positive-light-liquid-luminizer",
+    "subcategories": [
+      "highlighter",
+      "buildable",
+      "liquid",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Fix Plus Setting Spray",
+    "slug": "mac-fix-plus-setting-spray",
+    "subcategories": [
+      "mac",
+      "makeup-setting",
+      "setting-spray",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Modern Renaissance Eyeshadow Palette",
+    "slug": "anastasia-beverly-hills-modern-renaissance-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "palette",
+      "berry",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Laguna Bronzer",
+    "slug": "nars-laguna-bronzer",
+    "subcategories": [
+      "matte",
+      "nars",
+      "bronzer",
+      "contouring",
+      "face"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Perversion Mascara",
+    "slug": "urban-decay-perversion-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "black",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Sun Stalk'r Instant Warmth Bronzer",
+    "slug": "fenty-beauty-sun-stalkr-bronzer",
+    "subcategories": [
+      "matte",
+      "bronzer",
+      "fenty-beauty",
+      "contouring",
+      "face"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Chocolate Soleil Matte Bronzer",
+    "slug": "too-faced-chocolate-soleil-bronzer",
+    "subcategories": [
+      "matte",
+      "bronzer",
+      "chocolate-scented",
+      "too-faced",
+      "face"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Strobe Cream",
+    "slug": "mac-strobe-cream",
+    "subcategories": [
+      "primer",
+      "dewy",
+      "highlighter",
+      "mac",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Brow Harmony Pencil and Gel",
+    "slug": "rare-beauty-brow-harmony-pencil-gel",
+    "subcategories": [
+      "eyebrow",
+      "duo",
+      "brows",
+      "gel",
+      "pencil",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Blush in Dolce Vita",
+    "slug": "nars-dolce-vita-blush",
+    "subcategories": [
+      "matte",
+      "nars",
+      "dusty-rose",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Faux Filter Foundation",
+    "slug": "huda-beauty-faux-filter-foundation",
+    "subcategories": [
+      "matte",
+      "full-coverage",
+      "face",
+      "huda-beauty",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Charlotte's Magic Cream",
+    "slug": "charlotte-tilbury-magic-cream",
+    "subcategories": [
+      "primer",
+      "charlotte-tilbury",
+      "moisturizer",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Naked Smoky Eyeshadow Palette",
+    "slug": "urban-decay-naked-smoky-palette",
+    "subcategories": [
+      "smoky",
+      "neutral",
+      "eyeshadow",
+      "palette",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Beauty Blender Precision Makeup Sponge",
+    "slug": "fenty-beauty-precision-makeup-sponge",
+    "subcategories": [
+      "makeup-tools",
+      "sponge",
+      "fenty-beauty",
+      "blending"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Shadow Insurance Eyeshadow Primer",
+    "slug": "too-faced-shadow-insurance-primer",
+    "subcategories": [
+      "primer",
+      "long-wearing",
+      "eyeshadow",
+      "too-faced",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "3CE",
+    "name": "Cloud Lip Tint",
+    "slug": "3ce-cloud-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "buildable",
+      "lips",
+      "lightweight"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Drawing Eye Brow Pencil",
+    "slug": "etude-house-drawing-eyebrow-pencil",
+    "subcategories": [
+      "natural",
+      "eyebrow",
+      "brows",
+      "pencil",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink Airy Velvet Lip Tint",
+    "slug": "peripera-ink-airy-velvet-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "long-wearing",
+      "lips",
+      "velvet"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Dazzleshadow Liquid Eyeshadow",
+    "slug": "mac-dazzleshadow-liquid",
+    "subcategories": [
+      "metallic",
+      "eyeshadow",
+      "liquid",
+      "mac",
+      "eyes",
+      "glitter"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Pure Radiant Tinted Moisturizer",
+    "slug": "nars-pure-radiant-tinted-moisturizer",
+    "subcategories": [
+      "nars",
+      "tinted-moisturizer",
+      "light-coverage",
+      "hydrating",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Instant Look in a Palette",
+    "slug": "charlotte-tilbury-instant-look-palette",
+    "subcategories": [
+      "eyeshadow",
+      "charlotte-tilbury",
+      "palette",
+      "blush",
+      "face",
+      "multi-use"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Moondust Eyeshadow Palette",
+    "slug": "urban-decay-moondust-eyeshadow-palette",
+    "subcategories": [
+      "metallic",
+      "eyeshadow",
+      "palette",
+      "eyes",
+      "urban-decay",
+      "glitter"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Invisimatte Blotting Powder",
+    "slug": "fenty-beauty-invisimatte-blotting-powder",
+    "subcategories": [
+      "powder",
+      "fenty-beauty",
+      "translucent",
+      "setting-powder",
+      "oil-control"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Killer Liner 36 Hour Eyeliner",
+    "slug": "too-faced-killer-liner-36-hour",
+    "subcategories": [
+      "long-wearing",
+      "waterproof",
+      "eyeliner",
+      "too-faced",
+      "liquid",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Warm Wishes Effortless Bronzer Sticks",
+    "slug": "rare-beauty-warm-wishes-bronzer-sticks",
+    "subcategories": [
+      "bronzer",
+      "buildable",
+      "face",
+      "stick",
+      "cream",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Eye Kohl Liner",
+    "slug": "mac-eye-kohl-liner",
+    "subcategories": [
+      "smudgeable",
+      "eyeliner",
+      "pencil",
+      "mac",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Liquid Matte Lipstick",
+    "slug": "huda-beauty-liquid-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "long-wearing",
+      "lipstick",
+      "liquid",
+      "huda-beauty",
+      "lips"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Dual-Intensity Eyeshadow",
+    "slug": "nars-dual-intensity-eyeshadow",
+    "subcategories": [
+      "nars",
+      "metallic",
+      "eyeshadow",
+      "wet-dry",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Wonderglow Face Primer",
+    "slug": "charlotte-tilbury-wonderglow-primer",
+    "subcategories": [
+      "primer",
+      "charlotte-tilbury",
+      "illuminating",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Optical Illusion Complexion Primer",
+    "slug": "urban-decay-optical-illusion-primer",
+    "subcategories": [
+      "primer",
+      "urban-decay",
+      "blurring",
+      "pore-minimizing"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Fairy Bomb Shimmer Powder",
+    "slug": "fenty-beauty-fairy-bomb-shimmer-powder",
+    "subcategories": [
+      "shimmer",
+      "fenty-beauty",
+      "body",
+      "face",
+      "highlighter"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Damn Girl! 36 Hour Mascara",
+    "slug": "too-faced-damn-girl-36-hour-mascara",
+    "subcategories": [
+      "long-wearing",
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "too-faced",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Enlighten Liquid Concealer",
+    "slug": "rare-beauty-enlighten-liquid-concealer",
+    "subcategories": [
+      "medium-coverage",
+      "face",
+      "concealer",
+      "natural-finish",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Paint Pot Eye Shadow",
+    "slug": "mac-paint-pot-eyeshadow",
+    "subcategories": [
+      "primer",
+      "long-wearing",
+      "eyeshadow",
+      "mac",
+      "eyes",
+      "cream"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Multiple Stick",
+    "slug": "nars-multiple-stick",
+    "subcategories": [
+      "lip",
+      "nars",
+      "blush",
+      "cream",
+      "multi-use"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Rock 'n' Kohl Eyeliner",
+    "slug": "charlotte-tilbury-rock-n-kohl-eyeliner",
+    "subcategories": [
+      "long-wearing",
+      "smudgeable",
+      "eyeliner",
+      "charlotte-tilbury",
+      "pencil",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Airbrush Bronzer",
+    "slug": "charlotte-tilbury-airbrush-bronzer",
+    "subcategories": [
+      "bronzer",
+      "powder",
+      "charlotte-tilbury",
+      "contouring",
+      "face"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Born This Way Concealer",
+    "slug": "too-faced-born-this-way-concealer",
+    "subcategories": [
+      "hydrating",
+      "too-faced",
+      "full-coverage",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Mineralize Skinfinish",
+    "slug": "mac-mineralize-skinfinish",
+    "subcategories": [
+      "highlighter",
+      "buildable",
+      "mac",
+      "powder"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "The Multiple Stick",
+    "slug": "nars-the-multiple-stick-copacabana",
+    "subcategories": [
+      "highlighter",
+      "multi-use",
+      "nars",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Eyes to Mesmerise Cream Eyeshadow",
+    "slug": "charlotte-tilbury-eyes-to-mesmerise-cream-eyeshadow",
+    "subcategories": [
+      "metallic",
+      "eyeshadow",
+      "charlotte-tilbury",
+      "eyes",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Perfect Strokes Matte Liquid Liner",
+    "slug": "rare-beauty-perfect-strokes-matte-liquid-liner",
+    "subcategories": [
+      "rare-beauty",
+      "liquid",
+      "precision",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Lash Freak Mascara",
+    "slug": "urban-decay-lash-freak-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "eyes",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Better Than Sex Waterproof Mascara",
+    "slug": "too-faced-better-than-sex-waterproof-mascara",
+    "subcategories": [
+      "waterproof",
+      "volumizing",
+      "mascara",
+      "too-faced",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Brow Set Clear Brow Gel",
+    "slug": "mac-brow-set-clear-brow-gel",
+    "subcategories": [
+      "eyebrow",
+      "clear",
+      "brows",
+      "gel",
+      "mac"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Precision Brow Pencil",
+    "slug": "nars-precision-brow-pencil",
+    "subcategories": [
+      "nars",
+      "eyebrow",
+      "precision",
+      "brows",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Poutsicle Juicy Satin Lipstick",
+    "slug": "fenty-beauty-poutsicle-juicy-satin-lipstick",
+    "subcategories": [
+      "lipstick",
+      "fenty-beauty",
+      "hydrating",
+      "satin",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Soft Matte Lip Balm",
+    "slug": "rare-beauty-soft-matte-lip-balm",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "comfortable",
+      "lips",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Cremesheen Glass Lipgloss",
+    "slug": "mac-cremesheen-glass-lipgloss",
+    "subcategories": [
+      "mac",
+      "lips",
+      "hydrating",
+      "lip-gloss",
+      "glossy"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Afterglow Lip Balm",
+    "slug": "nars-afterglow-lip-balm",
+    "subcategories": [
+      "nars",
+      "tinted",
+      "lip-gloss",
+      "lips",
+      "balm"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Trace'd Out Pencil Eyeliner",
+    "slug": "fenty-beauty-traced-out-pencil-eyeliner",
+    "subcategories": [
+      "smudgeable",
+      "eyeliner",
+      "fenty-beauty",
+      "pencil",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "3CE",
+    "name": "Mood Recipe Multi Eye Color Palette",
+    "slug": "3ce-mood-recipe-multi-eye-color-palette",
+    "subcategories": [
+      "eyes",
+      "palette",
+      "k-beauty",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Play Color Eyes Eyeshadow Palette",
+    "slug": "etude-house-play-color-eyes-eyeshadow-palette",
+    "subcategories": [
+      "eyes",
+      "palette",
+      "k-beauty",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "All Take Mood Technique Palette",
+    "slug": "peripera-all-take-mood-technique-palette",
+    "subcategories": [
+      "palette",
+      "k-beauty",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Revlon",
+    "name": "ColorStay Overtime Lipcolor",
+    "slug": "revlon-colorstay-overtime-lipcolor",
+    "subcategories": [
+      "lipstick",
+      "long-lasting",
+      "lips",
+      "drugstore"
+    ]
+  },
+  {
+    "brand": "NYX",
+    "name": "Butter Gloss Lip Gloss",
+    "slug": "nyx-butter-gloss-lip-gloss",
+    "subcategories": [
+      "nyx",
+      "creamy",
+      "drugstore",
+      "lip-gloss",
+      "lips"
+    ]
+  },
+  {
+    "brand": "e.l.f.",
+    "name": "16HR Camo Concealer",
+    "slug": "elf-16hr-camo-concealer",
+    "subcategories": [
+      "drugstore",
+      "full-coverage",
+      "face",
+      "elf",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Wet n Wild",
+    "name": "MegaGlo Highlighting Powder",
+    "slug": "wet-n-wild-megaglo-highlighting-powder",
+    "subcategories": [
+      "highlighter",
+      "drugstore",
+      "powder"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Coverage Foundation",
+    "slug": "the-ordinary-coverage-foundation",
+    "subcategories": [
+      "full-coverage",
+      "foundation",
+      "affordable",
+      "face"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Boy Brow Grooming Pomade",
+    "slug": "glossier-boy-brow-grooming-pomade",
+    "subcategories": [
+      "eyebrow",
+      "brows",
+      "gel",
+      "natural"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Power Bullet Matte Lipstick",
+    "slug": "huda-beauty-power-bullet-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-lasting",
+      "huda-beauty",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "Monsieur Big Mascara",
+    "slug": "lancome-monsieur-big-mascara",
+    "subcategories": [
+      "dramatic",
+      "eyes",
+      "mascara",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Diorshow Mascara",
+    "slug": "dior-diorshow-mascara",
+    "subcategories": [
+      "luxury",
+      "volumizing",
+      "mascara",
+      "dior-beauty",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Filmstar Bronze & Glow",
+    "slug": "charlotte-tilbury-filmstar-bronze-glow",
+    "subcategories": [
+      "highlighter",
+      "bronzer",
+      "charlotte-tilbury",
+      "duo"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "True Match Super Blendable Concealer",
+    "slug": "loreal-true-match-super-blendable-concealer",
+    "subcategories": [
+      "full-coverage",
+      "drugstore",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Urban Decay",
+    "name": "Stay Naked Weightless Liquid Foundation",
+    "slug": "urban-decay-stay-naked-weightless-foundation",
+    "subcategories": [
+      "mid-range",
+      "medium-coverage",
+      "face",
+      "foundation",
+      "natural-finish",
+      "urban-decay"
+    ]
+  },
+  {
+    "brand": "Revlon",
+    "name": "ColorStay Makeup Foundation",
+    "slug": "revlon-colorstay-makeup-foundation",
+    "subcategories": [
+      "long-wear",
+      "drugstore",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Coty Airspun",
+    "name": "Loose Face Powder",
+    "slug": "coty-airspun-loose-face-powder",
+    "subcategories": [
+      "setting-powder",
+      "drugstore",
+      "powder",
+      "vintage"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Cloud Paint Gel Blush",
+    "slug": "glossier-cloud-paint-gel-blush",
+    "subcategories": [
+      "buildable",
+      "gel",
+      "blush",
+      "face",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "Becca",
+    "name": "Shimmering Skin Perfector Pressed Highlighter",
+    "slug": "becca-shimmering-skin-perfector-highlighter",
+    "subcategories": [
+      "highlighter",
+      "mid-range",
+      "pressed",
+      "shimmer"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Hoola Matte Bronzer",
+    "slug": "benefit-hoola-matte-bronzer",
+    "subcategories": [
+      "matte",
+      "mid-range",
+      "bronzer",
+      "contour",
+      "face"
+    ]
+  },
+  {
+    "brand": "Jaclyn Hill Cosmetics",
+    "name": "Volume I Eyeshadow Palette",
+    "slug": "jaclyn-hill-volume-i-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "shimmer",
+      "eyeshadow",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "35O Nature Glow Eyeshadow Palette",
+    "slug": "morphe-35o-nature-glow-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "35-shades",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Yes Please Eyeshadow Palette",
+    "slug": "colourpop-yes-please-eyeshadow-palette",
+    "subcategories": [
+      "warm-tones",
+      "eyeshadow",
+      "affordable",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Stila",
+    "name": "Stay All Day Waterproof Liquid Eyeliner",
+    "slug": "stila-stay-all-day-waterproof-eyeliner",
+    "subcategories": [
+      "waterproof",
+      "eyeliner",
+      "precision",
+      "liquid",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "NYX",
+    "name": "Epic Ink Liner",
+    "slug": "nyx-epic-ink-liner",
+    "subcategories": [
+      "nyx",
+      "felt-tip",
+      "eyeliner",
+      "drugstore",
+      "liquid"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Voluminous Lash Paradise Mascara",
+    "slug": "loreal-voluminous-lash-paradise-mascara",
+    "subcategories": [
+      "volumizing",
+      "drugstore",
+      "mascara",
+      "lengthening",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "CoverGirl",
+    "name": "LashBlast Volume Mascara",
+    "slug": "covergirl-lashblast-volume-mascara",
+    "subcategories": [
+      "volumizing",
+      "drugstore",
+      "classic",
+      "mascara",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Essence",
+    "name": "Lash Princess False Lash Effect Mascara",
+    "slug": "essence-lash-princess-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "budget",
+      "eyes",
+      "false-lashes"
+    ]
+  },
+  {
+    "brand": "ABH",
+    "name": "Dipbrow Pomade",
+    "slug": "abh-dipbrow-pomade",
+    "subcategories": [
+      "pomade",
+      "waterproof",
+      "eyebrow",
+      "brows",
+      "full-coverage"
+    ]
+  },
+  {
+    "brand": "NYX",
+    "name": "Micro Brow Pencil",
+    "slug": "nyx-micro-brow-pencil",
+    "subcategories": [
+      "nyx",
+      "eyebrow",
+      "drugstore",
+      "precision",
+      "brows",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Retro Matte Lipstick",
+    "slug": "mac-retro-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-wear",
+      "lips",
+      "full-coverage",
+      "mac"
+    ]
+  },
+  {
+    "brand": "Pat McGrath Labs",
+    "name": "MatteTrance Lipstick",
+    "slug": "pat-mcgrath-mattetrance-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "full-coverage",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Tom Ford",
+    "name": "Lip Color Matte",
+    "slug": "tom-ford-lip-color-matte",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "high-end",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "SuperStay Matte Ink Liquid Lipstick",
+    "slug": "maybelline-superstay-matte-ink-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-wear",
+      "drugstore",
+      "maybelline",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Ultra Matte Liquid Lipstick",
+    "slug": "colourpop-ultra-matte-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "affordable",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Addict Lip Maximizer Plumping Gloss",
+    "slug": "dior-addict-lip-maximizer-gloss",
+    "subcategories": [
+      "plumping",
+      "hydrating",
+      "dior-beauty",
+      "lip-gloss",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Tower 28",
+    "name": "JuiceBalm Tinted Lip Balm",
+    "slug": "tower-28-juicebalm-tinted-lip-balm",
+    "subcategories": [
+      "natural",
+      "lip-balm",
+      "tinted",
+      "hydrating",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Lip Sleeping Mask",
+    "slug": "laneige-lip-sleeping-mask",
+    "subcategories": [
+      "overnight",
+      "mask",
+      "lips",
+      "lip-treatment",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Rom&nd",
+    "name": "Zero Velvet Tint",
+    "slug": "romand-zero-velvet-tint",
+    "subcategories": [
+      "lip-tint",
+      "matte",
+      "velvet",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Vivid Cotton Ink",
+    "slug": "innisfree-vivid-cotton-ink",
+    "subcategories": [
+      "lip-tint",
+      "long-wear",
+      "k-beauty",
+      "cotton"
+    ]
+  },
+  {
+    "brand": "The Saem",
+    "name": "Cover Perfection Tip Concealer",
+    "slug": "the-saem-cover-perfection-tip-concealer",
+    "subcategories": [
+      "full-coverage",
+      "affordable",
+      "face",
+      "concealer",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Clio",
+    "name": "Kill Cover Founwear Cushion",
+    "slug": "clio-kill-cover-founwear-cushion",
+    "subcategories": [
+      "buildable",
+      "foundation",
+      "k-beauty",
+      "cushion"
+    ]
+  },
+  {
+    "brand": "Heimish",
+    "name": "Artless Glow Base",
+    "slug": "heimish-artless-glow-base",
+    "subcategories": [
+      "primer",
+      "base",
+      "k-beauty",
+      "glowing"
+    ]
+  },
+  {
+    "brand": "Canmake",
+    "name": "Cream Cheek Blush",
+    "slug": "canmake-cream-cheek-blush",
+    "subcategories": [
+      "natural",
+      "j-beauty",
+      "blush",
+      "face",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Heroine Make",
+    "name": "Long and Curl Mascara",
+    "slug": "heroine-make-long-curl-mascara",
+    "subcategories": [
+      "mascara",
+      "lengthening",
+      "j-beauty",
+      "curling",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Dolce & Gabbana",
+    "name": "The Only One Lipstick",
+    "slug": "dolce-gabbana-the-only-one-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "pigmented",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Armani",
+    "name": "Rouge d'Armani Lipstick",
+    "slug": "armani-rouge-darmani-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "classic",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Gucci",
+    "name": "Rouge à Lèvres Voile Lipstick",
+    "slug": "gucci-rouge-a-levres-voile-lipstick",
+    "subcategories": [
+      "lipstick",
+      "vintage",
+      "lips",
+      "luxury",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "YSL",
+    "name": "Rouge Pur Couture Lipstick",
+    "slug": "ysl-rouge-pur-couture-lipstick",
+    "subcategories": [
+      "lipstick",
+      "creamy",
+      "full-coverage",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Chanel",
+    "name": "Rouge Coco Flash Lipstick",
+    "slug": "chanel-rouge-coco-flash-lipstick",
+    "subcategories": [
+      "lipstick",
+      "hydrating",
+      "chanel-beauty",
+      "lips",
+      "luxury",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "Hourglass",
+    "name": "Ambient Lighting Palette",
+    "slug": "hourglass-ambient-lighting-palette",
+    "subcategories": [
+      "highlighter",
+      "palette",
+      "finishing-powder",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Make Up For Ever",
+    "name": "Ultra HD Invisible Cover Foundation",
+    "slug": "make-up-for-ever-ultra-hd-foundation",
+    "subcategories": [
+      "natural",
+      "professional",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Long-Wear Cream Shadow Stick",
+    "slug": "bobbi-brown-long-wear-cream-shadow-stick",
+    "subcategories": [
+      "long-wear",
+      "bobbi-brown",
+      "eyeshadow",
+      "brows",
+      "stick",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Cheek Pop Blush",
+    "slug": "clinique-cheek-pop-blush",
+    "subcategories": [
+      "natural",
+      "pressed",
+      "buildable",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Estee Lauder",
+    "name": "Double Wear Stay-in-Place Foundation",
+    "slug": "estee-lauder-double-wear-foundation",
+    "subcategories": [
+      "long-wear",
+      "full-coverage",
+      "face",
+      "foundation",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Smashbox",
+    "name": "Always On Liquid Lipstick",
+    "slug": "smashbox-always-on-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "long-wear",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Bite Beauty",
+    "name": "Agave+ Nighttime Lip Therapy",
+    "slug": "bite-beauty-agave-nighttime-lip-therapy",
+    "subcategories": [
+      "natural",
+      "overnight",
+      "lip-treatment",
+      "lips",
+      "balm"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "D-Bronzi Anti-Pollution Sunshine Drops",
+    "slug": "drunk-elephant-d-bronzi-sunshine-drops",
+    "subcategories": [
+      "bronzer",
+      "liquid",
+      "natural",
+      "skincare-makeup"
+    ]
+  },
+  {
+    "brand": "3CE",
+    "name": "Take a Layer Multi Pot",
+    "slug": "3ce-take-a-layer-multi-pot",
+    "subcategories": [
+      "blush",
+      "multi-use",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Soodam Moist Lipstick",
+    "slug": "etude-house-soodam-moist-lipstick",
+    "subcategories": [
+      "buildable",
+      "lipstick",
+      "lips",
+      "moisturizing"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink Mood Matte Tint",
+    "slug": "peripera-ink-mood-matte-tint",
+    "subcategories": [
+      "lip-tint",
+      "matte",
+      "long-wear"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Can't Stop Won't Stop Foundation",
+    "slug": "nyx-cant-stop-wont-stop-foundation",
+    "subcategories": [
+      "long-wear",
+      "full-coverage",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Instant Age Rewind Concealer",
+    "slug": "maybelline-instant-age-rewind-concealer",
+    "subcategories": [
+      "maybelline",
+      "anti-aging",
+      "face",
+      "concealer",
+      "under-eye"
+    ]
+  },
+  {
+    "brand": "CoverGirl",
+    "name": "TruBlend Matte Made Foundation",
+    "slug": "covergirl-trublend-matte-made-foundation",
+    "subcategories": [
+      "matte",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "e.l.f.",
+    "name": "Mad for Matte Eyeshadow Palette",
+    "slug": "elf-mad-for-matte-eyeshadow-palette",
+    "subcategories": [
+      "matte",
+      "eyeshadow",
+      "palette",
+      "elf",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Wet n Wild",
+    "name": "Color Icon Eyeshadow Palette",
+    "slug": "wet-n-wild-color-icon-eyeshadow-palette",
+    "subcategories": [
+      "affordable",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Stunna Lip Paint",
+    "slug": "fenty-beauty-stunna-lip-paint",
+    "subcategories": [
+      "matte",
+      "long-wear",
+      "lips",
+      "fenty-beauty",
+      "liquid-lipstick"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "False Lashes Extreme Black Mascara",
+    "slug": "mac-false-lashes-extreme-black-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "lengthening",
+      "mac",
+      "eyes",
+      "false-lashes"
+    ]
+  },
+  {
+    "brand": "Huda Beauty",
+    "name": "Legit Lashes Mascara",
+    "slug": "huda-beauty-legit-lashes-mascara",
+    "subcategories": [
+      "volumizing",
+      "mascara",
+      "huda-beauty",
+      "dramatic",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Romand",
+    "name": "Better Than Cheek Blush",
+    "slug": "romand-better-than-cheek-blush",
+    "subcategories": [
+      "natural-finish",
+      "powder",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "CLIO",
+    "name": "Prism Air Eye Palette",
+    "slug": "clio-prism-air-eye-palette",
+    "subcategories": [
+      "glitter",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Heimish",
+    "name": "Dailism Smudge Stop Mascara",
+    "slug": "heimish-dailism-smudge-stop-mascara",
+    "subcategories": [
+      "natural",
+      "eyes",
+      "mascara",
+      "smudge-proof"
+    ]
+  },
+  {
+    "brand": "CANMAKE",
+    "name": "Glow Fleur Cheeks",
+    "slug": "canmake-glow-fleur-cheeks",
+    "subcategories": [
+      "highlighting",
+      "blush",
+      "gradient"
+    ]
+  },
+  {
+    "brand": "The Saem",
+    "name": "Saemmul Single Blusher",
+    "slug": "the-saem-saemmul-single-blusher",
+    "subcategories": [
+      "buildable",
+      "powder",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "My Palette My Eyeshadow",
+    "slug": "innisfree-my-palette-my-eyeshadow",
+    "subcategories": [
+      "eyes",
+      "customizable",
+      "single",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Colour Riche Lipstick",
+    "slug": "loreal-colour-riche-lipstick",
+    "subcategories": [
+      "lipstick",
+      "lips",
+      "moisturizing",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "Revlon",
+    "name": "Super Lustrous Lipstick",
+    "slug": "revlon-super-lustrous-lipstick",
+    "subcategories": [
+      "lipstick",
+      "classic",
+      "lips",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "CoverGirl",
+    "name": "Outlast All-Day Lip Color",
+    "slug": "covergirl-outlast-all-day-lip-color",
+    "subcategories": [
+      "long-wear",
+      "liquid-lipstick",
+      "lips",
+      "transfer-proof"
+    ]
+  },
+  {
+    "brand": "Milani",
+    "name": "Statement Matte Lipstick",
+    "slug": "milani-statement-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "lips",
+      "bold"
+    ]
+  },
+  {
+    "brand": "e.l.f.",
+    "name": "Pure Skin Super Concealer",
+    "slug": "elf-pure-skin-super-concealer",
+    "subcategories": [
+      "full-coverage",
+      "face",
+      "elf",
+      "concealer",
+      "skincare-infused"
+    ]
+  },
+  {
+    "brand": "Wet n Wild",
+    "name": "PhotoFocus Foundation",
+    "slug": "wet-n-wild-photofocus-foundation",
+    "subcategories": [
+      "natural-finish",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Highlighting Powder",
+    "slug": "nars-highlighting-powder",
+    "subcategories": [
+      "highlighter",
+      "luminous",
+      "powder",
+      "nars"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Luxury Palette Eyeshadow",
+    "slug": "charlotte-tilbury-luxury-palette-eyeshadow",
+    "subcategories": [
+      "luxury",
+      "eyeshadow",
+      "charlotte-tilbury",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Chocolate Bar Eye Shadow Palette",
+    "slug": "too-faced-chocolate-bar-eye-shadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "too-faced",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Perfect Strokes Gel Eyeliner",
+    "slug": "rare-beauty-perfect-strokes-gel-eyeliner",
+    "subcategories": [
+      "waterproof",
+      "eyeliner",
+      "gel",
+      "eyes",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Lipglass Lip Gloss",
+    "slug": "mac-lipglass-lip-gloss",
+    "subcategories": [
+      "shiny",
+      "mac",
+      "lip-gloss",
+      "non-sticky",
+      "lips"
+    ]
+  },
+  {
+    "brand": "3CE",
+    "name": "Plumping Lips",
+    "slug": "3ce-plumping-lips",
+    "subcategories": [
+      "glossy",
+      "lips",
+      "lip-gloss",
+      "plumping"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Telescopic Mascara",
+    "slug": "loreal-telescopic-mascara",
+    "subcategories": [
+      "makeup",
+      "drugstore",
+      "mascara",
+      "lengthening-mascara",
+      "precision-brush",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Brow Wiz Eyebrow Pencil",
+    "slug": "benefit-brow-wiz-eyebrow-pencil",
+    "subcategories": [
+      "makeup",
+      "brow-pencil",
+      "eyebrow",
+      "ultra-fine",
+      "brows",
+      "precise",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "James Charles Artistry Palette",
+    "slug": "morphe-james-charles-artistry-palette",
+    "subcategories": [
+      "makeup",
+      "eyeshadow-palette",
+      "eyeshadow",
+      "rainbow",
+      "colorful"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Super Shock Highlighter",
+    "slug": "colourpop-super-shock-highlighter",
+    "subcategories": [
+      "makeup",
+      "metallic",
+      "affordable",
+      "highlighter",
+      "cream-highlighter"
+    ]
+  },
+  {
+    "brand": "NYX",
+    "name": "Professional Jumbo Eye Pencil",
+    "slug": "nyx-professional-jumbo-eye-pencil",
+    "subcategories": [
+      "eye-pencil",
+      "makeup",
+      "creamy",
+      "nyx",
+      "eyeliner",
+      "drugstore",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "ELF",
+    "name": "Camo CC Cream",
+    "slug": "elf-camo-cc-cream",
+    "subcategories": [
+      "makeup",
+      "light-coverage",
+      "budget-friendly",
+      "cc-cream",
+      "elf",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Wet n Wild",
+    "name": "Color Icon Bronzer",
+    "slug": "wet-n-wild-color-icon-bronzer",
+    "subcategories": [
+      "matte",
+      "makeup",
+      "powder-bronzer",
+      "bronzer",
+      "drugstore",
+      "face"
+    ]
+  },
+  {
+    "brand": "Essence",
+    "name": "Pure Nude Highlighter",
+    "slug": "essence-pure-nude-highlighter",
+    "subcategories": [
+      "makeup",
+      "natural",
+      "powder-highlighter",
+      "budget-friendly",
+      "highlighter"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Double Lasting Foundation",
+    "slug": "etude-house-double-lasting-foundation",
+    "subcategories": [
+      "makeup",
+      "long-wearing",
+      "liquid-foundation",
+      "face",
+      "foundation",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "CLIO",
+    "name": "Kill Lash Superproof Mascara",
+    "slug": "clio-kill-lash-superproof-mascara",
+    "subcategories": [
+      "makeup",
+      "volumizing",
+      "mascara",
+      "eyes",
+      "waterproof-mascara",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Heimish",
+    "name": "Fixer Matte Cover Cushion",
+    "slug": "heimish-fixer-matte-cover-cushion",
+    "subcategories": [
+      "makeup",
+      "foundation",
+      "cushion-foundation",
+      "k-beauty",
+      "matte-finish"
+    ]
+  },
+  {
+    "brand": "Canmake",
+    "name": "Powder Cheeks Blush",
+    "slug": "canmake-powder-cheeks-blush",
+    "subcategories": [
+      "makeup",
+      "j-beauty",
+      "blush",
+      "face",
+      "powder-blush",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "The Saem",
+    "name": "Colorbeam Blusher",
+    "slug": "the-saem-colorbeam-blusher",
+    "subcategories": [
+      "makeup",
+      "blush",
+      "face",
+      "pigmented",
+      "powder-blush",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "No Sebum Mineral Powder",
+    "slug": "innisfree-no-sebum-mineral-powder",
+    "subcategories": [
+      "makeup",
+      "powder",
+      "setting-powder",
+      "oil-control",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Rom&nd",
+    "name": "Better Than Palette",
+    "slug": "romand-better-than-palette",
+    "subcategories": [
+      "makeup",
+      "neutral",
+      "eyeshadow-palette",
+      "eyeshadow",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Lancome",
+    "name": "Teint Idole Ultra Wear Foundation",
+    "slug": "lancome-teint-idole-ultra-wear-foundation",
+    "subcategories": [
+      "makeup",
+      "long-wearing",
+      "liquid-foundation",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Rouge Dior Lipstick",
+    "slug": "dior-rouge-dior-lipstick",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "hydrating",
+      "dior-beauty",
+      "lips",
+      "luxury",
+      "satin-lipstick"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "G Suit Lip Crayon",
+    "slug": "glossier-g-suit-lip-crayon",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "natural",
+      "lip-crayon",
+      "lips",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Cream Blush",
+    "slug": "fenty-beauty-cream-blush",
+    "subcategories": [
+      "makeup",
+      "cream-blush",
+      "fenty-beauty",
+      "buildable",
+      "blush",
+      "face",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Master Chrome Metallic Highlighter",
+    "slug": "maybelline-master-chrome-metallic-highlighter",
+    "subcategories": [
+      "makeup",
+      "drugstore",
+      "metallic",
+      "maybelline",
+      "powder-highlighter",
+      "highlighter"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Infallible 24HR Fresh Wear Foundation",
+    "slug": "loreal-infallible-24hr-fresh-wear-foundation",
+    "subcategories": [
+      "makeup",
+      "long-wearing",
+      "liquid-foundation",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "BADgal BANG! Mascara",
+    "slug": "benefit-badgal-bang-mascara",
+    "subcategories": [
+      "makeup",
+      "mascara",
+      "eyes",
+      "space-technology",
+      "dramatic",
+      "volumizing-mascara"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Amazonian Clay Blush",
+    "slug": "tarte-amazonian-clay-blush",
+    "subcategories": [
+      "makeup",
+      "long-wearing",
+      "natural",
+      "tarte",
+      "blush",
+      "face",
+      "powder-blush"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "9A Always Golden Artistry Palette",
+    "slug": "morphe-9a-always-golden-artistry-palette",
+    "subcategories": [
+      "makeup",
+      "warm-tones",
+      "eyeshadow-palette",
+      "eyeshadow",
+      "golden"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Pro Filt'r Instant Retouch Concealer",
+    "slug": "fenty-beauty-pro-filtr-instant-retouch-concealer",
+    "subcategories": [
+      "long-wear",
+      "fenty-beauty",
+      "full-coverage",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Shape Tape Concealer",
+    "slug": "tarte-shape-tape-concealer",
+    "subcategories": [
+      "long-wear",
+      "tarte",
+      "full-coverage",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Boy Brow Eyebrow Gel",
+    "slug": "glossier-boy-brow-eyebrow-gel",
+    "subcategories": [
+      "eyebrow",
+      "brows",
+      "gel",
+      "eyes",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Lash Paradise Waterproof Mascara",
+    "slug": "loreal-lash-paradise-waterproof-mascara",
+    "subcategories": [
+      "waterproof",
+      "eyes",
+      "mascara",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "CoverGirl",
+    "name": "Clean Invisible Concealer",
+    "slug": "covergirl-clean-invisible-concealer",
+    "subcategories": [
+      "natural-finish",
+      "face",
+      "concealer",
+      "lightweight"
+    ]
+  },
+  {
+    "brand": "Essence",
+    "name": "The Blush Powder Blush",
+    "slug": "essence-the-blush-powder-blush",
+    "subcategories": [
+      "buildable",
+      "powder",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Lux Lipstick",
+    "slug": "colourpop-lux-lipstick",
+    "subcategories": [
+      "lipstick",
+      "lips",
+      "pigmented",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "2-Second Boss Babe Concealer",
+    "slug": "morphe-2-second-boss-babe-concealer",
+    "subcategories": [
+      "full-coverage",
+      "quick-application",
+      "concealer",
+      "face"
+    ]
+  },
+  {
+    "brand": "Juvia's Place",
+    "name": "The Warrior Eyeshadow Palette",
+    "slug": "juvias-place-the-warrior-eyeshadow-palette",
+    "subcategories": [
+      "vibrant",
+      "palette",
+      "eyes",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Black Opal",
+    "name": "True Color Illuminating Liquid Foundation",
+    "slug": "black-opal-true-color-illuminating-liquid-foundation",
+    "subcategories": [
+      "illuminating",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "Iman",
+    "name": "Second to None Stick Foundation",
+    "slug": "iman-second-to-none-stick-foundation",
+    "subcategories": [
+      "stick",
+      "full-coverage",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Drawing Eye Brow Pencil",
+    "slug": "etude-house-drawing-eye-brow-pencil",
+    "subcategories": [
+      "eyebrow",
+      "brows",
+      "precise",
+      "pencil",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink the Airy Velvet Lip Tint",
+    "slug": "peripera-ink-the-airy-velvet-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "lips",
+      "velvet",
+      "lightweight"
+    ]
+  },
+  {
+    "brand": "CLIO",
+    "name": "Mad Matte Lips Lipstick",
+    "slug": "clio-mad-matte-lips-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "intense-color",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Rom&nd",
+    "name": "Glasting Water Gloss",
+    "slug": "romand-glasting-water-gloss",
+    "subcategories": [
+      "glossy",
+      "lip-gloss",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Skinny Microcara Mascara",
+    "slug": "innisfree-skinny-microcara-mascara",
+    "subcategories": [
+      "natural",
+      "eyes",
+      "mascara",
+      "lengthening"
+    ]
+  },
+  {
+    "brand": "Heimish",
+    "name": "Eye Palette Brick Brown",
+    "slug": "heimish-eye-palette-brick-brown",
+    "subcategories": [
+      "neutral",
+      "eyeshadow",
+      "brows",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Canmake",
+    "name": "Mermaid Skin Gel UV SPF 50+",
+    "slug": "canmake-mermaid-skin-gel-uv-spf-50",
+    "subcategories": [
+      "primer",
+      "sunscreen",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "The Saem",
+    "name": "Eco Soul Luxe Lipstick",
+    "slug": "the-saem-eco-soul-luxe-lipstick",
+    "subcategories": [
+      "lips",
+      "lipstick",
+      "nourishing",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Diorskin Forever Foundation",
+    "slug": "dior-diorskin-forever-foundation",
+    "subcategories": [
+      "long-wear",
+      "full-coverage",
+      "dior-beauty",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Chanel",
+    "name": "Ultra Le Teint Foundation",
+    "slug": "chanel-ultra-le-teint-foundation",
+    "subcategories": [
+      "chanel-beauty",
+      "medium-coverage",
+      "face",
+      "foundation",
+      "natural-finish"
+    ]
+  },
+  {
+    "brand": "YSL",
+    "name": "All Hours Foundation",
+    "slug": "ysl-all-hours-foundation",
+    "subcategories": [
+      "24-hour",
+      "full-coverage",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Tom Ford",
+    "name": "Traceless Foundation Stick",
+    "slug": "tom-ford-traceless-foundation-stick",
+    "subcategories": [
+      "stick",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Power Fabric Foundation",
+    "slug": "giorgio-armani-power-fabric-foundation",
+    "subcategories": [
+      "weightless",
+      "full-coverage",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Gucci",
+    "name": "Bronzing Powder",
+    "slug": "gucci-bronzing-powder",
+    "subcategories": [
+      "bronzer",
+      "powder",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Pat McGrath Labs",
+    "name": "Skin Fetish: Sublime Perfection Concealer",
+    "slug": "pat-mcgrath-skin-fetish-sublime-perfection-concealer",
+    "subcategories": [
+      "full-coverage",
+      "luxury",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Hourglass",
+    "name": "Vanish Airbrush Concealer",
+    "slug": "hourglass-vanish-airbrush-concealer",
+    "subcategories": [
+      "weightless",
+      "full-coverage",
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Make Up For Ever",
+    "name": "Artist Rouge Lipstick",
+    "slug": "make-up-for-ever-artist-rouge-lipstick",
+    "subcategories": [
+      "lipstick",
+      "lips",
+      "professional",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Skin Long-Wear Weightless Foundation",
+    "slug": "bobbi-brown-skin-long-wear-weightless-foundation",
+    "subcategories": [
+      "natural",
+      "bobbi-brown",
+      "brows",
+      "medium-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Even Better Makeup Foundation",
+    "slug": "clinique-even-better-makeup-foundation",
+    "subcategories": [
+      "foundation",
+      "medium-coverage",
+      "face",
+      "skincare-benefits"
+    ]
+  },
+  {
+    "brand": "Estee Lauder",
+    "name": "Pure Color Envy Lipstick",
+    "slug": "estee-lauder-pure-color-envy-lipstick",
+    "subcategories": [
+      "lipstick",
+      "luxury",
+      "lips",
+      "creamy"
+    ]
+  },
+  {
+    "brand": "Smashbox",
+    "name": "Studio Skin 15 Hour Wear Foundation",
+    "slug": "smashbox-studio-skin-15-hour-wear-foundation",
+    "subcategories": [
+      "long-wear",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "Bite Beauty",
+    "name": "Upswing Full Volume Mascara",
+    "slug": "bite-beauty-upswing-full-volume-mascara",
+    "subcategories": [
+      "eyes",
+      "mascara",
+      "clean-beauty",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "Drunk Elephant",
+    "name": "O-Bloos Rosi Drops",
+    "slug": "drunk-elephant-o-bloos-rosi-drops",
+    "subcategories": [
+      "liquid",
+      "blush",
+      "skincare-makeup"
+    ]
+  },
+  {
+    "brand": "Tower 28",
+    "name": "BeachPlease Cream Blush",
+    "slug": "tower-28-beachplease-cream-blush",
+    "subcategories": [
+      "blush",
+      "clean-beauty",
+      "cream",
+      "face"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Magic Cream Moisturizer",
+    "slug": "charlotte-tilbury-magic-cream-moisturizer",
+    "subcategories": [
+      "charlotte-tilbury",
+      "anti-aging",
+      "moisturizer",
+      "hydration"
+    ]
+  },
+  {
+    "brand": "NYX Professional",
+    "name": "Soft Matte Lip Cream",
+    "slug": "nyx-professional-soft-matte-lip-cream",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "They're Real! Lengthening Mascara",
+    "slug": "benefit-theyre-real-lengthening-mascara",
+    "subcategories": [
+      "eyes",
+      "mascara",
+      "separating",
+      "lengthening"
+    ]
+  },
+  {
+    "brand": "Colourpop",
+    "name": "Just My Luck Eyeshadow Palette",
+    "slug": "colourpop-just-my-luck-eyeshadow-palette",
+    "subcategories": [
+      "matte",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Lights Camera Lashes Mascara",
+    "slug": "tarte-lights-camera-lashes-mascara",
+    "subcategories": [
+      "volumizing",
+      "vegan",
+      "mascara",
+      "tarte",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Rom&nd",
+    "name": "Zero Matte Lipstick",
+    "slug": "romand-zero-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lips",
+      "lipstick",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "CLIO",
+    "name": "Gelpresso Waterproof Pencil Gel Liner",
+    "slug": "clio-gelpresso-waterproof-pencil-gel-liner",
+    "subcategories": [
+      "waterproof",
+      "gel",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Vivid Cotton Ink Lip Tint",
+    "slug": "innisfree-vivid-cotton-ink-lip-tint",
+    "subcategories": [
+      "lip-tint",
+      "lips",
+      "k-beauty",
+      "cotton-finish"
+    ]
+  },
+  {
+    "brand": "Covergirl",
+    "name": "Lash Blast Volume Mascara",
+    "slug": "covergirl-lash-blast-volume-mascara",
+    "subcategories": [
+      "drugstore",
+      "eyes",
+      "mascara",
+      "volumizing"
+    ]
+  },
+  {
+    "brand": "NYX Professional",
+    "name": "Epic Ink Liner",
+    "slug": "nyx-professional-epic-ink-liner",
+    "subcategories": [
+      "liquid",
+      "precise",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Jeffree Star",
+    "name": "Velour Liquid Lipstick",
+    "slug": "jeffree-star-velour-liquid-lipstick",
+    "subcategories": [
+      "velour",
+      "lipstick",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Kylie Cosmetics",
+    "name": "Matte Liquid Lipstick",
+    "slug": "kylie-cosmetics-matte-liquid-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Extra Dimension Skinfinish Highlighter",
+    "slug": "mac-extra-dimension-skinfinish-highlighter",
+    "subcategories": [
+      "highlighter",
+      "mac",
+      "powder",
+      "intense"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Haloscope Doux Highlighter",
+    "slug": "glossier-haloscope-doux-highlighter",
+    "subcategories": [
+      "highlighter",
+      "dewy",
+      "stick"
+    ]
+  },
+  {
+    "brand": "Milani",
+    "name": "Strobelight Instant Glow Powder",
+    "slug": "milani-strobelight-instant-glow-powder",
+    "subcategories": [
+      "highlighter",
+      "strobing",
+      "powder"
+    ]
+  },
+  {
+    "brand": "e.l.f.",
+    "name": "Putty Primer",
+    "slug": "elf-putty-primer",
+    "subcategories": [
+      "primer",
+      "pore-filling",
+      "smoothing",
+      "elf"
+    ]
+  },
+  {
+    "brand": "Colourpop",
+    "name": "Pressed Powder Blush",
+    "slug": "colourpop-pressed-powder-blush",
+    "subcategories": [
+      "buildable",
+      "powder",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "Fluidity Full-Coverage Concealer",
+    "slug": "morphe-fluidity-full-coverage-concealer",
+    "subcategories": [
+      "full-coverage",
+      "face",
+      "concealer",
+      "blendable"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Airbrush Flawless Foundation",
+    "slug": "charlotte-tilbury-airbrush-flawless-foundation",
+    "subcategories": [
+      "charlotte-tilbury",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Angel Veil Skin Perfecting Primer",
+    "slug": "nyx-professional-angel-veil-skin-perfecting-primer",
+    "subcategories": [
+      "primer"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Bronzing Powder",
+    "slug": "nars-bronzing-powder",
+    "subcategories": [
+      "nars",
+      "bronzer",
+      "powder"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink Gelato Lip Tint",
+    "slug": "peripera-ink-gelato-lip-tint",
+    "subcategories": [
+      "lip-gloss",
+      "lips"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Pretty Fresh Hyaluronic Creamy Concealer",
+    "slug": "colourpop-pretty-fresh-hyaluronic-creamy-concealer",
+    "subcategories": [
+      "face",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Powder Blush",
+    "slug": "mac-powder-blush",
+    "subcategories": [
+      "mac",
+      "powder",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Romand",
+    "name": "Zero Gram Matte Lipstick",
+    "slug": "romand-zero-gram-matte-lipstick",
+    "subcategories": [
+      "lipstick",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Age Rewind Concealer",
+    "slug": "maybelline-age-rewind-concealer",
+    "subcategories": [
+      "maybelline",
+      "concealer",
+      "face"
+    ]
+  },
+  {
+    "brand": "Rare Beauty",
+    "name": "Always an Optimist Illuminating Primer",
+    "slug": "rare-beauty-always-an-optimist-illuminating-primer",
+    "subcategories": [
+      "primer",
+      "rare-beauty"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Hollywood Flawless Filter",
+    "slug": "charlotte-tilbury-hollywood-flawless-filter",
+    "subcategories": [
+      "highlighter",
+      "primer",
+      "charlotte-tilbury"
+    ]
+  },
+  {
+    "brand": "Clio",
+    "name": "Sharp So Simple Waterproof Pencil Liner",
+    "slug": "clio-sharp-so-simple-waterproof-pencil-liner",
+    "subcategories": [
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "Dewy Tint Lip Balm",
+    "slug": "innisfree-dewy-tint-lip-balm",
+    "subcategories": [
+      "lip-gloss",
+      "lips"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "BFF Liquid Eyeliner",
+    "slug": "colourpop-bff-liquid-eyeliner",
+    "subcategories": [
+      "eyes",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Fenty Beauty",
+    "name": "Match Stix Matte Contour Skinstick",
+    "slug": "fenty-beauty-match-stix-matte-contour-skinstick",
+    "subcategories": [
+      "contour",
+      "fenty-beauty"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Butter Gloss",
+    "slug": "nyx-professional-butter-gloss",
+    "subcategories": [
+      "lip-gloss"
+    ]
+  },
+  {
+    "brand": "Essence",
+    "name": "Make Me Brow Eyebrow Gel Mascara",
+    "slug": "essence-make-me-brow-eyebrow-gel-mascara",
+    "subcategories": [
+      "eyebrow",
+      "eyes",
+      "brows",
+      "mascara"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Pure Blushed Liquid Cheek",
+    "slug": "peripera-pure-blushed-liquid-cheek",
+    "subcategories": [
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Instant Anti Age Eraser Concealer",
+    "slug": "maybelline-instant-anti-age-eraser-concealer",
+    "subcategories": [
+      "maybelline",
+      "concealer",
+      "face"
+    ]
+  },
+  {
+    "brand": "L'Oreal",
+    "name": "Voluminous Original Mascara",
+    "slug": "loreal-voluminous-original-mascara",
+    "subcategories": [
+      "makeup",
+      "volumizing",
+      "classic",
+      "mascara",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "ColourPop",
+    "name": "Ultra Matte Lip",
+    "slug": "colourpop-ultra-matte-lip",
+    "subcategories": [
+      "matte",
+      "makeup",
+      "lipstick",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Blush",
+    "slug": "nars-blush",
+    "subcategories": [
+      "makeup",
+      "nars",
+      "powder",
+      "buildable",
+      "blush",
+      "face"
+    ]
+  },
+  {
+    "brand": "ELF",
+    "name": "Pure Skin Super Serum",
+    "slug": "elf-pure-skin-super-serum",
+    "subcategories": [
+      "primer",
+      "makeup",
+      "hydrating",
+      "serum",
+      "elf"
+    ]
+  },
+  {
+    "brand": "Clio",
+    "name": "Kill Cover Pro Artist Liquid Concealer",
+    "slug": "clio-kill-cover-pro-artist-liquid-concealer",
+    "subcategories": [
+      "makeup",
+      "full-coverage",
+      "face",
+      "concealer",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Heimish",
+    "name": "Artless Glow Base SPF 50+",
+    "slug": "heimish-artless-glow-base-spf-50",
+    "subcategories": [
+      "primer",
+      "makeup",
+      "glow",
+      "spf",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "CANMAKE",
+    "name": "Glow Fleur Cheeks Blush",
+    "slug": "canmake-glow-fleur-cheeks-blush",
+    "subcategories": [
+      "makeup",
+      "powder",
+      "blush",
+      "face",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "ROMAND",
+    "name": "Juicy Lasting Tint",
+    "slug": "romand-juicy-lasting-tint",
+    "subcategories": [
+      "lip-tint",
+      "makeup",
+      "glossy",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Lancôme",
+    "name": "L'Absolu Rouge Drama Matte Lipstick",
+    "slug": "lancome-labsolu-rouge-drama-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "makeup",
+      "lipstick",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Glossier",
+    "name": "Olivia Rodrigo Solar Paint Gel Lip Crayon",
+    "slug": "glossier-olivia-rodrigo-solar-paint-gel-lip-crayon",
+    "subcategories": [
+      "makeup",
+      "lip-crayon",
+      "gel",
+      "lips",
+      "limited-edition"
+    ]
+  },
+  {
+    "brand": "Maybelline",
+    "name": "Color Sensational Lipstick",
+    "slug": "maybelline-color-sensational-lipstick",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "creamy",
+      "maybelline",
+      "hydrating",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Tarte",
+    "name": "Tartelette In Bloom Clay Eyeshadow Palette",
+    "slug": "tarte-tartelette-in-bloom-clay-eyeshadow-palette",
+    "subcategories": [
+      "makeup",
+      "natural",
+      "eyeshadow",
+      "tarte",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Morphe",
+    "name": "M439 Deluxe Buffer Brush",
+    "slug": "morphe-m439-deluxe-buffer-brush",
+    "subcategories": [
+      "makeup",
+      "foundation",
+      "brush",
+      "tools"
+    ]
+  },
+  {
+    "brand": "Juvia's Place",
+    "name": "The Magic Mini Eyeshadow Palette",
+    "slug": "juvias-place-the-magic-mini-eyeshadow-palette",
+    "subcategories": [
+      "makeup",
+      "eyeshadow",
+      "palette",
+      "colorful",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Black Opal",
+    "name": "Deluxe Finishing Powder",
+    "slug": "black-opal-deluxe-finishing-powder",
+    "subcategories": [
+      "setting",
+      "makeup",
+      "powder",
+      "inclusive"
+    ]
+  },
+  {
+    "brand": "IMAN",
+    "name": "Luxury Moisturizing Lipstick",
+    "slug": "iman-luxury-moisturizing-lipstick",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "moisturizing",
+      "lips",
+      "inclusive"
+    ]
+  },
+  {
+    "brand": "Etude House",
+    "name": "Soodam Brow Cara",
+    "slug": "etude-house-soodam-brow-cara",
+    "subcategories": [
+      "makeup",
+      "eyebrow",
+      "brows",
+      "gel",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Peripera",
+    "name": "Ink Color Cara Mascara",
+    "slug": "peripera-ink-color-cara-mascara",
+    "subcategories": [
+      "makeup",
+      "mascara",
+      "colored",
+      "eyes",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Clio",
+    "name": "Pro Eye Palette",
+    "slug": "clio-pro-eye-palette",
+    "subcategories": [
+      "makeup",
+      "eyeshadow",
+      "palette",
+      "eyes",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "ROMAND",
+    "name": "See-Through Matte Tint",
+    "slug": "romand-see-through-matte-tint",
+    "subcategories": [
+      "lip-tint",
+      "makeup",
+      "matte",
+      "k-beauty"
+    ]
+  },
+  {
+    "brand": "Innisfree",
+    "name": "My Eyeshadow Glitter",
+    "slug": "innisfree-my-eyeshadow-glitter",
+    "subcategories": [
+      "makeup",
+      "eyeshadow",
+      "eyes",
+      "k-beauty",
+      "glitter"
+    ]
+  },
+  {
+    "brand": "CANMAKE",
+    "name": "Cream Cheek",
+    "slug": "canmake-cream-cheek",
+    "subcategories": [
+      "makeup",
+      "k-beauty",
+      "blush",
+      "cream"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Backstage Face & Body Foundation",
+    "slug": "dior-backstage-face-body-foundation",
+    "subcategories": [
+      "makeup",
+      "dior-beauty",
+      "medium-coverage",
+      "face",
+      "foundation",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Chanel",
+    "name": "Rouge Coco Lipstick",
+    "slug": "chanel-rouge-coco-lipstick",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "hydrating",
+      "chanel-beauty",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "YSL",
+    "name": "Touche Éclat Radiant Touch Concealer",
+    "slug": "ysl-touche-eclat-radiant-touch-concealer",
+    "subcategories": [
+      "makeup",
+      "radiant",
+      "face",
+      "concealer",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Tom Ford",
+    "name": "Eye Color Quad Eyeshadow",
+    "slug": "tom-ford-eye-color-quad-eyeshadow",
+    "subcategories": [
+      "makeup",
+      "luxury",
+      "eyeshadow",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Giorgio Armani",
+    "name": "Lip Maestro Liquid Lipstick",
+    "slug": "giorgio-armani-lip-maestro-liquid-lipstick",
+    "subcategories": [
+      "makeup",
+      "lipstick",
+      "liquid",
+      "lips",
+      "luxury"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Benetint Lip & Cheek Stain",
+    "slug": "benefit-benetint-lip-cheek-stain",
+    "subcategories": [
+      "tint",
+      "lips",
+      "blush",
+      "lip-stain"
+    ]
+  },
+  {
+    "brand": "Anastasia Beverly Hills",
+    "name": "Brow Wiz Eyebrow Pencil",
+    "slug": "anastasia-beverly-hills-brow-wiz-eyebrow-pencil",
+    "subcategories": [
+      "eyebrow",
+      "precision",
+      "brows",
+      "pencil",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "L'Oréal",
+    "name": "True Match Foundation",
+    "slug": "loreal-true-match-foundation",
+    "subcategories": [
+      "natural",
+      "foundation",
+      "medium-coverage",
+      "face"
+    ]
+  },
+  {
+    "brand": "ELF",
+    "name": "Camo Concealer",
+    "slug": "elf-camo-concealer",
+    "subcategories": [
+      "full-coverage",
+      "affordable",
+      "face",
+      "elf",
+      "concealer"
+    ]
+  },
+  {
+    "brand": "Beauty of Joseon",
+    "name": "Glow Deep Serum Foundation",
+    "slug": "beauty-of-joseon-glow-deep-serum-foundation",
+    "subcategories": [
+      "glow",
+      "serum",
+      "foundation",
+      "face"
+    ]
+  },
+  {
+    "brand": "Laneige",
+    "name": "Lip Glowy Balm",
+    "slug": "laneige-lip-glowy-balm",
+    "subcategories": [
+      "tinted",
+      "lips",
+      "hydrating",
+      "lip-balm"
+    ]
+  },
+  {
+    "brand": "The Face Shop",
+    "name": "Lip Tint Balm",
+    "slug": "the-face-shop-lip-tint-balm",
+    "subcategories": [
+      "lip-tint",
+      "natural",
+      "lips",
+      "balm"
+    ]
+  },
+  {
+    "brand": "Missha",
+    "name": "M Perfect Cover BB Cream",
+    "slug": "missha-m-perfect-cover-bb-cream",
+    "subcategories": [
+      "spf",
+      "bb-cream",
+      "coverage"
+    ]
+  },
+  {
+    "brand": "Holika Holika",
+    "name": "Heart Crush Jelly Tint",
+    "slug": "holika-holika-heart-crush-jelly-tint",
+    "subcategories": [
+      "lip-tint",
+      "jelly",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "Sulwhasoo",
+    "name": "Perfecting Cushion Foundation",
+    "slug": "sulwhasoo-perfecting-cushion-foundation",
+    "subcategories": [
+      "foundation",
+      "luxury",
+      "cushion",
+      "face"
+    ]
+  },
+  {
+    "brand": "Hera",
+    "name": "Black Cushion Foundation",
+    "slug": "hera-black-cushion-foundation",
+    "subcategories": [
+      "full-coverage",
+      "foundation",
+      "cushion",
+      "face"
+    ]
+  },
+  {
+    "brand": "Banila Co",
+    "name": "Velvet Blurred Lip",
+    "slug": "banila-co-velvet-blurred-lip",
+    "subcategories": [
+      "velvet",
+      "lipstick",
+      "lips",
+      "blurred"
+    ]
+  },
+  {
+    "brand": "Moonshot",
+    "name": "Micro Setting Fit Cushion",
+    "slug": "moonshot-micro-setting-fit-cushion",
+    "subcategories": [
+      "setting",
+      "foundation",
+      "cushion"
+    ]
+  },
+  {
+    "brand": "Hourglass",
+    "name": "Ambient Lighting Powder",
+    "slug": "hourglass-ambient-lighting-powder",
+    "subcategories": [
+      "highlighter",
+      "luminous",
+      "powder"
+    ]
+  },
+  {
+    "brand": "Becca",
+    "name": "Shimmering Skin Perfector Pressed Highlighter",
+    "slug": "becca-shimmering-skin-perfector-pressed-highlighter",
+    "subcategories": [
+      "highlighter",
+      "powder",
+      "shimmer"
+    ]
+  },
+  {
+    "brand": "Jeffree Star Cosmetics",
+    "name": "Artistry Palette",
+    "slug": "jeffree-star-cosmetics-artistry-palette",
+    "subcategories": [
+      "colorful",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "James Charles",
+    "name": "Inner Artist Palette",
+    "slug": "james-charles-inner-artist-palette",
+    "subcategories": [
+      "bright",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Pat McGrath Labs",
+    "name": "Mothership Eyeshadow Palette",
+    "slug": "pat-mcgrath-labs-mothership-eyeshadow-palette",
+    "subcategories": [
+      "eyes",
+      "palette",
+      "luxury",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Natasha Denona",
+    "name": "Biba Eyeshadow Palette",
+    "slug": "natasha-denona-biba-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Jaclyn Hill Cosmetics",
+    "name": "Volume II Eyeshadow Palette",
+    "slug": "jaclyn-hill-cosmetics-volume-ii-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "eyes",
+      "palette",
+      "eyeshadow"
+    ]
+  },
+  {
+    "brand": "Armani Beauty",
+    "name": "Lip Maestro Liquid Matte Lipstick",
+    "slug": "armani-beauty-lip-maestro-liquid-matte-lipstick",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Guerlain",
+    "name": "Rouge G Lipstick",
+    "slug": "guerlain-rouge-g-lipstick",
+    "subcategories": [
+      "lipstick",
+      "luxury",
+      "lips",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Black Honey Almost Lipstick",
+    "slug": "clinique-black-honey-almost-lipstick",
+    "subcategories": [
+      "tinted",
+      "lipstick",
+      "lips",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Crushed Lip Color",
+    "slug": "bobbi-brown-crushed-lip-color",
+    "subcategories": [
+      "natural",
+      "lipstick",
+      "bobbi-brown",
+      "brows",
+      "lips",
+      "sheer"
+    ]
+  },
+  {
+    "brand": "Shiseido",
+    "name": "Synchro Skin Self-Refreshing Foundation",
+    "slug": "shiseido-synchro-skin-self-refreshing-foundation",
+    "subcategories": [
+      "foundation",
+      "medium-coverage",
+      "face",
+      "hydrating"
+    ]
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "name": "Micro Brow Pencil",
+    "slug": "nyx-professional-micro-brow-pencil",
+    "subcategories": [
+      "eyebrow",
+      "drugstore",
+      "brows",
+      "precise",
+      "pencil"
+    ]
+  },
+  {
+    "brand": "Benefit",
+    "name": "Hoola Bronzer",
+    "slug": "benefit-hoola-bronzer",
+    "subcategories": [
+      "matte",
+      "natural",
+      "bronzer",
+      "contouring",
+      "face"
+    ]
+  },
+  {
+    "brand": "Kat Von D",
+    "name": "Tattoo Liner",
+    "slug": "kat-von-d-tattoo-liner",
+    "subcategories": [
+      "long-lasting",
+      "liquid",
+      "precise",
+      "eyeliner"
+    ]
+  },
+  {
+    "brand": "Smashbox",
+    "name": "Photo Finish Foundation Primer",
+    "slug": "smashbox-photo-finish-foundation-primer",
+    "subcategories": [
+      "primer",
+      "professional",
+      "smoothing",
+      "face",
+      "pore-minimizing",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Rimmel",
+    "name": "Stay Matte Liquid Lip Colour",
+    "slug": "rimmel-stay-matte-liquid-lip-colour",
+    "subcategories": [
+      "matte",
+      "lipstick",
+      "drugstore",
+      "liquid",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Jaclyn Hill Cosmetics",
+    "name": "Volume I Eyeshadow Palette",
+    "slug": "jaclyn-hill-cosmetics-volume-i-eyeshadow-palette",
+    "subcategories": [
+      "neutral",
+      "shimmer",
+      "eyeshadow",
+      "palette",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Pat McGrath Labs",
+    "name": "Lust Gloss",
+    "slug": "pat-mcgrath-labs-lust-gloss",
+    "subcategories": [
+      "lip-gloss",
+      "luxury",
+      "pigmented",
+      "high-shine"
+    ]
+  },
+  {
+    "brand": "Flower Beauty",
+    "name": "Light Illusion Full Coverage Foundation",
+    "slug": "flower-beauty-light-illusion-full-coverage-foundation",
+    "subcategories": [
+      "natural",
+      "drugstore",
+      "full-coverage",
+      "face",
+      "foundation"
+    ]
+  },
+  {
+    "brand": "Lime Crime",
+    "name": "Venus Eyeshadow Palette",
+    "slug": "lime-crime-venus-eyeshadow-palette",
+    "subcategories": [
+      "bold",
+      "eyeshadow",
+      "palette",
+      "colorful",
+      "eyes"
+    ]
+  },
+  {
+    "brand": "Almay",
+    "name": "Smart Shade Butter Kiss Lipstick",
+    "slug": "almay-smart-shade-butter-kiss-lipstick",
+    "subcategories": [
+      "lipstick",
+      "adaptive",
+      "drugstore",
+      "moisturizing",
+      "lips"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Hydra Boost Water Gel",
+    "slug": "neutrogena-hydra-boost-water-gel",
+    "subcategories": [
+      "dry-skin"
+    ]
+  },
+  {
+    "brand": "CeraVe",
+    "name": "Daily Moisturizing Lotion",
+    "slug": "cerave-daily-moisturizing-lotion",
+    "subcategories": [
+      "dry-skin",
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Olay",
+    "name": "Regenerist Micro-Sculpting Cream",
+    "slug": "olay-regenerist-micro-sculpting-cream",
+    "subcategories": [
+      "dry-skin"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Dramatically Different Moisturizing Lotion",
+    "slug": "clinique-dramatically-different-moisturizing-lotion",
+    "subcategories": [
+      "dry-skin",
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Shadow Insurance Eye Primer",
+    "slug": "too-faced-shadow-insurance-eye-primer",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Pro-Prime Eyeshadow Base",
+    "slug": "nars-pro-prime-eyeshadow-base",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Paint Pot Eye Primer",
+    "slug": "mac-paint-pot-eye-primer",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "OPI",
+    "name": "Nail Lacquer",
+    "slug": "opi-nail-lacquer",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Essie",
+    "name": "Original Nail Polish",
+    "slug": "essie-original-nail-polish",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Sally Hansen",
+    "name": "Complete Salon Manicure",
+    "slug": "sally-hansen-complete-salon-manicure",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "China Glaze",
+    "name": "Nail Polish",
+    "slug": "china-glaze-nail-polish",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Vernis Nail Polish",
+    "slug": "dior-vernis-nail-polish",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Chanel",
+    "name": "Le Vernis Longwear Nail Color",
+    "slug": "chanel-le-vernis-longwear-nail-color",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Zoya",
+    "name": "Nail Polish",
+    "slug": "zoya-nail-polish",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "CND",
+    "name": "Shellac UV Nail Polish",
+    "slug": "cnd-shellac-uv-nail-polish",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Oil-Free Acne Wash",
+    "slug": "neutrogena-oil-free-acne-wash",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "Cetaphil",
+    "name": "Daily Facial Cleanser for Oily Skin",
+    "slug": "cetaphil-daily-facial-cleanser-oily-skin",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "La Roche Posay",
+    "name": "Effaclar Purifying Foaming Gel",
+    "slug": "la-roche-posay-effaclar-purifying-foaming-gel",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Dramatically Different Moisturizing Gel",
+    "slug": "clinique-dramatically-different-moisturizing-gel",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Satin Lipstick",
+    "slug": "mac-satin-lipstick",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Tom Ford",
+    "name": "Lip Color Satin Matte",
+    "slug": "tom-ford-lip-color-satin-matte",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Luxe Lip Color",
+    "slug": "bobbi-brown-luxe-lip-color",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Cetaphil",
+    "name": "Gentle Skin Cleanser",
+    "slug": "cetaphil-gentle-skin-cleanser",
+    "subcategories": [
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Aveeno",
+    "name": "Ultra-Calming Daily Moisturizer",
+    "slug": "aveeno-ultra-calming-daily-moisturizer",
+    "subcategories": [
+      "sensitive-skin",
+      "dry-skin"
+    ]
+  },
+  {
+    "brand": "Vanicream",
+    "name": "Gentle Facial Cleanser",
+    "slug": "vanicream-gentle-facial-cleanser",
+    "subcategories": [
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "La Roche Posay",
+    "name": "Toleriane Caring Wash",
+    "slug": "la-roche-posay-toleriane-caring-wash",
+    "subcategories": [
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Water Gel",
+    "slug": "neutrogena-hydro-boost-water-gel",
+    "subcategories": [
+      "dry-skin"
+    ]
+  },
+  {
+    "brand": "Kiehl's",
+    "name": "Ultra Facial Cream",
+    "slug": "kiehls-ultra-facial-cream",
+    "subcategories": [
+      "dry-skin",
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Aveeno",
+    "name": "Daily Moisturizing Face Cream",
+    "slug": "aveeno-daily-moisturizing-face-cream",
+    "subcategories": [
+      "dry-skin",
+      "sensitive-skin"
+    ]
+  },
+  {
+    "brand": "Too Faced",
+    "name": "Shadow Insurance Eyeshadow Primer",
+    "slug": "too-faced-shadow-insurance-eyeshadow-primer",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "NARS",
+    "name": "Pro-Prime Smudge Proof Eyeshadow Base",
+    "slug": "nars-pro-prime-smudge-proof-eyeshadow-base",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "MAC",
+    "name": "Pro Longwear Paint Pot",
+    "slug": "mac-pro-longwear-paint-pot",
+    "subcategories": [
+      "eye-primer"
+    ]
+  },
+  {
+    "brand": "Essie",
+    "name": "Nail Polish",
+    "slug": "essie-nail-polish",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Sally Hansen",
+    "name": "Insta-Dri Fast Dry Nail Color",
+    "slug": "sally-hansen-insta-dri-fast-dry-nail-color",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Zoya",
+    "name": "Nail Lacquer",
+    "slug": "zoya-nail-lacquer",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "China Glaze",
+    "name": "Nail Lacquer",
+    "slug": "china-glaze-nail-lacquer",
+    "subcategories": [
+      "nail-polish",
+      "nails"
+    ]
+  },
+  {
+    "brand": "Sally Hansen",
+    "name": "Complete Manicure",
+    "slug": "sally-hansen-complete-manicure",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Dior",
+    "name": "Vernis Nail Lacquer",
+    "slug": "dior-vernis-nail-lacquer",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Orly",
+    "name": "Nail Lacquer",
+    "slug": "orly-nail-lacquer",
+    "subcategories": [
+      "nails",
+      "nail-polish"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Clarifying Lotion",
+    "slug": "clinique-clarifying-lotion",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "Paula's Choice",
+    "name": "2% BHA Liquid Exfoliant",
+    "slug": "paulas-choice-2-bha-liquid-exfoliant",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "slug": "the-ordinary-niacinamide-10-zinc-1",
+    "subcategories": [
+      "oily-skin"
+    ]
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "name": "Pillowtalk Lipstick",
+    "slug": "charlotte-tilbury-pillowtalk-lipstick",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Bobbi Brown",
+    "name": "Lip Color",
+    "slug": "bobbi-brown-lip-color",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Even Better Pop Lip Colour Foundation",
+    "slug": "clinique-even-better-pop-lip-colour-foundation",
+    "subcategories": [
+      "satin"
+    ]
+  },
+  {
+    "brand": "Eucerin",
+    "name": "Advanced Repair Cream",
+    "slug": "eucerin-advanced-repair-cream",
+    "subcategories": [
+      "sensitive-skin",
+      "dry-skin"
+    ]
+  },
+  {
+    "brand": "Clinique",
+    "name": "Moisture Surge 72-Hour Auto-Replenishing Hydrator",
+    "slug": "clinique-moisture-surge-72-hour-auto-replenishing-hydrator",
+    "subcategories": [
+      "sensitive-skin",
+      "dry-skin"
+    ]
+  }
+]
