@@ -1,6 +1,6 @@
 ---
 title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+description: "Bobbi Brown专业彩妆品牌，打造自然妆容，展现真实美丽"
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

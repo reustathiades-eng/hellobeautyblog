@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Éclat du Teint"
+description: "Produits illuminateurs pour un teint radieux et uniforme, anti-taches brunes."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

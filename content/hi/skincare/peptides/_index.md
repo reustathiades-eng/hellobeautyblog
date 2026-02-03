@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "पेप्टाइड स्किनकेयर"
+description: "एंटी एजिंग पेप्टाइड युक्त क्रीम और सीरम। त्वचा को जवान और चमकदार बनाएं।"
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

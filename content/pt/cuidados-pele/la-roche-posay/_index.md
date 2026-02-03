@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay"
+description: "Dermocosméticos La Roche-Posay para peles sensíveis. Produtos recomendados por dermatologistas."
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

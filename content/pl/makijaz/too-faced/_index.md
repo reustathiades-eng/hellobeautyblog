@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced - kolorówka premium"
+description: "Kultowe kosmetyki Too Faced. Wysokiej jakości makijaż w słodkich, dziewczęcych opakowaniach."
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

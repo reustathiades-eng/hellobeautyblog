@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Peptide"
+description: "Innovative Peptid-Hautpflege für straffere Haut - reduziert Falten und fördert die Hauterneuerung."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

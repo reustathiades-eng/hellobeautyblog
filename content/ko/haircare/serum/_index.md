@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "헤어 세럼"
+description: "모발 끝까지 부드럽고 윤기나게, 집중 영양 공급 헤어 세럼"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

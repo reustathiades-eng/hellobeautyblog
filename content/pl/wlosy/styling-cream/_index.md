@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Kremy do Stylizacji Włosów"
+description: "Kremy stylizujące do włosów - modelowanie, wygładzanie i ochrona przed wysoką temperaturą."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

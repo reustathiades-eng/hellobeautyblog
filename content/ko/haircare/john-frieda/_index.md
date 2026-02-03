@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda 존프리다"
+description: "헤어 전문가 존프리다의 살롱급 헤어케어 제품으로 집에서도 전문적인 모발 관리를 즐기세요"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

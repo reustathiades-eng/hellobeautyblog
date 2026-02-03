@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "美容オイル・フェイスオイル"
+description: "アルガン・ホホバ・ローズヒップなどの美容オイルで、潤い溢れるツヤ肌を手に入れましょう。"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

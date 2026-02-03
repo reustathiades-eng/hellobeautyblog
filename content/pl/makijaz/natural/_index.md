@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "Kosmetyki Naturalne"
+description: "Naturalne kosmetyki bez szkodliwych składników. Ekologiczna pielęgnacja i makijaż."
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

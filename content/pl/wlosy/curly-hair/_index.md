@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Włosy Kręcone"
+description: "Specjalistyczna pielęgnacja włosów kręconych i falowanych. Zdefiniuj swoje loki idealnie."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

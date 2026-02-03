@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "تغطية خفيفة"
+description: "مكياج بتغطية خفيفة لإطلالة طبيعية ونعومة مشرقة"
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

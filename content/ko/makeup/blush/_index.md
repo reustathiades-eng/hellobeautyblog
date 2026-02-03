@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "블러셔"
+description: "자연스러운 혈색과 생기를 연출하는 블러셔 컬렉션"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

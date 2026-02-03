@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Göz Çevresi Bakım Kremleri"
+description: "Göz altı torbaları, kırışıklık ve koyu halkalara karşı etkili göz kremleri ve serumları."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

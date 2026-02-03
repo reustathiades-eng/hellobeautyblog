@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Spliss Behandlung"
+description: "Effektive Produkte gegen Spliss für geschmeidige Spitzen und gesund aussehendes Haar."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

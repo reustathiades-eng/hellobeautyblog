@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "润唇膏"
+description: "滋润保湿润唇产品，呵护双唇，打造水润饱满唇部"
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

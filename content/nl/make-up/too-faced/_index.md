@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced Make-up"
+description: "Speelse en glamoureuze make-up van Too Faced voor elke gelegenheid."
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

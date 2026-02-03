@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "高光粉"
+description: "立体提亮高光产品，增强面部轮廓，打造自然光泽感，提升妆容层次。"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

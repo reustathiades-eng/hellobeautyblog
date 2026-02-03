@@ -1,6 +1,6 @@
 ---
-title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+title: "Chanel Beauty कलेक्शन"
+description: "लक्जरी Chanel ब्यूटी प्रोडक्ट्स और मेकअप कलेक्शन।"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

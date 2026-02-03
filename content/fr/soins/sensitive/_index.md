@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "Peau Sensible"
+description: "Soins doux et apaisants spécialement formulés pour les peaux sensibles et réactives."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

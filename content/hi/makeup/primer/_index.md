@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "मेकअप प्राइमर"
+description: "लॉन्ग लास्टिंग मेकअप के लिए बेस्ट प्राइमर। स्मूथ फिनिश और परफेक्ट बेस के लिए।"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

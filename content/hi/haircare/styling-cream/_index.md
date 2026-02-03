@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "हेयर स्टाइलिंग क्रीम"
+description: "परफेक्ट हेयर स्टाइल के लिए बेहतरीन स्टाइलिंग क्रीम कलेक्शन।"
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

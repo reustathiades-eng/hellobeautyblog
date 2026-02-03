@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Pestañas Postizas"
+description: "Pestañas postizas de alta calidad para una mirada impactante. Naturales, volumen y dramáticas."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

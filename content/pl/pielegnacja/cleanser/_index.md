@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Żele i Mleczka do Mycia"
+description: "Delikatne oczyszczanie twarzy. Znajdź idealny żel lub mleczko do swojego typu skóry."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

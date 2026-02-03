@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "아이섀도"
+description: "다양한 컬러와 텍스처로 완성하는 아름다운 아이 메이크업"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "컨투어링"
+description: "얼굴 윤곽을 살려주는 컨투어링 제품으로 입체적이고 세련된 메이크업을 완성하세요."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

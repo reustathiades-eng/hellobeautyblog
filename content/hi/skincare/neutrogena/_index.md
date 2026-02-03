@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena स्किनकेयर प्रोडक्ट्स"
+description: "त्वचा विशेषज्ञों द्वारा सुझाए गए Neutrogena के विश्वसनीय स्किनकेयर उत्पाद"
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

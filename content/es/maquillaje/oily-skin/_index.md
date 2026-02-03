@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Maquillaje para Piel Grasa"
+description: "Productos especializados para piel grasa. Controla el brillo y mantén tu maquillaje perfecto por más tiempo."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

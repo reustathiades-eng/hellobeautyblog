@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "غسول الوجه"
+description: "غسولات وجه لتنظيف عميق ولطيف للبشرة مناسبة لجميع أنواع البشرة"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

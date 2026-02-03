@@ -1,6 +1,6 @@
 ---
 title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+description: "Briogeo hair care: trattamenti naturali e biologici per capelli sani, forti e luminosi."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

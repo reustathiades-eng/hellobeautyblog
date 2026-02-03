@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "リップバーム"
+description: "乾燥から唇を守る保湿リップバーム。潤いたっぷりでふっくらとした唇に導きます。"
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Cabelos Finos"
+description: "Tratamentos para cabelos finos e ralos. Produtos que fortalecem e dão volume aos fios."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

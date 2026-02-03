@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "कंसीलर"
+description: "दाग-धब्बे छुपाने वाले बेस्ट कंसीलर। परफेक्ट कवरेज के लिए टॉप ब्रांड्स।"
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

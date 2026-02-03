@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "毛孔护理产品"
+description: "收缩毛孔护肤品，深层清洁，细致毛孔，打造光滑细腻肌肤"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

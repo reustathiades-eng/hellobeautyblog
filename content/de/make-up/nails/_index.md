@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Nagellack & Nagelpflege"
+description: "Entdecken Sie trendige Nagellacke und professionelle Nagelpflege-Produkte."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

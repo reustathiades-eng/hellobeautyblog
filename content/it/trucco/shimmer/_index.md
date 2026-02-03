@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Effetto Shimmer"
+description: "Prodotti con particelle luminose per un makeup brillante e radioso che cattura la luce."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

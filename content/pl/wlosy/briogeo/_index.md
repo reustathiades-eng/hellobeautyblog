@@ -1,6 +1,6 @@
 ---
 title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+description: "Naturalne kosmetyki do włosów Briogeo. Ekologiczne formuły bez silikonów i parabenów dla zdrowych włosów."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

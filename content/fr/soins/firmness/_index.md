@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Fermeté"
+description: "Traitements anti-âge pour raffermir la peau et retrouver tonicité et élasticité."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

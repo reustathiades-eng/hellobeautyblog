@@ -1,6 +1,6 @@
 ---
 title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+description: "Primer para preparar e prolongar sua maquiagem. Base perfeita para um acabamento impecável."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

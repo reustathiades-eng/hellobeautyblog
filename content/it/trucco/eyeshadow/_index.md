@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Ombretti"
+description: "Ombretti di qualità per ogni occasione. Colori intensi e texture cremose per occhi perfetti."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

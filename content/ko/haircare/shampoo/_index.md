@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "샴푸"
+description: "모발 타입별 맞춤 샴푸로 건강하고 윤기나는 머리카락을 만들어보세요."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

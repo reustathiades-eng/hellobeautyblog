@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "Contouring & Sculpting"
+description: "Definieer je gezicht met professionele contouring producten voor perfecte highlights en schaduwen."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

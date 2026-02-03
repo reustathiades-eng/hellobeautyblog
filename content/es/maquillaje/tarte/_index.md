@@ -1,6 +1,6 @@
 ---
 title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+description: "Maquillaje Tarte con ingredientes naturales: paletas, bases, blushes y productos veganos de alta calidad."
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

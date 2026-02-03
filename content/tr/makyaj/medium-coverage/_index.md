@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Orta Kapatıcılık"
+description: "Doğal görünüm için orta kapatıcılıkta fondöten ve makyaj ürünleri."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

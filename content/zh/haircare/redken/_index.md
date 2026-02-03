@@ -1,6 +1,6 @@
 ---
-title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+title: "Redken美奇丝"
+description: "Redken专业美发产品，沙龙级护发体验，让秀发更健康亮泽"
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

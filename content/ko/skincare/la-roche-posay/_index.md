@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay 더마케어"
+description: "라 로슈 포제 민감성 피부 전문 더마 코스메틱"
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

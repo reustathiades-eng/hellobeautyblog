@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "Fond de Teint"
+description: "Fonds de teint pour tous types de peau, couvrance modulable et tenue longue durée."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

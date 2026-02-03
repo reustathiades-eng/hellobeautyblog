@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche Posay डर्मा केयर"
+description: "La Roche Posay के डर्मेटोलॉजिस्ट रिकमेंडेड स्किनकेयर सलूशन।"
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

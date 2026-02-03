@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Máscaras Faciais"
+description: "Máscaras hidratantes, purificantes e anti-idade para todos os tipos de pele."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

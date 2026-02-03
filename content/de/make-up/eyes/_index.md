@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Augen Make-up"
+description: "Komplette Augen Make-up Kollektion. Lidschatten, Eyeliner und mehr für ausdrucksstarke Blicke."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

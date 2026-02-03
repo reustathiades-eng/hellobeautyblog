@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Rode Huid"
+description: "Kalmerende producten voor gevoelige, rode huid en het verminderen van irritaties."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

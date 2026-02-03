@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "سيراميد للبشرة"
+description: "منتجات السيراميد لترطيب وحماية حاجز البشرة الطبيعي وإصلاح التلف"
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

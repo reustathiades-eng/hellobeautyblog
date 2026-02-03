@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "Natuurlijke Make-up"
+description: "Natuurlijke make-up voor een subtiele, stralende look. Enhances je natuurlijke schoonheid."
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

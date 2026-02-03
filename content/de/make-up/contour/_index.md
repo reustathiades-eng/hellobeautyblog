@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "Contouring"
+description: "Professionelles Contouring für definierte Gesichtszüge - modelliert und betont perfekt."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

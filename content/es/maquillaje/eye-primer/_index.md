@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Prebase de Ojos"
+description: "Prebases para ojos que garantizan mayor duración y color intenso en tus sombras. Maquillaje perfecto todo el día."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

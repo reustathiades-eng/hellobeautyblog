@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Tırnak Bakım ve Oje"
+description: "Renkli ojeler ve tırnak bakım ürünleri ile parmaklarınızı güzelleştirin."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

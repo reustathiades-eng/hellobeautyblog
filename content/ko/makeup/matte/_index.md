@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "매트"
+description: "세련되고 고급스러운 매트 마감의 메이크업 제품으로 완벽한 무광 룩을 연출하세요."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

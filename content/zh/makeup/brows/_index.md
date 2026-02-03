@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "眉妆产品"
+description: "专业眉妆用品，眉笔眉粉眉膏，轻松塑造完美眉形"
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

@@ -1,6 +1,6 @@
 ---
 title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+description: "Produtos com acabamento matte para um visual sofisticado. Efeito aveludado sem brilho."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

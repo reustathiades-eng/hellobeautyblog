@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "Olaplex हेयर ट्रीटमेंट"
+description: "Olaplex के साथ क्षतिग्रस्त बालों की मरम्मत करें और मजबूत बनाएं"
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

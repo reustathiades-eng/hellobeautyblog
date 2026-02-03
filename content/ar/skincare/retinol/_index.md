@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "الريتينول لتجديد البشرة"
+description: "منتجات الريتينول لتجديد خلايا البشرة ومحاربة التجاعيد والخطوط الدقيقة"
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

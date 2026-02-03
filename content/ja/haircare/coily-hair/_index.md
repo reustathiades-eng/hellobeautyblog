@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "カーリーヘア・縮毛ケア"
+description: "くせ毛やカーリーヘア専用のヘアケア製品。自然なカールを美しく整えるアイテムをご紹介。"
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

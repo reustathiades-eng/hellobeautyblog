@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "تنظيف المسام"
+description: "منتجات متخصصة لتنظيف وتقليص المسام للحصول على بشرة صافية ونقية"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

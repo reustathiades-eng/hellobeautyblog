@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Augenbrauen-Make-up"
+description: "Perfekte Augenbrauen mit Augenbrauenstiften, Gels und Pudern für den idealen Look."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

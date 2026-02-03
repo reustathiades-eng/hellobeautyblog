@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Soins du Cuir Chevelu"
+description: "Traitements ciblés pour apaiser, purifier et rééquilibrer le cuir chevelu."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

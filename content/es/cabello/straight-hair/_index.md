@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "Cabello Liso"
+description: "Productos para alisar, nutrir y mantener el cabello liso con brillo y movimiento natural."
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

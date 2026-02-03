@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Poeder Make-up"
+description: "Losse en geperste poeders voor een perfecte finish en langdurige make-up."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

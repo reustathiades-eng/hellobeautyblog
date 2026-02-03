@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "스타일링 크림"
+description: "자연스러운 볼륨과 윤기를 연출하는 프리미엄 헤어 스타일링 크림 모음"
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

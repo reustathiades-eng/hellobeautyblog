@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "굵은 모발 케어"
+description: "굵고 볼륨있는 모발을 위한 전용 헤어케어로 부드럽고 관리하기 쉬운 머리카락을 만드세요"
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

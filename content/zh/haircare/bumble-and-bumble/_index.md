@@ -1,6 +1,6 @@
 ---
-title: "Bumble And Bumble"
-description: "Discover the best bumble and bumble products. Expert reviews and guides."
+title: "Bumble and Bumble"
+description: "Bumble and Bumble专业美发产品，打造时尚发型，让您的秀发更具个性魅力。"
 emoji: "🐝"
 subcategory_type: "brand"
 subcategory_value: "bumble-and-bumble"

@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "डैमेज रिपेयर हेयर प्रोडक्ट्स"
+description: "क्षतिग्रस्त और रूखे बालों को ठीक करने वाले रिपेयर हेयरकेयर उत्पाद।"
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

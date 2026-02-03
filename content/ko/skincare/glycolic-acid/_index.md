@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "글리콜산"
+description: "각질 제거와 피부 톤 개선에 효과적인 글리콜산 스킨케어 제품을 만나보세요."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Cobertura Media"
+description: "Bases de cobertura media para un acabado natural. Cubre imperfecciones sin efecto máscara."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

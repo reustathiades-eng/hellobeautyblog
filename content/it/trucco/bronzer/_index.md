@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Terra Abbronzante"
+description: "Terre compatte e bronzer per un incarnato dorato naturale e contouring perfetto tutto l'anno."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

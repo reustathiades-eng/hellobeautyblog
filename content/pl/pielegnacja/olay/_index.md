@@ -1,6 +1,6 @@
 ---
 title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+description: "Kultowa marka Olay - innowacyjne produkty do pielęgnacji twarzy przeciw oznakom starzenia."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Capelli Crespi e Ribelli"
+description: "Prodotti per domare i capelli crespi e ottenere una chioma liscia e disciplinata ogni giorno."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

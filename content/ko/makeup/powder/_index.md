@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "파우더"
+description: "매끄럽고 완벽한 피니시를 위한 다양한 페이스 파우더와 컴팩트 제품들"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique スキンケア"
+description: "Cliniqueの皮膚科学に基づいたスキンケアで、健やかで美しい肌を目指しませんか。"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

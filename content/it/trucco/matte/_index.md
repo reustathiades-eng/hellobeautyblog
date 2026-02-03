@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Effetto Opaco"
+description: "Makeup con finish matte per un look sofisticato e duraturo senza lucidità."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

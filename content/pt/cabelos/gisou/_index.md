@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Produtos capilares Gisou com mel de abelha para nutrir, hidratar e dar brilho natural aos cabelos."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

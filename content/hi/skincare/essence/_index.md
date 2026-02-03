@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "एसेंस - चेहरे की देखभाल"
+description: "त्वचा को हाइड्रेट और पोषण देने वाले बेहतरीन एसेंस उत्पाद"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

@@ -1,6 +1,6 @@
 ---
 title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+description: "Scopri il makeup Maybelline: rossetti, mascara e fondotinta per un look perfetto ogni giorno."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

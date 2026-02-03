@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "برايمر العيون"
+description: "احصلي على مكياج عيون يدوم طويلاً مع أفضل برايمر للعيون"
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

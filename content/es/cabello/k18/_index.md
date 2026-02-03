@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 Tratamiento Capilar"
+description: "Mascarillas y tratamientos K18 para reparar y fortalecer el cabello dañado desde la raíz."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

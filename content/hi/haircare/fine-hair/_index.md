@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "पतले बालों की देखभाल"
+description: "महीन और पतले बालों को वॉल्यूम देने वाले विशेष हेयर केयर उत्पाद।"
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

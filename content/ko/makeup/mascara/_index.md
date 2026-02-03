@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "마스카라"
+description: "길고 볼륨있는 속눈썹 연출을 위한 다양한 마스카라 컬렉션"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

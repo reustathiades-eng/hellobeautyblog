@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "웨이브 헤어"
+description: "자연스러운 웨이브 헤어를 위한 전용 케어 제품으로 볼륨과 윤기를 동시에"
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

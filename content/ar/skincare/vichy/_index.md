@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "منتجات Vichy العلاجية"
+description: "منتجات Vichy بالمياه الحرارية لعناية طبية متقدمة بجميع أنواع البشرة"
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha - japońska pielęgnacja"
+description: "Luksusowe kosmetyki Tatcha inspirowane tradycją japońską. Naturalna pielęgnacja skóry."
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

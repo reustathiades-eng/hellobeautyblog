@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "बाल बढ़ाने के उत्पाद"
+description: "बालों की वृद्धि बढ़ाने और नए बाल उगाने वाले प्रभावी हेयरकेयर प्रोडक्ट्स।"
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

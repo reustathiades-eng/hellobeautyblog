@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Sonnenschutz"
+description: "Zuverlässiger Sonnenschutz für das Gesicht und den Körper mit hohem UV-Schutz."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

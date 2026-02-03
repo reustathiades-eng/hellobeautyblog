@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Anti-Frizz Pflege"
+description: "Bändigen Sie krauses Haar mit Anti-Frizz Produkten für geschmeidiges, kontrollierbares Haar."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

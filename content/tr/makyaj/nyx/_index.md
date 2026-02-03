@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX Professional Makeup"
+description: "NYX'in profesyonel makyaj ürünleri ile tarzınızı yansıtın."
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

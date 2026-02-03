@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's スキンケア"
+description: "天然由来成分にこだわるKiehl'sのスキンケアで、肌本来の美しさを引き出しましょう。"
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

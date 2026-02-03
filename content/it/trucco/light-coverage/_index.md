@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Coprenza Leggera"
+description: "Fondotinta e correttori dalla texture leggera per un effetto naturale."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

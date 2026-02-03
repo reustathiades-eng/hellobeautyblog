@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Bronceadores"
+description: "Polvos bronceadores para dar calidez al rostro y crear un efecto bronceado natural y saludable."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

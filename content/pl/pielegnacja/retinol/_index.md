@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Kosmetyki z Retinolem"
+description: "Produkty z retinolem do walki ze zmarszczkami, przebarwieniami i poprawy tekstury skóry."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "去角质产品"
+description: "温和去角质护肤品，清洁毛孔污垢，改善肌肤粗糙，重现光滑质感"
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

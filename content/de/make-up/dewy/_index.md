@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Dewy Look"
+description: "Strahlender Teint mit dem angesagten Dewy-Finish - für einen natürlich leuchtenden Look."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

@@ -1,6 +1,6 @@
 ---
 title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+description: "Hochwertige Hautpflege von The Ordinary mit wirksamen Inhaltsstoffen zu fairen Preisen."
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

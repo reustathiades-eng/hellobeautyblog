@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "폴라초이스 Paula's Choice"
+description: "과학적 연구 기반의 폴라초이스 제품으로 효과적이고 안전한 스킨케어 루틴 완성"
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

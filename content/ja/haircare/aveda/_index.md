@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "AVEDA（アヴェダ）"
+description: "植物由来成分にこだわったアヴェダのヘアケア製品で、美しい髪を実現します。"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

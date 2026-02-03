@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "Paula's Choice"
+description: "Découvrez les soins Paula's Choice, expertise scientifique et résultats prouvés."
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

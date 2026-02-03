@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "볼륨 업 헤어케어"
+description: "납작한 모발에 생기와 볼륨을 선사하는 전문 헤어케어"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

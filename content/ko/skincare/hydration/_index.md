@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "수분 보습"
+description: "깊은 수분 공급으로 촉촉한 피부를 만드는 보습 제품"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

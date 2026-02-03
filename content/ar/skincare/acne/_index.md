@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "علاج حب الشباب"
+description: "منتجات متخصصة لعلاج حب الشباب وآثاره للحصول على بشرة صافية ونظيفة"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

@@ -1,6 +1,6 @@
 ---
 title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+description: "Bereid je huid perfect voor met primer. Voor een langdurige en vlekkeloze make-up finish."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

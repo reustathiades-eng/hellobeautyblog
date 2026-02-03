@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Dun Haar Verzorging"
+description: "Haarverzorging voor dun en fijn haar. Versterkende producten die volume geven en je haar dikker laten lijken."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

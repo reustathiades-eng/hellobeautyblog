@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Satin Finish Make-up"
+description: "Luxueuze satin finish producten. Zachte, zijdeachtige textuur voor een natuurlijke glans en elegante look."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

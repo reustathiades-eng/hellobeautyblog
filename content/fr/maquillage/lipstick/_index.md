@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Rouge à Lèvres"
+description: "Rouge à lèvres pour toutes les occasions : mat, brillant, longue tenue dans toutes les teintes."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

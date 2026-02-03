@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Brumas Faciales"
+description: "Brumas hidratantes y refrescantes que revitalizan tu piel al instante durante todo el día."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

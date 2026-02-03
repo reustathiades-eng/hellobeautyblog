@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Pele Normal"
+description: "Produtos equilibrados para manter a saúde e beleza natural da pele normal."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

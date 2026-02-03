@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Lidschatten"
+description: "Vielseitige Lidschatten für ausdrucksstarke Augen. Matte, schimmernde und glitzernde Texturen."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

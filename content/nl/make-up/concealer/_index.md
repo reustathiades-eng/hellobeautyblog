@@ -1,6 +1,6 @@
 ---
 title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+description: "Camoufleer onvolkomenheden met onze selectie van dekkende concealers."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

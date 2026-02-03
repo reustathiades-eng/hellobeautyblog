@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Protezione Calore Capelli"
+description: "Proteggi i tuoi capelli dal calore di phon e piastre con i migliori prodotti termoprotettori."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

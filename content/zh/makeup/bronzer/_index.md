@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "修容粉"
+description: "自然修容塑形产品，打造立体小脸轮廓，增添健康肌肤光泽，完善妆容。"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

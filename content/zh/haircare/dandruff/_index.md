@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "去屑护理"
+description: "专业去屑护发产品，有效缓解头皮屑问题，维护头皮健康"
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

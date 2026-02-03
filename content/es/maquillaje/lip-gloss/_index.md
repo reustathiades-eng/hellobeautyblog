@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Brillo Labial"
+description: "Brillos labiales con color y luminosidad para unos labios irresistibles y jugosos."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

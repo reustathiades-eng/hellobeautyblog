@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Salicylzuur"
+description: "Salicylzuur behandelingen voor een zuivere huid en het verminderen van onzuiverheden."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

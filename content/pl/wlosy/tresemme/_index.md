@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé"
+description: "Profesjonalne produkty do pielęgnacji włosów TRESemmé. Szampony, odżywki i stylizacja najwyższej jakości."
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oréal Professionnel"
+description: "Salon-kwaliteit haarverzorging van L'Oréal Professionnel voor elk haartype."
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

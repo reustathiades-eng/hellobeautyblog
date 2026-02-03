@@ -1,6 +1,6 @@
 ---
-title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+title: "مكياج Urban Decay"
+description: "مجموعة Urban Decay المميزة من المكياج الجريء والعصري"
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Cílios Postiços"
+description: "Cílios postiços para um olhar marcante: modelos naturais, volumosos e dramáticos para toda ocasião."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

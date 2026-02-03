@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Anti-Aging Producten"
+description: "Verminder rimpels en fijne lijntjes. Ontdek effectieve anti-aging producten voor een jeugdige huid."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

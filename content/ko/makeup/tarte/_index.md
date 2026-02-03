@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "타르테 화장품"
+description: "자연 성분으로 만든 타르테의 프리미엄 메이크업 컬렉션"
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

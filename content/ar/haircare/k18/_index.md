@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "منتجات K18 للعناية بالشعر"
+description: "علاجات K18 المبتكرة لإصلاح وتجديد الشعر التالف بتقنية متقدمة"
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

@@ -1,6 +1,6 @@
 ---
 title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+description: "ナチュラルで洗練されたBobbi Brownのメイクアップコレクション。プロ仕様の高品質コスメ"
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

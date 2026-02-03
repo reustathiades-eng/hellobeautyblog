@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "Champús"
+description: "Champús para todo tipo de cabello: graso, seco, teñido, rizado y con tratamientos específicos."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

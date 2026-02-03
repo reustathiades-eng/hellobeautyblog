@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estée Lauder"
+description: "Luxe Estée Lauder huidverzorging en anti-aging producten. Premium schoonheid voor elke vrouw."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "फेशियल मिस्ट स्प्रे"
+description: "त्वचा को तुरंत नमी देने वाले हाइड्रेटिंग फेस मिस्ट और टोनर स्प्रे।"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

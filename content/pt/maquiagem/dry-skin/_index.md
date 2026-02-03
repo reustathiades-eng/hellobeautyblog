@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Pele Seca"
+description: "Base e produtos hidratantes para pele seca, com fórmulas nutritivas que garantem acabamento natural."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

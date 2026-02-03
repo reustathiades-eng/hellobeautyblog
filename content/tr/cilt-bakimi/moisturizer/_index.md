@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Nemlendirici Kremler"
+description: "Her cilt tipine uygun yoğun nem sağlayan günlük ve gece nemlendirici kremleri."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

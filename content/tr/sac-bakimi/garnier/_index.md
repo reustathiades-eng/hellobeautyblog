@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier Saç Bakım Ürünleri"
+description: "Garnier markasının doğal içerikli şampuan ve saç bakım çözümleri."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

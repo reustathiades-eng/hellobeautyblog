@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f. Cosmetics - przystępne ceny"
+description: "Wysokiej jakości kosmetyki e.l.f. w świetnych cenach. Profesjonalny makijaż dla każdego."
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

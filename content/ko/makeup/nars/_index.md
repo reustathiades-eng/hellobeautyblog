@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS 메이크업"
+description: "대담하고 세련된 NARS의 시그니처 컬러와 텍스처로 완벽한 메이크업을 연출해보세요."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "Rímel"
+description: "Rímels para alongar, dar volume e definir os cílios com acabamento perfeito."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

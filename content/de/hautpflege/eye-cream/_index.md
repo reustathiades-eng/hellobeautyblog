@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Augencreme"
+description: "Spezielle Augencremes gegen Falten, Tränensäcke und dunkle Augenringe. Strahlender Blick!"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

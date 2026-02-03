@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "واقي الشمس"
+description: "كريمات الحماية من الشمس لوقاية فائقة من الأشعة الضارة والحفاظ على صحة البشرة"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

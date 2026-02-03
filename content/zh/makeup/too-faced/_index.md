@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced彩妆"
+description: "Too Faced品牌彩妆产品，甜美可爱风格，高品质彩妆让你魅力四射"
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

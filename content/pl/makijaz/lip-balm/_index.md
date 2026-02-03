@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Balsamy do ust"
+description: "Nawilżające i regenerujące balsamy do ust dla miękkiej i gładkiej skóry."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

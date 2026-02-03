@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "아이브로우 제품"
+description: "자연스럽고 완벽한 눈썹 연출을 위한 아이브로우 펜슬, 파우더, 젤"
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

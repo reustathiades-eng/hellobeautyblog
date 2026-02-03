@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "Niasinamid"
+description: "Gözenekleri sıkılaştıran ve cilt tonunu eşitleyen niasinamid içerikli bakım ürünleri."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

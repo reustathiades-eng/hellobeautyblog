@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's"
+description: "Hochwertige Hautpflege von Kiehl's mit natürlichen Inhaltsstoffen für alle Hauttypen."
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

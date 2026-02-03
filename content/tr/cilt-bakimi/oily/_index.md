@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Yağlı Cilt Bakımı"
+description: "Yağlı cilt tipine özel formüle edilmiş ürünlerle fazla yağı kontrol edin ve mat görünüm elde edin."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

@@ -1,6 +1,6 @@
 ---
-title: "Fenty Beauty"
-description: "Discover the best fenty beauty products. Expert reviews and guides."
+title: "펜티 뷰티"
+description: "리한나가 론칭한 다양성과 포용성을 담은 펜티 뷰티"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"

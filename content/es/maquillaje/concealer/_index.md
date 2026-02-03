@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "Correctores de Maquillaje"
+description: "Correctores de alta cobertura para disimular imperfecciones y ojeras. Encuentra tu tono perfecto."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

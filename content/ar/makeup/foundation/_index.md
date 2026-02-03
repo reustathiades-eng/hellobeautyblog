@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "كريم الأساس"
+description: "كريم أساس بتغطية مثالية ولون طبيعي يدوم طويلاً لبشرة خالية من العيوب"
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

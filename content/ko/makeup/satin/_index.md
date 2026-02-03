@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "새틴 메이크업"
+description: "부드럽고 고급스러운 새틴 질감의 메이크업 제품으로 세련된 룩 연출"
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

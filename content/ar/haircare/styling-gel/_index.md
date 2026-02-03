@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "جل تصفيف الشعر"
+description: "جل تصفيف قوي لتثبيت الشعر وإطلالة مثالية طوال اليوم"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

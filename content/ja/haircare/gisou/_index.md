@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "ハチミツベースのラグジュアリーヘアケア。オランダ発のブランドで艶やかな髪へ。"
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

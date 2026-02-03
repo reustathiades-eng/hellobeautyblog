@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "Tusze do Rzęs"
+description: "Najlepsze tusze do rzęs - wydłużające, pogrubiające i wodoodporne. Perfekcyjny makijaż oczu."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Sıkılaştırıcı Cilt Bakımı"
+description: "Cildin elastikiyetini artıran ve sıkılaştıran anti-aging bakım ürünleri."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

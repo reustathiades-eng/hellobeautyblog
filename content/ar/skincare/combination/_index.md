@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "البشرة المختلطة"
+description: "منتجات مصممة خصيصاً للبشرة المختلطة لتوازن مثالي بين النضارة والترطيب"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

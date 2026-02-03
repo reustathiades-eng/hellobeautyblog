@@ -1,6 +1,6 @@
 ---
-title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+title: "Urban Decayメイクアップ"
+description: "大胆で鮮やかな発色のUrban Decayコスメ。個性的なカラーパレットで自分らしいメイクを楽しもう。"
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

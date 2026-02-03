@@ -1,6 +1,6 @@
 ---
 title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+description: "Natürliche Bronzer für einen sonnigen Teint. Konturieren und wärmen Sie Ihr Gesicht."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

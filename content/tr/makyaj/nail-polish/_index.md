@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Oje"
+description: "Rengarenk oje seçenekleriyle tırnaklarınızı güzelleştirin ve stilinizi tamamlayın."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

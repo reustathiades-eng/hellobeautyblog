@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "페이스 미스트"
+description: "수분 충전과 진정 효과를 위한 다양한 페이스 미스트 제품을 둘러보세요."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

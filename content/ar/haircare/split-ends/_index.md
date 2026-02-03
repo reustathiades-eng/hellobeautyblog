@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "علاج تقصف الشعر"
+description: "منتجات متخصصة لعلاج ومنع تقصف أطراف الشعر وتقويته"
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

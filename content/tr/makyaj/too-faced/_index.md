@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced Makyaj Ürünleri"
+description: "Eğlenceli ve kaliteli Too Faced makyaj ürünleri ile renkli ve çekici görünümler elde edin."
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Protección del Color"
+description: "Productos para cabello teñido. Protege y mantiene la intensidad del color por más tiempo."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Ruj"
+description: "Mat, kremsi ve uzun süre kalıcı ruj seçenekleriyle dudaklarınızı renklendirin."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

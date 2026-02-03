@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "حماية لون الشعر"
+description: "منتجات متخصصة لحماية لون الشعر المصبوغ وإطالة ثباته"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

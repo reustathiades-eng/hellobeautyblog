@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "Lápis de Boca"
+description: "Lápis delineadores para contorno perfeito dos lábios com pigmentação intensa e longa duração."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

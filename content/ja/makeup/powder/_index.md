@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "フェイスパウダー・おしろい"
+description: "メイクの仕上げに欠かせないフェイスパウダー。サラサラ肌でメイク崩れを防ぎ美しさを持続。"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

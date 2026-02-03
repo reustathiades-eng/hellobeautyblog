@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "발모 & 탈모 케어"
+description: "모발 성장 촉진과 탈모 방지를 위한 전문 헤어케어 솔루션"
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

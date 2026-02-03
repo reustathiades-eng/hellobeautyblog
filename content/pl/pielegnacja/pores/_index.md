@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Pory"
+description: "Kosmetyki do pielęgnacji porów. Oczyszczające i zwężające pory produkty dla gładkiej i matowej cery."
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

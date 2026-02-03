@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Dünnes Haar"
+description: "Pflegeprodukte für dünnes und feines Haar - für mehr Fülle und Volumen"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

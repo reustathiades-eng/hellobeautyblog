@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "فيتامين سي للبشرة"
+description: "منتجات فيتامين سي لتوحيد لون البشرة ومحاربة علامات التقدم في السن"
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

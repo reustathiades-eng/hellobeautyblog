@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "아이라이너"
+description: "또렷하고 선명한 아이메이크업을 위한 워터프루프 아이라이너 제품"
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

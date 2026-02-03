@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Pori Dilatati"
+description: "Prodotti per minimizzare i pori dilatati e ottenere una pelle liscia e uniforme."
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

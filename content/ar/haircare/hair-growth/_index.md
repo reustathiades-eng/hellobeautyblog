@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "نمو الشعر"
+description: "منتجات محفزة لنمو الشعر وتقويته من البصيلات"
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

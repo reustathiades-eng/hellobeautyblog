@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "지성피부용"
+description: "과도한 유분과 모공 케어에 특화된 지성피부 전용 제품들"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

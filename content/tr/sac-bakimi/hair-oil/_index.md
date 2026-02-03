@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Saç Yağı"
+description: "Saçlarınızı besleyen ve parlaklık veren doğal saç yağları ile bakım rutininizi tamamlayın."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

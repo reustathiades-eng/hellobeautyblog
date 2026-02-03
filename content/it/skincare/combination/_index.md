@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Pelle Mista"
+description: "Prodotti specifici per pelle mista: equilibra zone grasse e secche del viso"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

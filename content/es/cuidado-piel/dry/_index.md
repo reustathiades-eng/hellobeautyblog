@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Piel Seca"
+description: "Productos hidratantes y nutritivos especialmente formulados para el cuidado de la piel seca y deshidratada."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Haarspray"
+description: "Haarsprays für perfekten Halt und Style - von flexiblem bis zu starkem Fixierspray."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

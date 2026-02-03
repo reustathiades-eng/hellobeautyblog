@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "شامبو جاف للشعر"
+description: "شامبو جاف عملي لتنظيف الشعر وإضافة الحجم بسرعة"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

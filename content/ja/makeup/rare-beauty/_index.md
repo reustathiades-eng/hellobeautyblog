@@ -1,6 +1,6 @@
 ---
-title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+title: "Rare Beauty（レアビューティー）"
+description: "セレーナ・ゴメスのRare Beauty。自分らしい美しさを表現するメイクアップブランド。"
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

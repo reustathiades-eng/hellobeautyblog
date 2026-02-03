@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "Primer Viso"
+description: "Primer makeup per una base perfetta. Prolunga la durata del trucco e minimizza i pori."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

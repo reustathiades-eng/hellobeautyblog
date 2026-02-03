@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Serum - Gezichtsverzorging"
+description: "Krachtige serums voor elke huidbehoefte. Anti-aging, vitamine C en hyaluronzuur serums voor perfecte huid."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

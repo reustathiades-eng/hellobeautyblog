@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Anti-Roos"
+description: "Effectieve anti-roos behandeling voor een schone hoofdhuid zonder jeuk en irritatie."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

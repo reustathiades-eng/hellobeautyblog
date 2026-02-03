@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene Haarpflege"
+description: "Entdecken Sie Pantene Produkte für gesundes, glänzendes Haar mit professioneller Pflege."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

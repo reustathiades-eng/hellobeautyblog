@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "ترطيب الشعر"
+description: "علاجات ترطيب مكثفة للشعر الجاف والتالف لاستعادة النعومة واللمعان"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

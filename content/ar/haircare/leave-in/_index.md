@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "كريمات الشعر بدون شطف"
+description: "علاجات مغذية للشعر تُترك بدون شطف لحماية وترطيب مستمر"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

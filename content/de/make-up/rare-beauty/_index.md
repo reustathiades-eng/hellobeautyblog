@@ -1,6 +1,6 @@
 ---
-title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+title: "Rare Beauty Make-up"
+description: "Inclusive Beauty-Produkte von Rare Beauty für natürliche und ausdrucksstarke Looks."
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

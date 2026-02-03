@@ -1,6 +1,6 @@
 ---
-title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+title: "Drunk Elephant Skincare"
+description: "Shop Drunk Elephant producten. Effectieve skincare met pure ingrediënten voor een gezonde en stralende huid."
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

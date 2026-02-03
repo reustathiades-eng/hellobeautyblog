@@ -1,6 +1,6 @@
 ---
-title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+title: "Urban Decay Makyaj"
+description: "Urban Decay'in cesur renkleri ve uzun süre kalıcı makyaj ürünleriyle öne çıkın."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

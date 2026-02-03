@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancôme"
+description: "Cosméticos de lujo Lancôme. Tratamientos faciales premium y productos anti-edad de alta gama."
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

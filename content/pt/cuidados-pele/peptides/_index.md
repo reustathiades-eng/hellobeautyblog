@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Peptídeos para Skincare"
+description: "Produtos com peptídeos para renovação celular e combate ao envelhecimento da pele."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

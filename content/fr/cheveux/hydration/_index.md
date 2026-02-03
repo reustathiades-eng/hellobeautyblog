@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hydratation Capillaire"
+description: "Soins hydratants intensifs pour nourrir et revitaliser cheveux secs et abîmés."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

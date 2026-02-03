@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II"
+description: "Lusso giapponese per la pelle: essenze e creme SK-II con Pitera per una pelle radiosa e giovane."
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

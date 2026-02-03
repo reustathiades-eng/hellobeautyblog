@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "Maybelline Makyaj Ürünleri"
+description: "Maybelline'ın efsanevi makyaj koleksiyonu ile güzelliğinizi ortaya çıkarın."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

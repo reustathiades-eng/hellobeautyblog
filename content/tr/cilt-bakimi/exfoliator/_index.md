@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Peeling ve Eksfoliant"
+description: "Ölü deri hücrelerini temizleyen ve cildi yenileyen peeling ürünleri."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

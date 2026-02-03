@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Saç Parlaklığı"
+description: "Parlak ve ışıltılı saçlar için özel ürünler. Doğal görünümlü saç parlaklığı."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

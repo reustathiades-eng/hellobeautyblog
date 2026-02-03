@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil摩洛哥油"
+description: "Moroccanoil摩洛哥护发油系列，深层滋养，增加光泽，打造丝滑秀发"
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

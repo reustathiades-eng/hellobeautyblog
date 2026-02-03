@@ -1,6 +1,6 @@
 ---
-title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+title: "Chanel Make-up"
+description: "Luxe Chanel cosmetica en make-up voor tijdloze elegantie en stijl."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

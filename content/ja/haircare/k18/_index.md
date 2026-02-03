@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18ヘアトリートメント"
+description: "革新的なK18リーブインマスクで髪の分子レベルから修復。4分で実感できるプロ仕様のダメージケア。"
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

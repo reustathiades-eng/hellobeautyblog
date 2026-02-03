@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "रंगे बालों की देखभाल"
+description: "कलर ट्रीटेड हेयर के लिए विशेष शैम्पू और कंडीशनर। रंग को बनाए रखें।"
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 हेयर केयर"
+description: "K18 के रिवोल्यूशनरी हेयर ट्रीटमेंट से क्षतिग्रस्त बालों की मरम्मत करें।"
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

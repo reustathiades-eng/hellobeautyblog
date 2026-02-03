@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "マスカラ"
+description: "まつ毛を美しく彩るマスカラコレクション。ボリューム・ロング・カールタイプを豊富に取り揃え"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

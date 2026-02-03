@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Poudres Bronzantes"
+description: "Bronzers pour un teint hâlé naturel et sculpter les contours de votre visage."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

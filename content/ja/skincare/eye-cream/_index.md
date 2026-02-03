@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "アイクリーム"
+description: "目元の小じわやくまに効果的なアイクリームで、若々しい印象の目元へ。"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

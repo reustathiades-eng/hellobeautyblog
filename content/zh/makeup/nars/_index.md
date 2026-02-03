@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS彩妆"
+description: "NARS专业彩妆产品，打造时尚前卫妆容，展现个性魅力与艺术美感。"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "펩타이드 스킨케어"
+description: "주름 개선과 탄력 증진에 효과적인 펩타이드 성분의 스킨케어 제품을 만나보세요."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

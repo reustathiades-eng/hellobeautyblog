@@ -1,6 +1,6 @@
 ---
 title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+description: "Gamme complète Aveda pour des cheveux naturellement beaux et en pleine santé."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

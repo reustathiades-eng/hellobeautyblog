@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Bálsamos Labiales"
+description: "Bálsamos hidratantes y nutritivos para labios suaves y protegidos. Con color y sin color."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

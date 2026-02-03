@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancome 스킨케어"
+description: "프랑스 명품 코스메틱 Lancome으로 럭셔리 스킨케어를 경험하세요"
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Nagellak & Nagelverzorging"
+description: "Complete nagelverzorging collectie. Van trendy nagellakken tot professionele nagelbehandelingen en tools."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

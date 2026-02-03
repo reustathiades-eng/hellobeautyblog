@@ -1,6 +1,6 @@
 ---
 title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+description: "Perfecte mascara voor lange, volle wimpers. Waterproof en langhoudende formules beschikbaar."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Olejki do Twarzy"
+description: "Naturalne olejki pielęgnacyjne do cery. Nawilżenie i regeneracja skóry w jednym produkcie."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

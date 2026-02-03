@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "مكياج الشفاه"
+description: "اكتشفي أجمل منتجات مكياج الشفاه للحصول على شفاه جذابة وملفتة"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

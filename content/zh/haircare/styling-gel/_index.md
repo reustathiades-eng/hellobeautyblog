@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "造型啫喱"
+description: "专业造型啫喱，强效定型持久不粘腻，打造理想发型"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

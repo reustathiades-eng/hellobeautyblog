@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "윤기 헤어케어"
+description: "건강하고 빛나는 모발을 위한 윤기 강화 헤어 제품으로 생생한 헤어 스타일을 완성하세요."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

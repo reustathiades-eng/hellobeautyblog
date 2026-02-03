@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "كونتور"
+description: "احصلي على إطلالة منحوتة ومحددة مع مستحضرات الكونتور المميزة"
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

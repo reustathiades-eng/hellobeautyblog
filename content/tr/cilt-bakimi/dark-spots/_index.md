@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Leke Karşıtı Bakım"
+description: "Cilt lekelerini azaltmaya yardımcı olan özel formülü bakım ürünleri."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene Saç Bakım Ürünleri"
+description: "Pantene ile güçlü ve sağlıklı saçlar. Profesyonel saç bakım çözümleri keşfedin."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

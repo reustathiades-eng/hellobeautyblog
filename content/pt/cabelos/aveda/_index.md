@@ -1,6 +1,6 @@
 ---
 title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+description: "Produtos capilares Aveda naturais e sustentáveis. Cuidados profissionais para todos os tipos de cabelo."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

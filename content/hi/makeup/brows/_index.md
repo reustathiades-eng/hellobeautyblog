@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "आइब्रो मेकअप"
+description: "परफेक्ट भौंहों के लिए बेहतरीन आइब्रो पेंसिल और जेल का कलेक्शन।"
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

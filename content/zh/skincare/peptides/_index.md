@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "胜肽护肤品"
+description: "胜肽抗衰老护肤产品，紧致肌肤，减少细纹，重现年轻光彩"
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

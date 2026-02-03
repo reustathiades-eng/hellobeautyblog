@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "アイプライマー"
+description: "アイメイクの持ちを良くするアイプライマー。発色アップと崩れ防止で美しい仕上がりが続く。"
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

@@ -1,6 +1,6 @@
 ---
 title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+description: "Too Faced Kosmetik - verspielte und hochwertige Make-up Produkte für jeden Anlass."
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

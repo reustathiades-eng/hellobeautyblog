@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Laque Cheveux"
+description: "Laques et sprays fixants pour maintenir votre coiffure avec une tenue longue durée."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

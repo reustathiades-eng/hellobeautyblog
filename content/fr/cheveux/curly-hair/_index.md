@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Cheveux Bouclés"
+description: "Soins spécialisés pour définir, hydrater et sublimer vos boucles naturelles."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

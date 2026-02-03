@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "स्कैल्प ट्रीटमेंट"
+description: "स्वस्थ बालों के लिए बेहतरीन स्कैल्प ट्रीटमेंट प्रोडक्ट्स। डैंड्रफ और खुजली से छुटकारा पाएं।"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

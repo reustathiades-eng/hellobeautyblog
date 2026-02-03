@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Kalın Saç Bakımı"
+description: "Kalın ve gür saçlar için kontrol sağlayan ve yumuşatan özel bakım ürünleri. Kolay şekillendirme."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

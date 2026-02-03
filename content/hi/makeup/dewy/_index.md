@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "ड्यूई मेकअप लुक"
+description: "ग्लोइंग और नेचुरल ड्यूई फिनिश के लिए मेकअप प्रोडक्ट्स।"
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

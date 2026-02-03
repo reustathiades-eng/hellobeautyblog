@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "眼部打底"
+description: "眼妆打底产品，让眼影更持久显色，打造完美眼妆基础"
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

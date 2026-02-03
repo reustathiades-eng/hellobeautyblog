@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Masques Capillaires"
+description: "Masques nourrissants pour réparer, hydrater et sublimer vos cheveux en profondeur."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

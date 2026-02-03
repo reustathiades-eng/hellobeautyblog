@@ -1,6 +1,6 @@
 ---
 title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+description: "Popularne produkty do włosów Garnier w najlepszych cenach. Sprawdzona jakość dla każdego."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

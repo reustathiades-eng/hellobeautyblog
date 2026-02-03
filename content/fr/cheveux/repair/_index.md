@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Réparation Capillaire"
+description: "Soins réparateurs pour restaurer la beauté des cheveux abîmés et fragilisés."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

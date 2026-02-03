@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Kosmetyki z Ceramidami"
+description: "Produkty z ceramidami odbudowujące barierę ochronną skóry i zapewniające długotrwałe nawilżenie."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

@@ -1,6 +1,6 @@
 ---
-title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+title: "Urban Decay彩妆"
+description: "Urban Decay前卫彩妆，大胆色彩与创新质地，释放个性表达无限可能。"
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

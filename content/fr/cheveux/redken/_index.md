@@ -1,6 +1,6 @@
 ---
 title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+description: "Découvrez la gamme professionnelle Redken pour des cheveux sublimés et en pleine santé."
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

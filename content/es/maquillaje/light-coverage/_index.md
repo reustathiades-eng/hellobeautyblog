@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Cobertura Ligera"
+description: "Bases y maquillaje de cobertura ligera para un acabado natural y luminoso."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

@@ -1,6 +1,6 @@
 ---
 title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+description: "Gamme premium Moroccanoil à l'huile d'argan pour cheveux nourris et sublimés."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

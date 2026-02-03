@@ -1,6 +1,6 @@
 ---
 title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+description: "Collection Garnier pour des cheveux éclatants avec des formules naturelles."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

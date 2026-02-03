@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique倩碧护肤"
+description: "Clinique倩碧专业护肤产品，温和有效，适合各种肌肤类型的美容护理"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

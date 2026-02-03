@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Lippenstift"
+description: "Intensive Farben und pflegende Formeln für perfekte Lippen in allen Nuancen."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "Vitamine C Verzorging"
+description: "Krachtige vitamine C producten voor een heldere huid en anti-aging bescherming."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

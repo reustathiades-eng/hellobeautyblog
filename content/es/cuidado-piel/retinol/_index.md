@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Retinol para una Piel Renovada"
+description: "Productos con retinol para renovar la piel, reducir líneas de expresión y mejorar textura."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

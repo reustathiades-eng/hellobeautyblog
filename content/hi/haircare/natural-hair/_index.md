@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "प्राकृतिक बाल"
+description: "प्राकृतिक बालों की स्वस्थ देखभाल के लिए बेस्ट प्रोडक्ट्स।"
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

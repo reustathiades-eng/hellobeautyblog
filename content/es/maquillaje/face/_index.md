@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Maquillaje Facial"
+description: "Bases, correctores, polvos y rubores para un rostro perfecto. Productos para todo tipo de piel."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

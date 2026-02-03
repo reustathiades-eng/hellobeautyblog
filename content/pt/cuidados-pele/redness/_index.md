@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Vermelhidão"
+description: "Produtos calmantes e anti-inflamatórios para reduzir vermelhidão e irritação."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

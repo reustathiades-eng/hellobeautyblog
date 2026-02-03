@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "ミスト化粧水"
+description: "いつでもどこでも潤い補給。携帯に便利なミスト状化粧水で美肌キープ"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

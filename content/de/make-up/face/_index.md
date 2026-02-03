@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Gesichts-Make-up"
+description: "Foundation, Concealer & Co. für ein perfektes Gesichts-Make-up. Entdecken Sie unsere Auswahl!"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

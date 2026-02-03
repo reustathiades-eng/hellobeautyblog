@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Essences et Lotions"
+description: "Essences hydratantes et préparatrices pour optimiser l'efficacité de votre routine beauté."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

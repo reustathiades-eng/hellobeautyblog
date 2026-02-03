@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda护发产品"
+description: "Aveda天然植物护发系列，温和滋养秀发，呵护头皮健康"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

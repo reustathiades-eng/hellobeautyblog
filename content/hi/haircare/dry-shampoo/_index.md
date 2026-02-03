@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "ड्राई शैम्पू"
+description: "बिना पानी के बालों को साफ करने वाले ड्राई शैम्पू"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

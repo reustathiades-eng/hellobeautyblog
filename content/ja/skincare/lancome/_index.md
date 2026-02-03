@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "LANCOME（ランコム）"
+description: "フランス発祥の高級スキンケアブランド、ランコムの美容製品をお届けします。"
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

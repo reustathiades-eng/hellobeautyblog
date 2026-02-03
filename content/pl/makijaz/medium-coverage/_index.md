@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Średnie krycie"
+description: "Podkłady o średnim kryciu dla naturalnego wyglądu z możliwością budowania intensywności."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

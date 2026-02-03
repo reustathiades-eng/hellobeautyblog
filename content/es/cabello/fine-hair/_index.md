@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "Cabello Fino"
+description: "Productos ligeros que dan volumen y cuerpo al cabello fino sin apelmazar ni pesar."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "드라이 샴푸"
+description: "물 없이도 깔끔한 모발 관리가 가능한 드라이 샴푸로 간편하게 볼륨업하세요."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

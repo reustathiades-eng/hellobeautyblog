@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Essence Viso"
+description: "Scopri le migliori essence per viso: idratazione intensa e preparazione della pelle per la skincare routine."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

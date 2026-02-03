@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "エイジングケア・年齢肌"
+description: "年齢サインに働きかけるエイジングケア化粧品で若々しい肌へ。"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

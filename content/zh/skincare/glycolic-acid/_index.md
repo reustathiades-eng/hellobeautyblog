@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "果酸护肤品"
+description: "果酸温和去角质，改善肌肤纹理，提亮肤色，打造光滑细腻肌肤"
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

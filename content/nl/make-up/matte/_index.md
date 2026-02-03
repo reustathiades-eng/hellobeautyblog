@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Matte Make-up"
+description: "Creëer een fluweel-zachte finish met matte make-up producten zonder glans."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

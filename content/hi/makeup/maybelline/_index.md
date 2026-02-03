@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "Maybelline मेकअप"
+description: "Maybelline के बेहतरीन मेकअप प्रोडक्ट्स से अपनी खूबसूरती निखारें।"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

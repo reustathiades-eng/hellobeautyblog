@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier卡尼尔"
+description: "Garnier卡尼尔护发系列，天然植物精华配方，呵护秀发健康亮泽"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

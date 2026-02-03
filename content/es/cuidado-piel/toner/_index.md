@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Tónicos Faciales"
+description: "Tónicos que equilibran el pH de la piel y preparan el rostro para los siguientes pasos."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

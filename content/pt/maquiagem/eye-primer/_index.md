@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Primer para Olhos"
+description: "Primers para olhos que garantem fixação duradoura e realçam a cor das suas sombras favoritas."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

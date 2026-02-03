@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "サリチル酸スキンケア"
+description: "毛穴の黒ずみや角質ケアに効果的。サリチル酸配合の美容アイテム"
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

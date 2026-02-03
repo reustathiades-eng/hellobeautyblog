@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé（トレゼメ）"
+description: "サロン品質のTRESemméでプロ級の仕上がり。毎日のヘアケアを格上げしませんか。"
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

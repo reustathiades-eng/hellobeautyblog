@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "Doğal Makyaj"
+description: "Doğal içerikli makyaj ürünleriyle cildinize zarar vermeden güzelliğinizi doğal yollarla ortaya çıkarın."
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

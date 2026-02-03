@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Cabelos Cacheados"
+description: "Produtos especiais para definir, hidratar e realçar a beleza natural dos cachos."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

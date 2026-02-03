@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Saç Derisi Bakımı"
+description: "Saç derisi sorunlarına özel tedavi edici bakım ve şampuan ürünleri."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

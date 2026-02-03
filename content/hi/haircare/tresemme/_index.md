@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé हेयरकेयर"
+description: "TRESemmé का प्रोफेशनल हेयरकेयर रेंज। सैलून जैसे रिजल्ट्स घर पर पाएं।"
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Cheveux Épais"
+description: "Soins spécifiques pour discipliner et sublimer la beauté des cheveux épais."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

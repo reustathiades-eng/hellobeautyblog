@@ -1,6 +1,6 @@
 ---
-title: "Bumble And Bumble"
-description: "Discover the best bumble and bumble products. Expert reviews and guides."
+title: "Bumble and Bumble"
+description: "منتجات Bumble and Bumble الاحترافية للعناية بالشعر وتصفيفه"
 emoji: "🐝"
 subcategory_type: "brand"
 subcategory_value: "bumble-and-bumble"

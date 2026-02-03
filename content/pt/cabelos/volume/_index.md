@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volume Capilar"
+description: "Produtos para dar volume aos cabelos. Shampoos, condicionadores e finalizadores volumizadores."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

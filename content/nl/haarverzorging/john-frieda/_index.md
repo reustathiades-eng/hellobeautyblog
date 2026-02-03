@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda Haarverzorging"
+description: "Professionele John Frieda haarproducten voor salon-resultaten thuis. Shampoos, conditioners en styling."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

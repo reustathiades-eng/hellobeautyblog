@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "妆前乳"
+description: "专业妆前打底产品，延长妆容持久度，打造完美肌肤质感"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

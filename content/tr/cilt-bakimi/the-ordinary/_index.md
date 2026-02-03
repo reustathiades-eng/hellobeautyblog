@@ -1,6 +1,6 @@
 ---
 title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+description: "The Ordinary markaسının etkili ve uygun fiyatlı cilt bakım ürünleriyle cildinizi dönüştürün."
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

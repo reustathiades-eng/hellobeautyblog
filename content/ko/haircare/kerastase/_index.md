@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kerastase 케라스타제"
+description: "프리미엄 헤어케어 브랜드 케라스타제의 전문적인 모발 관리 솔루션을 경험해보세요"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

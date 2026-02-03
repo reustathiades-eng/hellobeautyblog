@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Boyalı Saç Koruma"
+description: "Boyalı saçların rengini koruyun ve parlaklığını uzun süre sürdürün."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

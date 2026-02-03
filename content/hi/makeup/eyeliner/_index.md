@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "आईलाइनर"
+description: "परफेक्ट आई मेकअप के लिए बेस्ट आईलाइनर। स्मज प्रूफ और लॉन्ग वियरिंग फॉर्मूला।"
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

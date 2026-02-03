@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "곱슬머리 케어"
+description: "곱슬거리는 모발을 위한 전용 헤어케어 제품으로 윤기있고 부드러운 컬을 연출하세요"
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

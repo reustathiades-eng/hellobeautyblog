@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Styling-Creme"
+description: "Professionelle Styling-Cremes für perfekten Halt und natürlichen Glanz Ihrer Frisur."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

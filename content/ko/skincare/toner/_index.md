@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "토너"
+description: "세안 후 피부 정리와 수분 공급을 위한 다양한 토너로 기초 케어 완성"
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

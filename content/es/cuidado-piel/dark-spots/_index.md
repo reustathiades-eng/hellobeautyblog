@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Tratamiento de Manchas Oscuras"
+description: "Productos especializados para aclarar manchas y unificar el tono de la piel efectivamente."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

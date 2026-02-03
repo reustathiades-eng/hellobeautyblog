@@ -1,6 +1,6 @@
 ---
 title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+description: "Luksusowa pielęgnacja włosów Aveda z naturalnymi składnikami. Odkryj profesjonalną jakość."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

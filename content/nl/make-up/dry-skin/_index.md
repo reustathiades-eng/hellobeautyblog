@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Droge Huid Make-up"
+description: "Make-up producten voor de droge huid. Hydraterende formules die je huid verzorgen en een stralende finish geven."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

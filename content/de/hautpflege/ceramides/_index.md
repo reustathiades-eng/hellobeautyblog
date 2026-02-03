@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Ceramide"
+description: "Pflegeprodukte mit Ceramiden stärken die Hautbarriere und spenden intensive Feuchtigkeit."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

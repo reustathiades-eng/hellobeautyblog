@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Makijaż Ust"
+description: "Pomadki, błyszczyki, konturówki do ust. Odkryj szeroką gamę kolorów i wykończeń dla ust."
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

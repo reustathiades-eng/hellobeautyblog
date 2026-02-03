@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Siero Capelli"
+description: "Sieri nutrienti e riparatori per capelli sani, lucenti e protetti."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

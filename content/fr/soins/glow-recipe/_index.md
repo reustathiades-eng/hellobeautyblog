@@ -1,6 +1,6 @@
 ---
 title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+description: "Soins Glow Recipe aux fruits : masques, sérums et crèmes coréens pour une peau éclatante naturellement."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

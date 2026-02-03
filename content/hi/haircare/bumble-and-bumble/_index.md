@@ -1,6 +1,6 @@
 ---
-title: "Bumble And Bumble"
-description: "Discover the best bumble and bumble products. Expert reviews and guides."
+title: "Bumble and Bumble हेयरकेयर"
+description: "Bumble and Bumble के प्रीमियम हेयर प्रोडक्ट्स से सैलून जैसे परिणाम पाएं"
 emoji: "🐝"
 subcategory_type: "brand"
 subcategory_value: "bumble-and-bumble"

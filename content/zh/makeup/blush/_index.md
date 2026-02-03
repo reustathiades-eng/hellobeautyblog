@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "腮红"
+description: "打造自然红润好气色，精选优质腮红产品，提升面部立体感与健康光泽"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

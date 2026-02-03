@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "가르니에 헤어케어"
+description: "자연 성분으로 만든 가르니에 헤어 제품으로 윤기나는 건강한 모발 완성"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

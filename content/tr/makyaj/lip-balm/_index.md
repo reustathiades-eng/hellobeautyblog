@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Dudak Balmı"
+description: "Dudaklarınızı nemlendiren ve koruyan dudak balsamları. Günlük bakım için ideal."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

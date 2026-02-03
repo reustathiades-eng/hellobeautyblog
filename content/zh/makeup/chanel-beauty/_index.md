@@ -1,6 +1,6 @@
 ---
-title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+title: "Chanel美妆"
+description: "Chanel香奈儿美妆产品，奢华经典品质，打造优雅精致的完美妆容"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

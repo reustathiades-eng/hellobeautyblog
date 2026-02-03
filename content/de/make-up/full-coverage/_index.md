@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Vollabdeckung"
+description: "Make-up mit hoher Deckkraft für perfekte Abdeckung und makellosen Teint."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

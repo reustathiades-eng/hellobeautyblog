@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "Żele do Stylizacji"
+description: "Żele do układania włosów zapewniające silne utrwalenie i doskonały wygląd."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

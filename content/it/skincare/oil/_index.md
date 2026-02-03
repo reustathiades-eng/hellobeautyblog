@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Oli Viso"
+description: "Oli nutrienti per il viso che idratano in profondità e donano luminosità naturale alla pelle."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "頭皮ケア・スカルプトリートメント"
+description: "健やかな髪は頭皮から。頭皮の悩みを解決する専用トリートメントで美しい髪を育てましょう。"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

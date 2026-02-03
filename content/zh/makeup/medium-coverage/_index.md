@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "中等遮瑕"
+description: "适中遮瑕力度底妆产品，自然覆盖瑕疵，保持肌肤透气感"
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

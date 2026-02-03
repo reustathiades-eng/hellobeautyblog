@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "시머"
+description: "은은하고 우아한 광택으로 화사하고 생동감 있는 메이크업 룩을 완성해보세요."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

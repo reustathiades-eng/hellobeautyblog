@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "मीडियम कवरेज मेकअप"
+description: "नेचुरल लुक के लिए मीडियम कवरेज फाउंडेशन। परफेक्ट ब्लेंडिंग और कंफर्टेबल वियर।"
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

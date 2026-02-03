@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Après-Shampoings"
+description: "Après-shampoings nourrissants pour démêler, adoucir et sublimer vos cheveux."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

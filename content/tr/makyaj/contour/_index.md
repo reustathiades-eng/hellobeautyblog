@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "Kontür"
+description: "Yüz hatlarınızı belirginleştiren kontür ürünleri. Profesyonel makyaj için vazgeçilmez."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

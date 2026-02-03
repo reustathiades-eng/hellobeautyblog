@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "コントゥア"
+description: "立体感のある美しい顔立ちを演出。シェーディングとハイライトで理想の輪郭を実現。"
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

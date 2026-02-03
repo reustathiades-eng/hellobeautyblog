@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "립글로스"
+description: "촉촉하고 윤기나는 입술 연출을 위한 다양한 컬러의 립글로스 컬렉션"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

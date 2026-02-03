@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Saç Kremi ve Bakım Maskeleri"
+description: "Besleyici saç kremleri ve onarıcı maskeler. Yumuşaklık, parlaklık ve kolay taranabilirlik."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

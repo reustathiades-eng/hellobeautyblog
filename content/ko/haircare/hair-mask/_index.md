@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "헤어 마스크"
+description: "집중 영양 공급으로 손상된 모발을 깊숙이 케어하는 헤어 마스크"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

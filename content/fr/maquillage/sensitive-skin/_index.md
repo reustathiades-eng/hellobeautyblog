@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "Peau Sensible"
+description: "Maquillage spécialement formulé pour peaux sensibles : douceur et tolérance optimale garanties."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

@@ -1,6 +1,6 @@
 ---
 title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+description: "اكتشفي مجموعة John Frieda للعناية بالشعر وحلول التصفيف المتخصصة"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

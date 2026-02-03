@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "Salud del Cuero Cabelludo"
+description: "Cuida y fortalece tu cuero cabelludo con tratamientos especializados para un cabello sano."
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

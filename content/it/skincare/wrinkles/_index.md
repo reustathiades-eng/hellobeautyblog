@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Rughe"
+description: "Creme e sieri anti-rughe per contrastare i segni del tempo sul viso"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

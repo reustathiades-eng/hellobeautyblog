@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé Haarverzorging"
+description: "Professionele TRESemmé haarverzorging voor salonresultaten thuis met shampoos en conditioners."
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

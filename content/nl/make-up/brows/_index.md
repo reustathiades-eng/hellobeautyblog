@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Wenkbrauw Make-up"
+description: "Perfecte wenkbrauwen met onze brow collectie. Potloden, gels, poeders en tools voor gedefinieerde brows."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

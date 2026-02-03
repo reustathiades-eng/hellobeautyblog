@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "Makeup Naturale"
+description: "Cosmetici per un trucco dall'effetto naturale e luminoso ogni giorno."
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

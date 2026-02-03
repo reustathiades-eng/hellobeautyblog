@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "頭皮ケア・スカルプケア"
+description: "健やかな頭皮環境を整える専用アイテム。フケやかゆみ対策で美しい髪の土台作りをサポート。"
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

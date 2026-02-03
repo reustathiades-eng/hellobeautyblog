@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "唇线笔"
+description: "精准勾勒唇形的唇线笔，持久显色，打造完美唇部轮廓，提升妆容精致度。"
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

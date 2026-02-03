@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Labiales"
+description: "Labiales en todos los tonos y acabados: mate, brillante, líquido, barra. Larga duración y color intenso."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

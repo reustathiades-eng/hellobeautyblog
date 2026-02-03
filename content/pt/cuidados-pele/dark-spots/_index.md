@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Manchas Escuras"
+description: "Tratamentos para clarear manchas escuras, melasma e uniformizar o tom da pele."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

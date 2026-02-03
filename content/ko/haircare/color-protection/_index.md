@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "컬러 보호 케어"
+description: "염색 모발의 색상을 오래 유지시켜주는 컬러 프로텍션 제품"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

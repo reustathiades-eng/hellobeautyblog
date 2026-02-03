@@ -1,6 +1,6 @@
 ---
 title: "Fenty Beauty"
-description: "Discover the best fenty beauty products. Expert reviews and guides."
+description: "Explorez Fenty Beauty : maquillage inclusif avec une gamme étendue de teintes pour tous."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"

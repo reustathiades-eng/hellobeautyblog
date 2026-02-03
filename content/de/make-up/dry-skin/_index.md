@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Make-up für trockene Haut"
+description: "Feuchtigkeitsspendende Make-up Produkte für trockene Haut mit pflegenden Inhaltsstoffen."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

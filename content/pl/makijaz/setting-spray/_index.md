@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "Mgiełki Utrwalające Makijaż"
+description: "Profesjonalne spraye utrwalające makijaż. Długotrwały efekt i świeży wygląd przez cały dzień."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

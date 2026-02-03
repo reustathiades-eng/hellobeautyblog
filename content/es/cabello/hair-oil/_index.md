@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Aceites Capilares"
+description: "Aceites nutritivos para hidratar, proteger y dar brillo natural a todo tipo de cabello."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

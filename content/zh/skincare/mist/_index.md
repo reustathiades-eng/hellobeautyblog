@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "喷雾护肤品"
+description: "保湿喷雾、定妆喷雾等护肤喷雾产品，随时补水，清爽不粘腻"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

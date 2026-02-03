@@ -1,6 +1,6 @@
 ---
 title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+description: "Descubre la colección completa de maquillaje Maybelline: bases, labiales, máscaras y más para tu look perfecto."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

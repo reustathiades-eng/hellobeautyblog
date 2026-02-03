@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Anti-Schuppen"
+description: "Wirksame Anti-Schuppen-Produkte für gesunde Kopfhaut. Bekämpft Schuppen und beruhigt Irritationen."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

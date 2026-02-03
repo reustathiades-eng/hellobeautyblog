@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "メイベリン"
+description: "世界中で愛されるメイベリンの豊富なメイクアップコレクション。トレンドを取り入れた高品質コスメ"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

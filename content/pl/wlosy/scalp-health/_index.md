@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "Pielęgnacja Skóry Głowy"
+description: "Skuteczne produkty do pielęgnacji skóry głowy - przeciw łupieżowi, swędzeniu i podrażnieniom."
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

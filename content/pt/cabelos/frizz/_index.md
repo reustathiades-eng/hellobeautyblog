@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Cabelos Crespos e Frizz"
+description: "Produtos para controlar o frizz e definir cabelos crespos e cacheados com proteção e hidratação."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

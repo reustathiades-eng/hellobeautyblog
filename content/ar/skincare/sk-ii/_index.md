@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II"
+description: "مجموعة SK-II الفاخرة للعناية بالبشرة مع تقنيات متقدمة لإشراق طبيعي ونعومة استثنائية"
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

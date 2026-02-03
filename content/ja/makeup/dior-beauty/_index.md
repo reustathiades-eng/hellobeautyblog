@@ -1,6 +1,6 @@
 ---
 title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+description: "エレガントなDior Beautyコスメティクス。上質な美しさを演出する贅沢なメイクアップ"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

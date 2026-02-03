@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "祛痘护理"
+description: "专业祛痘产品，清除痘痘粉刺，重现光滑肌肤"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

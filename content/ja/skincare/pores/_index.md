@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "毛穴ケア"
+description: "毛穴の黒ずみや開きを改善するケアで、なめらかで美しい肌質を手に入れましょう。"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

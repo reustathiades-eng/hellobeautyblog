@@ -1,6 +1,6 @@
 ---
-title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+title: "Huda Beauty彩妆"
+description: "探索Huda Beauty全系列彩妆产品，打造专业级妆容效果"
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

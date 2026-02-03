@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Zonnebescherming"
+description: "Effectieve zonnebrandcrèmes en SPF producten voor optimale bescherming tegen UV-straling."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil 헤어케어"
+description: "아르간 오일의 힘으로 모발에 깊은 영양과 윤기를 선사하는 Moroccanoil 제품군."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

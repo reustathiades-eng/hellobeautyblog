@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Cabello Rizado"
+description: "Productos especializados para definir y cuidar rizos y cabello texturizado naturalmente."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

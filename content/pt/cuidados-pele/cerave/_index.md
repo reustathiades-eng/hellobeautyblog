@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe"
+description: "Produtos CeraVe com ceramidas para hidratação e reparação da pele. Cuidados dermatológicos eficazes."
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "कंटूर मेकअप"
+description: "फेस शेपिंग के लिए बेहतरीन कंटूर प्रोडक्ट्स। प्रोफेशनल लुक पाएं।"
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

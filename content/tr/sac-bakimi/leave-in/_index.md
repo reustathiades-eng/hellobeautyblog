@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Durulanmayan Saç Bakım"
+description: "Durulanmayan saç bakım ürünleri. Gün boyu koruma ve beslenme için ideal çözümler."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "维C精华"
+description: "维生素C护肤品，抗氧化美白，改善肌肤暗沉"
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

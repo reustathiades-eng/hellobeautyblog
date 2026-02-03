@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Nawilżanie"
+description: "Intensywnie nawilżające kosmetyki do twarzy. Kremy, serum i maski przywracające optymalny poziom wilgoci."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

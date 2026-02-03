@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "MOROCCANOIL"
+description: "アルガンオイル配合のMOROCCANOILで、潤いとツヤのある美しい髪へ"
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

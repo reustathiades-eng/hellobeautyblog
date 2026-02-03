@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Regeneracja Włosów"
+description: "Napraw uszkodzone włosy dzięki intensywnej kuracji regenerującej. Przywróć zdrowy blask."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

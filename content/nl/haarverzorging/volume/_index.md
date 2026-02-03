@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volume Haarverzorging"
+description: "Geef je haar meer volume en body met professionele volumeproducten voor voller, dikker uitziend haar."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

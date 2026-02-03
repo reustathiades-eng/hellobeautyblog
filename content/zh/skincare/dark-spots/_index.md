@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "淡斑美白产品"
+description: "专业淡斑美白护肤品，减少色素沉淀，均匀肤色，重现净透无瑕肌肤"
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

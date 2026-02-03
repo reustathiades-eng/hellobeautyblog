@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "护发精华"
+description: "高效护发精华液，深层滋养修护，改善发质问题，让秀发焕发健康光彩。"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

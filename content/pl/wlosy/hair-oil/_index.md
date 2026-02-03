@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Olejki do Włosów"
+description: "Odżywcze olejki do pielęgnacji włosów. Nadają blask, nawilżają i wzmacniają kosmyki."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

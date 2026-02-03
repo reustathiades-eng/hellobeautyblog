@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "Anticernes"
+description: "Masquez imperfections et cernes avec nos anticernes haute couvrance pour un teint parfait et naturel."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

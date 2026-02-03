@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Soins capillaires Gisou au miel de Mirsalehi pour des cheveux nourris et éclatants de beauté."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

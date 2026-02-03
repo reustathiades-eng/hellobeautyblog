@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "Correttore"
+description: "Correttori per coprire imperfezioni e occhiaie. Trova la formula perfetta per un incarnato uniforme."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

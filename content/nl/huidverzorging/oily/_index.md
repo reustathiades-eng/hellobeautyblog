@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Vette Huid"
+description: "Huidverzorging speciaal voor de vette huid. Vermindert glans en verfijnt poriën effectief."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

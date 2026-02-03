@@ -1,6 +1,6 @@
 ---
 title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+description: "Bewährte Hautpflege von Olay für alle Hautbedürfnisse. Wissenschaftlich entwickelte Formeln."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

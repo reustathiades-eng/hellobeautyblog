@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Haarmasken"
+description: "Intensive Haarmasken für Tiefenpflege und Reparatur - für alle Haartypen"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

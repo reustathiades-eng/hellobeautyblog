@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "오일"
+description: "깊은 보습과 영양 공급으로 건강한 피부 광택을 선사하는 페이스 오일 제품들."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

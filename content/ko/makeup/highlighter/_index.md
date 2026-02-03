@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "하이라이터"
+description: "얼굴에 자연스러운 광채와 입체감을 연출하는 하이라이터로 빛나는 피부를 만들어보세요."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

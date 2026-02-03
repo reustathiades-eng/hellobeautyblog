@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Dik Haar Verzorging"
+description: "Speciale haarverzorging voor dik haar. Ontdek producten die volume controleren en je haar soepel maken."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

@@ -1,6 +1,6 @@
 ---
 title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+description: "Soins aux peptides pour stimuler le renouvellement cellulaire et raffermir la peau."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Normale Huid"
+description: "Huidverzorging speciaal voor de normale huid om de natuurlijke balans te behouden."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

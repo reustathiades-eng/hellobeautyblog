@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "منتجات الشعر المصبوغ"
+description: "عناية متخصصة للشعر المصبوغ للحفاظ على اللون ونعومة الشعر"
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

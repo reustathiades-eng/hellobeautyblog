@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Trockenshampoo"
+description: "Praktische Trockenshampoos für frisches Haar ohne Waschen. Perfekt für unterwegs und schnelles Styling."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

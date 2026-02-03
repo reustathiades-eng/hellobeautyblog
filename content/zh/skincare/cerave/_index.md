@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe护肤产品"
+description: "CeraVe专业护肤系列，温和修护肌肤屏障，适合敏感肌肤日常护理"
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

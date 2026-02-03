@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volumen"
+description: "Productos para dar volumen al cabello. Consigue un cabello con más cuerpo y movimiento natural."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

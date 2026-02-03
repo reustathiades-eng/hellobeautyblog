@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Maski do Twarzy"
+description: "Intensywna pielęgnacja maskami do twarzy. Nawilżające, oczyszczające i regenerujące."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

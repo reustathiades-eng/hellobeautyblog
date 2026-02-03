@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "リップメイク"
+description: "魅力的な唇を演出するリップアイテム。口紅、グロス、ティントで理想の唇色を見つけよう。"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

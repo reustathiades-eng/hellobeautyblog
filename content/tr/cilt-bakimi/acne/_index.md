@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Akne Bakımı"
+description: "Akne ve sivilce sorunlarına etkili çözüm sunan temizleyici ve düzenleyici ürünler."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

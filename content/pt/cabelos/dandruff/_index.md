@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Anticaspa"
+description: "Tratamentos anticaspa eficazes para eliminar a descamação e manter o couro cabeludo saudável."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

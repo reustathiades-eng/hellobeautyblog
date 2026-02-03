@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "कलर प्रोटेक्शन हेयरकेयर"
+description: "रंगे हुए बालों के लिए कलर सेफ हेयरकेयर प्रोडक्ट्स - रंग को लंबे समय तक बनाए रखें।"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Salisilik Asit"
+description: "Salisilik asit içeren ürünlerle akne ve siyah noktalara karşı etkili mücadele edin, gözenekleri temizleyin."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

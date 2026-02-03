@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Ogen Make-up"
+description: "Complete collectie oogmake-up: mascara, eyeliner, oogschaduw en meer voor prachtige ogen."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

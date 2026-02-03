@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "ナイアシンアミド配合"
+description: "毛穴とキメを整えるナイアシンアミド配合の高機能スキンケア。"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

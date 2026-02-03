@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Allık"
+description: "Yanaklarınıza doğal bir renk ve parlaklık kazandıran allık ürünleri."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

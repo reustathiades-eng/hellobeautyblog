@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "面部彩妆"
+description: "粉底、遮瑕、腮红等面部彩妆，打造无瑕底妆"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

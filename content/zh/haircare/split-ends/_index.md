@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "分叉护理"
+description: "专业修复分叉受损发梢护理产品，重塑健康发质，告别毛躁分叉"
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

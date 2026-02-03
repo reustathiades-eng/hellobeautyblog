@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Dekkende Foundation"
+description: "Perfecte dekking voor een vlekkeloze teint met full coverage foundations en concealer."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Yüz Makyajı"
+description: "Fondöten, kapatıcı ve pudra ile mükemmel bir ten görünümü elde edin."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

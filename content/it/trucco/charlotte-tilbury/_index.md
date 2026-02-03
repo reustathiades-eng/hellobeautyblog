@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+description: "Makeup di lusso Charlotte Tilbury: palette ombretti, rossetti e illuminanti per look da red carpet."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "Niacinamid Hautpflege"
+description: "Niacinamid Produkte für verfeinerte Poren, weniger Unreinheiten und ebenmäßige Haut."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Hoofdhuidbehandeling"
+description: "Verzorg je hoofdhuid optimaal met behandelingen tegen roos, jeuk en andere hoofdhuidproblemen."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

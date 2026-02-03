@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Objętość Włosów"
+description: "Dodaj spektakularnej objętości płaskim włosom. Lekkie formuły dla pełnego efektu."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

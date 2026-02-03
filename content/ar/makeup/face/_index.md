@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "مكياج الوجه"
+description: "منتجات مكياج الوجه المثالية للحصول على بشرة مشرقة وناعمة"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

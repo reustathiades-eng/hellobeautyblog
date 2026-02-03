@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Trądzik"
+description: "Skuteczne kosmetyki przeciwtrądzikowe. Oczyść skórę i zapobiegaj powstawaniu wyprysków."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

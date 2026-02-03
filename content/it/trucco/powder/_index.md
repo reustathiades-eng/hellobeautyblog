@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Cipria e Polveri"
+description: "Ciprie compatte e libere per fissare il trucco e ottenere un finish perfetto e duraturo."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

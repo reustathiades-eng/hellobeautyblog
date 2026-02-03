@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "फेस पाउडर"
+description: "मैट फिनिश और लॉन्ग लास्टिंग कवरेज के लिए बेस्ट फेस पाउडर।"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

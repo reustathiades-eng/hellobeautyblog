@@ -1,6 +1,6 @@
 ---
 title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+description: "مستحضرات تجميل Too Faced الفاخرة بألوان جريئة وتركيبات مبتكرة"
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

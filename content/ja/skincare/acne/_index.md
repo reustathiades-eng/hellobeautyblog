@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "ニキビ・毛穴ケア"
+description: "ニキビや毛穴トラブルを改善する薬用・医薬部外品スキンケア。"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

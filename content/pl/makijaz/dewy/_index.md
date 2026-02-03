@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Makijaż dewy - efekt świeżości"
+description: "Naturalny blask i efekt rosy na skórze. Kosmetyki do makijażu dewy dla świeżego wyglądu."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

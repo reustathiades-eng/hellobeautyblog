@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Rossori e Irritazioni"
+description: "Creme e sieri lenitivi per pelli sensibili con rossori. Calma irritazioni e arrossamenti."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

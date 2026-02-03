@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "Hyaluronzuur"
+description: "Hyaluronzuur producten voor intense hydratatie en een volle, jeugdige huid."
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

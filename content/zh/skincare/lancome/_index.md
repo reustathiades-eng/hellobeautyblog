@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "兰蔻护肤产品"
+description: "兰蔻奢华护肤系列，法式美妆经典品牌，打造年轻紧致肌肤"
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

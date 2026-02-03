@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "بخاخات الوجه المرطبة"
+description: "بخاخات منعشة ومرطبة للوجه لإنعاش البشرة وتثبيت المكياج"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

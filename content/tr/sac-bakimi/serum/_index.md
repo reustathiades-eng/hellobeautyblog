@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Saç Serumu"
+description: "Saçlarınızı besleyen ve güçlendiren etkili saç serumları ile sağlıklı saçlara kavuşun."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

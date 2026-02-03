@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "美容液"
+description: "集中ケアで肌悩みにアプローチする美容液。ハリ・ツヤ・透明感のある肌へ導きます。"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda Haarverzorging"
+description: "Luxe Aveda haarverzorging met natuurlijke ingrediënten. Professionele kwaliteit voor gezond en mooi haar."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

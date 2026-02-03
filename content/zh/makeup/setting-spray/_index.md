@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "定妆喷雾"
+description: "持久定妆喷雾，锁住精致妆容，防止脱妆，让美丽持续一整天。"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

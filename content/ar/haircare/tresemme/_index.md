@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé للعناية بالشعر"
+description: "منتجات TRESemmé الاحترافية للحصول على شعر صالون في المنزل"
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

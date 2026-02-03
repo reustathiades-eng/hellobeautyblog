@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique स्किनकेयर प्रोडक्ट्स"
+description: "Clinique के प्रीमियम स्किनकेयर कलेक्शन से पाएं निखरी और स्वस्थ त्वचा।"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

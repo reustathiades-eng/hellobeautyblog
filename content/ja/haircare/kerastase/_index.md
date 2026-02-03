@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "KÉRASTASE（ケラスターゼ）"
+description: "フランス発プロフェッショナルヘアケアブランドKÉRASTASE。サロン品質のヘアケア製品。"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

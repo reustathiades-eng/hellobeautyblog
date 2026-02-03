@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II"
+description: "SK-II'nin lüks cilt bakım koleksiyonu ile Japon güzellik sırlarını keşfedin ve gençleşin."
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

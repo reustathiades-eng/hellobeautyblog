@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "حمض الهيالورونيك"
+description: "منتجات حمض الهيالورونيك للترطيب المكثف ومحاربة علامات التقدم في السن بفعالية عالية"
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

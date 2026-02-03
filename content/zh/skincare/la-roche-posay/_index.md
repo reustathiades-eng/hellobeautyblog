@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay理肤泉"
+description: "La Roche-Posay理肤泉药妆护肤，温和修护，专业解决肌肤问题"
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

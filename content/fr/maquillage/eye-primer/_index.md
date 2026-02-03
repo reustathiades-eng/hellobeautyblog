@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Base Paupières"
+description: "Bases pour paupières longue tenue : fixez vos fards et intensifiez vos couleurs pour un maquillage impeccable."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

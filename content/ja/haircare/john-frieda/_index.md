@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda（ジョン・フリーダ）"
+description: "ロンドン発のヘアケアブランドJohn Frieda。髪質別に特化したプロフェッショナルケア。"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

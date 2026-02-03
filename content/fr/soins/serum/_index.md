@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Sérums Visage"
+description: "Sérums concentrés anti-âge, hydratants et éclaircissants pour une peau visiblement transformée."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

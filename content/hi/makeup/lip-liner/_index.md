@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "लिप लाइनर"
+description: "होंठों को परफेक्ट शेप और लॉन्ग लास्टिंग कलर देने वाले लिप लाइनर।"
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

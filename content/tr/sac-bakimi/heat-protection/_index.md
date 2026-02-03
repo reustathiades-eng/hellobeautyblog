@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Isı Koruyucu Saç Ürünleri"
+description: "Fön ve düzleştirici öncesi saç koruma spreyleri. Isı hasarına karşı etkili koruma ve bakım."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

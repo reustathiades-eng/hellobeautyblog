@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Sobrancelhas"
+description: "Produtos para sobrancelhas perfeitas: lápis, gel, pomada e kits completos para definir e preencher."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

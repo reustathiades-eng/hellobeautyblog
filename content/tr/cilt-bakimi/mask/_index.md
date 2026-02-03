@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Yüz Maskesi"
+description: "Cildinizi derinlemesine temizleyen ve besleyen yüz maskeleri ile spa deneyimini evinize taşıyın."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II"
+description: "Luxuriöse SK-II Hautpflege für strahlende und jugendliche Haut mit Pitera."
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

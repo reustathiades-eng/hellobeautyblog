@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Kosmetyki matujące"
+description: "Matowe wykończenie bez połysku - idealne dla trwałego i eleganckiego makijażu."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

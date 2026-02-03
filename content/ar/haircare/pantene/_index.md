@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "منتجات Pantene للشعر"
+description: "مجموعة Pantene الشاملة لجميع أنواع الشعر والعناية المتخصصة"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

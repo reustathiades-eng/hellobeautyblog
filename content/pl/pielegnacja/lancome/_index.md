@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancome - Luksusowa Pielęgnacja Skóry"
+description: "Ekskluzywne kosmetyki Lancome. Zaawansowana pielęgnacja przeciwstarzeniowa i regenerująca."
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

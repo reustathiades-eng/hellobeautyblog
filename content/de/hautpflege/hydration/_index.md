@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Feuchtigkeitspflege"
+description: "Intensive Feuchtigkeitspflege für alle Hauttypen. Für ein frisches und hydratisiertes Hautgefühl!"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Toniques et Lotions"
+description: "Équilibrez et préparez votre peau avec nos toniques purifiants et hydratants pour tous types."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

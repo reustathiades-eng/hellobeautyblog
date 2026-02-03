@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Limpeza Facial"
+description: "Sabonetes, géis e espumas para limpeza profunda e suave do rosto, todos os tipos de pele."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

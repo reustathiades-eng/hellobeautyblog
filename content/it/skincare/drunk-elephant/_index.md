@@ -1,6 +1,6 @@
 ---
 title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+description: "Prodotti skincare Drunk Elephant: formule innovative con ingredienti attivi per una pelle sana e luminosa."
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

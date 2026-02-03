@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "झुर्रियां और फाइन लाइन्स"
+description: "झुर्रियों को कम करने और एंटी-एजिंग के लिए असरदार क्रीम और सीरम।"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

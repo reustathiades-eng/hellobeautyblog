@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "सेटिंग स्प्रे"
+description: "मेकअप को लंबे समय तक बनाए रखने के लिए प्रभावी सेटिंग स्प्रे"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

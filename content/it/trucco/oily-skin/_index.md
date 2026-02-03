@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Makeup Pelle Grassa"
+description: "Prodotti makeup specifici per pelle grassa: fondotinta opacizzanti e formule oil-free a lunga durata."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

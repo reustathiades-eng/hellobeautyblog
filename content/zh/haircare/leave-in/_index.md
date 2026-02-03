@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "免洗护发"
+description: "免洗护发素和护发精华，持续滋养秀发，方便易用，随时护理"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

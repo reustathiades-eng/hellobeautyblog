@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene Cabelos"
+description: "Linha completa Pantene para todos os tipos de cabelo com fórmulas nutritivas avançadas."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "ヘアマスク・集中トリートメント"
+description: "週1-2回の特別ケア。ダメージヘアを深部から修復する集中ヘアマスク。"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

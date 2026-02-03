@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "लीव इन कंडीशनर"
+description: "बिना धोए लगाने वाले कंडीशनर। बालों को पूरे दिन मुलायम और स्वस्थ रखें।"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

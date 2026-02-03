@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "保湿面霜"
+description: "深层滋润保湿面霜，长效锁水补水，打造水润透亮肌肤"
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

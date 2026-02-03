@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Couvrance Moyenne"
+description: "Fonds de teint à couvrance moyenne pour un teint naturel qui masque les imperfections légères."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

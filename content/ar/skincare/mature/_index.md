@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "العناية بالبشرة الناضجة"
+description: "منتجات متخصصة للبشرة الناضجة لمحاربة التجاعيد واستعادة النضارة"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

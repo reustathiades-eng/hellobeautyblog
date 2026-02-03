@@ -1,6 +1,6 @@
 ---
 title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+description: "Clean-Beauty Hautpflege von Drunk Elephant mit biokompatiblen Inhaltsstoffen für gesunde Haut."
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

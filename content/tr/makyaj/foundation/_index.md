@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "Fondöten ve Kapatıcı"
+description: "Her cilt tonuna uygun fondöten ve kapatıcılar ile kusursuz ve doğal bir ten görünümü."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

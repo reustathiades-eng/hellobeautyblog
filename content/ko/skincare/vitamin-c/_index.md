@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "비타민C 세럼"
+description: "강력한 항산화 효과의 비타민C로 피부 톤 개선과 탄력 케어를 동시에 경험해보세요"
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

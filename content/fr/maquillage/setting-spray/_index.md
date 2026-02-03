@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "Spray Fixateur"
+description: "Fixez votre maquillage toute la journée avec nos sprays fixateurs longue tenue et effet fraîcheur."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

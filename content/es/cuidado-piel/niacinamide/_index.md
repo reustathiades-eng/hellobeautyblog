@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "Niacinamida"
+description: "Productos con niacinamida para minimizar poros, controlar grasa y mejorar textura de la piel."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

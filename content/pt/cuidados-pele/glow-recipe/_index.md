@@ -1,6 +1,6 @@
 ---
 title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+description: "Produtos Glow Recipe com ingredientes naturais para uma pele radiante e saudável."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

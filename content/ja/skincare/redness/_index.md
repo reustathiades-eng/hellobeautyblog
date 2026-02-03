@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "赤み・敏感肌ケア"
+description: "肌の赤みや炎症を鎮静。敏感肌にも優しい低刺激スキンケア商品"
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

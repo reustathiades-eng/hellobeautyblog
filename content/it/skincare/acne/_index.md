@@ -1,6 +1,6 @@
 ---
 title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+description: "Trattamenti anti-acne efficaci per pelle impura: gel, creme e sieri mirati"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

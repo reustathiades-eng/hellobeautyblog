@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Normale Haut"
+description: "Ausgewogene Hautpflege für normale Haut - sanft pflegend und ausgleichend."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

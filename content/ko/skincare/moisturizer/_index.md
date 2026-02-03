@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "보습 크림"
+description: "건조한 피부에 깊은 수분을 공급하는 다양한 보습 크림과 로션을 만나보세요"
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

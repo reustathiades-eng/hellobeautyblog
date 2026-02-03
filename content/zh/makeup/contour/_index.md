@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "修容产品"
+description: "立体修容彩妆，塑造完美脸部轮廓，提升面部层次感"
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

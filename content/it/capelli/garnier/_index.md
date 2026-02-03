@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier Capelli"
+description: "Prodotti Garnier per capelli: shampoo, balsami e trattamenti naturali per ogni tipo di chioma."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

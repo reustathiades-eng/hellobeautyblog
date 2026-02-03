@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "抗皱紧致"
+description: "淡化细纹皱纹，提升肌肤弹性，重塑年轻轮廓"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

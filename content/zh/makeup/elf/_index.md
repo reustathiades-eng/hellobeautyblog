@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "ELF彩妆"
+description: "ELF品牌彩妆产品，平价高质量选择，丰富色彩打造个性时尚妆容"
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

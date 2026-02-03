@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Rozjaśniające"
+description: "Kosmetyki rozjaśniające do walki z przebarwieniami. Przywróć skórze naturalny blask."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

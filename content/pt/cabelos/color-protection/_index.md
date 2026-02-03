@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Proteção da Cor"
+description: "Produtos para cabelos coloridos que protegem e prolongam a cor. Cuidados específicos pós-química."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

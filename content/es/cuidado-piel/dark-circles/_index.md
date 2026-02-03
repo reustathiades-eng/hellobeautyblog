@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "Ojeras y Bolsas"
+description: "Tratamientos específicos para reducir ojeras y bolsas, devuelve luminosidad a tu mirada."
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

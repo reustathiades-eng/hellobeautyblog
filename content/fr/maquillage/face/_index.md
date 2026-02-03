@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Maquillage du Teint"
+description: "Fonds de teint, correcteurs, poudres : créez un teint parfait avec notre sélection makeup visage premium."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

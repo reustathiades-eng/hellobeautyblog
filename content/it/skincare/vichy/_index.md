@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy Skincare"
+description: "Prodotti dermatologici Vichy con Acqua Termale per pelli sensibili e reattive."
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

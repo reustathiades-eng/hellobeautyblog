@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Gesichtsreinigung"
+description: "Sanfte und gründliche Gesichtsreiniger für alle Hauttypen und Bedürfnisse."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

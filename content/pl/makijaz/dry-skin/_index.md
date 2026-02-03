@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Cera Sucha"
+description: "Kosmetyki do makijażu dla skóry suchej. Nawilżające formuły zapewniające komfort i długotrwały efekt."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

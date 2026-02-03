@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "फुल कवरेज मेकअप"
+description: "पूर्ण कवरेज वाले बेस्ट मेकअप प्रोडक्ट्स। परफेक्ट बेस के लिए।"
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

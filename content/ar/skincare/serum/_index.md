@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "سيروم العناية بالبشرة"
+description: "أفضل أنواع السيروم المركز لترطيب وتجديد البشرة بعمق"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

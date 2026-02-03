@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "علاج البقع"
+description: "علاجات موضعية مركزة لإزالة البقع والعيوب والحبوب بسرعة وفعالية دون إضرار بالبشرة"
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

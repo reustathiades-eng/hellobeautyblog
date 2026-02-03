@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Lipgloss - Lippen Make-up"
+description: "Glanzende lipgloss voor volle lippen. Ontdek onze collectie met verschillende kleuren en formules."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

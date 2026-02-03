@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "Base de Maquillage"
+description: "Préparez votre peau avec nos bases de maquillage pour une tenue longue durée et un fini parfait."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

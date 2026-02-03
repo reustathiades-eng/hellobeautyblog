@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Krullend Haar Verzorging"
+description: "Speciaal ontwikkelde producten voor krullend haar om krullen te definiëren en pluizig haar te voorkomen."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

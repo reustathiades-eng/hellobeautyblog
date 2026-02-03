@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Normal Cilt"
+description: "Normal cilt tipine özel formüle edilmiş bakım ürünleri ile cildinizin doğal dengesini koruyun."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

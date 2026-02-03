@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Pickelstift"
+description: "Gezielte SOS-Behandlung gegen Unreinheiten und Pickel für schnelle Hilfe."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

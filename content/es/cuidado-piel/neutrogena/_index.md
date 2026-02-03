@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena - Dermatología Avanzada"
+description: "Productos Neutrogena recomendados por dermatólogos para el cuidado diario de la piel."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

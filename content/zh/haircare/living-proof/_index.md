@@ -1,6 +1,6 @@
 ---
-title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+title: "Living Proof美发"
+description: "美国科技护发品牌，创新配方解决各种发质困扰，重现健康秀发"
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

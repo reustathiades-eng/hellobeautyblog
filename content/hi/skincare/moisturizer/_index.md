@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "मॉइस्चराइज़र"
+description: "त्वचा को नमी प्रदान करने वाले सर्वोत्तम मॉइस्चराइज़र का संग्रह।"
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

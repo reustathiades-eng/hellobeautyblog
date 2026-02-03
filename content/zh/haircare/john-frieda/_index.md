@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda护发"
+description: "英国专业护发品牌，针对不同发色发质，提供个性化护发方案"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

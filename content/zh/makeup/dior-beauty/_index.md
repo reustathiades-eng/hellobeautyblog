@@ -1,6 +1,6 @@
 ---
-title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+title: "Dior美妆"
+description: "Dior奢华美妆系列，传承法式优雅，打造精致妆容，展现女性独特魅力。"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

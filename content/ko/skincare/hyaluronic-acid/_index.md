@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "히알루론산"
+description: "강력한 보습 효과의 히알루론산 제품으로 촉촉하고 탱탱한 피부 만들기"
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

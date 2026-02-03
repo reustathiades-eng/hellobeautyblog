@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Péptidos para la Piel"
+description: "Productos con péptidos que estimulan el colágeno y reducen arrugas para una piel más firme y joven."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

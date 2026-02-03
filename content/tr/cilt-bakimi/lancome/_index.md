@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancome Cilt Bakım"
+description: "Lancome'un lüks cilt bakım koleksiyonuyla cildinize profesyonel bakım deneyimi yaşatın."
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

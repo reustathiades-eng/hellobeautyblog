@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "Włosy Proste"
+description: "Pielęgnacja włosów prostych. Produkty nadające objętość i blask prostym włosom."
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

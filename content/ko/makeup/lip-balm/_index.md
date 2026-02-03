@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "립밤"
+description: "건조한 입술에 촉촉함과 영양을 선사하는 다양한 립밤으로 부드러운 입술을 만들어보세요."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

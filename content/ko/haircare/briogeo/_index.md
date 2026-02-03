@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "브리오지오 헤어케어"
+description: "천연 성분 헤어케어 브랜드 브리오지오로 깨끗하고 건강한 모발 관리"
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

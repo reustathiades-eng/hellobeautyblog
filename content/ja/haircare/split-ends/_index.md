@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "枝毛ケア"
+description: "傷んだ毛先を集中補修。枝毛や切れ毛を防ぐトリートメントとヘアケア製品"
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

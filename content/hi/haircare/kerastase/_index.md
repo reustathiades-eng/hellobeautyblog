@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kerastase हेयर केयर"
+description: "Kerastase के प्रीमियम हेयर केयर उत्पादों का विशेष संग्रह।"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

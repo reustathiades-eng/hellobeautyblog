@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "الترطيب المكثف"
+description: "منتجات ترطيب عميقة لبشرة ناعمة ومشرقة طوال اليوم"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

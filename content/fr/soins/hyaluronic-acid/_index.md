@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "Acide Hyaluronique"
+description: "Repulpez votre peau avec nos sérums et crèmes à l'acide hyaluronique pour une hydratation intense."
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

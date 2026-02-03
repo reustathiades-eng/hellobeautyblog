@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Ujędrnienie Skóry"
+description: "Kosmetyki ujędrniające przeciw oznakom starzenia. Przywróć elastyczność skórze."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

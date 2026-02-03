@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Fard à Paupières"
+description: "Créez des looks uniques avec nos fards à paupières : palettes, couleurs et finitions variées."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

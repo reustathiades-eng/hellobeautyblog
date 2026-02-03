@@ -1,6 +1,6 @@
 ---
 title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+description: "Retinol-Produkte für Anti-Aging und Hauterneuerung. Verbessert Hauttextur und Elastizität."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

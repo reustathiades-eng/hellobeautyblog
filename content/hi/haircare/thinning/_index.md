@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "पतले बालों के लिए हेयरकेयर"
+description: "पतले और कमजोर बालों को मजबूत बनाने वाले विशेष हेयरकेयर प्रोडक्ट्स।"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

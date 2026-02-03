@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Aceites Faciales Nutritivos"
+description: "Aceites faciales naturales para nutrir, hidratar y dar luminosidad a todo tipo de piel."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

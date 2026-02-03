@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "घने बाल"
+description: "घने और मोटे बालों की विशेष देखभाल के लिए बेस्ट प्रोडक्ट्स।"
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

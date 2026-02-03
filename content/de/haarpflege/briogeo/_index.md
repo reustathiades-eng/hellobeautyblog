@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "Briogeo Haarpflege"
+description: "Natürliche Haarpflege von Briogeo mit pflanzlichen Inhaltsstoffen für alle Haartypen."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

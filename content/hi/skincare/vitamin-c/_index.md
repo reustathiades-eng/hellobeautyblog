@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "विटामिन सी सीरम"
+description: "विटामिन सी युक्त स्किनकेयर प्रोडक्ट्स से पाएं स्वस्थ और चमकती त्वचा।"
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

@@ -1,6 +1,6 @@
 ---
-title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+title: "The Ordinary 디오디너리"
+description: "합리적인 가격의 고효능 스킨케어 브랜드 The Ordinary 제품으로 건강한 피부 관리"
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Tam Kapatıcılık"
+description: "Yüksek kapatıcılık sunan makyaj ürünleri. Kusursuz ve homojen cilt görünümü."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

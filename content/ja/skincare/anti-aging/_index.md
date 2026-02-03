@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "エイジングケア・アンチエイジング"
+description: "シワ・たるみ・くすみに効く本格的なエイジングケア化粧品で、若々しい美肌を手に入れましょう。"
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

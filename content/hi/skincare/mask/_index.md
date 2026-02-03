@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "फेस मास्क और पैक"
+description: "बेहतरीन फेशियल मास्क और पैक। घर पर स्पा जैसा अनुभव और ग्लोइंग स्किन पाएं।"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

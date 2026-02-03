@@ -1,6 +1,6 @@
 ---
 title: "Fenty Beauty"
-description: "Discover the best fenty beauty products. Expert reviews and guides."
+description: "Maquillaje inclusivo Fenty Beauty by Rihanna. Productos innovadores para todos los tonos de piel."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"

@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy 더마케어"
+description: "비시 온천수 성분의 프리미엄 더마 코스메틱"
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

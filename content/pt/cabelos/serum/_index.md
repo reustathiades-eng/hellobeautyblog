@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Sérum Capilar"
+description: "Sérums nutritivos para hidratar, reparar e dar brilho aos seus cabelos."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

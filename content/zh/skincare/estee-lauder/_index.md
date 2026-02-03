@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estée Lauder雅诗兰黛"
+description: "Estée Lauder雅诗兰黛奢华护肤品，抗衰老美白，高端美容护理"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

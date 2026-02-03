@@ -1,6 +1,6 @@
 ---
-title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+title: "바비 브라운"
+description: "프로페셔널 메이크업 브랜드 바비 브라운의 프리미엄 제품들"
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

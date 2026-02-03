@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Na Przebarwienia"
+description: "Produkty rozjaśniające przebarwienia, plamy słoneczne i wyrównujące koloryt skóry."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

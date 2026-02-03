@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Lockiges Haar"
+description: "Spezielle Pflege für lockiges und krauses Haar. Definiert Locken und spendet intensive Feuchtigkeit."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

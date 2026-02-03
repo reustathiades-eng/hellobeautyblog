@@ -1,6 +1,6 @@
 ---
 title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+description: "Masques révolutionnaires K18 pour réparer en profondeur les cheveux abîmés."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

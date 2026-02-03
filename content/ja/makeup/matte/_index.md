@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "マット"
+description: "上品な仕上がりのマットコスメ。テカリを抑えて長時間美しい発色をキープ。"
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

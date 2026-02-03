@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "العناية بالبشرة الجافة"
+description: "منتجات مرطبة ومغذية للبشرة الجافة لاستعادة النعومة والإشراق الطبيعي"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

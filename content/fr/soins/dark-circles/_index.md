@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "Cernes et Poches"
+description: "Soins contour des yeux anti-cernes et anti-poches pour un regard reposé."
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

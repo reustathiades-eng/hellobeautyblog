@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Brumes Visage"
+description: "Brumes hydratantes et rafraîchissantes pour hydrater et fixer le maquillage."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

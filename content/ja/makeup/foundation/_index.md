@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "ファンデーション・ベースメイク"
+description: "美肌を叶えるファンデーション各種。カバー力と自然な仕上がりで理想の肌質を演出します。"
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

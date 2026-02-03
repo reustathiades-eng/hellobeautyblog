@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Acné y Granos"
+description: "Tratamientos anti-acné y productos para piel grasa, elimina imperfecciones y previene brotes."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

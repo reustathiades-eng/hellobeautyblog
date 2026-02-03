@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Creme para os Olhos"
+description: "Cremes anti-idade para o contorno dos olhos. Reduz rugas, olheiras e bolsas eficazmente."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

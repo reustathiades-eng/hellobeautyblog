@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Masques Visage"
+description: "Offrez-vous un moment cocooning avec nos masques visage hydratants, purifiants et anti-âge."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

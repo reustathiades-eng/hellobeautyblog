@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Trucco Occhi"
+description: "Ombretti, eyeliner, mascara e matite per uno sguardo magnetico. Tutto per il makeup occhi perfetto."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

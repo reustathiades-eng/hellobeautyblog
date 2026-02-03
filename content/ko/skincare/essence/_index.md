@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "에센스"
+description: "피부 깊숙이 영양을 전달하는 고농축 에센스로 건강한 피부를 만들어보세요."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "Base de Maquillaje"
+description: "Encuentra la base perfecta para tu tono de piel con cobertura natural y acabado impecable."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

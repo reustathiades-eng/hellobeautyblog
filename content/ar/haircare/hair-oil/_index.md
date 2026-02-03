@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "زيوت الشعر الطبيعية"
+description: "زيوت مغذية ومرطبة لتقوية وحماية الشعر وإضافة نعومة فائقة"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

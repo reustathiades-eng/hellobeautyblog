@@ -1,6 +1,6 @@
 ---
 title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+description: "Vichy huidverzorging met thermaal bronwater. Dermatologisch geteste producten voor alle huidtypes."
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

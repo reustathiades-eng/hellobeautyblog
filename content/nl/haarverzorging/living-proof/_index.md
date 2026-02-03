@@ -1,6 +1,6 @@
 ---
-title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+title: "Living Proof Haarverzorging"
+description: "Innovatieve Living Proof haarverzorging met wetenschappelijk bewezen resultaten."
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

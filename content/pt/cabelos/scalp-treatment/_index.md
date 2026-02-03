@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Tratamento do Couro Cabeludo"
+description: "Produtos especializados para cuidar e tratar problemas do couro cabeludo com eficácia."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

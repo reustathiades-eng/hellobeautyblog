@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Maquillaje Mate"
+description: "Bases, labiales y polvos con acabado mate. Control de brillo para un look natural y duradero."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

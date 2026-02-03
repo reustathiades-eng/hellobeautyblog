@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Trucco Viso"
+description: "Fondotinta, correttori, blush e illuminanti per un viso impeccabile. Makeup viso per ogni carnagione."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

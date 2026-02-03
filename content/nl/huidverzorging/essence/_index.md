@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Essence - Gezichtsverzorging"
+description: "Ontdek hydraterende essences voor een stralende en gezonde huid. Shop de beste Korean skincare essences."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "شيمر"
+description: "أضيفي لمعة ساحرة لإطلالتك مع مستحضرات الشيمر البراقة"
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

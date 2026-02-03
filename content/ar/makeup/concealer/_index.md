@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "كونسيلر"
+description: "اخفي العيوب والهالات السوداء مع أفضل منتجات الكونسيلر عالية التغطية"
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

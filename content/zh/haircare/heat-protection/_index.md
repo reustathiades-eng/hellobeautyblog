@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "防热护发"
+description: "专业防热护发产品，保护秀发免受高温造型工具伤害，让头发健康有光泽"
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

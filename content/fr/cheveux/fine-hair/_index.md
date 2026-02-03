@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "Cheveux Fins"
+description: "Soins volumateurs spécialement formulés pour donner du corps aux cheveux fins."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

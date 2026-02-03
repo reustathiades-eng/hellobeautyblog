@@ -1,6 +1,6 @@
 ---
-title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+title: "Gisou हेयरकेयर"
+description: "लक्जरी Gisou ब्रांड के प्रीमियम हेयर केयर प्रोडक्ट्स"
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

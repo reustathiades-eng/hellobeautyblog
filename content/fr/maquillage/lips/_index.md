@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Maquillage des Lèvres"
+description: "Rouges à lèvres, gloss, baumes : sublimez vos lèvres avec notre gamme complète de produits makeup lèvres."
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "علاج البقع الداكنة"
+description: "منتجات فعالة لتفتيح البقع الداكنة وتوحيد لون البشرة وإشراقها"
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

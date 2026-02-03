@@ -1,6 +1,6 @@
 ---
 title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+description: "L'eleganza del makeup Chanel: fondotinta, rossetti e profumi di lusso senza tempo."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

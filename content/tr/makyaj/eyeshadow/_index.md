@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Göz Farı"
+description: "Renkli ve uzun süre kalıcı göz farları ile etkileyici bakışlar."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

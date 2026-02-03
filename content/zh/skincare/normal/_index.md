@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "中性肌肤护理"
+description: "适合中性肌肤的护肤品,温和配方,维持肌肤水油平衡,保持健康状态"
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

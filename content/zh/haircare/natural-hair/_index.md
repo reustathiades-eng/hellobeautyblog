@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "天然发质护理"
+description: "天然成分护发产品，温和呵护原生发质，保持头发健康光泽"
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Gommages et Exfoliants"
+description: "Gommages visage et corps pour éliminer les impuretés et révéler une peau douce et éclatante."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

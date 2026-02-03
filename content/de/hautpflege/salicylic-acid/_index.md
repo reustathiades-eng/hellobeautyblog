@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Salicylsäure"
+description: "Entdecken Sie wirksame Salicylsäure-Produkte für reine Haut und verfeinerte Poren."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

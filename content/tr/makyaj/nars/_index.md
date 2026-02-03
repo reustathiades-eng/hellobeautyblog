@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS Makyaj Ürünleri"
+description: "NARS'ın profesyonel kalitedeki renkli makyaj ürünleriyle stilinizi tamamlayın."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

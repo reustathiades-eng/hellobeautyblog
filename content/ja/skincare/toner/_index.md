@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "化粧水・トナー"
+description: "うるおいを与える化粧水。肌タイプ別に選べる豊富なラインナップ"
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

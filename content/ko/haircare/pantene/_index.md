@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene 헤어케어"
+description: "건강하고 윤기나는 모발을 위한 Pantene 헤어케어 제품 라인업을 만나보세요."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Glikolik Asit Ürünleri"
+description: "Cilt yüzeyini yenileyen ve pürüzsüzleştiren glikolik asit bakım ürünleri."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

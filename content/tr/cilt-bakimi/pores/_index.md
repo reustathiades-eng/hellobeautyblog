@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Gözenek Bakımı"
+description: "Gözenek sıkılaştırıcı ve temizleyici ürünlerle pürüzsüz, mat görünümlü cilt."
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

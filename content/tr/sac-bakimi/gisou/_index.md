@@ -1,6 +1,6 @@
 ---
-title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+title: "Gisou Bal Infüzlü Saç Bakımı"
+description: "Gisou'nun bal içerikli formülleri ile saçlarınıza doğal nem ve parlaklık katın."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

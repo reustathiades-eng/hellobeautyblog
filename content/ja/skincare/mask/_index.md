@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "フェイスマスク・パック"
+description: "集中ケアで美肌を手に入れる。シートマスクからクレイマスクまで豊富な種類"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

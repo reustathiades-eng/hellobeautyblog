@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Acondicionador"
+description: "Hidrata y suaviza tu cabello con nuestros acondicionadores nutritivos para todo tipo de pelo."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

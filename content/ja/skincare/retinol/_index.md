@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "レチノール配合化粧品"
+description: "シワ改善・毛穴ケアに効果的なレチノール配合の美容液・クリームで、なめらかな美肌へ。"
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

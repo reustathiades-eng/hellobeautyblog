@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Kıvırcık Saç Bakımı"
+description: "Kıvırcık ve bukle saçlar için özel formül bakım ürünleri. Tanımlanmış bukleler ve nem koruması."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

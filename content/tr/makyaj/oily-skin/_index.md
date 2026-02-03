@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Yağlı Cilt Makyajı"
+description: "Yağlı ciltler için özel formüllü makyaj ürünleri ile mat görünüm."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

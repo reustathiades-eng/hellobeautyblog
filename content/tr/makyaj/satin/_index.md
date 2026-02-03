@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Saten Mat Makyaj"
+description: "Saten finish makyaj ürünleri ile pürüzsüz ve kadifemsi bir görünüm elde edin."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

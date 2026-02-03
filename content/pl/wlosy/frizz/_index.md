@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Puszące się włosy"
+description: "Walka z puszeniem włosów. Wygładzanie i kontrola nad nieposłusznymi, kręcącymi się pasmami."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

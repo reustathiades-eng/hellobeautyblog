@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "꿀 성분으로 유명한 럭셔리 헤어케어 브랜드 Gisou로 윤기와 영양을 동시에 충전하세요."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

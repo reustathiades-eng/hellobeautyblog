@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "आंखों के काले घेरे"
+description: "आंखों के नीचे काले घेरों को कम करने के लिए प्रभावी समाधान और क्रीम।"
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

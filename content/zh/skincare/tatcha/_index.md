@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha护肤品"
+description: "Tatcha日式奢华护肤品牌，天然成分，温和有效，打造健康美肌"
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

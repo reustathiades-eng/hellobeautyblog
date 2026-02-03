@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Cera Tłusta"
+description: "Specjalne kosmetyki do cery tłustej - kontrola sebum, matowanie i długotrwały makijaż."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

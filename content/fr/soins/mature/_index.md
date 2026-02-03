@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Peau Mature"
+description: "Soins anti-âge ciblés pour peaux matures, fermeté et éclat retrouvés."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

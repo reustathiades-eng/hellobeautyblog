@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Serum do Włosów"
+description: "Intensywna pielęgnacja włosów. Odkryj najlepsze serum regenerujące i wzmacniające."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

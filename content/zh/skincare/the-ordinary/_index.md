@@ -1,6 +1,6 @@
 ---
-title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+title: "The Ordinary护肤品"
+description: "The Ordinary平价护肤精华,科学配方,有效成分高浓度,打造健康肌肤"
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

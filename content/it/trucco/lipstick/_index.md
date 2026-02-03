@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Rossetti"
+description: "Rossetti per ogni mood: matte, glossy, long-lasting e nude per labbra sempre perfette e colorate."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

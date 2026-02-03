@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "Shampoings"
+description: "Trouvez le shampoing parfait pour votre type de cheveux et révélez leur beauté naturelle."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy スキンケア"
+description: "Vichyの温泉水を配合したスキンケアで、肌を健やかに整えて美肌を目指しましょう。"
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

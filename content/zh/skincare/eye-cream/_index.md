@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "眼霜眼部护理"
+description: "专业眼霜产品，淡化细纹黑眼圈，紧致眼部肌肤，呵护娇嫩眼周"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

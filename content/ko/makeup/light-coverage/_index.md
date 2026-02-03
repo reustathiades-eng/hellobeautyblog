@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "라이트 커버리지"
+description: "자연스러운 피부 표현을 위한 가벼운 커버력의 베이스 메이크업"
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "乾燥肌ケア"
+description: "乾燥肌に最適なスキンケア製品で、しっとり潤いのある美肌を手に入れましょう。"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "एक्सफोलिएटर और स्क्रब"
+description: "चेहरे की गंदगी और मृत कोशिकाओं को हटाने वाले बेस्ट एक्सफोलिएटिंग प्रोडक्ट्स"
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

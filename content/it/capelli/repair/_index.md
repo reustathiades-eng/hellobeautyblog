@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Riparazione Capelli"
+description: "Prodotti riparatori per capelli danneggiati da colorazioni, stirature e trattamenti chimici."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "علاج الهالات السوداء"
+description: "منتجات فعالة لتقليل الهالات السوداء وانتفاخ العينين لإطلالة منتعشة"
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

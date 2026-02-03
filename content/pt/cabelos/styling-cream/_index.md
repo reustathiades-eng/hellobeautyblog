@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Cremes para Pentear"
+description: "Defina e modele seus cabelos com cremes para pentear que controlam o frizz e dão brilho."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

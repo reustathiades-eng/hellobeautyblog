@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "Corretivo"
+description: "Corretivos para disfarçar imperfeições e olheiras. Cobertura perfeita para um visual impecável."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

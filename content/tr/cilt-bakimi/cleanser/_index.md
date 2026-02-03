@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Temizleyici"
+description: "Cildi derinlemesine temizleyen ve tazelik veren yüz temizleme ürünleri."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

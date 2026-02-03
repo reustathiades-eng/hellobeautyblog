@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Leave-in para Cabelos"
+description: "Cremes e produtos sem enxágue para hidratação, proteção e definição dos fios."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

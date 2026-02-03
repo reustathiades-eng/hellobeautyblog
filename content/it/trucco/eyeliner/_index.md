@@ -1,6 +1,6 @@
 ---
 title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+description: "Eyeliner per ogni look: matita, liquido, gel e pennarello per occhi definiti e magnetici."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

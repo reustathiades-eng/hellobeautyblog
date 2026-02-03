@@ -1,6 +1,6 @@
 ---
 title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+description: "개성 넘치고 트렌디한 Urban Decay의 대담한 컬러와 혁신적인 메이크업 제품들."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

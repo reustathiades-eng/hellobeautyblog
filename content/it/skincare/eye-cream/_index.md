@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Crema Contorno Occhi"
+description: "Trattamenti specifici per occhiaie, rughe e borse. Sguardo luminoso e giovane ogni giorno."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

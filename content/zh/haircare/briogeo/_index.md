@@ -1,6 +1,6 @@
 ---
 title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+description: "Briogeo天然有机护发品牌，无硫酸盐配方，温和滋养各种发质"
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

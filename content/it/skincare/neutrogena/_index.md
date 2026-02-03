@@ -1,6 +1,6 @@
 ---
 title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+description: "Prodotti Neutrogena per la cura della pelle. Detergenti, idratanti e trattamenti dermatologici."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

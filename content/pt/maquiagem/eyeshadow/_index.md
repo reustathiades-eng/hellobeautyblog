@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Sombra para Olhos"
+description: "Sombras para olhos em diversas cores e texturas. Crie looks marcantes e destaque seu olhar."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Kıvırcık Saç Bakımı"
+description: "Kıvırcık saçlar için özel formüllü şekillendirici ve bakım ürünleri."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

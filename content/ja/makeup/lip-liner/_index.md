@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "リップライナー・リップペンシル"
+description: "唇の輪郭を美しく整えるリップライナー。長時間キープで理想の唇を演出するプロ仕様ペンシル。"
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

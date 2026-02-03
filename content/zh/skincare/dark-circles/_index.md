@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "黑眼圈护理"
+description: "专业眼部护理产品，有效淡化黑眼圈，重现明亮双眸"
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

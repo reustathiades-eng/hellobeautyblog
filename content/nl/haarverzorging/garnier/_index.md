@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier Haarverzorging"
+description: "Ontdek de complete Garnier haarverzorgingslijn met natuurlijke ingrediënten voor gezond haar."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

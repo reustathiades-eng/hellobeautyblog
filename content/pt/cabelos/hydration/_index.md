@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hidratação Capilar"
+description: "Máscaras e tratamentos hidratantes para cabelos ressecados. Recupere a maciez e o brilho natural."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Anti-Pelliculaire"
+description: "Éliminez les pellicules efficacement avec nos traitements spécialisés pour un cuir chevelu sain."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

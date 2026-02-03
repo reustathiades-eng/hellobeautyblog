@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Nagellack"
+description: "Trendige Nagellacke in allen Farben und Finishes. Langanhaltend und brillant für perfekte Nägel."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Essence Facial"
+description: "Essências hidratantes para preparar e revitalizar sua pele com ingredientes ativos concentrados."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

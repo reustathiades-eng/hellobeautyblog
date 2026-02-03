@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Kopfhautpflege"
+description: "Behandlungen für gesunde Kopfhaut - gegen Schuppen und Irritationen"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

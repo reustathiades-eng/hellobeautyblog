@@ -1,6 +1,6 @@
 ---
 title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+description: "منتجات مكياج Bobbi Brown الفاخرة للحصول على إطلالة عصرية وأنيقة"
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

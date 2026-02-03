@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "아이 메이크업"
+description: "아이섀도우, 마스카라, 아이라이너 등 매혹적인 눈매를 완성하는 아이템들"
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

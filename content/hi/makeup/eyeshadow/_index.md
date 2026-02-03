@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "आईशैडो - आंखों का मेकअप"
+description: "स्टनिंग आई लुक के लिए बेस्ट आईशैडो पैलेट। मैट से शिमर तक सभी फिनिश उपलब्ध।"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

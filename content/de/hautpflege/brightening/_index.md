@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Aufhellende Hautpflege"
+description: "Strahlende Haut mit aufhellenden Produkten gegen Pigmentflecken und fahlen Teint."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

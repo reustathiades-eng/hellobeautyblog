@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Crème Coiffante"
+description: "Crèmes coiffantes pour styliser et discipliner vos cheveux avec tenue et brillance naturelle."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

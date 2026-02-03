@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "منتجات Moroccanoil للشعر"
+description: "مجموعة Moroccanoil الغنية بزيت الأرغان المغربي الأصلي"
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

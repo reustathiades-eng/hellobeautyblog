@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "Pelle Sensibile"
+description: "Prodotti delicati e ipoallergenici formulati specificamente per pelli sensibili e reattive."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

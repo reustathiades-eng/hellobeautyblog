@@ -1,6 +1,6 @@
 ---
-title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+title: "Huda Beauty Makyaj Ürünleri"
+description: "Huda Beauty'nin göz alıcı makyaj koleksiyonu ile çarpıcı görünümler yaratın."
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

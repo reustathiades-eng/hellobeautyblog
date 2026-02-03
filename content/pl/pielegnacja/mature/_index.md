@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Skóra Dojrzała"
+description: "Zaawansowana pielęgnacja anti-aging. Kosmetyki dla skóry dojrzałej i wymagającej."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

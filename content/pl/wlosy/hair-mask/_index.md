@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Maski do Włosów"
+description: "Intensywnie odżywcze maski do włosów. Regeneracja i nawilżenie w kilka minut."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

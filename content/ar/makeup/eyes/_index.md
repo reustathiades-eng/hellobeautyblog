@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "مكياج العيون"
+description: "مجموعة شاملة من منتجات مكياج العيون لإطلالة ساحرة ومتألقة"
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

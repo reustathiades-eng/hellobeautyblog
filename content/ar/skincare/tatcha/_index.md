@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "منتجات Tatcha للعناية بالبشرة"
+description: "مجموعة Tatcha الفاخرة المستوحاة من طقوس الجمال اليابانية التقليدية"
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

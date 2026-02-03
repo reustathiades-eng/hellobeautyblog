@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "나이아신아마이드 세럼"
+description: "모공 축소와 피지 조절에 탁월한 나이아신아마이드로 매끄럽고 깔끔한 피부 완성"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

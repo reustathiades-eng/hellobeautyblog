@@ -1,6 +1,6 @@
 ---
 title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+description: "アメリカ発のクリーンスキンケアブランド。効果的な成分で健やかな肌を実現。"
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

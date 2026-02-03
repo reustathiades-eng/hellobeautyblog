@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Kırışıklık Karşıtı Bakım"
+description: "Kırışıklık karşıtı etkili cilt bakım ürünleri ile yaşlanma karşıtı bakım rutininizi oluşturun."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

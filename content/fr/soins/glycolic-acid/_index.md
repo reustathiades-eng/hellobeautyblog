@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Acide Glycolique"
+description: "Exfoliants à l'acide glycolique pour éliminer cellules mortes et révéler un teint lumineux et unifié."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

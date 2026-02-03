@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Maquiagem com Acabamento Iluminado"
+description: "Conquiste um visual radiante e natural com produtos que proporcionam glow à pele."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

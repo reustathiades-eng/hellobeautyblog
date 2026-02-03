@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda 헤어케어"
+description: "자연 성분 기반 Aveda로 모발과 두피를 건강하게 관리하세요"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

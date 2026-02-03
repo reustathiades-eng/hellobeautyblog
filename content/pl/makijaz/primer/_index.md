@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "Baza pod makijaż"
+description: "Profesjonalne bazy pod makijaż zapewniające długotrwałą trwałość i perfekcyjne wykończenie."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

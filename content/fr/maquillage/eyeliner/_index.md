@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "Eye-liner"
+description: "Eye-liners précis et intenses pour un regard magnétique. Formules waterproof et longue durée."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

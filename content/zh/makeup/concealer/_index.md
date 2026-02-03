@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "遮瑕膏"
+description: "专业遮瑕产品，完美遮盖瑕疵，打造无瑕肌肤底妆"
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

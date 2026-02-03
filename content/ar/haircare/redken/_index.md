@@ -1,6 +1,6 @@
 ---
-title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+title: "Redken منتجات الشعر"
+description: "منتجات Redken الاحترافية للعناية بالشعر وتصفيفه"
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "Boyalı Saçlar"
+description: "Boyalı saçlara özel bakım ürünleri. Renk koruyucu ve besleyici formüllerle parlaklık."
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Şekillendirici Krem"
+description: "Saçınızı şekillendirirken besleyen ve koruma sağlayan krem ürünleri."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

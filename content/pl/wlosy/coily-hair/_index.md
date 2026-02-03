@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Włosy Kręcone i Spiralne"
+description: "Kosmetyki do pielęgnacji włosów kręconych i spiralnych. Nawilżenie i definicja loków."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

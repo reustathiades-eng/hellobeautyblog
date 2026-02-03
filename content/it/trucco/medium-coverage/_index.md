@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Copertura Media"
+description: "Fondotinta a copertura media per un look naturale. Perfetti per l'uso quotidiano."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Toniki do Twarzy"
+description: "Oczyszczające i nawilżające toniki. Przygotowują skórę do dalszej pielęgnacji."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

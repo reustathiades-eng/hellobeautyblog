@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Gezichtsmaskers"
+description: "Verwennende gezichtsmaskers voor intensieve huidverzorging en een stralende teint."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

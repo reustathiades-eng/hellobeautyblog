@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "자외선차단제"
+description: "UV 차단과 피부 보호를 위한 다양한 자외선차단제로 완벽한 선케어"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

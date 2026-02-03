@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Capelli Diradati"
+description: "Soluzioni anticaduta e prodotti rinforzanti per capelli fini, diradati e con perdita di densità."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "फेशियल ऑयल और सीरम"
+description: "त्वचा को पोषण देने वाले प्राकृतिक और प्रीमियम फेशियल ऑयल्स"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

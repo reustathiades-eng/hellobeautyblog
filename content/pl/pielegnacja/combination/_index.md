@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Skóra Mieszana"
+description: "Kosmetyki dla skóry mieszanej. Zbalansuj strefę T i suche partie twarzy."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

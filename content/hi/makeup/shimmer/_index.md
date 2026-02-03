@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "शिमर मेकअप"
+description: "ग्लैमरस लुक के लिए बेस्ट शिमर प्रोडक्ट्स। चमकदार फिनिश पाएं।"
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

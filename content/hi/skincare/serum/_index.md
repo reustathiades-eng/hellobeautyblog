@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "सीरम - स्किनकेयर"
+description: "चमकदार और स्वस्थ त्वचा के लिए प्रभावी सीरम का संग्रह"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

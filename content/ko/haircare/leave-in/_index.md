@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "리브인 트리트먼트"
+description: "씻어내지 않는 편리한 리브인 헤어 트리트먼트로 모발을 보호하고 영양 공급하세요."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

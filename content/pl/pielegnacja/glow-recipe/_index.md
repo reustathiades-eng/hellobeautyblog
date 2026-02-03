@@ -1,6 +1,6 @@
 ---
 title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+description: "Koreańska marka Glow Recipe - naturalne składniki owocowe dla zdrowej, promiennej skóry."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "ビタミンC配合スキンケア"
+description: "ビタミンC配合でハリと輝きを与える美容液・化粧水をお探しください。"
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

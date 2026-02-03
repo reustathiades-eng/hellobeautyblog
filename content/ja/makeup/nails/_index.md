@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "ネイル・マニキュア"
+description: "指先から美しく。豊富なカラーバリエーションのネイルカラーで自分らしいスタイルを。"
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

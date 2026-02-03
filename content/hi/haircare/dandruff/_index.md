@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "डैंड्रफ ट्रीटमेंट"
+description: "रूसी की समस्या से निपटने के लिए असरदार उपचार"
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

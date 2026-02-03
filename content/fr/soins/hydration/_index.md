@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hydratation"
+description: "Gamme complète de soins hydratants pour maintenir l'équilibre et la souplesse de votre peau."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

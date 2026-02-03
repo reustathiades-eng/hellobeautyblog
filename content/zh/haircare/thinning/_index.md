@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "稀疏发质护理"
+description: "针对稀疏细软发质的专业护发产品，增强发丝密度，打造蓬松发型"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

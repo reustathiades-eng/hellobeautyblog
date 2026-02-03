@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f."
+description: "합리적인 가격으로 만나는 e.l.f.의 트렌디하고 실용적인 메이크업 제품들"
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

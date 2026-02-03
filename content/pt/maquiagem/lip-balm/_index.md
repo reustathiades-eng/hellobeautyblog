@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Hidratante Labial"
+description: "Hidratantes labiais para lábios macios e protegidos. Cuidado essencial para seus lábios."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

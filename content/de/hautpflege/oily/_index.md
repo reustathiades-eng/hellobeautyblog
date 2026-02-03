@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Fettige Haut"
+description: "Spezielle Hautpflege für fettige Haut - mattierend und porenverfeinernd."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

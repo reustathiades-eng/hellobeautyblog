@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "护发素"
+description: "滋养修护护发素，深层滋润干燥受损发质，让秀发柔顺亮泽易打理"
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

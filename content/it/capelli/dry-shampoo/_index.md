@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Shampoo Secco"
+description: "Shampoo secco per capelli freschi e voluminosi: rimuove l'eccesso di sebo senza acqua."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

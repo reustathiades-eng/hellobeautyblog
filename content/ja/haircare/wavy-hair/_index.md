@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "ウェーブヘア"
+description: "ウェーブヘアを美しく整えるヘアケア製品。自然なカールを活かすスタイリング剤やトリートメント"
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

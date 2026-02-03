@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "Crescita Capelli"
+description: "Trattamenti stimolanti per favorire la crescita dei capelli e rinforzare il cuoio capelluto."
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

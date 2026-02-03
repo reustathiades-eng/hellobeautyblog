@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "定型喷雾"
+description: "专业定型喷雾产品，持久定型，自然蓬松，打造完美发型造型"
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

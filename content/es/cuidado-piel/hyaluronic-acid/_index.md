@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "Ácido Hialurónico"
+description: "Productos con ácido hialurónico para hidratar intensamente y rellenar líneas de expresión."
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

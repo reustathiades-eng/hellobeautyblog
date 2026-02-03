@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "ナチュラルメイク"
+description: "自然な美しさを引き出すナチュラルメイク製品。素肌を活かした上品な仕上がり"
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Cienie do powiek"
+description: "Szeroká paleta cieni do powiek w różnych kolorach i wykończeniach dla idealnego makijażu oczu."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

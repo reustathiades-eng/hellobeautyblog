@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kérastase"
+description: "Productos capilares de lujo Kérastase para un cuidado profesional y resultados excepcionales."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

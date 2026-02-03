@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Pigmentflecken"
+description: "Wirksame Hautpflege gegen Pigmentflecken und dunkle Verfärbungen für einen ebenmäßigen Teint."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

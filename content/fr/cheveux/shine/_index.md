@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Brillance Cheveux"
+description: "Produits illuminateurs pour révéler la brillance naturelle de vos cheveux."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

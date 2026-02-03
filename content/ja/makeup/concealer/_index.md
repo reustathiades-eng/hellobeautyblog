@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "コンシーラー"
+description: "シミ・クマ・ニキビ跡をしっかりカバー。自然な仕上がりのコンシーラーで完璧な肌を演出。"
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

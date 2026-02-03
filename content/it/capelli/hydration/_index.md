@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Idratazione Capelli"
+description: "Trattamenti idratanti per capelli secchi e disidratati. Morbidezza e lucentezza."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay Dermokozmetik"
+description: "Hassas cilt için La Roche-Posay termal su bazlı dermo-kozmetik bakım ürünleri."
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

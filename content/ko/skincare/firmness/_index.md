@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "탄력 케어"
+description: "피부 탄력을 높여주는 전문 스킨케어 제품으로 젊고 건강한 피부를 만들어보세요"
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

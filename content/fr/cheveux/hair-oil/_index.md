@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Huiles Capillaires"
+description: "Nourrissez et sublimez vos cheveux avec nos huiles capillaires premium pour tous types de cheveux."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

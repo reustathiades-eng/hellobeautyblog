@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "ロレアル プロフェッショナル"
+description: "世界No.1ヘアケアブランド。プロの技術で髪質改善と美しいスタイリングを。"
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

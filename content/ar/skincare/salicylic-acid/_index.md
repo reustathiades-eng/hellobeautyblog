@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "حمض الساليسيليك"
+description: "علاجات حمض الساليسيليك لمحاربة الحبوب وتنظيف المسام العميق للبشرة الدهنية والمختلطة"
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

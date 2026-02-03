@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Bronzeador"
+description: "Bronzeadores para um tom dourado natural, contorno facial e efeito pele beijada pelo sol."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

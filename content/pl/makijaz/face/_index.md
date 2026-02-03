@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Makijaż Twarzy"
+description: "Podkłady, róże, pudry i korektory. Wszystko dla perfekcyjnego makijażu twarzy i cery."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

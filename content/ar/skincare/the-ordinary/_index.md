@@ -1,6 +1,6 @@
 ---
 title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+description: "منتجات العناية بالبشرة من The Ordinary بأسعار معقولة وتركيبات فعالة للحصول على بشرة صحية"
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

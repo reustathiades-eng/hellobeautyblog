@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Reafirmantes"
+description: "Productos para reafirmar y tonificar la piel, recupera la elasticidad y firmeza natural."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

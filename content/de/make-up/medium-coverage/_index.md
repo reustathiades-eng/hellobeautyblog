@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Mittlere Deckkraft"
+description: "Foundation mit mittlerer Deckkraft für natürlichen Look. Kaschiert Unreinheiten dezent."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

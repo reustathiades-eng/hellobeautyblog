@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Ácido Salicílico"
+description: "Tratamientos con ácido salicílico para combatir imperfecciones y destapar poros obstruidos."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

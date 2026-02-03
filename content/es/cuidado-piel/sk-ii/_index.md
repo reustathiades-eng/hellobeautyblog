@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II"
+description: "Cuidado de la piel SK-II con tecnología japonesa avanzada para una piel radiante y rejuvenecida."
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

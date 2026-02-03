@@ -1,6 +1,6 @@
 ---
 title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+description: "اكتشفي مجموعة منتجات هدى بيوتي المميزة للمكياج العصري والجذاب"
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

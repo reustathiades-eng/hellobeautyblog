@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "防晒霜"
+description: "高效防晒产品,SPF防护,阻挡紫外线伤害,预防晒黑老化,守护肌肤"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

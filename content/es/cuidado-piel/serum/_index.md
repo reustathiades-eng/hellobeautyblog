@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Sueros Faciales"
+description: "Sueros concentrados con ingredientes activos para tratar problemas específicos de la piel."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

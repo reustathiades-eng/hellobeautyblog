@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier（ガルニエ）ヘアケア"
+description: "フランス発のGarnierで自然派ヘアケア。髪質に合わせた豊富なラインナップをお試しください。"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

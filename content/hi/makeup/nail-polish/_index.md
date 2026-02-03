@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "नेल पॉलिश"
+description: "ट्रेंडी रंगों में चिप-प्रूफ और लॉन्ग लास्टिंग नेल पॉलिश कलेक्शन"
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

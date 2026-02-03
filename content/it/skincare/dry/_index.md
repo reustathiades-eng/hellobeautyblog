@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Pelle Secca"
+description: "Prodotti idratanti e nutrienti per combattere secchezza e desquamazione della pelle del viso."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

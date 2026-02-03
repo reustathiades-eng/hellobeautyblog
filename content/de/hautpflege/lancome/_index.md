@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancôme"
+description: "Luxuriöse Lancôme Hautpflege für anspruchsvolle Beauty-Routinen."
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

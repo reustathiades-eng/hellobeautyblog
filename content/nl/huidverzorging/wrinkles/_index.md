@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Rimpel Verzorging"
+description: "Anti-rimpel crèmes en serums voor zichtbare verjonging. Gladde en stevige huid."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

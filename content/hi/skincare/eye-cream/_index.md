@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "आई क्रीम और अंडर आई केयर"
+description: "आंखों के नीचे के काले घेरे और झुर्रियों के लिए बेस्ट आई क्रीम।"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

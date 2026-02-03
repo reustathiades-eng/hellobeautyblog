@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Przerzedzające się Włosy"
+description: "Profesjonalne produkty przeciw wypadaniu i przerzedzaniu się włosów. Wzmocnij swoje pasma."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

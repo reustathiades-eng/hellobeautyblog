@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "हाइलाइटर"
+description: "चेहरे को ग्लो और रेडिएंस देने वाले बेस्ट हाइलाइटर प्रोडक्ट्स।"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

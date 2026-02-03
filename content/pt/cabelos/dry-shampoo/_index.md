@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Shampoo Seco"
+description: "Shampoos secos para refrescar e dar volume aos cabelos sem água. Praticidade no dia a dia."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

@@ -1,6 +1,6 @@
 ---
-title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+title: "Gisou منتجات الشعر"
+description: "مجموعة Gisou بالعسل الطبيعي لشعر صحي ولامع"
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

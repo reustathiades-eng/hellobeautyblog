@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "美白亮肤"
+description: "提亮肤色，淡化暗沉，让肌肤焕发自然光彩"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

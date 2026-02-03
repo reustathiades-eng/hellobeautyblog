@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "منتجات Estée Lauder للعناية بالبشرة"
+description: "مجموعة Estée Lauder الفاخرة لعناية متميزة ونتائج مذهلة"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

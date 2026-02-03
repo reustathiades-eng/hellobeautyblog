@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Primer Occhi"
+description: "Base perfetta per ombretti duraturi. Primer occhi professionali per un trucco impeccabile tutto il giorno."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

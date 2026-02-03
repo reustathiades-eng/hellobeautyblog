@@ -1,6 +1,6 @@
 ---
 title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+description: "전문 살롱 브랜드 Redken으로 집에서도 살롱 퀄리티 헤어케어를 경험해보세요."
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

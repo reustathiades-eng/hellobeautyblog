@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "轻薄遮瑕"
+description: "轻薄自然的底妆产品，提供恰到好处的遮瑕效果，打造清透自然的完美肌肤。"
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

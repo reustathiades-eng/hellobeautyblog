@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "ヘア保湿・水分補給"
+description: "髪の乾燥対策に特化したヘアケア製品。うるおいを与え、しっとりとした美髪へ導きます。"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

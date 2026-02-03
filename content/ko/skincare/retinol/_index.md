@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "레티놀"
+description: "주름 개선과 피부 재생에 탁월한 레티놀 제품으로 젊고 매끄러운 피부를 경험하세요."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

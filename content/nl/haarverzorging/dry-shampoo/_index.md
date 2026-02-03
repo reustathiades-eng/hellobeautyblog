@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Droogshampoo"
+description: "Verfris je haar zonder water. Absorbeert vet en geeft volume voor een frisse uitstraling."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

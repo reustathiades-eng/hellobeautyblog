@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "حماية من الحرارة"
+description: "منتجات حماية الشعر من أضرار الحرارة وأدوات التصفيف للحفاظ على صحة شعرك"
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

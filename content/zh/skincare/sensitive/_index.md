@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "敏感肌肤护理"
+description: "敏感肌专用护肤品，温和无刺激，舒缓修护，呵护脆弱肌肤"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

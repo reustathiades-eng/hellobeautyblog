@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Güneş Kremi"
+description: "Güçlü UV koruması sunan güneş kremleri ile cildinizi zararlı ışınlardan koruyun ve yaşlanmayı önleyin."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "Natuurlijke Haarverzorging"
+description: "Natuurlijke haarverzorging met plantaardige ingrediënten voor gezond, authentiek haar."
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

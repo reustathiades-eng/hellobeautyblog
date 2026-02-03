@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Kosmetyki na Zaczerwienienia"
+description: "Skuteczne kosmetyki łagodzące zaczerwienienia i podrażnienia skóry. Przywróć naturalny koloryt."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

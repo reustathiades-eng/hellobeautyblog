@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "造型膏"
+description: "专业造型膏，轻松打造理想发型，持久定型不僵硬，自然蓬松有质感"
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

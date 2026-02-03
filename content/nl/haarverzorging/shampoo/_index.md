@@ -1,6 +1,6 @@
 ---
 title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+description: "Reinigingsshampoos voor elk haartype. Van hydraterende tot versterkende formules."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

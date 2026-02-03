@@ -1,6 +1,6 @@
 ---
-title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+title: "Glow Recipe（グロウレシピ）"
+description: "韓国発の人気ブランドGlow Recipeのフルーツ由来スキンケアで、健やかな輝く肌へ。"
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

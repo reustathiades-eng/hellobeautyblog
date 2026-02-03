@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil Saç Bakımı"
+description: "Moroccanoil ile lüks saç bakımı. Argan yağı zenginliğiyle ipeksi yumuşaklık."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

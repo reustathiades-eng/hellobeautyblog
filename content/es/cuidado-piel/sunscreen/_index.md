@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Protector Solar Facial"
+description: "Protectores solares para el rostro que cuidan tu piel de los rayos UV sin dejar residuos."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

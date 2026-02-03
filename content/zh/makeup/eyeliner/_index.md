@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "眼线笔"
+description: "防水持久眼线笔，精准描绘眼部轮廓，打造迷人深邃眼妆"
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

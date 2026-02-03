@@ -1,6 +1,6 @@
 ---
 title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+description: "Maquillaje de lujo Dior Beauty para un look elegante y sofisticado en cada ocasión."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

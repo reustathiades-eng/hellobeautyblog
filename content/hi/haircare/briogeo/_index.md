@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "Briogeo हेयर प्रोडक्ट्स"
+description: "Briogeo के नेचुरल हेयरकेयर प्रोडक्ट्स। हेल्दी और नरिश्ड बालों के लिए।"
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Óleos Capilares"
+description: "Óleos nutritivos para hidratação, brilho e proteção dos fios contra danos e ressecamento."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

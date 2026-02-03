@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "MAC कॉस्मेटिक्स"
+description: "MAC के आइकॉनिक मेकअप प्रोडक्ट्स। प्रो आर्टिस्ट्स की पसंद, हाई क्वालिटी कॉस्मेटिक्स।"
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

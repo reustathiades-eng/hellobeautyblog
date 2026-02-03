@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "स्पॉट ट्रीटमेंट और एक्ने केयर"
+description: "पिम्पल्स और दाग-धब्बों के लिए टार्गेटेड ट्रीटमेंट। तुरंत असर दिखाने वाले प्रोडक्ट्स।"
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

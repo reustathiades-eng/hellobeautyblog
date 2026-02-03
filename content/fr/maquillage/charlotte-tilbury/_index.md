@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+description: "Cosmétiques de luxe Charlotte Tilbury pour un maquillage glamour et sophistiqué."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

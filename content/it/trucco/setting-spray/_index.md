@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "Spray Fissante"
+description: "Spray fissanti per un makeup a lunga durata e resistente tutto il giorno."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

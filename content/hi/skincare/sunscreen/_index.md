@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "सनस्क्रीन और सन प्रोटेक्शन"
+description: "बेहतरीन सनस्क्रीन और UV प्रोटेक्शन। धूप से बचाव और त्वचा की सुरक्षा के लिए।"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

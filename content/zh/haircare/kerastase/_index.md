@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kerastase卡诗"
+description: "法国专业沙龙级护发品牌，奢华配方深度修护各种发质问题"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

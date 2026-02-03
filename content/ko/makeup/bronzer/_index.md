@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "브론저"
+description: "자연스러운 태닝 효과와 건강한 피부 톤을 연출하는 브론저로 생기 넘치는 메이크업 완성."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

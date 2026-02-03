@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "مكياج NARS"
+description: "مجموعة NARS الفاخرة من المكياج عالي الجودة والألوان الجريئة"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

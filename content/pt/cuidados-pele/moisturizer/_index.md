@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Hidratantes"
+description: "Hidratantes faciais e corporais para todos os tipos de pele. Nutrição intensa e hidratação duradoura."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

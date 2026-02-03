@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "बालों की नमी"
+description: "रूखे बालों को गहरी नमी प्रदान करने वाले हाइड्रेटिंग उत्पाद।"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

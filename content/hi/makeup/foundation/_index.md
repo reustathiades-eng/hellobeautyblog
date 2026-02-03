@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "फाउंडेशन"
+description: "परफेक्ट कवरेज और स्मूथ फिनिश के लिए बेस्ट फाउंडेशन रेंज।"
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

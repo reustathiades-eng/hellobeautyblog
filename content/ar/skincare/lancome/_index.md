@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "منتجات Lancome للعناية بالبشرة"
+description: "تشكيلة Lancome الفاخرة لعناية متقدمة ونتائج مذهلة للبشرة"
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

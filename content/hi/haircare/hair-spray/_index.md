@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "हेयर स्प्रे"
+description: "मजबूत होल्ड और लंबे समय तक स्टाइल बनाए रखने वाले हेयर स्प्रे।"
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Enlumineurs"
+description: "Highlighters pour sublimer votre teint avec un éclat naturel et lumineux."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

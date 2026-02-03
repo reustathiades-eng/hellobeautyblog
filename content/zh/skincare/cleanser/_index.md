@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "洁面产品"
+description: "温和深层清洁，卸妆洁面，保持肌肤清爽健康"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

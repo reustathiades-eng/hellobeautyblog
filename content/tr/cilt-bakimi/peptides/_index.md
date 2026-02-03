@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Peptitli Cilt Bakım Ürünleri"
+description: "Peptit içerikli serumlar ve kremlerle cildinizi yenileyin, sıkılaştırın ve gençleştirin."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

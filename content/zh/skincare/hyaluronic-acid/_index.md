@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "玻尿酸护肤品"
+description: "玻尿酸补水保湿精华,深层锁水,改善肌肤干燥,打造水润透亮肌"
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

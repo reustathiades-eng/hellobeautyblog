@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Göz Makyajı"
+description: "Farlar, rimeller ve eyeliner'larla gözlerinizi ön plana çıkarın."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Baume à Lèvres"
+description: "Hydratez et protégez vos lèvres avec nos baumes nourrissants pour des lèvres douces et confortables."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

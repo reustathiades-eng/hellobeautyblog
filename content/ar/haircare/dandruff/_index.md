@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "علاج قشرة الشعر"
+description: "منتجات فعالة لمحاربة قشرة الشعر وتهدئة فروة الرأس"
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

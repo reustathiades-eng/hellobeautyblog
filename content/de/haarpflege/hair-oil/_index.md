@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Haaröl"
+description: "Pflegende Haaröle für gesunden Glanz und geschmeidige Haare. Natürliche Öle für alle Haartypen."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

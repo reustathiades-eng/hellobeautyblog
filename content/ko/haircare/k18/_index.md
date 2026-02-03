@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 헤어 트리트먼트"
+description: "혁신적인 K18 펩타이드 기술로 손상된 모발을 집중 복구하고 건강하게 가꿔보세요."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

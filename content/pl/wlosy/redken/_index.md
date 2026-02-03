@@ -1,6 +1,6 @@
 ---
 title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+description: "Profesjonalne produkty do pielęgnacji włosów Redken dla każdego typu włosów."
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

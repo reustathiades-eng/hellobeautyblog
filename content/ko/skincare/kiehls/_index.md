@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's 스킨케어"
+description: "키엘스 천연 성분 스킨케어 제품 컬렉션"
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

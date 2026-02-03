@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Soins Anti-Imperfections"
+description: "Ciblez boutons et imperfections avec nos traitements localisés pour une peau nette rapidement."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

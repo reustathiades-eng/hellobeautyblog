@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "संवेदनशील त्वचा के लिए मेकअप"
+description: "सेंसिटिव स्किन के लिए सुरक्षित और जेंटल मेकअप प्रोडक्ट्स।"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

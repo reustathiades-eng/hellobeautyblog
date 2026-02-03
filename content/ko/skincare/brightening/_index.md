@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "브라이트닝 화이트닝"
+description: "맑고 환한 피부를 위한 브라이트닝 제품으로 칙칙함을 개선하고 화사한 광채를 연출하세요"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Óleos Faciais"
+description: "Óleos faciais nutritivos para hidratação profunda e cuidados especiais com a pele."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

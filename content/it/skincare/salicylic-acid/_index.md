@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Acido Salicilico"
+description: "Trattamenti all'acido salicilico contro imperfezioni, pori dilatati e pelle grassa. Azione esfoliante."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

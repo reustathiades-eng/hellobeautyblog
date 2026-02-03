@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "वॉल्यूम बूस्टर हेयर प्रोडक्ट्स"
+description: "पतले बालों में वॉल्यूम और घनापन लाने वाले विशेष हेयरकेयर उत्पाद।"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

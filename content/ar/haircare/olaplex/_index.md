@@ -1,6 +1,6 @@
 ---
 title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+description: "علاجات Olaplex المتقدمة لإصلاح الشعر التالف واستعادة قوته ونعومته"
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

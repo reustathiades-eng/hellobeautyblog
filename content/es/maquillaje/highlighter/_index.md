@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Iluminadores"
+description: "Highlighters y polvos iluminadores para realzar los rasgos y crear un glow natural radiante."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

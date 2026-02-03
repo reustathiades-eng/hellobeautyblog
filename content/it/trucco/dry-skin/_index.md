@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Pelle Secca"
+description: "Makeup idratante per pelle secca: fondotinta e prodotti nutrienti per un finish luminoso e confortevole."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

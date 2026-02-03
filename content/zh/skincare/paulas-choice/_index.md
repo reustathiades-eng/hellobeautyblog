@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "宝拉珍选 Paula's Choice"
+description: "科学护肤品牌，专业配方，解决各种肌肤问题"
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

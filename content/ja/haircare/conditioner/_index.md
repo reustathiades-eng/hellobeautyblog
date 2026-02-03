@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "コンディショナー・トリートメント"
+description: "髪に潤いとツヤを与えるコンディショナー。毎日のヘアケアで健康的な美髪を手に入れましょう。"
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

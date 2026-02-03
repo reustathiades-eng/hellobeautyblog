@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "منتجات Olay للعناية بالبشرة"
+description: "مجموعة Olay المتميزة للعناية بالبشرة ومحاربة علامات التقدم في السن"
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

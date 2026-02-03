@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX Professional Makeup"
+description: "NYXのプロ仕様メイクアップ。高品質でトレンド感あふれるコスメティックス。"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

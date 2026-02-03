@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "アイメイク"
+description: "印象的な目元を演出するアイメイクアイテム。アイシャドウ、マスカラ、アイライナーなど豊富な品揃え。"
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "集中ケア・スポット美容液"
+description: "気になる部分を集中ケア。ニキビやシミに効果的なスポット治療アイテム"
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

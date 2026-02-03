@@ -1,6 +1,6 @@
 ---
 title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+description: "Professionelle Haarpflege von John Frieda. Salon-Qualität für zu Hause mit sichtbaren Ergebnissen."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

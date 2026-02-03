@@ -1,6 +1,6 @@
 ---
 title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+description: "مجموعة Rare Beauty للمكياج - منتجات عالية الجودة لإطلالة طبيعية ومميزة"
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

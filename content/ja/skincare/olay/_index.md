@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "Olay（オレイ）"
+description: "P&Gの人気ブランドOlayの化粧水・美容液・クリームで、エイジングケアを始めましょう。"
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

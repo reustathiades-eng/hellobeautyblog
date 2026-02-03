@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Pontas Duplas"
+description: "Tratamentos especializados para reparar e prevenir pontas duplas e ressecadas."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

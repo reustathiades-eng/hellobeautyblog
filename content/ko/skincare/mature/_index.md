@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "성숙한 피부 안티에이징"
+description: "성숙한 피부를 위한 전문 안티에이징 솔루션으로 젊고 탄력 있는 피부를 되찾으세요"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

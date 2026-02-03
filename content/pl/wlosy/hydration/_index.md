@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Nawilżanie Włosów"
+description: "Intensywnie nawilżające produkty do włosów. Przywróć miękkość i elastyczność włosów."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

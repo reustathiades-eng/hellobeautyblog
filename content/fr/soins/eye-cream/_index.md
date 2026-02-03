@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Crème Contour des Yeux"
+description: "Soins anti-âge ciblés pour réduire rides, cernes et poches autour des yeux délicats."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

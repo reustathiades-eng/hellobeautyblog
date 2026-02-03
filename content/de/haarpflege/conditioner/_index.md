@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Spülung"
+description: "Pflegende Spülungen für weiches und kämmares Haar. Repariert und stärkt die Haarstruktur."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "Máscara de Pestañas"
+description: "Máscaras de pestañas para volumen, longitud y definición perfecta en tu mirada."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

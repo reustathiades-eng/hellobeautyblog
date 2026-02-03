@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Piel Madura"
+description: "Cuidado especializado para piel madura, productos antiedad con ingredientes reafirmantes."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

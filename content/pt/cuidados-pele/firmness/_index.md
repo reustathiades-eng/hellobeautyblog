@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Firmeza e Elasticidade"
+description: "Produtos para pele mais firme e tonificada. Tratamentos anti-idade que restauram a elasticidade natural."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

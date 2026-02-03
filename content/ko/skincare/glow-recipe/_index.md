@@ -1,6 +1,6 @@
 ---
 title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+description: "자연스러운 광채 피부를 선사하는 Glow Recipe의 프리미엄 스킨케어 컬렉션."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena Huidverzorging"
+description: "Vertrouwde huidverzorging van Neutrogena. Dermatologisch geteste producten voor alle huidtypes."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

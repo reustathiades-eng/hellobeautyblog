@@ -1,6 +1,6 @@
 ---
-title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+title: "The Ordinary（ジ・オーディナリー）"
+description: "シンプルで効果的なスキンケア。高品質な美容成分を手頃な価格で提供するブランド"
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

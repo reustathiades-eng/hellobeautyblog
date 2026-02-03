@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "アイブロウ"
+description: "美しい眉毛を作るアイブロウアイテム。ペンシル、パウダー、ジェルで理想の眉に"
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "Styling-Gel"
+description: "Professionelle Styling-Gels für perfekten Halt und Definition. Für langanhaltende Frisuren."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

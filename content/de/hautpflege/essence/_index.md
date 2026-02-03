@@ -1,6 +1,6 @@
 ---
 title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+description: "Hydratisierende Essences für die tägliche Hautpflege-Routine und optimale Feuchtigkeitsversorgung."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

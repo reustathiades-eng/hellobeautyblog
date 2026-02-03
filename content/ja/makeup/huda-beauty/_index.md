@@ -1,6 +1,6 @@
 ---
-title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+title: "HUDA BEAUTY"
+description: "HUDA BEAUTYの人気コスメ。グラマラスで洗練されたメイクアップアイテムをお探しの方に。"
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

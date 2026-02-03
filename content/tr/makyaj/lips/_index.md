@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Dudak Makyajı"
+description: "Ruj, dudak parlatıcısı ve kalem ile çekici dudaklar yaratın."
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

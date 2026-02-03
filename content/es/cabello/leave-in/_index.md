@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Sin Enjuague"
+description: "Productos sin enjuague que nutren e hidratan tu cabello todo el día sin apelmazar."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

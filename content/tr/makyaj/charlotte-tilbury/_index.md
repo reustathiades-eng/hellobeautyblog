@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+title: "Charlotte Tilbury Makyaj"
+description: "Charlotte Tilbury'nin lüks ve etkili makyaj koleksiyonuyla büyüleyici görünün."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

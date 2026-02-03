@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy薇姿护肤"
+description: "Vichy薇姿药妆护肤品，温和有效，专业护理敏感及问题肌肤"
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Yüz Yağları"
+description: "Cildinizi besleyen ve nemlendiren doğal yüz yağları ile bakım rutininizi tamamlayın."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Crema de Peinado"
+description: "Define y moldea tu peinado con nuestras cremas de styling para un acabado perfecto."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

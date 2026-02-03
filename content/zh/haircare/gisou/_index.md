@@ -1,6 +1,6 @@
 ---
-title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+title: "Gisou蜂蜜护发"
+description: "Gisou天然蜂蜜护发产品，滋养修复秀发，呈现自然光泽"
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

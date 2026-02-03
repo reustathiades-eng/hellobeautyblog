@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Aydınlatıcı Ürünler"
+description: "Cilt tonunu eşitleyen ve parlaklık veren aydınlatıcı bakım ürünleri ile ışıltılı cilt."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Tonik"
+description: "Cildinizi derinlemesine temizleyen ve pH dengesini sağlayan yüz tonikleri ile bakım rutininizi güçlendirin."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancome स्किनकेयर कलेक्शन"
+description: "Lancome के प्रीमियम स्किनकेयर उत्पादों से निखारें अपनी त्वचा की सुंदरता।"
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

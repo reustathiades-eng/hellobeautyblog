@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Haar Reparatur"
+description: "Reparierende Haarpflege für geschädigtes und strapaziertes Haar"
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

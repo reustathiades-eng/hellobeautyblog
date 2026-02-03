@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Elektriklenen Saçlar"
+description: "Elektriklenen ve kabarık saçlara çözüm. Pürüzsüz ve kontrollü saçlar için bakım."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

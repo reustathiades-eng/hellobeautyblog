@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Lichte Dekking"
+description: "Foundation met lichte dekking voor een natuurlijke look. Perfect voor dagelijks gebruik."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

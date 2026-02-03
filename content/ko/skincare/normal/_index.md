@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "중성 피부"
+description: "균형 잡힌 중성 피부를 위한 맞춤형 스킨케어 제품으로 건강한 피부 유지"
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

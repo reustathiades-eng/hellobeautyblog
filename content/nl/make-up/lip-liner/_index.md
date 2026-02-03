@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "Lipliner"
+description: "Perfecte lipcontouren met onze lipliner collectie. Definieer en accentueer je lippen vakkundig."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

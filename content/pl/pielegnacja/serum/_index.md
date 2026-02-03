@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Serum do Twarzy"
+description: "Skoncentrowane serum z aktywnymi składnikami. Intensywna pielęgnacja dla zdrowej cery."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

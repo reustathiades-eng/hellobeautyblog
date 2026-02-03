@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "منتجات شد البشرة"
+description: "اكتشفي أفضل منتجات العناية لشد البشرة واستعادة مرونتها الطبيعية"
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

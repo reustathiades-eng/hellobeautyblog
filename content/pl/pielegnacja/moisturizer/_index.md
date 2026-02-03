@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Kremy Nawilżające"
+description: "Intensywne nawilżanie dla każdego typu skóry. Odkryj najlepsze kremy i emulsje."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

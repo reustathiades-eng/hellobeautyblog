@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "Olaplex Saç Onarım Sistemi"
+description: "Olaplex'in patentli teknolojisi ile hasarlı saçları derinden onarın ve güçlendirin."
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

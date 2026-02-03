@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II स्किनकेयर कलेक्शन"
+description: "SK-II के प्रीमियम स्किनकेयर प्रोडक्ट्स। चमकदार और जवान दिखने वाली त्वचा के लिए।"
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

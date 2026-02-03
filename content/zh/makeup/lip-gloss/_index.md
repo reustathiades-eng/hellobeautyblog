@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "唇彩唇蜜"
+description: "滋润保湿唇彩唇蜜，丰富色彩选择，打造水润饱满双唇"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

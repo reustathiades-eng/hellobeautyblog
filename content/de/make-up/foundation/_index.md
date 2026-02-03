@@ -1,6 +1,6 @@
 ---
 title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+description: "Perfekte Foundation für jeden Hauttyp - natürliche Deckkraft und ebenmäßiger Teint."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

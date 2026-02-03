@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Saç Spreyi"
+description: "Uzun süre sabit kalabilen şekil için saç spreyleri. Güçlü tutuş, doğal görünüm."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

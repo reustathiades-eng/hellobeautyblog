@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Tonico Viso"
+description: "Tonici equilibranti, esfolianti e idratanti per preparare la pelle ai trattamenti successivi."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Hafif Kapatıcılık"
+description: "Doğal görünüm için hafif kapatıcılıklı fondöten ve makyaj ürünleriyle cildinizin doğal güzelliğini öne çıkarın."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

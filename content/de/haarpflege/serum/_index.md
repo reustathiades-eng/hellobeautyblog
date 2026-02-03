@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Haar-Serum"
+description: "Intensive Haar-Seren für Glanz, Reparatur und Schutz. Perfekte Pflege für geschädigtes und strapaziertes Haar."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

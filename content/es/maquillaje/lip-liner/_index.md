@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "Perfiladores de Labios"
+description: "Delineadores de labios en múltiples tonos para definir, perfilar y prolongar el maquillaje."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX"
+description: "트렌디하고 합리적인 가격의 NYX 프로페셔널 메이크업 브랜드"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

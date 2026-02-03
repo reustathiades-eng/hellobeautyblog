@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "İnce Telli Saçlar"
+description: "İnce telli saçlar için özel bakım. Hacim verici ve güçlendirici saç ürünleri."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

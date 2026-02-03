@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "Cabelos Coloridos"
+description: "Produtos especiais para manter a cor e saúde de cabelos tingidos e descoloridos."
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

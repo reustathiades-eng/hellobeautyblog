@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "粉底液"
+description: "专业粉底液，完美遮瑕提亮肤色，轻薄贴合不卡粉，打造无瑕底妆"
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

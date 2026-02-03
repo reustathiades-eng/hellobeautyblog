@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "الشعر المموج"
+description: "منتجات مخصصة للعناية بالشعر المموج وتعزيز تموجاته الطبيعية"
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Gemengde Huid"
+description: "Speciale verzorging voor de gemengde huid. Balanceert vette en droge zones perfect."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

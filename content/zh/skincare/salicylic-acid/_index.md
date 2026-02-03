@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "水杨酸护肤品"
+description: "水杨酸去角质精华,深层清洁毛孔,改善黑头粉刺,焕新肌肤质感"
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

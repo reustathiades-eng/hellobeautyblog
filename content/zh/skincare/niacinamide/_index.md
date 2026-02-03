@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "烟酰胺精华"
+description: "烟酰胺护肤品，控油收毛孔，改善肌肤质地"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

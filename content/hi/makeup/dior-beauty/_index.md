@@ -1,6 +1,6 @@
 ---
-title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+title: "Dior Beauty मेकअप"
+description: "Dior के लक्जरी मेकअप प्रोडक्ट्स से अपनी खूबसूरती निखारें"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

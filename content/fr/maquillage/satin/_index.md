@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Finition Satinée"
+description: "Maquillage effet satiné pour un rendu lumineux et sophistiqué. Texture veloutée longue tenue."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

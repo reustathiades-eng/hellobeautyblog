@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "リップスティック"
+description: "豊富なカラーバリエーションのリップスティック。マット、グロッシー、保湿タイプまで"
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "염색모발 케어"
+description: "염색한 모발의 컬러를 보호하고 윤기를 유지하는 전용 헤어케어 제품들입니다."
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

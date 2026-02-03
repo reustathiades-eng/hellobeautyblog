@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Crema Modellante Capelli"
+description: "Creme styling per definire e modellare i capelli con hold naturale e finish luminoso."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

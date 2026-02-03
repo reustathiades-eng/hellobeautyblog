@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "眼部彩妆"
+description: "眼影、眼线、睫毛膏等眼妆产品，塑造迷人双眸"
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kérastase Saç Bakım Ürünleri"
+description: "Kérastase'nin lüks saç bakım koleksiyonu. Profesyonel kalitede şampuan, maske ve serum çeşitleri."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Bronzlaştırıcı Makyaj"
+description: "Doğal bronz ten görünümü sağlayan ve yüz hatlarını belirginleştiren bronzer'lar."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

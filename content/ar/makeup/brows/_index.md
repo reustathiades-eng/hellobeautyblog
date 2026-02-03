@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "منتجات الحواجب"
+description: "احصلي على حواجب مثالية مع مجموعتنا من أقلام وجل ومساحيق الحواجب المتنوعة"
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

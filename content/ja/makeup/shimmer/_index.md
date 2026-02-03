@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "シマー"
+description: "上品な輝きで華やかな印象に。シマーコスメで魅力的なツヤ感を演出します。"
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

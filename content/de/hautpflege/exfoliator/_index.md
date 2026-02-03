@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Peeling"
+description: "Gesichtspeelings für samtweiche Haut. Mechanische und chemische Peelings für jeden Typ."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

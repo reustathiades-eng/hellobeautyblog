@@ -1,6 +1,6 @@
 ---
 title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+description: "피부과 전문의가 추천하는 Neutrogena의 검증된 스킨케어 솔루션을 경험하세요."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

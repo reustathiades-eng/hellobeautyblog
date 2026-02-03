@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Połysk włosów"
+description: "Produkty nadające błysk włosom. Intensywny połysk i lustrzane odbicie dla efektownej fryzury."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

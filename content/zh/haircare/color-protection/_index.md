@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "护色保色"
+description: "染后护色专用产品，锁住发色光泽，延长染发效果持久度"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Rassodanti e Tonificanti"
+description: "Prodotti skincare per rassodare e tonificare la pelle, per un aspetto più giovane e compatto."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

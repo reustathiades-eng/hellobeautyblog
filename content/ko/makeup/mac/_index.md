@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "맥"
+description: "전문가들이 선택하는 메이크업 브랜드 맥의 인기 제품들"
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

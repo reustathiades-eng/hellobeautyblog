@@ -1,6 +1,6 @@
 ---
 title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+description: "Urban Decay Make-up - Rebellische Kosmetik mit intensiven Farben und langer Haltbarkeit."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

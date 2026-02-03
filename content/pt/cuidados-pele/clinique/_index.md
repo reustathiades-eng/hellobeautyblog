@@ -1,6 +1,6 @@
 ---
 title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+description: "Cosméticos dermatológicos Clinique para todos os tipos de pele. Produtos testados por dermatologistas."
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

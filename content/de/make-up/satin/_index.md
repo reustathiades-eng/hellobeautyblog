@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Satin Finish Make-up"
+description: "Make-up mit satiniertem Finish für einen eleganten, seidigen Glow."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

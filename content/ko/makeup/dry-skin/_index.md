@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "건성 피부용 화장품"
+description: "건조한 피부에 수분과 영양을 공급하는 촉촉한 메이크업 제품"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

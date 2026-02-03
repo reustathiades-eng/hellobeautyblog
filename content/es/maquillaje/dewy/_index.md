@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Efecto Luminoso"
+description: "Consigue un maquillaje radiante y jugoso con productos de acabado natural y luminoso."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

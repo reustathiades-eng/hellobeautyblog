@@ -1,6 +1,6 @@
 ---
-title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+title: "Urban Decay Maquillaje"
+description: "Cosméticos Urban Decay: paletas de sombras, primers y maquillaje de larga duración y color intenso."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

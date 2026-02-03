@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "बालों में चमक"
+description: "बालों को प्राकृतिक चमक और मुलायमता देने वाले उत्पाद।"
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

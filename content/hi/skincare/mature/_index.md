@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "मैच्योर स्किन"
+description: "परिपक्व त्वचा के लिए विशेष देखभाल और एंटी-एजिंग उत्पादों का संग्रह।"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

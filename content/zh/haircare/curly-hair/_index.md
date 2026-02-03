@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "卷发护理"
+description: "专为卷发设计的护理产品，定型保湿，让卷发更有弹性光泽"
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

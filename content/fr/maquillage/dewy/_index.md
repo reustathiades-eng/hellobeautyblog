@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Effet Rosée"
+description: "Maquillage effet rosée pour un teint lumineux, frais et naturellement éclatant."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

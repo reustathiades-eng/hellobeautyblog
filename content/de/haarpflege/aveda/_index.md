@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda Haarpflege"
+description: "Natürliche Aveda Haarpflegeprodukte für gesundes und glänzendes Haar"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

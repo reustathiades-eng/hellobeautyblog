@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "البشرة الدهنية"
+description: "منتجات مكياج مخصصة للبشرة الدهنية لإطلالة مثالية تدوم طوال اليوم"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Leichte Deckkraft"
+description: "Natürliche Foundation mit leichter Deckkraft. Für einen frischen, ungeschminkten Look mit zartem Finish."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

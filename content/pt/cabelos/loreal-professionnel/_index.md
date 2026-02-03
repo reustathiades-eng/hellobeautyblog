@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oréal Professionnel"
+description: "Tratamentos capilares L'Oréal Professionnel com tecnologia avançada para salões de beleza."
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

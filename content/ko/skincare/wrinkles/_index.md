@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "주름 안티에이징"
+description: "깊어지는 주름을 집중 케어하여 탄력 있고 젊은 피부로 되돌리는 안티에이징 제품"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

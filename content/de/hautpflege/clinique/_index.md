@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique Hautpflege"
+description: "Dermatologisch getestete Clinique Hautpflege. Allergiefrei und wirksam für jeden Hauttyp!"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

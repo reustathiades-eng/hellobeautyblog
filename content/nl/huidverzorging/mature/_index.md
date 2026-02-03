@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Rijpere Huid"
+description: "Anti-aging verzorging speciaal ontwikkeld voor de rijpere huid. Verstevigend en herstellend."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

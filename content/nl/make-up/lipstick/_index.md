@@ -1,6 +1,6 @@
 ---
 title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+description: "Vind jouw perfecte lipstick kleur. Van matte tot glossy finishes - lipsticks voor elke stijl en gelegenheid."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

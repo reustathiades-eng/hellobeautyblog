@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena（ニュートロジーナ）"
+description: "皮膚科医推奨ブランドNeutrogenaのクレンジング・保湿ケア製品で健やかな肌づくり。"
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "Skóra Wrażliwa"
+description: "Delikatne kosmetyki dla skóry wrażliwej. Łagodne formuły bez podrażnień."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

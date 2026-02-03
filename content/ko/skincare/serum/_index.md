@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "세럼"
+description: "집중 케어가 필요한 피부를 위한 고기능성 세럼으로 확실한 효과를 경험하세요."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

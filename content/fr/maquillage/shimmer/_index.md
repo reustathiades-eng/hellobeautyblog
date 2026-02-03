@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Effet Nacré"
+description: "Illuminez votre maquillage avec nos produits nacrés pour un éclat subtil et une luminosité naturelle."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

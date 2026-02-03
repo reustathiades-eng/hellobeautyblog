@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "防毛躁护发"
+description: "专业防毛躁护发产品，让秀发柔顺光滑，告别蓬乱毛躁，打造丝滑质感。"
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

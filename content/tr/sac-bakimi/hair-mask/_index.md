@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Saç Maskesi"
+description: "Yoğun nemlendirme ve onarım için etkili saç maskeleri ve bakım ürünleri."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

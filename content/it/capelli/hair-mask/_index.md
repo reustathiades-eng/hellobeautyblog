@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Maschere Capelli"
+description: "Maschere nutrienti e riparatrici per capelli danneggiati, secchi o trattati chimicamente."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

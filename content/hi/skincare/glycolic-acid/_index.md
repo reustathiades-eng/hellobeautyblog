@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "ग्लाइकोलिक एसिड ट्रीटमेंट"
+description: "मृत कोशिकाओं को हटाकर त्वचा को चमकदार बनाने वाले ग्लाइकोलिक एसिड प्रोडक्ट्स"
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

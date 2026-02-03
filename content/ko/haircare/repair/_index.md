@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "모발 손상 복구"
+description: "염색, 파마로 손상된 모발을 집중 복구하는 리페어 제품"
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "Tarte Make-up"
+description: "Hochwertige Tarte Kosmetik - natürliche Inhaltsstoffe für strahlende Schönheit."
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

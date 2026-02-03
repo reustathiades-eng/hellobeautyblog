@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "Dalgalı Saç Bakımı"
+description: "Dalgalı saçlar için özel formüllü ürünler ile doğal dalgalarınızı belirginleştirin."
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

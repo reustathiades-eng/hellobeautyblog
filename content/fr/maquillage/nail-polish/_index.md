@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Vernis à Ongles"
+description: "Colorez vos ongles avec notre collection de vernis : couleurs tendance, finitions variées, tenue longue durée."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

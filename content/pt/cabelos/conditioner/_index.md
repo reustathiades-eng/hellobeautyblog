@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Condicionadores para Cabelos"
+description: "Hidrate e desembarace seus cabelos com condicionadores para todos os tipos de fios."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

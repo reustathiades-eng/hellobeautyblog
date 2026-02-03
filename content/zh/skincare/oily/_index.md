@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "油性肌肤护理"
+description: "专为油性肌肤设计的控油护肤品，有效调节油脂分泌，改善毛孔粗大"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

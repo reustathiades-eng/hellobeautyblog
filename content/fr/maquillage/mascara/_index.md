@@ -1,6 +1,6 @@
 ---
 title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+description: "Sublimez votre regard avec notre sélection de mascaras : volume, longueur, waterproof pour des cils parfaits."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

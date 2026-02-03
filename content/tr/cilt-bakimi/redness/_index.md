@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Kızarıklık Giderici"
+description: "Cilt kızarıklığını azaltan ve rahatlatan etkili bakım ürünleri ile hassas cildinizi sakinleştirin."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

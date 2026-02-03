@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Soins Sans Rinçage"
+description: "Traitements capillaires sans rinçage pour nourrir et protéger vos cheveux au quotidien."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

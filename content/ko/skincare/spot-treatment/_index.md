@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "스팟 트리트먼트"
+description: "트러블과 잡티를 집중 관리하는 스팟 트리트먼트로 깨끗한 피부"
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

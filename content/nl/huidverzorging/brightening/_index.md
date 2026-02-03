@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Huid Opheldering"
+description: "Verhelderende producten voor een stralende en egale teint. Shop de beste brightening verzorging."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

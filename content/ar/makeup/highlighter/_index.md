@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "هايلايتر ومضيء الوجه"
+description: "هايلايتر مشع لإبراز ملامح الوجه وإضافة توهج طبيعي ساحر"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

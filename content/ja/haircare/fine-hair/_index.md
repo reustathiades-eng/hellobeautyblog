@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "細毛・猫っ毛用"
+description: "ボリュームアップと根元の立ち上がりを実現。細い髪専用のヘアケア製品"
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

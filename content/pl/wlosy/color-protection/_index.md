@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Ochrona Koloru"
+description: "Zachowaj intensywność koloru włosów na dłużej. Specjalna ochrona dla farbowanych pasm."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

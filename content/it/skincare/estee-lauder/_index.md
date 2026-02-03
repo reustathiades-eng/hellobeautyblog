@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estée Lauder Skincare"
+description: "Lusso e innovazione nella cura della pelle con i trattamenti premium Estée Lauder."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

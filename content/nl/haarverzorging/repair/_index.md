@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Haar Herstel"
+description: "Herstel beschadigd haar met intensieve behandelingen. Restaureer kracht en glans voor gezond uitziend haar."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Detergenti Viso"
+description: "Detergenti delicati ed efficaci per ogni tipo di pelle e routine quotidiana"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

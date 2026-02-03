@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's"
+description: "Cosméticos naturais Kiehl's com ingredientes selecionados. Cuidados eficazes para rosto e corpo."
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Szampony Suche"
+description: "Szampony suche do odświeżenia włosów bez mycia - praktyczne i skuteczne."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

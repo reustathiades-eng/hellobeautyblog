@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "修护护发"
+description: "针对受损发质的修护护发产品，重建发丝结构，恢复健康状态"
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

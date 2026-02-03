@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Kuru Cilt Makyajı"
+description: "Kuru ciltler için nemlendiricili ve besleyici makyaj ürünleri."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

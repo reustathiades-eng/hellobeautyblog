@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "세라마이드"
+description: "건조하고 손상된 피부 장벽을 강화하는 세라마이드 스킨케어 제품을 만나보세요."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

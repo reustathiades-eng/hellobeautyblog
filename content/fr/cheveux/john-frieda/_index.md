@@ -1,6 +1,6 @@
 ---
 title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+description: "Gamme John Frieda : soins capillaires ciblés pour révéler la beauté de vos cheveux."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

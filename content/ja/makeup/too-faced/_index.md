@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced（トゥーフェイスド）"
+description: "キュートで遊び心溢れるToo Facedのコスメ。高品質でトレンド感のあるメイクアップを楽しもう。"
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "بخاخات تثبيت الشعر"
+description: "بخاخات تثبيت قوية ومرنة لتصفيفات شعر تدوم طويلاً"
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

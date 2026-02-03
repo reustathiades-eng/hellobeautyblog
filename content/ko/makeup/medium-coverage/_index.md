@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "미디엄 커버리지"
+description: "자연스럽고 적당한 커버력의 베이스 메이크업 제품"
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

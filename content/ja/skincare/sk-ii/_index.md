@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II（エスケーツー）"
+description: "ピテラ™の力で透明感のある美肌へ。日本発の高級スキンケアブランド"
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

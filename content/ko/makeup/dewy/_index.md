@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "글로우 메이크업"
+description: "촉촉하고 생기 넘치는 글로우 피부 연출을 위한 데위 메이크업 제품들"
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

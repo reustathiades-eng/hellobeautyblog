@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Tonic"
+description: "Gezichtstonic voor het reinigen, verfijnen van poriën en voorbereiden van de huid."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

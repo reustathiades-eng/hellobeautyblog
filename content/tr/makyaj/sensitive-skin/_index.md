@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "Hassas Cilt Makyajı"
+description: "Hassas ciltler için özel formülle geliştirilmiş nazik makyaj ürünleri."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Nettoyants Visage"
+description: "Gels, laits et mousses nettoyantes pour une peau propre et fraîche."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

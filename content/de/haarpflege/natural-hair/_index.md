@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "Naturhaar"
+description: "Natürliche Haarpflege ohne schädliche Chemikalien. Sanfte Pflege für gesundes und glänzendes Haar."
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Brwi"
+description: "Kosmetyki do stylizacji brwi. Ołówki, pomady, żele i inne produkty do idealnego kształtu brwi."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

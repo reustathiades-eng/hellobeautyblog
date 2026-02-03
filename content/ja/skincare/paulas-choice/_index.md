@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "Paula's Choice"
+description: "科学的根拠に基づいたPaula's Choiceの革新的スキンケア製品。"
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

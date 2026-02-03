@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Brilho Capilar"
+description: "Tratamentos para cabelos com brilho intenso, maciez e luminosidade natural duradoura."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

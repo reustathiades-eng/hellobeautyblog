@@ -1,6 +1,6 @@
 ---
-title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+title: "DIOR BEAUTY"
+description: "파리지엔의 우아함을 담은 DIOR BEAUTY 럭셔리 메이크업"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

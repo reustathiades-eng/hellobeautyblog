@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Prodotti Illuminanti"
+description: "Scopri i migliori prodotti illuminanti per una pelle radiosa e luminosa"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

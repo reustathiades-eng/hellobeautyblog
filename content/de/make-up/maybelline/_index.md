@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "Maybelline Make-up"
+description: "Trend-Make-up von Maybelline New York für jeden Anlass und jeden Stil."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

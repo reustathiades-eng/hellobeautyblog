@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Cheveux Clairsemés"
+description: "Solutions efficaces pour densifier et fortifier les cheveux fins et clairsemés."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

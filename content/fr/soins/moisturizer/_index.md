@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Hydratants"
+description: "Crèmes et sérums hydratants pour nourrir et protéger votre peau au quotidien."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

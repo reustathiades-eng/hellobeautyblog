@@ -1,6 +1,6 @@
 ---
 title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+description: "Découvrez les soins dermatologiques Vichy à l'eau thermale pour une peau saine et éclatante."
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

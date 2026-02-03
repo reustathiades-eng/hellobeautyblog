@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "Olheiras e Contorno dos Olhos"
+description: "Tratamentos específicos para diminuir olheiras e cuidar da delicada região dos olhos."
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Illuminanti Viso"
+description: "Illuminanti in polvere e liquidi per zigomi scolpiti e punti luce naturali che valorizzano il viso."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

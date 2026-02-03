@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "مات"
+description: "اكتشفي مجموعة المكياج المات للحصول على لمسة نهائية غير لامعة مثالية"
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

@@ -1,6 +1,6 @@
 ---
 title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+description: "Laat je huid stralen met professionele highlighters. Creëer een natuurlijke of intense glow."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

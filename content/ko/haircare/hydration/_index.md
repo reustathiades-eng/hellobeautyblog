@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "모발 수분 케어"
+description: "건조하고 손상된 모발에 깊은 수분을 공급하여 촉촉하고 생기있는 머리카락으로 가꾸세요"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

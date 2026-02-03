@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "ストレートヘア・直毛ケア"
+description: "ストレートヘア専用のヘアケア製品。なめらかで美しいストレートヘアを保つアイテム。"
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

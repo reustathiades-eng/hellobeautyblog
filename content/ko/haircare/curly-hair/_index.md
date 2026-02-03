@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "곱슬머리 케어"
+description: "곱슬머리 전용 제품으로 탄력 있고 부드러운 컬링 헤어 스타일링"
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

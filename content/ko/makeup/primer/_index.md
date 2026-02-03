@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "프라이머"
+description: "매끄럽고 오래가는 베이스 메이크업을 위한 프라이머"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "Doğal Saç Bakımı"
+description: "Doğal saçlar için organik ve kimyasal içermeyen bakım ürünleri. Sağlıklı ve güçlü saçlar."
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

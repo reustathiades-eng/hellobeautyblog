@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "برونزر وكونتور"
+description: "برونزر طبيعي لإضافة دفء وتحديد ملامح الوجه بإطلالة صيفية"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

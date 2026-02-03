@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "太毛・剛毛ケア"
+description: "太くて硬い髪質専用のヘアケア製品。扱いやすく、まとまりのある美しい髪へ導くアイテム。"
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

@@ -1,6 +1,6 @@
 ---
 title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+description: "Prodotti per capelli Redken professionali: shampoo, balsami e trattamenti per ogni tipo di capello."
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

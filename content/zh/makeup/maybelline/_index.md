@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "Maybelline美宝莲彩妆"
+description: "美宝莲专业彩妆产品，打造时尚妆容，展现自信魅力"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

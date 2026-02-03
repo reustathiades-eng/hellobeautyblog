@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "तैलीय त्वचा के लिए प्रोडक्ट्स"
+description: "तैलीय त्वचा के लिए विशेष स्किनकेयर उत्पाद - तेल कंट्रोल और मैट फिनिश के लिए।"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

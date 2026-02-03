@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "स्टाइलिंग जेल - हेयर स्टाइलिंग"
+description: "परफेक्ट हेयर स्टाइल के लिए बेस्ट स्टाइलिंग जेल"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

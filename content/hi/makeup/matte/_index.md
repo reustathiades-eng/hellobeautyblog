@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "मैट फिनिश मेकअप"
+description: "मैट फिनिश के लिए टॉप प्रोडक्ट्स। ऑयल फ्री और लंबे समय तक टिकने वाला।"
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Paznokcie"
+description: "Lakiery, odżywki i akcesoria do paznokci. Wszystko dla pięknego i trwałego manicure."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

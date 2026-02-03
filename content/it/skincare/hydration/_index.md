@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Idratazione Viso"
+description: "Creme e sieri idratanti per mantenere la pelle morbida, elastica e profondamente nutrita."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

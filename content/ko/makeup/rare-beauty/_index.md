@@ -1,6 +1,6 @@
 ---
-title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+title: "레어뷰티 메이크업"
+description: "셀레나 고메즈의 레어뷰티로 자연스럽고 트렌디한 메이크업 완성"
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

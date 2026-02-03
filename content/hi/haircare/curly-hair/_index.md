@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "कर्ली हेयर प्रोडक्ट्स"
+description: "घुंघराले बालों के लिए विशेष प्रोडक्ट्स। कर्ल्स को डिफाइन करें और फ्रिज़ कंट्रोल करें।"
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

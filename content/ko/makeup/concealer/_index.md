@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "컨실러"
+description: "완벽한 커버력으로 잡티와 다크서클을 자연스럽게 가려주는 컨실러 제품들을 만나보세요."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

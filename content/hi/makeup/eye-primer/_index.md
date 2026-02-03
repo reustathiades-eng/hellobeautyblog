@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "आई प्राइमर"
+description: "लंबे समय तक टिकने वाले आई प्राइमर से आंखों का मेकअप करें परफेक्ट और चमकदार"
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

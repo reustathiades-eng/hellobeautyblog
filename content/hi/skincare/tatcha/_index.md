@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha स्किनकेयर"
+description: "जापानी सौंदर्य परंपरा से प्रेरित Tatcha के प्रीमियम स्किनकेयर उत्पाद।"
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

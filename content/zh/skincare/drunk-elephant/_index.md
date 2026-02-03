@@ -1,6 +1,6 @@
 ---
-title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+title: "Drunk Elephant醉象"
+description: "Drunk Elephant醉象护肤品，科学配方温和有效，打造健康肌肤"
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

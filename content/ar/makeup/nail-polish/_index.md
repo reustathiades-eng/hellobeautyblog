@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "طلاء الأظافر"
+description: "طلاء أظافر بألوان متنوعة وتغطية مثالية تدوم لفترة طويلة"
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

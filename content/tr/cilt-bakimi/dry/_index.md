@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Kuru Cilt Bakımı"
+description: "Kuru cilt için özel formüllü nemlendirici kremler ve bakım ürünleri. Derinlemesine nem."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

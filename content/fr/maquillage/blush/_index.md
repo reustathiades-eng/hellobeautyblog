@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Blush et Fard à Joues"
+description: "Sublimez vos pommettes avec notre sélection de blush pour un teint éclatant et naturel."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

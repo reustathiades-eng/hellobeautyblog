@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "Şampuan Çeşitleri"
+description: "Her saç tipine uygun şampuan seçenekleri ile saçlarınızı temizleyin ve besleyin."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

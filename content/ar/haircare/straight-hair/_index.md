@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "الشعر الناعم المفرود"
+description: "عناية خاصة بالشعر الناعم لحماية ولمعان وقوة إضافية"
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

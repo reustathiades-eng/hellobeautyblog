@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Peau Sèche"
+description: "Maquillage hydratant pour peau sèche : formules nourrissantes qui subliment sans dessécher."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

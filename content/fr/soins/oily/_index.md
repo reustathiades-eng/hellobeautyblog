@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Peau Grasse"
+description: "Contrôlez l'excès de sébum avec nos soins matifiants et purifiants spécialement conçus pour les peaux grasses."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Cobertura Total"
+description: "Bases y correctores de cobertura completa. Perfección total para cualquier tipo de piel."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

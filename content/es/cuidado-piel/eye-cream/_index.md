@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Contorno de Ojos"
+description: "Cremas y tratamientos para el contorno de ojos. Reduce ojeras, arrugas y signos de fatiga."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

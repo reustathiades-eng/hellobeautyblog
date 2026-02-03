@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "Porost Włosów"
+description: "Stymuluj wzrost włosów naturalnymi i skutecznymi produktami. Gęstsze pasma w zasięgu ręki."
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

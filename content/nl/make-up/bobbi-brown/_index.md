@@ -1,6 +1,6 @@
 ---
-title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+title: "Bobbi Brown Make-up"
+description: "Natuurlijke Bobbi Brown cosmetica. Enhances je natuurlijke schoonheid met tijdloze elegantie."
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

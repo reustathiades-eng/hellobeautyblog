@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Huiles Visage et Corps"
+description: "Découvrez notre sélection d'huiles nourrissantes pour une peau douce et hydratée au quotidien."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

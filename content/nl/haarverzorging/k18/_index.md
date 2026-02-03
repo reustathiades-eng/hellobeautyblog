@@ -1,6 +1,6 @@
 ---
 title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+description: "K18 leave-in molecular repair hair mask en behandelingen voor beschadigd haar. Moleculaire reparatie."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

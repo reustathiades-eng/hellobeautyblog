@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "Capelli Fini"
+description: "Prodotti specifici per capelli fini e sottili. Volume e corpo senza appesantire la chioma."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

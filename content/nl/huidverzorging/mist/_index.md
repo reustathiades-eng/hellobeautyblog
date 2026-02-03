@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Gezichtsspray & Mist"
+description: "Verfrissende gezichtssprays en mists voor hydratatie en een stralende teint."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

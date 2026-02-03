@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Işıltılı Makyaj Ürünleri"
+description: "Doğal ışıltı veren makyaj ürünleri ile sağlıklı ve nemli bir cilt görünümü yakalayın."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

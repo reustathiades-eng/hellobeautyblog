@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "育毛・発毛ケア"
+description: "健やかな髪の成長をサポート。育毛成分配合のヘアケア製品で理想のヘアへ。"
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

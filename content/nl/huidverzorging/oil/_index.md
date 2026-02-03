@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Gezichtsoliën"
+description: "Voed en hydrateer je huid met luxueuze gezichtsoliën. Voor een zachte, soepele en stralende huid."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

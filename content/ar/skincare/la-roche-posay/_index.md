@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "منتجات La Roche-Posay الطبية"
+description: "منتجات La Roche-Posay الموصى بها من أطباء الجلدية للبشرة الحساسة"
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

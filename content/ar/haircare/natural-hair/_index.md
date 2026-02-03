@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "الشعر الطبيعي"
+description: "منتجات عناية طبيعية للشعر خالية من الكيماويات الضارة لجمال أصيل"
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

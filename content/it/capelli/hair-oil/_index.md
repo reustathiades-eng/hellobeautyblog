@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Oli per Capelli Nutrienti"
+description: "Oli naturali e sieri nutritivi per capelli secchi, per nutrimento intenso e protezione quotidiana."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

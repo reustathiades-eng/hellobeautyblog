@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "आंखों का मेकअप"
+description: "आईशैडो, काजल, मस्कारा और आईलाइनर से बनाएं खूबसूरत और आकर्षक आंखें"
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier हेयरकेयर"
+description: "Garnier के प्रीमियम हेयर प्रोडक्ट्स। मजबूत और चमकदार बालों के लिए बेस्ट कलेक्शन।"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

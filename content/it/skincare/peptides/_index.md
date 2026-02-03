@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Peptidi per la Pelle"
+description: "Scopri i migliori prodotti skincare con peptidi per una pelle più giovane e compatta."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

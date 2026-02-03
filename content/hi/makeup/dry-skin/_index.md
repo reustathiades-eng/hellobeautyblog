@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "रूखी त्वचा के लिए मेकअप"
+description: "ड्राई स्किन के लिए मॉइस्चराइजिंग और हाइड्रेटिंग मेकअप रेंज।"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

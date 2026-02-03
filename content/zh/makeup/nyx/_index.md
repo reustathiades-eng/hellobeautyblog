@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX彩妆"
+description: "NYX专业彩妆品牌，高性价比彩妆产品首选"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

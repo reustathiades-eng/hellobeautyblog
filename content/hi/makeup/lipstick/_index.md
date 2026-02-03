@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "लिपस्टिक"
+description: "मैट से ग्लॉसी तक, हर ऑकेजन के लिए परफेक्ट लिपस्टिक कलेक्शन।"
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

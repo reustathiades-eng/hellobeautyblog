@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Protección Térmica"
+description: "Protege tu cabello del daño por calor con nuestros productos termoprotectores profesionales."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Peptiden Huidverzorging"
+description: "Ontdek peptiden crèmes en serums voor stevigere, jongere huid en anti-aging resultaten."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Pielęgnacja Skóry Głowy"
+description: "Skuteczna pielęgnacja problemów skóry głowy. Łupież, swędzenie i podrażnienia to przeszłość."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

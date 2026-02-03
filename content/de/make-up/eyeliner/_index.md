@@ -1,6 +1,6 @@
 ---
 title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+description: "Präzise Eyeliner für perfekte Augen-Make-up Looks - von klassisch bis dramatisch."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

@@ -1,6 +1,6 @@
 ---
 title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+description: "Krijg een gezonde, zongebruinde teint met onze bronzer selectie. Perfect voor contouren en warmte."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

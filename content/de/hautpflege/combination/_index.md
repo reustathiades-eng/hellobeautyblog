@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Mischhaut"
+description: "Speziell entwickelte Hautpflege für Mischhaut - balanciert fettige T-Zone und trockene Wangenpartien."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

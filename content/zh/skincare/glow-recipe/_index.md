@@ -1,6 +1,6 @@
 ---
-title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+title: "Glow Recipe果然美护肤"
+description: "Glow Recipe果然美天然果萃护肤，温和有效，打造水润透亮好肌肤"
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

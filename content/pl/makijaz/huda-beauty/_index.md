@@ -1,6 +1,6 @@
 ---
 title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+description: "Odkryj luksusowe kosmetyki Huda Beauty - palety cieni, pomadki i produkty do makijażu najwyższej jakości."
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

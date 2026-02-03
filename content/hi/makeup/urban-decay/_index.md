@@ -1,6 +1,6 @@
 ---
 title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+description: "Urban Decay के बोल्ड और वाइब्रेंट मेकअप कलेक्शन एक्सप्लोर करें।"
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

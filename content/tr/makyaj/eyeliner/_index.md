@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "Göz Kalemi"
+description: "Suya dayanıklı ve uzun süre kalıcı göz kalemleri ile etkileyici bakışlara sahip olun."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

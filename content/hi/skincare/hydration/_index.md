@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "हाइड्रेशन और मॉइस्चर केयर"
+description: "त्वचा की नमी बनाए रखने वाले हाइड्रेटिंग सीरम और मॉइस्चराइजर।"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

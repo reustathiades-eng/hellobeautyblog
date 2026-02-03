@@ -1,6 +1,6 @@
 ---
 title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+description: "Pantene haarverzorging voor sterk en gezond haar. Shampoo, conditioner en treatments voor elke haartype."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

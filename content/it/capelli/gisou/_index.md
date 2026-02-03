@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Prodotti Gisou con miele di Mirsalehi: nutrimento naturale per capelli morbidi e luminosi."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

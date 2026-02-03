@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Poudres"
+description: "Poudres libres et compactes pour fixer le maquillage et matifier le teint."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

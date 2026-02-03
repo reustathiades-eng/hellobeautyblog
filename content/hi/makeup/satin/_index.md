@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "सैटिन फिनिश मेकअप"
+description: "सैटिन फिनिश मेकअप प्रोडक्ट्स। स्मूथ और सिल्की लुक के लिए बेस्ट चॉइस।"
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

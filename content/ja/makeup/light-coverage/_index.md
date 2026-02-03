@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "ライトカバー"
+description: "自然な仕上がりのライトカバーファンデーション。素肌感を活かした軽やかなベースメイク"
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

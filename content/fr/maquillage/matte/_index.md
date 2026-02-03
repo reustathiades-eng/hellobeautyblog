@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Fini Mat"
+description: "Obtenez un maquillage longue tenue avec nos produits à fini mat pour un look sophistiqué sans brillance."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

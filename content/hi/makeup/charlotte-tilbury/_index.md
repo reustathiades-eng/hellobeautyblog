@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+description: "Charlotte Tilbury के लक्जरी मेकअप से ग्लैमरस लुक पाएं।"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

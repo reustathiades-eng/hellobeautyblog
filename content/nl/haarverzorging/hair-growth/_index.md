@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "Haargroei Producten"
+description: "Stimuleer haargroei met onze effectieve producten. Versterk je haar en bevorder natuurlijke haargroei."
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

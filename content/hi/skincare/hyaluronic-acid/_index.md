@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "हायल्यूरोनिक एसिड सीरम"
+description: "हायल्यूरोनिक एसिड से भरपूर प्रोडक्ट्स। गहरी नमी और हाइड्रेशन के लिए आजमाएं।"
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

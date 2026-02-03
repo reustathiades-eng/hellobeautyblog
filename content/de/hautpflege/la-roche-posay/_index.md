@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay"
+description: "Dermatologisch getestete Hautpflege von La Roche-Posay für empfindliche und problematische Haut."
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

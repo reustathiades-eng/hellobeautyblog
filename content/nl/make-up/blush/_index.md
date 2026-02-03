@@ -1,6 +1,6 @@
 ---
 title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+description: "Geef je wangen kleur met onze blush collectie. Van subtiele tot opvallende tinten voor elke look."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

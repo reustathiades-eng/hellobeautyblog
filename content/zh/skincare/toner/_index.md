@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "爽肤水"
+description: "各种功效爽肤水,二次清洁补水,平衡肌肤pH值,为后续护理做准备"
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

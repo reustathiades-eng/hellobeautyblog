@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "薄毛・細毛ケア"
+description: "薄毛や細毛の悩みに特化したヘアケア製品。ボリュームアップで自信のある髪に。"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

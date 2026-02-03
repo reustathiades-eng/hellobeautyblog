@@ -1,6 +1,6 @@
 ---
 title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+description: "Makeup Urban Decay: palette ombretti Naked, eyeliner e fondotinta per look rock e glamour urbano."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Maquiagem para Pele Oleosa"
+description: "Produtos específicos para pele oleosa que controlam a oleosidade e garantem makeup duradoura."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Gezichtsreinigers"
+description: "Milde en effectieve gezichtsreinigers voor alle huidtypes. Voor een schone en frisse huid."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

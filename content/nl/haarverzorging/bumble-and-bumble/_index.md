@@ -1,6 +1,6 @@
 ---
-title: "Bumble And Bumble"
-description: "Discover the best bumble and bumble products. Expert reviews and guides."
+title: "Bumble and Bumble"
+description: "Luxe Bumble and Bumble haarstyling voor salon-worthy resultaten thuis."
 emoji: "🐝"
 subcategory_type: "brand"
 subcategory_value: "bumble-and-bumble"

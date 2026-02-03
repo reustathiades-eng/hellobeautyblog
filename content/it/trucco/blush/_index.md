@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Blush e Fard"
+description: "Scopri i migliori blush e fard per un colorito naturale e luminoso. Perfetti per ogni tonalità di pelle."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

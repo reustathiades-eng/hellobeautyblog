@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "细软发质护理"
+description: "专为细软发质设计的洗护产品，增加发量蓬松感，不压塌发根"
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "ハリ・弾力ケア"
+description: "肌のハリと弾力を取り戻すスキンケア製品。エイジングケアに最適なアイテムを厳選してお届けします。"
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

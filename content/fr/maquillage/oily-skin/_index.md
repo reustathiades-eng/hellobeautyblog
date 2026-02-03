@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Maquillage Peau Grasse"
+description: "Produits makeup spécial peau grasse : fonds de teint matifiants et longue tenue pour un teint parfait toute la journée."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

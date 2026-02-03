@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "ボリュームアップ・ふんわりヘア"
+description: "ぺたんこ髪にボリュームを。根元から立ち上がるふんわり美髪を叶えます。"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

@@ -1,6 +1,6 @@
 ---
 title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+description: "전 세계가 사랑하는 Olay의 혁신적인 스킨케어 제품으로 건강한 피부를 만들어보세요."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

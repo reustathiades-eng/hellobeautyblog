@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "Haarolie"
+description: "Voedende haaroliën voor droog en beschadigd haar. Herstel, glans en bescherming in één product."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

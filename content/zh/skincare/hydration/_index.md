@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "补水保湿护肤"
+description: "深层补水保湿护肤品，锁水滋润，让肌肤水润饱满有光泽"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "头皮护理"
+description: "专业头皮护理产品，改善头皮健康状况，有效控油去屑，促进健康发质"
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

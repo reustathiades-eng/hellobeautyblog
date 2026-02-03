@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Glans"
+description: "Haarproducten voor extra glans en straling. Voor gezond uitziend, glanzend haar elke dag."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

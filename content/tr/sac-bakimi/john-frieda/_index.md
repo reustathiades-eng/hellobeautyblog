@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda Saç Bakım Serisi"
+description: "John Frieda'nın uzman formülleri ile saç tipinize özel bakım çözümleri. Salon kalitesi evde."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+title: "Charlotte Tilburyコスメ"
+description: "英国発ラグジュアリーコスメブランド。セレブ愛用の高級メイクアップで特別な美しさを演出。"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

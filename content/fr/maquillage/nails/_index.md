@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Vernis et Soins Ongles"
+description: "Vernis à ongles tendance, bases, top coat et soins pour des ongles parfaits et résistants."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

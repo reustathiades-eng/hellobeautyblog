@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Glycolzuur Producten"
+description: "Exfolieer en vernieuw je huid met glycolzuur. Voor een gladde, stralende en egale teint."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

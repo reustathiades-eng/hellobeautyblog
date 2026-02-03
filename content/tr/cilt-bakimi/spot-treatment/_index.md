@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Leke Karşıtı Bakım"
+description: "Cilt lekelerine ve akne izlerine karşı etkili nokta bakım ürünleri ile kusursuz bir cilde kavuşun."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

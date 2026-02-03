@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Błyszczyki do Ust"
+description: "Błyszczyki nadające ustom piękny połysk. Nawilżające formuły w różnych kolorach."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

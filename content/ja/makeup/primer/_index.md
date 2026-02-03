@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "化粧下地・プライマー"
+description: "メイクの仕上がりと持ちを格上げする化粧下地。毛穴カバーから保湿まで多機能タイプ"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Sérum Facial"
+description: "Sérums concentrados para tratamento intensivo da pele com resultados visíveis e duradouros."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

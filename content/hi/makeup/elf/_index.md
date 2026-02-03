@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f. Cosmetics"
+description: "एफोर्डेबल e.l.f. ब्रांड के क्वालिटी मेकअप प्रोडक्ट्स।"
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

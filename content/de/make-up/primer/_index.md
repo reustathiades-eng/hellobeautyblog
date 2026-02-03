@@ -1,6 +1,6 @@
 ---
 title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+description: "Perfekte Grundlage für langhaltende Makeup-Looks. Professionelle Primer für jeden Hauttyp."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

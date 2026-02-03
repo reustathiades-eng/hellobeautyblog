@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "散粉蜜粉"
+description: "定妆散粉蜜粉，持久控油定妆，细腻粉质打造丝滑妆感，妆容更持久"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

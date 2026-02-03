@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "메이벨린 화장품"
+description: "메이벨린의 다양한 메이크업 제품으로 완벽한 뷰티 룩을 완성하세요"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

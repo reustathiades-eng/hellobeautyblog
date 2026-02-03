@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé"
+description: "Cuidados profissionais TRESemmé para cabelos saudáveis, brilhantes e sedosos."
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "طلاء الأظافر"
+description: "مجموعة واسعة من ألوان طلاء الأظافر ومنتجات العناية للحصول على أظافر مثالية"
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

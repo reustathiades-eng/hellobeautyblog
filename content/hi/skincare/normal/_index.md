@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "सामान्य त्वचा के लिए"
+description: "नॉर्मल स्किन के लिए विशेष स्किनकेयर प्रोडक्ट्स। स्वस्थ और संतुलित त्वचा बनाए रखें।"
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

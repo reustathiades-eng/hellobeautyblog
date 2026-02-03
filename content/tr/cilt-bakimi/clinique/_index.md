@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique Cilt Bakım Ürünleri"
+description: "Dermatoloji testli Clinique cilt bakım ürünleri ile hassas ve etkili bakım rutini."
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

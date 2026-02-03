@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Retinolo"
+description: "Sieri e creme al retinolo per rinnovare la pelle, ridurre rughe e migliorare la texture cutanea."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

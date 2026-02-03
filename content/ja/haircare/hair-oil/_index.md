@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "ヘアオイル・髪用美容液"
+description: "天然由来のヘアオイルで髪に潤いとツヤを。乾燥やダメージから髪を守る高品質オイルケア製品。"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

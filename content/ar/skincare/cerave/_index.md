@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "منتجات CeraVe للعناية بالبشرة"
+description: "مجموعة CeraVe المتكاملة لترطيب وحماية البشرة بتركيبة السيراميد الفعالة"
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

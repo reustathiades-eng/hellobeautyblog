@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Cera Sucha"
+description: "Kosmetyki do cery suchej. Intensywnie nawilżające kremy, serum i toniki przywracające komfort skórze."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

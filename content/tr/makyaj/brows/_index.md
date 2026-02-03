@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Kaş Makyajı"
+description: "Mükemmel kaş şekli için kaş kalemi, jel ve pudra ürünleri keşfedin."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

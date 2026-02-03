@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Włosy Grube"
+description: "Specjalne produkty do pielęgnacji grubych włosów. Kontrola i wygładzenie trudnych włosów."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

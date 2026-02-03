@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Farbschutz"
+description: "Spezialpflege für coloriertes Haar - langanhaltende Farbbrillanz"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

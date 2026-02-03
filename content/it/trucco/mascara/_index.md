@@ -1,6 +1,6 @@
 ---
 title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+description: "Mascara per ciglia voluminose, allungate e dal look intenso e definito."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

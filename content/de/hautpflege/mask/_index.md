@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Gesichtsmasken"
+description: "Intensive Gesichtsmasken für alle Hauttypen - reinigend, pflegend und revitalisierend."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

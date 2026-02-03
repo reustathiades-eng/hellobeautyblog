@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "लिप मेकअप"
+description: "लिपस्टिक, लिप ग्लॉस और लिप बाम से बनाएं मुलायम और खूबसूरत होंठ"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

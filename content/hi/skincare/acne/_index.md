@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "पिंपल्स और मुंहासे"
+description: "मुंहासों और पिंपल्स से छुटकारा पाने के लिए क्लिनिकली प्रूवन समाधान।"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

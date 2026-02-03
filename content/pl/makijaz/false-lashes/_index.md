@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Sztuczne Rzęsy"
+description: "Sztuczne rzęsy i kleje do rzęs. Naturalne i dramatyczne efekty dla idealnego makijażu oczu."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

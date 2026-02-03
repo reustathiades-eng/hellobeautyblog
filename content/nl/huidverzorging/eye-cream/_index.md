@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Oogcrème"
+description: "Luxe oogcrèmes tegen rimpels, wallen en donkere kringen. Voor een stralende oogcontour."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

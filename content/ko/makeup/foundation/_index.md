@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "파운데이션"
+description: "완벽한 베이스 메이크업을 위한 최고 품질의 파운데이션 컬렉션"
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "다크스팟"
+description: "기미, 잡티, 색소침착을 효과적으로 개선하는 다크스팟 케어 전용 제품들."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "हेयर ऑयल"
+description: "बालों को पोषण और मजबूती देने वाले प्राकृतिक और आयुर्वेदिक तेल।"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

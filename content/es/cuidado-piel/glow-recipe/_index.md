@@ -1,6 +1,6 @@
 ---
-title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+title: "Glow Recipe - K-Beauty"
+description: "Productos Glow Recipe con ingredientes naturales para una piel radiante y saludable."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

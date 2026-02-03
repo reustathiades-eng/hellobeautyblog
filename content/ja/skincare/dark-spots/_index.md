@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "シミ・色素沈着ケア"
+description: "シミ・そばかす・色素沈着に効く美白化粧品で、透明感あふれる均一な美肌を目指しましょう。"
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

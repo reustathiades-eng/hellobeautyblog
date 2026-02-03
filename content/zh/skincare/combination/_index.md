@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "混合性肌肤"
+description: "专为混合肌设计，平衡油脂分泌，改善T区出油"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

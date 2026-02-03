@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "祛痘精华"
+description: "针对性祛痘产品,快速消炎镇静,淡化痘印,恢复肌肤光滑无瑕"
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

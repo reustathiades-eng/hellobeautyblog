@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Anti-Falten & Anti-Aging"
+description: "Hochwertige Anti-Aging Pflege gegen Falten für jugendlich straffe und glatte Haut."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

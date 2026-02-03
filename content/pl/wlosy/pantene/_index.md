@@ -1,6 +1,6 @@
 ---
 title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+description: "Profesjonalna pielęgnacja włosów Pantene. Szampony, odżywki i maski dla zdrowych, pięknych włosów."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

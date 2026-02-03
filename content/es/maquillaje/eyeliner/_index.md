@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "Delineador de Ojos"
+description: "Delineadores precisos y duraderos para definir tu mirada con el trazo perfecto."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

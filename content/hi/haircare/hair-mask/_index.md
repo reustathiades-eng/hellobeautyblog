@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "हेयर मास्क और ट्रीटमेंट"
+description: "गहरी पोषण देने वाले हेयर मास्क से बालों को बनाएं मुलायम और चमकदार।"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

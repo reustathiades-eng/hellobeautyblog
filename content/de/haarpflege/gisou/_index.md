@@ -1,6 +1,6 @@
 ---
-title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+title: "Gisou Haarpflege"
+description: "Luxuriöse Gisou Haarpflegeprodukte mit Honig. Für natürlichen Glanz und geschmeidige Haare."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

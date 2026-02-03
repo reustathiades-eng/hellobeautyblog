@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "립스틱"
+description: "다양한 컬러와 텍스처의 립스틱으로 매력적인 입술 연출"
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

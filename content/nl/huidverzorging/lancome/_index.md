@@ -1,6 +1,6 @@
 ---
-title: "Lancome"
-description: "Discover the best lancome products. Expert reviews and guides."
+title: "Lancôme Huidverzorging"
+description: "Luxe Lancôme skincare voor stralende huid. Premium anti-aging en hydraterende formules."
 emoji: "🌹"
 subcategory_type: "brand"
 subcategory_value: "lancome"

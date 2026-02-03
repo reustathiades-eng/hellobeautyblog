@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Glykolsäure"
+description: "Glykolsäure-Peeling für glatte, strahlende Haut. Entfernt abgestorbene Hautzellen sanft."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

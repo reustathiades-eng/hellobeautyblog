@@ -1,6 +1,6 @@
 ---
 title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+description: "Makeup Tarte naturale e cruelty-free: palette, blush e prodotti iconici per un beauty look etico."
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

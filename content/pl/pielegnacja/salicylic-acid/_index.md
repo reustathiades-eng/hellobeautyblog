@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "Kwas Salicylowy"
+description: "Kosmetyki z kwasem salicylowym. Oczyszczają pory i regulują wydzielanie sebum."
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

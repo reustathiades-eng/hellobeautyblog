@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "美白・ブライトニング"
+description: "透明感のある明るい肌へ導く美白ケア製品をご紹介します。"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

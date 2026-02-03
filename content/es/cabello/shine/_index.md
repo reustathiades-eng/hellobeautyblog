@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Brillo Capilar"
+description: "Tratamientos y productos para conseguir un cabello brillante, luminoso y con aspecto saludable."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

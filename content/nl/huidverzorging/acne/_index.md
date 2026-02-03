@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Acne Verzorging"
+description: "Effectieve anti-acne producten tegen puistjes en onzuiverheden. Voor een heldere huid."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

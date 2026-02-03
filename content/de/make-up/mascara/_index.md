@@ -1,6 +1,6 @@
 ---
 title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+description: "Volumen, Länge und Definition für Ihre Wimpern. Entdecken Sie wasserfeste und pflegende Mascara-Formeln."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

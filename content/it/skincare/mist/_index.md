@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Spray Viso e Nebulizzatori"
+description: "Spray idratanti e rinfrescanti per il viso. Perfetti per idratare la pelle durante il giorno."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

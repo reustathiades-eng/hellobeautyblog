@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Creme Idratanti"
+description: "Le migliori creme idratanti per viso e corpo. Nutri e proteggi la tua pelle ogni giorno."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

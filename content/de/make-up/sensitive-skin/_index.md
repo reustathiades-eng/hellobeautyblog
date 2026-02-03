@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "Make-up für empfindliche Haut"
+description: "Sanfte Make-up Produkte speziell entwickelt für empfindliche und reaktive Haut."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "全遮瑕彩妆"
+description: "高遮瑕力彩妆产品，完美覆盖肌肤瑕疵，呈现无瑕妆容"
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

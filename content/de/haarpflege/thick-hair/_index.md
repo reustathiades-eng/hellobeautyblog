@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Dickes Haar"
+description: "Haarpflege für dickes und widerspenstiges Haar. Bändigt und pflegt kräftiges Haar optimal."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

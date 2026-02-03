@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "سيروم الشعر"
+description: "سيروم الشعر المغذي لترطيب عميق ولمعان صحي وحماية فائقة"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

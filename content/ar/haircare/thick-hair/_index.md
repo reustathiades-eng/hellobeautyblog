@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "الشعر الكثيف"
+description: "منتجات مصممة خصيصاً للشعر الكثيف للتحكم والتغذية المثالية"
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

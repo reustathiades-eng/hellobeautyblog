@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Capelli Lucidi e Brillanti"
+description: "Trattamenti per capelli spenti che donano lucentezza naturale e riflessi luminosi istantanei."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

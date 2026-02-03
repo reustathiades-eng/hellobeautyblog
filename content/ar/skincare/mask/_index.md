@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "أقنعة الوجه"
+description: "أقنعة الوجه المغذية والمرطبة لتنظيف عميق وإشراق فوري للبشرة بجميع أنواعها"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

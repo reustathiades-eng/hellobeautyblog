@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "البشرة العادية"
+description: "منتجات العناية المثالية للبشرة العادية للحفاظ على توازنها الطبيعي ونعومتها الدائمة"
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

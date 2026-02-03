@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 Haarmaske"
+description: "Revolutionary K18 Leave-in Molecular Hair Mask für intensive Reparatur geschädigter Haare."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

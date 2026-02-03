@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "カラーヘア用"
+description: "カラーリングした髪を守る専用ケア。色持ちを良くして艶やかな髪色をキープ"
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Nagellak"
+description: "Trendy nagellakken in alle kleuren. Langhoudende formules voor perfecte manicures thuis."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

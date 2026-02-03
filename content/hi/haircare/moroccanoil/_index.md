@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil हेयर प्रोडक्ट्स"
+description: "आर्गन ऑयल युक्त Moroccanoil के प्रीमियम हेयर केयर और स्टाइलिंग उत्पाद।"
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

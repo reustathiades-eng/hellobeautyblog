@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Oogschaduw"
+description: "Ontdek prachtige oogschaduw kleuren voor elke look. Van subtiel tot dramatisch voor perfecte oogmake-up."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

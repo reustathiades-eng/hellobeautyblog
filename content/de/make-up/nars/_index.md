@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS"
+description: "NARS Kosmetik - Hochwertige Make-up Produkte für professionelle Looks und intensive Farben."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

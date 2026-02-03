@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "假睫毛"
+description: "优质假睫毛产品，瞬间打造浓密卷翘睫毛，放大双眼魅力"
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

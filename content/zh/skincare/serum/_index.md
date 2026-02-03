@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "精华液"
+description: "高浓度护肤精华液，针对性解决肌肤问题，焕发肌肤光彩"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

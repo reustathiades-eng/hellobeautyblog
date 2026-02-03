@@ -1,6 +1,6 @@
 ---
-title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+title: "Drunk Elephant स्किनकेयर"
+description: "प्रीमियम Drunk Elephant ब्रांड के स्किनकेयर उत्पाद"
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

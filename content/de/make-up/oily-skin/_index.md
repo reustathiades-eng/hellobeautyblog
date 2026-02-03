@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Make-up für fettige Haut"
+description: "Spezielles Make-up für fettige Haut - langanhaltend und mattierend. Perfekter Teint den ganzen Tag!"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

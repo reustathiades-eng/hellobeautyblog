@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Dudak Parlatıcısı"
+description: "Parlak ve çekici dudaklar için kaliteli dudak parlatıcısı seçeneklerini keşfedin."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

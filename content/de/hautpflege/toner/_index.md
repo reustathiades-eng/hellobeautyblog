@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "Gesichtswasser"
+description: "Erfrischende Gesichtswasser für den perfekten Abschluss Ihrer Hautpflegeroutine."
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

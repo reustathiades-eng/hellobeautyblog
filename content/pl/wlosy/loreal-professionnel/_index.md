@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oréal Professionnel"
+description: "Salonowa jakość L'Oréal Professionnel - kosmetyki do włosów używane przez fryzjerów."
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

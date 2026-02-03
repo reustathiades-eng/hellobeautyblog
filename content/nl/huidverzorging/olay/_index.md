@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "Olay Huidverzorging"
+description: "Ontdek Olay's premium huidverzorgingsproducten. Voor een stralende, gehydrateerde en jeugdige huid."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

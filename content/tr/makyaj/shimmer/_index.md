@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Işıltılı Makyaj"
+description: "Parıltı ve ışıltı veren makyaj ürünleri. Özel günler için göz alıcı görünüm."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

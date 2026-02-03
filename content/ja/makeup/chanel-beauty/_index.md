@@ -1,6 +1,6 @@
 ---
-title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+title: "CHANEL Beauty（シャネル）"
+description: "エレガンスの象徴CHANELの美容アイテム。洗練されたラグジュアリーコスメで上質な美しさを。"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

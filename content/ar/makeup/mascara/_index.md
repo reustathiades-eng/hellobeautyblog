@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "الماسكارا"
+description: "ماسكارا لرموش كثيفة وطويلة مع ثبات يدوم طوال اليوم"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

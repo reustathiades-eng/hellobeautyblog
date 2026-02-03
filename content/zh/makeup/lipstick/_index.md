@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "口红唇膏"
+description: "精选口红唇膏产品，丰富色彩选择，打造迷人双唇"
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

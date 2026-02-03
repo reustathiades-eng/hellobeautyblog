@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil Capelli"
+description: "Oli e trattamenti Moroccanoil con argan per capelli nutriti, morbidi e brillanti."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Trockene Haut"
+description: "Intensive Pflege für trockene Haut. Feuchtigkeitsspendende Produkte für geschmeidige Haut!"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

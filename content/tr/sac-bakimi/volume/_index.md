@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Hacim Veren Saç Bakımı"
+description: "İnce ve düz saçlara hacim ve dolgunluk kazandıran profesyonel ürünler."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

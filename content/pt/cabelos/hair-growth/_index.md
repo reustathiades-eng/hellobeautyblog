@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "Crescimento Capilar"
+description: "Produtos para estimular o crescimento do cabelo. Tratamentos anti-queda e fortalecedores."
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

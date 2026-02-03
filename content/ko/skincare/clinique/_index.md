@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "Clinique 스킨케어"
+description: "클리니크 브랜드의 프리미엄 스킨케어 제품 컬렉션"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

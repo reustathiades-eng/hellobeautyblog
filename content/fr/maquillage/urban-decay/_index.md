@@ -1,6 +1,6 @@
 ---
 title: "Urban Decay"
-description: "Discover the best urban decay products. Expert reviews and guides."
+description: "Maquillage Urban Decay audacieux : couleurs vibrantes et textures haute performance."
 emoji: "🌆"
 subcategory_type: "brand"
 subcategory_value: "urban-decay"

@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "スタイリングクリーム"
+description: "髪に自然なツヤとまとまりを与えるスタイリングクリーム。理想のヘアスタイルを一日中キープ。"
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

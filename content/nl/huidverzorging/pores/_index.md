@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Poriën"
+description: "Effectieve producten voor zichtbare poriën. Verfijn uw huidtextuur voor een gladde teint."
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

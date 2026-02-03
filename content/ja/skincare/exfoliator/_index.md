@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "角質ケア・ピーリング"
+description: "スクラブやAHA・BHA配合の角質ケア化粧品で、つるつる美肌を手に入れましょう。"
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

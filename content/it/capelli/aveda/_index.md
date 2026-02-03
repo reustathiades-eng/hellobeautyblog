@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda Haircare"
+description: "Prodotti Aveda naturali per capelli: trattamenti botanici eco-sostenibili per ogni tipo di chioma."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

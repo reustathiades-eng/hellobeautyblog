@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "아이크림"
+description: "눈가 주름과 다크서클 케어를 위한 전문 아이크림"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "Tresemmé Saç Bakım Ürünleri"
+description: "Profesyonel kalitede Tresemmé şampuan, saç kremi ve bakım ürünleri ile sağlıklı saçlar."
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

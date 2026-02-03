@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "الشعر الخفيف"
+description: "حلول فعالة لتقوية وتكثيف الشعر الخفيف واستعادة كثافته الطبيعية"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

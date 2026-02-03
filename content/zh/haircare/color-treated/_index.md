@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "染烫护理"
+description: "专为染烫发质设计的护理产品，锁色护色，修复化学损伤，延长发色持久度"
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Cabelo Grosso"
+description: "Produtos para cabelos grossos e volumosos. Controle, disciplina e tratamentos intensivos especializados."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

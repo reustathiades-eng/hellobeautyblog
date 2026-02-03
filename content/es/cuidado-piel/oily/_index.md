@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Piel Grasa"
+description: "Productos especializados para piel grasa. Controla el exceso de grasa y minimiza los poros dilatados."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

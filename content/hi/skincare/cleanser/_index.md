@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "फेस क्लींजर"
+description: "त्वचा की गहरी सफाई के लिए बेहतरीन फेसवॉश और क्लींजर का चुनाव।"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

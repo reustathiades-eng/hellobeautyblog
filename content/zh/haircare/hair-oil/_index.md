@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "护发精油"
+description: "滋养修护护发精油，深度滋润干燥发丝，增强光泽柔顺度，呵护秀发健康。"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

@@ -1,6 +1,6 @@
 ---
-title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+title: "Dior Beauty Make-up"
+description: "Luxe Dior make-up collectie. Iconische lipsticks, foundations en oogmake-up van topkwaliteit."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

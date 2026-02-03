@@ -1,6 +1,6 @@
 ---
-title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+title: "منتجات Clinique للعناية بالبشرة"
+description: "مجموعة Clinique المتطورة للعناية بالبشرة بتركيبات طبية مبتكرة"
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Sérum Capillaire"
+description: "Sérums nourrissants et réparateurs pour cheveux abîmés, secs ou fragiles."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

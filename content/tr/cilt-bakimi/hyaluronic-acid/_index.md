@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "Hyaluronik Asit"
+description: "Hyaluronik asit içeren ürünlerle cildinizi nemlendir, dolgunlaştır ve yaşlanma karşıtı bakım yap."
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

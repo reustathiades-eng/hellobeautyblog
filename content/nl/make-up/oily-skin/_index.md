@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "Vette Huid Make-up"
+description: "Speciaal ontwikkelde make-up voor vette huid. Matteert en houdt de hele dag stand."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

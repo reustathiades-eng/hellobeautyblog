@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "グリコール酸ピーリング"
+description: "古い角質を除去するグリコール酸配合のピーリング化粧品で、透明感のある肌を実現。"
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

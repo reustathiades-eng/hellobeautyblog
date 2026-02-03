@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Kremy z Filtrem UV"
+description: "Ochrona przed słońcem. Skuteczne filtry UV chroniące przed przedwczesnym starzeniem."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

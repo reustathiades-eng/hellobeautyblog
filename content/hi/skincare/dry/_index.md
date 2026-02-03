@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "रूखी त्वचा के लिए स्किनकेयर"
+description: "रूखी और बेजान त्वचा के लिए बेहतरीन मॉइस्चराइजर और हाइड्रेटिंग प्रोडक्ट्स।"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Unghie"
+description: "Tutto per la nail art: smalti, gel, decorazioni e accessori per unghie perfette e alla moda."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

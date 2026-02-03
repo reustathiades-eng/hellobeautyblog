@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Puistjesstift"
+description: "Gerichte behandeling voor puistjes en onzuiverheden voor een snelle verbetering."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

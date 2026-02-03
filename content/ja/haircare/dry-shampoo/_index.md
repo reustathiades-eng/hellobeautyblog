@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "ドライシャンプー"
+description: "水を使わずに髪をリフレッシュ。忙しい朝や外出先でのヘアケアに便利なアイテム。"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

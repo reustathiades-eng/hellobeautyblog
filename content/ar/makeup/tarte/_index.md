@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "Tarte - مستحضرات التجميل"
+description: "اكتشفي مجموعة Tarte الفاخرة من مستحضرات التجميل الطبيعية والعالية الأداء"
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

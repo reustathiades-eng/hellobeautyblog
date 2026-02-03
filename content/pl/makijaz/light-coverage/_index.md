@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Podkłady Lekkie - Naturalne Krycie"
+description: "Lekkie podkłady o naturalnym kryciu. Świeży, naturalny wygląd na co dzień."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "تونر الوجه"
+description: "تونر منظف ومنعش لتوازن البشرة وتهيئتها لاستقبال منتجات العناية بأقصى فعالية"
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

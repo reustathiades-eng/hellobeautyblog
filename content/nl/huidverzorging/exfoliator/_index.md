@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Exfoliërende Producten"
+description: "Verwijder dode huidcellen met exfoliërende producten. Voor een zachte, gladde en stralende huid."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

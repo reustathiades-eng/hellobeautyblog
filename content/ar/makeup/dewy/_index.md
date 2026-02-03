@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "إطلالة ندية"
+description: "مكياج بلمسة ندية طبيعية لإشراق صحي ونضارة تدوم طوال النهار"
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

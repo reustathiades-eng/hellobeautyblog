@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "敏感肌舒缓"
+description: "舒缓敏感泛红肌肤,温和抗敏配方,减少刺激,重建肌肤屏障功能"
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

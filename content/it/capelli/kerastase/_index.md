@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kérastase"
+description: "Scopri la linea professionale Kérastase per capelli sani, forti e splendenti."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

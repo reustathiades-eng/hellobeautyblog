@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "エッセンス"
+description: "肌に潤いと栄養を与える美容エッセンス。軽やかなテクスチャーで素肌力をアップ。"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

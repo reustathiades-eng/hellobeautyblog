@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "كريم التصفيف"
+description: "كريمات تصفيف متنوعة لتشكيل الشعر وتثبيته مع ترطيب يدوم طويلاً"
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

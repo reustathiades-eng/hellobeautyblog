@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "保湿クリーム・乳液"
+description: "うるおいを与える保湿ケア製品。乾燥肌から敏感肌まで、あらゆる肌質に対応した保湿アイテム。"
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

@@ -1,6 +1,6 @@
 ---
-title: "Hyaluronic Acid"
-description: "Discover the best hyaluronic acid products. Expert reviews and guides."
+title: "Kwas Hialuronowy"
+description: "Kosmetyki z kwasem hialuronowym. Głębokie nawilżenie i ujędrnienie skóry każdego dnia."
 emoji: "💎"
 subcategory_type: "ingredient"
 subcategory_value: "hyaluronic-acid"

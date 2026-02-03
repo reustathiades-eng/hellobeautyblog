@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "C Vitamini"
+description: "Antioksidan gücü ile cildi canlandıran ve yaşlanma karşıtı C vitamini bakım ürünleri."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

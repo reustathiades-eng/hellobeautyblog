@@ -1,6 +1,6 @@
 ---
-title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+title: "Drunk Elephant منتجات العناية"
+description: "مجموعة Drunk Elephant الفاخرة للعناية المتقدمة بالبشرة"
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

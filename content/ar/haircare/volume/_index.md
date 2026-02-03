@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "كثافة الشعر"
+description: "منتجات لمنح الشعر كثافة وحجم طبيعي مع إطلالة ممتلئة"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

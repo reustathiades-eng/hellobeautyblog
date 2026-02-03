@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "Vitamina C para Pele"
+description: "Séruns e cremes com vitamina C para proteger, clarear e rejuvenescer sua pele naturalmente."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

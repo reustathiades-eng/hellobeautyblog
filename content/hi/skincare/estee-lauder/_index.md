@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estee Lauder लक्जरी स्किनकेयर"
+description: "Estee Lauder के एक्सक्लूसिव स्किनकेयर रेंज से पाएं रेडियंट और यंग स्किन।"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

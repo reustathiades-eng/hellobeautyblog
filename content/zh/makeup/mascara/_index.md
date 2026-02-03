@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "睫毛膏"
+description: "打造完美睫毛的必备单品，浓密纤长防水不晕染，让双眼更加迷人动人。"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

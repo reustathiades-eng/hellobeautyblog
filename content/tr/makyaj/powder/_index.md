@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Pudra ve Toz Makyaj Ürünleri"
+description: "Mat bitişli pudralar ve toz makyaj ürünleri ile kusursuz ve uzun süren makyaj."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

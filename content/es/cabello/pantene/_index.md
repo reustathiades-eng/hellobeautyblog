@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene Cuidado Capilar"
+description: "Productos Pantene con Pro-V para cabello fuerte, brillante y saludable desde la raíz hasta las puntas."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

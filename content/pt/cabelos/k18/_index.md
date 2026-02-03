@@ -1,6 +1,6 @@
 ---
 title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+description: "Máscaras e tratamentos K18 para reparação molecular profunda e renovação capilar instantânea."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

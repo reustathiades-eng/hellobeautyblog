@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "마스크팩"
+description: "집중 케어가 가능한 다양한 마스크팩으로 피부 고민 해결과 수분 충전"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

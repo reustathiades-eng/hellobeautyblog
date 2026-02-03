@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "アイライナー"
+description: "目元を印象的に。ウォータープルーフから繊細ラインまで、理想のアイメイクが叶います。"
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

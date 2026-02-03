@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Peelingi do Twarzy"
+description: "Skuteczne peelingi mechaniczne i chemiczne usuwające martwy naskórek i wygładzające skórę."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

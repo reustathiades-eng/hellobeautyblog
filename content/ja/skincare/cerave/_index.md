@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe（セラヴィ）"
+description: "皮膚科医推奨のCeraVeスキンケア製品。セラミド配合で健やかな肌へ導きます。"
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

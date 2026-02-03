@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "Tarte Cosmetics"
+description: "Explore a linha Tarte com maquiagem de alta performance, ingredientes naturais e cobertura impecável."
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

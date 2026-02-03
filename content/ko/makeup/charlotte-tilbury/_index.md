@@ -1,6 +1,6 @@
 ---
 title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+description: "럭셔리 뷰티 브랜드 Charlotte Tilbury의 글래머러스하고 우아한 메이크업 컬렉션."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "维A醇护肤品"
+description: "维A醇抗老精华，促进肌肤新陈代谢，改善细纹毛孔，焕发肌肤活力"
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

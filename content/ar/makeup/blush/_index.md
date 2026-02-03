@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "أحمر الخدود"
+description: "اكتشفي مجموعة أحمر الخدود لإطلالة طبيعية ومشرقة تدوم طويلاً"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

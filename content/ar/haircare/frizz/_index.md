@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "علاج الشعر المجعد والمتطاير"
+description: "منتجات فعالة لترويض الشعر المجعد والحصول على نعومة وانسيابية طبيعية"
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

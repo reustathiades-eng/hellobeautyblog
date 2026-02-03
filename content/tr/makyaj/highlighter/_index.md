@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Aydınlatıcı Makyaj"
+description: "Yüzünüzün belirgin noktalarını aydınlatan ve ışıltı veren highlighter ürünleri."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

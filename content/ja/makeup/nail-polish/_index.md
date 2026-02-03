@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "ネイルポリッシュ"
+description: "豊富なカラーバリエーションのネイルポリッシュ。美しい発色と持続性で指先を彩る"
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

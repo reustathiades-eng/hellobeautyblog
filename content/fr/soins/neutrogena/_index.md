@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena Soins Visage"
+description: "Produits de soin Neutrogena pour tous types de peau : nettoyants, crèmes hydratantes et traitements."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

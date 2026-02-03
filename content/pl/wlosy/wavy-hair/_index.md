@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "Włosy Falowane"
+description: "Specjalistyczna pielęgnacja dla włosów falowanych - podkreśl naturalny skręt."
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

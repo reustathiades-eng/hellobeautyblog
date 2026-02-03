@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Polvos"
+description: "Fija tu maquillaje y controla brillos con nuestros polvos compactos y sueltos de larga duración."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "العناية بالبشرة الحساسة"
+description: "منتجات لطيفة وآمنة مصممة خصيصاً للبشرة الحساسة والمتهيجة"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

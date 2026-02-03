@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Cabello Rizado"
+description: "Productos especiales para definir, hidratar y cuidar tus rizos naturales perfectamente."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

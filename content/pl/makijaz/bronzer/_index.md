@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "Bronzery"
+description: "Bronzery dla naturalnej opalenizny. Dodaj ciepła swojemu makijażowi przez cały rok."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

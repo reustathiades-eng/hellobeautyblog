@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "ナチュラルヘアケア"
+description: "天然成分にこだわったヘアケア製品。髪と頭皮に優しい自然派ヘアケアアイテムを厳選。"
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

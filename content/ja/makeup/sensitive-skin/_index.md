@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "敏感肌向けメイク"
+description: "敏感肌にやさしい低刺激メイクアップ。肌への負担を抑えた安心処方のコスメアイテム"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

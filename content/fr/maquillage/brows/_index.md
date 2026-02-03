@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Sourcils"
+description: "Produits pour sourcils parfaits : crayons, gels, poudres et accessoires pour structurer votre regard."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

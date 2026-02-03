@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "MAC Cosmetics"
+description: "Professionele MAC make-up voor elke gelegenheid. Iconische kleuren en langdurige formules."
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

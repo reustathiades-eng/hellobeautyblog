@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f.（エルフ）コスメ"
+description: "プチプラなのに高品質なe.l.f.のメイクアップ。手軽に楽しめるトレンドコスメで美しさを。"
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

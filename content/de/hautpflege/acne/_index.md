@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Unreine Haut & Akne"
+description: "Wirksame Anti-Pickel Produkte und Akne-Behandlungen für reine, klare Haut ohne Unreinheiten."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Rugas e Linhas de Expressão"
+description: "Cremes e séruns anti-rugas com retinol e peptídeos para reduzir sinais de envelhecimento."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

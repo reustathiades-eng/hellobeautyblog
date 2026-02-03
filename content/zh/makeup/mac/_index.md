@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "MAC"
+description: "MAC专业彩妆品牌，丰富色彩选择，专业品质成就完美妆容"
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

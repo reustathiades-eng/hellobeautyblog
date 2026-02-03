@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "شامبو للعناية بالشعر"
+description: "أفضل أنواع الشامبو لتنظيف وتغذية الشعر بلطف"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

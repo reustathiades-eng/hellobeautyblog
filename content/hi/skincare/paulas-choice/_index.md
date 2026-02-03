@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "Paulas Choice स्किनकेयर"
+description: "Paulas Choice के प्रीमियम स्किनकेयर उत्पादों से पाएं सैलून जैसे परिणाम।"
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

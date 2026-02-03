@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "Saúde do Couro Cabeludo"
+description: "Cuide da saúde do seu couro cabeludo com produtos específicos contra caspa e oleosidade."
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "Witamina C"
+description: "Serum i kremy z witaminą C. Antyoksydacyjna ochrona i rozjaśnienie skóry."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

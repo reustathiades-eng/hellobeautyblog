@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "الشعر المجعد والكيرلي"
+description: "منتجات عناية مخصصة للشعر المجعد لتعزيز التجاعيد وترطيب مثالي"
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

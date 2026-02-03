@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene हेयर केयर"
+description: "मजबूत और चमकदार बालों के लिए Pantene के शैम्पू, कंडीशनर और ट्रीटमेंट।"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

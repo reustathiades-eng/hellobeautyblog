@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "ミディアムカバレッジ"
+description: "自然な仕上がりのミディアムカバレッジファンデーション。程よいカバー力で素肌感をキープ"
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

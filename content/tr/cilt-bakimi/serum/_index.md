@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Yüz Serumları"
+description: "Yoğun bakım sağlayan yüz serumları ile cilt sorunlarınıza etkili çözümler bulun."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

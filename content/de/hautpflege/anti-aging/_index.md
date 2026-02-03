@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Anti-Aging"
+description: "Wirksame Anti-Aging Pflege für straffe, jugendliche Haut. Reduziert Falten sichtbar."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

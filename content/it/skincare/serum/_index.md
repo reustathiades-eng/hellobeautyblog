@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Siero Viso"
+description: "Sieri viso concentrati per tutti i tipi di pelle: anti-età, idratanti, illuminanti e purificanti."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

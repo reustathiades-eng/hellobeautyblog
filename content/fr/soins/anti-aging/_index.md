@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Anti-Âge"
+description: "Crèmes et sérums anti-âge pour réduire rides, ridules et retrouver une peau ferme et éclatante."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

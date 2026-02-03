@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Krullend Haar Verzorging"
+description: "Speciaal ontwikkelde haarverzorging voor krullen en coily haar texturen."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

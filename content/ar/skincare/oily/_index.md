@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "البشرة الدهنية"
+description: "منتجات مخصصة للبشرة الدهنية لتنظيم الدهون وإشراق طبيعي"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

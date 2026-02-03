@@ -1,6 +1,6 @@
 ---
 title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+description: "Réparez et renforcez vos cheveux avec la technologie révolutionnaire Olaplex pour tous types."
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

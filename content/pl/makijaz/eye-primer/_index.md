@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Bazy pod Cienie"
+description: "Profesjonalne bazy pod makijaż oczu. Przedłuż trwałość cieni i intensywność kolorów."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

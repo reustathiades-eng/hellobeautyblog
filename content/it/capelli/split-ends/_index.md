@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Doppie Punte"
+description: "Trattamenti specifici per riparare e prevenire le doppie punte. Capelli sani dalle radici."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

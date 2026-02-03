@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Lippen-Make-up"
+description: "Lippenstifte, Gloss und Liner für verführerische Lippen. Finden Sie Ihren perfekten Look!"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

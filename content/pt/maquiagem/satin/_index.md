@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Maquiagem Acetinada"
+description: "Produtos com acabamento acetinado para um look sofisticado e luminoso natural."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

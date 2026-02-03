@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Esfolianti"
+description: "Scrub ed esfolianti viso per rimuovere cellule morte e rivelare una pelle più liscia e luminosa."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

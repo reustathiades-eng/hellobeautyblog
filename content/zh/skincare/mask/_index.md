@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "面膜"
+description: "各种功效面膜,补水保湿美白抗老,深层护理肌肤,绽放自然光泽"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

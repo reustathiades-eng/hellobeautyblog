@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "Szminka"
+description: "Szminki w różnych odcieniach i wykończeniach. Matowe, błyszczące i długotrwałe formuły."
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

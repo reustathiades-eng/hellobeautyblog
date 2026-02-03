@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "ヘアセラム"
+description: "髪に潤いと艶を与えるヘアセラム。ダメージ補修と保護効果で美しい髪をキープ"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "Contorno Facial"
+description: "Productos de contorno para esculpir y definir tu rostro. Polvos, cremas y paletas profesionales."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

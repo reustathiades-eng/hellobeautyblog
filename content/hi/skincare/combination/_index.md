@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "मिश्रित त्वचा"
+description: "कॉम्बिनेशन स्किन के लिए संतुलित देखभाल और उपयुक्त प्रोडक्ट्स।"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

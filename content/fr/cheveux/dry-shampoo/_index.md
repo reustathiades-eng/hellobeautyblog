@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Shampoings Secs"
+description: "Rafraîchissez vos cheveux instantanément avec nos shampoings secs efficaces et pratiques."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

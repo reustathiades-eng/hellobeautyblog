@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "Piel Seca"
+description: "Maquillaje hidratante para piel seca: bases, correctores y productos con fórmulas nutritivas."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

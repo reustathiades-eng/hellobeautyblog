@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Verstevigde Huid"
+description: "Ontdek effectieve producten voor een stevigere, elastische huid. Verbeter de huidstructuur en verstrak je huid."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

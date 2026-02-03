@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "복합성 피부"
+description: "T존은 기름지고 볼은 건조한 복합성 피부를 위한 맞춤형 케어 솔루션을 만나보세요"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

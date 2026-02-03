@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "tarte"
+description: "自然由来成分にこだわったtarteのメイクアップコレクション。肌にやさしい高機能コスメ"
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

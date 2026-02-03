@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "안티에이징"
+description: "주름과 노화 징후를 개선하는 효과적인 안티에이징 스킨케어 솔루션을 발견하세요."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

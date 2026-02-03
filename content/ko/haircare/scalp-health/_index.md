@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "두피 케어"
+description: "건강한 두피를 위한 전문 케어 제품으로 모발 성장의 기초를 다져보세요"
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

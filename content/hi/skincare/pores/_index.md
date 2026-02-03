@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "पोर्स मिनिमाइजर और क्लींजिंग"
+description: "बड़े छिद्रों को कम करने और साफ करने वाले स्पेशल स्किनकेयर प्रोडक्ट्स।"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

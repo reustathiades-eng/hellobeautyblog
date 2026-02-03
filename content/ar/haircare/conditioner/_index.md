@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "بلسم الشعر"
+description: "بلسم مغذي ومرطب للشعر لنعومة وإشراق طبيعي يدوم طوال اليوم"
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

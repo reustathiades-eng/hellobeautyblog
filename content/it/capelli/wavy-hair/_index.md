@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "Capelli Mossi"
+description: "Prodotti specifici per definire e valorizzare i tuoi capelli mossi naturali."
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

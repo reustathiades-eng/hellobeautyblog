@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volume Capillaire"
+description: "Produits volumateurs pour donner corps et ampleur aux cheveux fins et plats."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

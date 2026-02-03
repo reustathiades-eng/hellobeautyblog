@@ -1,6 +1,6 @@
 ---
-title: "The Ordinary"
-description: "Discover the best the ordinary products. Expert reviews and guides."
+title: "The Ordinary स्किनकेयर प्रोडक्ट्स"
+description: "The Ordinary के बेहतरीन स्किनकेयर प्रोडक्ट्स खरीदें। किफायती दामों में प्रभावी इंग्रीडिएंट्स।"
 emoji: "🧫"
 subcategory_type: "brand"
 subcategory_value: "the-ordinary"

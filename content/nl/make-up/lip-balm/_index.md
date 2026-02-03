@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Lippenbalsem"
+description: "Verzorg en bescherm je lippen met hydraterende lippenbalsems voor zachte, soepele lippen."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

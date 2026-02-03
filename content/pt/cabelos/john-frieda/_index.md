@@ -1,6 +1,6 @@
 ---
 title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+description: "Linha John Frieda para cuidados capilares específicos. Tratamentos profissionais para uso doméstico."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

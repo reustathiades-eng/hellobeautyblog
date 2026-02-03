@@ -1,6 +1,6 @@
 ---
 title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+description: "Maquiagem Rare Beauty by Selena Gomez. Produtos inclusivos para realçar sua beleza única."
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

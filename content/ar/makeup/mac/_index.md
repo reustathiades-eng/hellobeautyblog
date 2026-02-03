@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "MAC"
+description: "مكياج MAC الاحترافي المحبوب من خبراء التجميل والنجوم حول العالم"
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

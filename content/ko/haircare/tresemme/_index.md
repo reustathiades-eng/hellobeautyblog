@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "트레제메 헤어케어"
+description: "살롱급 헤어케어 브랜드 트레제메로 전문가 수준의 모발 관리 경험"
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

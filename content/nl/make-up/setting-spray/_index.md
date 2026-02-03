@@ -1,6 +1,6 @@
 ---
 title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+description: "Fixeerspray voor langhoudende make-up. Houdt je look de hele dag fris en perfect op zijn plaats."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

@@ -1,6 +1,6 @@
 ---
 title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+description: "Make-up Fixierspray für langanhaltenden Halt. Versiegelt Ihr Make-up und sorgt für frisches Aussehen."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

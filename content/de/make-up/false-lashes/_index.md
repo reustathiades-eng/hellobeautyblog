@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Künstliche Wimpern"
+description: "Falsche Wimpern für dramatische Augen - von natürlich bis voluminös."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "كريمات العين"
+description: "كريمات مخصصة لمنطقة العين لمحاربة التجاعيد والهالات السوداء والانتفاخ"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

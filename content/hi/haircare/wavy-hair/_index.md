@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "लहराते बालों के लिए"
+description: "लहराते बालों को स्वस्थ और चमकदार बनाने के लिए विशेष हेयरकेयर उत्पाद"
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

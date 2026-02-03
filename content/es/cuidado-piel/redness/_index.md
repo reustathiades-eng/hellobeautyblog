@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Rojeces y Sensibilidad"
+description: "Productos calmantes para reducir rojeces y cuidar la piel sensible e irritada del rostro."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

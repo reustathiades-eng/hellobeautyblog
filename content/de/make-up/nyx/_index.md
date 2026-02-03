@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX Professional Makeup"
+description: "Professionelle NYX Kosmetik für kreative Make-up Looks. Hochwertige Produkte zu fairen Preisen!"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

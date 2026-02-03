@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Faux Cils"
+description: "Faux cils et extensions pour un regard intense : naturels, dramatiques ou volume XXL selon vos envies."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

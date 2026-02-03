@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II 에스케이투"
+description: "피테라 성분의 프리미엄 스킨케어 브랜드 SK-II로 빛나는 피부 완성"
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Kosmetyki do Skóry Tłustej"
+description: "Specjalistyczne produkty do pielęgnacji skóry tłustej. Kontroluj nadmiar sebum i rozszerzone pory."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

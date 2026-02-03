@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Tratamiento Capilar"
+description: "Cuida tu cuero cabelludo con tratamientos especializados para un cabello más saludable y fuerte."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

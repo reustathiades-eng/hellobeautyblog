@@ -1,6 +1,6 @@
 ---
 title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+description: "클린 뷰티를 추구하는 Drunk Elephant 제품으로 건강한 스킨케어를 시작하세요."
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

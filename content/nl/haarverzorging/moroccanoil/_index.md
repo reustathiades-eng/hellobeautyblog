@@ -1,6 +1,6 @@
 ---
 title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+description: "Luxe Moroccanoil haarverzorging met arganolie. Voor zacht, glanzend en gezond haar met professionele kwaliteit."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

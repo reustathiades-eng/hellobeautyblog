@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "唇部彩妆"
+description: "口红、唇彩、唇膏等唇妆产品，展现迷人唇色"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

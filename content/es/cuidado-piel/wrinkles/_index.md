@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Arrugas y Líneas"
+description: "Cremas y serums antiedad para reducir arrugas y líneas de expresión, piel más joven."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

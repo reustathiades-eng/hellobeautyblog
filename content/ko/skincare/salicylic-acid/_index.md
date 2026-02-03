@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "살리실산"
+description: "모공 관리와 각질 제거에 효과적인 살리실산 제품으로 깔끔한 피부"
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

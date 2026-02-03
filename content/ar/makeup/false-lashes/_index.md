@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "الرموش الصناعية"
+description: "رموش صناعية طبيعية ومميزة لإطلالة ساحرة وعيون جذابة في جميع المناسبات"
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

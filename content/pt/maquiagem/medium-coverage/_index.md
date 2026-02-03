@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Cobertura Média"
+description: "Bases com cobertura média para look natural. Equilibrio perfeito entre naturalidade e cobertura."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

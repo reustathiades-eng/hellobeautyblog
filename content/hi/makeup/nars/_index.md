@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS मेकअप"
+description: "NARS के प्रीमियम मेकअप कलेक्शन से अपना परफेक्ट लुक बनाएं।"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

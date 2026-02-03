@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Conditioner & Spoeling"
+description: "Verzorgende conditioners en spoelingen voor alle haartypes. Maak je haar zacht, glanzend en kambaar."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

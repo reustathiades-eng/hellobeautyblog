@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "Saç Derisi Bakımı"
+description: "Sağlıklı saç derisi için özel formüle edilmiş bakım ürünleri ve çözümler."
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "नेल प्रोडक्ट्स"
+description: "सुंदर नाखूनों के लिए बेस्ट नेल पेंट, ट्रीटमेंट और टूल्स। परफेक्ट मैनीक्योर पाएं।"
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "指甲油"
+description: "丰富色彩选择的指甲油，持久不掉色，让指尖绽放时尚光彩，完美点缀造型。"
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

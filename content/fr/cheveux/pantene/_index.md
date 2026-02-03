@@ -1,6 +1,6 @@
 ---
 title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+description: "Découvrez la gamme complète Pantene pour des cheveux forts, brillants et en pleine santé."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

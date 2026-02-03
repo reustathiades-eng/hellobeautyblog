@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha Cilt Bakım Ürünleri"
+description: "Japonya'nın geleneksel güzellik sırları ile modern bilimi birleştiren Tatcha ürünleri."
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

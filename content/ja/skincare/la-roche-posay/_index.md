@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay スキンケア"
+description: "敏感肌にも優しいLa Roche-Posayの皮膚科学に基づいたスキンケア製品。"
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

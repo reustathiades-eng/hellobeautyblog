@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "Fijn Haar"
+description: "Speciaal ontwikkelde producten voor fijn haar. Geef volume en kracht zonder te verzwaren."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

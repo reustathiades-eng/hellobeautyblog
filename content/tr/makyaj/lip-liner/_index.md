@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "Dudak Kontur Kalemleri"
+description: "Dudaklarınızı şekillendiren ve ruj kalıcılığını artıran dudak kontur kalemleri."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

@@ -1,6 +1,6 @@
 ---
-title: "Dior Beauty"
-description: "Discover the best dior beauty products. Expert reviews and guides."
+title: "Dior Makyaj"
+description: "Dior'un ikonik makyaj ürünleriyle lüks ve şıklığı makyajınıza yansıtın."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "dior-beauty"

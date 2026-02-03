@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Lipgloss"
+description: "Glänzender Lipgloss für verführerische Lippen in vielen schönen Farben."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

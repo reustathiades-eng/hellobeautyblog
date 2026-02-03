@@ -1,6 +1,6 @@
 ---
 title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+description: "플레이풀하고 고품질의 Too Faced 메이크업으로 특별한 뷰티 룩을 완성하세요"
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

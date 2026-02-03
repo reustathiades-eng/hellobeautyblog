@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "Cera Wrażliwa"
+description: "Delikatne kosmetyki do makijażu dla skóry wrażliwej. Hipoalergiczne formuły bez drażniących składników."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

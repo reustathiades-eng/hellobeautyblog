@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "건성피부 케어"
+description: "건조한 피부를 위한 보습 스킨케어 제품을 만나보세요"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

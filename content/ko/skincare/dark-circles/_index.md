@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "다크서클 아이케어"
+description: "지친 눈가 다크서클을 집중 케어하여 밝고 생기 있는 눈매로 변화시켜보세요"
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

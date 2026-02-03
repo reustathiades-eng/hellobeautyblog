@@ -1,6 +1,6 @@
 ---
-title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+title: "Huda Beauty मेकअप कलेक्शन"
+description: "प्रीमियम Huda Beauty उत्पादों का विशेष संग्रह - लिपस्टिक, आईशैडो और ग्लैमरस मेकअप"
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

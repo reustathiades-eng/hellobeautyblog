@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Acabado Satinado"
+description: "Productos de maquillaje con acabado satinado para un look luminoso y sofisticado."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

@@ -1,6 +1,6 @@
 ---
 title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+description: "Blush para dar cor e vida às suas bochechas. Encontre tons perfeitos para realçar sua beleza natural."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

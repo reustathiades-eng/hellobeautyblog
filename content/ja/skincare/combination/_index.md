@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "混合肌向けスキンケア"
+description: "Tゾーンのテカリと乾燥部分を同時にケアする混合肌専用コスメ。"
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

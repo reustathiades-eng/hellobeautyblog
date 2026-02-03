@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Porenpflege"
+description: "Effektive Porenpflege für ein verfeinertes Hautbild. Reinigt und minimiert sichtbare Poren!"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

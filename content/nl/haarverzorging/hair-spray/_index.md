@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Haarspray"
+description: "Professionele haarsprays voor sterke fixatie en langdurige hold. Voor elke haarstijl en gelegenheid."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

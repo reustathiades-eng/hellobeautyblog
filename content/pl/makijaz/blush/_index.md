@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Róż do policzków"
+description: "Odkryj najlepsze róże do policzków dla naturalnego blasku i zdrowego wyglądu skóry."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

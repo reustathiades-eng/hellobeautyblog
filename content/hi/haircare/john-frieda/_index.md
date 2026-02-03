@@ -1,6 +1,6 @@
 ---
-title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+title: "John Frieda हेयर केयर"
+description: "John Frieda के प्रोफेशनल हेयर केयर उत्पादों का कलेक्शन।"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

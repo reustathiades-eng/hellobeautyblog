@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Tratamento para Acne"
+description: "Produtos anti-acne com ácido salicílico e outros ativos para pele oleosa e com espinhas."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

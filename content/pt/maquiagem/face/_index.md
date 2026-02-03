@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Maquiagem para Rosto"
+description: "Bases, corretivos, blush e produtos para rosto que garantem uma pele perfeita e radiante."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

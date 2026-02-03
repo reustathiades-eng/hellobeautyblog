@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "Glattes Haar"
+description: "Speziell für glattes Haar entwickelte Produkte. Verleiht Volumen, Glanz und optimale Pflege."
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

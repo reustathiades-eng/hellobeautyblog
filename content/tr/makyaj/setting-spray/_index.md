@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "Makyaj Sabitleyici"
+description: "Makyajınızı gün boyu sabitleyip tazeliğini koruyan profesyonel sabitleyici spreyleri keşfedin."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

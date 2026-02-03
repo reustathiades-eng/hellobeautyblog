@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Balsamo per Capelli"
+description: "Balsami nutrienti e idratanti per capelli morbidi, lucenti e facilmente pettinabili."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

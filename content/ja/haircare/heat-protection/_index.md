@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "ヒートプロテクト・熱ダメージ対策"
+description: "ドライヤーやアイロンの熱から髪を守る、ヒートプロテクト製品をご紹介。美しい髪をキープしましょう。"
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

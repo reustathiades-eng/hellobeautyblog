@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "घुंघराले बाल"
+description: "घुंघराले और कर्ली बालों की देखभाल के लिए विशेष उत्पाद।"
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Łupież"
+description: "Skuteczne produkty przeciwłupieżowe dla zdrowej skóry głowy bez łupieżu."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

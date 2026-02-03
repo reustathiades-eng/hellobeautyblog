@@ -1,6 +1,6 @@
 ---
-title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+title: "Moroccanoil Haarpflege"
+description: "Luxuriöse Moroccanoil Produkte mit wertvollem Arganöl für seidiges, glänzendes Haar."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

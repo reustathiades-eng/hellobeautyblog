@@ -1,6 +1,6 @@
 ---
-title: "Paulas Choice"
-description: "Discover the best paulas choice products. Expert reviews and guides."
+title: "Paula's Choice"
+description: "Bilimsel formüller ile geliştirilmiş Paula's Choice cilt bakım ürünleri."
 emoji: "📚"
 subcategory_type: "brand"
 subcategory_value: "paulas-choice"

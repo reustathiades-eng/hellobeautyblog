@@ -1,6 +1,6 @@
 ---
 title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+description: "Produtos com retinol para renovação celular, redução de rugas e melhora da textura da pele."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

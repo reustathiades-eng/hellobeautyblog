@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "내추럴 메이크업"
+description: "있는 그대로의 아름다움을 살리는 자연스러운 메이크업"
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

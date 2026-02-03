@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Kosmetyki z połyskiem"
+description: "Rozświetlające kosmetyki z delikatnym blaskiem dla promiennego i świeżego wyglądu."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

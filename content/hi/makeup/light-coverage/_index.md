@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "हल्का कवरेज मेकअप"
+description: "प्राकृतिक लुक के लिए हल्के कवरेज वाले फाउंडेशन और BB क्रीम"
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

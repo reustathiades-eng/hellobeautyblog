@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "끝갈래 케어"
+description: "손상된 모발 끝을 집중 케어하고 끝갈래를 예방하는 헤어 제품들을 확인하세요."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

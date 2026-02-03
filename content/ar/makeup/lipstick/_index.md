@@ -1,6 +1,6 @@
 ---
-title: "Lipstick"
-description: "Discover the best lipstick products. Expert reviews and guides."
+title: "أحمر الشفاه"
+description: "مجموعة متنوعة من أحمر الشفاه بألوان جذابة وتركيبات مختلفة لإطلالة مميزة"
 emoji: "💄"
 subcategory_type: "product_type"
 subcategory_value: "lipstick"

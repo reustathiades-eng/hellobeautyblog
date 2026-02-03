@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "फाल्स आईलैशेज"
+description: "खूबसूरत आंखों के लिए प्रीमियम फाल्स लैशेज और एक्सटेंशन्स।"
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

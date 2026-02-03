@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Puder"
+description: "Hochwertiger Puder für ein makelloses Finish - mattierend und langanhaltend."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

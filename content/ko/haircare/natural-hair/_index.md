@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "자연모발 케어"
+description: "자연스러운 모발을 위한 순한 성분의 헤어케어 제품으로 건강한 머리카락을 유지하세요"
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

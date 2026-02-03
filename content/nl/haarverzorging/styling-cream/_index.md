@@ -1,6 +1,6 @@
 ---
-title: "Styling Cream"
-description: "Discover the best styling cream products. Expert reviews and guides."
+title: "Styling Crème"
+description: "Verzorgende styling crèmes voor controle, glans en definitie. Perfect voor natuurlijke looks en krullen."
 emoji: "🧈"
 subcategory_type: "product_type"
 subcategory_value: "styling-cream"

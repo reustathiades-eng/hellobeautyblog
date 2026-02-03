@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Haar Serum"
+description: "Intensieve haar serums voor voeding, glans en bescherming tegen hitteschade."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

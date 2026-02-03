@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Anticaspa"
+description: "Productos anticaspa que eliminan la descamación y calman la irritación del cuero cabelludo."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

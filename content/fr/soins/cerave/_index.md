@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe"
+description: "Découvrez la gamme CeraVe : soins dermatologiques aux céramides pour restaurer et protéger la barrière cutanée."
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

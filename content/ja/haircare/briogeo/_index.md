@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "Briogeo（ブリオジオ）"
+description: "クリーンビューティーのBriogeo。自然由来成分で髪と頭皮を優しくケアします。"
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

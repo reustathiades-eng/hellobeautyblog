@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "여드름 트러블 케어"
+description: "여드름과 트러블을 효과적으로 진정시키고 깨끗하고 건강한 피부로 개선해보세요"
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

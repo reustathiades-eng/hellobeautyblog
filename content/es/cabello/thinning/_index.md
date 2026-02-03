@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Cabello Fino"
+description: "Tratamientos para cabello fino y sin volumen. Productos que aportan cuerpo y densidad al cabello."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

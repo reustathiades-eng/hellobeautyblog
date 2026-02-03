@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "Tarte Makyaj Ürünleri"
+description: "Tarte'nin doğal ve yüksek kaliteli makyaj koleksiyonunu keşfedin."
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

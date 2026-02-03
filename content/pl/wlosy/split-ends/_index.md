@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Rozdwojone końcówki"
+description: "Produkty do pielęgnacji rozdwojonych końcówek. Regeneruj i wzmacniaj uszkodzone pasma włosów."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

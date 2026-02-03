@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "カーリーヘア・くせ毛ケア"
+description: "くせ毛やカールを美しく活かすヘアケア。自然なカールを引き出し、まとまりのある髪へ。"
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

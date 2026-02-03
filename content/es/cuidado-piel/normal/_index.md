@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Piel Normal"
+description: "Cuidado facial específico para piel normal que mantiene el equilibrio y la luminosidad natural."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

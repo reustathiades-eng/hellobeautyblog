@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "Seyrek Saç Bakımı"
+description: "Seyrek ve zayıf saçlar için özel formüllü güçlendirici bakım ürünleri."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

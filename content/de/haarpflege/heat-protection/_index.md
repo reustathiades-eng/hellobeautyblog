@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Hitzeschutz"
+description: "Schützt das Haar vor Styling-Hitze. Verhindert Schäden durch Föhn, Glätteisen und Lockenstab."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier للعناية بالشعر"
+description: "مجموعة Garnier الكاملة لجميع أنواع الشعر - شامبو وبلسم ومنتجات التصفيف"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

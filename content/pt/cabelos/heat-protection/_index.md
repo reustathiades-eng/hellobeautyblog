@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Proteção Térmica para Cabelos"
+description: "Proteja seus fios do calor com produtos termoativados para chapinha, secador e babyliss."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

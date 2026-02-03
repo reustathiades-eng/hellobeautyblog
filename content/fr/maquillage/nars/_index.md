@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS"
+description: "Maquillage NARS professionnel : couleurs intenses et formules longue tenue pour un look parfait."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

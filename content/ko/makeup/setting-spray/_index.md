@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "세팅 스프레이"
+description: "완벽한 메이크업 지속력을 위한 피니싱 세팅 스프레이"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

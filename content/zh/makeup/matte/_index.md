@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "哑光彩妆"
+description: "哑光质地彩妆产品，打造自然柔雾妆效，持久不脱妆"
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

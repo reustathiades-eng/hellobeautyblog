@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "नायसिनमाइड सीरम"
+description: "नायसिनमाइड युक्त प्रोडक्ट्स से पाएं तेल कंट्रोल और साफ त्वचा।"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

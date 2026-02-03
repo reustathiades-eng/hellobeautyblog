@@ -1,6 +1,6 @@
 ---
-title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+title: "Living Proof（リビングプルーフ）"
+description: "科学的アプローチで開発されたLiving Proofのヘアケア。革新的な技術で髪の悩みを解決。"
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "セラミド配合スキンケア"
+description: "乾燥肌や敏感肌に効果的なセラミド配合の美容液・クリームで、肌バリア機能を強化しましょう。"
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

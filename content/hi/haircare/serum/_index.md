@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "हेयर सीरम"
+description: "बालों को पोषण देने और चमकदार बनाने के लिए बेहतरीन हेयर सीरम"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "serum"

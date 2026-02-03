@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "丰盈蓬松"
+description: "打造丰盈蓬松发型的护发产品，增加发量视觉效果，持久定型"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

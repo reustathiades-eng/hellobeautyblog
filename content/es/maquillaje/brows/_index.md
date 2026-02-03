@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Cejas"
+description: "Productos para cejas: lápices, geles, polvos y máscaras para definir, rellenar y dar forma a tus cejas."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

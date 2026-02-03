@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "ऑयली स्किन मेकअप"
+description: "तैलीय त्वचा के लिए खास मेकअप उत्पाद - मैट फिनिश और लंबे समय तक चलने वाले"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

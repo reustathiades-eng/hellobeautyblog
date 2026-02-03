@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "Olay - Cuidado Facial"
+description: "Descubre la línea completa de productos Olay para el cuidado y belleza de tu rostro."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

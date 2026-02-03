@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Maschere Viso"
+description: "Maschere viso idratanti, purificanti e nutrienti per ogni tipo di pelle. Trattamenti intensivi."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

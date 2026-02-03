@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "熟龄肌护理"
+description: "专为成熟肌肤设计，抗衰老紧致，重焕年轻活力"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

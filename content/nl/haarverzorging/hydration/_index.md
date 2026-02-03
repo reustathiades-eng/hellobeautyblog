@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hydraterende Haarverzorging"
+description: "Voed droog haar met intensief hydraterende shampoos, conditioners en maskers voor zijdezacht en glanzend haar."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

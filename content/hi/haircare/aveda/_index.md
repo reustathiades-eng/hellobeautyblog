@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda हेयरकेयर प्रोडक्ट्स"
+description: "Aveda के प्राकृतिक हेयरकेयर उत्पादों से पाएं स्वस्थ और मजबूत बाल।"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

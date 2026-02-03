@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "두피 케어"
+description: "건강한 모발의 시작, 두피 트리트먼트로 탈모 예방과 영양 공급을 한번에"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "चमकदार त्वचा"
+description: "त्वचा को प्राकृतिक रूप से चमकदार और निखारने वाले बेहतरीन उत्पाद खोजें।"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

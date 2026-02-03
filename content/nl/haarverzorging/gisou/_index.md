@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Ontdek Gisou haarverzorging met honinginfusie voor zijdezacht, glanzend en gezond haar."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "カラーヘア専用・色持ちケア"
+description: "ヘアカラーの色落ちを防ぐ専用ケア。美しい発色を長期間キープします。"
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

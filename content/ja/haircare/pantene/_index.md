@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "PANTENE"
+description: "プロビタミン配合のPANTENEヘアケアで、健やかで美しい髪へ"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

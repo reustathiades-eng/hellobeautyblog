@@ -1,6 +1,6 @@
 ---
-title: "Rare Beauty"
-description: "Discover the best rare beauty products. Expert reviews and guides."
+title: "Rare Beauty मेकअप"
+description: "Rare Beauty का प्रीमियम मेकअप कलेक्शन। नेचुरल और ग्लैमरस लुक के लिए।"
 emoji: "🦋"
 subcategory_type: "brand"
 subcategory_value: "rare-beauty"

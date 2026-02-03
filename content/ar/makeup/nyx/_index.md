@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX"
+description: "تسوقي منتجات NYX المتنوعة للمكياج العصري والألوان الجريئة"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

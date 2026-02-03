@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Cilt Nemlendirme Ürünleri"
+description: "Yoğun nem sağlayan serumlar, kremler ve maskelerle cilt nemlenme bakımı."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

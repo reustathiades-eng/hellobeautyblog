@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe Cilt Bakım"
+description: "CeraVe'nin seramid içerikli formülleriyle cildinizin nem bariyerini güçlendirin ve koruyun."
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Olgun Cilt"
+description: "Olgun cilt ihtiyaçlarına yönelik yaşlanma karşıtı ve besleyici bakım ürünleri."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

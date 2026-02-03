@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Iluminadores y Aclarantes"
+description: "Productos para iluminar y unificar el tono de piel, consigue un rostro más radiante y luminoso."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

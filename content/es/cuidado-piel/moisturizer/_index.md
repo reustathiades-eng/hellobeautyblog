@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Hidratantes"
+description: "Cremas y lociones hidratantes para mantener tu piel suave, nutrida y radiante todo el día."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Couvrance Légère"
+description: "Fonds de teint et correcteurs à couvrance légère pour un teint naturel et lumineux au quotidien."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

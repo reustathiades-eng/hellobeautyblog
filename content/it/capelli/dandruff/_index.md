@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Antiforfora"
+description: "Prodotti antiforfora efficaci: shampoo e trattamenti per eliminare la forfora e lenire il cuoio capelluto."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

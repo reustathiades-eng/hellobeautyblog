@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Shimmer & Glitter"
+description: "Voeg glamour toe met glinsterende shimmer producten voor een stralende, feestelijke look."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

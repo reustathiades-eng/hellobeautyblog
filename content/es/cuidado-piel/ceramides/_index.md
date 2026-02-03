@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Ceramidas para el Cuidado de la Piel"
+description: "Productos con ceramidas para restaurar la barrera cutánea y mantener la hidratación natural."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

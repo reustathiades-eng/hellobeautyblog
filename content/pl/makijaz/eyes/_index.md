@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Makijaż Oczu"
+description: "Kompletna kolekcja kosmetyków do oczu - cienie, tusze, kredki i eyelinery dla idealnego makijażu."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

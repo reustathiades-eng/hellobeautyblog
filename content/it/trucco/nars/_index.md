@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS Makeup"
+description: "Cosmetici NARS iconici: blush Orgasm, fondotinta e rossetti per un makeup audace e sofisticato."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

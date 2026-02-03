@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "Makyaj Bazı"
+description: "Makyajınızın daha uzun süre kalması için mükemmel makyaj bazları."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

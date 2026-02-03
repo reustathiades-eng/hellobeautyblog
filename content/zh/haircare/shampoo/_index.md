@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "洗发水"
+description: "优质洗发水产品，深层清洁头皮，滋养秀发健康光泽"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

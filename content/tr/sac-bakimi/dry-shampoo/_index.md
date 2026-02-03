@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Kuru Şampuan"
+description: "Praktik kuru şampuan ile saçlarınızı anında temizleyin ve hacim kazandırın."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

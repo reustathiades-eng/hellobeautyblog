@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "フケ・かゆみケア"
+description: "頭皮のフケやかゆみを改善する専用ケア商品。清潔で健康な頭皮環境を保ちます。"
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

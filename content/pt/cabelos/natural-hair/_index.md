@@ -1,6 +1,6 @@
 ---
-title: "Natural Hair"
-description: "Discover the best natural hair products. Expert reviews and guides."
+title: "Cabelo Natural"
+description: "Produtos para cabelos naturais e sem química. Cuidados especiais que respeitam a textura original."
 emoji: "🌿"
 subcategory_type: "hair_type"
 subcategory_value: "natural-hair"

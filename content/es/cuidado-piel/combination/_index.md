@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Piel Mixta"
+description: "Productos especializados para piel mixta, equilibra las zonas grasas y secas de tu rostro."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

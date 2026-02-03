@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "حمض الجليكوليك للتقشير"
+description: "منتجات حمض الجليكوليك لتقشير البشرة وتوحيد لونها وإزالة خلايا الجلد الميتة"
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

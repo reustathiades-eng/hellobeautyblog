@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Protezione Solare"
+description: "Creme solari e protezioni UV per viso e corpo. Difendi la pelle dai raggi dannosi ogni giorno."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

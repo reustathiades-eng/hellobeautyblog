@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Odżywki bez spłukiwania"
+description: "Odżywki pozostawiające na włosach. Nawilżanie i ochrona przez cały dzień bez spłukiwania."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

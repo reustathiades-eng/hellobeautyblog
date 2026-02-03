@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "रेटिनॉल सीरम और क्रीम"
+description: "त्वचा को जवान और चमकदार बनाने वाले रेटिनॉल युक्त स्किनकेयर प्रोडक्ट्स"
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

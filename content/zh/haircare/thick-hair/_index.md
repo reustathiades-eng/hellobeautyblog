@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "厚重发质护理"
+description: "专为厚重发质设计，有效管理蓬松发量，塑造轻盈顺滑造型"
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

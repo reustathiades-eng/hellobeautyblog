@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "オイリー肌・脂性肌"
+description: "テカリや毛穴の悩みに。オイリー肌専用のスキンケアアイテムで理想の肌へ。"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

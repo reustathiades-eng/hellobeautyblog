@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Protection Thermique"
+description: "Protégez vos cheveux de la chaleur des outils coiffants avec nos soins thermoprotecteurs."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

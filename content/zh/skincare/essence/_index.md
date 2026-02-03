@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "精华水"
+description: "温和补水精华水，深层滋养肌肤，提升护肤效果"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

@@ -1,6 +1,6 @@
 ---
 title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+description: "Découvrez la gamme Olay : soins visage anti-âge, hydratants et crèmes pour une peau radieuse."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

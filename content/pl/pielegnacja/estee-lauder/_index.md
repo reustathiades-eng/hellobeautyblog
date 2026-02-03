@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estée Lauder"
+description: "Luksusowe kosmetyki Estée Lauder. Prestiżowe kremy przeciwstarzeniowe i produkty do pielęgnacji twarzy."
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

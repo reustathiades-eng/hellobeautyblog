@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "홍조 케어"
+description: "민감하고 붉은 피부를 진정시키는 홍조 전용 케어 제품으로 편안한 피부"
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

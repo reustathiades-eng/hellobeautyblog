@@ -1,6 +1,6 @@
 ---
 title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+description: "럭셔리 브랜드 샤넬의 프리미엄 뷰티 제품으로 우아함을 연출하세요"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

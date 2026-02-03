@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "립 메이크업"
+description: "립스틱, 립글로스, 립밤으로 매력적이고 건강한 입술을 연출해보세요"
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "抗衰老护肤品"
+description: "专业抗衰老护肤产品，淡化细纹皱纹，紧致肌肤，重现年轻光彩"
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

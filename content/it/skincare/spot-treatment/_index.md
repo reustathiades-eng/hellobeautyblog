@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Trattamenti Localizzati"
+description: "Prodotti mirati per imperfezioni, brufoli e macchie. Azione concentrata e risultati rapidi."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

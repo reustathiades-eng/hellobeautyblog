@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Anti-Rides"
+description: "Soins anti-âge efficaces pour réduire les rides et retrouver une peau lisse et jeune."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

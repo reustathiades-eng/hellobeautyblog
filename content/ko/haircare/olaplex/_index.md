@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "OLAPLEX"
+description: "손상된 모발 복구의 혁신, OLAPLEX로 건강하고 강한 모발 관리"
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

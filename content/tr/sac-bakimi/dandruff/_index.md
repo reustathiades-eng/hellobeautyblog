@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "Kepek Karşıtı Ürünler"
+description: "Etkili kepek karşıtı şampuan ve bakım ürünleri ile saç derinizi rahatlatın."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

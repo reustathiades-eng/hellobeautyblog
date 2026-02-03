@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "Vitamina C"
+description: "Serums y tratamientos con vitamina C para una piel más luminosa, firme y con antioxidantes."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

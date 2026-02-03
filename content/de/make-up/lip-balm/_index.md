@@ -1,6 +1,6 @@
 ---
-title: "Lip Balm"
-description: "Discover the best lip balm products. Expert reviews and guides."
+title: "Lippenpflege"
+description: "Pflegende Lippenbalsame für geschmeidige und gesunde Lippen das ganze Jahr über."
 emoji: "💋"
 subcategory_type: "product_type"
 subcategory_value: "lip-balm"

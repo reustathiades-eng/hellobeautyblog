@@ -1,6 +1,6 @@
 ---
-title: "Scalp Health"
-description: "Discover the best scalp health products. Expert reviews and guides."
+title: "स्कैल्प केयर प्रोडक्ट्स"
+description: "स्वस्थ स्कैल्प के लिए विशेष हेयर ट्रीटमेंट और केयर प्रोडक्ट्स।"
 emoji: "🧠"
 subcategory_type: "concern"
 subcategory_value: "scalp-health"

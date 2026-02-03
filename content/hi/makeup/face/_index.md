@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "फेस मेकअप"
+description: "फाउंडेशन, कंसीलर, ब्लश और हाइलाइटर से पाएं दमकता हुआ और निखरा चेहरा"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

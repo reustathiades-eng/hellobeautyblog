@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Cheveux Frisottis"
+description: "Solutions anti-frisottis pour dompter et lisser les cheveux rebelles et indisciplinés."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

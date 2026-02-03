@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "Aveda Saç Bakım Ürünleri"
+description: "Doğal içerikli Aveda saç bakım ürünleriyle profesyonel bakım deneyimi."
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

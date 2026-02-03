@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Smalto Unghie"
+description: "Smalti colorati e di tendenza per unghie perfette e alla moda."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

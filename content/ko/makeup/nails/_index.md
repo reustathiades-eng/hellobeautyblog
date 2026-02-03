@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "네일 제품"
+description: "매니큐어부터 네일아트까지, 아름다운 손톱을 위한 모든 네일 제품"
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

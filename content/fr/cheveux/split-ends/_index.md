@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Pointes Fourchues"
+description: "Soins réparateurs pour éliminer et prévenir les pointes fourchues et abîmées."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

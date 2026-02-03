@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oreal Professionnel हेयरकेयर"
+description: "प्रोफेशनल L'Oreal बालों की देखभाल के उत्पाद"
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

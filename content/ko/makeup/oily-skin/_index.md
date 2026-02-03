@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "지성피부용"
+description: "기름기 조절과 오래 지속되는 메이크업을 위한 지성피부 전용 제품들"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

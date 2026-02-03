@@ -1,6 +1,6 @@
 ---
 title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+description: "Prodotti con niacinamide per pori dilatati, imperfezioni e luminosità"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

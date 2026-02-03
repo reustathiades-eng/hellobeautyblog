@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+title: "Charlotte Tilbury彩妆"
+description: "Charlotte Tilbury奢华彩妆，英伦优雅风格，打造红毯级精致妆容。"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

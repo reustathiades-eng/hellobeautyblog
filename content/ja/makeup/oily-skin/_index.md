@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "オイリー肌向けメイク"
+description: "脂性肌におすすめのメイクアップ。皮脂コントロールで一日中美しい仕上がりをキープ。"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

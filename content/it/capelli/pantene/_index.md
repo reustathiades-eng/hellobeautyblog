@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene Capelli"
+description: "Shampoo, balsami e trattamenti Pantene per capelli forti, sani e splendenti ogni giorno."
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

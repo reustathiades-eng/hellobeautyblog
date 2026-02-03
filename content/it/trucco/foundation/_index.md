@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "Fondotinta"
+description: "Fondotinta per ogni tipo di pelle: coprenza perfetta e finish naturale per un incarnato uniforme."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

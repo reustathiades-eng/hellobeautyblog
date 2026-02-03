@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Productos capilares Gisou con miel de abeja para nutrir y dar brillo natural al cabello."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

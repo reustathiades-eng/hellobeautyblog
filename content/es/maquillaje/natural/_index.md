@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "Maquillaje Natural"
+description: "Productos de maquillaje natural para realzar tu belleza con ingredientes suaves y orgánicos."
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

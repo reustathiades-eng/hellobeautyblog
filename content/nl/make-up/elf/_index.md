@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f. Make-up"
+description: "Betaalbare, hoogwaardige make-up van e.l.f. voor elke beauty lover."
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

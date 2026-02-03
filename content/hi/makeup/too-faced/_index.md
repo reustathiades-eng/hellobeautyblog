@@ -1,6 +1,6 @@
 ---
-title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+title: "Too Faced मेकअप"
+description: "Too Faced ब्रांड के लेटेस्ट कॉस्मेटिक्स और मेकअप प्रोडक्ट्स।"
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

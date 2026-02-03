@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "मस्कारा"
+description: "आंखों को निखारने के लिए वॉटरप्रूफ और लॉन्ग लास्टिंग मस्कारा कलेक्शन"
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

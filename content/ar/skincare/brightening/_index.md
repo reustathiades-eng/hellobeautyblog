@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "منتجات إشراق البشرة"
+description: "اكتشفي أفضل منتجات تفتيح وإشراق البشرة للحصول على إطلالة مشعة ونضرة"
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

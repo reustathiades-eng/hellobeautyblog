@@ -1,6 +1,6 @@
 ---
 title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+description: "Linha Briogeo com ingredientes naturais para cabelos mais fortes e saudáveis."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "保湿ケア"
+description: "肌の水分バランスを整える保湿ケアで、ふっくらとしたハリのある肌を実現。"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

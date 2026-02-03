@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Rouge"
+description: "Zartes Rouge für einen frischen, natürlichen Teint. Verschiedene Texturen und Farbnuancen."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

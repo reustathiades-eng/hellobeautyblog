@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Taches Brunes"
+description: "Traitements anti-taches pour atténuer hyperpigmentation, taches de vieillesse et unifier le teint."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

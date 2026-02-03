@@ -1,6 +1,6 @@
 ---
 title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+description: "Maquillaje profesional Bobbi Brown. Productos de alta calidad para un look sofisticado y natural."
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

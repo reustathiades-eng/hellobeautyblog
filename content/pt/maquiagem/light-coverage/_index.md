@@ -1,6 +1,6 @@
 ---
-title: "Light Coverage"
-description: "Discover the best light coverage products. Expert reviews and guides."
+title: "Cobertura Leve"
+description: "Bases e produtos de cobertura leve para um acabamento natural e respirável."
 emoji: "🌤"
 subcategory_type: "coverage"
 subcategory_value: "light-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "인조 속눈썹"
+description: "드라마틱하고 볼륨감 있는 눈매를 위한 고품질 인조 속눈썹"
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

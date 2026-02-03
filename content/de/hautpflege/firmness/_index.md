@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "Hautstraffung"
+description: "Anti-Aging Produkte für straffere Haut und mehr Elastizität - für ein jugendliches Aussehen."
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

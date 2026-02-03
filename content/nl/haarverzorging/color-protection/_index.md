@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Kleurbescherming Haar"
+description: "Bescherm je gekleurde haar met speciale producten die kleurverval voorkomen en glans behouden."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Mgiełki do twarzy"
+description: "Odświeżające mgiełki nawilżające. Natychmiastowe nawilżenie i blask skóry w spreju."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

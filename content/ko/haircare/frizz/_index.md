@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "곱슬모 관리"
+description: "거칠고 엉킨 머리카락을 부드럽고 윤기 있게 만들어주는 헤어케어 제품을 만나보세요."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

@@ -1,6 +1,6 @@
 ---
-title: "Aveda"
-description: "Discover the best aveda products. Expert reviews and guides."
+title: "منتجات Aveda للشعر"
+description: "مجموعة Aveda الطبيعية للعناية بالشعر وتغذيته من الجذور"
 emoji: "🌿"
 subcategory_type: "brand"
 subcategory_value: "aveda"

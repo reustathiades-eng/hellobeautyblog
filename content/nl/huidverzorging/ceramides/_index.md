@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Ceramiden Huidverzorging"
+description: "Versterk je huidbarrière met ceramiden. Voor gehydrateerde, gezonde huid die er stralend uitziet."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

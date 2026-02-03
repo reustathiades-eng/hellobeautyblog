@@ -1,6 +1,6 @@
 ---
-title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+title: "HUDA BEAUTY"
+description: "글로벌 뷰티 브랜드 후다 뷰티의 프리미엄 메이크업 컬렉션을 만나보세요"
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "ツヤ髪・艶出しヘアケア"
+description: "サロン級の輝くツヤ髪を自宅で実現。髪本来の美しさを引き出すシャイニングケア製品をご紹介。"
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

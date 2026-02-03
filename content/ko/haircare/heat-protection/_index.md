@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "열 손상 방지"
+description: "드라이어와 고데기로부터 모발을 보호하는 히트 프로텍션 제품으로 건강한 스타일링을 완성하세요"
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

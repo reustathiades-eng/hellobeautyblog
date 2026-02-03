@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Macchie Scure"
+description: "Trattamenti specifici per macchie scure e discromie. Uniforma il tono della pelle efficacemente."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

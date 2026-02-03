@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Gloss à Lèvres"
+description: "Gloss brillants et colorés pour des lèvres irrésistibles. Formules hydratantes longue tenue."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

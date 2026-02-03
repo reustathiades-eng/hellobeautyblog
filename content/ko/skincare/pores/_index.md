@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "모공 케어"
+description: "모공 축소와 블랙헤드 케어를 위한 전문 제품"
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

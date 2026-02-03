@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "Steil Haar Verzorging"
+description: "Haarverzorging speciaal voor steil haar om glans, zachtheid en volume te behouden."
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "सेरामाइड्स स्किनकेयर प्रोडक्ट्स"
+description: "त्वचा की प्राकृतिक बैरियर को मजबूत बनाने वाले सेरामाइड्स युक्त उत्पाद"
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

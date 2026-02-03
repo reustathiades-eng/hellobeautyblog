@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Céramides"
+description: "Soins aux céramides pour restaurer la barrière cutanée et maintenir l'hydratation de votre peau."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

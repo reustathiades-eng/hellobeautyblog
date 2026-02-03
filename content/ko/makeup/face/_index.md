@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "베이스 메이크업"
+description: "파운데이션, 컨실러, 파우더로 완벽한 피부 표현을 위한 베이스 메이크업"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

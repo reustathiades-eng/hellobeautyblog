@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "نياسيناميد للبشرة"
+description: "منتجات النياسيناميد لتقليل المسام الواسعة وتنظيم إفراز الدهون"
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

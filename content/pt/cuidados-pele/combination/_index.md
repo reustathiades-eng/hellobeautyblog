@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Pele Mista"
+description: "Produtos equilibrantes para pele mista, controlando oleosidade na zona T e hidratando."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

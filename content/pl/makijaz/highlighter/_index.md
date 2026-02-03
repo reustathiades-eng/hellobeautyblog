@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Rozświetlacze"
+description: "Rozświetlacze dla idealnego glow. Podkreśl najpiękniejsze partie twarzy."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

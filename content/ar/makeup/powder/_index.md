@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "بودرة الوجه"
+description: "بودرة مكياج لتثبيت المكياج وإخفاء العيوب مع لمسة نهائية مثالية"
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

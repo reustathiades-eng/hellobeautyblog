@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "تغطية كاملة"
+description: "مستحضرات مكياج بتغطية كاملة لإطلالة مثالية خالية من العيوب"
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

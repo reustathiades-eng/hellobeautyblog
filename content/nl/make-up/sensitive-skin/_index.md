@@ -1,6 +1,6 @@
 ---
-title: "Sensitive Skin"
-description: "Discover the best sensitive skin products. Expert reviews and guides."
+title: "Gevoelige Huid Make-up"
+description: "Make-up speciaal ontwikkeld voor de gevoelige huid. Zachte formules zonder irritatie voor een perfecte look."
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive-skin"

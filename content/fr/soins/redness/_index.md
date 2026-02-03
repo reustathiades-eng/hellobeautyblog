@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Anti-Rougeurs"
+description: "Apaisez et réduisez les rougeurs avec nos soins spécialement formulés pour les peaux sensibles et réactives."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

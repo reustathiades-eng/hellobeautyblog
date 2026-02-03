@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "مقشرات البشرة"
+description: "مقشرات طبيعية وفعالة لإزالة خلايا الجلد الميتة وتنعيم البشرة"
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

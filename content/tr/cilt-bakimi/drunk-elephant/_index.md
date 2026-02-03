@@ -1,6 +1,6 @@
 ---
-title: "Drunk Elephant"
-description: "Discover the best drunk elephant products. Expert reviews and guides."
+title: "Drunk Elephant Cilt Bakım"
+description: "Drunk Elephant'ın etkili ve temiz formüllü cilt bakım ürünleri ile cildinizi yenileyin."
 emoji: "🐘"
 subcategory_type: "brand"
 subcategory_value: "drunk-elephant"

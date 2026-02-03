@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Spray Fixador Cabelo"
+description: "Sprays fixadores para manter o penteado por mais tempo com diferentes níveis de fixação."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

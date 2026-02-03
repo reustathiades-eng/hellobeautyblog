@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18护发"
+description: "K18分子修护护发产品，深层修复受损发质，重建发丝结构，恢复健康光泽。"
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

@@ -1,6 +1,6 @@
 ---
-title: "La Roche Posay"
-description: "Discover the best la roche posay products. Expert reviews and guides."
+title: "La Roche-Posay"
+description: "Dermokosmetyki La Roche-Posay. Produkty do cery wrażliwej z wodą termalną, testowane dermatologicznie."
 emoji: "💊"
 subcategory_type: "brand"
 subcategory_value: "la-roche-posay"

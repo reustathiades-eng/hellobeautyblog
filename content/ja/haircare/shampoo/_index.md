@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "シャンプー"
+description: "髪と頭皮を優しく洗い上げるシャンプー。健やかな髪の土台作りに欠かせないアイテム。"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

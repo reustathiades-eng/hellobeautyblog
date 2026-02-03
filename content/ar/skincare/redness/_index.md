@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "علاج الاحمرار"
+description: "منتجات مهدئة للبشرة الحساسة لتقليل الاحمرار والالتهابات وإعادة الراحة للبشرة المتهيجة"
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

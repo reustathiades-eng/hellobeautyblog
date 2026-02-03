@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "Odżywki do Włosów"
+description: "Odżywki nawilżające i regenerujące do wszystkich typów włosów. Miękkość i połysk."
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

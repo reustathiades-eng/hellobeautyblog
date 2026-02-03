@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Hittebescherming Haar"
+description: "Bescherm je haar tegen styling schade met hittebeschermende sprays en crèmes voor gezond, glanzend haar."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

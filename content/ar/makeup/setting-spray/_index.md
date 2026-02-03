@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "سبراي تثبيت المكياج"
+description: "سبراي تثبيت لمكياج يدوم طويلاً مع لمسة منعشة ونهائية مثالية"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

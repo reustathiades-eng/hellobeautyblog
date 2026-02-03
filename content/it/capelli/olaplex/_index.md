@@ -1,6 +1,6 @@
 ---
 title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+description: "Trattamenti riparativi Olaplex per capelli danneggiati e fragili."
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "日焼け止め・UV対策"
+description: "紫外線から肌を守る日焼け止め。SPF・PA値別に選べるUVケア商品"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

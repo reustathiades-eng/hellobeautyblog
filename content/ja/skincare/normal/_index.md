@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "普通肌・ノーマルスキン"
+description: "普通肌におすすめのスキンケア商品。バランスの良い肌質を維持するケア"
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

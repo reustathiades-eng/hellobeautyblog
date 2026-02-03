@@ -1,6 +1,6 @@
 ---
-title: "Acne"
-description: "Discover the best acne products. Expert reviews and guides."
+title: "Acné et Imperfections"
+description: "Traitements anti-acné et anti-imperfections pour une peau nette et apaisée."
 emoji: "🔴"
 subcategory_type: "concern"
 subcategory_value: "acne"

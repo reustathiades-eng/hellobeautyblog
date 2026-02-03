@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "护肤精油"
+description: "天然护肤精油，深层滋养修护，改善肌肤干燥，带来柔软光泽质感"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

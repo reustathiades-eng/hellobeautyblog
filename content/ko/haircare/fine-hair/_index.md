@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "가는 모발 케어"
+description: "얇고 가는 모발을 위한 볼륨 업과 모발 강화에 특화된 헤어케어 제품들입니다."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

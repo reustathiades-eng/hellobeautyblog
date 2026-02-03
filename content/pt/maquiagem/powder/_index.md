@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Pós para Maquiagem"
+description: "Fixe e matifique sua maquiagem com pós compactos, soltos e translúcidos para todos os tons."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

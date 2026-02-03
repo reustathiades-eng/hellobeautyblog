@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Productos Antienvejecimiento"
+description: "Tratamientos antiedad para reducir arrugas y mantener una piel joven y radiante."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

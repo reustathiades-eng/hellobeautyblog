@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "مكافحة التجاعيد"
+description: "منتجات فعالة لتقليل التجاعيد وخطوط الوجه لبشرة أكثر شباباً ونعومة"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Laca para Cabello"
+description: "Lacas de diferentes fijaciones para mantener tu peinado perfecto durante horas sin residuos."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

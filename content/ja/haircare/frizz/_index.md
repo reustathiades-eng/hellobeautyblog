@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "くせ毛・うねり髪ケア"
+description: "広がりやすいくせ毛をまとまりのある美しい髪へ。プロ仕様のヘアケア製品で理想のスタイルを実現。"
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

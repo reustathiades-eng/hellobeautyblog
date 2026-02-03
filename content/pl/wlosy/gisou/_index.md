@@ -1,6 +1,6 @@
 ---
 title: "Gisou"
-description: "Discover the best gisou products. Expert reviews and guides."
+description: "Ekskluzywne produkty Gisou z miodem Mirsalehi dla zdrowych i lśniących włosów."
 emoji: "🍯"
 subcategory_type: "brand"
 subcategory_value: "gisou"

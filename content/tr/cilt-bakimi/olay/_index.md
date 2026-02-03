@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "Olay Cilt Bakım Ürünleri"
+description: "Olay markasının kaliteli ve etkili cilt bakım çözümleri."
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

@@ -1,6 +1,6 @@
 ---
 title: "John Frieda"
-description: "Discover the best john frieda products. Expert reviews and guides."
+description: "Haircare professionale John Frieda per ogni tipo di capello. Risultati da salone."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "john-frieda"

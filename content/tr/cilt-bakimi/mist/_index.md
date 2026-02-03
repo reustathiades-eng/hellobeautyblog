@@ -1,6 +1,6 @@
 ---
-title: "Mist"
-description: "Discover the best mist products. Expert reviews and guides."
+title: "Yüz Spreyleri ve Mist"
+description: "Nemlendirici ve ferahlatıcı yüz spreyleri ile cildinizi canlandırın ve nemlendirin."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "mist"

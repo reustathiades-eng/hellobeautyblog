@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "Gesichtsöle"
+description: "Pflegende Gesichtsöle für intensive Feuchtigkeit und natürlichen Glow Ihrer Haut."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

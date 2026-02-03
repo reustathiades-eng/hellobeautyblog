@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "Göz Altı Morlukları"
+description: "Göz altı morluklarını azaltan ve göz çevresini canlandıran etkili bakım çözümleri."
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

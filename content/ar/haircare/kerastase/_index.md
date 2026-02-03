@@ -1,6 +1,6 @@
 ---
 title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+description: "اكتشفي مجموعة Kerastase الفاخرة للعناية المتقدمة بالشعر والتغذية العميقة"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

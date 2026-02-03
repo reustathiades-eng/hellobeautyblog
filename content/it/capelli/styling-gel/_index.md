@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "Gel Styling"
+description: "Gel per capelli styling: tenuta forte, effetto naturale e controllo perfetto per ogni acconciatura."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

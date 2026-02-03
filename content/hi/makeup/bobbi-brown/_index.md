@@ -1,6 +1,6 @@
 ---
-title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+title: "Bobbi Brown मेकअप"
+description: "Bobbi Brown के प्रीमियम मेकअप प्रोडक्ट्स। प्रोफेशनल क्वालिटी कॉस्मेटिक्स का बेस्ट रेंज।"
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

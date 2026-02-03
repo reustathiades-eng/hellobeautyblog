@@ -1,6 +1,6 @@
 ---
 title: "Moroccanoil"
-description: "Discover the best moroccanoil products. Expert reviews and guides."
+description: "Luksusowa pielęgnacja włosów Moroccanoil z olejem arganowym. Profesjonalne produkty fryzjerskie."
 emoji: "🫒"
 subcategory_type: "brand"
 subcategory_value: "moroccanoil"

@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Peau Sèche"
+description: "Solutions hydratantes intensives pour nourrir et réparer la peau sèche en profondeur."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

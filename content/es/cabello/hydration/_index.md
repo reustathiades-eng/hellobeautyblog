@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hidratación Capilar"
+description: "Mascarillas y tratamientos hidratantes para restaurar la humedad y suavidad del cabello."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

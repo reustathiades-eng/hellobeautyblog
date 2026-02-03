@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "كريمات الترطيب"
+description: "مرطبات فعالة لجميع أنواع البشرة لترطيب عميق ونعومة لا تقاوم"
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

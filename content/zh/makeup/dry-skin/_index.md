@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "干性肌肤彩妆"
+description: "滋润保湿干肌彩妆产品，持妆服帖不起皮，水润妆感"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

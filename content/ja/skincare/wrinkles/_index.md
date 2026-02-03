@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "シワ・たるみ対策"
+description: "深いシワやたるみにアプローチする集中エイジングケア製品。"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

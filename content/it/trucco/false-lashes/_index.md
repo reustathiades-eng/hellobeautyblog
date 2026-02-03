@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "Ciglia Finte"
+description: "Ciglia finte per uno sguardo magnetico: naturali, voluminose o drammatiche per ogni occasione."
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

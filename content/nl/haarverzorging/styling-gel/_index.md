@@ -1,6 +1,6 @@
 ---
 title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+description: "Creëer de perfecte look met professionele styling gel voor sterke hold en glanzende finish."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

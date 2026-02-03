@@ -1,6 +1,6 @@
 ---
-title: "Dandruff"
-description: "Discover the best dandruff products. Expert reviews and guides."
+title: "비듬 케어"
+description: "비듬과 가려움증을 효과적으로 관리하는 전용 제품으로 건강한 두피를 되찾으세요."
 emoji: "❄"
 subcategory_type: "concern"
 subcategory_value: "dandruff"

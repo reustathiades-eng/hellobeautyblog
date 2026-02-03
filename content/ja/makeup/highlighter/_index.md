@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "ハイライター・フェイスハイライト"
+description: "顔に立体感と輝きをプラス。自然な艶感から華やかなグロウまで、多彩なハイライターコレクション。"
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "Olaplex护发"
+description: "Olaplex专业修护系列，重建受损发丝，让秀发恢复健康光泽，强韧顺滑。"
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Esfoliantes"
+description: "Esfoliantes faciais e corporais para remover células mortas e revelar pele renovada."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

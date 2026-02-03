@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's नेचुरल स्किनकेयर"
+description: "Kiehl's के नेचुरल इंग्रीडिएंट्स वाले प्रीमियम स्किनकेयर प्रोडक्ट्स।"
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

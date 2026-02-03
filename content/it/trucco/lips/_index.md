@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Trucco Labbra"
+description: "Rossetti, gloss e matite labbra per un sorriso perfetto. Colori intensi e formule a lunga tenuta."
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

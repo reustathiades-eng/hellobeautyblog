@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy थर्मल स्किनकेयर"
+description: "Vichy के थर्मल वाटर इन्फ्यूज्ड स्किनकेयर से हेल्दी और ग्लोइंग स्किन।"
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

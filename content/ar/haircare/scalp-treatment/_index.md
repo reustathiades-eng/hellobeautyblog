@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "علاج فروة الرأس"
+description: "منتجات متخصصة لعلاج مشاكل فروة الرأس وتغذيتها للحصول على شعر صحي ولامع"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

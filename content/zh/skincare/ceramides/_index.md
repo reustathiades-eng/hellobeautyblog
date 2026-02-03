@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "神经酰胺护肤品"
+description: "神经酰胺修护肌肤屏障，深层滋润保湿，改善干燥敏感肌肤问题"
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

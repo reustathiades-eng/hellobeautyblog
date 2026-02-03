@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Rétinol"
+description: "Soins au rétinol pour lisser les rides, affiner le grain de peau et stimuler le renouvellement cellulaire."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

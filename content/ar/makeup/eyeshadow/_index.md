@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "ظلال العيون"
+description: "ظلال عيون بألوان رائعة وتركيبة مميزة لإطلالة عيون جذابة وساحرة"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

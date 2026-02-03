@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "컨디셔너"
+description: "부드럽고 윤기 나는 모발을 위한 최고의 컨디셔너 컬렉션을 만나보세요"
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

@@ -1,6 +1,6 @@
 ---
 title: "Huda Beauty"
-description: "Discover the best huda beauty products. Expert reviews and guides."
+description: "Découvrez la collection Huda Beauty : palettes, fonds de teint et produits makeup tendance pour un look glamour."
 emoji: "💋"
 subcategory_type: "brand"
 subcategory_value: "huda-beauty"

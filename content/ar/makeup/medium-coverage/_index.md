@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "تغطية متوسطة"
+description: "منتجات مكياج بتغطية متوسطة مثالية للاستخدام اليومي والمناسبات"
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

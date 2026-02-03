@@ -1,6 +1,6 @@
 ---
 title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+description: "Premium Shampoos für jeden Haartyp. Sanfte Reinigung und intensive Pflege für gesundes Haar."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

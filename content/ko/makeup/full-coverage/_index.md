@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "풀커버리지"
+description: "강력한 커버력으로 모든 잡티를 완벽하게 가려주는 풀커버리지 메이크업 제품들입니다."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

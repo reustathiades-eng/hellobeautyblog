@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "敏感肌ケア"
+description: "刺激に弱い敏感肌のための優しいスキンケアで、トラブルのない美しい肌へ。"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Makeup Effetto Satin"
+description: "Makeup con finitura satin: texture setosa e luminosa per un look elegante e sofisticato."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

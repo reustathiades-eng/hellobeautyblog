@@ -1,6 +1,6 @@
 ---
-title: "Wrinkles"
-description: "Discover the best wrinkles products. Expert reviews and guides."
+title: "Kosmetyki przeciwzmarszczkowe"
+description: "Skuteczne kremy i serum na zmarszczki. Odmłodź skórę i wygładź oznaki starzenia."
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "wrinkles"

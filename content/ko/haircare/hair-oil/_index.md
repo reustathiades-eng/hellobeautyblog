@@ -1,6 +1,6 @@
 ---
-title: "Hair Oil"
-description: "Discover the best hair oil products. Expert reviews and guides."
+title: "헤어 오일"
+description: "깊은 영양과 윤기를 선사하는 헤어 오일로 건조하고 손상된 모발을 집중 케어하세요."
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "hair-oil"

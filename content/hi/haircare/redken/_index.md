@@ -1,6 +1,6 @@
 ---
-title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+title: "Redken हेयरकेयर"
+description: "सैलून क्वालिटी Redken हेयर प्रोडक्ट्स का विशेष संग्रह"
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

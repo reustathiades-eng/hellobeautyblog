@@ -1,6 +1,6 @@
 ---
-title: "Conditioner"
-description: "Discover the best conditioner products. Expert reviews and guides."
+title: "हेयर कंडीशनर"
+description: "मुलायम और चमकदार बालों के लिए बेस्ट कंडीशनर का संग्रह।"
 emoji: "💆"
 subcategory_type: "product_type"
 subcategory_value: "conditioner"

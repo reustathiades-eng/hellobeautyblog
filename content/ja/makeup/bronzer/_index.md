@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "ブロンザー・シェーディング"
+description: "健康的な日焼け肌を演出するブロンザー。顔に自然な陰影をつけて立体感のある美しい仕上がりに。"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

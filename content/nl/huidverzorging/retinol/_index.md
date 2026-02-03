@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Retinol Huidverzorging"
+description: "Vernieuw je huid met retinol. Vermindert rimpels, verbetert textuur en geeft een stralende teint."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

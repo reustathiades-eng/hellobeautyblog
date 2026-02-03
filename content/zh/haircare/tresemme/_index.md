@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé崔丝媚"
+description: "TRESemmé崔丝媚专业护发，沙龙级护理体验，打造顺滑强韧秀发"
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

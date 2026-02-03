@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's科颜氏护肤"
+description: "Kiehl's科颜氏天然护肤品，温和滋养，呵护各种肌肤需求"
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

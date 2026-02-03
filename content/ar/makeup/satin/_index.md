@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "مكياج ساتان"
+description: "منتجات مكياج بملمس ساتان ناعم للحصول على إطلالة أنيقة ولمسة نهائية مخملية"
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

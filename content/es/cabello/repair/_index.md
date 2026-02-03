@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Reparación Capilar"
+description: "Tratamientos reparadores para cabello dañado. Restaura la salud y vitalidad del cabello maltratado."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

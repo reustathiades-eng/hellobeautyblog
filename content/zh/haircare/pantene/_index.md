@@ -1,6 +1,6 @@
 ---
-title: "Pantene"
-description: "Discover the best pantene products. Expert reviews and guides."
+title: "Pantene潘婷洗护"
+description: "Pantene潘婷专业洗护产品，修复受损发质，让秀发更加柔顺亮泽"
 emoji: "✨"
 subcategory_type: "brand"
 subcategory_value: "pantene"

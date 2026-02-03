@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Nemlendirici Saç Bakımı"
+description: "Kuru ve yıpranmış saçlar için yoğun nemlendirici bakım. Derinlemesine nem ve onarım."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

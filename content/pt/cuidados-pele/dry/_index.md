@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Pele Seca"
+description: "Produtos hidratantes e nutritivos para combater o ressecamento e restaurar a maciez da pele."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

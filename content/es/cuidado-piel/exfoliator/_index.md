@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "Exfoliantes Faciales"
+description: "Exfoliantes suaves y efectivos para eliminar células muertas y suavizar la piel del rostro."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

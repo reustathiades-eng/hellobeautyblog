@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "Gezicht Make-up"
+description: "Foundation, concealer, poeder en blush voor een vlekkeloze teint en stralende huid."
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

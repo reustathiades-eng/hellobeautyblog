@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Dewy Make-up Look"
+description: "Creëer een natuurlijke, glanzende dewy look met onze make-up producten."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

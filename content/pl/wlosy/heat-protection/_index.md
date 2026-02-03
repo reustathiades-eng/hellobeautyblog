@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "Ochrona Termiczna"
+description: "Kosmetyki chroniące włosy przed wysoką temperaturą. Ochrona podczas suszenia i stylizacji."
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

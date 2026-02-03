@@ -1,6 +1,6 @@
 ---
-title: "Concealer"
-description: "Discover the best concealer products. Expert reviews and guides."
+title: "Kapatıcı"
+description: "Kusursuz bir cilt için en iyi kapatıcı ürünleri. Leke ve göz altı morlukları için ideal çözümler."
 emoji: "🖌"
 subcategory_type: "product_type"
 subcategory_value: "concealer"

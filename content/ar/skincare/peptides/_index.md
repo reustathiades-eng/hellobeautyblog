@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "البيبتيدات للعناية بالبشرة"
+description: "منتجات البيبتيدات المتطورة لمحاربة علامات التقدم في السن وتجديد البشرة"
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

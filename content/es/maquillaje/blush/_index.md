@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "Colorete"
+description: "Coloretes para un rubor natural y duradero. Dale vida a tus mejillas con los mejores tonos."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

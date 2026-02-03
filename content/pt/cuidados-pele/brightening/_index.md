@@ -1,6 +1,6 @@
 ---
-title: "Brightening"
-description: "Discover the best brightening products. Expert reviews and guides."
+title: "Clareadores e Iluminadores"
+description: "Produtos para clarear manchas e iluminar a pele, revelando um tom mais uniforme e radiante."
 emoji: "💡"
 subcategory_type: "concern"
 subcategory_value: "brightening"

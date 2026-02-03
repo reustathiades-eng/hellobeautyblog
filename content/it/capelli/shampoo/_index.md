@@ -1,6 +1,6 @@
 ---
 title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+description: "Shampoo per tutti i tipi di capelli: purificanti, idratanti, anti-forfora e per capelli colorati."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

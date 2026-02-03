@@ -1,6 +1,6 @@
 ---
-title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+title: "Living Proof 리빙프루프"
+description: "과학적 혁신 기술로 개발된 리빙프루프 헤어케어 제품으로 완벽한 모발 관리를 시작하세요"
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

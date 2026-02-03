@@ -1,6 +1,6 @@
 ---
-title: "Sk Ii"
-description: "Discover the best sk ii products. Expert reviews and guides."
+title: "SK-II护肤品"
+description: "SK-II神仙水系列,Pitera酵母精华,奢华护肤品牌,焕发肌肤光彩"
 emoji: "💠"
 subcategory_type: "brand"
 subcategory_value: "sk-ii"

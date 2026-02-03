@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARSメイクアップ"
+description: "プロ仕様のNARSコスメティクス。洗練されたカラーと高品質な発色で理想のメイクアップを実現。"
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

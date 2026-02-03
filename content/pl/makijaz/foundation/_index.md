@@ -1,6 +1,6 @@
 ---
-title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+title: "Podkłady do twarzy"
+description: "Różnorodne podkłady dla każdego typu skóry. Naturalne krycie i długotrwały efekt."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

@@ -1,6 +1,6 @@
 ---
-title: "Olay"
-description: "Discover the best olay products. Expert reviews and guides."
+title: "Olay玉兰油护肤品"
+description: "Olay玉兰油经典护肤系列，科学美肌配方，打造健康亮泽肌肤"
 emoji: "🌙"
 subcategory_type: "brand"
 subcategory_value: "olay"

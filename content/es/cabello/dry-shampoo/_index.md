@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "Champú Seco"
+description: "Champús secos que absorben la grasa y refrescan el cabello entre lavados."
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

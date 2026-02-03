@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Peau Mixte"
+description: "Soins équilibrants pour peau mixte, matifie la zone T et hydrate les joues."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

@@ -1,6 +1,6 @@
 ---
-title: "Normal"
-description: "Discover the best normal products. Expert reviews and guides."
+title: "Cera Normalna"
+description: "Pielęgnacja dla cery normalnej. Utrzymuje naturalną równowagę i zdrowy wygląd skóry."
 emoji: "✅"
 subcategory_type: "skin_type"
 subcategory_value: "normal"

@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Tratamento Localizado"
+description: "Soluções pontuais para espinhas, manchas e imperfeições específicas da pele."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

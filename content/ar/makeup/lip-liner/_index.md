@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "محدد الشفاه"
+description: "محددات شفاه عالية الثبات لرسم دقيق وإطلالة مثالية للشفاه"
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

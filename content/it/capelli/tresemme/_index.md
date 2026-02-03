@@ -1,6 +1,6 @@
 ---
-title: "Tresemme"
-description: "Discover the best tresemme products. Expert reviews and guides."
+title: "TRESemmé"
+description: "Linea professionale TRESemmé: shampoo, balsami e styling per capelli da salone a casa tua."
 emoji: "💫"
 subcategory_type: "brand"
 subcategory_value: "tresemme"

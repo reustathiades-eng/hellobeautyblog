@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "Eyelinery"
+description: "Precyzyjne eyelinery do podkreślenia oczu. Wodoodporne formuły o długotrwałym działaniu."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

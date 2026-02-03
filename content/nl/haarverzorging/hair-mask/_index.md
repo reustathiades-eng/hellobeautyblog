@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "Haarmaskers"
+description: "Intensieve haarmaskers voor alle haartypes. Voedende behandelingen die je haar herstellen en laten glanzen."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

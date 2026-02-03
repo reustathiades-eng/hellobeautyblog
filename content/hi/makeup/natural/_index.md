@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "नेचुरल मेकअप"
+description: "प्राकृतिक और ऑर्गेनिक मेकअप प्रोडक्ट्स से पाएं नेचुरल ग्लो"
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

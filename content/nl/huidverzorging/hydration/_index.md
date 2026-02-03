@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hydratatie"
+description: "Hydraterende huidverzorging voor optimale vochtbalans. Geef uw huid de hydratatie die het verdient."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

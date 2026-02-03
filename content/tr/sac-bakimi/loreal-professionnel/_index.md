@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oréal Professionnel Saç Ürünleri"
+description: "L'Oréal Professionnel ile kuaför kalitesinde saç bakımı ve styling deneyimi yaşayın."
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "紧致护肤"
+description: "专业紧致抗衰老护肤品，提升肌肤弹性，重现年轻紧致状态"
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

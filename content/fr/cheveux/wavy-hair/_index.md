@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "Cheveux Ondulés"
+description: "Sublimez vos ondulations naturelles avec des produits spécialement conçus pour cheveux ondulés."
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

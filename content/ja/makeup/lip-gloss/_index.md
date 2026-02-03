@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "リップグロス"
+description: "ぷるんと輝く唇に。つややかで魅力的な唇を演出するリップグロスコレクション。"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

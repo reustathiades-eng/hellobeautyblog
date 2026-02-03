@@ -1,6 +1,6 @@
 ---
 title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+description: "Produtos com brilho shimmer para um look radiante. Adicione luminosidade à sua maquiagem."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

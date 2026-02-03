@@ -1,6 +1,6 @@
 ---
-title: "Thick Hair"
-description: "Discover the best thick hair products. Expert reviews and guides."
+title: "Capelli Folti"
+description: "Prodotti specifici per capelli folti e voluminosi. Controllo e definizione ottimali."
 emoji: "🦁"
 subcategory_type: "hair_type"
 subcategory_value: "thick-hair"

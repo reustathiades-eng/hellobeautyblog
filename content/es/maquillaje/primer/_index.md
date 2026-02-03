@@ -1,6 +1,6 @@
 ---
-title: "Primer"
-description: "Discover the best primer products. Expert reviews and guides."
+title: "Prebase de Maquillaje"
+description: "Prebases para un maquillaje perfecto y duradero. Alisa, matifica y fija tu base por más tiempo."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "primer"

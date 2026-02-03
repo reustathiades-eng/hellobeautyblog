@@ -1,6 +1,6 @@
 ---
-title: "Vitamin C"
-description: "Discover the best vitamin c products. Expert reviews and guides."
+title: "Vitamin C Hautpflege"
+description: "Antioxidative Vitamin C Produkte für strahlende Haut und Schutz vor freien Radikalen."
 emoji: "🍊"
 subcategory_type: "ingredient"
 subcategory_value: "vitamin-c"

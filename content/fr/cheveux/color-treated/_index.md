@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "Cheveux Colorés"
+description: "Soins spécialisés pour préserver l'éclat et prolonger la tenue de votre coloration."
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

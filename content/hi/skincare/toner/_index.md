@@ -1,6 +1,6 @@
 ---
-title: "Toner"
-description: "Discover the best toner products. Expert reviews and guides."
+title: "फेस टोनर और मिस्ट"
+description: "त्वचा को साफ और तरोताजा रखने वाले टोनर। पोर्स को कसें और pH बैलेंस बनाए रखें।"
 emoji: "💧"
 subcategory_type: "product_type"
 subcategory_value: "toner"

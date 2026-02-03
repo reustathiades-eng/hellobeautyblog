@@ -1,6 +1,6 @@
 ---
-title: "Combination"
-description: "Discover the best combination products. Expert reviews and guides."
+title: "Karma Cilt"
+description: "Karma cilt tipine özel dengeleyici ve düzenleyici bakım ürünleri ile ideal cilt."
 emoji: "⚖"
 subcategory_type: "skin_type"
 subcategory_value: "combination"

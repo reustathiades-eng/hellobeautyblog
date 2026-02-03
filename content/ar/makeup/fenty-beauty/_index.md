@@ -1,6 +1,6 @@
 ---
 title: "Fenty Beauty"
-description: "Discover the best fenty beauty products. Expert reviews and guides."
+description: "مستحضرات Fenty Beauty العصرية بتدرجات متنوعة تناسب جميع ألوان البشرة"
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "fenty-beauty"

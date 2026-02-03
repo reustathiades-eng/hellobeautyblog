@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "卷发护理"
+description: "专为卷发设计的护发产品，定型塑形，展现自然卷发魅力"
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

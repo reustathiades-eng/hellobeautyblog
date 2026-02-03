@@ -1,6 +1,6 @@
 ---
-title: "Moisturizer"
-description: "Discover the best moisturizer products. Expert reviews and guides."
+title: "Vochtinbrengende Crème"
+description: "Hydrateer je huid optimaal met onze selectie vochtinbrengende crèmes voor alle huidtypes."
 emoji: "🧊"
 subcategory_type: "product_type"
 subcategory_value: "moisturizer"

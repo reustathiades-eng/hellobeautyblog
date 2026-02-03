@@ -1,6 +1,6 @@
 ---
 title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+description: "Kultowa marka kosmetyków Maybelline. Odkryj szeroką gamę produktów do makijażu w najlepszych cenach."
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

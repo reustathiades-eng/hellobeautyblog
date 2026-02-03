@@ -1,6 +1,6 @@
 ---
-title: "Chanel Beauty"
-description: "Discover the best chanel beauty products. Expert reviews and guides."
+title: "Chanel Güzellik Ürünleri"
+description: "Lüks Chanel makyaj ve güzellik ürünleri ile zarafet ve şıklığı yaşayın."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "chanel-beauty"

@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Pelle Grassa"
+description: "Trattamenti specifici per pelle grassa: detergenti, sieri e creme per controllare il sebo in eccesso."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

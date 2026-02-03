@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Hidratação"
+description: "Produtos hidratantes intensivos para manter a pele macia, saudável e com aspecto jovem."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

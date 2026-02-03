@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "チーク・頬紅"
+description: "自然な血色感を演出するチークコレクション。パウダーからクリームまで豊富なカラーバリエーション"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

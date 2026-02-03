@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "Trattamenti per il Cuoio Capelluto"
+description: "Scopri i migliori trattamenti per cuoio capelluto: soluzioni efficaci per capelli sani e forti dalla radice."
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

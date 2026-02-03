@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "Olaplex Haarpflege"
+description: "Revolutionäre Olaplex Haarregeneration. Repariert geschädigtes Haar und stärkt die Haarstruktur."
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

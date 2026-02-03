@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe 스킨케어"
+description: "피부 장벽 케어 전문 브랜드 CeraVe로 건강한 피부를 만들어보세요"
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

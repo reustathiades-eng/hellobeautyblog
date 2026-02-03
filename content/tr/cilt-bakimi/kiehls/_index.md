@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's Doğal Cilt Bakımı"
+description: "Botanik kökenli Kiehl's cilt bakım ürünleri ile etkili ve doğal güzellik rutini."
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "Eyeshadow Primer"
+description: "Lidschatten Primer für intensive Farben und Haltbarkeit. Perfekte Base für langanhaltendes Augen-Make-up."
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

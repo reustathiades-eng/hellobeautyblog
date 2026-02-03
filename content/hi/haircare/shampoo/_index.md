@@ -1,6 +1,6 @@
 ---
-title: "Shampoo"
-description: "Discover the best shampoo products. Expert reviews and guides."
+title: "शैम्पू - बालों की सफाई"
+description: "हर प्रकार के बालों के लिए उच्च गुणवत्ता वाले शैम्पू"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "shampoo"

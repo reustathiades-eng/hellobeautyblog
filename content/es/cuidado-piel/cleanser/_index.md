@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "Limpiadores Faciales"
+description: "Limpiadores y desmaquillantes para todos los tipos de piel, la base de una rutina perfecta."
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

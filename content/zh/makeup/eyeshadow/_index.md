@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "眼影"
+description: "丰富眼影色彩选择，打造迷人眼妆，从日常到派对妆容一应俱全"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

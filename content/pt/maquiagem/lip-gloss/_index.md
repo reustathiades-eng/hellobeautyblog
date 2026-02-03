@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "Gloss Labial"
+description: "Gloss para lábios hidratados, brilhantes e com cores incríveis para o dia todo."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

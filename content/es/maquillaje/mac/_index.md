@@ -1,6 +1,6 @@
 ---
-title: "Mac"
-description: "Discover the best mac products. Expert reviews and guides."
+title: "MAC"
+description: "Maquillaje profesional MAC Cosmetics. Productos icónicos usados por maquilladores expertos."
 emoji: "💄"
 subcategory_type: "brand"
 subcategory_value: "mac"

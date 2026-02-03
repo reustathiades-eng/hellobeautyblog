@@ -1,6 +1,6 @@
 ---
 title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+description: "プロフェッショナル仕様のヘアケアブランド。サロン級の美髪ケアをご自宅で。"
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

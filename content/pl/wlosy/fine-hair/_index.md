@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "Włosy cienkie"
+description: "Pielęgnacja dla cienkich włosów. Produkty dodające objętość i wzmacniające delikatne pasma."
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "ペプチド配合スキンケア"
+description: "エイジングケアに効果的なペプチド配合の美容液やクリームで、ハリのある肌へ"
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

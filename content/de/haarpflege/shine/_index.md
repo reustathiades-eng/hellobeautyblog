@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "Glanz & Leuchtkraft"
+description: "Verleihen Sie Ihrem Haar strahlenden Glanz mit pflegenden Shine-Produkten für jeden Haartyp."
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

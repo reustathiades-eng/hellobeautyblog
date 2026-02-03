@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "클렌저 세안제"
+description: "피부 타입별 맞춤 클렌저로 깨끗하고 촉촉한 세안을 경험하고 건강한 피부 시작"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

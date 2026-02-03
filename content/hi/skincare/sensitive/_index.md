@@ -1,6 +1,6 @@
 ---
-title: "Sensitive"
-description: "Discover the best sensitive products. Expert reviews and guides."
+title: "सेंसिटिव स्किन केयर"
+description: "संवेदनशील त्वचा के लिए जेंटल और हाइपोएलर्जेनिक स्किनकेयर प्रोडक्ट्स।"
 emoji: "🌿"
 subcategory_type: "skin_type"
 subcategory_value: "sensitive"

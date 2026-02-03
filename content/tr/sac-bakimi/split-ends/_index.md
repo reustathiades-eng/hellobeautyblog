@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Saç Ucu Kırılması"
+description: "Saç ucu kırılmasına karşı etkili bakım ürünleri. Sağlıklı saç uçları için özel formüller."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

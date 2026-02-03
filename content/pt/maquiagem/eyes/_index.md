@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Maquiagem para Olhos"
+description: "Sombras, máscaras, delineadores e tudo para criar looks incríveis e destacar o seu olhar."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "ツヤ肌・デューイメイク"
+description: "内側から輝くような自然なツヤ感を演出。みずみずしく健康的な肌印象を作るデューイメイク。"
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

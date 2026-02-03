@@ -1,6 +1,6 @@
 ---
-title: "Curly Hair"
-description: "Discover the best curly hair products. Expert reviews and guides."
+title: "Capelli Ricci"
+description: "Prodotti specifici per capelli ricci: definizione, nutrimento e controllo del crespo per ricci perfetti."
 emoji: "🌀"
 subcategory_type: "hair_type"
 subcategory_value: "curly-hair"

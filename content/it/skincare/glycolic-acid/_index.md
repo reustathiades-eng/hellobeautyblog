@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Acido Glicolico"
+description: "Prodotti con acido glicolico per esfoliare delicatamente e illuminare il viso con risultati visibili."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

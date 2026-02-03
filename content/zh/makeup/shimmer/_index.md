@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "珠光彩妆"
+description: "闪亮珠光彩妆产品，增添迷人光泽，打造璀璨夺目妆效"
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

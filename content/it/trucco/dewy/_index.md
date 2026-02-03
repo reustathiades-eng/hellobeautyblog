@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "Effetto Dewy"
+description: "Makeup per un incarnato luminoso e naturale con l'effetto pelle baciata dalla rugiada."
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

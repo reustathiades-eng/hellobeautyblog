@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "フルカバレッジ"
+description: "気になる肌悩みを完全にカバー。高いカバー力で理想の美肌を長時間持続。"
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena露得清护肤"
+description: "Neutrogena露得清专业护肤系列，温和有效配方，呵护健康美肌"
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

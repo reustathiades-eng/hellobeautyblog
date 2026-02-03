@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "Sombras de Ojos"
+description: "Sombras de ojos en todos los tonos. Crea looks únicos con paletas mate, satinadas y brillantes."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "Welliges Haar"
+description: "Spezielle Pflege für welliges Haar. Definiert Locken und reduziert Frizz für natürliche Wellen."
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

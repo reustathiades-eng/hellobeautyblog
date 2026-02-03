@@ -1,6 +1,6 @@
 ---
 title: "Clinique"
-description: "Discover the best clinique products. Expert reviews and guides."
+description: "Clinique huidverzorging voor elke huidtype. Dermatologisch geteste producten voor gezonde huid."
 emoji: "💚"
 subcategory_type: "brand"
 subcategory_value: "clinique"

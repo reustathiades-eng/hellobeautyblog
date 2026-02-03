@@ -1,6 +1,6 @@
 ---
-title: "Dry Skin"
-description: "Discover the best dry skin products. Expert reviews and guides."
+title: "乾燥肌向けメイク"
+description: "乾燥肌のためのしっとり保湿メイクアップ。潤いをキープしながら美しく仕上がるコスメ"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry-skin"

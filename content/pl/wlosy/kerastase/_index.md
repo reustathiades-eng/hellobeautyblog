@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kérastase"
+description: "Profesjonalne produkty Kérastase do pielęgnacji włosów. Luksusowa pielęgnacja i regeneracja."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

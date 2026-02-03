@@ -1,6 +1,6 @@
 ---
-title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+title: "OLAPLEX"
+description: "髪の内部から修復するOLAPLEX製品。ダメージヘアを集中ケアし、健やかな髪へ導く"
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "Esmalte de Uñas"
+description: "Esmaltes de uñas en colores vibrantes y fórmulas de larga duración para una manicura perfecta."
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

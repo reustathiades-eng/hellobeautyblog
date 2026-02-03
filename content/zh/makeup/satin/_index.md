@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "丝缎妆效"
+description: "丝缎质感彩妆产品，柔滑细腻妆效，打造自然光泽肌肤"
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

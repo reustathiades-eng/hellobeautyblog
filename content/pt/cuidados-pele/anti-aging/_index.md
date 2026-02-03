@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Anti-Idade"
+description: "Tratamentos anti-idade para reduzir rugas, linhas finas e sinais do tempo na pele."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

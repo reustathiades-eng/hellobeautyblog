@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha Huidverzorging"
+description: "Luxe Japanse huidverzorging van Tatcha voor een stralende, gezonde huid."
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

@@ -1,6 +1,6 @@
 ---
-title: "Matte"
-description: "Discover the best matte products. Expert reviews and guides."
+title: "Mat Makyaj"
+description: "Mat finish veren makyaj ürünleri. Parlama yapmayan, uzun süre kalıcı sonuçlar."
 emoji: "🪨"
 subcategory_type: "finish"
 subcategory_value: "matte"

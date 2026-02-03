@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "干性肌肤护理"
+description: "专为干性肌肤设计的保湿护肤产品，深层滋养，改善肌肤干燥问题"
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

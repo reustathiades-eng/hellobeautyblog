@@ -1,6 +1,6 @@
 ---
-title: "Scalp Treatment"
-description: "Discover the best scalp treatment products. Expert reviews and guides."
+title: "头皮护理"
+description: "专业头皮护理产品，深层清洁滋养，改善头皮健康，告别头屑油腻困扰"
 emoji: "🧠"
 subcategory_type: "product_type"
 subcategory_value: "scalp-treatment"

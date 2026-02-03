@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "Donkere Vlekken Verzorging"
+description: "Verminder donkere vlekken en pigmentatie. Krijg een egale, stralende teint met gerichte behandeling."
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

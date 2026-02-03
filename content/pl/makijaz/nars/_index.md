@@ -1,6 +1,6 @@
 ---
-title: "Nars"
-description: "Discover the best nars products. Expert reviews and guides."
+title: "NARS"
+description: "Kultowa marka NARS. Profesjonalny makijaż o intensywnych kolorach i trwałości."
 emoji: "🖤"
 subcategory_type: "brand"
 subcategory_value: "nars"

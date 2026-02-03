@@ -1,6 +1,6 @@
 ---
-title: "Spot Treatment"
-description: "Discover the best spot treatment products. Expert reviews and guides."
+title: "Tratamiento Localizado"
+description: "Tratamientos específicos para granos y manchas que actúan directamente sobre las imperfecciones."
 emoji: "🎯"
 subcategory_type: "product_type"
 subcategory_value: "spot-treatment"

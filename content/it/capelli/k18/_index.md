@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 Trattamenti Professionali"
+description: "Scopri la maschera leave-in K18 che ripara i capelli danneggiati in soli 4 minuti di posa."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

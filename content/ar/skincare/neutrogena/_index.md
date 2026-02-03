@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "منتجات Neutrogena للبشرة"
+description: "مجموعة Neutrogena الموثوقة للعناية اليومية بصحة وجمال البشرة"
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

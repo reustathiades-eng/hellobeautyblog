@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier Haarpflege"
+description: "Vielfältige Garnier Haarpflegeprodukte für jeden Haartyp und jedes Bedürfnis"
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

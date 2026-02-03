@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Anti-Aging Hautpflege"
+description: "Spezialpflege für reife Haut mit straffenden und regenerierenden Wirkstoffen."
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

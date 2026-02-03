@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "إصلاح الشعر"
+description: "علاجات متقدمة لإصلاح الشعر التالف واستعادة صحته وحيويته"
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

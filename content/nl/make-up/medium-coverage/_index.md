@@ -1,6 +1,6 @@
 ---
-title: "Medium Coverage"
-description: "Discover the best medium coverage products. Expert reviews and guides."
+title: "Medium Dekking"
+description: "Foundation met medium dekking voor een natuurlijke finish. Perfectioneert je huid zonder zwaar aan te voelen."
 emoji: "⛅"
 subcategory_type: "coverage"
 subcategory_value: "medium-coverage"

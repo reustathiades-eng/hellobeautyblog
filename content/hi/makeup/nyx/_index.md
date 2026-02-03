@@ -1,6 +1,6 @@
 ---
-title: "Nyx"
-description: "Discover the best nyx products. Expert reviews and guides."
+title: "NYX मेकअप रेंज"
+description: "NYX ब्रांड के बेहतरीन मेकअप उत्पाद - ट्रेंडी रंगों में लिपस्टिक और कॉस्मेटिक्स"
 emoji: "🎭"
 subcategory_type: "brand"
 subcategory_value: "nyx"

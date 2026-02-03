@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "Feuchtigkeitspflege"
+description: "Intensive Feuchtigkeit für trockenes Haar. Repariert und nährt strapaziertes Haar nachhaltig."
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

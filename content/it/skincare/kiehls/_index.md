@@ -1,6 +1,6 @@
 ---
-title: "Kiehls"
-description: "Discover the best kiehls products. Expert reviews and guides."
+title: "Kiehl's Skincare"
+description: "Formule naturali e innovative Kiehl's per una routine di bellezza personalizzata ed efficace."
 emoji: "🏔"
 subcategory_type: "brand"
 subcategory_value: "kiehls"

@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "Briogeo Doğal Saç Bakımı"
+description: "Temiz formüllü Briogeo saç bakım ürünleri ile doğal ve sağlıklı saç bakımı rutini."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

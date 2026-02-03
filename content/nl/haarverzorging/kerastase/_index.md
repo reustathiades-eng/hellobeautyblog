@@ -1,6 +1,6 @@
 ---
-title: "Kerastase"
-description: "Discover the best kerastase products. Expert reviews and guides."
+title: "Kérastase Haarverzorging"
+description: "Luxe Kérastase haarverzorging voor professionele resultaten en gezond, glanzend haar."
 emoji: "💎"
 subcategory_type: "brand"
 subcategory_value: "kerastase"

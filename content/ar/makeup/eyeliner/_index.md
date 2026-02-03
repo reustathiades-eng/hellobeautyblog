@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "كحل العيون"
+description: "أقلام كحل مقاومة للماء وسهلة التطبيق لإطلالة عيون مميزة وجذابة"
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

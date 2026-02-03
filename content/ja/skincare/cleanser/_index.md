@@ -1,6 +1,6 @@
 ---
-title: "Cleanser"
-description: "Discover the best cleanser products. Expert reviews and guides."
+title: "洗顔料・クレンジング"
+description: "肌に優しく汚れをしっかり落とす洗顔料とクレンジングアイテム。"
 emoji: "🧴"
 subcategory_type: "product_type"
 subcategory_value: "cleanser"

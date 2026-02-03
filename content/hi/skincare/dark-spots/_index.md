@@ -1,6 +1,6 @@
 ---
-title: "Dark Spots"
-description: "Discover the best dark spots products. Expert reviews and guides."
+title: "डार्क स्पॉट्स रिमूवल क्रीम"
+description: "चेहरे के काले धब्बे और दाग-धब्बे हटाने वाले प्रभावी स्किनकेयर उत्पाद"
 emoji: "⚫"
 subcategory_type: "concern"
 subcategory_value: "dark-spots"

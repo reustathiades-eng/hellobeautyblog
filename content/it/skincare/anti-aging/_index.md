@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Anti-età"
+description: "Trattamenti anti-età per ridurre rughe e segni del tempo. Scopri la routine perfetta per la tua pelle."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "직모 케어"
+description: "직모를 위한 맞춤형 헤어케어로 매끄럽고 윤기나는 스트레이트 헤어를 완성하세요"
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

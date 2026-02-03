@@ -1,6 +1,6 @@
 ---
-title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+title: "Living Proof Saç Ürünleri"
+description: "Living Proof'un yenilikçi saç bakım teknolojisi. Bilimsel formüllerle güçlü ve sağlıklı saçlar."
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

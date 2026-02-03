@@ -1,6 +1,6 @@
 ---
-title: "Powder"
-description: "Discover the best powder products. Expert reviews and guides."
+title: "Pudry do twarzy"
+description: "Matujące i utrwalające pudry. Idealnie dopasowane odcienie dla perfekcyjnego wykończenia."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "powder"

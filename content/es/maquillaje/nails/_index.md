@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "Uñas"
+description: "Esmaltes, tratamientos y accesorios para lucir uñas perfectas y bien cuidadas."
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

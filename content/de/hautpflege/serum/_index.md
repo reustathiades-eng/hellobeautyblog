@@ -1,6 +1,6 @@
 ---
-title: "Serum"
-description: "Discover the best serum products. Expert reviews and guides."
+title: "Seren"
+description: "Hochwirksame Gesichtsseren mit konzentrierten Inhaltsstoffen für gezielte Hautpflege-Lösungen."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "serum"

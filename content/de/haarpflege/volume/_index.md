@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volumen"
+description: "Volumengebende Haarpflegeprodukte für mehr Fülle und Schwung"
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

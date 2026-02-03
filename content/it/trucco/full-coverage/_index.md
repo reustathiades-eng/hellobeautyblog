@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Coprenza Totale"
+description: "Fondotinta e correttori a coprenza totale per un incarnato perfetto e impeccabile."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

@@ -1,6 +1,6 @@
 ---
-title: "Tarte"
-description: "Discover the best tarte products. Expert reviews and guides."
+title: "Tarte塔尔特彩妆"
+description: "Tarte天然彩妆品牌，安全配方打造自然美妆效果"
 emoji: "🥧"
 subcategory_type: "brand"
 subcategory_value: "tarte"

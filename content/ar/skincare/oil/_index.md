@@ -1,6 +1,6 @@
 ---
-title: "Oil"
-description: "Discover the best oil products. Expert reviews and guides."
+title: "زيوت العناية بالبشرة"
+description: "زيوت طبيعية للترطيب العميق والعناية المكثفة بجمال ونعومة البشرة"
 emoji: "🫒"
 subcategory_type: "product_type"
 subcategory_value: "oil"

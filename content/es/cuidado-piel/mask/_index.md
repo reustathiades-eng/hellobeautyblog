@@ -1,6 +1,6 @@
 ---
-title: "Mask"
-description: "Discover the best mask products. Expert reviews and guides."
+title: "Mascarillas Faciales"
+description: "Mascarillas para el rostro que nutren, purifican y revitalizan tu piel en profundidad."
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "mask"

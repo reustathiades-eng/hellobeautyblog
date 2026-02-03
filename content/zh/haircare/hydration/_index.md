@@ -1,6 +1,6 @@
 ---
-title: "Hydration"
-description: "Discover the best hydration products. Expert reviews and guides."
+title: "深层补水"
+description: "专业补水护发产品，深层滋润干燥发丝，恢复头发水润光泽"
 emoji: "💧"
 subcategory_type: "concern"
 subcategory_value: "hydration"

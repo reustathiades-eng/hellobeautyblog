@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "ヘアスプレー"
+description: "スタイリングを長時間キープ。セット力とツヤを両立するヘアスプレー"
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

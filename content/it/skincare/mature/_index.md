@@ -1,6 +1,6 @@
 ---
-title: "Mature"
-description: "Discover the best mature products. Expert reviews and guides."
+title: "Pelle Matura"
+description: "Cosmetici anti-età per pelle matura: creme e sieri per elasticità e tono"
 emoji: "🌺"
 subcategory_type: "skin_type"
 subcategory_value: "mature"

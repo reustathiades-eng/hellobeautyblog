@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "الإسنس للعناية بالبشرة"
+description: "اكتشفي منتجات الإسنس المرطبة والمغذية لبشرة نضرة ومشرقة"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

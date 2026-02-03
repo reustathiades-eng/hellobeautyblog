@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "दोमुंहे बाल का इलाज"
+description: "टूटे और दोमुंहे बालों की मरम्मत करने वाले सीरम और ट्रीटमेंट।"
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

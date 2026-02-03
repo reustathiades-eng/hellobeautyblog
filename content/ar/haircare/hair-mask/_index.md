@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "ماسكات الشعر"
+description: "ماسكات مغذية ومرطبة لإصلاح الشعر التالف واستعادة نعومته"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

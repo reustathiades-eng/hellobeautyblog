@@ -1,6 +1,6 @@
 ---
-title: "Ceramides"
-description: "Discover the best ceramides products. Expert reviews and guides."
+title: "Seramid İçerikli Ürünler"
+description: "Cilt bariyerini güçlendiren ve nem dengesini koruyan seramid bakım ürünleri."
 emoji: "🛡"
 subcategory_type: "ingredient"
 subcategory_value: "ceramides"

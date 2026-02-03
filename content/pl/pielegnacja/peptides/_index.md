@@ -1,6 +1,6 @@
 ---
-title: "Peptides"
-description: "Discover the best peptides products. Expert reviews and guides."
+title: "Kosmetyki z peptydami"
+description: "Peptydy w pielęgnacji - regeneracja i ujędrnienie skóry. Odkryj moc aktywnych składników."
 emoji: "🧬"
 subcategory_type: "ingredient"
 subcategory_value: "peptides"

@@ -1,6 +1,6 @@
 ---
-title: "Eyeliner"
-description: "Discover the best eyeliner products. Expert reviews and guides."
+title: "Eyeliner - Ogen Make-up"
+description: "Perfecte eyeliners voor elke look. Waterproof, gel, pencil en liquid eyeliners voor precieze lijnen."
 emoji: "✏"
 subcategory_type: "product_type"
 subcategory_value: "eyeliner"

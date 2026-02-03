@@ -1,6 +1,6 @@
 ---
-title: "Nail Polish"
-description: "Discover the best nail polish products. Expert reviews and guides."
+title: "네일 폴리시"
+description: "트렌디한 컬러부터 클래식까지, 완벽한 네일 연출 네일 폴리시"
 emoji: "💅"
 subcategory_type: "product_type"
 subcategory_value: "nail-polish"

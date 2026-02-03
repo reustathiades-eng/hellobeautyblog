@@ -1,6 +1,6 @@
 ---
-title: "Cerave"
-description: "Discover the best cerave products. Expert reviews and guides."
+title: "CeraVe Huidverzorging"
+description: "Ontdek CeraVe producten met ceramiden voor een gezonde huidbarrière en optimale hydratatie."
 emoji: "🏥"
 subcategory_type: "brand"
 subcategory_value: "cerave"

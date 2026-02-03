@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "Gels Coiffants"
+description: "Sculptez et fixez vos coiffures avec nos gels coiffants longue tenue et effet professionnel."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

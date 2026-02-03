@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Yaşlanma Karşıtı Bakım"
+description: "Yaşlanma belirtilerini azaltmaya yardımcı olan etkili anti-aging ürünleri."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

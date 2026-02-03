@@ -1,6 +1,6 @@
 ---
 title: "Bobbi Brown"
-description: "Discover the best bobbi brown products. Expert reviews and guides."
+description: "Bobbi Brown'un lüks makyaj koleksiyonu ile profesyonel güzellik."
 emoji: "🤎"
 subcategory_type: "brand"
 subcategory_value: "bobbi-brown"

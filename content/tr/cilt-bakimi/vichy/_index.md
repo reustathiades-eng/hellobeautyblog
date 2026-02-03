@@ -1,6 +1,6 @@
 ---
-title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+title: "Vichy Cilt Bakım Ürünleri"
+description: "Vichy'nin termal su içerikli etkili cilt bakım ürünleriyle cildinizi yenileyin."
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

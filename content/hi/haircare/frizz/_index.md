@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "बेकाबू बालों का इलाज"
+description: "रूखे और बेकाबू बालों को काबू में करने वाले बेहतरीन प्रोडक्ट्स खोजें।"
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

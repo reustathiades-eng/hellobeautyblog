@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Esencje do Twarzy"
+description: "Lekkie esencje nawilżające inspirowane koreańską pielęgnacją. Pierwszy krok po oczyszczaniu."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

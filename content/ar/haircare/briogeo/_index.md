@@ -1,6 +1,6 @@
 ---
-title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+title: "Briogeo للعناية بالشعر"
+description: "منتجات Briogeo الطبيعية والنظيفة للعناية بالشعر وفروة الرأس"
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

@@ -1,6 +1,6 @@
 ---
-title: "Eye Cream"
-description: "Discover the best eye cream products. Expert reviews and guides."
+title: "Kremy pod Oczy"
+description: "Specjalistyczne kremy pod oczy przeciw zmarszczkom, cieniom i obrzękom. Delikatna pielęgnacja okolic oczu."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "eye-cream"

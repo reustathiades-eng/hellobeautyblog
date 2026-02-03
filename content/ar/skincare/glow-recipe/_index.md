@@ -1,6 +1,6 @@
 ---
-title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+title: "منتجات Glow Recipe للإشراق"
+description: "مجموعة Glow Recipe الكورية لإشراق البشرة ونعومتها الطبيعية"
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

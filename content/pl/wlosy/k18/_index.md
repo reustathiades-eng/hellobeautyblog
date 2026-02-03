@@ -1,6 +1,6 @@
 ---
 title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+description: "Innowacyjna regeneracja włosów K18. Molekularna naprawa uszkodzeń w zaledwie 4 minuty."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

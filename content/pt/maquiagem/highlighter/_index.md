@@ -1,6 +1,6 @@
 ---
-title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+title: "Iluminador"
+description: "Iluminadores para realçar pontos altos do rosto com brilho natural e efeito luminoso."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

@@ -1,6 +1,6 @@
 ---
 title: "Living Proof"
-description: "Discover the best living proof products. Expert reviews and guides."
+description: "Innowacyjne produkty Living Proof do pielęgnacji włosów. Zaawansowana technologia i efekty."
 emoji: "🔬"
 subcategory_type: "brand"
 subcategory_value: "living-proof"

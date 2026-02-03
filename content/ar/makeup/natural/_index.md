@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "المكياج الطبيعي"
+description: "مكياج بمظهر طبيعي لإطلالة عفوية وجمال أصيل يبرز ملامحك"
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

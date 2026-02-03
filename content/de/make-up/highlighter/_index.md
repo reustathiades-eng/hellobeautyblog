@@ -1,6 +1,6 @@
 ---
 title: "Highlighter"
-description: "Discover the best highlighter products. Expert reviews and guides."
+description: "Strahlende Highlighter für den perfekten Glow. Betonen Sie Ihre besten Gesichtspartien."
 emoji: "💎"
 subcategory_type: "product_type"
 subcategory_value: "highlighter"

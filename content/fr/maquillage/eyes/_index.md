@@ -1,6 +1,6 @@
 ---
-title: "Eyes"
-description: "Discover the best eyes products. Expert reviews and guides."
+title: "Maquillage des Yeux"
+description: "Palettes, mascaras, eye-liners : tout pour sublimer votre regard avec des produits makeup yeux professionnels."
 emoji: "👁"
 subcategory_type: "zone"
 subcategory_value: "eyes"

@@ -1,6 +1,6 @@
 ---
-title: "Full Coverage"
-description: "Discover the best full coverage products. Expert reviews and guides."
+title: "Couvrance Totale"
+description: "Perfectionnez votre teint avec nos produits haute couvrance pour masquer toutes les imperfections."
 emoji: "☁"
 subcategory_type: "coverage"
 subcategory_value: "full-coverage"

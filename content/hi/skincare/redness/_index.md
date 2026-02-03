@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "रेडनेस और जलन कम करने वाले प्रोडक्ट्स"
+description: "त्वचा की लालिमा और जलन को कम करने वाले प्रोडक्ट्स। संवेदनशील त्वचा के लिए आदर्श।"
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

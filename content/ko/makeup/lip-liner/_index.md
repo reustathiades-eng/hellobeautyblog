@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "립 라이너"
+description: "정확한 립 라인과 오래가는 발색으로 완벽한 입술 메이크업을 위한 립 라이너 제품들."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

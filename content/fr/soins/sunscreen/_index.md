@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Crèmes Solaires"
+description: "Protégez votre peau des UV avec nos crèmes solaires haute protection pour visage et corps."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

@@ -1,6 +1,6 @@
 ---
-title: "Coily Hair"
-description: "Discover the best coily hair products. Expert reviews and guides."
+title: "Cheveux Bouclés et Frisés"
+description: "Soins spécialisés pour sublimer et définir vos boucles naturelles avec douceur."
 emoji: "🔄"
 subcategory_type: "hair_type"
 subcategory_value: "coily-hair"

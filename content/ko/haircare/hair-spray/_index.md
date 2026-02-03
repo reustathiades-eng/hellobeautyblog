@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "헤어 스프레이"
+description: "스타일링 고정과 볼륨 연출을 위한 다양한 강도의 헤어 스프레이를 만나보세요."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

@@ -1,6 +1,6 @@
 ---
-title: "Frizz"
-description: "Discover the best frizz products. Expert reviews and guides."
+title: "Control de Frizz"
+description: "Productos especializados para controlar el encrespamiento y lograr un cabello suave y manejable."
 emoji: "⚡"
 subcategory_type: "concern"
 subcategory_value: "frizz"

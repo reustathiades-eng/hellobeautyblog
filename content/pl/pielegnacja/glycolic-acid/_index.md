@@ -1,6 +1,6 @@
 ---
-title: "Glycolic Acid"
-description: "Discover the best glycolic acid products. Expert reviews and guides."
+title: "Kwas Glikolowy"
+description: "Kosmetyki z kwasem glikolowym do eksfoliacji, rozjaśniania i wygładzania skóry twarzy."
 emoji: "🍇"
 subcategory_type: "ingredient"
 subcategory_value: "glycolic-acid"

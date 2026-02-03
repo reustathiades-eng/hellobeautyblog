@@ -1,6 +1,6 @@
 ---
-title: "False Lashes"
-description: "Discover the best false lashes products. Expert reviews and guides."
+title: "つけまつげ"
+description: "印象的な目元を演出するつけまつげ。ナチュラルからドラマティックまで豊富なスタイル"
 emoji: "🦋"
 subcategory_type: "product_type"
 subcategory_value: "false-lashes"

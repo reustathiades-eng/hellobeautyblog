@@ -1,6 +1,6 @@
 ---
 title: "Briogeo"
-description: "Discover the best briogeo products. Expert reviews and guides."
+description: "Gamme Briogeo de soins naturels pour cheveux, sans sulfates ni parabènes pour tous types de cheveux."
 emoji: "🥑"
 subcategory_type: "brand"
 subcategory_value: "briogeo"

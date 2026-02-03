@@ -1,6 +1,6 @@
 ---
-title: "Maybelline"
-description: "Discover the best maybelline products. Expert reviews and guides."
+title: "مايبلين - مستحضرات التجميل"
+description: "اكتشفي مجموعة مايبلين الواسعة من مستحضرات التجميل عالية الجودة بأسعار مناسبة"
 emoji: "🌟"
 subcategory_type: "brand"
 subcategory_value: "maybelline"

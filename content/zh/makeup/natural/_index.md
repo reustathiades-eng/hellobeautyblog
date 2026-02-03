@@ -1,6 +1,6 @@
 ---
-title: "Natural"
-description: "Discover the best natural products. Expert reviews and guides."
+title: "自然妆容"
+description: "打造清新自然妆效的美妆产品，突出天然美感，展现健康肌肤光泽。"
 emoji: "🌿"
 subcategory_type: "finish"
 subcategory_value: "natural"

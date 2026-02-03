@@ -1,6 +1,6 @@
 ---
-title: "Garnier"
-description: "Discover the best garnier products. Expert reviews and guides."
+title: "Garnier Cabelos"
+description: "Linha completa Garnier para todos os tipos de cabelo. Nutrição e proteção garantidas."
 emoji: "🌻"
 subcategory_type: "brand"
 subcategory_value: "garnier"

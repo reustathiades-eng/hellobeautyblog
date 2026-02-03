@@ -1,6 +1,6 @@
 ---
-title: "Bumble And Bumble"
-description: "Discover the best bumble and bumble products. Expert reviews and guides."
+title: "BUMBLE AND BUMBLE"
+description: "뉴욕 살롱의 전문성을 담은 BUMBLE AND BUMBLE 프리미엄 헤어케어"
 emoji: "🐝"
 subcategory_type: "brand"
 subcategory_value: "bumble-and-bumble"

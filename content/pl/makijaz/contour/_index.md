@@ -1,6 +1,6 @@
 ---
-title: "Contour"
-description: "Discover the best contour products. Expert reviews and guides."
+title: "Kosmetyki do konturowania"
+description: "Profesjonalne produkty do konturowania twarzy - wymodeluj i podkreśl swoje rysy."
 emoji: "📐"
 subcategory_type: "product_type"
 subcategory_value: "contour"

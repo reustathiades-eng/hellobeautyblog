@@ -1,6 +1,6 @@
 ---
-title: "Dark Circles"
-description: "Discover the best dark circles products. Expert reviews and guides."
+title: "目の下のクマ・くすみケア"
+description: "目元のクマやくすみを改善する専用アイケア製品で明るい目元に。"
 emoji: "👀"
 subcategory_type: "concern"
 subcategory_value: "dark-circles"

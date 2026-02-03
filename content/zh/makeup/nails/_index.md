@@ -1,6 +1,6 @@
 ---
-title: "Nails"
-description: "Discover the best nails products. Expert reviews and guides."
+title: "美甲彩妆"
+description: "美甲彩妆产品，指甲油底油封层，打造持久亮丽指尖造型"
 emoji: "💅"
 subcategory_type: "zone"
 subcategory_value: "nails"

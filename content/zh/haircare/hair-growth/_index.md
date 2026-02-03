@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "生发护理"
+description: "专业生发产品系列，刺激毛囊活力，促进头发健康生长"
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

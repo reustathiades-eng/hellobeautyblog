@@ -1,6 +1,6 @@
 ---
-title: "Volume"
-description: "Discover the best volume products. Expert reviews and guides."
+title: "Volume Capelli"
+description: "Prodotti volumizzanti per capelli fini: mousse, spray e shampoo per corpo e pienezza extra."
 emoji: "📈"
 subcategory_type: "concern"
 subcategory_value: "volume"

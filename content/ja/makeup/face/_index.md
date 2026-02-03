@@ -1,6 +1,6 @@
 ---
-title: "Face"
-description: "Discover the best face products. Expert reviews and guides."
+title: "ベースメイク"
+description: "美しい肌を作るベースメイク。ファンデーション、コンシーラー、パウダーで完璧な仕上がりに。"
 emoji: "😊"
 subcategory_type: "zone"
 subcategory_value: "face"

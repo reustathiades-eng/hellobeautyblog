@@ -1,6 +1,6 @@
 ---
-title: "Split Ends"
-description: "Discover the best split ends products. Expert reviews and guides."
+title: "Gespleten Punten"
+description: "Verzorg en voorkom gespleten haarpunten. Effectieve treatments voor gezond haar tot in de punten."
 emoji: "✂"
 subcategory_type: "concern"
 subcategory_value: "split-ends"

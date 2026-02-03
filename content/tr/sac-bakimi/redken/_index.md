@@ -1,6 +1,6 @@
 ---
-title: "Redken"
-description: "Discover the best redken products. Expert reviews and guides."
+title: "Redken Saç Bakım Ürünleri"
+description: "Profesyonel Redken saç bakım ürünleri ile saçlarınızı güçlendirin ve parlaklık kazandırın."
 emoji: "🔴"
 subcategory_type: "brand"
 subcategory_value: "redken"

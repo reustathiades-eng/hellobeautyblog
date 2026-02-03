@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Essence Toner"
+description: "Cildinizi canlandıran ve nemlendiren essence toner'lar ile bakım rutininizi güçlendirin."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"

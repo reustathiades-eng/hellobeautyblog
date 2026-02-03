@@ -1,6 +1,6 @@
 ---
-title: "Redness"
-description: "Discover the best redness products. Expert reviews and guides."
+title: "Rötungen"
+description: "Beruhigende Pflege gegen Hautrötungen für einen ebenmäßigen Teint."
 emoji: "🌡"
 subcategory_type: "concern"
 subcategory_value: "redness"

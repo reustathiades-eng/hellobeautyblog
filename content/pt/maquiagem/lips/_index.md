@@ -1,6 +1,6 @@
 ---
-title: "Lips"
-description: "Discover the best lips products. Expert reviews and guides."
+title: "Maquiagem para Lábios"
+description: "Batons, glosses e produtos labiais nas cores e texturas mais desejadas para todos os momentos."
 emoji: "👄"
 subcategory_type: "zone"
 subcategory_value: "lips"

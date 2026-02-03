@@ -1,6 +1,6 @@
 ---
-title: "K18"
-description: "Discover the best k18 products. Expert reviews and guides."
+title: "K18 Saç Bakımı"
+description: "K18 ile moleküler düzeyde saç onarımı. Hasarlı saçlar için devrimsel bakım çözümü."
 emoji: "🧬"
 subcategory_type: "brand"
 subcategory_value: "k18"

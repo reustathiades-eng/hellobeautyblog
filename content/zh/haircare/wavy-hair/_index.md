@@ -1,6 +1,6 @@
 ---
-title: "Wavy Hair"
-description: "Discover the best wavy hair products. Expert reviews and guides."
+title: "卷发护理"
+description: "专为卷发设计的护理产品，让您的卷发更加柔顺有型，展现自然美丽的波浪纹理。"
 emoji: "〰"
 subcategory_type: "hair_type"
 subcategory_value: "wavy-hair"

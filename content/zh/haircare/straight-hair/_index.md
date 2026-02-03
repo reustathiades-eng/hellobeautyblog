@@ -1,6 +1,6 @@
 ---
-title: "Straight Hair"
-description: "Discover the best straight hair products. Expert reviews and guides."
+title: "直发护理"
+description: "专业直发护理产品，顺滑柔顺，打造完美垂顺直发造型"
 emoji: "📏"
 subcategory_type: "hair_type"
 subcategory_value: "straight-hair"

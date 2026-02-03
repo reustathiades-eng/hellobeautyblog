@@ -1,6 +1,6 @@
 ---
-title: "Shine"
-description: "Discover the best shine products. Expert reviews and guides."
+title: "亮泽护发"
+description: "提升发丝光泽度的护发产品，令秀发闪耀动人光彩，展现健康亮丽发质。"
 emoji: "✨"
 subcategory_type: "concern"
 subcategory_value: "shine"

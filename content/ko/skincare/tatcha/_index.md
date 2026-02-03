@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha 스킨케어"
+description: "일본 전통 성분으로 만든 프리미엄 Tatcha 스킨케어 컬렉션을 확인하세요."
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

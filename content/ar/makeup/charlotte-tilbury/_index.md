@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Tilbury"
-description: "Discover the best charlotte tilbury products. Expert reviews and guides."
+title: "مكياج Charlotte Tilbury"
+description: "منتجات Charlotte Tilbury الفاخرة لإطلالة ساحرة وأنيقة"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "charlotte-tilbury"

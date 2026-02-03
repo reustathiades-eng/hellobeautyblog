@@ -1,6 +1,6 @@
 ---
-title: "Bronzer"
-description: "Discover the best bronzer products. Expert reviews and guides."
+title: "ब्रॉन्जर"
+description: "प्राकृतिक टैन्ड लुक के लिए बेहतरीन ब्रॉन्जिंग प्रोडक्ट्स।"
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "bronzer"

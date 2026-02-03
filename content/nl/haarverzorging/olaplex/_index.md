@@ -1,6 +1,6 @@
 ---
 title: "Olaplex"
-description: "Discover the best olaplex products. Expert reviews and guides."
+description: "Professionele Olaplex behandeling voor herstel en bescherming van beschadigd haar."
 emoji: "🔗"
 subcategory_type: "brand"
 subcategory_value: "olaplex"

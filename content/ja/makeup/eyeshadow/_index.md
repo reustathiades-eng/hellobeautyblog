@@ -1,6 +1,6 @@
 ---
-title: "Eyeshadow"
-description: "Discover the best eyeshadow products. Expert reviews and guides."
+title: "アイシャドウ"
+description: "印象的な目元を作るアイシャドウパレット。マットからシマーまで多彩な質感とカラー展開"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "eyeshadow"

@@ -1,6 +1,6 @@
 ---
-title: "Dry Shampoo"
-description: "Discover the best dry shampoo products. Expert reviews and guides."
+title: "免洗洗发喷雾"
+description: "便携免洗洗发喷雾，快速清爽控油，随时保持秀发蓬松"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "dry-shampoo"

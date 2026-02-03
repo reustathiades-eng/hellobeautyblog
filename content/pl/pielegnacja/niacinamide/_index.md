@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "Niacynamid"
+description: "Serum z niacynamidem na pory i niedoskonałości. Reguluje sebum i poprawia teksturę."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

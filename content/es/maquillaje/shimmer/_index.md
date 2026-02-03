@@ -1,6 +1,6 @@
 ---
-title: "Shimmer"
-description: "Discover the best shimmer products. Expert reviews and guides."
+title: "Maquillaje con Brillo"
+description: "Productos con efecto shimmer e iluminadores. Añade luminosidad y resplandor a tu look."
 emoji: "✨"
 subcategory_type: "finish"
 subcategory_value: "shimmer"

@@ -1,6 +1,6 @@
 ---
-title: "Firmness"
-description: "Discover the best firmness products. Expert reviews and guides."
+title: "त्वचा की कसावट"
+description: "त्वचा को मजबूत और कसा हुआ बनाने वाले बेहतरीन उत्पाद खोजें।"
 emoji: "💪"
 subcategory_type: "concern"
 subcategory_value: "firmness"

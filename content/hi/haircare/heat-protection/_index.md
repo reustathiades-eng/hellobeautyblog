@@ -1,6 +1,6 @@
 ---
-title: "Heat Protection"
-description: "Discover the best heat protection products. Expert reviews and guides."
+title: "हीट प्रोटेक्शन हेयर प्रोडक्ट्स"
+description: "स्टाइलिंग टूल्स से बालों को बचाने वाले बेहतरीन हीट प्रोटेक्शन प्रोडक्ट्स खोजें।"
 emoji: "🔥"
 subcategory_type: "product_type"
 subcategory_value: "heat-protection"

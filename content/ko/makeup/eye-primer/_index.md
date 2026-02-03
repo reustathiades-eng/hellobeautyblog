@@ -1,6 +1,6 @@
 ---
-title: "Eye Primer"
-description: "Discover the best eye primer products. Expert reviews and guides."
+title: "아이 프라이머"
+description: "오래 지속되는 아이메이크업을 위한 전용 프라이머로 완벽한 베이스를 연출하세요"
 emoji: "👀"
 subcategory_type: "product_type"
 subcategory_value: "eye-primer"

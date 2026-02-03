@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "欧莱雅专业美发"
+description: "欧莱雅专业沙龙级美发产品，专业护发解决方案"
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

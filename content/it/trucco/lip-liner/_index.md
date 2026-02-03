@@ -1,6 +1,6 @@
 ---
-title: "Lip Liner"
-description: "Discover the best lip liner products. Expert reviews and guides."
+title: "Matite Labbra"
+description: "Matite contorno labbra precise e long-lasting per definire e intensificare il colore del rossetto."
 emoji: "🖍"
 subcategory_type: "product_type"
 subcategory_value: "lip-liner"

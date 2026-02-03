@@ -1,6 +1,6 @@
 ---
-title: "Loreal Professionnel"
-description: "Discover the best loreal professionnel products. Expert reviews and guides."
+title: "L'Oréal Professionnel للشعر"
+description: "مستحضرات L'Oréal Professionnel المتخصصة لجمال وصحة الشعر"
 emoji: "💇"
 subcategory_type: "brand"
 subcategory_value: "loreal-professionnel"

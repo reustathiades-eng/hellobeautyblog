@@ -1,6 +1,6 @@
 ---
-title: "Estee Lauder"
-description: "Discover the best estee lauder products. Expert reviews and guides."
+title: "Estée Lauder 스킨케어"
+description: "에스티 로더 럭셔리 스킨케어 제품 라인업"
 emoji: "👑"
 subcategory_type: "brand"
 subcategory_value: "estee-lauder"

@@ -1,6 +1,6 @@
 ---
-title: "Repair"
-description: "Discover the best repair products. Expert reviews and guides."
+title: "Saç Onarım Bakımı"
+description: "Hasarlı ve yıpranmış saçları onaran yoğun bakım ve tedavi ürünleri."
 emoji: "🔧"
 subcategory_type: "concern"
 subcategory_value: "repair"

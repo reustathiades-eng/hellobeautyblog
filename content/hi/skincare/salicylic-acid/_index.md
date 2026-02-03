@@ -1,6 +1,6 @@
 ---
-title: "Salicylic Acid"
-description: "Discover the best salicylic acid products. Expert reviews and guides."
+title: "सैलिसिलिक एसिड ट्रीटमेंट"
+description: "सैलिसिलिक एसिड युक्त प्रोडक्ट्स। एक्ने और पिम्पल्स की समस्या से छुटकारा पाएं।"
 emoji: "🧪"
 subcategory_type: "ingredient"
 subcategory_value: "salicylic-acid"

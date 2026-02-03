@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "스타일링 젤"
+description: "원하는 헤어스타일을 오래 유지해주는 스타일링 젤로 완벽한 연출을 완성하세요."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

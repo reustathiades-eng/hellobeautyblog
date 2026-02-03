@@ -1,6 +1,6 @@
 ---
-title: "Fine Hair"
-description: "Discover the best fine hair products. Expert reviews and guides."
+title: "منتجات الشعر الناعم"
+description: "عناية خاصة للشعر الناعم والخفيف لإضافة الكثافة والحجم"
 emoji: "🪶"
 subcategory_type: "hair_type"
 subcategory_value: "fine-hair"

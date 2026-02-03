@@ -1,6 +1,6 @@
 ---
 title: "Foundation"
-description: "Discover the best foundation products. Expert reviews and guides."
+description: "Vind de perfecte foundation voor jouw huidtype en gewenste dekking."
 emoji: "🎨"
 subcategory_type: "product_type"
 subcategory_value: "foundation"

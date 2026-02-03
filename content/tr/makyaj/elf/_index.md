@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "ELF Makyaj Ürünleri"
+description: "Uygun fiyatlı ELF makyaj ürünleri ile kaliteli ve trendy makyaj görünümleri yaratın."
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

@@ -1,6 +1,6 @@
 ---
-title: "Exfoliator"
-description: "Discover the best exfoliator products. Expert reviews and guides."
+title: "각질제거제"
+description: "죽은 각질을 부드럽게 제거하여 맑고 부드러운 피부로 가꿔주는 각질제거 제품들."
 emoji: "🌟"
 subcategory_type: "product_type"
 subcategory_value: "exfoliator"

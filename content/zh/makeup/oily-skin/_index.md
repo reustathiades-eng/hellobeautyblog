@@ -1,6 +1,6 @@
 ---
-title: "Oily Skin"
-description: "Discover the best oily skin products. Expert reviews and guides."
+title: "油性肌肤彩妆"
+description: "专为油性肌肤设计的彩妆产品，持久控油不脱妆"
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily-skin"

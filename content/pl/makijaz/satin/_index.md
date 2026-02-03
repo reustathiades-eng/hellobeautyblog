@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "Kosmetyki Satynowe"
+description: "Produkty o satynowym wykończeniu. Delikatny połysk dla naturalnego, zdrowego wyglądu."
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

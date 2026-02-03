@@ -1,6 +1,6 @@
 ---
-title: "Hair Growth"
-description: "Discover the best hair growth products. Expert reviews and guides."
+title: "Croissance Capillaire"
+description: "Traitements stimulants pour favoriser la pousse et la densité de vos cheveux."
 emoji: "🌱"
 subcategory_type: "concern"
 subcategory_value: "hair-growth"

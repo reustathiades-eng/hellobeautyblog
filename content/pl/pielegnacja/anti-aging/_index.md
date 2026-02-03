@@ -1,6 +1,6 @@
 ---
-title: "Anti Aging"
-description: "Discover the best anti aging products. Expert reviews and guides."
+title: "Kosmetyki Anti-Aging"
+description: "Skuteczne kosmetyki przeciwstarzeniowe redukujące zmarszczki i poprawiające elastyczność skóry."
 emoji: "⏳"
 subcategory_type: "concern"
 subcategory_value: "anti-aging"

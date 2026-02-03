@@ -1,6 +1,6 @@
 ---
 title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+description: "Soins à la niacinamide pour réguler le sébum et affiner le grain de peau."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

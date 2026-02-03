@@ -1,6 +1,6 @@
 ---
-title: "Elf"
-description: "Discover the best elf products. Expert reviews and guides."
+title: "e.l.f."
+description: "مستحضرات e.l.f. عالية الجودة بأسعار مناسبة لجمال يومي مميز"
 emoji: "🧝"
 subcategory_type: "brand"
 subcategory_value: "elf"

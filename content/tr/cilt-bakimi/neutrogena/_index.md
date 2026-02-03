@@ -1,6 +1,6 @@
 ---
-title: "Neutrogena"
-description: "Discover the best neutrogena products. Expert reviews and guides."
+title: "Neutrogena Cilt Bakım"
+description: "Neutrogena'nın dermatolog onaylı cilt bakım ürünleri ile sağlıklı cilde kavuşun."
 emoji: "🌊"
 subcategory_type: "brand"
 subcategory_value: "neutrogena"

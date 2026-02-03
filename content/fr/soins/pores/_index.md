@@ -1,6 +1,6 @@
 ---
-title: "Pores"
-description: "Discover the best pores products. Expert reviews and guides."
+title: "Pores Dilatés"
+description: "Traitements spécialisés pour resserrer les pores et affiner le grain de peau visiblement."
 emoji: "🔍"
 subcategory_type: "concern"
 subcategory_value: "pores"

@@ -1,6 +1,6 @@
 ---
 title: "Too Faced"
-description: "Discover the best too faced products. Expert reviews and guides."
+description: "Scopri i prodotti makeup Too Faced: palette ombretti, fondotinta e rossetti iconici."
 emoji: "🍑"
 subcategory_type: "brand"
 subcategory_value: "too-faced"

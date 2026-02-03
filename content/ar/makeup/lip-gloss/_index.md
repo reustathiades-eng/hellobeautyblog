@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "ملمع الشفاه"
+description: "ملمعات شفاه بألوان وتركيبات متنوعة لإطلالة شفاه لامعة وجذابة"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

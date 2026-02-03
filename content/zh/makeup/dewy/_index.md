@@ -1,6 +1,6 @@
 ---
-title: "Dewy"
-description: "Discover the best dewy products. Expert reviews and guides."
+title: "水润妆感"
+description: "打造自然水润妆容，呈现健康光泽肌理，清透不厚重的完美妆效"
 emoji: "💧"
 subcategory_type: "finish"
 subcategory_value: "dewy"

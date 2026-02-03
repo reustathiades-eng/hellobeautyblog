@@ -1,6 +1,6 @@
 ---
-title: "Tatcha"
-description: "Discover the best tatcha products. Expert reviews and guides."
+title: "Tatcha Skincare"
+description: "Prodotti di bellezza Tatcha ispirati ai rituali giapponesi per una pelle luminosa e levigata."
 emoji: "🎎"
 subcategory_type: "brand"
 subcategory_value: "tatcha"

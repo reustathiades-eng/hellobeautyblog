@@ -1,6 +1,6 @@
 ---
-title: "Glow Recipe"
-description: "Discover the best glow recipe products. Expert reviews and guides."
+title: "Glow Recipe Cilt Bakımı"
+description: "Glow Recipe markasının doğal ve etkili cilt bakım ürünleri."
 emoji: "🍉"
 subcategory_type: "brand"
 subcategory_value: "glow-recipe"

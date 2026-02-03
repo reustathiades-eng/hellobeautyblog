@@ -1,6 +1,6 @@
 ---
-title: "Leave In"
-description: "Discover the best leave in products. Expert reviews and guides."
+title: "Trattamenti Senza Risciacquo"
+description: "Prodotti leave-in per nutrire e proteggere i capelli tutto il giorno senza appesantire."
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "leave-in"

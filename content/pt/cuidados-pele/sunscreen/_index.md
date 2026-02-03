@@ -1,6 +1,6 @@
 ---
-title: "Sunscreen"
-description: "Discover the best sunscreen products. Expert reviews and guides."
+title: "Protetor Solar"
+description: "Proteção solar eficaz contra raios UV para prevenir o envelhecimento e manchas."
 emoji: "☀"
 subcategory_type: "product_type"
 subcategory_value: "sunscreen"

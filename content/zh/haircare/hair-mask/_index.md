@@ -1,6 +1,6 @@
 ---
-title: "Hair Mask"
-description: "Discover the best hair mask products. Expert reviews and guides."
+title: "发膜护理"
+description: "深层滋养发膜产品，修复受损发丝，恢复秀发光泽与柔顺"
 emoji: "🎭"
 subcategory_type: "product_type"
 subcategory_value: "hair-mask"

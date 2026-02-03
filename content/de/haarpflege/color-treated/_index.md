@@ -1,6 +1,6 @@
 ---
-title: "Color Treated"
-description: "Discover the best color treated products. Expert reviews and guides."
+title: "Coloriertes Haar"
+description: "Spezielle Haarpflege für gefärbtes Haar - schützt die Farbe und spendet intensive Pflege."
 emoji: "🎨"
 subcategory_type: "hair_type"
 subcategory_value: "color-treated"

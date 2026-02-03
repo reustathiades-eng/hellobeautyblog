@@ -1,6 +1,6 @@
 ---
-title: "Niacinamide"
-description: "Discover the best niacinamide products. Expert reviews and guides."
+title: "Niacinamide Producten"
+description: "Niacinamide serums en crèmes voor poriënverbetering en een egale huidtextuur."
 emoji: "⚗"
 subcategory_type: "ingredient"
 subcategory_value: "niacinamide"

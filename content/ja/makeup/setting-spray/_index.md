@@ -1,6 +1,6 @@
 ---
-title: "Setting Spray"
-description: "Discover the best setting spray products. Expert reviews and guides."
+title: "セッティングスプレー"
+description: "メイクを長時間キープするセッティングスプレー。崩れにくい美しい仕上がりを持続"
 emoji: "💨"
 subcategory_type: "product_type"
 subcategory_value: "setting-spray"

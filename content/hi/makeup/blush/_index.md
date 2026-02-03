@@ -1,6 +1,6 @@
 ---
-title: "Blush"
-description: "Discover the best blush products. Expert reviews and guides."
+title: "ब्लश - गालों का मेकअप"
+description: "खूबसूरत गुलाबी गाल पाने के लिए बेस्ट ब्लश कलेक्शन। नेचुरल ग्लो के लिए परफेक्ट शेड्स।"
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "blush"

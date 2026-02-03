@@ -1,6 +1,6 @@
 ---
-title: "Lip Gloss"
-description: "Discover the best lip gloss products. Expert reviews and guides."
+title: "लिप ग्लॉस"
+description: "चमकदार होठों के लिए बेहतरीन लिप ग्लॉस कलेक्शन। लॉन्ग लास्टिंग शाइन और कलर।"
 emoji: "✨"
 subcategory_type: "product_type"
 subcategory_value: "lip-gloss"

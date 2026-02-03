@@ -1,6 +1,6 @@
 ---
-title: "Satin"
-description: "Discover the best satin products. Expert reviews and guides."
+title: "サテンフィニッシュ メイク"
+description: "上品なサテンの質感。マットとツヤの中間で、洗練された仕上がりを叶えるコスメ。"
 emoji: "🎀"
 subcategory_type: "finish"
 subcategory_value: "satin"

@@ -1,6 +1,6 @@
 ---
-title: "Thinning"
-description: "Discover the best thinning products. Expert reviews and guides."
+title: "모발 볼륨 케어"
+description: "얇아진 모발을 위한 전문 케어로 풍성하고 건강한 머리카락을"
 emoji: "📉"
 subcategory_type: "concern"
 subcategory_value: "thinning"

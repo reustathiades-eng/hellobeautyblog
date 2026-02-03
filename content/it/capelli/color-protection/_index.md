@@ -1,6 +1,6 @@
 ---
-title: "Color Protection"
-description: "Discover the best color protection products. Expert reviews and guides."
+title: "Protezione Colore"
+description: "Trattamenti specifici per preservare l'intensità e la brillantezza dei capelli colorati più a lungo."
 emoji: "🛡"
 subcategory_type: "concern"
 subcategory_value: "color-protection"

@@ -1,6 +1,6 @@
 ---
-title: "Mascara"
-description: "Discover the best mascara products. Expert reviews and guides."
+title: "Maskara"
+description: "Kirpiklerinizi uzatıp hacim kazandıran, suya dayanıklı maskara çeşitleriyle etkileyici bakışlar."
 emoji: "👁"
 subcategory_type: "product_type"
 subcategory_value: "mascara"

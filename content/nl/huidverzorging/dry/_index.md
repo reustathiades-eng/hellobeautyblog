@@ -1,6 +1,6 @@
 ---
-title: "Dry"
-description: "Discover the best dry products. Expert reviews and guides."
+title: "Droge Huid"
+description: "Ontdek de beste verzorgingsproducten voor een droge huid. Intensieve hydratatie en voeding voor uw huid."
 emoji: "🏜"
 subcategory_type: "skin_type"
 subcategory_value: "dry"

@@ -1,6 +1,6 @@
 ---
 title: "Vichy"
-description: "Discover the best vichy products. Expert reviews and guides."
+description: "Odkryj produkty Vichy z wodą termalną dla zdrowej i promieniącej skóry."
 emoji: "💦"
 subcategory_type: "brand"
 subcategory_value: "vichy"

@@ -1,6 +1,6 @@
 ---
-title: "Styling Gel"
-description: "Discover the best styling gel products. Expert reviews and guides."
+title: "Gel Modelador"
+description: "Géis modeladores para fixação e definição. Crie penteados duradouros com acabamento profissional."
 emoji: "💫"
 subcategory_type: "product_type"
 subcategory_value: "styling-gel"

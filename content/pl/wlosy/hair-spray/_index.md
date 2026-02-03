@@ -1,6 +1,6 @@
 ---
-title: "Hair Spray"
-description: "Discover the best hair spray products. Expert reviews and guides."
+title: "Lakiery do włosów"
+description: "Lakiery i spraye utrwalające fryzurę. Długotrwałe utrwalenie i naturalny połysk włosów."
 emoji: "🌬"
 subcategory_type: "product_type"
 subcategory_value: "hair-spray"

@@ -1,6 +1,6 @@
 ---
-title: "Retinol"
-description: "Discover the best retinol products. Expert reviews and guides."
+title: "Retinol Serumlar ve Kremler"
+description: "Cilt yenilenmesini destekleyen güçlü retinol içerikli bakım ürünleri."
 emoji: "🔬"
 subcategory_type: "ingredient"
 subcategory_value: "retinol"

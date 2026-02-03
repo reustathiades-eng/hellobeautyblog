@@ -1,6 +1,6 @@
 ---
-title: "Oily"
-description: "Discover the best oily products. Expert reviews and guides."
+title: "Pele Oleosa"
+description: "Produtos para pele oleosa que controlam a oleosidade e reduzem o brilho. Cuidados específicos."
 emoji: "💦"
 subcategory_type: "skin_type"
 subcategory_value: "oily"

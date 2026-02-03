@@ -1,6 +1,6 @@
 ---
-title: "Brows"
-description: "Discover the best brows products. Expert reviews and guides."
+title: "Sopracciglia"
+description: "Prodotti per sopracciglia perfette: matite, gel e polveri per definire e riempire le tue brows."
 emoji: "🖊"
 subcategory_type: "zone"
 subcategory_value: "brows"

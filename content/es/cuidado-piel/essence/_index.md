@@ -1,6 +1,6 @@
 ---
-title: "Essence"
-description: "Discover the best essence products. Expert reviews and guides."
+title: "Esencias para el Rostro"
+description: "Esencias hidratantes que preparan tu piel para absorber mejor los tratamientos posteriores."
 emoji: "🌸"
 subcategory_type: "product_type"
 subcategory_value: "essence"
