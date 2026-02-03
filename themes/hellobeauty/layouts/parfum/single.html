@@ -183,45 +183,64 @@
         </div>
         {{ end }}
         
+        <!-- Categories & Subcategories Links -->
+        {{ with .Params.subcategories }}
+        <div class="product-categories-block">
+            <h3 class="categories-title">
+                <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/></svg>
+                {{ if eq $lang "fr" }}Catégories{{ else if eq $lang "de" }}Kategorien{{ else if eq $lang "es" }}Categorías{{ else if eq $lang "it" }}Categorie{{ else if eq $lang "pt" }}Categorias{{ else if eq $lang "nl" }}Categorieën{{ else if eq $lang "pl" }}Kategorie{{ else if eq $lang "tr" }}Kategoriler{{ else if eq $lang "ja" }}カテゴリー{{ else if eq $lang "ko" }}카테고리{{ else if eq $lang "zh" }}分类{{ else if eq $lang "ar" }}التصنيفات{{ else if eq $lang "hi" }}श्रेणियां{{ else }}Categories{{ end }}
+            </h3>
+            <div class="categories-tags">
+                {{ $lang := $.Language.Lang }}
+                {{ $allSubcats := $.Site.Data.perfumes_subcats }}
+                {{ if $allSubcats }}
+                {{ $subcats := index $allSubcats $lang }}
+                {{ if $subcats }}
+                {{ range . }}
+                    {{ $info := index $subcats . }}
+                    {{ with $info }}
+                    <a href="{{ .url }}" class="category-tag">
+                        {{ with .emoji }}{{ . }} {{ end }}{{ .title }}
+                    </a>
+                    {{ end }}
+                {{ end }}
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
         <!-- Article Content -->
         <div class="product-content">
             <div class="content-wrapper">
                 {{ .Content }}
             </div>
             
-            <!-- Author Bio Section -->
-            {{ with .Params.author }}
-            <div class="author-box">
-                <div class="author-avatar">
-                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+        </div>
+        
+        <!-- Author Card - Redesigned -->
+        {{ with .Params.author }}
+        {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+        <div class="author-card">
+            <div class="author-card-inner">
+                <div class="author-photo">
                     <img src="/images/authors/{{ $authorSlug }}.jpg" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-                    <div class="author-avatar-fallback">
+                    <div class="author-photo-fallback">
                         <span>{{ substr . 0 1 }}</span>
                     </div>
                 </div>
-                <div class="author-info">
-                    <div class="author-label">{{ if eq $lang "fr" }}À propos de l'auteur{{ else if eq $lang "de" }}Über den Autor{{ else if eq $lang "es" }}Sobre el autor{{ else if eq $lang "it" }}Sull'autore{{ else if eq $lang "pt" }}Sobre o autor{{ else if eq $lang "nl" }}Over de auteur{{ else if eq $lang "pl" }}O autorze{{ else if eq $lang "tr" }}Yazar Hakkında{{ else if eq $lang "ja" }}著者について{{ else if eq $lang "ko" }}저자 소개{{ else if eq $lang "zh" }}关于作者{{ else if eq $lang "ar" }}عن الكاتب{{ else if eq $lang "hi" }}लेखक के बारे में{{ else }}About the Author{{ end }}</div>
-                    <h4 class="author-name">{{ . }}</h4>
-                    <p class="author-bio">
+                <div class="author-card-content">
+                    <div class="author-card-label">{{ if eq $lang "fr" }}Rédigé par{{ else if eq $lang "de" }}Geschrieben von{{ else if eq $lang "es" }}Escrito por{{ else if eq $lang "it" }}Scritto da{{ else if eq $lang "pt" }}Escrito por{{ else if eq $lang "nl" }}Geschreven door{{ else if eq $lang "pl" }}Napisane przez{{ else if eq $lang "tr" }}Yazan{{ else if eq $lang "ja" }}執筆者{{ else if eq $lang "ko" }}작성자{{ else if eq $lang "zh" }}作者{{ else if eq $lang "ar" }}بقلم{{ else if eq $lang "hi" }}लेखक{{ else }}Written by{{ end }}</div>
+                    <h4 class="author-card-name">{{ . }}</h4>
+                    {{ if eq . "Emma Collins" }}
+                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Parfums & Skincare{{ else if eq $lang "de" }}Parfüm & Skincare-Expertin{{ else if eq $lang "es" }}Experta en Perfumes y Skincare{{ else if eq $lang "it" }}Esperta Profumi e Skincare{{ else if eq $lang "pt" }}Especialista em Perfumes e Skincare{{ else }}Fragrance & Skincare Expert{{ end }}</p>
+                    {{ end }}
+                    <p class="author-card-bio">
                         {{ if eq . "Emma Collins" }}
-                            {{ if eq $lang "fr" }}Emma Collins est une experte en parfumerie et critique olfactive avec plus de 15 ans d'expérience dans l'industrie de la beauté. Passionnée par l'art de la parfumerie, elle partage ses découvertes et analyses détaillées pour vous guider dans l'univers des fragrances.
-                            {{ else if eq $lang "de" }}Emma Collins ist eine Parfüm-Expertin und Duftkritikerin mit über 15 Jahren Erfahrung in der Beauty-Branche. Mit ihrer Leidenschaft für die Kunst der Parfümerie teilt sie ihre Entdeckungen und detaillierten Analysen, um Sie durch die Welt der Düfte zu führen.
-                            {{ else if eq $lang "es" }}Emma Collins es una experta en perfumería y crítica olfativa con más de 15 años de experiencia en la industria de la belleza. Apasionada por el arte de la perfumería, comparte sus descubrimientos y análisis detallados para guiarle en el mundo de las fragancias.
-                            {{ else if eq $lang "it" }}Emma Collins è un'esperta di profumeria e critica olfattiva con oltre 15 anni di esperienza nel settore della bellezza. Appassionata dell'arte della profumeria, condivide le sue scoperte e analisi dettagliate per guidarvi nel mondo delle fragranze.
-                            {{ else if eq $lang "pt" }}Emma Collins é uma especialista em perfumaria e crítica olfativa com mais de 15 anos de experiência na indústria da beleza. Apaixonada pela arte da perfumaria, ela compartilha suas descobertas e análises detalhadas para guiá-lo no mundo das fragrâncias.
-                            {{ else if eq $lang "nl" }}Emma Collins is een parfum-expert en geurcritica met meer dan 15 jaar ervaring in de beauty-industrie. Met haar passie voor de kunst van parfumerie deelt ze haar ontdekkingen en gedetailleerde analyses om u door de wereld van geuren te leiden.
-                            {{ else if eq $lang "pl" }}Emma Collins jest ekspertem od perfum i krytykiem zapachowym z ponad 15-letnim doświadczeniem w branży kosmetycznej. Z pasją do sztuki perfumiarskiej dzieli się swoimi odkryciami i szczegółowymi analizami, aby przeprowadzić Cię przez świat zapachów.
-                            {{ else if eq $lang "tr" }}Emma Collins, güzellik sektöründe 15 yılı aşkın deneyime sahip bir parfüm uzmanı ve koku eleştirmenidir. Parfümeri sanatına olan tutkusuyla, keşiflerini ve detaylı analizlerini paylaşarak sizi koku dünyasında yönlendiriyor.
-                            {{ else if eq $lang "ja" }}エマ・コリンズは、ビューティー業界で15年以上の経験を持つ香水の専門家であり、香りの批評家です。香水の芸術に情熱を注ぎ、彼女の発見と詳細な分析を共有して、フレグランスの世界をご案内します。
-                            {{ else if eq $lang "ko" }}에마 콜린스는 뷰티 업계에서 15년 이상의 경험을 가진 향수 전문가이자 향기 비평가입니다. 향수 예술에 대한 열정으로 그녀의 발견과 상세한 분석을 공유하여 향기의 세계를 안내합니다.
-                            {{ else if eq $lang "zh" }}艾玛·柯林斯是一位香水专家和嗅觉评论家，在美容行业拥有超过15年的经验。她热爱香水艺术，通过分享她的发现和详细分析，带您领略香氛世界。
-                            {{ else if eq $lang "ar" }}إيما كولينز خبيرة في العطور وناقدة للروائح مع أكثر من 15 عامًا من الخبرة في صناعة التجميل. شغوفة بفن صناعة العطور، تشارك اكتشافاتها وتحليلاتها التفصيلية لإرشادك في عالم العطور.
-                            {{ else if eq $lang "hi" }}एम्मा कॉलिन्स एक परफ्यूम विशेषज्ञ और सुगंध समीक्षक हैं जिनके पास सौंदर्य उद्योग में 15 से अधिक वर्षों का अनुभव है। परफ्यूमरी की कला के प्रति जुनूनी, वह अपनी खोजों और विस्तृत विश्लेषण साझा करती हैं ताकि आपको सुगंध की दुनिया में मार्गदर्शन मिल सके।
-                            {{ else }}Emma Collins is a fragrance expert and scent critic with over 15 years of experience in the beauty industry. Passionate about the art of perfumery, she shares her discoveries and detailed analyses to guide you through the world of fragrances.
-                            {{ end }}
-                        {{ else if eq . "Sofia Martinez" }}
-                            {{ if eq $lang "fr" }}Sofia Martinez est une maquilleuse professionnelle avec 12 ans d'expérience dans la beauté mode et éditoriale. Elle a travaillé avec les plus grandes marques de beauté et partage son expertise pour vous aider à trouver votre look parfait.
-                            {{ else }}Sofia Martinez is a professional makeup artist with 12 years of experience in fashion and editorial beauty. She has worked with major beauty brands and shares her expertise to help you find your perfect look.
+                            {{ if eq $lang "fr" }}Passionnée par la beauté depuis plus de 15 ans, Emma teste et analyse chaque produit avec rigueur pour vous guider vers les meilleurs choix parfums et skincare.
+                            {{ else if eq $lang "de" }}Mit über 15 Jahren Leidenschaft für Schönheit testet und analysiert Emma jedes Produkt sorgfältig, um Sie zu den besten Parfüm- und Hautpflegeentscheidungen zu führen.
+                            {{ else if eq $lang "es" }}Apasionada por la belleza desde hace más de 15 años, Emma prueba y analiza cada producto con rigor para guiarte hacia las mejores opciones de perfumes y skincare.
+                            {{ else }}With over 15 years of passion for beauty, Emma rigorously tests and analyzes every product to guide you toward the best fragrance and skincare choices.
                             {{ end }}
                         {{ else }}
                             {{ if eq $lang "fr" }}Rédacteur passionné chez HelloBeautyBlog, spécialisé dans les tendances beauté et les conseils experts.
@@ -229,14 +248,13 @@
                             {{ end }}
                         {{ end }}
                     </p>
-                    {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
-                    <a href="/{{ $lang }}/about/{{ $authorSlug }}/" class="author-link">
-                        {{ if eq $lang "fr" }}Voir tous ses articles{{ else if eq $lang "de" }}Alle Artikel ansehen{{ else if eq $lang "es" }}Ver todos los artículos{{ else }}View all articles{{ end }} →
+                    <a href="/{{ $lang }}/about/{{ $authorSlug }}/" class="author-card-link">
+                        {{ if eq $lang "fr" }}Tous ses articles{{ else if eq $lang "de" }}Alle Artikel{{ else if eq $lang "es" }}Todos los artículos{{ else if eq $lang "it" }}Tutti gli articoli{{ else if eq $lang "pt" }}Todos os artigos{{ else if eq $lang "nl" }}Alle artikelen{{ else if eq $lang "pl" }}Wszystkie artykuły{{ else if eq $lang "tr" }}Tüm yazıları{{ else if eq $lang "ja" }}全記事を見る{{ else if eq $lang "ko" }}모든 기사{{ else if eq $lang "zh" }}所有文章{{ else if eq $lang "ar" }}جميع المقالات{{ else if eq $lang "hi" }}सभी लेख{{ else }}View all articles{{ end }} →
                     </a>
                 </div>
             </div>
-            {{ end }}
         </div>
+        {{ end }}
         
     </div>
 </article>
@@ -333,90 +351,30 @@
 .content-wrapper strong { font-weight: 600; color: #1F2937; }
 
 /* Author Box */
-.author-box {
-    display: flex;
-    gap: 1.5rem;
-    margin-top: 3rem;
-    padding-top: 2rem;
-    border-top: 2px solid #F3F4F6;
-}
+/* Categories Block */
+.product-categories-block { background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
+@media (min-width: 768px) { .product-categories-block { padding: 2rem; } }
+.categories-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #1F2937; margin: 0 0 1.25rem; }
+.categories-title svg { width: 20px; height: 20px; color: #F8C8DC; }
+.categories-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.category-tag { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.4rem 0.9rem; background: #FDF2F8; color: #9D174D; font-size: 0.85rem; font-weight: 500; border-radius: 20px; text-decoration: none; transition: all 0.2s ease; border: 1px solid transparent; }
+.category-tag:hover { background: #F8C8DC; color: #831843; border-color: #E8A8BC; transform: translateY(-1px); }
 
-.author-avatar {
-    flex-shrink: 0;
-    position: relative;
-}
-
-.author-avatar img {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid #F8C8DC;
-}
-
-.author-avatar-fallback {
-    display: none;
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%);
-    align-items: center;
-    justify-content: center;
-    font-family: 'Playfair Display', serif;
-    font-size: 2rem;
-    font-weight: 600;
-    color: white;
-}
-
-.author-info {
-    flex: 1;
-}
-
-.author-label {
-    font-size: 0.75rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #F8C8DC;
-    margin-bottom: 0.25rem;
-}
-
-.author-name {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #1F2937;
-    margin: 0 0 0.75rem;
-}
-
-.author-bio {
-    font-size: 0.95rem;
-    line-height: 1.7;
-    color: #4B5563;
-    margin: 0 0 1rem;
-}
-
-.author-link {
-    display: inline-flex;
-    align-items: center;
-    font-size: 0.9rem;
-    font-weight: 500;
-    color: #F8C8DC;
-    text-decoration: none;
-    transition: color 0.2s ease;
-}
-
-.author-link:hover {
-    color: #E8A8BC;
-}
-
-@media (max-width: 640px) {
-    .author-box {
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-}
+/* Author Card - Redesigned */
+.author-card { background: white; border-radius: 20px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+.author-card-inner { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 2.5rem 2rem; background: linear-gradient(180deg, #FDF2F8 0%, #FFFFFF 40%); }
+@media (min-width: 640px) { .author-card-inner { flex-direction: row; text-align: left; gap: 2rem; padding: 2rem 2.5rem; } }
+.author-photo { flex-shrink: 0; position: relative; margin-bottom: 1.5rem; }
+@media (min-width: 640px) { .author-photo { margin-bottom: 0; } }
+.author-photo img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0 4px 20px rgba(248,200,220,0.4); }
+.author-photo-fallback { display: none; width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%); align-items: center; justify-content: center; font-family: 'Playfair Display', serif; font-size: 2.5rem; font-weight: 600; color: white; border: 4px solid white; box-shadow: 0 4px 20px rgba(248,200,220,0.4); }
+.author-card-content { flex: 1; }
+.author-card-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #F8C8DC; margin-bottom: 0.25rem; }
+.author-card-name { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F2937; margin: 0 0 0.25rem; }
+.author-card-specialty { font-size: 0.85rem; font-weight: 500; color: #E8A8BC; margin: 0 0 0.75rem; letter-spacing: 0.02em; }
+.author-card-bio { font-size: 0.95rem; line-height: 1.7; color: #4B5563; margin: 0 0 1rem; }
+.author-card-link { display: inline-flex; align-items: center; font-size: 0.9rem; font-weight: 600; color: #F8C8DC; text-decoration: none; transition: color 0.2s ease; }
+.author-card-link:hover { color: #E8A8BC; }
 
 /* Placeholder */
 .product-image-placeholder { width: 100%; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
