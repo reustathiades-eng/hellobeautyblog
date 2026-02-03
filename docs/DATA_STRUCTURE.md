@@ -167,8 +167,12 @@ static/images/
 └── icons/        # icon-perfumes.webp, icon-skincare.webp, icon-makeup.webp, icon-haircare.webp
 ```
 
-### Règle d'ordre images parfums
+### Règle d'ordre images (TOUTES catégories)
 1. `{slug}-swatch.jpg` — Couleur du jus (TOUJOURS EN PREMIER dans frontmatter)
+
+> **⚠️ Cette règle s'applique à TOUTES les catégories** (parfums, skincare, makeup, haircare).
+> L'image swatch/principale doit toujours être en position 1 dans le frontmatter.
+> C'est cette image qui s'affiche sur les cartes produit de la homepage et des listings.
 2. `{slug}.jpg` — Photo bouteille principale
 3. `{slug}-2.jpg` — Détail 2
 4. `{slug}-3.jpg` — Détail 3

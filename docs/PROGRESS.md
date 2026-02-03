@@ -1,5 +1,5 @@
 # PROGRESS.md — État d'avancement du projet
-> Dernière mise à jour : 3 février 2026
+> Dernière mise à jour : 3 février 2026 (soir)
 
 ## ✅ TERMINÉ
 
@@ -30,6 +30,24 @@
 - [x] 5 articles haircare EN
 - [x] 4 bios auteurs (14 langues = 56 pages)
 - [x] 58 images parfums
+
+### Articles test générés via API (4 produits)
+- [x] Tom Ford Black Orchid (EN complet, 14 langues stubs)
+- [x] The Ordinary Niacinamide 10% + Zinc 1% (EN complet)
+- [x] Fenty Beauty Pro Filt'r Foundation (EN complet + FR/DE/ES/ZH traduits)
+- [x] Olaplex No. 3 Hair Perfector (EN complet, 13 langues stubs)
+- [x] Briefs de génération : generation/prompts/{perfumes,skincare,makeup,haircare}.txt
+- [x] Brief de traduction : generation/prompts/translate.txt
+- [x] Script de traduction test : generation/test_translate_fenty.py
+
+### Corrections techniques (3 février 2026 soir)
+- [x] Images frontmatter ajoutées à 879 fichiers (skincare/makeup/haircare × 14 langues)
+- [x] Ordre images corrigé : swatch EN PREMIER pour les 4 produits test
+- [x] 10 YAML cassés réparés (bug `jpg---` sans newline)
+- [x] translationKey Olaplex harmonisé (EN "olaplex-no-3-hair-perfector" → "olaplex-no-3")
+- [x] Images Olaplex stubs corrigées (olaplex-no-3.webp → 4 vraies images)
+- [x] featured: false pour les stubs Olaplex (13 langues)
+- [x] Brief translate.txt amélioré : devises €/$, translationKey CRITICAL, images CRITICAL, ES pricing
 
 ### SEO global
 - [x] Textes SEO homepage (14 langues)

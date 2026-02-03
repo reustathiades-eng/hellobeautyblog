@@ -101,3 +101,51 @@ generation/translations/ # notes_translations.json, perfume_translations.json
 ```
 
 Ces fichiers contiennent les données source utilisées pour générer les pages parfums dans les 14 langues.
+
+## Briefs de génération (prompts/)
+
+```
+generation/prompts/
+├── perfumes.txt     # Brief pour articles parfums EN
+├── skincare.txt     # Brief pour articles skincare EN
+├── makeup.txt       # Brief pour articles makeup EN
+├── haircare.txt     # Brief pour articles haircare EN
+└── translate.txt    # Brief pour traduction EN → 13 langues
+```
+
+### Brief translate.txt — Points clés
+- Réécriture native, PAS traduction littérale
+- translationKey : copier EXACTEMENT depuis EN (CRITICAL)
+- images : copier EXACTEMENT depuis EN (CRITICAL)
+- subcategories : garder en anglais (slugs = noms de dossiers)
+- Devises : € pour langues européennes (FR/DE/ES/IT/PT/NL/PL/TR), devises locales pour l'Asie
+- Tags/keywords entre guillemets doubles obligatoire : `["valeur 1", "valeur 2"]`
+- Minimum 3 H2 + 6 H3
+
+### Script de traduction test
+
+```bash
+# Traduit un article EN vers FR/DE/ES/ZH
+python3 generation/test_translate_fenty.py
+```
+
+## Listes de produits
+
+```
+generation/product_lists/
+├── perfumes.json    # 511 produits
+├── skincare.json    # 278 produits
+├── makeup.json      # 500 produits
+├── haircare.json    # 270 produits
+└── gaps.json        # 70 produits pour combler sous-cat < 3
+```
+
+Total : 1 629 produits à générer.
+
+## Workflow de génération de masse (à venir)
+
+1. Renseigner URLs images via interface (4 URLs max par produit)
+2. Télécharger images → `static/images/{category}/`
+3. Générer fiche EN via API Claude + brief catégorie
+4. Traduire EN → 13 langues via API Claude + brief translate.txt
+5. Git push → auto-deploy Cloudflare (~2 min)
