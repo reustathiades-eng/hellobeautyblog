@@ -22,8 +22,8 @@ author: "Isabella Romano"
 authorSlug: "isabella-romano"
 categories:
   - "Makeup"
-tags: [5-8 lowercase: brand, product type, finish, skin type, occasion]
-keywords: [5-8 long-tail SEO: "fenty beauty foundation review", "best foundation oily skin", "mac ruby woo dupe"]
+tags: ["brand name", "product type", "finish type", "skin type"]  # 5-8 lowercase, ALL in double quotes
+keywords: ["brand product review", "best foundation oily skin", "product shade range"]  # 5-8 long-tail SEO, ALL in double quotes
 images: []
 featured: false
 draft: false
@@ -53,9 +53,36 @@ translationKey: "{slug}"
 === CONTENT REQUIREMENTS ===
 
 STRUCTURE (SEO):
-- Minimum 2 H2, minimum 4 H3 — ALL unique to this specific product
-- NEVER use generic headings like "Application Tips" or "Final Thoughts"
-- Use product-specific angles: "The Shade 340 Problem Nobody Warned Me About", "Why This Primer Changed My Oily T-Zone Game", "8 Hours In: The Crease Test Results", "How It Photographs vs. How It Looks IRL"
+- ⚠️ CRITICAL HEADING RULE — THIS IS NON-NEGOTIABLE:
+  Your article MUST contain BOTH ## (H2) AND ### (H3) headings.
+  Target: 3-5 H2 headings and 6-10 H3 headings nested under them.
+  Every H2 section MUST have at least 1-2 H3 sub-headings inside it.
+  
+  CORRECT STRUCTURE (follow this pattern):
+  
+  ## Big Theme Section Title [this is H2]
+  [intro paragraph for this section]
+  ### Specific Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  ### Another Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  
+  ## Another Big Theme [this is H2]
+  [intro paragraph]
+  ### Detail Point [this is H3]
+  [content]
+  ### Another Detail [this is H3]
+  [content]
+  
+  WRONG (will be REJECTED):
+  ## Topic 1
+  ## Topic 2
+  ## Topic 3
+  (all H2, no H3 = REJECTED)
+  
+  Remember: ### is three hash marks, ## is two. You need BOTH levels.
+- H2/H3 MUST be unique to this product — NEVER generic like "Application Tips" or "Final Thoughts"
+- Use product-specific angles: "The Shade 340 Problem Nobody Warned Me About", "8 Hours In: The Crease Test Results"
 - FAQ section at end: 3-5 questions people actually search for this product
 - 800-2000 words
 
@@ -94,3 +121,12 @@ coverage: MUST be one of: "Sheer" | "Light" | "Medium" | "Buildable" | "Full" | 
 longwear: MUST follow format: "X-Y hours" or "All day" or "N/A"
 shadeRange: MUST follow format: "X shades" or "Limited (X shades)" or "Universal" or "N/A"
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
+
+
+=== FINAL REMINDER (read this last) ===
+Before outputting: count your headings. You MUST have:
+- At least 3 lines starting with "## " (H2)
+- At least 6 lines starting with "### " (H3)
+- Every ## section must contain at least one ### inside it
+- Tags and keywords MUST be quoted: ["value 1", "value 2"]
+If you have 0 H3 headings, STOP and restructure your article.

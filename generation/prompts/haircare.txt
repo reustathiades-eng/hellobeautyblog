@@ -22,8 +22,8 @@ author: "Olivia Taylor"
 authorSlug: "olivia-taylor"
 categories:
   - "Haircare"
-tags: [5-8 lowercase: brand, product type, hair concern, hair type, key ingredient]
-keywords: [5-8 long-tail SEO: "olaplex no 3 review", "best shampoo color treated hair", "curly hair conditioner"]
+tags: ["brand name", "product type", "hair concern", "hair type"]  # 5-8 lowercase, ALL in double quotes
+keywords: ["brand product review", "best shampoo for damaged hair"]  # 5-8 long-tail SEO, ALL in double quotes
 images: []
 featured: false
 draft: false
@@ -55,9 +55,36 @@ translationKey: "{slug}"
 === CONTENT REQUIREMENTS ===
 
 STRUCTURE (SEO):
-- Minimum 2 H2, minimum 4 H3 — ALL unique to this product
-- NEVER use generic "How To Use" or "Ingredients List" as headings
-- Use hair-specific angles: "What Bond-Building Actually Means for Your Bleach-Fried Ends", "The Sulfate-Free Question: Does It Still Clean Properly?", "Week 3 on Wavy Hair: The Frizz Verdict", "Why Your Hairstylist Probably Already Uses This"
+- ⚠️ CRITICAL HEADING RULE — THIS IS NON-NEGOTIABLE:
+  Your article MUST contain BOTH ## (H2) AND ### (H3) headings.
+  Target: 3-5 H2 headings and 6-10 H3 headings nested under them.
+  Every H2 section MUST have at least 1-2 H3 sub-headings inside it.
+  
+  CORRECT STRUCTURE (follow this pattern):
+  
+  ## Big Theme Section Title [this is H2]
+  [intro paragraph for this section]
+  ### Specific Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  ### Another Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  
+  ## Another Big Theme [this is H2]
+  [intro paragraph]
+  ### Detail Point [this is H3]
+  [content]
+  ### Another Detail [this is H3]
+  [content]
+  
+  WRONG (will be REJECTED):
+  ## Topic 1
+  ## Topic 2
+  ## Topic 3
+  (all H2, no H3 = REJECTED)
+  
+  Remember: ### is three hash marks, ## is two. You need BOTH levels.
+- H2/H3 MUST be unique to this product — NEVER generic "How To Use" or "Ingredients List"
+- Use hair-specific angles: "What Bond-Building Actually Means for Your Bleach-Fried Ends", "Week 3 on Wavy Hair: The Frizz Verdict"
 - FAQ section: 3-5 questions people Google about this product
 - 800-2000 words
 
@@ -95,3 +122,12 @@ productType: MUST be one of: "Shampoo" | "Conditioner" | "Hair Mask" | "Hair Oil
 hairType: MUST be one of: "Straight" | "Wavy" | "Curly" | "Coily" | "All hair types" | "Fine" | "Thick" | "Color-treated"
 texture (product texture): MUST be one of: "Thick Cream" | "Light Gel" | "Liquid" | "Rich Balm" | "Mousse" | "Spray" | "Oil" | "Milky" | "Paste" | "Foam"
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
+
+
+=== FINAL REMINDER (read this last) ===
+Before outputting: count your headings. You MUST have:
+- At least 3 lines starting with "## " (H2)
+- At least 6 lines starting with "### " (H3)
+- Every ## section must contain at least one ### inside it
+- Tags and keywords MUST be quoted: ["value 1", "value 2"]
+If you have 0 H3 headings, STOP and restructure your article.

@@ -23,8 +23,8 @@ author: "Sophie Laurent"
 authorSlug: "sophie-laurent"
 categories:
   - "Perfumes"
-tags: [5-8 relevant lowercase tags: brand, notes, occasion, family]
-keywords: [5-8 long-tail SEO keywords people actually search for, e.g. "dior sauvage review", "best men cologne 2025"]
+tags: ["brand name", "note 1", "occasion", "family"]  # 5-8 lowercase tags, ALL in double quotes
+keywords: ["brand product review", "best xyz perfume 2025", "product longevity"]  # 5-8 long-tail SEO keywords, ALL in double quotes
 images: []
 featured: false
 draft: false
@@ -55,18 +55,34 @@ translationKey: "{slug}"
 === CONTENT REQUIREMENTS ===
 
 STRUCTURE (SEO):
-- MANDATORY HEADING HIERARCHY: You MUST use both H2 (##) AND H3 (###) headings.
-  - Use 2-4 H2 headings for MAJOR sections (big thematic blocks)
-  - Use 4-6 H3 headings NESTED UNDER H2s for sub-topics within those sections
-  - Example structure:
-    ## The Scent Journey: From First Spray to Dry Down [H2 = major section]
-    ### Opening Notes: That Initial Bergamot Burst [H3 = sub-topic]
-    ### The Heart: Where Things Get Interesting [H3 = sub-topic]
-    ## Real-Life Performance: 12 Hours in the Office [H2 = major section]
-    ### The Sillage Test: Who Actually Noticed? [H3 = sub-topic]
-    ### Longevity on Skin vs. Fabric [H3 = sub-topic]
-  - NEVER use only H2s. Articles with 0 H3 headings will be REJECTED.
-  - H3 headings show Google your content has depth and structure
+- ⚠️ CRITICAL HEADING RULE — THIS IS NON-NEGOTIABLE:
+  Your article MUST contain BOTH ## (H2) AND ### (H3) headings.
+  Target: 3-5 H2 headings and 6-10 H3 headings nested under them.
+  Every H2 section MUST have at least 1-2 H3 sub-headings inside it.
+  
+  CORRECT STRUCTURE (follow this pattern):
+  
+  ## Big Theme Section Title [this is H2]
+  [intro paragraph for this section]
+  ### Specific Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  ### Another Sub-Topic [this is H3]
+  [2-3 paragraphs]
+  
+  ## Another Big Theme [this is H2]
+  [intro paragraph]
+  ### Detail Point [this is H3]
+  [content]
+  ### Another Detail [this is H3]
+  [content]
+  
+  WRONG (will be REJECTED):
+  ## Topic 1
+  ## Topic 2
+  ## Topic 3
+  (all H2, no H3 = REJECTED)
+  
+  Remember: ### is three hash marks, ## is two. You need BOTH levels.
 - H2/H3 MUST be unique to this specific product — NEVER generic like "Performance" or "Final Verdict"
 - Instead, use creative, product-specific headings like "Why Bergamot Makes Sauvage Impossible to Ignore" or "The Ambroxan Beast That Won't Quit"
 - End with a FAQ section (## FAQ or ## Frequently Asked Questions) containing 3-5 questions in natural language
@@ -112,3 +128,12 @@ sillage: MUST be one of: "Light" | "Moderate" | "Strong" | "Beast mode"
 occasion: MUST be from: "Everyday" | "Office" | "Evening" | "Romantic" | "Sport" | "Special Occasion" | "Wedding" | "Summer Casual" | "Night Out"
 season: MUST be from: "Spring" | "Summer" | "Fall" | "Winter"
 rating: MUST be one of: 3.5 | 4.0 | 4.5 | 5.0
+
+
+=== FINAL REMINDER (read this last) ===
+Before outputting: count your headings. You MUST have:
+- At least 3 lines starting with "## " (H2)
+- At least 6 lines starting with "### " (H3)
+- Every ## section must contain at least one ### inside it
+- Tags and keywords MUST be quoted: ["value 1", "value 2"]
+If you have 0 H3 headings, STOP and restructure your article.
