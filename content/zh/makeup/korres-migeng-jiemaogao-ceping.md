@@ -1,5 +1,7 @@
 ---
 title: "Korres 米糠睫毛膏测评"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "korres-migeng-jiemaogao-ceping"
 date: 2010-05-20

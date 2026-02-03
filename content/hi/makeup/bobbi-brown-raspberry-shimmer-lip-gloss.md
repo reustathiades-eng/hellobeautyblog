@@ -1,5 +1,7 @@
 ---
 title: "बॉबी ब्राउन रैस्पबेरी शिमर लिप ग्लॉस रिव्यू"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 date: 2010-07-15
 categories: ["मेकअप"]

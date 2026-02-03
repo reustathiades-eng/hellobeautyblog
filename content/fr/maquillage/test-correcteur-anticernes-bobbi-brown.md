@@ -1,5 +1,7 @@
 ---
 title: "Test du Correcteur et Anticernes Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "test-correcteur-anticernes-bobbi-brown"
 date: 2011-03-25

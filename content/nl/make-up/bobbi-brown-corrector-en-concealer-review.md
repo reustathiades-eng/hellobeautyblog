@@ -15,7 +15,7 @@ keywords: ["Bobbi Brown concealer", "color corrector", "oogkringen camoufleren"]
 author: ""
 authorSlug: ""
 lastmod: 2011-03-25
-images: []
----
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg---
 
 Indrukwekkende voor- en na-resultaten.

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["स्किनकेयर"]
 tags: ["लिप केयर", "लिप बाम", "फटे होंठ", "हाइड्रेशन", "ब्यूटी टिप्स"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

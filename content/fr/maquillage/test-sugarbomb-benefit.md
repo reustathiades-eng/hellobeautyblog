@@ -1,5 +1,7 @@
 ---
 title: "Test du Sugarbomb de Benefit"
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg
 translationKey: "benefit-sugarbomb-review"
 date: 2009-12-15
 categories: ["Maquillage"]

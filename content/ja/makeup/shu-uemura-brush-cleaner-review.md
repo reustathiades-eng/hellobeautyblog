@@ -1,5 +1,7 @@
 ---
 title: "シュウ ウエムラ ブラシクリーナー レビュー"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "shu-uemura-brush-cleaner-review"
 date: 2010-09-20

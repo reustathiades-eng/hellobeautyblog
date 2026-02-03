@@ -1,5 +1,7 @@
 ---
 title: "कवरगर्ल लैश ब्लास्ट फ्यूजन रिव्यू"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 date: 2010-08-20
 categories: ["मेकअप"]

@@ -1,5 +1,7 @@
 ---
 title: "エスティ ローダー サンプチュアス エクストリーム マスカラ レビュー"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: "estee-lauder-sumptuous-extreme-mascara-review-ja"

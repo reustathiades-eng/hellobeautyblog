@@ -15,7 +15,7 @@ keywords: ["ベネフィット", "シュガーボム", "チークレビュー"]
 author: ""
 authorSlug: ""
 lastmod: 2009-12-15
-images: []
----
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg---
 
 ベネフィット シュガーボムのレビューです。

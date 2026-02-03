@@ -1,5 +1,7 @@
 ---
 title: "メイベリン カラーウィスパー レビュー"
+images:
+  - /images/makeup/maybelline-color-whisper-review.jpg
 translationKey: "maybelline-color-whisper-review"
 slug: "meiberinn-karaa-wisupaa-rebyu"
 date: 2013-03-20

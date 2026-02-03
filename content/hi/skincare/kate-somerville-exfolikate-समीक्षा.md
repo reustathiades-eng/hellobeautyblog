@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["त्वचा की देखभाल"]
 tags: ["केट सोमरविले", "पीलिंग", "एक्सफोलिकेट", "चमकदार त्वचा"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "एक्सफोलिकेट इंटेंसिव पीलिंग"

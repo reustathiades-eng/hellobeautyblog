@@ -1,5 +1,7 @@
 ---
 title: "CoverGirl Lash Blast Fusion 睫毛膏测评"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 slug: "covergirl-lash-blast-fusion-pingce"
 date: 2010-08-20

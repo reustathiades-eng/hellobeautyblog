@@ -1,5 +1,7 @@
 ---
 title: "Benefit Bella Bamba - Recenzja ze Swatchami"
+images:
+  - /images/makeup/benefit-bella-bamba-review-swatches.jpg
 translationKey: "benefit-bella-bamba-review-swatches"
 slug: "benefit-bella-bamba-recenzja-swatche"
 date: 2011-02-15

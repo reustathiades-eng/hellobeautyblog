@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["스킨케어"]
 tags: ["케이트서머빌", "필링", "엑스폴리케이트", "광채피부"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "엑스폴리케이트 인텐시브 필링"

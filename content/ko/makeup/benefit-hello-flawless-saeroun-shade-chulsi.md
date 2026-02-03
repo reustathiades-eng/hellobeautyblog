@@ -1,5 +1,7 @@
 ---
 title: "베네핏 헬로 플로리스 새로운 쉐이드 출시"
+images:
+  - /images/makeup/benefit-hello-flawless-new-shades.jpg
 translationKey: "benefit-hello-flawless-new-shades"
 slug: "benefit-hello-flawless-saeroun-shade-chulsi"
 date: 2011-03-15

@@ -1,5 +1,7 @@
 ---
 title: "2016년 봄 신상 메이크업 베스트"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 slug: "2016-bom-sinsang-makeup-best"
 date: 2016-03-15

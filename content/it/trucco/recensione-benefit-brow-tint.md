@@ -1,5 +1,7 @@
 ---
 title: "Recensione Benefit Brow Tint"
+images:
+  - /images/makeup/benefit-brow-tint-review.jpg
 translationKey: "benefit-brow-tint-review"
 slug: "recensione-benefit-brow-tint"
 date: 2010-08-15

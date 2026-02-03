@@ -10,7 +10,11 @@ categories:
   - "Makeup"
 tags: ["fenty beauty", "foundation", "matte", "full coverage", "oily skin", "longwear", "shade range"]
 keywords: ["fenty pro filtr review", "best matte foundation oily skin", "fenty foundation shade match", "full coverage foundation", "longwear foundation review", "fenty beauty 50 shades"]
-images: []
+images:
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-2.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-3.jpg
 featured: false
 draft: false
 brand: "Fenty Beauty"

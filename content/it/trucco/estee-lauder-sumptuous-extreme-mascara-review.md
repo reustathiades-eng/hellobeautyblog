@@ -1,5 +1,7 @@
 ---
 title: "Recensione Mascara Sumptuous Extreme di Estée Lauder"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: recensione-mascara-sumptuous-extreme-estee-lauder

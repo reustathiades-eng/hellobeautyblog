@@ -1,5 +1,7 @@
 ---
 title: "アーバンディケイ グッドカルマブラシセット レビュー"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 translationKey: "urban-decay-good-karma-brushes-review"
 slug: "urban-decay-good-karma-brush-set-review"
 date: 2010-08-25

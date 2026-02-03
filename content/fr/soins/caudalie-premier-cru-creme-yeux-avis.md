@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins"]
 tags: ["caudalie", "contour des yeux", "anti-âge", "luxe", "cernes"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "Premier Cru La Crème Yeux"

@@ -1,5 +1,7 @@
 ---
 title: "वसंत 2016 के लिए बेहतरीन नए मेकअप"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 date: 2016-03-15
 categories: ["मेकअप"]

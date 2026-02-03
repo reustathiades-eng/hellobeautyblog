@@ -1,5 +1,7 @@
 ---
 title: "Test du Color Whisper de Maybelline"
+images:
+  - /images/makeup/maybelline-color-whisper-review.jpg
 translationKey: "maybelline-color-whisper-review"
 slug: "test-color-whisper-maybelline"
 date: 2013-03-20

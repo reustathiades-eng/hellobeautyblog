@@ -1,5 +1,7 @@
 ---
 title: "Guerlain Sonbahar 2010 Koleksiyonu İncelemesi"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 translationKey: "guerlain-fall-2010-collection-review"
 slug: "guerlain-sonbahar-2010-koleksiyonu-incelemesi"
 date: 2010-10-10

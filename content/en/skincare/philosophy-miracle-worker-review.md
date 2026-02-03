@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["philosophy", "anti-aging", "retinol", "moisturizer", "wrinkles"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "Miracle Worker Miraculous Anti-Aging Moisturizer"

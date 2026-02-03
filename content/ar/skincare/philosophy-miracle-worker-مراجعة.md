@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["فيلوسوفي", "مضاد للشيخوخة", "ريتينول", "تجاعيد"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "ميراكل ووركر كريم مضاد للشيخوخة"

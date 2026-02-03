@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["त्वचा की देखभाल"]
 tags: ["फिलॉसफी", "एंटी-एजिंग", "रेटिनॉल", "झुर्रियां"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "मिरेकल वर्कर एंटी-एजिंग क्रीम"

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["العناية بالشفاه", "مرطب الشفاه", "الشفاه الجافة", "الترطيب", "نصائح جمالية"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

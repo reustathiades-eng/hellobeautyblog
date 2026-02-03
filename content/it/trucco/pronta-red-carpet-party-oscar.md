@@ -1,5 +1,7 @@
 ---
 title: "Pronta per il Red Carpet al Party degli Oscar"
+images:
+  - /images/makeup/red-carpet-oscars-party-look.jpg
 translationKey: "red-carpet-oscars-party-look"
 date: 2016-02-20
 categories: ["Trucco"]

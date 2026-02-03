@@ -1,5 +1,7 @@
 ---
 title: "베네핏 벨라 밤바 블러셔 리뷰 & 발색 비교"
+images:
+  - /images/makeup/benefit-bella-bamba-review-swatches.jpg
 translationKey: "benefit-bella-bamba-review-swatches"
 slug: "benefit-bella-bamba-review-balсaek"
 date: 2011-02-15

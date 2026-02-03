@@ -1,5 +1,7 @@
 ---
 title: "Test du Nettoyant pour Pinceaux Shu Uemura"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "test-nettoyant-pinceaux-shu-uemura"
 date: 2010-09-20

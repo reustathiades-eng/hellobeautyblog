@@ -1,5 +1,7 @@
 ---
 title: "베네핏 브로우 틴트 리뷰"
+images:
+  - /images/makeup/benefit-brow-tint-review.jpg
 translationKey: "benefit-brow-tint-review"
 date: 2010-08-15
 categories: ["메이크업"]

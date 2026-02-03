@@ -1,5 +1,7 @@
 ---
 title: "Jak stosować serum i krem nawilżający do twarzy"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "jak-stosowac-serum-i-krem-nawilzajacy"
 date: 2010-10-25

@@ -1,5 +1,7 @@
 ---
 title: "Urban Decay Pocket Rocket Lip Gloss İncelemesi"
+images:
+  - /images/makeup/urban-decay-pocket-rocket-lip-gloss.jpg
 translationKey: "urban-decay-pocket-rocket-lip-gloss"
 date: 2010-07-20
 slug: urban-decay-pocket-rocket-dudak-parlatici-inceleme

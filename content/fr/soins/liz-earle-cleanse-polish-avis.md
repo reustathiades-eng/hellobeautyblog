@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins"]
 tags: ["liz earle", "nettoyant", "beauté britannique", "naturel"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Nettoyant"

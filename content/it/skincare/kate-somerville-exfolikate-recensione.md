@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["kate somerville", "esfoliante", "exfolikate", "pelle luminosa"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Trattamento Esfoliante Intensivo"

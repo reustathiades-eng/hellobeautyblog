@@ -1,5 +1,7 @@
 ---
 title: "최고의 마스카라 추천과 워터프루프 팁"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["메이크업"]

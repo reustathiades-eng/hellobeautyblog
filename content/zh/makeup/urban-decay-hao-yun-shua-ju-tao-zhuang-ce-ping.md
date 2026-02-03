@@ -1,5 +1,7 @@
 ---
 title: "Urban Decay 好运刷具套装测评"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 translationKey: "urban-decay-good-karma-brushes-review"
 slug: "urban-decay-hao-yun-shua-ju-tao-zhuang-ce-ping"
 date: 2010-08-25

@@ -1,5 +1,7 @@
 ---
 title: "面部精华液和面霜的正确使用方法"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "jinghua-mianshang-shiyong-fangfa"
 date: 2010-10-25

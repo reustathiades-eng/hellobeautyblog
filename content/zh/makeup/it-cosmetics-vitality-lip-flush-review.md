@@ -1,5 +1,7 @@
 ---
 title: "IT Cosmetics活力唇颊霜测评 - 夏日必备好物"
+images:
+  - /images/makeup/it-cosmetics-vitality-lip-flush-review.jpg
 translationKey: "it-cosmetics-vitality-lip-flush-review"
 date: 2012-07-15
 slug: it-cosmetics-huo-li-chun-jia-shuang-ce-ping

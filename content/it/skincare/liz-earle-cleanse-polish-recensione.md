@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["liz earle", "detergente", "bellezza britannica", "naturale"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Detergente"

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cuidado Facial"]
 tags: ["arcona", "belleza limpia", "skincare natural", "marca de spa"]
 images:
+  - /images/skincare/arcona-skincare-review.jpg
   - /images/skincare/arcona-skincare.jpg
 brand: "Arcona"
 productName: "Magic White Ice"

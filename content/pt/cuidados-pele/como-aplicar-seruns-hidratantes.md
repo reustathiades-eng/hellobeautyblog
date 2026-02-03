@@ -1,5 +1,7 @@
 ---
 title: "Como Aplicar Séruns e Hidratantes Faciais"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "como-aplicar-seruns-hidratantes"
 date: 2010-10-25

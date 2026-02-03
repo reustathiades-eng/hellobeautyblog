@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Huidverzorging"]
 tags: ["caudalie", "oogcrème", "anti-aging", "luxe"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "Premier Cru De Oogcrème"

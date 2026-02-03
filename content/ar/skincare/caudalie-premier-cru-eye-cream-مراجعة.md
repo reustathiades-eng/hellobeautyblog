@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["كودالي", "كريم العيون", "مكافحة الشيخوخة", "فاخر"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "بريميير كرو كريم العيون"

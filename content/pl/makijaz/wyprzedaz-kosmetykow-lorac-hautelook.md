@@ -1,5 +1,7 @@
 ---
 title: "Wyprzedaż kosmetyków Lorac w HauteLook"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 slug: "wyprzedaz-kosmetykow-lorac-hautelook"
 date: 2010-09-25

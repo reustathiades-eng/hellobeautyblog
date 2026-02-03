@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["سين سبا", "العناية بالبشرة في السبا", "فخامة", "صحة وجمال"]
 images:
+  - /images/skincare/senspa-luxe-wellness-review.jpg
   - /images/skincare/senspa-luxe-wellness.jpg
 brand: "SenSpa"
 productName: "Luxe Body Polish"

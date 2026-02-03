@@ -1,5 +1,7 @@
 ---
 title: "IT Cosmetics Vitality Lip Flush İnceleme - Yaz İçin Mükemmel"
+images:
+  - /images/makeup/it-cosmetics-vitality-lip-flush-review.jpg
 translationKey: "it-cosmetics-vitality-lip-flush-review"
 date: 2012-07-15
 slug: it-cosmetics-vitality-lip-flush-inceleme

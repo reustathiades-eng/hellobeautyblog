@@ -15,7 +15,7 @@ tags: ["Benefit", "Rouge", "Make-up Test", "Blush"]
 author: ""
 authorSlug: ""
 lastmod: 2009-12-15
-images: []
----
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg---
 
 Test der Benefit Sugarbomb.

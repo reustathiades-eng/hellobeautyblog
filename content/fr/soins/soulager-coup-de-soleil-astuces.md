@@ -1,5 +1,7 @@
 ---
 title: "8 Façons Simples de Soulager un Coup de Soleil"
+images:
+  - /images/skincare/soothe-sunburn-tips.jpg
 translationKey: "soothe-sunburn-tips"
 date: 2010-07-20
 categories: ["Soins de la peau"]

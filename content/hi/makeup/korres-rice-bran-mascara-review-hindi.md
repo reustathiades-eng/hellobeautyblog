@@ -1,5 +1,7 @@
 ---
 title: "कोरेस राइस ब्रान मस्कारा रिव्यू"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 date: 2010-05-20
 categories: ["मेकअप"]

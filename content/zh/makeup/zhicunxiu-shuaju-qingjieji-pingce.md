@@ -1,5 +1,7 @@
 ---
 title: "植村秀刷具清洁剂使用心得"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "zhicunxiu-shuaju-qingjieji-pingce"
 date: 2010-09-20

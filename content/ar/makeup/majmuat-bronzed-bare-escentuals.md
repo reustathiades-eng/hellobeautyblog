@@ -1,5 +1,7 @@
 ---
 title: "مجموعة برونزد من بير إيسينشيالز"
+images:
+  - /images/makeup/bare-escentuals-bronzed-collection.jpg
 translationKey: "bare-escentuals-bronzed-collection"
 slug: "majmuat-bronzed-bare-escentuals"
 date: 2011-04-20

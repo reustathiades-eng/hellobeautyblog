@@ -1,5 +1,7 @@
 ---
 title: "바비 브라운 컬렉터와 컨실러 리뷰"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "babi-beuraun-keollegteo-keonsilleo-ribyu"
 date: 2011-03-25

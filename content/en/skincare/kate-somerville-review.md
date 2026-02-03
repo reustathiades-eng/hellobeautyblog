@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["kate somerville", "exfoliator", "exfolikate", "enzyme peel", "radiant skin"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Intensive Exfoliating Treatment"

@@ -1,5 +1,7 @@
 ---
 title: "Urban Decay Good Karma Fırça Seti İncelemesi"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 translationKey: "urban-decay-good-karma-brushes-review"
 slug: "urban-decay-good-karma-firca-seti-incelemesi"
 date: 2010-08-25

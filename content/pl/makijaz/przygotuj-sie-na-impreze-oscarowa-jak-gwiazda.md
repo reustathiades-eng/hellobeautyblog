@@ -1,5 +1,7 @@
 ---
 title: "Przygotuj się na imprezę oscarową jak prawdziwa gwiazda"
+images:
+  - /images/makeup/red-carpet-oscars-party-look.jpg
 translationKey: "red-carpet-oscars-party-look"
 slug: "przygotuj-sie-na-impreze-oscarowa-jak-gwiazda"
 date: 2016-02-20

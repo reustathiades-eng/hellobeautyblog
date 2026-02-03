@@ -1,5 +1,7 @@
 ---
 title: "Recensione Fondotinta in Polvere Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-powder-foundation-review.jpg
 translationKey: "bobbi-brown-powder-foundation-review"
 slug: "recensione-fondotinta-polvere-bobbi-brown"
 date: 2010-12-15

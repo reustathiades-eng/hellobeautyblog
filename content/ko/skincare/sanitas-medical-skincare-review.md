@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["스킨케어"]
 tags: ["사니타스", "메디컬 그레이드", "전문가용 스킨케어", "천연"]
 images:
+  - /images/skincare/sanitas-natural-skincare-review.jpg
   - /images/skincare/sanitas-skincare.jpg
 brand: "Sanitas"
 productName: "Brightening Peel"

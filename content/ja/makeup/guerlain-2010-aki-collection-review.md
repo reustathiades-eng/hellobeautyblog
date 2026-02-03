@@ -1,5 +1,7 @@
 ---
 title: "ゲラン 2010年秋コレクション レビュー"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 slug: "guerlain-2010-aki-collection-review"
 translationKey: "guerlain-fall-2010-collection-review"
 date: 2010-10-10

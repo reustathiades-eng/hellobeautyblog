@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Pielęgnacja skóry"]
 tags: ["sanitas", "kosmetyki medyczne", "profesjonalna pielęgnacja", "naturalne składniki"]
 images:
+  - /images/skincare/sanitas-natural-skincare-review.jpg
   - /images/skincare/sanitas-skincare.jpg
 brand: "Sanitas"
 productName: "Brightening Peel"

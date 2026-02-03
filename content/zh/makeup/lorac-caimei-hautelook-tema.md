@@ -1,5 +1,7 @@
 ---
 title: "Lorac 彩妆 HauteLook 特卖活动"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 slug: "lorac-caimei-hautelook-tema"
 date: 2010-09-25

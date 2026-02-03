@@ -1,5 +1,7 @@
 ---
 title: "ベネフィット ハローフローレス 新色登場"
+images:
+  - /images/makeup/benefit-hello-flawless-new-shades.jpg
 translationKey: "benefit-hello-flawless-new-shades"
 date: 2011-03-15
 categories: ["メイクアップ"]

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins de la Peau"]
 tags: ["soin des lèvres", "baume à lèvres", "lèvres gercées", "hydratation", "conseils beauté"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

@@ -1,5 +1,7 @@
 ---
 title: "Test du Gloss Raspberry Shimmer de Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 slug: "test-gloss-raspberry-shimmer-bobbi-brown"
 date: 2010-07-15

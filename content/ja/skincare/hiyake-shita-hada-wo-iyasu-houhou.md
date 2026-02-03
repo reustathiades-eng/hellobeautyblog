@@ -1,5 +1,7 @@
 ---
 title: "日焼けした肌を癒す8つの簡単な方法"
+images:
+  - /images/skincare/soothe-sunburn-tips.jpg
 translationKey: "soothe-sunburn-tips"
 date: 2010-07-20
 categories: ["スキンケア"]

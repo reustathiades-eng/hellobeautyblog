@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Hautpflege"]
 tags: ["senspa", "spa hautpflege", "luxus", "wellness"]
 images:
+  - /images/skincare/senspa-luxe-wellness-review.jpg
   - /images/skincare/senspa-luxe-wellness.jpg
 brand: "SenSpa"
 productName: "Luxe Body Polish"

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["أركونا", "جمال نظيف", "عناية طبيعية بالبشرة", "علامة سبا"]
 images:
+  - /images/skincare/arcona-skincare-review.jpg
   - /images/skincare/arcona-skincare.jpg
 brand: "Arcona"
 productName: "Magic White Ice"

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Huidverzorging"]
 tags: ["liz earle", "reiniger", "britse beauty", "natuurlijk"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Reiniger"

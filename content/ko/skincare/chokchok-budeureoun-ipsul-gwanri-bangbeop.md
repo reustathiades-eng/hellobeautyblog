@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["스킨케어"]
 tags: ["립케어", "립밤", "트인 입술", "수분", "뷰티팁"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

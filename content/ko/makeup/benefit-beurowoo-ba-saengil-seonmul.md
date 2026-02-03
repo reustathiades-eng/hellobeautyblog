@@ -1,5 +1,7 @@
 ---
 title: "베네피트 브로우 바 생일 선물"
+images:
+  - /images/makeup/benefit-brow-bar-birthday-gift.jpg
 translationKey: "benefit-brow-bar-birthday-gift"
 date: 2011-03-10
 categories: ["메이크업"]

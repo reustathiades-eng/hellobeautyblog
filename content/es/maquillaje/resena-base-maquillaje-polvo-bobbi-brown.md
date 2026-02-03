@@ -1,5 +1,7 @@
 ---
 title: "Reseña de la Base de Maquillaje en Polvo de Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-powder-foundation-review.jpg
 translationKey: "bobbi-brown-powder-foundation-review"
 slug: "resena-base-maquillaje-polvo-bobbi-brown"
 date: 2010-12-15

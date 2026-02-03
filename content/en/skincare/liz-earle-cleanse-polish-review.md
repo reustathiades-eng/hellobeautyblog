@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["liz earle", "cleanser", "hot cloth cleanser", "natural skincare", "british beauty"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Hot Cloth Cleanser"

@@ -14,7 +14,7 @@ keywords: ["Estee Lauder", "Pure Color Gloss", "błyszczyk", "makijaż ust"]
 author: ""
 authorSlug: ""
 lastmod: 2010-07-25
-images: []
----
+images:
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg---
 
 Nowa kolekcja błyszczyków do ust Estee Lauder.

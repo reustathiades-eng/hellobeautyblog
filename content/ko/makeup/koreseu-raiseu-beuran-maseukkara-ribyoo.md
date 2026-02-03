@@ -1,5 +1,7 @@
 ---
 title: "코레스 라이스 브랜 마스카라 리뷰"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "koreseu-raiseu-beuran-maseukkara-ribyoo"
 date: 2010-05-20

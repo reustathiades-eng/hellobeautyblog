@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["护肤"]
 tags: ["lizearle", "洁面", "英国护肤", "天然"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish 热布洁面膏"

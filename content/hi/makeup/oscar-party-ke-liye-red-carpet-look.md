@@ -1,5 +1,7 @@
 ---
 title: "ऑस्कर पार्टी के लिए रेड कार्पेट लुक"
+images:
+  - /images/makeup/red-carpet-oscars-party-look.jpg
 translationKey: "red-carpet-oscars-party-look"
 date: 2016-02-20
 categories: ["मेकअप"]

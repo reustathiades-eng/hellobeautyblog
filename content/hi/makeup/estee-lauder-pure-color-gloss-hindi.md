@@ -1,5 +1,7 @@
 ---
 title: "एस्टी लॉडर प्योर कलर ग्लॉस"
+images:
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg
 translationKey: "estee-lauder-pure-color-gloss"
 date: 2010-07-25
 categories: ["मेकअप"]

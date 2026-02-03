@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["スキンケア"]
 tags: ["リズアール", "クレンザー", "英国コスメ", "ナチュラル"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "クレンズ&ポリッシュ ホットクロスクレンザー"

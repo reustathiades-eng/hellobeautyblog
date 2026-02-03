@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cilt Bakımı"]
 tags: ["kate somerville", "peeling", "exfolikate", "parlak cilt"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Yoğun Peeling"

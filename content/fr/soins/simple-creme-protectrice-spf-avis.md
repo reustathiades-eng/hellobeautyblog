@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins"]
 tags: ["simple", "spf", "peau sensible", "abordable"]
 images:
+  - /images/skincare/simple-protecting-moisturizer-spf-review.jpg
   - /images/skincare/simple-protecting-moisturizer.jpg
 brand: "Simple"
 productName: "Crème Hydratante Protectrice SPF 15"

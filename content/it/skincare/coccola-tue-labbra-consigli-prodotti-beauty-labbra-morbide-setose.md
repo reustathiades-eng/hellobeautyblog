@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["cura delle labbra", "balsamo labbra", "labbra screpolate", "idratazione", "consigli beauty"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

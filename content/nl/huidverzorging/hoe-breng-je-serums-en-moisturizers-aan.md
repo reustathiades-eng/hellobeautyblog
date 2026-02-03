@@ -1,5 +1,7 @@
 ---
 title: "Hoe breng je gezichtsserums en vochtinbrengende crèmes aan"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "hoe-breng-je-serums-en-moisturizers-aan"
 date: 2010-10-25

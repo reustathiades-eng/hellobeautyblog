@@ -1,5 +1,7 @@
 ---
 title: "Recenzja pudrowego podkładu Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-powder-foundation-review.jpg
 translationKey: "bobbi-brown-powder-foundation-review"
 slug: "recenzja-pudrowego-podkladu-bobbi-brown"
 date: 2010-12-15

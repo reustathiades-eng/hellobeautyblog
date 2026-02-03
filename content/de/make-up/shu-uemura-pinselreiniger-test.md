@@ -1,5 +1,7 @@
 ---
 title: "Shu Uemura Pinselreiniger im Test"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "shu-uemura-pinselreiniger-test"
 date: 2010-09-20

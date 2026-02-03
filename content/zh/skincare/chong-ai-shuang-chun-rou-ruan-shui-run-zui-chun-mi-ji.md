@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["护肤"]
 tags: ["唇部护理", "润唇膏", "唇部干裂", "保湿", "美容技巧"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

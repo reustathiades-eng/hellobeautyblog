@@ -1,5 +1,7 @@
 ---
 title: "Resenha do Gloss Labial Raspberry Shimmer da Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 date: 2010-07-15
 categories: ["Maquiagem"]

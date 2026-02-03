@@ -1,5 +1,7 @@
 ---
 title: "Recenzja pędzli Urban Decay Good Karma"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 slug: "recenzja-pedzli-urban-decay-good-karma"
 translationKey: "urban-decay-good-karma-brushes-review"
 date: 2010-08-25

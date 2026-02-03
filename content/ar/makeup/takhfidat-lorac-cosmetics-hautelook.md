@@ -1,5 +1,7 @@
 ---
 title: "تخفيضات لوراك كوزماتيكس على هوت لوك"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 date: 2010-09-25
 categories: ["مكياج"]

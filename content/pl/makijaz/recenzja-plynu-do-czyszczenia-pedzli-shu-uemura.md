@@ -1,5 +1,7 @@
 ---
 title: "Recenzja płynu do czyszczenia pędzli Shu Uemura"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "recenzja-plynu-do-czyszczenia-pedzli-shu-uemura"
 date: 2010-09-20

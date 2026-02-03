@@ -1,5 +1,7 @@
 ---
 title: "Bare Escentuals Bronzed Koleksiyonu"
+images:
+  - /images/makeup/bare-escentuals-bronzed-collection.jpg
 translationKey: "bare-escentuals-bronzed-collection"
 slug: "bare-escentuals-bronzed-koleksiyonu"
 date: 2011-04-20

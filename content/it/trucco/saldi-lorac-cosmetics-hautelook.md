@@ -1,5 +1,7 @@
 ---
 title: "Saldi Lorac Cosmetics su HauteLook"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 slug: "saldi-lorac-cosmetics-hautelook"
 date: 2010-09-25

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Huidverzorging"]
 tags: ["lippenverzorging", "lippenbalsem", "gebarsten lippen", "hydratatie", "beautytips"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

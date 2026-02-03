@@ -1,5 +1,7 @@
 ---
 title: "Melhores Máscaras e Dicas à Prova d'Água"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["Maquiagem"]

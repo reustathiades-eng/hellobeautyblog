@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["스킨케어"]
 tags: ["필로소피", "안티에이징", "레티놀", "주름"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "미라클 워커 안티에이징 크림"

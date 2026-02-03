@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["त्वचा की देखभाल"]
 tags: ["कॉडली", "आई क्रीम", "एंटी-एजिंग", "लक्जरी"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "प्रीमियर क्रू द आई क्रीम"

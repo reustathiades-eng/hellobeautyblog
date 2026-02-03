@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["护肤"]
 tags: ["arcona", "纯净美容", "天然护肤", "SPA品牌"]
 images:
+  - /images/skincare/arcona-skincare-review.jpg
   - /images/skincare/arcona-skincare.jpg
 brand: "Arcona"
 productName: "Magic White Ice"

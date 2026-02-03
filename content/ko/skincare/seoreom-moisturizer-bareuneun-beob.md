@@ -1,5 +1,7 @@
 ---
 title: "페이스 세럼과 모이스처라이저 바르는 법"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 date: 2010-10-25
 categories: ["스킨케어"]

@@ -1,5 +1,7 @@
 ---
 title: "Resenha Maybelline Color Whisper"
+images:
+  - /images/makeup/maybelline-color-whisper-review.jpg
 translationKey: "maybelline-color-whisper-review"
 date: 2013-03-20
 categories: ["Maquiagem"]

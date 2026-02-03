@@ -1,5 +1,7 @@
 ---
 title: "Test et Swatches du Blush Bella Bamba de Benefit"
+images:
+  - /images/makeup/benefit-bella-bamba-review-swatches.jpg
 translationKey: "benefit-bella-bamba-review-swatches"
 date: 2011-02-15
 categories: ["Maquillage"]

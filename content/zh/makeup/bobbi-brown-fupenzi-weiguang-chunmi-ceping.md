@@ -1,5 +1,7 @@
 ---
 title: "芭比布朗覆盆子微光唇蜜测评"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 date: 2010-07-15
 categories: ["彩妆"]

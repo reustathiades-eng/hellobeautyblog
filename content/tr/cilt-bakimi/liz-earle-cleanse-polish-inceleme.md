@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cilt Bakımı"]
 tags: ["liz earle", "temizleyici", "ingiliz güzellik", "doğal"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Temizleyici"

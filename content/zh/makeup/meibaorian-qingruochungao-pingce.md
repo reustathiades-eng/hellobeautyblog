@@ -1,5 +1,7 @@
 ---
 title: "美宝莲轻柔唇膏试色评测"
+images:
+  - /images/makeup/maybelline-color-whisper-review.jpg
 translationKey: "maybelline-color-whisper-review"
 date: 2013-03-20
 categories: ["彩妆"]

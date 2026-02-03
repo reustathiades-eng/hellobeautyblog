@@ -1,5 +1,7 @@
 ---
 title: "Benefit Brow Bar Verjaardagscadeau"
+images:
+  - /images/makeup/benefit-brow-bar-birthday-gift.jpg
 slug: "benefit-brow-bar-verjaardagscadeau"
 translationKey: "benefit-brow-bar-birthday-gift"
 date: 2011-03-10

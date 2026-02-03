@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cilt Bakımı"]
 tags: ["senspa", "spa cilt bakımı", "lüks", "wellness"]
 images:
+  - /images/skincare/senspa-luxe-wellness-review.jpg
   - /images/skincare/senspa-luxe-wellness.jpg
 brand: "SenSpa"
 productName: "Luxe Body Polish"

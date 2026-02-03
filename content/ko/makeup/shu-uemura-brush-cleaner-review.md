@@ -1,5 +1,7 @@
 ---
 title: "슈 우에무라 브러시 클리너 리뷰"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 date: 2010-09-20
 categories: ["메이크업"]

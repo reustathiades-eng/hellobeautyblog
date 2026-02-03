@@ -1,5 +1,7 @@
 ---
 title: "Reseña del Limpiador de Brochas de Shu Uemura"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "resena-limpiador-brochas-shu-uemura"
 date: 2010-09-20

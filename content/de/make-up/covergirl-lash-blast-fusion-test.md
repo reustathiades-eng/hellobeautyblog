@@ -1,5 +1,7 @@
 ---
 title: "CoverGirl Lash Blast Fusion Test"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 slug: "covergirl-lash-blast-fusion-test"
 date: 2010-08-20

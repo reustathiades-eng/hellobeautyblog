@@ -1,5 +1,7 @@
 ---
 title: "Najlepsze tusze do rzęs i sposób na wodoodporność"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["Makijaż"]

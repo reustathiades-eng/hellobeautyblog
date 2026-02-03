@@ -1,5 +1,7 @@
 ---
 title: "مراجعة ملمع الشفاه راسبيري شيمر من بوبي براون"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 slug: "bobbi-brown-raspberry-shimmer-lip-gloss-review-ar"
 date: 2010-07-15

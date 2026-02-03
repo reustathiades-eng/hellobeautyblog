@@ -1,5 +1,7 @@
 ---
 title: "바비 브라운 라즈베리 쉬머 립글로스 리뷰"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 slug: "babi-beuraun-rajeuberi-swimeo-libgeulloseu-ribyu"
 date: 2010-07-15

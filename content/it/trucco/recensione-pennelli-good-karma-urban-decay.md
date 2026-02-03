@@ -1,5 +1,7 @@
 ---
 title: "Recensione Pennelli Good Karma di Urban Decay"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 translationKey: "urban-decay-good-karma-brushes-review"
 slug: "recensione-pennelli-good-karma-urban-decay"
 date: 2010-08-25

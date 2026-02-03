@@ -1,5 +1,7 @@
 ---
 title: "مراجعة آي تي كوزمتكس فيتاليتي ليب فلاش - مثالي للصيف"
+images:
+  - /images/makeup/it-cosmetics-vitality-lip-flush-review.jpg
 translationKey: "it-cosmetics-vitality-lip-flush-review"
 date: 2012-07-15
 slug: مراجعة-احمر-شفاه-it-cosmetics-vitality-lip-flush

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cilt Bakımı"]
 tags: ["dudak bakımı", "dudak balmı", "çatlamış dudaklar", "nemlendirme", "güzellik ipuçları"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

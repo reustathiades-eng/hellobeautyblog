@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cuidados com a Pele"]
 tags: ["cuidados labiais", "hidratante labial", "lábios rachados", "hidratação", "dicas de beleza"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

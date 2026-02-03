@@ -1,5 +1,7 @@
 ---
 title: "Recenzja Błyszczyka do Ust Bobbi Brown Raspberry Shimmer"
+images:
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
 translationKey: "bobbi-brown-raspberry-shimmer-lip-gloss"
 slug: "recenzja-blyszczyka-bobbi-brown-raspberry-shimmer"
 date: 2010-07-15

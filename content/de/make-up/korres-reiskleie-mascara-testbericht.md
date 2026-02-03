@@ -1,5 +1,7 @@
 ---
 title: "Korres Reiskleie Mascara Testbericht"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "korres-reiskleie-mascara-testbericht"
 date: 2010-05-20

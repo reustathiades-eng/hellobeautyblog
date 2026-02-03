@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cuidado de la Piel"]
 tags: ["caudalie", "contorno de ojos", "antiedad", "lujo"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "Premier Cru La Crema de Ojos"

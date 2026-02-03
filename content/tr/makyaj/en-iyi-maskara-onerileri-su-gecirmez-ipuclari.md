@@ -1,5 +1,7 @@
 ---
 title: "En İyi Maskaralar ve Su Geçirmez Yapma İpuçları"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 slug: "en-iyi-maskara-onerileri-su-gecirmez-ipuclari"
 date: 2012-08-20

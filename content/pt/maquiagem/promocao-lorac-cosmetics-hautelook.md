@@ -1,5 +1,7 @@
 ---
 title: "Promoção Lorac Cosmetics na HauteLook"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 slug: "promocao-lorac-cosmetics-hautelook"
 date: 2010-09-25

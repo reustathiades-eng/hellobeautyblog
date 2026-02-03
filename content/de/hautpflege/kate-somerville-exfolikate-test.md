@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Hautpflege"]
 tags: ["kate somerville", "peeling", "exfolikate", "strahlende haut"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Intensiv Peeling"

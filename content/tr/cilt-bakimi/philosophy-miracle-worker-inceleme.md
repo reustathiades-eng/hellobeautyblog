@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cilt Bakımı"]
 tags: ["philosophy", "anti-aging", "retinol"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "Miracle Worker"

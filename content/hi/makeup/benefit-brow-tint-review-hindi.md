@@ -1,5 +1,7 @@
 ---
 title: "बेनिफिट ब्रो टिंट रिव्यू"
+images:
+  - /images/makeup/benefit-brow-tint-review.jpg
 translationKey: "benefit-brow-tint-review"
 date: 2010-08-15
 categories: ["मेकअप"]

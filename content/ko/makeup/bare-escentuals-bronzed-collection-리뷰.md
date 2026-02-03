@@ -1,5 +1,7 @@
 ---
 title: "베어 에센셜 브론즈드 컬렉션"
+images:
+  - /images/makeup/bare-escentuals-bronzed-collection.jpg
 translationKey: "bare-escentuals-bronzed-collection"
 slug: "bare-escentuals-bronzed-collection-리뷰"
 date: 2011-04-20

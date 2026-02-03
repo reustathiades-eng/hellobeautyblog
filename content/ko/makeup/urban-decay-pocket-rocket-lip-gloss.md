@@ -1,5 +1,7 @@
 ---
 title: "어반디케이 포켓 로켓 립글로스 리뷰"
+images:
+  - /images/makeup/urban-decay-pocket-rocket-lip-gloss.jpg
 translationKey: "urban-decay-pocket-rocket-lip-gloss"
 date: 2010-07-20
 slug: eoban-dikeyi-poket-roket-ripgeulloseu-ribyu

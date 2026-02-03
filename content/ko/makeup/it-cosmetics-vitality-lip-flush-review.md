@@ -1,5 +1,7 @@
 ---
 title: "IT 코스메틱 바이탈리티 립 플러쉬 리뷰 - 여름에 딱 좋은 제품"
+images:
+  - /images/makeup/it-cosmetics-vitality-lip-flush-review.jpg
 translationKey: "it-cosmetics-vitality-lip-flush-review"
 date: 2012-07-15
 slug: it-cosmetics-vitality-lip-flush-ribyoo

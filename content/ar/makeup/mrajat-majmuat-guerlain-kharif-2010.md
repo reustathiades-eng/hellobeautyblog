@@ -1,5 +1,7 @@
 ---
 title: "مراجعة مجموعة غيرلان لخريف 2010"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 translationKey: "guerlain-fall-2010-collection-review"
 slug: "mrajat-majmuat-guerlain-kharif-2010"
 date: 2010-10-10

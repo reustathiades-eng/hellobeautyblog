@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Pielęgnacja skóry"]
 tags: ["pielęgnacja ust", "balsam do ust", "popękane usta", "nawilżanie", "porady beauty"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

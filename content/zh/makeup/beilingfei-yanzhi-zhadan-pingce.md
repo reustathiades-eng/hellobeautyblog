@@ -15,7 +15,7 @@ keywords: ["贝玲妃", "Sugarbomb", "腮红", "彩妆"]
 author: ""
 authorSlug: ""
 lastmod: 2009-12-15
-images: []
----
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg---
 
 贝玲妃Sugarbomb胭脂炸弹评测。

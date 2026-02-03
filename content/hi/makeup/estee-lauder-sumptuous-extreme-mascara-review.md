@@ -1,5 +1,7 @@
 ---
 title: "एस्टी लॉडर सम्प्चुअस एक्सट्रीम मस्कारा रिव्यू"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: estee-lauder-sumptuous-extreme-mascara-hindi-review

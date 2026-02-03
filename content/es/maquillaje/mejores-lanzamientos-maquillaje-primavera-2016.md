@@ -1,5 +1,7 @@
 ---
 title: "Los Mejores Lanzamientos de Maquillaje para la Primavera 2016"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 date: 2016-03-15
 slug: "mejores-lanzamientos-maquillaje-primavera-2016"

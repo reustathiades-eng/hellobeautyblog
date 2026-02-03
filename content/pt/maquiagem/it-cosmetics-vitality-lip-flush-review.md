@@ -1,5 +1,7 @@
 ---
 title: "Review IT Cosmetics Vitality Lip Flush - Perfeito para o Verão"
+images:
+  - /images/makeup/it-cosmetics-vitality-lip-flush-review.jpg
 translationKey: "it-cosmetics-vitality-lip-flush-review"
 date: 2012-07-15
 slug: review-it-cosmetics-vitality-lip-flush-verao

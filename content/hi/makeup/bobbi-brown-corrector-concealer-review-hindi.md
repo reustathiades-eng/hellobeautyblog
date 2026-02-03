@@ -1,5 +1,7 @@
 ---
 title: "बॉबी ब्राउन करेक्टर और कंसीलर रिव्यू"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "bobbi-brown-corrector-concealer-review-hindi"
 date: 2011-03-25

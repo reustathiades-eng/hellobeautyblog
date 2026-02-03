@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Pielęgnacja Skóry"]
 tags: ["kate somerville", "peeling", "exfolikate", "promienna cera"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Intensywny Peeling"

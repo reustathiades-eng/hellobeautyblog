@@ -1,5 +1,7 @@
 ---
 title: "에스티 로더 퓨어 컬러 글로스"
+images:
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg
 translationKey: "estee-lauder-pure-color-gloss"
 slug: "estee-lauder-pyueo-keolleo-geulloseu"
 date: 2010-07-25

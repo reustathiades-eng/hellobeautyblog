@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["护肤"]
 tags: ["philosophy", "抗衰老", "视黄醇", "皱纹"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "奇迹工作者抗衰老面霜"

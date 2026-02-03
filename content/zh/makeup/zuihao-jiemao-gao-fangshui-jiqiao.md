@@ -1,5 +1,7 @@
 ---
 title: "最好用的睫毛膏推荐和防水小技巧"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["彩妆"]

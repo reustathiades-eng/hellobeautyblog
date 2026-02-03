@@ -1,5 +1,7 @@
 ---
 title: "Bare Escentuals 古铜光采系列"
+images:
+  - /images/makeup/bare-escentuals-bronzed-collection.jpg
 translationKey: "bare-escentuals-bronzed-collection"
 slug: "bare-escentuals-gutong-guangcai-xilie"
 date: 2011-04-20

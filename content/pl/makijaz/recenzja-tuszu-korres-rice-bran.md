@@ -1,5 +1,7 @@
 ---
 title: "Recenzja tuszu do rzęs Korres Rice Bran"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "recenzja-tuszu-korres-rice-bran"
 date: 2010-05-20

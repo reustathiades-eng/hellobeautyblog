@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["त्वचा की देखभाल"]
 tags: ["लिज़ अर्ले", "क्लींजर", "ब्रिटिश ब्यूटी", "नेचुरल"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "क्लींज़ एंड पॉलिश हॉट क्लॉथ क्लींजर"

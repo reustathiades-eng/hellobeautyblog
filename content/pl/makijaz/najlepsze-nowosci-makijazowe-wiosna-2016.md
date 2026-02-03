@@ -1,5 +1,7 @@
 ---
 title: "Najlepsze nowości makijażowe na wiosnę 2016"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 slug: "najlepsze-nowosci-makijazowe-wiosna-2016"
 date: 2016-03-15

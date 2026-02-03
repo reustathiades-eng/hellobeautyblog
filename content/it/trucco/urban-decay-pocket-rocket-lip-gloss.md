@@ -1,5 +1,7 @@
 ---
 title: "Recensione Urban Decay Pocket Rocket Lip Gloss"
+images:
+  - /images/makeup/urban-decay-pocket-rocket-lip-gloss.jpg
 translationKey: "urban-decay-pocket-rocket-lip-gloss"
 date: 2010-07-20
 slug: recensione-urban-decay-pocket-rocket-lip-gloss

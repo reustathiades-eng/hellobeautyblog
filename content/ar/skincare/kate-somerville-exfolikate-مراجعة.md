@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["العناية بالبشرة"]
 tags: ["كيت سومرفيل", "تقشير", "إكسفوليكيت", "بشرة مشرقة"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "إكسفوليكيت علاج التقشير المكثف"

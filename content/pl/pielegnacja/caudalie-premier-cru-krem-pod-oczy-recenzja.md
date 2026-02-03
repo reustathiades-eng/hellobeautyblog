@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Pielęgnacja Skóry"]
 tags: ["caudalie", "krem pod oczy", "anti-aging", "luksus"]
 images:
+  - /images/skincare/caudalie-premier-cru-eye-cream-review.jpg
   - /images/skincare/caudalie-premier-cru-eye-cream.jpg
 brand: "Caudalie"
 productName: "Premier Cru Krem pod Oczy"

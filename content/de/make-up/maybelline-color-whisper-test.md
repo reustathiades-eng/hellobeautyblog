@@ -1,5 +1,7 @@
 ---
 title: "Maybelline Color Whisper Test"
+images:
+  - /images/makeup/maybelline-color-whisper-review.jpg
 translationKey: "maybelline-color-whisper-review"
 slug: "maybelline-color-whisper-test"
 date: 2013-03-20

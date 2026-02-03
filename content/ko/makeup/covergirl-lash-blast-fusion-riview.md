@@ -1,5 +1,7 @@
 ---
 title: "커버걸 래쉬 블라스트 퓨전 리뷰"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 slug: "covergirl-lash-blast-fusion-riview"
 date: 2010-08-20

@@ -1,5 +1,7 @@
 ---
 title: "ベネフィット ブロウバーのバースデーギフト"
+images:
+  - /images/makeup/benefit-brow-bar-birthday-gift.jpg
 translationKey: "benefit-brow-bar-birthday-gift"
 slug: "benefit-brow-bar-birthday-gift-japanese"
 date: 2011-03-10

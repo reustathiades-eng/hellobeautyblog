@@ -1,5 +1,7 @@
 ---
 title: "2015 홀리데이 뷰티 컬렉션"
+images:
+  - /images/makeup/holiday-beauty-collections-2015.jpg
 translationKey: "holiday-beauty-collections-2015"
 date: 2015-11-15
 categories: ["메이크업"]

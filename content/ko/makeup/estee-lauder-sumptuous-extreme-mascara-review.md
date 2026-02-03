@@ -1,5 +1,7 @@
 ---
 title: "에스티 로더 섬프추어스 익스트림 마스카라 리뷰"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: estee-lauder-sumptuous-extreme-mascara-riview

@@ -1,5 +1,7 @@
 ---
 title: "Recenzja tuszu do rzęs Estée Lauder Sumptuous Extreme"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: recenzja-tuszu-estee-lauder-sumptuous-extreme

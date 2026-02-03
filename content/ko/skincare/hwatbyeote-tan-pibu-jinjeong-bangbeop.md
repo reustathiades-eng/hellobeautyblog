@@ -1,5 +1,7 @@
 ---
 title: "햇볕에 탄 피부를 진정시키는 8가지 쉬운 방법"
+images:
+  - /images/skincare/soothe-sunburn-tips.jpg
 translationKey: "soothe-sunburn-tips"
 date: 2010-07-20
 categories: ["스킨케어"]

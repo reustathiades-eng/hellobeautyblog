@@ -1,5 +1,7 @@
 ---
 title: "Comment appliquer les sérums et les crèmes hydratantes"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 date: 2010-10-25
 slug: "comment-appliquer-serums-cremes-hydratantes"

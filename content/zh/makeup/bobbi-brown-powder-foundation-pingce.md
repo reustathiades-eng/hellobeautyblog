@@ -1,5 +1,7 @@
 ---
 title: "芭比波朗粉饼粉底测评"
+images:
+  - /images/makeup/bobbi-brown-powder-foundation-review.jpg
 translationKey: "bobbi-brown-powder-foundation-review"
 slug: "bobbi-brown-powder-foundation-pingce"
 date: 2010-12-15

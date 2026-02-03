@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["स्किनकेयर"]
 tags: ["सैनिटास", "मेडिकल ग्रेड", "प्रोफेशनल स्किनकेयर", "प्राकृतिक"]
 images:
+  - /images/skincare/sanitas-natural-skincare-review.jpg
   - /images/skincare/sanitas-skincare.jpg
 brand: "Sanitas"
 productName: "Brightening Peel"

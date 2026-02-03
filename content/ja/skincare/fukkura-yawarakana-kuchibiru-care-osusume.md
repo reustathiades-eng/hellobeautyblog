@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["スキンケア"]
 tags: ["リップケア", "リップバーム", "唇の荒れ", "保湿", "美容のコツ"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

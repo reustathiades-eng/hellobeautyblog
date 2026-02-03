@@ -1,5 +1,7 @@
 ---
 title: "Análise da Coleção Outono 2010 da Guerlain"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 slug: "analise-colecao-outono-2010-guerlain"
 translationKey: "guerlain-fall-2010-collection-review"
 date: 2010-10-10

@@ -1,5 +1,7 @@
 ---
 title: "Resenha do Rímel de Farelo de Arroz da Korres"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "resenha-rimel-farelo-arroz-korres"
 date: 2010-05-20

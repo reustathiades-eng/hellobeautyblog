@@ -1,5 +1,7 @@
 ---
 title: "Die besten Mascaras und wasserfeste Tipps"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 slug: "beste-mascaras-wasserfeste-tipps"
 date: 2012-08-20

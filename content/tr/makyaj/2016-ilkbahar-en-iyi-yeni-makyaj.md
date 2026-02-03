@@ -1,5 +1,7 @@
 ---
 title: "2016 İlkbahar Sezonunun En İyi Yeni Makyaj Ürünleri"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 date: 2016-03-15
 categories: ["Makyaj"]

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["スキンケア"]
 tags: ["ケイトソマービル", "ピーリング", "エクスフォリケイト", "ツヤ肌"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "エクスフォリケイト インテンシブ ピーリング"

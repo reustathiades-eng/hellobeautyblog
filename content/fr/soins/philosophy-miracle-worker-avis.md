@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins"]
 tags: ["philosophy", "anti-âge", "rétinol", "rides"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "Miracle Worker Crème Anti-Âge"

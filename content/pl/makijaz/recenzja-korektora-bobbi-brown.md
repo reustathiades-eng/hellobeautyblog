@@ -1,5 +1,7 @@
 ---
 title: "Recenzja Korektora i Korektora Bobbi Brown"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "recenzja-korektora-bobbi-brown"
 date: 2011-03-25

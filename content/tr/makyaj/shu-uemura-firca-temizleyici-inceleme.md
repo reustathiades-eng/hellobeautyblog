@@ -1,5 +1,7 @@
 ---
 title: "Shu Uemura Fırça Temizleyici İncelemesi"
+images:
+  - /images/makeup/shu-uemura-brush-cleaner-review.jpg
 translationKey: "shu-uemura-brush-cleaner-review"
 slug: "shu-uemura-firca-temizleyici-inceleme"
 date: 2010-09-20

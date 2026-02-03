@@ -1,5 +1,7 @@
 ---
 title: "ロラック コスメティクス ハウトルック セール"
+images:
+  - /images/makeup/lorac-cosmetics-hautelook-sale.jpg
 translationKey: "lorac-cosmetics-hautelook-sale"
 date: 2010-09-25
 slug: "lorac-cosmetics-hautelook-sale-jp"

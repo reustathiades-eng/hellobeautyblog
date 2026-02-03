@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["स्किनकेयर"]
 tags: ["आर्कोना", "क्लीन ब्यूटी", "नेचुरल स्किनकेयर", "स्पा ब्रांड"]
 images:
+  - /images/skincare/arcona-skincare-review.jpg
   - /images/skincare/arcona-skincare.jpg
 brand: "Arcona"
 productName: "Magic White Ice"

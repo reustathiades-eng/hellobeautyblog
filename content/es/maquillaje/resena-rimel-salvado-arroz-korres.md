@@ -1,5 +1,7 @@
 ---
 title: "Reseña del Rímel de Salvado de Arroz de Korres"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "resena-rimel-salvado-arroz-korres"
 date: 2010-05-20

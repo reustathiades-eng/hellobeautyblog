@@ -1,5 +1,7 @@
 ---
 title: "베네핏 슈가밤 리뷰"
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg
 translationKey: "benefit-sugarbomb-review"
 date: 2009-12-15
 categories: ["메이크업"]

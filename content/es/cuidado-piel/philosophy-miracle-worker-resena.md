@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cuidado de la Piel"]
 tags: ["philosophy", "antiedad", "retinol", "arrugas"]
 images:
+  - /images/skincare/philosophy-miracle-worker-review.jpg
   - /images/skincare/philosophy-miracle-worker.jpg
 brand: "Philosophy"
 productName: "Miracle Worker Crema Anti-Edad"

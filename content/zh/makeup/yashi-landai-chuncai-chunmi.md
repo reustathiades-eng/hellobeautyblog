@@ -1,5 +1,7 @@
 ---
 title: "雅诗兰黛晶透莹彩唇蜜"
+images:
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg
 translationKey: "estee-lauder-pure-color-gloss"
 slug: "yashi-landai-chuncai-chunmi"
 date: 2010-07-25

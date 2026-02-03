@@ -1,5 +1,7 @@
 ---
 title: "Estee Lauder Pure Color Gloss"
+images:
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg
 translationKey: "estee-lauder-pure-color-gloss"
 slug: "estee-lauder-pure-color-gloss"
 date: 2010-07-25

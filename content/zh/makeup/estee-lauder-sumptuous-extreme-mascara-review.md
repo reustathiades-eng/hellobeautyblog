@@ -1,5 +1,7 @@
 ---
 title: "雅诗兰黛浓密极致睫毛膏测评"
+images:
+  - /images/makeup/estee-lauder-sumptuous-extreme-mascara-review.jpg
 translationKey: "estee-lauder-sumptuous-extreme-mascara-review"
 date: 2011-03-15
 slug: ya-shi-lan-dai-nong-mi-ji-zhi-jie-mao-gao-ce-ping

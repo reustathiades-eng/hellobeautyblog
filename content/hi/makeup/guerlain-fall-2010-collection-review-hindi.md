@@ -1,5 +1,7 @@
 ---
 title: "गेरलेन फॉल 2010 कलेक्शन रिव्यू"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 translationKey: "guerlain-fall-2010-collection-review"
 slug: "guerlain-fall-2010-collection-review-hindi"
 date: 2010-10-10

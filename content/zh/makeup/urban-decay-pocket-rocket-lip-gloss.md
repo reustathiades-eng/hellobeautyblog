@@ -1,5 +1,7 @@
 ---
 title: "Urban Decay Pocket Rocket 唇蜜测评"
+images:
+  - /images/makeup/urban-decay-pocket-rocket-lip-gloss.jpg
 translationKey: "urban-decay-pocket-rocket-lip-gloss"
 date: 2010-07-20
 slug: urban-decay-pocket-rocket-chun-mi

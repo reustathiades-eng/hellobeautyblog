@@ -1,5 +1,7 @@
 ---
 title: "Bobbi Brown Corrector ve Kapatıcı İncelemesi"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "bobbi-brown-corrector-kapatici-incelemesi"
 date: 2011-03-25

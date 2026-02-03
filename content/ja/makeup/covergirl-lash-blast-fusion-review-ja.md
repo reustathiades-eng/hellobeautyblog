@@ -1,5 +1,7 @@
 ---
 title: "カバーガール ラッシュブラスト フュージョン レビュー"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 date: 2010-08-20
 categories: ["メイクアップ"]

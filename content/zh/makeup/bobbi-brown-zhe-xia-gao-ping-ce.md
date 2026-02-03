@@ -1,5 +1,7 @@
 ---
 title: "芭比波朗遮瑕膏和校色膏测评"
+images:
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
 translationKey: "bobbi-brown-corrector-concealer-review"
 slug: "bobbi-brown-zhe-xia-gao-ping-ce"
 date: 2011-03-25

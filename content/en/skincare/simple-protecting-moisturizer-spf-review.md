@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Skincare"]
 tags: ["simple", "spf", "moisturizer", "sensitive skin", "affordable"]
 images:
+  - /images/skincare/simple-protecting-moisturizer-spf-review.jpg
   - /images/skincare/simple-protecting-moisturizer.jpg
 brand: "Simple"
 productName: "Protecting Light Moisturizer SPF 15"

@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Pielęgnacja Skóry"]
 tags: ["liz earle", "żel oczyszczający", "brytyjska pielęgnacja", "naturalny"]
 images:
+  - /images/skincare/liz-earle-cleanse-polish-review.jpg
   - /images/skincare/liz-earle-cleanse-polish.jpg
 brand: "Liz Earle"
 productName: "Cleanse & Polish Żel Oczyszczający"

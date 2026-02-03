@@ -1,5 +1,7 @@
 ---
 title: "Świąteczne Kolekcje Kosmetyczne 2015"
+images:
+  - /images/makeup/holiday-beauty-collections-2015.jpg
 translationKey: "holiday-beauty-collections-2015"
 slug: "swiateczne-kolekcje-kosmetyczne-2015"
 date: 2015-11-15

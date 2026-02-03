@@ -1,5 +1,7 @@
 ---
 title: "Recenzja Tuszu do Rzęs CoverGirl Lash Blast Fusion"
+images:
+  - /images/makeup/covergirl-lash-blast-fusion-review.jpg
 translationKey: "covergirl-lash-blast-fusion-review"
 slug: "recenzja-tuszu-covergirl-lash-blast-fusion"
 date: 2010-08-20

@@ -14,7 +14,7 @@ keywords: ["어반 디케이", "굿 카르마 브러쉬", "메이크업 브러�
 author: ""
 authorSlug: ""
 lastmod: 2010-08-25
-images: []
----
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg---
 
 어반 디케이 굿 카르마 브러쉬 리뷰입니다.

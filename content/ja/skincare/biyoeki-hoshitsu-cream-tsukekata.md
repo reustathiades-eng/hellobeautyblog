@@ -1,5 +1,7 @@
 ---
 title: "美容液と保湿クリームの正しい使い方"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "biyoeki-hoshitsu-cream-tsukekata"
 date: 2010-10-25

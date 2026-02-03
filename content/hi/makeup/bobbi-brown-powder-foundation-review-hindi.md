@@ -1,5 +1,7 @@
 ---
 title: "बॉबी ब्राउन पाउडर फाउंडेशन रिव्यू"
+images:
+  - /images/makeup/bobbi-brown-powder-foundation-review.jpg
 translationKey: "bobbi-brown-powder-foundation-review"
 slug: "bobbi-brown-powder-foundation-review-hindi"
 date: 2010-12-15

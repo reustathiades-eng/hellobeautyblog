@@ -1,5 +1,7 @@
 ---
 title: "2016春季最佳新品彩妆"
+images:
+  - /images/makeup/best-makeup-spring-2016.jpg
 translationKey: "best-makeup-spring-2016"
 date: 2016-03-15
 categories: ["彩妆"]

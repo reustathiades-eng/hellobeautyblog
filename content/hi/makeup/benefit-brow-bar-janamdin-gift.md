@@ -1,5 +1,7 @@
 ---
 title: "बेनिफिट ब्रो बार बर्थडे गिफ्ट"
+images:
+  - /images/makeup/benefit-brow-bar-birthday-gift.jpg
 translationKey: "benefit-brow-bar-birthday-gift"
 slug: "benefit-brow-bar-janamdin-gift"
 date: 2011-03-10

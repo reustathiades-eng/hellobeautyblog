@@ -1,5 +1,7 @@
 ---
 title: "फेस सीरम और मॉइस्चराइज़र लगाने का सही तरीका"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 date: 2010-10-25
 categories: ["स्किनकेयर"]

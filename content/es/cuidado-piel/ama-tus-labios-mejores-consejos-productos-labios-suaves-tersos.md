@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Cuidado de la Piel"]
 tags: ["cuidado labial", "bálsamo labial", "labios agrietados", "hidratación", "consejos de belleza"]
 images:
+  - /images/skincare/soft-supple-lips-tips.jpg
   - /images/skincare/soft-supple-lips-guide.jpg
 brand: "Various"
 productName: "Lip Care Guide"

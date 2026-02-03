@@ -1,5 +1,7 @@
 ---
 title: "Guerlain Herfst 2010 Collectie Review"
+images:
+  - /images/makeup/guerlain-fall-2010-collection-review.jpg
 slug: "guerlain-herfst-2010-collectie-review"
 translationKey: "guerlain-fall-2010-collection-review"
 date: 2010-10-10

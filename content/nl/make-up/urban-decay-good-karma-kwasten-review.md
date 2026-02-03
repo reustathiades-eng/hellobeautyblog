@@ -1,5 +1,7 @@
 ---
 title: "Urban Decay Good Karma Kwasten Review"
+images:
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
 translationKey: "urban-decay-good-karma-brushes-review"
 date: 2010-08-25
 categories: ["Make-up"]

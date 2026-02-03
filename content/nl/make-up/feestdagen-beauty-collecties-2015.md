@@ -1,5 +1,7 @@
 ---
 title: "Feestdagen Beauty Collecties 2015"
+images:
+  - /images/makeup/holiday-beauty-collections-2015.jpg
 translationKey: "holiday-beauty-collections-2015"
 date: 2015-11-15
 slug: "feestdagen-beauty-collecties-2015"

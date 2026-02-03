@@ -1,5 +1,7 @@
 ---
 title: "Benefit Hello Flawless Novos Tons"
+images:
+  - /images/makeup/benefit-hello-flawless-new-shades.jpg
 translationKey: "benefit-hello-flawless-new-shades"
 slug: "benefit-hello-flawless-novos-tons"
 date: 2011-03-15

@@ -1,5 +1,7 @@
 ---
 title: "Come Applicare Sieri e Creme Idratanti per il Viso"
+images:
+  - /images/skincare/how-to-apply-serums-moisturizers.jpg
 translationKey: "how-to-apply-serums-moisturizers"
 slug: "come-applicare-sieri-creme-idratanti"
 date: 2010-10-25

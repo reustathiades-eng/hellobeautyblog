@@ -1,5 +1,7 @@
 ---
 title: "Benefit 糖霜腮红评测"
+images:
+  - /images/makeup/benefit-sugarbomb-blush-review.jpg
 translationKey: "benefit-sugarbomb-blush-review"
 slug: "benefit-tangshuan-saihong-pingce"
 date: 2010-01-20

@@ -1,5 +1,7 @@
 ---
 title: "Recenzja różu Benefit Sugarbomb"
+images:
+  - /images/makeup/benefit-sugarbomb-blush-review.jpg
 translationKey: "benefit-sugarbomb-blush-review"
 slug: "recenzja-rozu-benefit-sugarbomb"
 date: 2010-01-20

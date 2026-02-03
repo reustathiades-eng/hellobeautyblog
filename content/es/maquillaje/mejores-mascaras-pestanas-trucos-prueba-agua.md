@@ -1,5 +1,7 @@
 ---
 title: "Las Mejores Máscaras de Pestañas y Trucos para Hacerlas a Prueba de Agua"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["Maquillaje"]

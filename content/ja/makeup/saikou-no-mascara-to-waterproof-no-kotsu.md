@@ -1,5 +1,7 @@
 ---
 title: "最高のマスカラとウォータープルーフのコツ"
+images:
+  - /images/makeup/best-mascaras-waterproof-tips.jpg
 translationKey: "best-mascaras-waterproof-tips"
 date: 2012-08-20
 categories: ["メイクアップ"]

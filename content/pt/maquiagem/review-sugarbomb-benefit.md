@@ -1,5 +1,7 @@
 ---
 title: "Review Sugarbomb da Benefit"
+images:
+  - /images/makeup/benefit-sugarbomb-review.jpg
 translationKey: "benefit-sugarbomb-review"
 slug: "review-sugarbomb-benefit"
 date: 2009-12-15

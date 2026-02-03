@@ -8,6 +8,7 @@ author: "Emma Collins"
 categories: ["Soins"]
 tags: ["kate somerville", "exfoliant", "peeling", "éclat"]
 images:
+  - /images/skincare/kate-somerville-review.jpg
   - /images/skincare/kate-somerville-exfolikate.jpg
 brand: "Kate Somerville"
 productName: "ExfoliKate Traitement Exfoliant Intensif"

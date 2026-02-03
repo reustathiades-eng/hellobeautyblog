@@ -1,5 +1,7 @@
 ---
 title: "Recensione Mascara Korres Rice Bran"
+images:
+  - /images/makeup/korres-rice-bran-mascara-review.jpg
 translationKey: "korres-rice-bran-mascara-review"
 slug: "recensione-mascara-korres-rice-bran"
 date: 2010-05-20

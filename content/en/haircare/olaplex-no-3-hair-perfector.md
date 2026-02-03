@@ -10,7 +10,11 @@ categories:
   - "Haircare"
 tags: ["olaplex", "hair treatment", "bond repair", "bleached hair", "color-treated", "damaged hair", "protein treatment", "weekly treatment"]
 keywords: ["olaplex no 3 review", "does olaplex 3 work on bleached hair", "olaplex hair perfector before and after", "best bond repair treatment", "olaplex no 3 vs k18", "how to use olaplex 3", "olaplex 3 results timeline"]
-images: []
+images:
+  - /images/haircare/olaplex-no-3-hair-perfector.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector-swatch.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector-2.jpg
+  - /images/haircare/olaplex-no-3-hair-perfector-3.jpg
 featured: false
 draft: false
 brand: "Olaplex"
