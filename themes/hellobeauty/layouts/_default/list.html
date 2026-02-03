@@ -22,6 +22,14 @@
   {{ $parentSection := .Parent }}
   {{ if $parentSection }}
     {{ $allProducts := $parentSection.RegularPages }}
+    <!--
+      Filtering strategy:
+      - gender/family/subfamily: direct field match (values match exactly)
+      - occasion/season: array intersect on dedicated field
+      - ALL others (brand, zone, product_type, finish, coverage, skin_type,
+        hair_type, concern, ingredient, etc.): match against the product's
+        subcategories array, which contains slugs matching subcategory_value
+    -->
     {{ if eq $subcatType "gender" }}
       {{ $filteredPages = where $allProducts ".Params.gender" "eq" $subcatValue }}
     {{ else if eq $subcatType "family" }}
@@ -30,6 +38,10 @@
       {{ $filteredPages = where $allProducts ".Params.subfamily" "eq" $subcatValue }}
     {{ else if eq $subcatType "occasion" }}
       {{ $filteredPages = where $allProducts ".Params.occasion" "intersect" (slice $subcatValue) }}
+    {{ else if eq $subcatType "season" }}
+      {{ $filteredPages = where $allProducts ".Params.season" "intersect" (slice $subcatValue) }}
+    {{ else }}
+      {{ $filteredPages = where $allProducts ".Params.subcategories" "intersect" (slice $subcatValue) }}
     {{ end }}
   {{ end }}
 {{ end }}
