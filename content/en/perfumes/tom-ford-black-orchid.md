@@ -8,8 +8,8 @@ author: "Sophie Laurent"
 authorSlug: "sophie-laurent"
 categories:
   - "Perfumes"
-tags: [tom ford, black orchid, oriental spicy, patchouli, truffle, evening fragrance, winter perfume, unisex]
-keywords: [tom ford black orchid review, black orchid perfume, black orchid longevity, is black orchid worth it, best tom ford fragrances, dark oriental perfume, black orchid vs flowerbomb, unisex winter fragrance]
+tags: ["tom ford", "black orchid", "oriental spicy", "patchouli", "truffle", "evening fragrance", "winter perfume", "unisex"]
+keywords: ["tom ford black orchid review", "black orchid perfume", "black orchid longevity", "is black orchid worth it", "best tom ford fragrances", "dark oriental perfume", "black orchid vs flowerbomb", "unisex winter fragrance"]
 images:
   - /images/perfumes/tom-ford-black-orchid-swatch.jpg
   - /images/perfumes/tom-ford-black-orchid.jpg

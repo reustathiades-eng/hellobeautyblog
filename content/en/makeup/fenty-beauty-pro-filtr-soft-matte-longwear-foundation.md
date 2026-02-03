@@ -9,21 +9,19 @@ authorSlug: "isabella-romano"
 categories:
   - "Makeup"
 tags:
-  - fenty beauty
-  - foundation
-  - matte
-  - oily skin
-  - longwear
-  - full coverage
-brands:
-  - fenty-beauty
+  - "fenty beauty"
+  - "foundation"
+  - "matte"
+  - "oily skin"
+  - "longwear"
+  - "full coverage"
 keywords:
-  - fenty beauty pro filtr review
-  - best foundation for oily skin
-  - fenty beauty foundation shade match
-  - long wearing matte foundation
-  - pro filtr foundation honest review
-  - fenty beauty foundation oxidation
+  - "fenty beauty pro filtr review"
+  - "best foundation for oily skin"
+  - "fenty beauty foundation shade match"
+  - "long wearing matte foundation"
+  - "pro filtr foundation honest review"
+  - "fenty beauty foundation oxidation"
 images:
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg

@@ -8,8 +8,8 @@ author: "Olivia Taylor"
 authorSlug: "olivia-taylor"
 categories:
   - "Haircare"
-tags: [olaplex, hair treatment, damage repair, bleached hair, bond builder, color-treated, weekly treatment]
-keywords: [olaplex no 3 review, olaplex hair perfector before after, does olaplex 3 work on bleached hair, best bond repair treatment, olaplex no 3 damaged hair, how often use olaplex 3]
+tags: ["olaplex", "hair treatment", "damage repair", "bleached hair", "bond builder", "color-treated", "weekly treatment"]
+keywords: ["olaplex no 3 review", "olaplex hair perfector before after", "does olaplex 3 work on bleached hair", "best bond repair treatment", "olaplex no 3 damaged hair", "how often use olaplex 3"]
 images:
   - /images/haircare/olaplex-no-3-hair-perfector-swatch.jpg
   - /images/haircare/olaplex-no-3-hair-perfector.jpg
