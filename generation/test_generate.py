@@ -12,7 +12,7 @@ PRODUCTS = [
         "name": "Black Orchid",
         "slug": "tom-ford-black-orchid",
         "gender": "Unisex",
-        "subcategories": ["unisex", "oriental", "romantic", "winter", "evening", "oriental-spicy"]
+        "subcategories": ["Unisex", "oriental", "Romantic", "Winter", "Evening", "oriental-spicy"]
     },
     {
         "category": "skincare",
@@ -26,14 +26,14 @@ PRODUCTS = [
         "brand": "Fenty Beauty",
         "name": "Pro Filt'r Soft Matte Longwear Foundation",
         "slug": "fenty-beauty-pro-filtr-soft-matte-longwear-foundation",
-        "subcategories": ["matte", "fenty-beauty", "full-coverage", "face", "longwear", "foundation"]
+        "subcategories": ["matte", "fenty-beauty", "full-coverage", "face", "foundation"]
     },
     {
         "category": "haircare",
         "brand": "Olaplex",
         "name": "No. 3 Hair Perfector",
         "slug": "olaplex-no-3-hair-perfector",
-        "subcategories": ["wavy", "hair-serum", "color-protection", "straight", "damage-repair", "curly", "olaplex"]
+        "subcategories": ["wavy-hair", "serum", "color-protection", "straight-hair", "repair", "curly-hair", "olaplex"]
     }
 ]
 
