@@ -122,6 +122,16 @@ CONTENT MUST INCLUDE:
 === OUTPUT FORMAT ===
 Output the complete file: YAML frontmatter between --- markers, then markdown article. Nothing else.
 
+
+=== VALID SUBCATEGORY SLUGS (use ONLY these in subcategories array) ===
+Product type: "serum", "moisturizer", "cleanser", "toner", "exfoliator", "mask", "eye-cream", "sunscreen", "oil", "essence", "mist", "spot-treatment"
+Skin type: "oily", "dry", "combination", "sensitive", "normal", "mature"
+Concern: "acne", "anti-aging", "brightening", "dark-circles", "dark-spots", "firmness", "hydration", "pores", "redness", "wrinkles"
+Ingredient: "ceramides", "glycolic-acid", "hyaluronic-acid", "niacinamide", "peptides", "retinol", "salicylic-acid", "vitamin-c"
+Brand: "cerave", "clinique", "drunk-elephant", "estee-lauder", "glow-recipe", "kiehls", "la-roche-posay", "lancome", "neutrogena", "olay", "paulas-choice", "sk-ii", "tatcha", "the-ordinary", "vichy"
+Pick 4-8 slugs that accurately describe the product. Include: product type + skin type + 1-2 concerns + brand (if listed).
+⚠️ Do NOT invent slugs. If a value isn't in this list, don't use it.
+
 === CONSTRAINED VALUES (use ONLY these exact values) ===
 
 productType: MUST be one of: "Serum" | "Moisturizer" | "Cleanser" | "Toner" | "Exfoliant" | "Mask" | "Eye Cream" | "Sunscreen" | "Facial Oil" | "Treatment" | "Essence" | "Mist" | "Lip Treatment" | "Night Cream" | "Retinol Treatment" | "Vitamin C Serum" | "Spot Treatment"

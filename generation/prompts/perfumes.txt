@@ -121,6 +121,15 @@ CONTENT MUST INCLUDE:
 === OUTPUT FORMAT ===
 Output the complete file content: YAML frontmatter between --- markers, then the markdown article. Nothing else. No explanations, no code fences.
 
+
+=== VALID SUBCATEGORY SLUGS (use ONLY these in subcategories array) ===
+Gender (capitalized): "Men", "Women", "Unisex"
+Occasion (capitalized): "Everyday", "Office", "Evening", "Romantic", "Sport", "Wedding", "Summer", "Winter", "Travel"
+Family (lowercase): "floral", "oriental", "woody", "fresh", "chypre", "aromatic", "gourmand"
+Subfamily (lowercase): "floral-fruity", "floral-green", "floral-powdery", "floral-white", "floral-aldehyde", "floral-aquatic", "oriental-spicy", "oriental-vanilla", "oriental-woody", "oriental-amber", "oriental-floral", "woody-aromatic", "woody-spicy", "woody-dry", "woody-earthy", "woody-mossy", "fresh-citrus", "fresh-aquatic", "fresh-green", "fresh-fruity", "fresh-ozonic", "chypre-floral", "chypre-fruity", "chypre-green", "chypre-leather", "aromatic-spicy", "aromatic-fougere", "aromatic-herbal", "aromatic-marine", "gourmand-vanilla", "gourmand-sweet", "gourmand-chocolate", "gourmand-coffee"
+Pick 4-8 slugs that accurately describe the product. Include: gender + family + subfamily + 1-2 occasions.
+⚠️ Do NOT invent slugs. If a value isn't in this list, don't use it.
+
 === CONSTRAINED VALUES (use ONLY these exact values) ===
 
 concentration: MUST be one of: "Eau de Cologne" | "Eau de Toilette" | "Eau de Parfum" | "Parfum" | "Extrait de Parfum"

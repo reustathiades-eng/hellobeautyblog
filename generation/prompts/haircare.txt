@@ -117,6 +117,15 @@ CONTENT MUST INCLUDE:
 === OUTPUT FORMAT ===
 Output the complete file: YAML frontmatter between --- markers, then markdown article. Nothing else.
 
+
+=== VALID SUBCATEGORY SLUGS (use ONLY these in subcategories array) ===
+Product type: "shampoo", "conditioner", "hair-mask", "hair-oil", "serum", "leave-in", "dry-shampoo", "hair-spray", "styling-cream", "styling-gel", "scalp-treatment"
+Hair type: "straight-hair", "wavy-hair", "curly-hair", "coily-hair", "fine-hair", "thick-hair", "natural-hair", "color-treated"
+Concern: "color-protection", "dandruff", "frizz", "hair-growth", "heat-protection", "hydration", "repair", "scalp-health", "shine", "split-ends", "thinning", "volume"
+Brand: "aveda", "briogeo", "bumble-and-bumble", "garnier", "gisou", "john-frieda", "k18", "kerastase", "living-proof", "loreal-professionnel", "moroccanoil", "olaplex", "pantene", "redken", "tresemme"
+Pick 4-8 slugs that accurately describe the product. Include: product type + hair type + 1-2 concerns + brand (if listed).
+⚠️ Do NOT invent slugs. If a value isn't in this list, don't use it.
+
 === CONSTRAINED VALUES (use ONLY these exact values) ===
 
 productType: MUST be one of: "Shampoo" | "Conditioner" | "Hair Mask" | "Hair Oil" | "Hair Serum" | "Leave-In Conditioner" | "Heat Protectant" | "Dry Shampoo" | "Hair Spray" | "Styling Cream" | "Curl Cream" | "Hair Treatment" | "Scalp Treatment" | "Hair Mousse" | "Hair Gel" | "Detangler"

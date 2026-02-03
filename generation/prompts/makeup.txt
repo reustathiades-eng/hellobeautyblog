@@ -114,6 +114,17 @@ CONTENT MUST INCLUDE:
 === OUTPUT FORMAT ===
 Output the complete file: YAML frontmatter between --- markers, then markdown article. Nothing else.
 
+
+=== VALID SUBCATEGORY SLUGS (use ONLY these in subcategories array) ===
+Product type: "foundation", "concealer", "powder", "blush", "bronzer", "highlighter", "eyeshadow", "eyeliner", "mascara", "lipstick", "lip-gloss", "lip-liner", "lip-balm", "setting-spray", "primer", "eye-primer", "contour", "false-lashes", "nail-polish"
+Zone: "face", "eyes", "lips", "brows", "nails"
+Finish: "matte", "dewy", "natural", "satin", "shimmer"
+Coverage: "light-coverage", "medium-coverage", "full-coverage"
+Skin type: "oily-skin", "dry-skin", "sensitive-skin"
+Brand: "bobbi-brown", "chanel-beauty", "charlotte-tilbury", "dior-beauty", "elf", "fenty-beauty", "huda-beauty", "mac", "maybelline", "nars", "nyx", "rare-beauty", "tarte", "too-faced", "urban-decay"
+Pick 4-8 slugs that accurately describe the product. Include: product type + zone + finish/coverage + brand (if listed).
+⚠️ Do NOT invent slugs. If a value isn't in this list, don't use it.
+
 === CONSTRAINED VALUES (use ONLY these exact values) ===
 
 productType: MUST be one of: "Foundation" | "Concealer" | "Powder" | "Blush" | "Bronzer" | "Highlighter" | "Eyeshadow" | "Eyeshadow Palette" | "Eyeliner" | "Mascara" | "Lipstick" | "Lip Gloss" | "Lip Liner" | "Setting Spray" | "Primer" | "Brow Product" | "Contour" | "BB Cream" | "CC Cream" | "Tinted Moisturizer" | "Setting Powder" | "False Lashes"
