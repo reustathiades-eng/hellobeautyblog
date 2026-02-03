@@ -54,9 +54,7 @@
                 </div>
                 {{ else }}
                 <div class="product-image-placeholder">
-                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
-                    </svg>
+                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
                 </div>
                 {{ end }}
             </div>
@@ -65,7 +63,7 @@
             <div class="product-info">
                 
                 {{ with .Params.brand }}
-                <a href="/{{ $lang }}/brands/{{ . | urlize }}/" class="product-brand">{{ . }}</a>
+                <span class="product-brand">{{ . }}</span>
                 {{ end }}
                 
                 <h1 class="product-title">{{ .Params.productName | default .Title }}</h1>
@@ -88,18 +86,18 @@
                 
                 <!-- Key Ingredients Block -->
                 {{ with .Params.keyIngredients }}
-                <div class="ingredients-block">
-                    <h3 class="ingredients-title">{{ if eq $lang "fr" }}Ingrédients Clés{{ else if eq $lang "de" }}Hauptinhaltsstoffe{{ else if eq $lang "es" }}Ingredientes Clave{{ else if eq $lang "it" }}Ingredienti Chiave{{ else if eq $lang "pt" }}Ingredientes-Chave{{ else if eq $lang "nl" }}Belangrijkste Ingrediënten{{ else if eq $lang "pl" }}Kluczowe Składniki{{ else if eq $lang "tr" }}Ana Bileşenler{{ else if eq $lang "ja" }}主要成分{{ else if eq $lang "ko" }}주요 성분{{ else if eq $lang "zh" }}主要成分{{ else if eq $lang "ar" }}المكونات الرئيسية{{ else if eq $lang "hi" }}मुख्य सामग्री{{ else }}Key Ingredients{{ end }}</h3>
+                <div class="ingredients-pyramid">
+                    <h3 class="pyramid-title">{{ if eq $lang "fr" }}Ingrédients Clés{{ else if eq $lang "de" }}Hauptinhaltsstoffe{{ else if eq $lang "es" }}Ingredientes Clave{{ else if eq $lang "it" }}Ingredienti Chiave{{ else if eq $lang "pt" }}Ingredientes-Chave{{ else if eq $lang "nl" }}Belangrijkste Ingrediënten{{ else if eq $lang "pl" }}Kluczowe Składniki{{ else if eq $lang "tr" }}Ana Bileşenler{{ else if eq $lang "ja" }}主要成分{{ else if eq $lang "ko" }}주요 성분{{ else if eq $lang "zh" }}主要成分{{ else if eq $lang "ar" }}المكونات الرئيسية{{ else if eq $lang "hi" }}मुख्य सामग्री{{ else }}Key Ingredients{{ end }}</h3>
                     <div class="ingredients-list">
                         {{ range . }}
                         <div class="ingredient-item">
-                            <span class="ingredient-icon">🔬</span>
-                            <div class="ingredient-details">
-                                {{ if eq (printf "%T" .) "string" }}
-                                <span class="ingredient-name">{{ . }}</span>
+                            <span class="ingredient-icon">✦</span>
+                            <div class="ingredient-detail">
+                                {{ if reflect.IsMap . }}
+                                    <span class="ingredient-name">{{ .name }}</span>
+                                    {{ with .benefit }}<span class="ingredient-benefit">{{ . }}</span>{{ end }}
                                 {{ else }}
-                                <span class="ingredient-name">{{ .name }}</span>
-                                {{ with .benefit }}<span class="ingredient-benefit">{{ . }}</span>{{ end }}
+                                    <span class="ingredient-name">{{ . }}</span>
                                 {{ end }}
                             </div>
                         </div>
@@ -110,9 +108,9 @@
                 
             </div>
         </div>
-
-        <!-- Characteristics Full Width -->
-        {{ if or .Params.texture .Params.applicationTime .Params.crueltyFree .Params.vegan .Params.fragranceFree .Params.formulaType .Params.routineStep .Params.dermatologicallyTested .Params.origin }}
+        
+        <!-- Characteristics - Full Width -->
+        {{ if or .Params.texture .Params.applicationTime .Params.crueltyFree .Params.vegan .Params.fragranceFree }}
         <div class="product-specs-fullwidth">
             <h3 class="specs-title">
                 <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
@@ -129,56 +127,28 @@
                 {{ with .Params.applicationTime }}
                 <div class="spec-card">
                     <span class="spec-icon">🕐</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Application{{ else if eq $lang "de" }}Anwendung{{ else if eq $lang "es" }}Aplicación{{ else if eq $lang "it" }}Applicazione{{ else if eq $lang "pt" }}Aplicação{{ else if eq $lang "nl" }}Toepassing{{ else if eq $lang "pl" }}Stosowanie{{ else if eq $lang "tr" }}Uygulama{{ else if eq $lang "ja" }}使用時間{{ else if eq $lang "ko" }}사용 시간{{ else if eq $lang "zh" }}使用时间{{ else if eq $lang "ar" }}وقت الاستخدام{{ else if eq $lang "hi" }}लगाने का समय{{ else }}Application{{ end }}</span>
-                    <span class="spec-value">{{ delimit . " + " }}</span>
-                </div>
-                {{ end }}
-                {{ with .Params.formulaType }}
-                <div class="spec-card">
-                    <span class="spec-icon">🔬</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Formule{{ else if eq $lang "de" }}Formel{{ else if eq $lang "es" }}Fórmula{{ else if eq $lang "it" }}Formula{{ else if eq $lang "pt" }}Fórmula{{ else if eq $lang "nl" }}Formule{{ else if eq $lang "pl" }}Formuła{{ else if eq $lang "tr" }}Formül{{ else if eq $lang "ja" }}処方{{ else if eq $lang "ko" }}포뮬러{{ else if eq $lang "zh" }}配方{{ else if eq $lang "ar" }}التركيبة{{ else if eq $lang "hi" }}फॉर्मूला{{ else }}Formula{{ end }}</span>
-                    <span class="spec-value">{{ . }}</span>
-                </div>
-                {{ end }}
-                {{ with .Params.routineStep }}
-                <div class="spec-card">
-                    <span class="spec-icon">📋</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Étape routine{{ else if eq $lang "de" }}Routine-Schritt{{ else if eq $lang "es" }}Paso de rutina{{ else if eq $lang "it" }}Step routine{{ else if eq $lang "pt" }}Passo da rotina{{ else if eq $lang "nl" }}Routine stap{{ else if eq $lang "pl" }}Krok w rutynie{{ else if eq $lang "tr" }}Rutin adımı{{ else if eq $lang "ja" }}ルーティンステップ{{ else if eq $lang "ko" }}루틴 단계{{ else if eq $lang "zh" }}护肤步骤{{ else if eq $lang "ar" }}خطوة الروتين{{ else if eq $lang "hi" }}रूटीन स्टेप{{ else }}Routine Step{{ end }}</span>
-                    <span class="spec-value">{{ . }}</span>
-                </div>
-                {{ end }}
-                {{ with .Params.origin }}
-                <div class="spec-card">
-                    <span class="spec-icon">🌍</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Origine{{ else if eq $lang "de" }}Herkunft{{ else if eq $lang "es" }}Origen{{ else if eq $lang "it" }}Origine{{ else if eq $lang "pt" }}Origem{{ else if eq $lang "nl" }}Oorsprong{{ else if eq $lang "pl" }}Pochodzenie{{ else if eq $lang "tr" }}Köken{{ else if eq $lang "ja" }}原産国{{ else if eq $lang "ko" }}원산지{{ else if eq $lang "zh" }}产地{{ else if eq $lang "ar" }}المنشأ{{ else if eq $lang "hi" }}मूल{{ else }}Origin{{ end }}</span>
-                    <span class="spec-value">{{ . }}</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Application{{ else if eq $lang "de" }}Anwendung{{ else if eq $lang "es" }}Aplicación{{ else if eq $lang "it" }}Applicazione{{ else if eq $lang "pt" }}Aplicação{{ else if eq $lang "nl" }}Toepassing{{ else if eq $lang "pl" }}Stosowanie{{ else if eq $lang "tr" }}Uygulama{{ else if eq $lang "ja" }}使用時間{{ else if eq $lang "ko" }}사용 시간{{ else if eq $lang "zh" }}使用时间{{ else if eq $lang "ar" }}وقت التطبيق{{ else if eq $lang "hi" }}उपयोग का समय{{ else }}Application{{ end }}</span>
+                    <span class="spec-value">{{ delimit . " & " }}</span>
                 </div>
                 {{ end }}
                 {{ if .Params.fragranceFree }}
                 <div class="spec-card">
                     <span class="spec-icon">🚫</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Sans Parfum{{ else if eq $lang "de" }}Parfümfrei{{ else if eq $lang "es" }}Sin Fragancia{{ else if eq $lang "it" }}Senza Profumo{{ else if eq $lang "pt" }}Sem Fragrância{{ else if eq $lang "nl" }}Parfumvrij{{ else if eq $lang "pl" }}Bez Zapachu{{ else if eq $lang "tr" }}Parfümsüz{{ else if eq $lang "ja" }}無香料{{ else if eq $lang "ko" }}무향{{ else if eq $lang "zh" }}无香{{ else if eq $lang "ar" }}بدون عطر{{ else if eq $lang "hi" }}खुशबू रहित{{ else }}Fragrance Free{{ end }}</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Sans Parfum{{ else if eq $lang "de" }}Parfümfrei{{ else if eq $lang "es" }}Sin Fragancia{{ else if eq $lang "it" }}Senza Profumo{{ else if eq $lang "pt" }}Sem Fragrância{{ else if eq $lang "nl" }}Parfumvrij{{ else if eq $lang "pl" }}Bez Zapachu{{ else if eq $lang "tr" }}Parfümsüz{{ else if eq $lang "ja" }}無香料{{ else if eq $lang "ko" }}무향{{ else if eq $lang "zh" }}无香料{{ else if eq $lang "ar" }}بدون عطر{{ else if eq $lang "hi" }}बिना खुशबू{{ else }}Fragrance Free{{ end }}</span>
                     <span class="spec-value">✓</span>
                 </div>
                 {{ end }}
                 {{ if .Params.crueltyFree }}
                 <div class="spec-card">
                     <span class="spec-icon">🐰</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Cruelty Free{{ else }}Cruelty Free{{ end }}</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Cruelty Free{{ else if eq $lang "de" }}Tierversuchsfrei{{ else if eq $lang "es" }}Cruelty Free{{ else if eq $lang "it" }}Cruelty Free{{ else if eq $lang "pt" }}Cruelty Free{{ else if eq $lang "nl" }}Dierproefvrij{{ else if eq $lang "pl" }}Cruelty Free{{ else if eq $lang "tr" }}Hayvan Deneysiz{{ else if eq $lang "ja" }}クルエルティフリー{{ else if eq $lang "ko" }}크루얼티 프리{{ else if eq $lang "zh" }}零残忍{{ else if eq $lang "ar" }}خالٍ من القسوة{{ else if eq $lang "hi" }}क्रूरता मुक्त{{ else }}Cruelty Free{{ end }}</span>
                     <span class="spec-value">✓</span>
                 </div>
                 {{ end }}
                 {{ if .Params.vegan }}
                 <div class="spec-card">
                     <span class="spec-icon">🌿</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Vegan{{ else if eq $lang "es" }}Vegano{{ else if eq $lang "it" }}Vegano{{ else if eq $lang "pt" }}Vegano{{ else if eq $lang "nl" }}Veganistisch{{ else if eq $lang "pl" }}Wegański{{ else if eq $lang "ja" }}ヴィーガン{{ else if eq $lang "ko" }}비건{{ else if eq $lang "zh" }}纯素{{ else }}Vegan{{ end }}</span>
-                    <span class="spec-value">✓</span>
-                </div>
-                {{ end }}
-                {{ if .Params.dermatologicallyTested }}
-                <div class="spec-card">
-                    <span class="spec-icon">✅</span>
-                    <span class="spec-label">{{ if eq $lang "fr" }}Testé dermato.{{ else if eq $lang "de" }}Dermatol. getestet{{ else if eq $lang "es" }}Testado dermat.{{ else if eq $lang "it" }}Testato dermato.{{ else if eq $lang "pt" }}Testado dermato.{{ else }}Derm. Tested{{ end }}</span>
+                    <span class="spec-label">{{ if eq $lang "fr" }}Végan{{ else if eq $lang "de" }}Vegan{{ else if eq $lang "es" }}Vegano{{ else if eq $lang "it" }}Vegano{{ else if eq $lang "pt" }}Vegano{{ else if eq $lang "nl" }}Veganistisch{{ else if eq $lang "pl" }}Wegański{{ else if eq $lang "tr" }}Vegan{{ else if eq $lang "ja" }}ヴィーガン{{ else if eq $lang "ko" }}비건{{ else if eq $lang "zh" }}纯素{{ else if eq $lang "ar" }}نباتي{{ else if eq $lang "hi" }}शाकाहारी{{ else }}Vegan{{ end }}</span>
                     <span class="spec-value">✓</span>
                 </div>
                 {{ end }}
@@ -191,108 +161,118 @@
         <div class="product-categories-block">
             <h3 class="categories-title">
                 <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/></svg>
-                {{ if eq $lang "fr" }}Catégories{{ else if eq $lang "de" }}Kategorien{{ else if eq $lang "es" }}Categorías{{ else if eq $lang "it" }}Categorie{{ else if eq $lang "pt" }}Categorias{{ else if eq $lang "nl" }}Categorieën{{ else if eq $lang "pl" }}Kategorie{{ else if eq $lang "tr" }}Kategoriler{{ else if eq $lang "ja" }}カテゴリー{{ else if eq $lang "ko" }}카테고리{{ else if eq $lang "zh" }}分类{{ else if eq $lang "ar" }}التصنيفات{{ else if eq $lang "hi" }}श्रेणियां{{ else }}Categories{{ end }}
+                {{ if eq $lang "fr" }}Catégories{{ else if eq $lang "de" }}Kategorien{{ else if eq $lang "es" }}Categorías{{ else if eq $lang "it" }}Categorie{{ else if eq $lang "pt" }}Categorias{{ else if eq $lang "nl" }}Categorieën{{ else if eq $lang "pl" }}Kategorie{{ else if eq $lang "tr" }}Kategoriler{{ else if eq $lang "ja" }}カテゴリー{{ else if eq $lang "ko" }}카테고리{{ else if eq $lang "zh" }}分类{{ else if eq $lang "ar" }}الفئات{{ else if eq $lang "hi" }}श्रेणियाँ{{ else }}Categories{{ end }}
             </h3>
-            <div class="categories-tags">
-                {{ $lang := $.Language.Lang }}
-                {{ $subcats := index $.Site.Data.skincare_subcats $lang }}
-                {{ range . }}
-                    {{ $info := index $subcats . }}
-                    {{ with $info }}
-                    <a href="{{ .url }}" class="category-tag">
-                        {{ with .emoji }}{{ . }} {{ end }}{{ .title }}
-                    </a>
+            
+            {{ $section := $.Section }}
+            {{ $scratch := newScratch }}
+            
+            {{/* Collect pages grouped by subcategory_type */}}
+            {{ range . }}
+                {{ $page := site.GetPage (printf "/%s/%s" $section .) }}
+                {{ if $page }}
+                    {{ $type := $page.Params.subcategory_type | default "other" }}
+                    
+                    {{ $scratch.Add $type (slice $page) }}
+                {{ end }}
+            {{ end }}
+            
+            <div class="categories-grid">
+                {{/* Display groups in order */}}
+                {{ $typeOrder := slice "product_type" "skin_type" "concern" "ingredient" "brand" }}
+                {{ range $type := $typeOrder }}
+                    {{ $pages := $scratch.Get $type }}
+                    {{ if $pages }}
+                    <div class="category-group">
+                        <span class="category-type-label">
+                            {{ if eq $type "product_type" }}
+                                {{ if eq $lang "fr" }}Type de produit{{ else if eq $lang "de" }}Produkttyp{{ else if eq $lang "es" }}Tipo de producto{{ else if eq $lang "it" }}Tipo di prodotto{{ else if eq $lang "pt" }}Tipo de produto{{ else if eq $lang "nl" }}Producttype{{ else if eq $lang "pl" }}Typ produktu{{ else if eq $lang "tr" }}Ürün Tipi{{ else if eq $lang "ja" }}製品タイプ{{ else if eq $lang "ko" }}제품 유형{{ else if eq $lang "zh" }}产品类型{{ else if eq $lang "ar" }}نوع المنتج{{ else if eq $lang "hi" }}उत्पाद प्रकार{{ else }}Product Type{{ end }}
+                            {{ else if eq $type "skin_type" }}
+                                {{ if eq $lang "fr" }}Type de peau{{ else if eq $lang "de" }}Hauttyp{{ else if eq $lang "es" }}Tipo de piel{{ else if eq $lang "it" }}Tipo di pelle{{ else if eq $lang "pt" }}Tipo de pele{{ else if eq $lang "nl" }}Huidtype{{ else if eq $lang "pl" }}Typ skóry{{ else if eq $lang "tr" }}Cilt Tipi{{ else if eq $lang "ja" }}肌タイプ{{ else if eq $lang "ko" }}피부 타입{{ else if eq $lang "zh" }}肤质{{ else if eq $lang "ar" }}نوع البشرة{{ else if eq $lang "hi" }}त्वचा का प्रकार{{ else }}Skin Type{{ end }}
+                            {{ else if eq $type "concern" }}
+                                {{ if eq $lang "fr" }}Préoccupation{{ else if eq $lang "de" }}Hautproblem{{ else if eq $lang "es" }}Preocupación{{ else if eq $lang "it" }}Problema{{ else if eq $lang "pt" }}Preocupação{{ else if eq $lang "nl" }}Huidprobleem{{ else if eq $lang "pl" }}Problem{{ else if eq $lang "tr" }}Cilt Sorunu{{ else if eq $lang "ja" }}肌悩み{{ else if eq $lang "ko" }}피부 고민{{ else if eq $lang "zh" }}肌肤问题{{ else if eq $lang "ar" }}مشكلة البشرة{{ else if eq $lang "hi" }}त्वचा समस्या{{ else }}Concern{{ end }}
+                            {{ else if eq $type "ingredient" }}
+                                {{ if eq $lang "fr" }}Ingrédient{{ else if eq $lang "de" }}Inhaltsstoff{{ else if eq $lang "es" }}Ingrediente{{ else if eq $lang "it" }}Ingrediente{{ else if eq $lang "pt" }}Ingrediente{{ else if eq $lang "nl" }}Ingrediënt{{ else if eq $lang "pl" }}Składnik{{ else if eq $lang "tr" }}Bileşen{{ else if eq $lang "ja" }}成分{{ else if eq $lang "ko" }}성분{{ else if eq $lang "zh" }}成分{{ else if eq $lang "ar" }}المكوّن{{ else if eq $lang "hi" }}सामग्री{{ else }}Ingredient{{ end }}
+                            {{ else if eq $type "brand" }}
+                                {{ if eq $lang "fr" }}Marque{{ else if eq $lang "de" }}Marke{{ else if eq $lang "es" }}Marca{{ else if eq $lang "it" }}Marca{{ else if eq $lang "pt" }}Marca{{ else if eq $lang "nl" }}Merk{{ else if eq $lang "pl" }}Marka{{ else if eq $lang "tr" }}Marka{{ else if eq $lang "ja" }}ブランド{{ else if eq $lang "ko" }}브랜드{{ else if eq $lang "zh" }}品牌{{ else if eq $lang "ar" }}الماركة{{ else if eq $lang "hi" }}ब्रांड{{ else }}Brand{{ end }}
+                            {{ end }}
+                        </span>
+                        <div class="category-tags">
+                            {{ range $pages }}
+                            <a href="{{ .RelPermalink }}" class="category-tag">{{ .Title }}</a>
+                            {{ end }}
+                        </div>
+                    </div>
                     {{ end }}
                 {{ end }}
             </div>
         </div>
         {{ end }}
-
+        
         <!-- Article Content -->
         <div class="product-content">
             <div class="content-wrapper">
                 {{ .Content }}
             </div>
-        </div>
-        
-        <!-- Author Box - Redesigned -->
-        {{ with .Params.author }}
-        {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
-        <div class="author-card">
-            <div class="author-card-inner">
-                <div class="author-photo">
-                    <img src="/images/authors/{{ $authorSlug }}.jpg" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-                    <div class="author-photo-fallback">
-                        <span>{{ substr . 0 1 }}</span>
-                    </div>
-                </div>
-                <div class="author-card-content">
-                    <div class="author-card-label">{{ if eq $lang "fr" }}Rédigé par{{ else if eq $lang "de" }}Geschrieben von{{ else if eq $lang "es" }}Escrito por{{ else if eq $lang "it" }}Scritto da{{ else if eq $lang "pt" }}Escrito por{{ else if eq $lang "nl" }}Geschreven door{{ else if eq $lang "pl" }}Napisane przez{{ else if eq $lang "tr" }}Yazan{{ else if eq $lang "ja" }}執筆者{{ else if eq $lang "ko" }}작성자{{ else if eq $lang "zh" }}作者{{ else if eq $lang "ar" }}بقلم{{ else if eq $lang "hi" }}लेखक{{ else }}Written by{{ end }}</div>
-                    <h4 class="author-card-name">{{ . }}</h4>
-                    {{ if eq . "Emma Collins" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Skincare & Parfums{{ else if eq $lang "de" }}Skincare & Parfüm-Expertin{{ else if eq $lang "es" }}Experta en Skincare y Perfumes{{ else if eq $lang "it" }}Esperta Skincare e Profumi{{ else if eq $lang "pt" }}Especialista em Skincare e Perfumes{{ else }}Skincare & Fragrance Expert{{ end }}</p>
-                    {{ else if eq . "Sofia Martinez" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte Maquillage{{ else if eq $lang "de" }}Make-up-Expertin{{ else if eq $lang "es" }}Experta en Maquillaje{{ else if eq $lang "it" }}Esperta Trucco{{ else if eq $lang "pt" }}Especialista em Maquiagem{{ else }}Makeup Expert{{ end }}</p>
-                    {{ else if eq . "Lena Park" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Experte K-Beauty & Soins{{ else }}K-Beauty & Skincare Expert{{ end }}</p>
-                    {{ else if eq . "Marcus Johnson" }}
-                    <p class="author-card-specialty">{{ if eq $lang "fr" }}Expert Cheveux & Grooming{{ else }}Hair & Grooming Expert{{ end }}</p>
-                    {{ end }}
-                    <p class="author-card-bio">
-                        {{ if eq . "Emma Collins" }}
-                            {{ if eq $lang "fr" }}Passionnée par la beauté depuis plus de 15 ans, Emma teste et analyse chaque produit avec rigueur pour vous guider vers les meilleurs choix skincare et parfums.
-                            {{ else if eq $lang "de" }}Mit über 15 Jahren Leidenschaft für Schönheit testet und analysiert Emma jedes Produkt sorgfältig, um Sie zu den besten Hautpflege- und Parfümentscheidungen zu führen.
-                            {{ else if eq $lang "es" }}Apasionada por la belleza desde hace más de 15 años, Emma prueba y analiza cada producto con rigor para guiarte hacia las mejores opciones de skincare y perfumes.
-                            {{ else }}With over 15 years of passion for beauty, Emma rigorously tests and analyzes every product to guide you toward the best skincare and fragrance choices.
-                            {{ end }}
-                        {{ else if eq . "Sofia Martinez" }}
-                            {{ if eq $lang "fr" }}Maquilleuse professionnelle avec 12 ans d'expérience en beauté mode et éditoriale, Sofia partage son expertise pour vous aider à trouver votre look parfait.
-                            {{ else }}Professional makeup artist with 12 years of experience in fashion and editorial beauty, Sofia shares her expertise to help you find your perfect look.
-                            {{ end }}
-                        {{ else if eq . "Lena Park" }}
-                            {{ if eq $lang "fr" }}Spécialiste K-Beauty basée à Séoul, Lena décrypte les tendances et innovations coréennes pour une peau éclatante.
-                            {{ else }}Seoul-based K-Beauty specialist, Lena decodes Korean trends and innovations for radiant skin.
-                            {{ end }}
-                        {{ else if eq . "Marcus Johnson" }}
-                            {{ if eq $lang "fr" }}Expert capillaire et grooming, Marcus conseille les meilleurs produits pour tous types de cheveux.
-                            {{ else }}Hair and grooming expert, Marcus recommends the best products for all hair types.
-                            {{ end }}
+            
+            <!-- Author Box - Redesigned -->
+            {{ with .Params.author }}
+            {{ $authorSlug := $.Params.authorSlug | default (. | urlize) }}
+            {{ $authorPage := site.GetPage (printf "/authors/%s" $authorSlug) }}
+            <div class="author-card">
+                <div class="author-card-inner">
+                    <div class="author-photo">
+                        {{ if $authorPage }}
+                        <img src="{{ $authorPage.Params.image | default (printf "/images/authors/%s.webp" $authorSlug) }}" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
                         {{ else }}
-                            {{ if eq $lang "fr" }}Rédacteur passionné chez HelloBeautyBlog, spécialisé dans les tendances beauté et les conseils experts.
-                            {{ else }}Passionate writer at HelloBeautyBlog, specialized in beauty trends and expert advice.
+                        <img src="/images/authors/{{ $authorSlug }}.webp" alt="{{ . }}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                        {{ end }}
+                        <div class="author-photo-fallback">
+                            <span>{{ substr . 0 1 }}</span>
+                        </div>
+                    </div>
+                    <div class="author-details">
+                        <span class="author-label">{{ if eq $lang "fr" }}À propos de l'auteur{{ else if eq $lang "de" }}Über den Autor{{ else if eq $lang "es" }}Sobre el autor{{ else if eq $lang "it" }}Sull'autore{{ else if eq $lang "pt" }}Sobre o autor{{ else if eq $lang "nl" }}Over de auteur{{ else if eq $lang "pl" }}O autorze{{ else if eq $lang "tr" }}Yazar Hakkında{{ else if eq $lang "ja" }}著者について{{ else if eq $lang "ko" }}저자 소개{{ else if eq $lang "zh" }}关于作者{{ else if eq $lang "ar" }}عن الكاتب{{ else if eq $lang "hi" }}लेखक के बारे में{{ else }}About the Author{{ end }}</span>
+                        <h4 class="author-name">{{ . }}</h4>
+                        {{ if $authorPage }}
+                            {{ with $authorPage.Params.role }}
+                            <span class="author-role">{{ . }}</span>
+                            {{ end }}
+                            {{ with $authorPage.Params.tagline }}
+                            <p class="author-tagline">{{ . }}</p>
                             {{ end }}
                         {{ end }}
-                    </p>
-                    <a href="/{{ $lang }}/about/{{ $authorSlug }}/" class="author-card-link">
-                        {{ if eq $lang "fr" }}Tous ses articles{{ else if eq $lang "de" }}Alle Artikel{{ else if eq $lang "es" }}Todos los artículos{{ else if eq $lang "it" }}Tutti gli articoli{{ else if eq $lang "pt" }}Todos os artigos{{ else if eq $lang "nl" }}Alle artikelen{{ else if eq $lang "pl" }}Wszystkie artykuły{{ else if eq $lang "tr" }}Tüm yazıları{{ else if eq $lang "ja" }}全記事を見る{{ else if eq $lang "ko" }}모든 기사{{ else if eq $lang "zh" }}所有文章{{ else if eq $lang "ar" }}جميع المقالات{{ else if eq $lang "hi" }}सभी लेख{{ else }}View all articles{{ end }} →
-                    </a>
+                        <a href="/{{ $lang }}/authors/{{ $authorSlug }}/" class="author-link">
+                            {{ if eq $lang "fr" }}Voir tous ses articles{{ else if eq $lang "de" }}Alle Artikel ansehen{{ else if eq $lang "es" }}Ver todos los artículos{{ else if eq $lang "it" }}Vedi tutti gli articoli{{ else if eq $lang "pt" }}Ver todos os artigos{{ else if eq $lang "nl" }}Alle artikelen bekijken{{ else if eq $lang "pl" }}Zobacz wszystkie artykuły{{ else if eq $lang "tr" }}Tüm yazıları gör{{ else if eq $lang "ja" }}すべての記事を見る{{ else if eq $lang "ko" }}모든 기사 보기{{ else if eq $lang "zh" }}查看所有文章{{ else if eq $lang "ar" }}عرض جميع المقالات{{ else if eq $lang "hi" }}सभी लेख देखें{{ else }}View all articles{{ end }} →
+                        </a>
+                    </div>
                 </div>
             </div>
+            {{ end }}
         </div>
-        {{ end }}
         
     </div>
 </article>
 
 <style>
-/* Base */
+/* ========== BASE ========== */
 .product-page { background: #FAFAFA; min-height: 100vh; }
 .product-container { max-width: 1200px; margin: 0 auto; padding: 1.5rem 20px 4rem; }
 @media (min-width: 1024px) { .product-container { padding: 2rem 40px 5rem; } }
 
-/* Breadcrumb */
+/* ========== BREADCRUMB ========== */
 .breadcrumb { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.85rem; }
 .breadcrumb a { color: #6B7280; text-decoration: none; transition: color 0.2s ease; }
 .breadcrumb a:hover { color: #F8C8DC; }
 .breadcrumb-sep { color: #D1D5DB; }
 .breadcrumb-current { color: #9CA3AF; }
 
-/* Product Header */
+/* ========== PRODUCT HEADER ========== */
 .product-header { display: grid; grid-template-columns: 1fr; gap: 2rem; background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
 @media (min-width: 768px) { .product-header { grid-template-columns: 1fr 1fr; gap: 2.5rem; padding: 2rem; } }
 @media (min-width: 1024px) { .product-header { gap: 3rem; padding: 2.5rem; } }
 
-/* Carousel */
+/* ========== CAROUSEL ========== */
 .product-gallery { display: flex; flex-direction: column; }
 .carousel-container { width: 100%; }
 .carousel-main { position: relative; width: 100%; }
@@ -303,13 +283,13 @@
 .carousel-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 44px; height: 44px; border-radius: 50%; border: none; background: rgba(255,255,255,0.9); box-shadow: 0 2px 12px rgba(0,0,0,0.15); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s ease; z-index: 10; }
 .carousel-btn.prev { left: 12px; }
 .carousel-btn.next { right: 12px; }
-.carousel-btn:hover { background: #F8C8DC; transform: translateY(-50%) scale(1.1); }
+.carousel-btn:hover { background: #F8C8DC; transform: translateY(-50%) scale(1.1); box-shadow: 0 4px 16px rgba(0,0,0,0.2); }
 .carousel-btn svg { width: 20px; height: 20px; color: #374151; }
 .carousel-thumbnails { display: none; gap: 0.5rem; margin-top: 1rem; justify-content: center; }
 @media (min-width: 768px) { .carousel-thumbnails { display: flex; } }
 .thumbnail { width: 60px; height: 60px; border-radius: 8px; overflow: hidden; border: 2px solid transparent; cursor: pointer; padding: 0; background: #F3F4F6; transition: all 0.2s ease; }
 .thumbnail:hover { border-color: #E8A8BC; }
-.thumbnail.active { border-color: #F8C8DC; box-shadow: 0 0 0 2px rgba(248,200,220,0.3); }
+.thumbnail.active { border-color: #F8C8DC; box-shadow: 0 0 0 2px rgba(248, 200, 220, 0.3); }
 .thumbnail img { width: 100%; height: 100%; object-fit: contain; padding: 4px; }
 .carousel-dots { display: flex; justify-content: center; gap: 0.5rem; margin-top: 1rem; }
 @media (min-width: 768px) { .carousel-dots { display: none; } }
@@ -318,10 +298,9 @@
 .product-image-placeholder { width: 100%; aspect-ratio: 1; background: linear-gradient(145deg, #F9FAFB 0%, #F3F4F6 100%); border-radius: 16px; display: flex; align-items: center; justify-content: center; }
 .product-image-placeholder svg { width: 80px; height: 80px; color: #D1D5DB; }
 
-/* Product Info */
+/* ========== PRODUCT INFO ========== */
 .product-info { display: flex; flex-direction: column; }
-.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; text-decoration: none; margin-bottom: 0.75rem; transition: color 0.2s ease; }
-.product-brand:hover { color: #e8a8bc; }
+.product-brand { display: inline-block; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #F8C8DC; margin-bottom: 0.75rem; }
 .product-title { font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #1F2937; line-height: 1.2; margin: 0 0 0.5rem; }
 @media (min-width: 768px) { .product-title { font-size: 2.25rem; } }
 .product-type { font-size: 1rem; color: #6B7280; margin: 0 0 1rem; }
@@ -330,17 +309,17 @@
 .star { width: 18px; height: 18px; color: #E5E7EB; }
 .star.filled { color: #F8C8DC; }
 
-/* Key Ingredients Block */
-.ingredients-block { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; margin-top: auto; }
-.ingredients-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
+/* ========== KEY INGREDIENTS (equivalent fragrance pyramid) ========== */
+.ingredients-pyramid { background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-radius: 16px; padding: 1.25rem; }
+.pyramid-title { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 600; color: #1F2937; margin: 0 0 1rem; }
 .ingredients-list { display: flex; flex-direction: column; gap: 0.75rem; }
-.ingredient-item { display: flex; align-items: flex-start; gap: 0.75rem; padding: 0.5rem 0; }
-.ingredient-icon { font-size: 1.1rem; margin-top: 0.1rem; }
-.ingredient-details { display: flex; flex-direction: column; gap: 0.15rem; }
+.ingredient-item { display: flex; align-items: flex-start; gap: 0.75rem; }
+.ingredient-icon { color: #E8A8BC; font-size: 0.7rem; margin-top: 0.3rem; flex-shrink: 0; }
+.ingredient-detail { display: flex; flex-direction: column; gap: 0.15rem; }
 .ingredient-name { font-size: 0.9rem; font-weight: 600; color: #1F2937; }
 .ingredient-benefit { font-size: 0.8rem; color: #6B7280; font-style: italic; }
 
-/* Characteristics Full Width */
+/* ========== CHARACTERISTICS FULL WIDTH ========== */
 .product-specs-fullwidth { background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
 @media (min-width: 768px) { .product-specs-fullwidth { padding: 2rem; } }
 .specs-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #1F2937; margin: 0 0 1.25rem; }
@@ -354,17 +333,21 @@
 .spec-label { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #6B7280; margin-bottom: 0.25rem; }
 .spec-value { font-size: 0.85rem; font-weight: 600; color: #1F2937; }
 
-/* Categories Block */
+/* ========== CATEGORIES BLOCK ========== */
 .product-categories-block { background: white; border-radius: 20px; padding: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
 @media (min-width: 768px) { .product-categories-block { padding: 2rem; } }
 .categories-title { display: flex; align-items: center; gap: 0.5rem; font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #1F2937; margin: 0 0 1.25rem; }
 .categories-title svg { width: 20px; height: 20px; color: #F8C8DC; }
-.categories-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.category-tag { display: inline-flex; align-items: center; gap: 0.3rem; padding: 0.4rem 0.9rem; background: #FDF2F8; color: #9D174D; font-size: 0.85rem; font-weight: 500; border-radius: 20px; text-decoration: none; transition: all 0.2s ease; border: 1px solid transparent; }
-.category-tag:hover { background: #F8C8DC; color: #831843; border-color: #E8A8BC; transform: translateY(-1px); }
+.categories-grid { display: flex; flex-direction: column; gap: 1rem; }
+.category-group { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.category-type-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #9CA3AF; min-width: 120px; }
+@media (min-width: 768px) { .category-type-label { min-width: 150px; } }
+.category-tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.category-tag { display: inline-block; padding: 0.35rem 0.85rem; background: #FDF2F8; color: #9D174D; font-size: 0.8rem; font-weight: 500; border-radius: 20px; text-decoration: none; transition: all 0.2s ease; border: 1px solid transparent; }
+.category-tag:hover { background: #FCE7F3; border-color: #F8C8DC; transform: translateY(-1px); }
 
-/* Content */
-.product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); margin-bottom: 1.5rem; }
+/* ========== CONTENT ========== */
+.product-content { background: white; border-radius: 20px; padding: 2rem 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
 @media (min-width: 768px) { .product-content { padding: 2.5rem; } }
 @media (min-width: 1024px) { .product-content { padding: 3rem; } }
 .content-wrapper { max-width: 800px; margin: 0 auto; }
@@ -372,28 +355,27 @@
 .content-wrapper h2:first-child { margin-top: 0; }
 .content-wrapper h3 { font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 500; color: #374151; margin: 1.5rem 0 0.75rem; padding-left: 1rem; border-left: 3px solid #F8C8DC; }
 .content-wrapper p { font-size: 1rem; line-height: 1.8; color: #4B5563; margin: 0 0 1.25rem; }
-.content-wrapper strong { font-weight: 600; color: #1F2937; }
-.content-wrapper a { color: #F8C8DC; text-decoration: underline; text-underline-offset: 2px; }
-.content-wrapper blockquote { margin: 2rem 0; padding: 1.5rem 2rem; background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-left: 4px solid #F8C8DC; border-radius: 0 12px 12px 0; font-style: italic; color: #4B5563; }
-.content-wrapper img { max-width: 100%; height: auto; border-radius: 12px; margin: 1.5rem 0; }
 .content-wrapper ul, .content-wrapper ol { margin: 0 0 1.5rem; padding-left: 1.5rem; }
 .content-wrapper li { font-size: 1rem; line-height: 1.8; color: #4B5563; margin-bottom: 0.5rem; }
+.content-wrapper strong { font-weight: 600; color: #1F2937; }
+.content-wrapper a { color: #E8A8BC; text-decoration: underline; text-underline-offset: 2px; }
+.content-wrapper blockquote { margin: 2rem 0; padding: 1.5rem 2rem; background: linear-gradient(145deg, #FDF2F8 0%, #FCE7F3 100%); border-left: 4px solid #F8C8DC; border-radius: 0 12px 12px 0; font-style: italic; color: #4B5563; }
+.content-wrapper img { max-width: 100%; height: auto; border-radius: 12px; margin: 1.5rem 0; }
 
-/* Author Card - Redesigned */
-.author-card { background: white; border-radius: 20px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
-.author-card-inner { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 2.5rem 2rem; background: linear-gradient(180deg, #FDF2F8 0%, #FFFFFF 40%); }
-@media (min-width: 640px) { .author-card-inner { flex-direction: row; text-align: left; gap: 2rem; padding: 2rem 2.5rem; } }
-.author-photo { flex-shrink: 0; position: relative; margin-bottom: 1.5rem; }
-@media (min-width: 640px) { .author-photo { margin-bottom: 0; } }
-.author-photo img { width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0 4px 20px rgba(248,200,220,0.4); }
-.author-photo-fallback { display: none; width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%); align-items: center; justify-content: center; font-family: 'Playfair Display', serif; font-size: 2.5rem; font-weight: 600; color: white; border: 4px solid white; box-shadow: 0 4px 20px rgba(248,200,220,0.4); }
-.author-card-content { flex: 1; }
-.author-card-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: #F8C8DC; margin-bottom: 0.25rem; }
-.author-card-name { font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F2937; margin: 0 0 0.25rem; }
-.author-card-specialty { font-size: 0.85rem; font-weight: 500; color: #E8A8BC; margin: 0 0 0.75rem; letter-spacing: 0.02em; }
-.author-card-bio { font-size: 0.95rem; line-height: 1.7; color: #4B5563; margin: 0 0 1rem; }
-.author-card-link { display: inline-flex; align-items: center; font-size: 0.9rem; font-weight: 600; color: #F8C8DC; text-decoration: none; transition: color 0.2s ease; }
-.author-card-link:hover { color: #E8A8BC; }
+/* ========== AUTHOR CARD (new design) ========== */
+.author-card { margin-top: 3rem; border-radius: 20px; overflow: hidden; background: linear-gradient(135deg, #FDF2F8 0%, #FCE7F3 40%, #FDF2F8 100%); border: 1px solid rgba(248, 200, 220, 0.3); }
+.author-card-inner { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 2.5rem 2rem; gap: 1.5rem; }
+@media (min-width: 640px) { .author-card-inner { flex-direction: row; text-align: left; padding: 2rem 2.5rem; gap: 2rem; } }
+.author-photo { flex-shrink: 0; position: relative; }
+.author-photo img { width: 110px; height: 110px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0 4px 20px rgba(248, 200, 220, 0.4); }
+.author-photo-fallback { display: none; width: 110px; height: 110px; border-radius: 50%; background: linear-gradient(145deg, #F8C8DC 0%, #E8A8BC 100%); align-items: center; justify-content: center; font-family: 'Playfair Display', serif; font-size: 2.5rem; font-weight: 600; color: white; border: 4px solid white; box-shadow: 0 4px 20px rgba(248, 200, 220, 0.4); }
+.author-details { flex: 1; }
+.author-label { display: block; font-size: 0.7rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.12em; color: #E8A8BC; margin-bottom: 0.35rem; }
+.author-name { font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 700; color: #1F2937; margin: 0 0 0.25rem; }
+.author-role { display: inline-block; font-size: 0.85rem; font-weight: 500; color: #9D174D; background: rgba(248, 200, 220, 0.3); padding: 0.2rem 0.75rem; border-radius: 20px; margin-bottom: 0.75rem; }
+.author-tagline { font-size: 0.9rem; line-height: 1.6; color: #4B5563; font-style: italic; margin: 0 0 1rem; }
+.author-link { display: inline-flex; align-items: center; font-size: 0.85rem; font-weight: 600; color: #9D174D; text-decoration: none; padding: 0.5rem 1.25rem; background: white; border-radius: 25px; border: 1px solid rgba(248, 200, 220, 0.5); transition: all 0.2s ease; box-shadow: 0 1px 4px rgba(0,0,0,0.05); }
+.author-link:hover { background: #F8C8DC; color: white; border-color: #F8C8DC; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(248, 200, 220, 0.4); }
 </style>
 
 <script>
@@ -422,7 +404,4 @@ if (viewport) {
     }, false);
 }
 </script>
-
-    </div>
-</article>
 {{ end }}
