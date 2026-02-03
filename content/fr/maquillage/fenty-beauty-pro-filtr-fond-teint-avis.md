@@ -11,8 +11,8 @@ categories:
 tags: ["fenty beauty", "fond de teint", "mat", "couvrance totale", "peau grasse", "longue tenue", "palette teintes"]
 keywords: ["fenty pro filtr avis", "meilleur fond de teint mat peau grasse", "fenty teinte correspondance", "fond de teint haute couvrance", "fond de teint longue tenue test", "fenty beauty 50 teintes"]
 images:
-  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-2.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-3.jpg
 featured: false

@@ -11,8 +11,8 @@ categories:
 tags: ["fenty beauty", "base de maquillaje", "matte", "cobertura total", "piel grasa", "larga duración", "50 tonos"]
 keywords: ["fenty pro filtr opiniones", "mejor base matte piel grasa", "fenty base tono perfecto", "base cobertura total", "base larga duración review", "fenty beauty 50 tonos", "pro filtr reseña"]
 images:
-  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-2.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-3.jpg
 featured: false

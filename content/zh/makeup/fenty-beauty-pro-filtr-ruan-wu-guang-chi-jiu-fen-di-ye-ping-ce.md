@@ -11,8 +11,8 @@ categories:
 tags: ["fenty beauty", "粉底液", "哑光底妆", "全遮瑕", "油皮", "持久底妆", "色号全"]
 keywords: ["芬提粉底液测评", "油皮持久粉底推荐", "fenty pro filtr色号怎么选", "全遮瑕粉底液", "超持久底妆评测", "芬提50色号粉底"]
 images:
-  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-2.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-3.jpg
 featured: false

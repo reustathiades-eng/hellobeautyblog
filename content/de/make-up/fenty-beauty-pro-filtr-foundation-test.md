@@ -11,8 +11,8 @@ categories:
 tags: ["fenty beauty", "foundation", "matt", "hohe deckkraft", "fettige haut", "langanhaltend", "große farbauswahl"]
 keywords: ["fenty pro filtr erfahrung", "beste foundation fettige haut", "fenty foundation farbton finden", "foundation hohe deckkraft", "langanhaltende foundation test", "fenty beauty 50 farbtöne"]
 images:
-  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-swatch.jpg
+  - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-2.jpg
   - /images/makeup/fenty-beauty-pro-filtr-soft-matte-longwear-foundation-3.jpg
 featured: false

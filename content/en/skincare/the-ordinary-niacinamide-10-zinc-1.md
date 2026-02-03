@@ -11,8 +11,8 @@ categories:
 tags: ["the ordinary", "niacinamide serum", "oily skin", "acne treatment", "pore minimizer", "zinc", "affordable skincare", "combination skin"]
 keywords: ["the ordinary niacinamide review", "niacinamide 10 zinc 1 results", "best serum for oily skin", "niacinamide before and after", "the ordinary acne serum", "affordable pore minimizer", "niacinamide vs vitamin c"]
 images:
-  - /images/skincare/the-ordinary-niacinamide-10-zinc-1.jpg
   - /images/skincare/the-ordinary-niacinamide-10-zinc-1-swatch.jpg
+  - /images/skincare/the-ordinary-niacinamide-10-zinc-1.jpg
   - /images/skincare/the-ordinary-niacinamide-10-zinc-1-2.jpg
   - /images/skincare/the-ordinary-niacinamide-10-zinc-1-3.jpg
 featured: false
