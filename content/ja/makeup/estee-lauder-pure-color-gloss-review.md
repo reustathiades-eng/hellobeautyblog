@@ -15,6 +15,7 @@ author: ""
 authorSlug: ""
 lastmod: 2010-07-25
 images:
-  - /images/makeup/estee-lauder-pure-color-gloss.jpg---
+  - /images/makeup/estee-lauder-pure-color-gloss.jpg
+---
 
 エスティ ローダーから新しいリップグロスコレクションが登場しました。

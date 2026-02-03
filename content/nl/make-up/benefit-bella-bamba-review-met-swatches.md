@@ -16,6 +16,7 @@ author: ""
 authorSlug: ""
 lastmod: 2011-02-15
 images:
-  - /images/makeup/benefit-bella-bamba-review-swatches.jpg---
+  - /images/makeup/benefit-bella-bamba-review-swatches.jpg
+---
 
 Hoe presteert Benefit Bella Bamba? Met swatches.

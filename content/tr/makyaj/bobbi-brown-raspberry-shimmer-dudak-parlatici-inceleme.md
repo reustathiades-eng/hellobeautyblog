@@ -16,6 +16,7 @@ author: ""
 authorSlug: ""
 lastmod: 2010-07-15
 images:
-  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg---
+  - /images/makeup/bobbi-brown-raspberry-shimmer-lip-gloss.jpg
+---
 
 Bobbi Brown Raspberry Shimmer Lip Gloss yeni vazgeçilmezimiz mi?

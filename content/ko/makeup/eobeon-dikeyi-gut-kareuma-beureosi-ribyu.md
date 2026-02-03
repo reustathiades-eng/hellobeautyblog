@@ -15,6 +15,7 @@ author: ""
 authorSlug: ""
 lastmod: 2010-08-25
 images:
-  - /images/makeup/urban-decay-good-karma-brushes-review.jpg---
+  - /images/makeup/urban-decay-good-karma-brushes-review.jpg
+---
 
 어반 디케이 굿 카르마 브러쉬 리뷰입니다.

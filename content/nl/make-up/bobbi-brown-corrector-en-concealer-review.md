@@ -16,6 +16,7 @@ author: ""
 authorSlug: ""
 lastmod: 2011-03-25
 images:
-  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg---
+  - /images/makeup/bobbi-brown-corrector-concealer-review.jpg
+---
 
 Indrukwekkende voor- en na-resultaten.

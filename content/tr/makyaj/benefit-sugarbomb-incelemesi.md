@@ -16,6 +16,7 @@ author: ""
 authorSlug: ""
 lastmod: 2009-12-15
 images:
-  - /images/makeup/benefit-sugarbomb-review.jpg---
+  - /images/makeup/benefit-sugarbomb-review.jpg
+---
 
 Benefit Sugarbomb incelemesi.
