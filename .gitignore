@@ -25,3 +25,5 @@ Thumbs.db
 generation/.secrets/
 .secrets
 docs/CREDENTIALS.md
+__pycache__/
+*.pyc
