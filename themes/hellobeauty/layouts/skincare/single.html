@@ -195,7 +195,10 @@
             </h3>
             <div class="categories-tags">
                 {{ $lang := $.Language.Lang }}
-                {{ $subcats := index $.Site.Data.skincare_subcats $lang }}
+                {{ $allSubcats := $.Site.Data.skincare_subcats }}
+                {{ if $allSubcats }}
+                {{ $subcats := index $allSubcats $lang }}
+                {{ if $subcats }}
                 {{ range . }}
                     {{ $info := index $subcats . }}
                     {{ with $info }}
@@ -203,6 +206,8 @@
                         {{ with .emoji }}{{ . }} {{ end }}{{ .title }}
                     </a>
                     {{ end }}
+                {{ end }}
+                {{ end }}
                 {{ end }}
             </div>
         </div>
