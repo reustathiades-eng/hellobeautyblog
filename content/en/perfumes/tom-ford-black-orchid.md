@@ -10,7 +10,11 @@ categories:
   - "Perfumes"
 tags: ["tom ford", "black truffle", "oriental-spicy", "evening", "patchouli", "dark chocolate", "winter perfume", "luxury fragrance"]
 keywords: ["tom ford black orchid review", "best gothic perfume 2025", "black orchid longevity", "tom ford black orchid worth it", "dark oriental perfumes", "black orchid vs shalimar", "seductive winter fragrance"]
-images: []
+images:
+  - /images/perfumes/tom-ford-black-orchid-swatch.jpg
+  - /images/perfumes/tom-ford-black-orchid.jpg
+  - /images/perfumes/tom-ford-black-orchid-2.jpg
+  - /images/perfumes/tom-ford-black-orchid-3.jpg
 featured: false
 draft: false
 brand: "Tom Ford"
