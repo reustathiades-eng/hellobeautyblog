@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "the-ordinary-niacinamide-10-zinc-1",
+    "brand": "The Ordinary",
+    "name": "Niacinamide 10% + Zinc 1%",
+    "category": "skincare",
+    "subcategories": [],
+    "images": []
+  },
+  {
+    "slug": "fenty-beauty-pro-filtr-soft-matte-longwear-foundation",
+    "brand": "Fenty Beauty",
+    "name": "Pro Filt'r Soft Matte Longwear Foundation",
+    "category": "makeup",
+    "subcategories": [],
+    "images": []
+  },
+  {
+    "slug": "olaplex-no-3-hair-perfector",
+    "brand": "Olaplex",
+    "name": "No. 3 Hair Perfector",
+    "category": "haircare",
+    "subcategories": [],
+    "images": []
+  }
+]

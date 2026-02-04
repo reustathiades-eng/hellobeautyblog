@@ -1,18 +1,5 @@
 [
   {
-    "brand": "Fenty Beauty",
-    "name": "Pro Filt'r Soft Matte Longwear Foundation",
-    "slug": "fenty-beauty-pro-filtr-soft-matte-longwear-foundation",
-    "subcategories": [
-      "matte",
-      "fenty-beauty",
-      "full-coverage",
-      "face",
-      "longwear",
-      "foundation"
-    ]
-  },
-  {
     "brand": "NARS",
     "name": "Radiant Creamy Concealer",
     "slug": "nars-radiant-creamy-concealer",
@@ -5660,14 +5647,6 @@
     "brand": "Paula's Choice",
     "name": "2% BHA Liquid Exfoliant",
     "slug": "paulas-choice-2-bha-liquid-exfoliant",
-    "subcategories": [
-      "oily-skin"
-    ]
-  },
-  {
-    "brand": "The Ordinary",
-    "name": "Niacinamide 10% + Zinc 1%",
-    "slug": "the-ordinary-niacinamide-10-zinc-1",
     "subcategories": [
       "oily-skin"
     ]

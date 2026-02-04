@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HBB — Image Manager</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f7; color: #1d1d1f; }
+
+/* Header */
+.header { background: white; border-bottom: 1px solid #e5e5e7; padding: 16px 24px; position: sticky; top: 0; z-index: 100; }
+.header h1 { font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+.header h1 span { color: #F8C8DC; }
+.header-stats { display: flex; gap: 16px; margin-top: 8px; font-size: 13px; color: #86868b; }
+.header-stats .stat { display: flex; align-items: center; gap: 4px; }
+.header-stats .stat b { color: #1d1d1f; }
+
+/* Tabs */
+.tabs { display: flex; gap: 0; background: white; border-bottom: 1px solid #e5e5e7; padding: 0 24px; }
+.tab { padding: 12px 20px; font-size: 14px; font-weight: 500; color: #86868b; cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.2s; }
+.tab:hover { color: #1d1d1f; }
+.tab.active { color: #F8C8DC; border-bottom-color: #F8C8DC; }
+.tab .badge { background: #F8C8DC; color: white; font-size: 11px; padding: 2px 7px; border-radius: 10px; margin-left: 6px; }
+.tab .badge.green { background: #34c759; }
+
+/* Toolbar */
+.toolbar { display: flex; gap: 12px; padding: 16px 24px; align-items: center; flex-wrap: wrap; }
+.toolbar select, .toolbar input { padding: 8px 12px; border: 1px solid #d2d2d7; border-radius: 8px; font-size: 13px; background: white; }
+.toolbar select { min-width: 140px; }
+.toolbar input[type="search"] { width: 250px; }
+.btn { padding: 8px 16px; border-radius: 8px; font-size: 13px; font-weight: 500; cursor: pointer; border: none; transition: all 0.2s; }
+.btn-primary { background: #F8C8DC; color: white; }
+.btn-primary:hover { background: #E8A8BC; }
+.btn-secondary { background: #e5e5e7; color: #1d1d1f; }
+.btn-secondary:hover { background: #d2d2d7; }
+.btn-sm { padding: 5px 10px; font-size: 12px; }
+
+/* Subcat coverage bar */
+.coverage-bar { padding: 12px 24px; background: white; border-bottom: 1px solid #e5e5e7; }
+.coverage-row { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px; }
+.coverage-pill { font-size: 10px; padding: 2px 8px; border-radius: 10px; white-space: nowrap; }
+.coverage-pill.empty { background: #fecaca; color: #991b1b; }
+.coverage-pill.low { background: #fef3c7; color: #92400e; }
+.coverage-pill.ok { background: #d1fae5; color: #065f46; }
+.coverage-label { font-size: 12px; font-weight: 600; color: #86868b; text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* Product list */
+.product-list { padding: 16px 24px; }
+.product-card { background: white; border-radius: 12px; padding: 16px 20px; margin-bottom: 10px; border: 1px solid #e5e5e7; transition: all 0.2s; }
+.product-card:hover { border-color: #F8C8DC; }
+.product-card.has-images { border-left: 3px solid #34c759; }
+.product-card.generating { border-left: 3px solid #ff9f0a; }
+.product-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.product-info { flex: 1; }
+.product-brand { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: #86868b; }
+.product-name { font-size: 15px; font-weight: 600; margin-top: 2px; }
+.product-cat { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 6px; margin-top: 4px; font-weight: 500; }
+.product-cat.perfumes { background: #fdf2f8; color: #be185d; }
+.product-cat.skincare { background: #f0fdf4; color: #166534; }
+.product-cat.makeup { background: #fef3c7; color: #92400e; }
+.product-cat.haircare { background: #ede9fe; color: #5b21b6; }
+.product-subcats { margin-top: 6px; display: flex; gap: 4px; flex-wrap: wrap; }
+.product-subcats .subcat { font-size: 10px; padding: 1px 6px; background: #f5f5f7; border-radius: 4px; color: #6e6e73; }
+.product-subcats .subcat.empty { background: #fecaca; color: #991b1b; font-weight: 600; }
+.product-priority { font-size: 11px; padding: 3px 8px; border-radius: 6px; font-weight: 600; white-space: nowrap; }
+.priority-high { background: #fecaca; color: #991b1b; }
+.priority-medium { background: #fef3c7; color: #92400e; }
+.priority-low { background: #d1fae5; color: #065f46; }
+
+/* Image inputs */
+.image-section { margin-top: 12px; }
+.image-row { display: flex; gap: 8px; margin-bottom: 6px; align-items: center; }
+.image-row input { flex: 1; padding: 6px 10px; border: 1px solid #d2d2d7; border-radius: 6px; font-size: 12px; }
+.image-textarea { width: 100%; padding: 8px 10px; border: 1px solid #d2d2d7; border-radius: 8px; font-size: 12px; font-family: monospace; resize: vertical; line-height: 1.6; }
+.image-textarea:focus { border-color: #F8C8DC; outline: none; }
+.image-hint { font-size: 11px; color: #86868b; margin-top: 4px; }
+.product-actions { display: flex; gap: 8px; margin-top: 10px; }
+
+/* Status badges */
+.status-badge { font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 500; }
+.status-pending { background: #f5f5f7; color: #86868b; }
+.status-ready { background: #d1fae5; color: #065f46; }
+.status-generating { background: #fef3c7; color: #92400e; }
+.status-published { background: #dbeafe; color: #1e40af; }
+.status-error { background: #fecaca; color: #991b1b; }
+
+/* Pagination */
+.pagination { display: flex; justify-content: center; gap: 8px; padding: 20px; }
+.pagination button { padding: 6px 14px; border-radius: 6px; border: 1px solid #d2d2d7; background: white; cursor: pointer; font-size: 13px; }
+.pagination button.active { background: #F8C8DC; color: white; border-color: #F8C8DC; }
+.pagination button:disabled { opacity: 0.4; cursor: default; }
+
+/* Empty state */
+.empty-state { text-align: center; padding: 60px 20px; color: #86868b; }
+.empty-state h3 { font-size: 18px; margin-bottom: 8px; color: #1d1d1f; }
+
+/* Loading */
+.loading { text-align: center; padding: 60px; color: #86868b; }
+.spinner { display: inline-block; width: 24px; height: 24px; border: 3px solid #e5e5e7; border-top-color: #F8C8DC; border-radius: 50%; animation: spin 0.8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Toast */
+.toast { position: fixed; bottom: 20px; right: 20px; background: #1d1d1f; color: white; padding: 12px 20px; border-radius: 10px; font-size: 13px; z-index: 999; opacity: 0; transition: opacity 0.3s; }
+.toast.show { opacity: 1; }
+
+/* Lot panel */
+.lot-panel { position: fixed; bottom: 0; left: 0; right: 0; background: white; border-top: 2px solid #F8C8DC; padding: 12px 24px; display: none; z-index: 90; box-shadow: 0 -4px 20px rgba(0,0,0,0.1); }
+.lot-panel.visible { display: flex; align-items: center; justify-content: space-between; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🌸 <span>HelloBeautyBlog</span> — Image Manager</h1>
+  <div class="header-stats">
+    <div class="stat">Total: <b id="stat-total">—</b></div>
+    <div class="stat">Ready: <b id="stat-ready">—</b></div>
+    <div class="stat">Published: <b id="stat-published">—</b></div>
+    <div class="stat">Empty subcats: <b id="stat-empty-subcats">—</b></div>
+  </div>
+</div>
+
+<div class="tabs">
+  <div class="tab active" data-tab="products">📋 Products <span class="badge" id="badge-products">0</span></div>
+  <div class="tab" data-tab="published">✅ Published <span class="badge green" id="badge-published">0</span></div>
+  <div class="tab" data-tab="coverage">📊 Coverage</div>
+</div>
+
+<div class="toolbar" id="toolbar-products">
+  <select id="filter-category">
+    <option value="">All categories</option>
+    <option value="perfumes">🌸 Perfumes</option>
+    <option value="skincare">🧴 Skincare</option>
+    <option value="makeup">💄 Makeup</option>
+    <option value="haircare">💇 Haircare</option>
+  </select>
+  <select id="filter-status">
+    <option value="">All statuses</option>
+    <option value="pending">⏳ Pending images</option>
+    <option value="ready">✅ Ready</option>
+    <option value="generating">🔄 Generating</option>
+    <option value="error">❌ Error</option>
+  </select>
+  <input type="search" id="search-input" placeholder="Search brand or product...">
+  <button class="btn btn-primary" id="btn-launch-gen">🚀 Generate (<span id="lot-count">0</span> ready)</button>
+      <button class="btn btn-secondary" id="btn-export-lot">📦 Export JSON</button>
+</div>
+
+<div class="toolbar" id="toolbar-published" style="display:none;">
+  <select id="filter-pub-category">
+    <option value="">All categories</option>
+    <option value="perfumes">🌸 Perfumes</option>
+    <option value="skincare">🧴 Skincare</option>
+    <option value="makeup">💄 Makeup</option>
+    <option value="haircare">💇 Haircare</option>
+  </select>
+  <input type="search" id="search-pub-input" placeholder="Search published...">
+</div>
+
+<div id="panel-products">
+  <div class="product-list" id="product-list"></div>
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<div id="panel-published" style="display:none;">
+  <div class="product-list" id="published-list"></div>
+</div>
+
+<div id="panel-coverage" style="display:none;">
+  <div class="coverage-bar" id="coverage-detail"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<!-- Generation Modal -->
+<div class="modal-overlay" id="gen-modal" style="display:none;">
+  <div class="modal">
+    <div class="modal-header">
+      <h3>🚀 Launch Generation</h3>
+      <span class="modal-close" onclick="closeGenModal()">×</span>
+    </div>
+    <div class="modal-body">
+      <div id="gen-modal-summary"></div>
+      <div class="modal-options">
+        <label><input type="checkbox" id="gen-en-only"> EN only (test, no translations)</label>
+        <div class="modal-langs" id="gen-langs-select" style="display:none;">
+          <label>Specific languages:</label>
+          <input type="text" id="gen-langs-input" placeholder="fr,de,es (empty = all 14)">
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary" onclick="closeGenModal()">Cancel</button>
+      <button class="btn btn-primary" id="btn-confirm-gen" onclick="confirmGeneration()">🚀 Start Generation</button>
+    </div>
+  </div>
+</div>
+
+<!-- Log Panel -->
+<div class="log-panel" id="log-panel" style="display:none;">
+  <div class="log-header">
+    <span>📋 Generation Log</span>
+    <div>
+      <span class="log-status" id="log-status">●</span>
+      <button class="btn btn-sm btn-secondary" onclick="closeLogPanel()">✕</button>
+    </div>
+  </div>
+  <pre class="log-content" id="log-content"></pre>
+</div>
+
+<style>
+/* Modal */
+.modal-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.4); z-index:200; display:flex; align-items:center; justify-content:center; }
+.modal { background:white; border-radius:16px; width:500px; max-width:90vw; box-shadow:0 20px 60px rgba(0,0,0,0.2); }
+.modal-header { display:flex; justify-content:space-between; align-items:center; padding:20px 24px 12px; }
+.modal-header h3 { font-size:18px; font-weight:600; }
+.modal-close { cursor:pointer; font-size:22px; color:#86868b; }
+.modal-body { padding:0 24px 16px; }
+.modal-options { margin-top:16px; display:flex; flex-direction:column; gap:10px; }
+.modal-options label { font-size:13px; display:flex; align-items:center; gap:8px; cursor:pointer; }
+.modal-options input[type="text"] { padding:6px 10px; border:1px solid #d2d2d7; border-radius:6px; font-size:13px; width:200px; margin-top:4px; }
+.modal-footer { display:flex; justify-content:flex-end; gap:10px; padding:12px 24px 20px; }
+.modal-product-list { max-height:200px; overflow-y:auto; margin-top:12px; }
+.modal-product-item { font-size:12px; padding:4px 0; color:#4B5563; border-bottom:1px solid #f5f5f7; }
+.modal-product-item .mpcat { font-size:10px; padding:1px 6px; border-radius:4px; margin-left:6px; }
+
+/* Log panel */
+.log-panel { position:fixed; bottom:0; right:0; width:600px; max-width:100vw; height:350px; background:#1d1d1f; border-radius:12px 12px 0 0; z-index:150; display:flex; flex-direction:column; box-shadow:0 -4px 30px rgba(0,0,0,0.3); }
+.log-header { display:flex; justify-content:space-between; align-items:center; padding:10px 16px; color:white; font-size:13px; font-weight:600; border-bottom:1px solid #333; }
+.log-header .btn-sm { color:#999; border-color:#555; }
+.log-status { font-size:10px; margin-right:8px; }
+.log-status.running { color:#34c759; }
+.log-status.done { color:#86868b; }
+.log-content { flex:1; overflow-y:auto; padding:12px 16px; color:#e5e5e7; font-size:11px; line-height:1.6; font-family:'SF Mono',Monaco,monospace; white-space:pre-wrap; word-break:break-all; margin:0; }
+.log-content .log-ok { color:#34c759; }
+.log-content .log-err { color:#ff453a; }
+.log-content .log-warn { color:#ff9f0a; }
+.log-content .log-info { color:#64d2ff; }
+
+/* Retry button on product cards */
+.btn-retry { background:#fef3c7; color:#92400e; }
+.btn-retry:hover { background:#fde68a; }
+</style>
+
+<script>
+const API = window.location.origin;
+const PER_PAGE = 50;
+let allProducts = [];
+let publishedProducts = [];
+let subcatStats = {};
+let currentPage = 1;
+let currentTab = 'products';
+
+// Init
+async function init() {
+  document.getElementById('product-list').innerHTML = '<div class="loading"><div class="spinner"></div><p style="margin-top:12px">Loading products...</p></div>';
+  const res = await fetch(API + '/api/products');
+  const data = await res.json();
+  allProducts = data.products;
+  publishedProducts = data.published;
+  subcatStats = data.subcat_stats;
+  
+  document.getElementById('stat-total').textContent = data.total_products;
+  document.getElementById('stat-published').textContent = data.total_published;
+  document.getElementById('stat-ready').textContent = allProducts.filter(p => p.status === 'ready').length;
+  
+  const emptySubcats = Object.values(subcatStats).filter(v => v === 0).length;
+  document.getElementById('stat-empty-subcats').textContent = emptySubcats;
+  
+  document.getElementById('badge-products').textContent = allProducts.length;
+  document.getElementById('badge-published').textContent = publishedProducts.length;
+  document.getElementById('lot-count').textContent = allProducts.filter(p => p.status === 'ready').length;
+  
+  renderProducts();
+  renderCoverage();
+}
+
+// Filtering
+function getFiltered() {
+  let list = allProducts;
+  const cat = document.getElementById('filter-category').value;
+  const status = document.getElementById('filter-status').value;
+  const search = document.getElementById('search-input').value.toLowerCase();
+  
+  if (cat) list = list.filter(p => p.category === cat);
+  if (status) list = list.filter(p => p.status === status);
+  if (search) list = list.filter(p => 
+    p.brand.toLowerCase().includes(search) || 
+    p.name.toLowerCase().includes(search) ||
+    p.slug.includes(search)
+  );
+  return list;
+}
+
+function getFilteredPublished() {
+  let list = publishedProducts;
+  const cat = document.getElementById('filter-pub-category').value;
+  const search = document.getElementById('search-pub-input').value.toLowerCase();
+  if (cat) list = list.filter(p => p.category === cat);
+  if (search) list = list.filter(p => p.brand.toLowerCase().includes(search) || p.name.toLowerCase().includes(search));
+  return list;
+}
+
+// Render products
+function renderProducts() {
+  const filtered = getFiltered();
+  const start = (currentPage - 1) * PER_PAGE;
+  const page = filtered.slice(start, start + PER_PAGE);
+  
+  const container = document.getElementById('product-list');
+  if (page.length === 0) {
+    container.innerHTML = '<div class="empty-state"><h3>No products found</h3><p>Try adjusting your filters</p></div>';
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+  
+  container.innerHTML = page.map((p, i) => {
+    const idx = start + i;
+    const imgCount = p.images ? p.images.length : 0;
+    const cardClass = imgCount > 0 ? 'has-images' : (p.status === 'generating' ? 'generating' : '');
+    
+    let priorityLabel = '';
+    if (p.empty_subcats > 0) {
+      priorityLabel = `<span class="product-priority priority-high">🔴 ${p.empty_subcats} empty subcat${p.empty_subcats > 1 ? 's' : ''}</span>`;
+    } else if (p.min_coverage < 3) {
+      priorityLabel = `<span class="product-priority priority-medium">🟡 min ${p.min_coverage}/subcat</span>`;
+    } else {
+      priorityLabel = `<span class="product-priority priority-low">🟢 ${p.min_coverage}/subcat</span>`;
+    }
+    
+    const statusBadge = `<span class="status-badge status-${p.status}">${p.status}</span>`;
+    
+    // Subcategory pills with empty highlight
+    const subcatPills = p.subcategories.map(s => {
+      const key = `${p.category}:${s}`;
+      const count = subcatStats[key];
+      const cls = count === 0 ? 'empty' : (count !== undefined ? '' : '');
+      return count !== undefined ? `<span class="subcat ${cls}">${s} (${count})</span>` : `<span class="subcat">${s}</span>`;
+    }).join('');
+    
+    // Image inputs - single textarea, one URL per line
+    const images = p.images && p.images.length > 0 ? p.images : [];
+    const imageText = images.join('\n');
+    const imageCount = images.filter(u => u).length;
+    
+    return `
+      <div class="product-card ${cardClass}" id="card-${p.slug}">
+        <div class="product-header">
+          <div class="product-info">
+            <span class="product-brand">${p.brand}</span>
+            <div class="product-name">${p.name}</div>
+            <span class="product-cat ${p.category}">${p.category}</span>
+            ${statusBadge}
+            ${priorityLabel}
+            <div class="product-subcats">${subcatPills}</div>
+          </div>
+        </div>
+        <div class="image-section" id="images-${p.slug}">
+          <textarea class="image-textarea" id="textarea-${p.slug}" placeholder="Paste image URLs, one per line (max 5)&#10;https://example.com/image1.jpg&#10;https://example.com/image2.jpg" rows="3">${imageText}</textarea>
+          <div class="image-hint">${imageCount}/5 images</div>
+        </div>
+        <div class="product-actions">
+          <button class="btn btn-sm btn-primary" onclick="saveImages('${p.slug}', ${idx})" id="save-${p.slug}">💾 Save</button>
+          ${p.status === 'ready' ? `<button class="btn btn-sm btn-secondary" onclick="generateOne('${p.slug}')">🚀 Generate</button>` : ''}
+          ${p.status === 'error' || (p.generated_langs && p.generated_langs.length > 0 && p.generated_langs.length < 14) ? `<button class="btn btn-sm btn-retry" onclick="retryMissing('${p.slug}', '${(p.generated_langs||[]).join(',')}')">🔄 ${14 - (p.generated_langs||[]).length} langs missing</button>` : ''}
+          ${p.status === 'generating' ? '<span class="status-badge status-generating">⏳ generating...</span>' : ''}
+        </div>
+      </div>
+    `;
+  }).join('');
+  
+  // Pagination
+  const totalPages = Math.ceil(filtered.length / PER_PAGE);
+  const pagEl = document.getElementById('pagination');
+  if (totalPages <= 1) { pagEl.innerHTML = ''; return; }
+  
+  let pagHtml = `<button ${currentPage === 1 ? 'disabled' : ''} onclick="goPage(${currentPage-1})">‹</button>`;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+      pagHtml += `<button class="${i === currentPage ? 'active' : ''}" onclick="goPage(${i})">${i}</button>`;
+    } else if (Math.abs(i - currentPage) === 3) {
+      pagHtml += `<button disabled>…</button>`;
+    }
+  }
+  pagHtml += `<button ${currentPage === totalPages ? 'disabled' : ''} onclick="goPage(${currentPage+1})">›</button>`;
+  pagEl.innerHTML = pagHtml;
+}
+
+function renderPublished() {
+  const filtered = getFilteredPublished();
+  const container = document.getElementById('published-list');
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="empty-state"><h3>No published products</h3></div>';
+    return;
+  }
+  container.innerHTML = filtered.map(p => `
+    <div class="product-card has-images">
+      <div class="product-header">
+        <div class="product-info">
+          <span class="product-brand">${p.brand}</span>
+          <div class="product-name">${p.name}</div>
+          <span class="product-cat ${p.category}">${p.category}</span>
+          <span class="status-badge status-published">published — ${(p.generated_langs || []).length}/14 langs</span>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderCoverage() {
+  const container = document.getElementById('coverage-detail');
+  let html = '';
+  for (const cat of ['perfumes', 'skincare', 'makeup', 'haircare']) {
+    const entries = Object.entries(subcatStats).filter(([k]) => k.startsWith(cat + ':'));
+    entries.sort((a, b) => a[1] - b[1]);
+    const empty = entries.filter(([,v]) => v === 0).length;
+    html += `<div style="margin-bottom:16px;">
+      <div class="coverage-label">${cat} (${empty} empty / ${entries.length} total)</div>
+      <div class="coverage-row">
+        ${entries.map(([k, v]) => {
+          const name = k.split(':')[1];
+          const cls = v === 0 ? 'empty' : v < 3 ? 'low' : 'ok';
+          return `<span class="coverage-pill ${cls}">${name}: ${v}</span>`;
+        }).join('')}
+      </div>
+    </div>`;
+  }
+  container.innerHTML = html;
+}
+
+// Image management
+function getProductByIdx(idx) {
+  const filtered = getFiltered();
+  return filtered[idx];
+}
+
+async function saveImages(slug, productIdx) {
+  const p = getProductByIdx(productIdx);
+  // Collect URLs from textarea
+  const textarea = document.getElementById('textarea-' + slug);
+  const images = textarea.value.split('\n').map(u => u.trim()).filter(v => v).slice(0, 5);
+  
+  const res = await fetch(API + '/api/save-images', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ slug, images })
+  });
+  
+  if (res.ok) {
+    p.images = images;
+    p.status = images.length >= 1 ? 'ready' : 'pending';
+    toast(`✅ ${p.brand} ${p.name} — ${images.length} image(s) saved`);
+    updateStats();
+    renderProducts();
+  }
+}
+
+// Export lot
+async function exportLot() {
+  const readyProducts = allProducts.filter(p => p.status === 'ready');
+  if (readyProducts.length === 0) {
+    toast('⚠️ No products ready for export');
+    return;
+  }
+  window.open(API + '/api/export-lot', '_blank');
+  toast(`📦 Exported ${readyProducts.length} products`);
+}
+
+// Tabs
+document.querySelectorAll('.tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    currentTab = tab.dataset.tab;
+    
+    document.getElementById('panel-products').style.display = currentTab === 'products' ? '' : 'none';
+    document.getElementById('toolbar-products').style.display = currentTab === 'products' ? '' : 'none';
+    document.getElementById('panel-published').style.display = currentTab === 'published' ? '' : 'none';
+    document.getElementById('toolbar-published').style.display = currentTab === 'published' ? '' : 'none';
+    document.getElementById('panel-coverage').style.display = currentTab === 'coverage' ? '' : 'none';
+    
+    if (currentTab === 'published') renderPublished();
+  });
+});
+
+// Filters
+document.getElementById('filter-category').addEventListener('change', () => { currentPage = 1; renderProducts(); });
+document.getElementById('filter-status').addEventListener('change', () => { currentPage = 1; renderProducts(); });
+document.getElementById('search-input').addEventListener('input', () => { currentPage = 1; renderProducts(); });
+document.getElementById('filter-pub-category').addEventListener('change', renderPublished);
+document.getElementById('search-pub-input').addEventListener('input', renderPublished);
+document.getElementById('btn-export-lot').addEventListener('click', exportLot);
+document.getElementById('btn-launch-gen').addEventListener('click', openGenModal);
+document.getElementById('gen-en-only').addEventListener('change', (e) => {
+  document.getElementById('gen-langs-select').style.display = e.target.checked ? 'none' : '';
+});
+
+function goPage(n) { currentPage = n; renderProducts(); window.scrollTo(0, 0); }
+
+function updateStats() {
+  document.getElementById('stat-ready').textContent = allProducts.filter(p => p.status === 'ready').length;
+  document.getElementById('lot-count').textContent = allProducts.filter(p => p.status === 'ready').length;
+}
+
+function toast(msg) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  setTimeout(() => el.classList.remove('show'), 2500);
+}
+
+
+// ===== GENERATION =====
+let currentLogFile = null;
+let logPollInterval = null;
+
+function openGenModal() {
+  const ready = allProducts.filter(p => p.status === 'ready');
+  if (ready.length === 0) {
+    toast('⚠️ No products ready — save images first');
+    return;
+  }
+  
+  const summary = document.getElementById('gen-modal-summary');
+  summary.innerHTML = `
+    <p style="font-size:14px;margin-bottom:8px;"><b>${ready.length}</b> products ready to generate</p>
+    <div class="modal-product-list">
+      ${ready.map(p => `<div class="modal-product-item">
+        <b>${p.brand}</b> ${p.name} <span class="mpcat product-cat ${p.category}">${p.category}</span>
+      </div>`).join('')}
+    </div>
+    <p style="font-size:12px;color:#86868b;margin-top:10px;">⏱ ~3-5 min per product (14 languages) · Auto git push on completion</p>
+  `;
+  document.getElementById('gen-modal').style.display = 'flex';
+}
+
+function closeGenModal() {
+  document.getElementById('gen-modal').style.display = 'none';
+}
+
+async function confirmGeneration() {
+  const ready = allProducts.filter(p => p.status === 'ready');
+  const enOnly = document.getElementById('gen-en-only').checked;
+  const langsInput = document.getElementById('gen-langs-input').value.trim();
+  
+  let args = '';
+  if (enOnly) args = '--en-only';
+  else if (langsInput) args = '--lang=' + langsInput;
+  
+  closeGenModal();
+  
+  const res = await fetch(API + '/api/launch-generation', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ products: ready, args })
+  });
+  const data = await res.json();
+  
+  if (data.ok) {
+    toast('🚀 Generation started — ' + data.count + ' products');
+    // Mark products as generating
+    ready.forEach(p => p.status = 'generating');
+    renderProducts();
+    updateStats();
+    // Open log panel
+    openLogPanel(data.log);
+  }
+}
+
+function generateOne(slug) {
+  const product = allProducts.find(p => p.slug === slug);
+  if (!product) return;
+  
+  if (!confirm('Generate ' + product.brand + ' ' + product.name + ' in all 14 languages?')) return;
+  
+  fetch(API + '/api/launch-generation', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ products: [product], args: '' })
+  }).then(r => r.json()).then(data => {
+    if (data.ok) {
+      toast('🚀 Generating ' + product.name + '...');
+      product.status = 'generating';
+      renderProducts();
+      openLogPanel(data.log);
+    }
+  });
+}
+
+function retryMissing(slug, existingLangs) {
+  const product = allProducts.find(p => p.slug === slug);
+  if (!product) return;
+  
+  const allLangs = ['en','fr','de','es','it','pt','nl','pl','tr','ja','ko','zh','ar','hi'];
+  const existing = existingLangs ? existingLangs.split(',') : [];
+  const missing = allLangs.filter(l => !existing.includes(l) && l !== 'en');
+  
+  if (missing.length === 0) { toast('All languages generated!'); return; }
+  
+  if (!confirm('Generate missing languages for ' + product.name + '?\n\nMissing: ' + missing.join(', '))) return;
+  
+  fetch(API + '/api/launch-generation', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ products: [product], args: '--lang=' + missing.join(',') })
+  }).then(r => r.json()).then(data => {
+    if (data.ok) {
+      toast('🔄 Retrying ' + missing.length + ' languages...');
+      product.status = 'generating';
+      renderProducts();
+      openLogPanel(data.log);
+    }
+  });
+}
+
+function openLogPanel(logFile) {
+  currentLogFile = logFile;
+  document.getElementById('log-panel').style.display = 'flex';
+  document.getElementById('log-status').className = 'log-status running';
+  document.getElementById('log-status').textContent = '● Running';
+  document.getElementById('log-content').textContent = 'Starting...\n';
+  
+  // Poll log every 3 seconds
+  if (logPollInterval) clearInterval(logPollInterval);
+  logPollInterval = setInterval(pollLog, 3000);
+  pollLog();
+}
+
+async function pollLog() {
+  if (!currentLogFile) return;
+  try {
+    const res = await fetch(API + '/api/generation-log?file=' + encodeURIComponent(currentLogFile));
+    const data = await res.json();
+    
+    if (data.lines && data.lines.length > 0) {
+      const el = document.getElementById('log-content');
+      el.innerHTML = data.lines.map(line => {
+        if (line.includes('✅')) return '<span class="log-ok">' + escHtml(line) + '</span>';
+        if (line.includes('❌') || line.includes('FATAL') || line.includes('FAILED')) return '<span class="log-err">' + escHtml(line) + '</span>';
+        if (line.includes('⚠️') || line.includes('Rate limited')) return '<span class="log-warn">' + escHtml(line) + '</span>';
+        if (line.includes('🔸') || line.includes('🎉') || line.includes('📦')) return '<span class="log-info">' + escHtml(line) + '</span>';
+        return escHtml(line);
+      }).join('');
+      el.scrollTop = el.scrollHeight;
+      
+      // Check if done
+      const lastLine = data.lines[data.lines.length - 1];
+      if (lastLine.includes('Done in') || lastLine.includes('Git push done')) {
+        document.getElementById('log-status').className = 'log-status done';
+        document.getElementById('log-status').textContent = '● Done';
+        clearInterval(logPollInterval);
+        // Refresh data
+        setTimeout(init, 5000);
+      }
+    }
+  } catch(e) {}
+}
+
+function closeLogPanel() {
+  document.getElementById('log-panel').style.display = 'none';
+  if (logPollInterval) clearInterval(logPollInterval);
+  currentLogFile = null;
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+init();
+</script>
+
+</body>
+</html>

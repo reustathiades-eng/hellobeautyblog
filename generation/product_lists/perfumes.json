@@ -1,33 +1,5 @@
 [
   {
-    "brand": "Chanel",
-    "name": "No. 5",
-    "slug": "chanel-no-5",
-    "gender": "women",
-    "subcategories": [
-      "floral",
-      "floral-powdery",
-      "romantic",
-      "women",
-      "evening",
-      "wedding"
-    ]
-  },
-  {
-    "brand": "Tom Ford",
-    "name": "Black Orchid",
-    "slug": "tom-ford-black-orchid",
-    "gender": "unisex",
-    "subcategories": [
-      "unisex",
-      "oriental",
-      "romantic",
-      "winter",
-      "evening",
-      "oriental-spicy"
-    ]
-  },
-  {
     "brand": "Creed",
     "name": "Aventus",
     "slug": "creed-aventus",
@@ -1438,21 +1410,6 @@
       "spicy",
       "winter",
       "men",
-      "evening"
-    ]
-  },
-  {
-    "brand": "Maison Margiela",
-    "name": "REPLICA By the Fireplace",
-    "slug": "maison-margiela-replica-by-the-fireplace",
-    "gender": "unisex",
-    "subcategories": [
-      "woody",
-      "unisex",
-      "oriental",
-      "romantic",
-      "gourmand",
-      "winter",
       "evening"
     ]
   },
@@ -6808,20 +6765,6 @@
       "casual",
       "autumn",
       "playful"
-    ]
-  },
-  {
-    "brand": "Guerlain",
-    "name": "Shalimar",
-    "slug": "guerlain-shalimar",
-    "gender": "women",
-    "subcategories": [
-      "oriental-amber",
-      "oriental",
-      "women",
-      "evening",
-      "formal",
-      "classic"
     ]
   },
   {

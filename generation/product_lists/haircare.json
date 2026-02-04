@@ -1,19 +1,5 @@
 [
   {
-    "brand": "Olaplex",
-    "name": "No. 3 Hair Perfector",
-    "slug": "olaplex-no-3-hair-perfector",
-    "subcategories": [
-      "wavy",
-      "hair-serum",
-      "color-protection",
-      "straight",
-      "damage-repair",
-      "curly",
-      "olaplex"
-    ]
-  },
-  {
     "brand": "Kerastase",
     "name": "Elixir Ultime Hair Oil",
     "slug": "kerastase-elixir-ultime-hair-oil",
