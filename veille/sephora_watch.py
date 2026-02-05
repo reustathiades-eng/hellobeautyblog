@@ -25,6 +25,7 @@ PRODUCT_LISTS_DIR = BASE_DIR / "generation" / "product_lists"
 VEILLE_DIR = BASE_DIR / "veille"
 RESULTS_DIR = VEILLE_DIR / "results"
 KNOWN_PRODUCTS_FILE = VEILLE_DIR / "known_sephora_pids.json"
+ACCEPTED_BRANDS_FILE = VEILLE_DIR / "accepted_brands.json"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15',
@@ -50,8 +51,21 @@ PAGES_PER_CATEGORY = 2  # 2 pages max (120 products) — covers all nouveautés 
 PAGE_SIZE = 60
 
 
-def load_hbb_brands():
-    """Load all brands from our product lists (lowercase)."""
+def load_accepted_brands():
+    """Load accepted brands from veille/accepted_brands.json (per-category, lowercase).
+    Returns dict: {category: set(brand_lower)} + flat set for backward compat."""
+    if ACCEPTED_BRANDS_FILE.exists():
+        with open(ACCEPTED_BRANDS_FILE) as f:
+            data = json.load(f)
+        per_cat = {}
+        all_brands = set()
+        for cat in ['perfumes', 'skincare', 'makeup', 'haircare']:
+            cat_brands = set(b.lower() for b in data.get(cat, []))
+            per_cat[cat] = cat_brands
+            all_brands |= cat_brands
+        return per_cat, all_brands
+    # Fallback: load from product lists
+    print("⚠️  accepted_brands.json non trouvé, fallback sur product_lists")
     brands = set()
     for cat in ['perfumes', 'skincare', 'makeup', 'haircare']:
         filepath = PRODUCT_LISTS_DIR / f"{cat}.json"
@@ -61,7 +75,7 @@ def load_hbb_brands():
                     b = p.get('brand', '').strip()
                     if b:
                         brands.add(b.lower())
-    return brands
+    return {}, brands
 
 
 def load_hbb_slugs():
@@ -217,9 +231,6 @@ def is_real_product(product):
     skip_natures = ['coffrets', 'sets', 'miniatures', 'accessoires',
                     'fer a lisser', 'fer a boucler', 'seche-cheveux']
     
-    # Skip hair tools and accessories (Dyson, GHD stylers etc.)
-    if 'accessory' in bc_lower or 'straightener' in bc_lower:
-        return False
     
     for kw in skip_keywords:
         if kw in name_lower:
@@ -243,11 +254,14 @@ def run_veille(dry_run=False):
     print(f"{'='*60}\n")
 
     # Load reference data
-    hbb_brands = load_hbb_brands()
+    brands_per_cat, hbb_brands = load_accepted_brands()
     hbb_slugs = load_hbb_slugs()
     known_pids = load_known_pids()
 
-    print(f"📊 Référence HBB: {len(hbb_brands)} marques, {len(hbb_slugs)} produits")
+    print(f"📊 Référence HBB: {len(hbb_brands)} marques acceptées, {len(hbb_slugs)} produits existants")
+    if brands_per_cat:
+        for cat, bs in sorted(brands_per_cat.items()):
+            print(f"   {cat}: {len(bs)} marques")
     print(f"📊 PIDs Sephora déjà vus: {len(known_pids)}")
     print()
 
@@ -280,8 +294,13 @@ def run_veille(dry_run=False):
         if not is_real_product(product):
             continue
 
-        # Match our brands
-        if normalize_brand(product['brand_raw']) not in hbb_brands:
+        # Match our brands (category-aware if available)
+        brand_lower = normalize_brand(product['brand_raw'])
+        cat = product['hbb_category']
+        if brands_per_cat and cat in brands_per_cat:
+            if brand_lower not in brands_per_cat[cat]:
+                continue
+        elif brand_lower not in hbb_brands:
             continue
 
         classified.append(product)
