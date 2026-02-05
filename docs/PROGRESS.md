@@ -1,14 +1,41 @@
 # PROGRESS.md — État d'avancement du projet
-> Dernière mise à jour : 3 février 2026 (soir)
+> Dernière mise à jour : 5 février 2026 (après-midi)
 
 ## ✅ TERMINÉ
 
-### Infrastructure
-- [x] Hugo + Cloudflare Pages configuré et fonctionnel
+### Infrastructure — Serveur de développement (olfapedia)
+- [x] Hugo + config multilingue sur olfapedia:/home/ubuntu/hbb
 - [x] 14 langues configurées avec slugs traduits
 - [x] Thème hellobeauty (Fresh & Modern, rose poudré)
 - [x] Domain hellobeautyblog.com actif
-- [x] GitHub repo + auto-deploy
+- [x] GitHub repo (reustathiades-eng/hellobeautyblog) — sert de backup
+
+### Infrastructure — VPS Production (ovh-vps : 54.36.208.49)
+- [x] VPS OVH Ubuntu 24.04 (6 vCores, 12 Go RAM, 100 Go SSD)
+- [x] Docker + Docker Compose installés
+- [x] n8n + PostgreSQL running (docker containers)
+- [x] Hugo Extended 0.142.0 installé
+- [x] Nginx configuré (site principal + n8n reverse proxy)
+- [x] SSL site principal (certificat auto-signé + Cloudflare Full)
+- [x] SSL n8n via Let's Encrypt (valide jusqu'au 6 mai 2026)
+- [x] DNS Cloudflare : hellobeautyblog.com (proxied), n8n.hellobeautyblog.com (DNS only)
+- [x] Firewall UFW activé (SSH, 80, 443)
+- [x] Fail2ban installé et actif
+- [x] Webhook auto-deploy (GitHub push → git pull → Hugo build)
+- [x] Site live : https://hellobeautyblog.com ✅
+- [x] n8n live : https://n8n.hellobeautyblog.com ✅
+- [x] Scripts utilitaires : build.sh, deploy.sh, purge-cache.sh, webhook.sh
+- [x] Cron maintenance : certbot renew, docker prune, log rotation
+- [x] Swap 2 Go ajouté sur olfapedia (éviter OOM MariaDB/Redis)
+
+### n8n — Automatisation
+- [x] Compte owner créé (Romain)
+- [x] Licence gratuite activée
+- [x] Clé API Claude injectée dans l'environnement Docker (ANTHROPIC_API_KEY)
+- [x] Volume /var/www/hellobeautyblog monté dans le container n8n
+- [x] Workflow "HelloBeauty — Publication Quotidienne" importé
+  - Cron 10h00 ou Test Manuel → Lire next_batch.json → Loop produits → Claude API → Formater Markdown → Écrire fichier → Hugo Build → Git Push
+- [x] Fichier test next_batch.json créé (1 produit Chanel Chance Eau Tendre)
 
 ### Sous-catégories (199 × 14 langues = 2786 pages)
 - [x] Perfumes : 52 sous-catégories (3 gender, 7 family, 32 subfamily, 9 occasion, 1 extra)
@@ -18,7 +45,7 @@
 - [x] Toutes les sous-catégories ont des URLs traduites dans les 14 langues
 - [x] Contenu SEO (seo_title, intro, FAQ, seo_bottom) généré via API Claude
 
-### Traductions (3 février 2026)
+### Traductions
 - [x] 1911 titres/descriptions sous-catégories traduits
 - [x] 1085 slugs d'URL traduits (ex: /fr/soins/anti-age/)
 - [x] JSONs data/categories/ synchronisés avec les nouveaux slugs
@@ -36,161 +63,97 @@
 - [x] The Ordinary Niacinamide 10% + Zinc 1% (EN complet)
 - [x] Fenty Beauty Pro Filt'r Foundation (EN complet + FR/DE/ES/ZH traduits)
 - [x] Olaplex No. 3 Hair Perfector (EN complet, 13 langues stubs)
-- [x] Briefs de génération : generation/prompts/{perfumes,skincare,makeup,haircare}.txt
-- [x] Brief de traduction : generation/prompts/translate.txt
-- [x] Script de traduction test : generation/test_translate_fenty.py
 
-### Corrections techniques (3 février 2026 soir)
-- [x] Images frontmatter ajoutées à 879 fichiers (skincare/makeup/haircare × 14 langues)
-- [x] Ordre images corrigé : swatch EN PREMIER pour les 4 produits test
-- [x] 10 YAML cassés réparés (bug `jpg---` sans newline)
-- [x] translationKey Olaplex harmonisé (EN "olaplex-no-3-hair-perfector" → "olaplex-no-3")
-- [x] Images Olaplex stubs corrigées (olaplex-no-3.webp → 4 vraies images)
-- [x] featured: false pour les stubs Olaplex (13 langues)
-- [x] Brief translate.txt amélioré : devises €/$, translationKey CRITICAL, images CRITICAL, ES pricing
+### Corrections techniques
+- [x] Images frontmatter ajoutées à 879 fichiers
+- [x] Ordre images corrigé : swatch EN PREMIER
+- [x] 10 YAML cassés réparés
+- [x] translationKey harmonisés
+- [x] Brief translate.txt amélioré
 
 ### SEO global
 - [x] Textes SEO homepage (14 langues)
 - [x] SEO data JSON par catégorie × 14 langues
 
-### Listes de produits à générer (Étape 1 FAITE)
-- [x] Perfumes : 511 produits listés → /home/ubuntu/hbb/generation/product_lists/perfumes.json
-- [x] Skincare : 278 produits listés → /home/ubuntu/hbb/generation/product_lists/skincare.json
-- [x] Makeup : 500 produits listés → /home/ubuntu/hbb/generation/product_lists/makeup.json
-- [x] Haircare : 270 produits listés → /home/ubuntu/hbb/generation/product_lists/haircare.json
-- [x] Gaps : 70 produits pour combler sous-catégories < 3 → /home/ubuntu/hbb/generation/product_lists/gaps.json
-- [x] TOTAL : 1 629 produits avec caractéristiques (brand, name, slug, subcategories)
+### Listes de produits (Étape 1)
+- [x] 1 629 produits listés avec caractéristiques (brand, name, slug, subcategories)
 - [x] Vérification couverture : au moins 3 produits par sous-catégorie
+- [x] Fichiers : generation/product_lists/{perfumes,skincare,makeup,haircare,gaps}.json
 
 ---
 
 ## 🟡 EN COURS / PROCHAINE ÉTAPE
 
-### Étape 2 : Interface de saisie des URLs images + Génération fiches
+### Tester le workflow n8n
+- [ ] Exécuter le workflow avec le produit test (Chanel Chance Eau Tendre)
+- [ ] Vérifier la fiche générée sur le site
+- [ ] Ajuster le prompt/format si nécessaire
 
-**Workflow :**
-1. ✅ Lister les 1629 produits (FAIT)
-2. ✅ Déterminer caractéristiques JSON (FAIT)
-3. ⏳ **Créer interface pour renseigner jusqu'à 4 URLs d'images par produit**
-4. ⏳ Télécharger les images sur le serveur
-5. ⏳ Générer les fiches Hugo en 14 langues via API Claude
-6. ⏳ Git push → deploy Cloudflare
+### Enrichir le workflow n8n
+- [ ] Ajouter la traduction en 13 langues (actuellement EN seulement)
+- [ ] Ajouter gestion des images (téléchargement + placement)
+- [ ] Ajouter purge cache Cloudflare (remplir .env.cloudflare)
+- [ ] Ajouter notification email/Slack en fin de process
+- [ ] Ajouter sélection automatique du batch quotidien depuis les listes de produits
 
-**Interface requise :**
-- Afficher les 1629 produits (filtrable par catégorie)
-- Champ pour renseigner jusqu'à 4 URLs d'images par produit
-- Bouton de validation
-- Export JSON pour lancer la génération
-- Afficher 100 produits par page
-
-**Structure JSON produit :**
-```json
-{
-  "brand": "Chanel",
-  "name": "No. 5",
-  "slug": "chanel-no-5",
-  "gender": "women",
-  "subcategories": ["women", "floral", "floral-aldehyde", "evening", "romantic"]
-}
-```
-
-### Fichiers clés
-- Listes produits : /home/ubuntu/hbb/generation/product_lists/
-- Script génération : /home/ubuntu/hbb/generation/generate_product_lists.py
-- API key : /home/ubuntu/hbb/.secrets
-- Template produit : themes/hellobeauty/layouts/_default/single.html
+### Credentials à remplir
+- [ ] .env.cloudflare sur le VPS (CF_ZONE_ID + CF_API_TOKEN)
 
 ---
 
-## ⏳ À FAIRE (après les 1629 produits)
+## ⏳ À FAIRE (après workflow fonctionnel)
+
+### Production de contenu
+- [ ] Générer les 1 570 produits restants via n8n (30/jour × 14 langues)
+- [ ] Interface de saisie des URLs images (ou automatisation scraping)
 
 ### Monétisation
 - [ ] Intégrer Skimlinks
-- [ ] Configurer Amazon Associates (multi-pays)
+- [ ] Configurer Amazon Associates (multi-pays via OneLink)
 - [ ] Intégrer Awin (Sephora, Douglas, Notino)
+- [ ] Pages légales (mentions légales, CGU, affiliate disclosure)
 
 ### Technique
-- [ ] Pipeline automatique (scrape → generate → deploy)
-- [ ] Analytics (Google Analytics ou Plausible)
+- [ ] Analytics (Plausible déjà dans le code, à vérifier)
 - [ ] Sitemap optimization
+- [ ] Performance audit (Core Web Vitals)
 
-### Design
-- [ ] Dark mode (optionnel)
+### Design (optionnel)
+- [ ] Dark mode
 - [ ] Recherche Pagefind
 - [ ] Newsletter (Formspree)
 
 ---
 
-## 📊 RÉCAPITULATIF SOUS-CATÉGORIES
+## 📊 ARCHITECTURE ACTUELLE
 
-### Perfumes (52 sous-catégories)
-| Type | Nb | Slugs |
-|------|-----|-------|
-| gender | 3 | women, men, unisex |
-| family | 7 | floral, oriental, woody, fresh, aromatic, chypre, gourmand |
-| subfamily | 32 | floral-fruity, floral-white, ... gourmand-chocolate |
-| occasion | 9 | everyday, evening, romantic, office, summer, winter, wedding, sport, travel |
-| extra | 1 | |
+### Flux de publication
+```
+n8n (VPS) → Claude API → Fichiers .md → Hugo build → Site live
+                                              ↓
+                                    Git push (backup GitHub)
+```
 
-### Skincare (51 sous-catégories)
-| Type | Nb | Slugs |
-|------|-----|-------|
-| product_type | 12 | cleanser, toner, serum, essence, moisturizer, eye-cream, sunscreen, mask, exfoliator, oil, mist, spot-treatment |
-| skin_type | 6 | oily, dry, combination, sensitive, normal, mature |
-| concern | 10 | anti-aging, acne, hydration, brightening, dark-spots, pores, redness, wrinkles, dark-circles, firmness |
-| ingredient | 8 | retinol, vitamin-c, hyaluronic-acid, niacinamide, salicylic-acid, glycolic-acid, peptides, ceramides |
-| brand | 15 | cerave, la-roche-posay, the-ordinary, neutrogena, clinique, olay, kiehls, drunk-elephant, tatcha, glow-recipe, paulas-choice, sk-ii, estee-lauder, lancome, vichy |
+### Serveurs
+| Serveur | Rôle | Accès MCP |
+|---------|------|-----------|
+| olfapedia (vps-7f46cd78) | Dev Hugo + HBB source | olfapedia:exec |
+| ovh-vps (54.36.208.49) | Production site + n8n | ovh-vps:exec |
 
-### Makeup (51 sous-catégories)
-| Type | Nb | Slugs |
-|------|-----|-------|
-| product_type | 20 | foundation, concealer, primer, powder, blush, bronzer, contour, highlighter, setting-spray, mascara, eyeliner, eyeshadow, eye-primer, brows, false-lashes, lipstick, lip-gloss, lip-liner, lip-balm, nail-polish |
-| zone | 5 | face, eyes, lips, brows, nails |
-| finish | 5 | matte, dewy, satin, shimmer, natural |
-| coverage | 3 | light-coverage, medium-coverage, full-coverage |
-| skin_type | 3 | oily-skin, dry-skin, sensitive-skin |
-| brand | 15 | mac, maybelline, nars, fenty-beauty, charlotte-tilbury, rare-beauty, huda-beauty, urban-decay, too-faced, nyx, elf, tarte, dior-beauty, chanel-beauty, bobbi-brown |
-
-### Haircare (46 sous-catégories)
-| Type | Nb | Slugs |
-|------|-----|-------|
-| product_type | 12 | shampoo, conditioner, hair-mask, hair-oil, leave-in, serum, dry-shampoo, heat-protection, styling-cream, styling-gel, hair-spray, scalp-treatment |
-| hair_type | 8 | fine-hair, thick-hair, curly-hair, wavy-hair, straight-hair, coily-hair, color-treated, natural-hair |
-| concern | 11 | volume, repair, hydration, frizz, dandruff, color-protection, hair-growth, thinning, split-ends, shine, scalp-health |
-| brand | 15 | kerastase, olaplex, moroccanoil, redken, loreal-professionnel, pantene, tresemme, aveda, k18, gisou, garnier, john-frieda, bumble-and-bumble, living-proof, briogeo |
-
-### Totaux
-| Section | Types | Sous-cat | Pages (×14 langues) |
-|---------|-------|----------|---------------------|
-| Perfumes | 4 | 52 | 728 |
-| Skincare | 5 | 51 | 714 |
-| Makeup | 6 | 51 | 714 |
-| Haircare | 4 | 46 | 644 |
-| **TOTAL** | **19** | **200** | **2 800** |
+### Services sur VPS Production
+| Service | URL/Port | Statut |
+|---------|----------|--------|
+| Site Hugo | https://hellobeautyblog.com | ✅ Live |
+| n8n | https://n8n.hellobeautyblog.com | ✅ Live |
+| PostgreSQL | port 5432 (Docker) | ✅ Running |
+| Nginx | ports 80+443 | ✅ Running |
 
 ### Produits à générer
-| Catégorie | Produits listés | Existants | À générer |
-|-----------|----------------|-----------|-----------|
+| Catégorie | Total | Existants | Restants |
+|-----------|-------|-----------|----------|
 | Perfumes | 511 | 13 | 498 |
 | Skincare | 278 | 11 | 267 |
 | Makeup | 500 | 30 | 470 |
 | Haircare | 270 | 5 | 265 |
 | Gaps | 70 | 0 | 70 |
 | **TOTAL** | **1 629** | **59** | **1 570** |
-
----
-
-## ⚠️ NOTES TECHNIQUES
-
-### MCP SSH (olfapedia:exec)
-- Timeout 60s → toujours nohup + background pour les commandes longues
-- Petites commandes pour éviter les timeouts
-
-### Hugo
-- theme: "hellobeauty" OBLIGATOIRE dans config.yaml
-- defaultContentLanguageInSubdir: true OBLIGATOIRE
-- Le champ url: dans frontmatter override le slug du dossier
-
-### Cloudflare Pages
-- Build timeout : 20 min max
-- Un build stuck bloque toute la queue → annuler manuellement
