@@ -205,4 +205,3 @@ MIT License - voir [LICENSE](LICENSE)
 ---
 
 **Made with 💖 and Hugo**
-<!-- VPS deploy test -->
