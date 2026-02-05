@@ -174,18 +174,47 @@ def classify_product(sephora_product):
     elif target_lower == 'mixte':
         gender = 'unisex'
 
-    # Map to HBB category
-    hbb_category = 'perfumes'  # default
-    section_lower = section.lower()
-    if section_lower in ('parfum', 'fragrance'):
-        hbb_category = 'perfumes'
-    elif section_lower == 'maquillage':
-        hbb_category = 'makeup'
-    elif section_lower == 'soin':
-        hbb_category = 'skincare'
-    elif section_lower == 'hair':
-        hbb_category = 'haircare'
-
+    # Map to HBB category - breadcrumb is the most reliable source
+    hbb_category = "unknown"
+    bc_lower = breadcrumb.lower()
+    if bc_lower.startswith("fragrance"):
+        hbb_category = "perfumes"
+    elif bc_lower.startswith("makeup"):
+        hbb_category = "makeup"
+    elif bc_lower.startswith("skincare"):
+        hbb_category = "skincare"
+    elif bc_lower.startswith("hair"):
+        hbb_category = "haircare"
+    else:
+        # Fallback: use nature field
+        nature_lower = nature.lower()
+        perfume_natures = {"edp", "edt", "parfum", "perfume", "cologne", "essences", "body mist"}
+        makeup_natures = {"foundation", "concealer", "lipstick", "lipgloss", "mascara",
+                          "blush", "sun powder", "bb / cc cream", "eye shadow", "lip care",
+                          "face others", "eyeliner", "eyebrow"}
+        skincare_natures = {"day & targeted cream", "serum", "night cream", "mask",
+                            "cleanser", "toner", "moisturizer", "eye cream"}
+        haircare_natures = {"shampoing", "apres-shampoing", "masque", "huile",
+                            "fer a lisser", "fer a boucler", "seche-cheveux", "lotion"}
+        if nature_lower in perfume_natures:
+            hbb_category = "perfumes"
+        elif nature_lower in makeup_natures:
+            hbb_category = "makeup"
+        elif nature_lower in skincare_natures:
+            hbb_category = "skincare"
+        elif nature_lower in haircare_natures:
+            hbb_category = "haircare"
+        else:
+            # Last resort: section field
+            section_lower = section.lower()
+            if section_lower in ("parfum", "fragrance"):
+                hbb_category = "perfumes"
+            elif section_lower == "maquillage":
+                hbb_category = "makeup"
+            elif section_lower == "soin":
+                hbb_category = "skincare"
+            elif section_lower == "hair":
+                hbb_category = "haircare"
     return {
         'brand': brand.title(),
         'brand_raw': brand,
@@ -207,17 +236,25 @@ def classify_product(sephora_product):
 
 
 def is_real_product(product):
-    """Filter out coffrets, duos, minis, and non-product items."""
+    """Filter out coffrets, duos, minis, combos, tools, and non-product items."""
     name_lower = product['full_name'].lower()
     nature_lower = product['nature'].lower()
+    bc_lower = product.get('breadcrumb', '').lower()
     
-    # Skip coffrets, sets, duos, minis, accessories
+    # Skip coffrets, sets, duos, minis, combos, accessories
     skip_keywords = [
         'coffret', 'coffrets', 'set ', 'duo ', 'trio ',
         'mini ', 'travel', 'format voyage', 'routine',
         'kit ', 'collection ', 'bestsellers',
+        'combo ', 'combo ', 'essentiels ', 'popular set',
+        'rituel ',
     ]
-    skip_natures = ['coffrets', 'sets', 'miniatures', 'accessoires']
+    skip_natures = ['coffrets', 'sets', 'miniatures', 'accessoires',
+                    'fer a lisser', 'fer a boucler', 'seche-cheveux']
+    
+    # Skip hair tools and accessories (Dyson, GHD stylers etc.)
+    if 'accessory' in bc_lower or 'straightener' in bc_lower:
+        return False
     
     for kw in skip_keywords:
         if kw in name_lower:
@@ -225,6 +262,10 @@ def is_real_product(product):
     for sn in skip_natures:
         if sn in nature_lower:
             return False
+    
+    # Skip products with unknown category (unclassifiable)
+    if product.get('hbb_category') == 'unknown':
+        return False
     
     return True
 
