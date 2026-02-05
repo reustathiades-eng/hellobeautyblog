@@ -12,7 +12,6 @@ tags: ["montale", "rose", "musc", "mixte", "floral", "romantique", "bureau", "qu
 keywords: ["montale intense roses musk avis", "meilleur parfum rose musc 2025", "montale intense roses musk tenue", "parfum rose propre", "parfum rose bureau", "rose musc mixte"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

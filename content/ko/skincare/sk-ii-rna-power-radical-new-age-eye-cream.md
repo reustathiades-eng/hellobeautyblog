@@ -12,7 +12,6 @@ tags: ["sk-ii", "아이크림", "안티에이징", "주름", "펩타이드", "�
 keywords: ["sk-ii rna 파워 아이크림 후기", "럭셔리 아이크림 추천", "sk-ii 아이크림 효과", "비싼 아이크림 가성비", "피테라 아이크림", "눈가 주름 개선", "sk-ii 아이크림 솔직후기"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

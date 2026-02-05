@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/maison-margiela-lazy-sunday-morning-2.webp"
   - "/images/perfumes/maison-margiela-lazy-sunday-morning-3.webp"
   - "/images/perfumes/maison-margiela-lazy-sunday-morning-4.webp"
-  - "/images/perfumes/maison-margiela-lazy-sunday-morning.webp"
-  - "/images/perfumes/maison-margiela-lazy-sunday-morning-2.webp"
-  - "/images/perfumes/maison-margiela-lazy-sunday-morning-3.webp"
-  - "/images/perfumes/maison-margiela-lazy-sunday-morning-4.webp"
 featured: false
 draft: false
 brand: "Maison Margiela"

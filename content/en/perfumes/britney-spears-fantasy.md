@@ -13,8 +13,6 @@ keywords: ["britney spears fantasy review", "best celebrity perfume 2025", "fant
 images:
   - "/images/perfumes/britney-spears-fantasy.webp"
   - "/images/perfumes/britney-spears-fantasy-2.webp"
-  - "/images/perfumes/britney-spears-fantasy.webp"
-  - "/images/perfumes/britney-spears-fantasy-2.webp"
 featured: false
 draft: false
 brand: "Britney Spears"

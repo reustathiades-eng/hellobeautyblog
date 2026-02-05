@@ -12,7 +12,6 @@ tags: ["carolina herrera", "خوخ", "شامبانيا", "مسائي", "زهري
 keywords: ["كارولينا هيريرا 212 vip rose تجربة", "افضل عطر زهري فاكهي 2025", "212 vip rose ثبات", "الفرق بين 212 vip rose والاصلي", "عطر مسائي رومانسي نسائي", "عطر برائحة الشامبانيا"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

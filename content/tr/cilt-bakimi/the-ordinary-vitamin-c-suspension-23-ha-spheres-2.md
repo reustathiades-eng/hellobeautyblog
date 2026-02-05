@@ -14,9 +14,6 @@ images:
   - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2.webp"
   - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2-2.webp"
   - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2-3.webp"
-  - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2.webp"
-  - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2-2.webp"
-  - "/images/skincare/the-ordinary-vitamin-c-suspension-23-ha-spheres-2-3.webp"
 featured: false
 draft: false
 brand: "The Ordinary"

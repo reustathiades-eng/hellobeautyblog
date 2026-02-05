@@ -13,8 +13,6 @@ keywords: ["理肤泉维c精华怎么样", "最好用的淡斑精华", "纯维c�
 images:
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
 featured: false
 draft: false
 brand: "La Roche-Posay"

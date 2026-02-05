@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "wanilia", "perfumy wieczorowe", "orientalne", "liczi"
 keywords: ["dolce gabbana the one desire opinie", "the one desire trwałość", "najlepsze orientalno-waniliowe perfumy 2025", "the one desire czy the one", "zmysłowe zimowe perfumy damskie", "dolce gabbana desire siła zapachu", "romantyczne perfumy na wieczór"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

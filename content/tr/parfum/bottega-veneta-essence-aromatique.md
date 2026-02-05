@@ -12,7 +12,6 @@ tags: ["bottega veneta", "ardıç meyvesi", "odunsu aromatik", "ofis parfümü",
 keywords: ["bottega veneta essence aromatique yorumlar", "en iyi odunsu aromatik parfüm 2025", "bottega veneta essence aromatique kalıcılığı", "ofis için sofistike parfüm", "unisex odunsu parfüm", "italyan lüks parfüm", "essence aromatique performansı"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

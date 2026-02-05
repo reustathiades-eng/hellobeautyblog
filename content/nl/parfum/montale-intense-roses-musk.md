@@ -12,7 +12,6 @@ tags: ["montale", "roos", "musk", "unisex", "bloemig", "romantisch", "kantoor", 
 keywords: ["montale intense roses musk review", "beste roos musk parfum 2025", "montale intense roses musk houdbaarheid", "frisse roos parfum", "kantoor roos geur", "unisex roos musk"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

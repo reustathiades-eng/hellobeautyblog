@@ -12,7 +12,6 @@ tags: ["bottega veneta", "baies de genièvre", "boisé aromatique", "parfum bure
 keywords: ["bottega veneta essence aromatique avis", "meilleur parfum boisé aromatique 2025", "bottega veneta essence aromatique tenue", "parfum sophistiqué bureau", "parfum boisé mixte", "parfum luxe italien", "essence aromatique performance"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

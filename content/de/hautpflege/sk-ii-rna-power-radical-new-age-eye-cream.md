@@ -12,7 +12,6 @@ tags: ["sk-ii", "augencreme", "anti-aging", "falten", "peptide", "luxus hautpfle
 keywords: ["sk-ii rna power augencreme erfahrung", "beste luxus augencreme gegen falten", "sk-ii augencreme ergebnisse", "teure augencreme lohnt sich", "pitera augencreme vorteile", "anti-aging augenpflege test", "sk-ii vs estee lauder augencreme"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

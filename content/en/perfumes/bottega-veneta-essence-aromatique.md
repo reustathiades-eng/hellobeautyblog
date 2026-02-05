@@ -12,7 +12,6 @@ tags: ["bottega veneta", "juniper berries", "woody aromatic", "office fragrance"
 keywords: ["bottega veneta essence aromatique review", "best woody aromatic perfume 2025", "bottega veneta essence aromatique longevity", "sophisticated office fragrance", "unisex woody perfume", "italian luxury perfume", "essence aromatique performance"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

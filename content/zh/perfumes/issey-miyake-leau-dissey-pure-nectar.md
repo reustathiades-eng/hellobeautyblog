@@ -13,8 +13,6 @@ keywords: ["三宅一生纯粹花蜜测评", "2025最佳花果香水", "一生�
 images:
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
 featured: false
 draft: false
 brand: "Issey Miyake"

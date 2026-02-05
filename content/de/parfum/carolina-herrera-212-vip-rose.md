@@ -12,7 +12,6 @@ tags: ["carolina herrera", "pfirsich", "champagner", "abend", "blumig-fruchtig",
 keywords: ["carolina herrera 212 vip rose test", "bestes blumig fruchtiges parfum 2025", "212 vip rose haltbarkeit", "212 vip rose vs original", "romantisches abendparfum damen", "champagner duft parfum"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

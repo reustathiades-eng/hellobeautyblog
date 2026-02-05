@@ -13,8 +13,6 @@ keywords: ["阿玛尼寄情水profumo测评", "男士晚间香水推荐2025", "�
 images:
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
 featured: false
 draft: false
 brand: "Giorgio Armani"

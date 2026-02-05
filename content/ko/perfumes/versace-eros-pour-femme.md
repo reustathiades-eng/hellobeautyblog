@@ -13,8 +13,6 @@ keywords: ["베르사체 에로스 푸르 팜 리뷰", "플로럴 오리엔탈 �
 images:
   - "/images/perfumes/versace-eros-pour-femme.webp"
   - "/images/perfumes/versace-eros-pour-femme-2.webp"
-  - "/images/perfumes/versace-eros-pour-femme.webp"
-  - "/images/perfumes/versace-eros-pour-femme-2.webp"
 featured: false
 draft: false
 brand: "Versace"

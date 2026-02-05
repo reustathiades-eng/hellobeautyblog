@@ -13,8 +13,6 @@ keywords: ["샤넬 알뤼르 옴므 스포츠 오 익스트림 리뷰", "남자 
 images:
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
 featured: false
 draft: false
 brand: "Chanel"

@@ -13,8 +13,6 @@ keywords: ["dior addict opinie", "dior addict recenzja", "najlepsze perfumy orie
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

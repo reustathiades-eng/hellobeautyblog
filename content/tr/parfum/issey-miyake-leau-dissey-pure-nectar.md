@@ -13,8 +13,6 @@ keywords: ["issey miyake leau dissey pure nectar inceleme", "en iyi çiçeksi me
 images:
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
 featured: false
 draft: false
 brand: "Issey Miyake"

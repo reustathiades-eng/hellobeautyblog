@@ -12,7 +12,6 @@ tags: ["cerave", "sérum de vitamina c", "clareamento", "manchas escuras", "anti
 keywords: ["cerave sérum vitamina c avaliação", "melhor vitamina c para manchas", "cerave clareador resultados", "sérum vitamina c barato", "vitamina c pele opaca", "cerave ou skinceuticals vitamina c", "vitamina c farmácia que funciona"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

@@ -12,7 +12,6 @@ tags: ["bottega veneta", "wacholder", "holzig aromatisch", "büroduft", "zedernh
 keywords: ["bottega veneta essence aromatique bewertung", "bester holziger duft 2025", "bottega veneta essence aromatique haltbarkeit", "eleganter büroduft", "unisex holzduft", "italienisches luxusparfum", "essence aromatique test"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

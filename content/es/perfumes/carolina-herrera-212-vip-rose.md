@@ -12,7 +12,6 @@ tags: ["carolina herrera", "melocotón", "champán", "noche", "floral-afrutado",
 keywords: ["carolina herrera 212 vip rose opiniones", "mejor perfume floral afrutado 2025", "212 vip rose duración", "212 vip rose vs original diferencias", "perfume romántico noche mujer", "fragancia aroma champán"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

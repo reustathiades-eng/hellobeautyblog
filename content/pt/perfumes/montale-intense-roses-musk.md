@@ -12,7 +12,6 @@ tags: ["montale", "rosa", "almíscar", "unissex", "floral", "romântico", "escri
 keywords: ["montale intense roses musk resenha", "melhor perfume rosa almíscar 2025", "montale intense roses musk fixação", "perfume rosa limpo", "perfume rosa para trabalhar", "rosa almíscar unissex"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "فانيليا", "عطر مسائي", "شرقي", "ل
 keywords: ["مراجعة عطر dolce gabbana the one desire", "ثبات the one desire", "أفضل عطر شرقي فانيليا 2025", "الفرق بين the one desire و the one", "عطر شتوي جذاب للنساء", "انتشار عطر dolce gabbana desire", "عطر مسائي رومانسي"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

@@ -12,7 +12,6 @@ tags: ["montale", "玫瑰", "麝香", "中性香", "花香", "约会", "通勤",
 keywords: ["蒙塔莱至强玫瑰麝香测评", "2025最佳玫瑰麝香香水", "montale玫瑰麝香留香时间", "干净玫瑰香水推荐", "办公室玫瑰香水", "中性玫瑰麝香香水"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

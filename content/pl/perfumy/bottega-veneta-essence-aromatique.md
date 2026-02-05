@@ -12,7 +12,6 @@ tags: ["bottega veneta", "jagody jałowca", "drzewno-aromatyczny", "perfumy do b
 keywords: ["bottega veneta essence aromatique recenzja", "najlepsze drzewne perfumy 2025", "bottega veneta essence aromatique trwałość", "eleganckie perfumy do pracy", "unisex perfumy drzewne", "luksusowe włoskie perfumy", "essence aromatique opinie"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

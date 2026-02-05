@@ -13,8 +13,6 @@ keywords: ["dior addict recensione", "migliori profumi orientali floreali 2025",
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

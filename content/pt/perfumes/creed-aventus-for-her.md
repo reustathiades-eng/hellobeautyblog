@@ -13,8 +13,6 @@ keywords: ["creed aventus for her avaliação", "aventus for her duração", "me
 images:
   - "/images/perfumes/creed-aventus-for-her.webp"
   - "/images/perfumes/creed-aventus-for-her-2.webp"
-  - "/images/perfumes/creed-aventus-for-her.webp"
-  - "/images/perfumes/creed-aventus-for-her-2.webp"
 featured: false
 draft: false
 brand: "Creed"

@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "baunilha", "perfume noturno", "oriental", "lichia", "
 keywords: ["dolce gabbana the one desire avaliação", "the one desire duração", "melhor perfume oriental baunilha 2025", "the one desire vs the one", "perfume inverno sedutor feminino", "dolce gabbana desire projeção", "perfume romântico noite"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

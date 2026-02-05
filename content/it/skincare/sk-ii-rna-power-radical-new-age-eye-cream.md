@@ -12,7 +12,6 @@ tags: ["sk-ii", "contorno occhi", "anti-età", "rughe", "peptidi", "skincare lus
 keywords: ["sk-ii rna power contorno occhi recensione", "miglior contorno occhi lusso rughe", "sk-ii contorno occhi risultati", "contorno occhi costoso vale la pena", "pitera contorno occhi benefici", "trattamento occhi anti-età", "sk-ii vs estee lauder contorno occhi"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

@@ -13,8 +13,6 @@ keywords: ["مراجعة أليان جودِس", "ثبات عطر أليان ج�
 images:
   - "/images/perfumes/thierry-mugler-alien-goddess.webp"
   - "/images/perfumes/thierry-mugler-alien-goddess-2.webp"
-  - "/images/perfumes/thierry-mugler-alien-goddess.webp"
-  - "/images/perfumes/thierry-mugler-alien-goddess-2.webp"
 featured: false
 draft: false
 brand: "Thierry Mugler"

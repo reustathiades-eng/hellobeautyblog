@@ -16,11 +16,6 @@ images:
   - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-3.webp"
   - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-4.webp"
   - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-5.webp"
-  - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15.webp"
-  - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-2.webp"
-  - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-3.webp"
-  - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-4.webp"
-  - "/images/skincare/estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15-5.webp"
 featured: false
 draft: false
 brand: "Estée Lauder"

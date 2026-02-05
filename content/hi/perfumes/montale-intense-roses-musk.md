@@ -12,7 +12,6 @@ tags: ["montale", "गुलाब", "मस्क", "यूनिसेक्�
 keywords: ["montale intense roses musk review hindi", "बेस्ट रोज़ मस्क परफ्यूम 2025", "montale intense roses musk टिकाऊपन", "साफ़ गुलाब परफ्यूम", "ऑफिस के लिए गुलाब की खुशबू", "यूनिसेक्स रोज़ मस्क परफ्यूम"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

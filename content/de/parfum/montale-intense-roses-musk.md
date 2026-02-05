@@ -12,7 +12,6 @@ tags: ["montale", "rose", "moschus", "unisex", "blumig", "romantisch", "büro", 
 keywords: ["montale intense roses musk test", "bestes rosen moschus parfum 2025", "montale intense roses musk haltbarkeit", "sauberer rosenduft", "bürotauglicher rosenduft", "unisex rosenmoschus"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

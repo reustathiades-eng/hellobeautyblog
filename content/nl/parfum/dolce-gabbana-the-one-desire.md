@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vanille", "avondparfum", "oriëntaals", "lychee", "da
 keywords: ["dolce gabbana the one desire review", "the one desire houdbaarheid", "beste oriëntaals vanilleparfum 2025", "the one desire versus the one", "verleidelijk winterparfum dames", "dolce gabbana desire sillage", "romantisch avondparfum"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

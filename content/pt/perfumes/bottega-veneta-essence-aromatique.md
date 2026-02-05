@@ -12,7 +12,6 @@ tags: ["bottega veneta", "bagas de zimbro", "amadeirado aromático", "perfume pa
 keywords: ["bottega veneta essence aromatique resenha", "melhor perfume amadeirado aromático 2025", "bottega veneta essence aromatique fixação", "perfume sofisticado para trabalho", "perfume amadeirado unissex", "perfume de luxo italiano", "essence aromatique vale a pena"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

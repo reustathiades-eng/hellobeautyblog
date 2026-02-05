@@ -12,7 +12,6 @@ tags: ["cerave", "serum z witaminą c", "rozjaśnianie", "przebarwienia", "anti-
 keywords: ["cerave serum z witaminą c opinie", "najlepsza witamina c na przebarwienia", "cerave serum rozjaśniające efekty", "tanie serum z witaminą c", "witamina c na szarą cerę", "cerave czy skinceuticals witamina c", "apteczna witamina c która działa"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

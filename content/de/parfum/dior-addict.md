@@ -13,8 +13,6 @@ keywords: ["dior addict parfum erfahrung", "dior addict bewertung", "dior addict
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

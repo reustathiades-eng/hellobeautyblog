@@ -12,7 +12,6 @@ tags: ["bottega veneta", "jeneverbessen", "houtig aromatisch", "kantoorparfum", 
 keywords: ["bottega veneta essence aromatique review", "beste houtige aromatische parfum 2025", "bottega veneta essence aromatique houdbaarheid", "chique kantoorparfum", "unisex houtige geur", "luxe italiaans parfum", "essence aromatique ervaring"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

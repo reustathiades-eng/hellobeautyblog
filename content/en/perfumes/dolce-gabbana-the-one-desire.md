@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vanilla", "evening perfume", "oriental", "litchi", "d
 keywords: ["dolce gabbana the one desire review", "the one desire longevity", "best oriental vanilla perfume 2025", "the one desire vs the one", "seductive winter perfume women", "dolce gabbana desire sillage", "romantic evening perfume"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

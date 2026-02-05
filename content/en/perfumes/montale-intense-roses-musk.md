@@ -12,7 +12,6 @@ tags: ["montale", "rose", "musk", "unisex", "floral", "romantic", "office", "eve
 keywords: ["montale intense roses musk review", "best rose musk perfume 2025", "montale intense roses musk longevity", "clean rose perfume", "office rose fragrance", "unisex rose musk"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

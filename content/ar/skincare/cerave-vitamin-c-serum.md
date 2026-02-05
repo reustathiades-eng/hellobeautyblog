@@ -12,7 +12,6 @@ tags: ["cerave", "سيروم فيتامين سي", "تفتيح", "بقع داك�
 keywords: ["تجربتي مع سيروم فيتامين سي سيرافي", "أفضل فيتامين سي للبقع الداكنة", "نتائج سيروم سيرافي المفتح", "سيروم فيتامين سي رخيص", "فيتامين سي للبشرة الباهتة", "مقارنة سيرافي وسكينسوتيكالز فيتامين سي", "فيتامين سي من الصيدلية يشتغل"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

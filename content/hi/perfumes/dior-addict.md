@@ -13,8 +13,6 @@ keywords: ["dior addict perfume review hindi", "best oriental floral perfume 202
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

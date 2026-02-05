@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "香草调", "晚香", "东方调", "荔枝", "约会�
 keywords: ["杜嘉班纳the one desire测评", "the one desire留香时间", "2025最好闻的东方香草香水", "the one desire和the one区别", "冬季约会香水推荐女士", "杜嘉班纳desire香水扩散力", "浪漫晚香推荐"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

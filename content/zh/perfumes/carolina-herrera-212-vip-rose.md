@@ -12,7 +12,6 @@ tags: ["carolina herrera", "蜜桃", "香槟", "晚间", "花香果香", "东方
 keywords: ["212 vip rose怎么样", "212 vip rose留香测评", "花香果香香水推荐2025", "约会香水推荐女士", "香槟调香水", "212 vip玫瑰版好闻吗", "冬季浪漫香水"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

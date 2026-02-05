@@ -13,8 +13,6 @@ keywords: ["아쿠아 디 지오 프로푸모 후기", "2025 최고의 이브닝
 images:
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
 featured: false
 draft: false
 brand: "Giorgio Armani"

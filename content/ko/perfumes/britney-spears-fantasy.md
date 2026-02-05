@@ -13,8 +13,6 @@ keywords: ["브리트니 스피어스 판타지 리뷰", "셀럽 향수 추천",
 images:
   - "/images/perfumes/britney-spears-fantasy.webp"
   - "/images/perfumes/britney-spears-fantasy-2.webp"
-  - "/images/perfumes/britney-spears-fantasy.webp"
-  - "/images/perfumes/britney-spears-fantasy-2.webp"
 featured: false
 draft: false
 brand: "Britney Spears"

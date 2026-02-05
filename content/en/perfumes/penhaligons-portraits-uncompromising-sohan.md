@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-2.webp"
   - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-3.webp"
   - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-4.webp"
-  - "/images/perfumes/penhaligons-portraits-uncompromising-sohan.webp"
-  - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-2.webp"
-  - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-3.webp"
-  - "/images/perfumes/penhaligons-portraits-uncompromising-sohan-4.webp"
 featured: false
 draft: false
 brand: "Penhaligon's"

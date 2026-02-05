@@ -13,8 +13,6 @@ keywords: ["이세이 미야케 로 디세이 퓨어 넥타르 리뷰", "플로�
 images:
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
   - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar.webp"
-  - "/images/perfumes/issey-miyake-leau-dissey-pure-nectar-2.webp"
 featured: false
 draft: false
 brand: "Issey Miyake"

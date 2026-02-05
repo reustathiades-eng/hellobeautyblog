@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vainilla", "perfume de noche", "oriental", "lichi", "
 keywords: ["dolce gabbana the one desire opiniones", "the one desire durabilidad", "mejor perfume oriental vainilla 2025", "the one desire comparación", "perfume seductor invierno mujer", "dolce gabbana desire estela", "perfume romántico noche"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

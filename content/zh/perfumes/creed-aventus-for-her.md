@@ -13,8 +13,6 @@ keywords: ["creed女王之水测评", "aventus女香留香时间", "2025最值�
 images:
   - "/images/perfumes/creed-aventus-for-her.webp"
   - "/images/perfumes/creed-aventus-for-her-2.webp"
-  - "/images/perfumes/creed-aventus-for-her.webp"
-  - "/images/perfumes/creed-aventus-for-her-2.webp"
 featured: false
 draft: false
 brand: "Creed"

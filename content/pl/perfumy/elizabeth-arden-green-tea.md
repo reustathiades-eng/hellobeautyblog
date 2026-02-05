@@ -14,9 +14,6 @@ images:
   - "/images/perfumes/elizabeth-arden-green-tea.webp"
   - "/images/perfumes/elizabeth-arden-green-tea-2.webp"
   - "/images/perfumes/elizabeth-arden-green-tea-3.webp"
-  - "/images/perfumes/elizabeth-arden-green-tea.webp"
-  - "/images/perfumes/elizabeth-arden-green-tea-2.webp"
-  - "/images/perfumes/elizabeth-arden-green-tea-3.webp"
 featured: false
 draft: false
 brand: "Elizabeth Arden"

@@ -13,8 +13,6 @@ keywords: ["chanel allure homme sport eau extreme review", "best sport fragrance
 images:
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
 featured: false
 draft: false
 brand: "Chanel"

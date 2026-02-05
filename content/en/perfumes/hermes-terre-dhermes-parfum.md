@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/hermes-terre-dhermes-parfum-3.webp"
   - "/images/perfumes/hermes-terre-dhermes-parfum-4.webp"
   - "/images/perfumes/hermes-terre-dhermes-parfum-5.webp"
-  - "/images/perfumes/hermes-terre-dhermes-parfum.webp"
-  - "/images/perfumes/hermes-terre-dhermes-parfum-2.webp"
-  - "/images/perfumes/hermes-terre-dhermes-parfum-3.webp"
-  - "/images/perfumes/hermes-terre-dhermes-parfum-4.webp"
-  - "/images/perfumes/hermes-terre-dhermes-parfum-5.webp"
 featured: false
 draft: false
 brand: "Hermès"

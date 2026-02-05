@@ -12,7 +12,6 @@ tags: ["sk-ii", "crème contour des yeux", "anti-âge", "rides", "peptides", "so
 keywords: ["sk-ii rna power avis", "meilleure crème yeux luxe rides", "sk-ii contour yeux résultats", "crème yeux chère efficace", "pitera contour yeux bienfaits", "soin anti-âge contour yeux", "sk-ii vs estee lauder crème yeux"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

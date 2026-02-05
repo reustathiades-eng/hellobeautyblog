@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vanilya", "akşam parfümü", "oryantal", "liçi", "r
 keywords: ["dolce gabbana the one desire yorumları", "the one desire kalıcılığı", "en iyi oryantal vanilya parfüm 2025", "the one desire ile the one karşılaştırma", "baştan çıkarıcı kış parfümü kadın", "dolce gabbana desire sillaj", "romantik akşam parfümü kadın", "tatlı vanilya parfüm önerileri"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

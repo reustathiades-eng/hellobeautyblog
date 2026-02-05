@@ -12,7 +12,6 @@ tags: ["montale", "rosa", "almizcle", "unisex", "floral", "romántico", "oficina
 keywords: ["montale intense roses musk opiniones", "mejor perfume rosa almizcle 2025", "montale intense roses musk duración", "perfume rosa limpio", "fragancia rosa oficina", "rosa almizcle unisex"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

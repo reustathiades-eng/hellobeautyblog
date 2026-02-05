@@ -12,7 +12,6 @@ tags: ["carolina herrera", "पीच", "शैम्पेन", "शाम", "�
 keywords: ["carolina herrera 212 vip rose रिव्यू हिंदी", "बेस्ट फ्लोरल फ्रूटी परफ्यूम 2025", "212 vip rose कितनी देर टिकता है", "212 vip rose vs ओरिजिनल", "रोमांटिक इवनिंग परफ्यूम महिलाओं के लिए", "शैम्पेन सेंट परफ्यूम"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

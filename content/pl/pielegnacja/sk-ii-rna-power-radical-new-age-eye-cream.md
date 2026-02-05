@@ -12,7 +12,6 @@ tags: ["sk-ii", "krem pod oczy", "anti-aging", "zmarszczki", "peptydy", "luksuso
 keywords: ["sk-ii rna power krem pod oczy opinie", "najlepszy luksusowy krem na zmarszczki", "sk-ii krem pod oczy efekty", "drogi krem pod oczy czy warto", "pitera krem pod oczy działanie", "krem przeciwzmarszczkowy na okolice oczu", "sk-ii czy estee lauder krem pod oczy"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

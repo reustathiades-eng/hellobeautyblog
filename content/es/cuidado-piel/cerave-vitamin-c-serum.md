@@ -12,7 +12,6 @@ tags: ["cerave", "sérum vitamina c", "iluminador", "manchas oscuras", "antimanc
 keywords: ["cerave sérum vitamina c opiniones", "mejor vitamina c para manchas", "cerave iluminador resultados", "sérum vitamina c barato que funciona", "vitamina c para piel apagada", "cerave vs skinceuticals vitamina c", "vitamina c de farmacia que funciona"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

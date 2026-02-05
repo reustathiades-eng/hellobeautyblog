@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/guerlain-la-petite-robe-noire-intense-2.webp"
   - "/images/perfumes/guerlain-la-petite-robe-noire-intense-3.webp"
   - "/images/perfumes/guerlain-la-petite-robe-noire-intense-4.webp"
-  - "/images/perfumes/guerlain-la-petite-robe-noire-intense.webp"
-  - "/images/perfumes/guerlain-la-petite-robe-noire-intense-2.webp"
-  - "/images/perfumes/guerlain-la-petite-robe-noire-intense-3.webp"
-  - "/images/perfumes/guerlain-la-petite-robe-noire-intense-4.webp"
 featured: false
 draft: false
 brand: "Guerlain"

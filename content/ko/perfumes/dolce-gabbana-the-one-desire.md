@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "바닐라", "이브닝 향수", "오리엔탈", "리�
 keywords: ["돌체앤가바나 더 원 디자이어 리뷰", "더 원 디자이어 지속력", "오리엔탈 바닐라 향수 추천", "더 원 디자이어 비교", "관능적인 겨울 향수", "돌체앤가바나 디자이어 잔향", "데이트 향수 추천"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

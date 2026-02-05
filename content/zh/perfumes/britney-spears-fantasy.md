@@ -13,8 +13,6 @@ keywords: ["小甜甜布兰妮梦幻香水测评", "2025最佳明星香水", "�
 images:
   - "/images/perfumes/britney-spears-fantasy.webp"
   - "/images/perfumes/britney-spears-fantasy-2.webp"
-  - "/images/perfumes/britney-spears-fantasy.webp"
-  - "/images/perfumes/britney-spears-fantasy-2.webp"
 featured: false
 draft: false
 brand: "Britney Spears"

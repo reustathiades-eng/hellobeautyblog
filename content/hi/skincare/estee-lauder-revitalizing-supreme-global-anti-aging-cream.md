@@ -16,11 +16,6 @@ images:
   - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-3.webp"
   - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-4.webp"
   - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-5.webp"
-  - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream.webp"
-  - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-2.webp"
-  - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-3.webp"
-  - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-4.webp"
-  - "/images/skincare/estee-lauder-revitalizing-supreme-global-anti-aging-cream-5.webp"
 featured: false
 draft: false
 brand: "Estée Lauder"

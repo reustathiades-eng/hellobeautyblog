@@ -13,8 +13,6 @@ keywords: ["la roche posay serum witamina c opinie", "najlepsze serum z witaminÄ
 images:
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
 featured: false
 draft: false
 brand: "La Roche-Posay"

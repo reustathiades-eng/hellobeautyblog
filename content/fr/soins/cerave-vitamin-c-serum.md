@@ -12,7 +12,6 @@ tags: ["cerave", "sérum vitamine c", "éclat du teint", "taches brunes", "anti-
 keywords: ["cerave sérum vitamine c avis", "meilleur sérum vitamine c taches brunes", "cerave sérum éclaircissant résultats", "sérum vitamine c pas cher", "vitamine c teint terne", "cerave vs skinceuticals vitamine c", "sérum vitamine c pharmacie efficace"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

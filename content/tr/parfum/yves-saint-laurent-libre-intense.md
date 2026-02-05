@@ -16,11 +16,7 @@ images:
   - "/images/perfumes/yves-saint-laurent-libre-intense-3.webp"
   - "/images/perfumes/yves-saint-laurent-libre-intense-4.webp"
   - "/images/perfumes/yves-saint-laurent-libre-intense-5.webp"
-  - "/images/perfumes/yves-saint-laurent-libre-intense.webp"
   - "/images/saint-laurent-libre-intense-2.webp"
-  - "/images/perfumes/yves-saint-laurent-libre-intense-3.webp"
-  - "/images/perfumes/yves-saint-laurent-libre-intense-4.webp"
-  - "/images/perfumes/yves-saint-laurent-libre-intense-5.webp"
 featured: false
 draft: false
 brand: "Yves Saint Laurent"

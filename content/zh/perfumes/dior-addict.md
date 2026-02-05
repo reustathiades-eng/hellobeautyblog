@@ -13,8 +13,6 @@ keywords: ["dior addict香水测评", "2025最佳东方花香", "dior addict留�
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

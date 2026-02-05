@@ -16,10 +16,6 @@ images:
   - "/images/perfumes/maison-margiela-replica-by-the-fireplace-3.webp"
   - "/images/perfumes/maison-margiela-replica-by-the-fireplace-4.webp"
   - "/images/perfumes/maison-margiela-replica-by-the-fireplace-5.webp"
-  - "/images/perfumes/maison-margiela-replica-by-the-fireplace.webp"
-  - "/images/perfumes/maison-margiela-replica-by-the-fireplace-2.webp"
-  - "/images/perfumes/maison-margiela-replica-by-the-fireplace-3.webp"
-  - "/images/perfumes/maison-margiela-replica-by-the-fireplace-4.webp"
   - "/images/perfumes/maison-margiela-replica-by-the-firepage-5.webp"
 featured: false
 draft: false

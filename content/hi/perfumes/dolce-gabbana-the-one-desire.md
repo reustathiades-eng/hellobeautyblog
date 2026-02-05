@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "वेनिला", "इवनिंग परफ्
 keywords: ["dolce gabbana the one desire रिव्यू", "the one desire परफ्यूम कितनी देर टिकता है", "बेस्ट ओरिएंटल वेनिला परफ्यूम 2025", "the one desire vs the one तुलना", "सीडक्टिव विंटर परफ्यूम महिलाओं के लिए", "dolce gabbana desire सिलेज", "रोमांटिक इवनिंग परफ्यूम"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

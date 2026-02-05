@@ -12,7 +12,6 @@ tags: ["sk-ii", "eye cream", "anti-aging", "wrinkles", "peptides", "luxury skinc
 keywords: ["sk-ii rna power eye cream review", "best luxury eye cream for wrinkles", "sk-ii eye cream results", "expensive eye cream worth it", "pitera eye cream benefits", "anti-aging eye treatment", "sk-ii vs estee lauder eye cream"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

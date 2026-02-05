@@ -12,7 +12,6 @@ tags: ["montale", "róża", "piżmo", "unisex", "kwiatowe", "romantyczne", "biur
 keywords: ["montale intense roses musk opinie", "najlepsze perfumy z różą i piżmem 2025", "montale intense roses musk trwałość", "czyste perfumy z różą", "perfumy z różą do biura", "unisex róża piżmo"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

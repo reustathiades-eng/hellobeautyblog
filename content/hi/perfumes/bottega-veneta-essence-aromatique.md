@@ -12,7 +12,6 @@ tags: ["bottega veneta", "जुनिपर बेरीज", "वुडी ए
 keywords: ["bottega veneta essence aromatique रिव्यू हिंदी", "बेस्ट वुडी एरोमैटिक परफ्यूम 2025", "bottega veneta essence aromatique टिकाऊपन", "ऑफिस के लिए बेस्ट परफ्यूम", "यूनिसेक्स वुडी परफ्यूम", "इटैलियन लग्जरी परफ्यूम", "essence aromatique परफॉर्मेंस कैसी है"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

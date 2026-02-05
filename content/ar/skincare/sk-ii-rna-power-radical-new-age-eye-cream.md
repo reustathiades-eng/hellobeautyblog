@@ -12,7 +12,6 @@ tags: ["sk-ii", "كريم عيون", "مضاد للشيخوخة", "تجاعيد"
 keywords: ["تجربة كريم sk-ii للعيون", "أفضل كريم عيون فاخر للتجاعيد", "نتائج كريم sk-ii للعيون", "هل كريم العيون الغالي يستاهل", "فوائد بيتيرا للعيون", "علاج مضاد للشيخوخة للعيون", "مقارنة sk-ii و estee lauder كريم عيون"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

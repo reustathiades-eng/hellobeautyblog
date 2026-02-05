@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/atelier-cologne-vanilla-insensee-2.webp"
   - "/images/perfumes/atelier-cologne-vanilla-insensee-3.webp"
   - "/images/perfumes/atelier-cologne-vanilla-insensee-4.webp"
-  - "/images/perfumes/atelier-cologne-vanilla-insensee.webp"
-  - "/images/perfumes/atelier-cologne-vanilla-insensee-2.webp"
-  - "/images/perfumes/atelier-cologne-vanilla-insensee-3.webp"
-  - "/images/perfumes/atelier-cologne-vanilla-insensee-4.webp"
 featured: false
 draft: false
 brand: "Atelier Cologne"

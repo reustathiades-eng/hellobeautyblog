@@ -12,7 +12,6 @@ tags: ["carolina herrera", "perzik", "champagne", "avondparfum", "bloesem-fruiti
 keywords: ["carolina herrera 212 vip rose review", "beste bloemig fruitig parfum 2025", "212 vip rose houdbaarheid", "212 vip rose vs origineel", "romantisch avondparfum dames", "champagne geur parfum"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

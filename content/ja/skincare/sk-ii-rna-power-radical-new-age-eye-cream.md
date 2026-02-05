@@ -12,7 +12,6 @@ tags: ["sk-ii", "アイクリーム", "エイジングケア", "小ジワ", "ペ
 keywords: ["sk-ii rna アイクリーム 口コミ", "高級アイクリーム おすすめ 小ジワ", "sk-ii アイクリーム 効果", "高いアイクリーム 効果 あるのか", "ピテラ 目元 効果", "アイクリーム エイジング", "sk-ii アイクリーム 使い方"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

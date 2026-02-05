@@ -12,7 +12,6 @@ tags: ["cerave", "vitamine c serum", "ophelderend", "pigmentvlekken", "anti-agin
 keywords: ["cerave vitamine c serum review", "beste vitamine c tegen pigmentvlekken", "cerave brightening serum resultaten", "betaalbaar vitamine c serum", "vitamine c voor doffe huid", "cerave versus skinceuticals vitamine c", "drogisterij vitamine c dat werkt"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

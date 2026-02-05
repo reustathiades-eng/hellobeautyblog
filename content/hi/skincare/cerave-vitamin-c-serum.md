@@ -12,7 +12,6 @@ tags: ["cerave", "विटामिन सी सीरम", "ब्राइ�
 keywords: ["cerave vitamin c serum रिव्यू हिंदी में", "dark spots के लिए बेस्ट vitamin c", "cerave brightening serum के नतीजे", "सस्ता vitamin c serum", "dull skin के लिए vitamin c", "cerave vs skinceuticals vitamin c comparison", "drugstore vitamin c जो काम करे"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

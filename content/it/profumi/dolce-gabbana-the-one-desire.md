@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vaniglia", "profumo da sera", "orientale", "litchi", 
 keywords: ["dolce gabbana the one desire recensione", "the one desire durata", "miglior profumo orientale vaniglia 2025", "the one desire opinioni", "profumo seduttivo inverno donna", "dolce gabbana desire sillage", "profumo serata romantica"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

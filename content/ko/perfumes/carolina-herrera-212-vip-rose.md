@@ -12,7 +12,6 @@ tags: ["carolina herrera", "복숭아", "샴페인", "저녁", "플로럴-프루
 keywords: ["캐롤리나 헤레라 212 vip 로즈 리뷰", "플로럴 프루티 향수 추천", "212 vip 로즈 지속력", "212 vip 로즈 오리지널 비교", "데이트 향수 추천", "샴페인 향수"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

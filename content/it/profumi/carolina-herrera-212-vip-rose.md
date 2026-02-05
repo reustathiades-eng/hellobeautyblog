@@ -12,7 +12,6 @@ tags: ["carolina herrera", "pesca", "champagne", "sera", "floreale-fruttato", "o
 keywords: ["carolina herrera 212 vip rose recensione", "migliore profumo floreale fruttato 2025", "212 vip rose durata", "212 vip rose confronto originale", "profumo serale romantico donna", "profumo note champagne"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

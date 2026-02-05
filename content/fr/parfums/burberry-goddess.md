@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/burberry-goddess-3.webp"
   - "/images/perfumes/burberry-goddess-4.webp"
   - "/images/perfumes/burberry-goddess-5.webp"
-  - "/images/perfumes/burberry-goddess.webp"
-  - "/images/perfumes/burberry-goddess-2.webp"
-  - "/images/perfumes/burberry-goddess-3.webp"
-  - "/images/perfumes/burberry-goddess-4.webp"
-  - "/images/perfumes/burberry-goddess-5.webp"
 featured: false
 draft: false
 brand: "Burberry"

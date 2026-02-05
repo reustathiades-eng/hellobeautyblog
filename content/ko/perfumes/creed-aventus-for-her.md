@@ -13,8 +13,6 @@ keywords: ["크리드 아벤투스 포 허 리뷰", "아벤투스 포 허 지속
 images:
   - "/images/perfumes/creed-aventus-for-her.webp"
   - "/images/perfumes/creed-aventus-for-her-2.webp"
-  - "/images/perfumes/creed-aventus-for-her.webp"
-  - "/images/perfumes/creed-aventus-for-her-2.webp"
 featured: false
 draft: false
 brand: "Creed"

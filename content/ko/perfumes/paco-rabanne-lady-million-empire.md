@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/paco-rabanne-lady-million-empire-2.webp"
   - "/images/perfumes/paco-rabanne-lady-million-empire-3.webp"
   - "/images/perfumes/paco-rabanne-lady-million-empire-4.webp"
-  - "/images/perfumes/paco-rabanne-lady-million-empire.webp"
-  - "/images/perfumes/paco-rabanne-lady-million-empire-2.webp"
-  - "/images/perfumes/paco-rabanne-lady-million-empire-3.webp"
-  - "/images/perfumes/paco-rabanne-lady-million-empire-4.webp"
 featured: false
 draft: false
 brand: "Paco Rabanne"

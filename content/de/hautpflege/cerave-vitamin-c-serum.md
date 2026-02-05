@@ -12,7 +12,6 @@ tags: ["cerave", "vitamin c serum", "aufhellung", "pigmentflecken", "anti-aging"
 keywords: ["cerave vitamin c serum erfahrungen", "bestes vitamin c gegen pigmentflecken", "cerave aufhellendes serum test", "günstiges vitamin c serum", "vitamin c gegen fahle haut", "cerave oder skinceuticals vitamin c", "drogerie vitamin c das wirkt"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

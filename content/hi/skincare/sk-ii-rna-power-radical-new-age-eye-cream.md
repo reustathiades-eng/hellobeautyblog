@@ -12,7 +12,6 @@ tags: ["sk-ii", "आई क्रीम", "एंटी एजिंग", "झ�
 keywords: ["sk-ii rna power eye cream रिव्यू हिंदी", "झुर्रियों के लिए बेस्ट लग्जरी आई क्रीम", "sk-ii आई क्रीम रिजल्ट्स", "महंगी आई क्रीम वर्थ इट है क्या", "pitera eye cream के फायदे", "एंटी एजिंग आई ट्रीटमेंट", "sk-ii vs estee lauder आई क्रीम"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

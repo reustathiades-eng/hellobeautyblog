@@ -16,11 +16,6 @@ images:
   - "/images/skincare/drunk-elephant-protini-polypeptide-cream-3.webp"
   - "/images/skincare/drunk-elephant-protini-polypeptide-cream-4.webp"
   - "/images/skincare/drunk-elephant-protini-polypeptide-cream-5.webp"
-  - "/images/skincare/drunk-elephant-protini-polypeptide-cream.webp"
-  - "/images/skincare/drunk-elephant-protini-polypeptide-cream-2.webp"
-  - "/images/skincare/drunk-elephant-protini-polypeptide-cream-3.webp"
-  - "/images/skincare/drunk-elephant-protini-polypeptide-cream-4.webp"
-  - "/images/skincare/drunk-elephant-protini-polypeptide-cream-5.webp"
 featured: false
 draft: false
 brand: "Drunk Elephant"

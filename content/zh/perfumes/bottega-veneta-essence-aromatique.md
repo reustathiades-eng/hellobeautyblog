@@ -12,7 +12,6 @@ tags: ["bottega veneta", "杜松子", "木质芳香", "办公室香水", "雪松
 keywords: ["宝缇嘉木质芳香精华测评", "2025最佳木质芳香香水", "bottega veneta留香时长", "高级办公室香水推荐", "中性木质香水", "意大利奢侈品香水", "木质芳香调性价比"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

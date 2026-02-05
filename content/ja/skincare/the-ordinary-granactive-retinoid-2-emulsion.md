@@ -15,10 +15,6 @@ images:
   - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-2.webp"
   - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-3.webp"
   - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-4.webp"
-  - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion.webp"
-  - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-2.webp"
-  - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-3.webp"
-  - "/images/skincare/the-ordinary-granactive-retinoid-2-emulsion-4.webp"
 featured: false
 draft: false
 brand: "The Ordinary"

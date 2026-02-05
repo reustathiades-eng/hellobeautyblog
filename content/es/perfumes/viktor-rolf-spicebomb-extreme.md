@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/viktor-rolf-spicebomb-extreme-3.webp"
   - "/images/perfumes/viktor-rolf-spicebomb-extreme-4.webp"
   - "/images/perfumes/viktor-rolf-spicebomb-extreme-5.webp"
-  - "/images/perfumes/viktor-rolf-spicebomb-extreme.webp"
-  - "/images/perfumes/viktor-rolf-spicebomb-extreme-2.webp"
-  - "/images/perfumes/viktor-rolf-spicebomb-extreme-3.webp"
-  - "/images/perfumes/viktor-rolf-spicebomb-extreme-4.webp"
-  - "/images/perfumes/viktor-rolf-spicebomb-extreme-5.webp"
 featured: false
 draft: false
 brand: "Viktor & Rolf"

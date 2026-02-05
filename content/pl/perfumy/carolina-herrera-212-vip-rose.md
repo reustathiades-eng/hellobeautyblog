@@ -12,7 +12,6 @@ tags: ["carolina herrera", "brzoskwinia", "szampan", "wieczorowe", "kwiatowo-owo
 keywords: ["carolina herrera 212 vip rose opinie", "najlepsze kwiatowo owocowe perfumy 2025", "212 vip rose trwałość", "212 vip rose vs oryginał", "romantyczne wieczorowe perfumy damskie", "perfumy szampan zapach", "212 vip rose recenzja"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

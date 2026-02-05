@@ -14,9 +14,6 @@ images:
   - "/images/perfumes/calvin-klein-ck-one.webp"
   - "/images/perfumes/calvin-klein-ck-one-2.webp"
   - "/images/perfumes/calvin-klein-ck-one-3.webp"
-  - "/images/perfumes/calvin-klein-ck-one.webp"
-  - "/images/perfumes/calvin-klein-ck-one-2.webp"
-  - "/images/perfumes/calvin-klein-ck-one-3.webp"
 featured: false
 draft: false
 brand: "Calvin Klein"

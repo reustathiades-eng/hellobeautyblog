@@ -14,9 +14,6 @@ images:
   - "/images/perfumes/issey-miyake-nuit-dissey-parfum.webp"
   - "/images/perfumes/issey-miyake-nuit-dissey-parfum-2.webp"
   - "/images/perfumes/issey-miyake-nuit-dissey-parfum-3.webp"
-  - "/images/perfumes/issey-miyake-nuit-dissey-parfum.webp"
-  - "/images/perfumes/issey-miyake-nuit-dissey-parfum-2.webp"
-  - "/images/perfumes/issey-miyake-nuit-dissey-parfum-3.webp"
 featured: false
 draft: false
 brand: "Issey Miyake"

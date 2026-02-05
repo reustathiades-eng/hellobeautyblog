@@ -12,7 +12,6 @@ tags: ["carolina herrera", "şeftali", "şampanya", "gece", "çiçeksi-meyveli",
 keywords: ["carolina herrera 212 vip rose yorumları", "en iyi çiçeksi meyveli parfüm 2025", "212 vip rose kalıcılığı", "212 vip rose orijinal karşılaştırma", "romantik akşam parfümü kadın", "şampanya kokulu parfüm"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

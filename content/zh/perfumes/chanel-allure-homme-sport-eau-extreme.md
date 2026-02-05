@@ -13,8 +13,6 @@ keywords: ["香奈儿魅力男士运动极限香水测评", "2025最佳男士运
 images:
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
   - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme.webp"
-  - "/images/perfumes/chanel-allure-homme-sport-eau-extreme-2.webp"
 featured: false
 draft: false
 brand: "Chanel"

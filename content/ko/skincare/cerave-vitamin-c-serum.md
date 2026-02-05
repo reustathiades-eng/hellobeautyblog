@@ -12,7 +12,6 @@ tags: ["cerave", "비타민c 세럼", "브라이트닝", "잡티", "안티에이
 keywords: ["세라비 비타민c 세럼 후기", "잡티에 좋은 비타민c", "세라비 브라이트닝 세럼 효과", "저렴한 비타민c 세럼", "칙칙한 피부 비타민c", "세라비 스킨슈티칼스 비타민c 비교", "효과있는 드럭스토어 비타민c"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

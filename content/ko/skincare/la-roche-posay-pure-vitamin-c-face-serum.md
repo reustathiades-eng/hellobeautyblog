@@ -13,8 +13,6 @@ keywords: ["라로슈포제 비타민c 세럼 후기", "다크스팟 비타민c 
 images:
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
   - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum.webp"
-  - "/images/skincare/la-roche-posay-pure-vitamin-c-face-serum-2.webp"
 featured: false
 draft: false
 brand: "La Roche-Posay"

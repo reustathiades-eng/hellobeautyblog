@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/burberry-hero-3.webp"
   - "/images/perfumes/burberry-hero-4.webp"
   - "/images/perfumes/burberry-hero-5.webp"
-  - "/images/perfumes/burberry-hero.webp"
-  - "/images/perfumes/burberry-hero-2.webp"
-  - "/images/perfumes/burberry-hero-3.webp"
-  - "/images/perfumes/burberry-hero-4.webp"
-  - "/images/perfumes/burberry-hero-5.webp"
 featured: false
 draft: false
 brand: "Burberry"

@@ -12,7 +12,6 @@ tags: ["montale", "rosa", "muschio", "unisex", "floreale", "romantico", "ufficio
 keywords: ["montale intense roses musk recensione", "miglior profumo rosa muschio 2025", "montale intense roses musk durata", "profumo rosa pulito", "profumo rosa ufficio", "rosa muschio unisex"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

@@ -12,7 +12,6 @@ tags: ["carolina herrera", "ピーチ", "シャンパン", "イブニング", "�
 keywords: ["カロライナヘレラ 212 vip ローズ 口コミ", "フローラルフルーティ 香水 おすすめ 2025", "212 vip ローズ 持続時間", "212 vip ローズ オリジナル 違い", "デート 香水 女性 ロマンティック", "シャンパン 香り 香水"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

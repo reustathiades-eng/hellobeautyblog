@@ -14,9 +14,6 @@ images:
   - "/images/perfumes/versace-yellow-diamond.webp"
   - "/images/perfumes/versace-yellow-diamond-2.webp"
   - "/images/perfumes/versace-yellow-diamond-3.webp"
-  - "/images/perfumes/versace-yellow-diamond.webp"
-  - "/images/perfumes/versace-yellow-diamond-2.webp"
-  - "/images/perfumes/versace-yellow-diamond-3.webp"
 featured: false
 draft: false
 brand: "Versace"

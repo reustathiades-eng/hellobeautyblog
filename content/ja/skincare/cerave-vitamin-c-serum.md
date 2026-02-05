@@ -12,7 +12,6 @@ tags: ["cerave", "ビタミンc美容液", "ブライトニング", "シミ", "�
 keywords: ["cerave ビタミンc美容液 口コミ", "シミに効くビタミンc", "cerave ブライトニング美容液 効果", "プチプラ ビタミンc美容液", "くすみ ビタミンc", "cerave skinceuticals ビタミンc 比較", "ドラッグストア ビタミンc 効果"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

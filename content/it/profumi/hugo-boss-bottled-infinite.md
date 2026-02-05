@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/hugo-boss-bottled-infinite-3.webp"
   - "/images/perfumes/hugo-boss-bottled-infinite-4.webp"
   - "/images/perfumes/hugo-boss-bottled-infinite-5.webp"
-  - "/images/perfumes/hugo-boss-bottled-infinite.webp"
-  - "/images/perfumes/hugo-boss-bottled-infinite-2.webp"
-  - "/images/perfumes/hugo-boss-bottled-infinite-3.webp"
-  - "/images/perfumes/hugo-boss-bottled-infinite-4.webp"
-  - "/images/perfumes/hugo-boss-bottled-infinite-5.webp"
 featured: false
 draft: false
 brand: "Hugo Boss"

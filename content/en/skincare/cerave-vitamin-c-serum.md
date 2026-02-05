@@ -12,7 +12,6 @@ tags: ["cerave", "vitamin c serum", "brightening", "dark spots", "anti-aging", "
 keywords: ["cerave vitamin c serum review", "best vitamin c for dark spots", "cerave brightening serum results", "affordable vitamin c serum", "vitamin c for dull skin", "cerave vs skinceuticals vitamin c", "drugstore vitamin c that works"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

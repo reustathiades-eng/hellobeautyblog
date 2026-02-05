@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "バニラ", "イブニング香水", "オリエンタ
 keywords: ["ドルチェ&ガッバーナ ザ ワン デザイア 口コミ", "ザ ワン デザイア 持続時間", "オリエンタルバニラ 香水 おすすめ 2025", "ザ ワン デザイア 違い", "デート 香水 甘い", "ドルガバ デザイア 香り立ち", "夜 香水 ロマンティック"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

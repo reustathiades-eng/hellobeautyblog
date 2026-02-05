@@ -12,7 +12,6 @@ tags: ["보테가 베네타", "주니퍼베리", "우디 아로매틱", "오피�
 keywords: ["보테가 베네타 에센스 아로마티크 후기", "우디 아로매틱 향수 추천", "보테가 베네타 향수 지속력", "직장인 향수 추천", "유니섹스 우디 향수", "이탈리아 명품 향수", "에센스 아로마티크 발향"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

@@ -12,7 +12,6 @@ tags: ["bottega veneta", "ジュニパーベリー", "ウッディアロマテ�
 keywords: ["ボッテガヴェネタ エッセンスアロマティーク 口コミ", "ウッディアロマティック おすすめ 2025", "ボッテガヴェネタ 香水 持続時間", "オフィス向け 上品な香水", "ユニセックス ウッディ系 香水", "イタリア ラグジュアリー 香水", "エッセンスアロマティーク 評判"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

@@ -12,10 +12,6 @@ tags: ["the ordinary", "siero peptidi", "anti-età", "rughe sottili", "skincare 
 keywords: ["the ordinary buffet recensione", "buffet serum risultati", "miglior siero peptidi principianti", "siero anti-età economico", "the ordinary buffet prima dopo", "siero multi-peptidico", "buffet vs matrixyl"]
 images:
   - "/images/skincare/the-ordinary-buffet.webp"
-  - "/images/skincare/the-ordinary-buffet.webp"
-  - "/images/skincare/the-ordinary-buffet-2.webp"
-  - "/images/skincare/the-ordinary-buffet-3.webp"
-  - "/images/skincare/the-ordinary-buffet.webp"
   - "/images/skincare/the-ordinary-buffet-2.webp"
   - "/images/skincare/the-ordinary-buffet-3.webp"
 featured: false

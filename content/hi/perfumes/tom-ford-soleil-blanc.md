@@ -14,9 +14,6 @@ images:
   - "/images/perfumes/tom-ford-soleil-blanc.webp"
   - "/images/perfumes/tom-ford-soleil-blanc-2.webp"
   - "/images/perfumes/tom-ford-soleil-blanc-3.webp"
-  - "/images/perfumes/tom-ford-soleil-blanc.webp"
-  - "/images/perfumes/tom-ford-soleil-blanc-2.webp"
-  - "/images/perfumes/tom-ford-soleil-blanc-3.webp"
 featured: false
 draft: false
 brand: "Tom Ford"

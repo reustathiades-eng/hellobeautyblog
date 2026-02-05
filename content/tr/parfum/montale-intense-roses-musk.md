@@ -12,7 +12,6 @@ tags: ["montale", "gül", "misk", "unisex", "çiçeksi", "romantik", "ofis", "g�
 keywords: ["montale intense roses musk yorumları", "en iyi gül misk parfümü 2025", "montale intense roses musk kalıcılık", "temiz gül parfümü", "ofis için gül kokusu", "unisex gül misk parfüm"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

@@ -13,8 +13,6 @@ keywords: ["alien goddess 测评", "mugler alien goddess 留香", "2025最佳茉
 images:
   - "/images/perfumes/thierry-mugler-alien-goddess.webp"
   - "/images/perfumes/thierry-mugler-alien-goddess-2.webp"
-  - "/images/perfumes/thierry-mugler-alien-goddess.webp"
-  - "/images/perfumes/thierry-mugler-alien-goddess-2.webp"
 featured: false
 draft: false
 brand: "Thierry Mugler"

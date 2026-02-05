@@ -12,7 +12,6 @@ tags: ["cerave", "siero vitamina c", "illuminante", "macchie scure", "anti-età"
 keywords: ["cerave siero vitamina c recensione", "migliore vitamina c macchie scure", "cerave siero illuminante risultati", "siero vitamina c economico", "vitamina c pelle spenta", "cerave vs skinceuticals vitamina c", "vitamina c farmacia che funziona"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

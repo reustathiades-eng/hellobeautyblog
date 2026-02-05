@@ -12,7 +12,6 @@ tags: ["bottega veneta", "bacche di ginepro", "legnoso aromatico", "profumo da u
 keywords: ["bottega veneta essence aromatique recensione", "miglior profumo legnoso aromatico 2025", "bottega veneta essence aromatique durata", "profumo elegante ufficio", "profumo legnoso unisex", "profumo lusso italiano", "essence aromatique performance"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

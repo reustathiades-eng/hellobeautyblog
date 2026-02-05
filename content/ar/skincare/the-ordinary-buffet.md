@@ -14,9 +14,6 @@ images:
   - "/images/skincare/the-ordinary-buffet.webp"
   - "/images/skincare/the-ordinary-buffet-2.webp"
   - "/images/skincare/the-ordinary-buffet-3.webp"
-  - "/images/skincare/the-ordinary-buffet.webp"
-  - "/images/skincare/the-ordinary-buffet-2.webp"
-  - "/images/skincare/the-ordinary-buffet-3.webp"
 featured: false
 draft: false
 brand: "The Ordinary"

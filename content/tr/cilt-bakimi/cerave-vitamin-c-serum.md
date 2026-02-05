@@ -12,7 +12,6 @@ tags: ["cerave", "c vitamini serumu", "leke açıcı", "koyu lekeler", "anti-agi
 keywords: ["cerave c vitamini serumu inceleme", "lekeler için en iyi c vitamini", "cerave leke açıcı serum sonuçları", "uygun fiyatlı c vitamini serumu", "cansız cilt için c vitamini", "cerave skinceuticals c vitamini karşılaştırma", "gerçekten işe yarayan eczane c vitamini"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

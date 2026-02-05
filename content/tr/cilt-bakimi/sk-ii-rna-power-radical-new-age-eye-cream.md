@@ -12,7 +12,6 @@ tags: ["sk-ii", "göz kremi", "yaşlanma karşıtı", "kırışıklık", "peptit
 keywords: ["sk-ii göz kremi yorumları", "en iyi lüks göz kremi", "sk-ii göz kremi sonuçları", "pahalı göz kremi almaya değer mi", "pitera göz kremi faydaları", "kırışıklık karşıtı göz bakımı", "sk-ii göz kremi kullanıcı yorumları"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

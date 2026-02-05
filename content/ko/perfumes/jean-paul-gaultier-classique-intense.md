@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/jean-paul-gaultier-classique-intense-3.webp"
   - "/images/perfumes/jean-paul-gaultier-classique-intense-4.webp"
   - "/images/perfumes/jean-paul-gaultier-classique-intense-5.webp"
-  - "/images/perfumes/jean-paul-gaultier-classique-intense.webp"
-  - "/images/perfumes/jean-paul-gaultier-classique-intense-2.webp"
-  - "/images/perfumes/jean-paul-gaultier-classique-intense-3.webp"
-  - "/images/perfumes/jean-paul-gaultier-classique-intense-4.webp"
-  - "/images/perfumes/jean-paul-gaultier-classique-intense-5.webp"
 featured: false
 draft: false
 brand: "Jean Paul Gaultier"

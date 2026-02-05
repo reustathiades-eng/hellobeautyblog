@@ -12,7 +12,6 @@ tags: ["dolce & gabbana", "vanille", "parfum de soirée", "oriental", "litchi", 
 keywords: ["dolce gabbana the one desire avis", "the one desire tenue", "meilleur parfum oriental vanillé 2025", "the one desire vs the one comparaison", "parfum séduction hiver femme", "dolce gabbana desire sillage", "parfum soirée romantique"]
 images:
   - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
-  - "/images/perfumes/dolce-gabbana-the-one-desire.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

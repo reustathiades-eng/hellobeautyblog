@@ -12,7 +12,6 @@ tags: ["sk-ii", "contorno de ojos", "anti-edad", "arrugas", "péptidos", "cosmé
 keywords: ["sk-ii contorno de ojos opinión", "mejor contorno de ojos de lujo", "sk-ii rna power resultados", "contorno de ojos caro merece la pena", "pitera beneficios", "tratamiento anti-edad ojos", "sk-ii o estee lauder contorno ojos"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

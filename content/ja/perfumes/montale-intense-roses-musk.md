@@ -12,7 +12,6 @@ tags: ["montale", "ローズ", "ムスク", "ユニセックス", "フローラ�
 keywords: ["モンタル インテンス ローズ ムスク 口コミ", "ローズ ムスク 香水 おすすめ", "モンタル ローズ 持続力", "クリーン ローズ 香水", "オフィス向け ローズ フレグランス", "ユニセックス ローズ ムスク"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

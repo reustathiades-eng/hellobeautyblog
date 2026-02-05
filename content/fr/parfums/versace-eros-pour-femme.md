@@ -13,8 +13,6 @@ keywords: ["versace eros pour femme avis", "meilleur parfum floral oriental 2025
 images:
   - "/images/perfumes/versace-eros-pour-femme.webp"
   - "/images/perfumes/versace-eros-pour-femme-2.webp"
-  - "/images/perfumes/versace-eros-pour-femme.webp"
-  - "/images/perfumes/versace-eros-pour-femme-2.webp"
 featured: false
 draft: false
 brand: "Versace"

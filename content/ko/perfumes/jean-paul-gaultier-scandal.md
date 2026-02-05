@@ -15,10 +15,6 @@ images:
   - "/images/perfumes/jean-paul-gaultier-scandal-2.webp"
   - "/images/perfumes/jean-paul-gaultier-scandal-3.webp"
   - "/images/perfumes/jean-paul-gaultier-scandal-4.webp"
-  - "/images/perfumes/jean-paul-gaultier-scandal.webp"
-  - "/images/perfumes/jean-paul-gaultier-scandal-2.webp"
-  - "/images/perfumes/jean-paul-gaultier-scandal-3.webp"
-  - "/images/perfumes/jean-paul-gaultier-scandal-4.webp"
 featured: false
 draft: false
 brand: "Jean Paul Gaultier"

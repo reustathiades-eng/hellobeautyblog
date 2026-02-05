@@ -12,7 +12,6 @@ tags: ["carolina herrera", "pêssego", "champanhe", "noite", "floral-frutado", "
 keywords: ["carolina herrera 212 vip rose avaliação", "melhor perfume floral frutado 2025", "212 vip rose fixação", "212 vip rose vs original", "perfume noite romântica feminino", "perfume champanhe"]
 images:
   - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
-  - "/images/perfumes/carolina-herrera-212-vip-rose.webp"
 featured: false
 draft: false
 brand: "Carolina Herrera"

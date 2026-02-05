@@ -12,7 +12,6 @@ tags: ["bottega veneta", "توت العرعر", "خشبي عطري", "عطر م�
 keywords: ["مراجعة عطر بوتيغا فينيتا إيسنس أروماتيك", "أفضل عطر خشبي عطري 2025", "ثبات عطر بوتيغا فينيتا إيسنس أروماتيك", "عطر راقي للمكتب", "عطر خشبي للجنسين", "عطر إيطالي فاخر", "أداء إيسنس أروماتيك"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

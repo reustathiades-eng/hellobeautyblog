@@ -12,7 +12,6 @@ tags: ["sk-ii", "creme para olhos", "anti-idade", "rugas", "peptídeos", "skinca
 keywords: ["sk-ii rna power creme olhos avaliação", "melhor creme olhos luxo rugas", "sk-ii creme olhos resultados", "creme olhos caro vale a pena", "pitera benefícios olhos", "tratamento anti-idade área olhos", "sk-ii vale a pena"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

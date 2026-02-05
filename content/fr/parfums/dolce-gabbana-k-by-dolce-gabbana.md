@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-3.webp"
   - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-4.webp"
   - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-5.webp"
-  - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana.webp"
-  - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-2.webp"
-  - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-3.webp"
-  - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-4.webp"
-  - "/images/perfumes/dolce-gabbana-k-by-dolce-gabbana-5.webp"
 featured: false
 draft: false
 brand: "Dolce & Gabbana"

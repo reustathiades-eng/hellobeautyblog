@@ -12,7 +12,6 @@ tags: ["sk-ii", "眼霜", "抗老", "细纹", "多肽", "贵妇护肤", "抗皱"
 keywords: ["sk-ii眼霜怎么样", "贵妇眼霜测评", "sk-ii眼霜效果", "1000元眼霜值得买吗", "pitera眼霜好用吗", "抗老眼霜推荐", "sk-ii和雅诗兰黛眼霜对比"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

@@ -16,11 +16,6 @@ images:
   - "/images/perfumes/givenchy-gentleman-boisee-3.webp"
   - "/images/perfumes/givenchy-gentleman-boisee-4.webp"
   - "/images/perfumes/givenchy-gentleman-boisee-5.webp"
-  - "/images/perfumes/givenchy-gentleman-boisee.webp"
-  - "/images/perfumes/givenchy-gentleman-boisee-2.webp"
-  - "/images/perfumes/givenchy-gentleman-boisee-3.webp"
-  - "/images/perfumes/givenchy-gentleman-boisee-4.webp"
-  - "/images/perfumes/givenchy-gentleman-boisee-5.webp"
 featured: false
 draft: false
 brand: "Givenchy"

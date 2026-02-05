@@ -12,7 +12,6 @@ tags: ["montale", "장미", "머스크", "유니섹스", "플로럴", "로맨틱
 keywords: ["몽탈 인텐스 로즈 머스크 리뷰", "장미 머스크 향수 추천", "몽탈 인텐스 로즈 머스크 지속력", "깨끗한 장미 향수", "사무실 장미 향수", "유니섹스 장미 머스크 향수"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

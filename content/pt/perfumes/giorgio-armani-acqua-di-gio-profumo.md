@@ -13,8 +13,6 @@ keywords: ["acqua di gio profumo vale a pena", "melhor perfume aquático noturno
 images:
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
   - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo.webp"
-  - "/images/perfumes/giorgio-armani-acqua-di-gio-profumo-2.webp"
 featured: false
 draft: false
 brand: "Giorgio Armani"

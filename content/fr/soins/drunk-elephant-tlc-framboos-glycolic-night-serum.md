@@ -16,11 +16,6 @@ images:
   - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-3.webp"
   - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-4.webp"
   - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-5.webp"
-  - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum.webp"
-  - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-2.webp"
-  - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-3.webp"
-  - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-4.webp"
-  - "/images/skincare/drunk-elephant-tlc-framboos-glycolic-night-serum-5.webp"
 featured: false
 draft: false
 brand: "Drunk Elephant"

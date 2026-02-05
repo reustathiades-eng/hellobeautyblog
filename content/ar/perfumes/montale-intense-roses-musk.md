@@ -12,7 +12,6 @@ tags: ["montale", "ورد", "مسك", "يونيسكس", "زهري", "رومان�
 keywords: ["مراجعة عطر مونتال انتنس روزز مسك", "أفضل عطر ورد مسك 2025", "ثبات عطر مونتال روزز مسك", "عطر ورد نظيف", "عطر ورد للمكتب", "عطر ورد مسك للجنسين"]
 images:
   - "/images/perfumes/montale-intense-roses-musk.webp"
-  - "/images/perfumes/montale-intense-roses-musk.webp"
 featured: false
 draft: false
 brand: "Montale"

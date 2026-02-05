@@ -12,7 +12,6 @@ tags: ["bottega veneta", "bayas de enebro", "amaderado aromático", "perfume ofi
 keywords: ["bottega veneta essence aromatique opiniones", "mejor perfume amaderado aromático 2025", "bottega veneta essence aromatique duración", "perfume sofisticado oficina", "perfume amaderado unisex", "perfume lujo italiano", "essence aromatique rendimiento"]
 images:
   - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
-  - "/images/perfumes/bottega-veneta-essence-aromatique.webp"
 featured: false
 draft: false
 brand: "Bottega Veneta"

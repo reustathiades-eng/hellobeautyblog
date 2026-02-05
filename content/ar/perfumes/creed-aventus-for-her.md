@@ -13,8 +13,6 @@ keywords: ["كريد أفينتوس فور هير تجربة", "أفينتوس �
 images:
   - "/images/perfumes/creed-aventus-for-her.webp"
   - "/images/perfumes/creed-aventus-for-her-2.webp"
-  - "/images/perfumes/creed-aventus-for-her.webp"
-  - "/images/perfumes/creed-aventus-for-her-2.webp"
 featured: false
 draft: false
 brand: "Creed"

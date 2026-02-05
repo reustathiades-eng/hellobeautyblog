@@ -12,7 +12,6 @@ tags: ["cerave", "维c精华", "提亮", "色斑", "抗衰老", "暗沉", "中�
 keywords: ["cerave维c精华测评", "平价美白精华推荐", "cerave提亮精华效果", "开架维生素c精华", "去色斑精华液", "cerave和修丽可维c对比", "有效的平价维c"]
 images:
   - "/images/skincare/cerave-vitamin-c-serum.webp"
-  - "/images/skincare/cerave-vitamin-c-serum.webp"
 featured: false
 draft: false
 brand: "CeraVe"

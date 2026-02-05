@@ -12,7 +12,6 @@ tags: ["sk-ii", "oogcrème", "anti-aging", "rimpels", "peptiden", "luxe huidverz
 keywords: ["sk-ii rna power oogcrème review", "beste luxe oogcrème tegen rimpels", "sk-ii oogcrème resultaten", "dure oogcrème de moeite waard", "pitera oogcrème werking", "anti-aging oogbehandeling", "sk-ii oogcrème ervaringen"]
 images:
   - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
-  - "/images/skincare/sk-ii-rna-power-radical-new-age-eye-cream.webp"
 featured: false
 draft: false
 brand: "SK-II"

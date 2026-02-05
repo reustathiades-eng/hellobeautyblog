@@ -13,8 +13,6 @@ keywords: ["dior addict opiniones", "mejor perfume oriental floral 2025", "dior 
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"

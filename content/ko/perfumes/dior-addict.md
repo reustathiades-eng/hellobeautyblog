@@ -13,8 +13,6 @@ keywords: ["디올 어딕트 향수 리뷰", "오리엔탈 플로랄 향수 추�
 images:
   - "/images/perfumes/dior-addict.webp"
   - "/images/perfumes/dior-addict-2.webp"
-  - "/images/perfumes/dior-addict.webp"
-  - "/images/perfumes/dior-addict-2.webp"
 featured: false
 draft: false
 brand: "Dior"
