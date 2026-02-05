@@ -109,6 +109,7 @@ def save_known_pids(pids):
 def fetch_sephora_category(cgid, pages=PAGES_PER_CATEGORY):
     """Fetch newest products from a Sephora FR category."""
     products = []
+    product_urls_map = {}  # pid_lower -> full URL
     for page in range(pages):
         start = page * PAGE_SIZE
         url = (
@@ -133,13 +134,23 @@ def fetch_sephora_category(cgid, pages=PAGES_PER_CATEGORY):
                     continue
 
             print(f"  Page {page}: {len(raw_products)} produits")
+
+            # Also capture product URLs (contain correct PID casing)
+            page_urls = re.findall(r'href="(https://www\.sephora\.fr/p/[^"]+)"', r.text)
+            for u in page_urls:
+                if u not in product_urls_map:
+                    # Extract PID from URL (last segment before .html)
+                    pid_match = re.search(r'-([A-Za-z0-9]+)\.html', u)
+                    if pid_match:
+                        product_urls_map[pid_match.group(1).lower()] = u
+
             sleep(0.5)  # Polite delay
 
         except requests.RequestException as e:
             print(f"  ❌ Page {page}: {e}")
             continue
 
-    return products
+    return products, product_urls_map
 
 
 def normalize_brand(brand_str):
@@ -158,6 +169,34 @@ def generate_slug(brand, name):
     text = re.sub(r'[^a-z0-9\s-]', '', text)
     text = re.sub(r'[\s-]+', '-', text).strip('-')
     return text
+
+
+def get_product_image_urls(product_url):
+    """Fetch carousel images (full-size) from a Sephora product page.
+    Returns list of image URLs in display order (swatch first, then product photos)."""
+    if not product_url:
+        return []
+    try:
+        r = requests.get(product_url, headers=HEADERS, timeout=20)
+        if r.status_code != 200:
+            return []
+        zoom_imgs = re.findall(r'data-zoom-image="([^"]+)"', r.text)
+        seen = set()
+        carousel = []
+        for img in zoom_imgs:
+            clean = htmlmod.unescape(img)
+            base = clean.split('?')[0]
+            if 'media_' not in base and '/content/' not in base:
+                continue
+            if base not in seen:
+                seen.add(base)
+                if not base.startswith('http'):
+                    base = 'https://media.sephora.eu' + base
+                carousel.append(base)
+        return carousel
+    except Exception as e:
+        print(f"  ⚠️  Image fetch error: {e}")
+        return []
 
 
 def classify_product(sephora_product, source_category=None):
@@ -246,7 +285,7 @@ def is_real_product(product):
     return True
 
 
-def run_veille(dry_run=False):
+def run_veille(dry_run=False, fetch_images_in_dry_run=False):
     """Main veille function."""
     print(f"{'='*60}")
     print(f"🔍 HelloBeautyBlog — Veille Sephora FR")
@@ -267,13 +306,15 @@ def run_veille(dry_run=False):
 
     # Fetch all categories
     all_sephora = []
+    all_product_urls = {}  # pid_lower -> sephora URL
     for cat_key, cat_info in SEPHORA_CATEGORIES.items():
         print(f"📡 Fetch {cat_info['label']} ({cat_info['cgid']})...")
-        products = fetch_sephora_category(cat_info['cgid'])
+        products, urls_map = fetch_sephora_category(cat_info['cgid'])
         # Tag with our category
         for p in products:
             p['_hbb_cat'] = cat_key
         all_sephora.extend(products)
+        all_product_urls.update(urls_map)
         print(f"  → {len(products)} produits récupérés\n")
 
     print(f"📦 Total Sephora brut: {len(all_sephora)} produits\n")
@@ -284,6 +325,8 @@ def run_veille(dry_run=False):
     for sp in all_sephora:
         product = classify_product(sp, source_category=sp.get("_hbb_cat"))
         pid = product['sephora_pid']
+        # Attach page URL for image fetching later
+        product['sephora_page_url'] = all_product_urls.get(pid.lower(), '')
 
         # Deduplicate
         if pid in seen_pids:
@@ -333,6 +376,27 @@ def run_veille(dry_run=False):
     print(f"🆕 Nouveaux pour HBB: {len(new_products)}")
     print(f"📌 Déjà dans HBB: {len(existing_on_sephora)}")
     print()
+
+    # Fetch carousel images for new products
+    if new_products and (not dry_run or fetch_images_in_dry_run):
+        print(f"\n🖼️  Récupération images pour {len(new_products)} nouveautés...")
+        for i, p in enumerate(new_products):
+            page_url = p.get('sephora_page_url', '')
+            if page_url:
+                images = get_product_image_urls(page_url)
+                p['sephora_images'] = images
+                status = f"{len(images)} imgs" if images else "0 imgs"
+                print(f"  [{i+1}/{len(new_products)}] {p['brand']}: {status}")
+                sleep(0.3)
+            else:
+                p['sephora_images'] = []
+                print(f"  [{i+1}/{len(new_products)}] {p['brand']}: pas d'URL page")
+        imgs_total = sum(len(p.get('sephora_images', [])) for p in new_products)
+        print(f"  ✅ {imgs_total} images récupérées au total\n")
+    elif new_products and dry_run and not fetch_images_in_dry_run:
+        print(f"\n🖼️  Dry-run: images non récupérées (utiliser --with-images pour tester)")
+        for p in new_products:
+            p['sephora_images'] = []
 
     # Display results
     if new_products:
@@ -399,4 +463,5 @@ def run_veille(dry_run=False):
 
 if __name__ == '__main__':
     dry_run = '--dry-run' in sys.argv
-    run_veille(dry_run=dry_run)
+    with_images = '--with-images' in sys.argv
+    run_veille(dry_run=dry_run, fetch_images_in_dry_run=with_images)
