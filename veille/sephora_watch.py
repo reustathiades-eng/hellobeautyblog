@@ -32,12 +32,13 @@ HEADERS = {
     'Accept-Language': 'fr-FR,fr;q=0.9'
 }
 
-# Sephora FR Demandware category IDs
+# Sephora FR Nouveautés category IDs (NC = New Category)
 SEPHORA_CATEGORIES = {
-    'perfumes': {'cgid': 'C301', 'label': 'Parfum'},
-    'makeup':   {'cgid': 'C302', 'label': 'Maquillage'},
-    'skincare': {'cgid': 'C303', 'label': 'Soin'},
-    'haircare': {'cgid': 'C307', 'label': 'Cheveux'},
+    'perfumes': {'cgid': 'NC301', 'label': 'Nouveautés Parfum'},
+    'makeup':   {'cgid': 'NC302', 'label': 'Nouveautés Maquillage'},
+    'skincare': {'cgid': 'NC303', 'label': 'Nouveautés Soin Visage'},
+    'skincare_body': {'cgid': 'NC304', 'label': 'Nouveautés Corps & Bain'},
+    'haircare': {'cgid': 'NC307', 'label': 'Nouveautés Cheveux'},
 }
 
 SEPHORA_BASE_URL = (
@@ -45,7 +46,7 @@ SEPHORA_BASE_URL = (
     "Sites-Sephora_FR-Site/fr_FR/Search-Show"
 )
 
-PAGES_PER_CATEGORY = 3  # 3 pages × 60 = 180 produits par catégorie
+PAGES_PER_CATEGORY = 2  # 2 pages max (120 products) — covers all nouveautés × 60 = 180 produits par catégorie
 PAGE_SIZE = 60
 
 
@@ -145,7 +146,7 @@ def generate_slug(brand, name):
     return text
 
 
-def classify_product(sephora_product):
+def classify_product(sephora_product, source_category=None):
     """Extract structured info from a Sephora product dict."""
     brand = sephora_product.get('product_trademark', '').strip()
     raw_name = sephora_product.get('product_pid_name', '').strip()
@@ -174,47 +175,11 @@ def classify_product(sephora_product):
     elif target_lower == 'mixte':
         gender = 'unisex'
 
-    # Map to HBB category - breadcrumb is the most reliable source
-    hbb_category = "unknown"
-    bc_lower = breadcrumb.lower()
-    if bc_lower.startswith("fragrance"):
-        hbb_category = "perfumes"
-    elif bc_lower.startswith("makeup"):
-        hbb_category = "makeup"
-    elif bc_lower.startswith("skincare"):
-        hbb_category = "skincare"
-    elif bc_lower.startswith("hair"):
-        hbb_category = "haircare"
-    else:
-        # Fallback: use nature field
-        nature_lower = nature.lower()
-        perfume_natures = {"edp", "edt", "parfum", "perfume", "cologne", "essences", "body mist"}
-        makeup_natures = {"foundation", "concealer", "lipstick", "lipgloss", "mascara",
-                          "blush", "sun powder", "bb / cc cream", "eye shadow", "lip care",
-                          "face others", "eyeliner", "eyebrow"}
-        skincare_natures = {"day & targeted cream", "serum", "night cream", "mask",
-                            "cleanser", "toner", "moisturizer", "eye cream"}
-        haircare_natures = {"shampoing", "apres-shampoing", "masque", "huile",
-                            "fer a lisser", "fer a boucler", "seche-cheveux", "lotion"}
-        if nature_lower in perfume_natures:
-            hbb_category = "perfumes"
-        elif nature_lower in makeup_natures:
-            hbb_category = "makeup"
-        elif nature_lower in skincare_natures:
-            hbb_category = "skincare"
-        elif nature_lower in haircare_natures:
-            hbb_category = "haircare"
-        else:
-            # Last resort: section field
-            section_lower = section.lower()
-            if section_lower in ("parfum", "fragrance"):
-                hbb_category = "perfumes"
-            elif section_lower == "maquillage":
-                hbb_category = "makeup"
-            elif section_lower == "soin":
-                hbb_category = "skincare"
-            elif section_lower == "hair":
-                hbb_category = "haircare"
+    # Map to HBB category — source category from fetch is most reliable
+    hbb_category = source_category or 'unknown'
+    # Normalize skincare_body → skincare
+    if hbb_category == 'skincare_body':
+        hbb_category = 'skincare'
     return {
         'brand': brand.title(),
         'brand_raw': brand,
@@ -303,7 +268,7 @@ def run_veille(dry_run=False):
     classified = []
     seen_pids = set()
     for sp in all_sephora:
-        product = classify_product(sp)
+        product = classify_product(sp, source_category=sp.get("_hbb_cat"))
         pid = product['sephora_pid']
 
         # Deduplicate
