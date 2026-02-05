@@ -1,5 +1,5 @@
 # PROGRESS.md — État d'avancement du projet
-> Dernière mise à jour : 5 février 2026 (après-midi)
+> Dernière mise à jour : 5 février 2026 — 15h30
 
 ## ✅ TERMINÉ
 
@@ -37,18 +37,29 @@
   - Cron 10h00 ou Test Manuel → Lire next_batch.json → Loop produits → Claude API → Formater Markdown → Écrire fichier → Hugo Build → Git Push
 - [x] Fichier test next_batch.json créé (1 produit Chanel Chance Eau Tendre)
 
+### Veille Nouveautés Sephora FR
+- [x] Script `veille/sephora_watch.py` opérationnel sur olfapedia
+- [x] Scrape les pages Nouveautés Sephora FR via API Demandware (AJAX)
+- [x] 5 catégories Nouveautés : NC301 (parfum), NC302 (maquillage), NC303 (soin visage), NC304 (corps & bain), NC307 (cheveux)
+- [x] Filtre par marques connues HBB, exclut coffrets/combos/outils
+- [x] Classification par catégorie source (pas par breadcrumb)
+- [x] Tracking PIDs pour ne détecter que les vrais ajouts
+- [x] Premier run : 438 produits scannés → 163 matchent nos marques → 128 nouveautés identifiées
+- [x] Résultats : `veille/results/veille_YYYY-MM-DD.json` + `veille/latest_new_products.json`
+- [x] PIDs mémorisés : `veille/known_sephora_pids.json` (427 PIDs)
+
 ### Sous-catégories (199 × 14 langues = 2786 pages)
-- [x] Perfumes : 52 sous-catégories (3 gender, 7 family, 32 subfamily, 9 occasion, 1 extra)
-- [x] Skincare : 51 sous-catégories (12 product_type, 6 skin_type, 10 concern, 8 ingredient, 15 brand)
-- [x] Makeup : 51 sous-catégories (20 product_type, 5 zone, 5 finish, 3 coverage, 3 skin_type, 15 brand)
-- [x] Haircare : 46 sous-catégories (12 product_type, 8 hair_type, 11 concern, 15 brand)
+- [x] Perfumes : 52 sous-catégories
+- [x] Skincare : 51 sous-catégories
+- [x] Makeup : 51 sous-catégories
+- [x] Haircare : 46 sous-catégories
 - [x] Toutes les sous-catégories ont des URLs traduites dans les 14 langues
-- [x] Contenu SEO (seo_title, intro, FAQ, seo_bottom) généré via API Claude
+- [x] Contenu SEO généré via API Claude
 
 ### Traductions
 - [x] 1911 titres/descriptions sous-catégories traduits
-- [x] 1085 slugs d'URL traduits (ex: /fr/soins/anti-age/)
-- [x] JSONs data/categories/ synchronisés avec les nouveaux slugs
+- [x] 1085 slugs d'URL traduits
+- [x] JSONs data/categories/ synchronisés
 
 ### Contenu existant (59 articles)
 - [x] 13 parfums complets (14 langues = 182 pages)
@@ -58,54 +69,46 @@
 - [x] 4 bios auteurs (14 langues = 56 pages)
 - [x] 58 images parfums
 
-### Articles test générés via API (4 produits)
-- [x] Tom Ford Black Orchid (EN complet, 14 langues stubs)
-- [x] The Ordinary Niacinamide 10% + Zinc 1% (EN complet)
-- [x] Fenty Beauty Pro Filt'r Foundation (EN complet + FR/DE/ES/ZH traduits)
-- [x] Olaplex No. 3 Hair Perfector (EN complet, 13 langues stubs)
-
-### Corrections techniques
-- [x] Images frontmatter ajoutées à 879 fichiers
-- [x] Ordre images corrigé : swatch EN PREMIER
-- [x] 10 YAML cassés réparés
-- [x] translationKey harmonisés
-- [x] Brief translate.txt amélioré
-
-### SEO global
-- [x] Textes SEO homepage (14 langues)
-- [x] SEO data JSON par catégorie × 14 langues
-
-### Listes de produits (Étape 1)
-- [x] 1 629 produits listés avec caractéristiques (brand, name, slug, subcategories)
-- [x] Vérification couverture : au moins 3 produits par sous-catégorie
+### Listes de produits
+- [x] 1 629 produits listés (brand, name, slug, subcategories)
 - [x] Fichiers : generation/product_lists/{perfumes,skincare,makeup,haircare,gaps}.json
+- ⚠️ **Les marques skincare/makeup/haircare n'ont pas été filtrées** — listes initiales larges, à affiner
 
 ---
 
 ## 🟡 EN COURS / PROCHAINE ÉTAPE
+
+### Définir les marques acceptées par catégorie
+- [x] Parfums : 100 marques définies (328 marques total cross-catégories)
+- [ ] **Maquillage** : lister les marques acceptées pour HBB
+- [ ] **Skincare** : lister les marques acceptées pour HBB
+- [ ] **Haircare** : lister les marques acceptées pour HBB
+- [ ] Mettre à jour les product_lists en conséquence
+- [ ] Mettre à jour le script de veille pour filtrer par catégorie
 
 ### Tester le workflow n8n
 - [ ] Exécuter le workflow avec le produit test (Chanel Chance Eau Tendre)
 - [ ] Vérifier la fiche générée sur le site
 - [ ] Ajuster le prompt/format si nécessaire
 
-### Enrichir le workflow n8n
-- [ ] Ajouter la traduction en 13 langues (actuellement EN seulement)
-- [ ] Ajouter gestion des images (téléchargement + placement)
-- [ ] Ajouter purge cache Cloudflare (remplir .env.cloudflare)
-- [ ] Ajouter notification email/Slack en fin de process
-- [ ] Ajouter sélection automatique du batch quotidien depuis les listes de produits
-
-### Credentials à remplir
-- [ ] .env.cloudflare sur le VPS (CF_ZONE_ID + CF_API_TOKEN)
+### Automatiser la veille Sephora
+- [ ] Cron quotidien sur olfapedia (ou intégrer dans n8n)
+- [ ] Bridge veille → next_batch.json (alimenter le workflow de publication)
+- [ ] Notification des nouveautés détectées
 
 ---
 
 ## ⏳ À FAIRE (après workflow fonctionnel)
 
+### Enrichir le workflow n8n
+- [ ] Traduction en 13 langues (actuellement EN seulement)
+- [ ] Gestion d'images (téléchargement + placement)
+- [ ] Purge cache Cloudflare (remplir .env.cloudflare : CF_ZONE_ID + CF_API_TOKEN)
+- [ ] Notification email/Slack en fin de process
+- [ ] Sélection automatique du batch quotidien
+
 ### Production de contenu
-- [ ] Générer les 1 570 produits restants via n8n (30/jour × 14 langues)
-- [ ] Interface de saisie des URLs images (ou automatisation scraping)
+- [ ] Générer les ~1 570 produits restants via n8n (30/jour × 14 langues)
 
 ### Monétisation
 - [ ] Intégrer Skimlinks
@@ -118,11 +121,6 @@
 - [ ] Sitemap optimization
 - [ ] Performance audit (Core Web Vitals)
 
-### Design (optionnel)
-- [ ] Dark mode
-- [ ] Recherche Pagefind
-- [ ] Newsletter (Formspree)
-
 ---
 
 ## 📊 ARCHITECTURE ACTUELLE
@@ -134,19 +132,21 @@ n8n (VPS) → Claude API → Fichiers .md → Hugo build → Site live
                                     Git push (backup GitHub)
 ```
 
+### Flux de veille nouveautés
+```
+Veille Sephora (olfapedia, quotidien)
+  → Fetch 5 pages Nouveautés Sephora FR (NC301-NC307)
+  → Filtrer par marques HBB + exclure coffrets/combos
+  → Comparer PIDs connus → Identifier vrais ajouts
+  → Sauvegarder résultats JSON
+  → (à faire) Alimenter next_batch.json → n8n workflow
+```
+
 ### Serveurs
 | Serveur | Rôle | Accès MCP |
 |---------|------|-----------|
-| olfapedia (vps-7f46cd78) | Dev Hugo + HBB source | olfapedia:exec |
+| olfapedia | Dev Hugo + source + veille | olfapedia:exec |
 | ovh-vps (54.36.208.49) | Production site + n8n | ovh-vps:exec |
-
-### Services sur VPS Production
-| Service | URL/Port | Statut |
-|---------|----------|--------|
-| Site Hugo | https://hellobeautyblog.com | ✅ Live |
-| n8n | https://n8n.hellobeautyblog.com | ✅ Live |
-| PostgreSQL | port 5432 (Docker) | ✅ Running |
-| Nginx | ports 80+443 | ✅ Running |
 
 ### Produits à générer
 | Catégorie | Total | Existants | Restants |
