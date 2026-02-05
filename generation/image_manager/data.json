@@ -513,17 +513,45 @@
         "https://www.incenza.com/25759-large_default/fantasy-eau-de-parfum.jpg",
         "https://www.incenza.com/25730-large_default/fantasy-eau-de-parfum.jpg"
       ],
-      "status": "generating",
+      "status": "published",
       "generated_langs": [
-        "en"
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
       ]
     },
     "dolce-gabbana-the-one-desire": {
       "images": [
         "https://www.olfastory.com/sites/default/files/styles/parfum_identite/public/desire-the-one.jpg?itok=1zpJNdM7"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "versace-yellow-diamond": {
       "images": [
@@ -531,8 +559,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwd19c3705/images/92614B39_S1.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwa79c55c2/images/92614B39_S2.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "penhaligons-portraits-uncompromising-sohan": {
       "images": [
@@ -541,8 +584,23 @@
         "https://medias.penhaligons.com/cdn-cgi/image/format=auto,width=1920/https://dynamic-assets.penhaligons.com/is/image/puig/PDP_Portraits_Sohan_Block03?version=bc2a598359afc6a63f0a1b90e56f76b3ccf3ed43",
         "https://medias.penhaligons.com/cdn-cgi/image/format=auto,width=1920/https://dynamic-assets.penhaligons.com/is/image/puig/PORTRAITS%20SOHAN%20EDP%2075%20ML_Combined_Web_PDP?$Transparent-png$&amp;version=5d41702e016aa92bccaa9a0cea27abae7ae9e407"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "hermes-terre-dhermes-parfum": {
       "images": [
@@ -552,16 +610,46 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw7f0809bf/images/47117037_S3.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw60557454/images/47117037_S4.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "chanel-allure-homme-sport-eau-extreme": {
       "images": [
         "https://media.sephora.eu/content/dam/digital/massivpimupload/C/CHANEL/243104/61275-media_swatch.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CHANEL/P770129/12862-media_1.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "jean-paul-gaultier-classique-intense": {
       "images": [
@@ -571,8 +659,23 @@
         "https://cdn2.parfumdreams.de/image/product/61561-0-7-11.webp?box=900",
         "https://cdn2.parfumdreams.de/image/product/61561-0-8-12.webp?box=900"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "burberry-goddess": {
       "images": [
@@ -582,8 +685,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/B/BURBERRY/P10052709/94477-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/B/BURBERRY/P10052709/94477-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "issey-miyake-nuit-dissey-parfum": {
       "images": [
@@ -591,8 +709,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/I/ISSEY_MIYAKE/P2709001/29911-media_1.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/I/ISSEY_MIYAKE/P2709001/29911-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "dolce-gabbana-k-by-dolce-gabbana": {
       "images": [
@@ -602,8 +735,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DOLCE___GABBANA/P3821171/45239-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DOLCE___GABBANA/P3821171/45239-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "guerlain-la-petite-robe-noire-intense": {
       "images": [
@@ -612,8 +760,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/G/GUERLAIN/P10042194/83693-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/G/GUERLAIN/P10042194/83693-media_5.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "drunk-elephant-c-firma-day-serum": {
       "images": [
@@ -623,8 +786,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10017929/61381-media_3.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10017929/61381-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "drunk-elephant-protini-polypeptide-cream": {
       "images": [
@@ -634,8 +812,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10013694/57177-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10013694/57177-media_5.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-granactive-retinoid-2-emulsion": {
       "images": [
@@ -644,8 +837,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921096/49607-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921096/49607-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-buffet": {
       "images": [
@@ -653,15 +861,45 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P10045394/86893-media_1.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P10045394/86893-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "sk-ii-rna-power-radical-new-age-eye-cream": {
       "images": [
         "https://sv7-cdn.stylevana.com/media/catalog/product/cache/0bc21fb156ec73e74d3c0d58289b45c2/s/k/sk-ii-skinpower-eye-cream-15g-499.jpg"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-vitamin-c-suspension-23-ha-spheres-2": {
       "images": [
@@ -669,8 +907,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921103/49614-media_1.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921103/49614-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "drunk-elephant-tlc-framboos-glycolic-night-serum": {
       "images": [
@@ -680,8 +933,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10014008/57491-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10014008/57491-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "estee-lauder-revitalizing-supreme-global-anti-aging-cream": {
       "images": [
@@ -691,23 +959,68 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P10023477/70858-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P10023477/70858-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "la-roche-posay-pure-vitamin-c-face-serum": {
       "images": [
         "https://www.kalista-parfums.com/204983-thickbox_default/pure-vitamin-c12-serum.jpg",
         "https://www.lookfantastic.fr/images?url=https://static.thcdn.com/productimg/original/15456549-2075213925587436.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "cerave-vitamin-c-serum": {
       "images": [
         "https://media.nocibe.fr/medias/rFVvCY1264214-0-ncb-FR.jpg?context=bWFzdGVyfGltYWdlc3w5NTgyNXxpbWFnZS9qcGVnfGFEZzVMMmhpTVM4Mk9EQTJNRGsxTWpBd01qVTVNQzl5UmxaMlExa3hNalkwTWpFMFh6QmZibU5pTFVaU0xtcHdad3xkZjI4YTQ0MjEzZTE4OTViZGJhYzE0YjdiNDA2MGUyZWM1MjUzODdlNzMyYmNlOTAwOTE0ZmRmNTY0MjUyYTdh&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=775"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15": {
       "images": [
@@ -717,8 +1030,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P3647004/41448-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P3647004/41448-media_5.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "drunk-elephant-shaba-complex-eye-serum": {
       "images": [
@@ -727,8 +1055,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10051074/92722-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DRUNK_ELEPHANT/P10051074/92722-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-glycolic-acid-7-toning-solution": {
       "images": [
@@ -738,8 +1081,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921104/49615-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P3921104/49615-media_5.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "la-roche-posay-redermic-r-anti-aging-face-moisturizer": {
       "images": [
@@ -747,8 +1105,23 @@
         "https://www.laroche-posay.fr/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-lrp-ng-master-catalog/fr_FR/dw10e2158d/LRP_Product/Pure_Vitamin_C10/3337872413704_REDERMIC-C-Normal-to-combination-skin_40ml_02_La-Roche-Posay.jpg?sw=678&sh=678&sm=cut&sfrm=jpg&q=70",
         "https://www.laroche-posay.fr/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-lrp-ng-master-catalog/fr_FR/dw9958b614/LRP_Product/Pure_Vitamin_C10/3337872413704_REDERMIC-C-Normal-to-combination-skin_40ml_05_La-Roche-Posay.jpg?sw=678&sh=678&sm=cut&sfrm=jpg&q=70"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-salicylic-acid-2-masque": {
       "images": [
@@ -756,16 +1129,46 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P10014050/57533-media_1.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/T/THE_ORDINARY/P10014050/57533-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "cerave-am-facial-moisturizing-lotion-spf-30": {
       "images": [
         "https://www.cerave.fr/-/media/project/loreal/brand-sites/cerave/emea/fr/products/facial-mositurising-lotion-spf-30/spf30-lg.jpg?rev=-1?w=500&hash=2B3D3C1FAA19B2FAA8584E0FB58FB5BF",
         "https://www.cerave.fr/-/media/project/loreal/brand-sites/cerave/emea/fr/fr-all-product-details-latest/new-pdp-images/crme-hydratante-visage-spf30/700-x-875px/creme-hydratante-visage-spf30---application-visage-2.jpg?rev=-1?w=500&hash=A7A8A729427929117A712C5FD6C81786"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "maison-margiela-replica-by-the-fireplace": {
       "images": [],
@@ -793,8 +1196,23 @@
         "https://www.cerave.fr/-/media/project/loreal/brand-sites/cerave/emea/fr/fr-all-product-details-latest/new-pdp-images/sa-gel-anti-rugosits/700-x-875-px/sa-gel-nettoyant-anti-rugosites-473ml---packshot-back.jpg?rev=-1?w=500&hash=E0E0965FEDAB92FAF321F662A07A37A6",
         "https://www.cerave.fr/-/media/project/loreal/brand-sites/cerave/emea/fr/fr-all-product-details-latest/new-pdp-images/sa-gel-anti-rugosits/700-x-875-px/gel-nettoyant-sa-application-visage.jpg?rev=-1?w=500&hash=BC274DE83CEA420231E5BE5A6A9AB36D"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "estee-lauder-perfectionist-pro-rapid-firm-lift-treatment": {
       "images": [
@@ -803,8 +1221,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P10055934/97748-media_2.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/L/LAUDE/P10055934/97748-media_3.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "chanel-coco-mademoiselle": {
       "images": [
@@ -822,8 +1255,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/V/VIKTOR___ROLF/P51204/18125-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/V/VIKTOR___ROLF/P51204/18125-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "dolce-gabbana-light-blue": {
       "images": [
@@ -844,8 +1292,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw7df2dddd/images/73018X02_S1.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwec99ce32/images/73018X02_S2.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "chanel-chance-eau-tendre": {
       "images": [
@@ -894,8 +1357,17 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CALVIN_KLEIN/P2481/19127-media_1.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CALVIN_KLEIN/P2481/19127-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "generating",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl"
+      ]
     },
     "gucci-bloom": {
       "images": [
@@ -923,8 +1395,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DIOR/P10017595/61047-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/D/DIOR/P10017595/61047-media_3-0.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "montblanc-explorer": {
       "images": [
@@ -961,8 +1448,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/I/ISSEY_MIYAKE/P61477/22807-media_1-0.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/I/ISSEY_MIYAKE/P61477/22807-media_2-0.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "the-ordinary-niacinamide-10-zinc-1": {
       "images": [],
@@ -991,8 +1493,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/M/MAISON_MARGIELA/P3387001/36049-media_4.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/M/MAISON_MARGIELA/P3387001/36049-media_5.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "acqua-di-parma-colonia": {
       "images": [
@@ -1019,8 +1536,23 @@
         "https://cdn.notinoimg.com/detail_main_uhq/amouage/701666112051_03/reflection___210601.jpg",
         "https://cdn.notinoimg.com/detail_main_uhq/amouage/701666112051_03-o/reflection___230830.jpg"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "nasomatto-black-afgano": {
       "images": [
@@ -1035,16 +1567,46 @@
       "images": [
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwa78c16c2/images/56418242_P.jpg?sw=900&sh=900&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "bottega-veneta-parco-palladiano-xv": {
       "images": [
         "https://www.lookfantastic.fr/images?url=https://static.thcdn.com/productimg/1600/1600/12035804-1854651961056347.jpg&format=webp&auto=avif&width=985&height=985&fit=cover&dpr=2",
         "https://www.lookfantastic.fr/images?url=https://static.thcdn.com/productimg/1600/1600/12035804-1524651961176809.jpg&format=webp&auto=avif&width=1200&height=1200&fit=cover&dpr=2"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "mancera-red-tobacco": {
       "images": [
@@ -1228,8 +1790,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw2b89a13a/images/53313691_S2.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw08882e15/images/53313691_S4.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "penhaligons-juniper-sling": {
       "images": [
@@ -1249,8 +1826,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwce77e529/images/62518147_S2.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw8d8c9a56/images/62518147_S3.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "jo-malone-lime-basil-mandarin": {
       "images": [
@@ -1267,8 +1859,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw5aafd7b9/images/04116244_P.jpg?sw=900&sh=900&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwa1ae9bbc/images/04116244_S1.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "montblanc-legend": {
       "images": [
@@ -1454,8 +2061,23 @@
         "https://cdn.notinoimg.com/detail_main_uhq/bottega-veneta/3607342250826_03/bottega-veneta___211208.jpg",
         "https://cdn.notinoimg.com/detail_main_uhq/bottega-veneta/3607342250826_04/bottega-veneta___211208.jpg"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "escentric-molecules-escentric-01": {
       "images": [
@@ -1473,8 +2095,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw6f625ab4/images/03013170_S3.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw97aaf381/images/03013170_S4.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "montblanc-individuel": {
       "images": [
@@ -1614,8 +2251,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CALVIN_KLEIN/P2478/950-media_2.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CALVIN_KLEIN/P2478/950-media_3.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "giorgio-armani-acqua-di-gioia": {
       "images": [
@@ -1624,8 +2276,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwf19531c7/images/03013G35_S2.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dw27dfb245/images/03013G35_S3.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "escada-taj-sunset": {
       "images": [
@@ -1669,8 +2336,23 @@
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CHLO%C3%89/P56648/26958-media_4.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
         "https://media.sephora.eu/content/dam/digital/pim/published/C/CHLO%C3%89/P56648/26958-media_5.jpeg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "hermes-jour-dhermes": {
       "images": [
@@ -1731,8 +2413,23 @@
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwfbc0c1b6/images/81413X11_S2.jpg?sw=1500&sh=1500&sm=fit",
         "https://www.my-origines.com/dw/image/v2/BJRD_PRD/on/demandware.static/-/Sites-size-master/default/dwa27be999/images/81413X11_S3.jpg?sw=1500&sh=1500&sm=fit"
       ],
-      "status": "ready",
-      "generated_langs": []
+      "status": "published",
+      "generated_langs": [
+        "en",
+        "fr",
+        "de",
+        "es",
+        "it",
+        "pt",
+        "nl",
+        "pl",
+        "tr",
+        "ja",
+        "ko",
+        "zh",
+        "ar",
+        "hi"
+      ]
     },
     "olaplex-no-3-hair-perfector": {
       "images": [],
@@ -1801,6 +2498,52 @@
     "elizabeth-arden-green-tea",
     "tom-ford-soleil-blanc",
     "givenchy-gentleman-boisee",
-    "yves-saint-laurent-libre-intense"
+    "yves-saint-laurent-libre-intense",
+    "britney-spears-fantasy",
+    "drunk-elephant-c-firma-day-serum",
+    "dolce-gabbana-the-one-desire",
+    "versace-yellow-diamond",
+    "drunk-elephant-protini-polypeptide-cream",
+    "the-ordinary-buffet",
+    "chanel-allure-homme-sport-eau-extreme",
+    "jean-paul-gaultier-classique-intense",
+    "sk-ii-rna-power-radical-new-age-eye-cream",
+    "burberry-goddess",
+    "the-ordinary-vitamin-c-suspension-23-ha-spheres-2",
+    "issey-miyake-nuit-dissey-parfum",
+    "dolce-gabbana-k-by-dolce-gabbana",
+    "drunk-elephant-tlc-framboos-glycolic-night-serum",
+    "guerlain-la-petite-robe-noire-intense",
+    "the-ordinary-granactive-retinoid-2-emulsion",
+    "estee-lauder-revitalizing-supreme-global-anti-aging-cream",
+    "la-roche-posay-pure-vitamin-c-face-serum",
+    "cerave-vitamin-c-serum",
+    "penhaligons-portraits-uncompromising-sohan",
+    "hermes-terre-dhermes-parfum",
+    "estee-lauder-daywear-anti-oxidant-72h-hydration-sorbet-creme-spf-15",
+    "the-ordinary-salicylic-acid-2-masque",
+    "the-ordinary-glycolic-acid-7-toning-solution",
+    "cerave-renewing-sa-cleanser",
+    "cerave-am-facial-moisturizing-lotion-spf-30",
+    "la-roche-posay-redermic-r-anti-aging-face-moisturizer",
+    "lancome-idole",
+    "dior-miss-dior",
+    "yves-saint-laurent-mon-paris",
+    "bottega-veneta-bottega-veneta",
+    "giorgio-armani-si",
+    "drunk-elephant-shaba-complex-eye-serum",
+    "estee-lauder-perfectionist-pro-rapid-firm-lift-treatment",
+    "maison-margiela-replica-beach-walk",
+    "prada-luna-rossa",
+    "ralph-lauren-polo-blue",
+    "acqua-di-parma-blu-mediterraneo",
+    "issey-miyake-l-eau-d-issey-pour-homme",
+    "issey-miyake-l-eau-d-issey",
+    "giorgio-armani-acqua-di-gioia",
+    "bottega-veneta-parco-palladiano-xv",
+    "calvin-klein-eternity",
+    "viktor-rolf-flowerbomb",
+    "amouage-reflection-man",
+    "chloe-eau-de-parfum"
   ]
 }

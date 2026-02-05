@@ -223,11 +223,20 @@ def inject_images(content, image_paths):
     if not image_paths:
         return content
     
+    # Check if images are already present (non-empty)
+    # This prevents duplication if Claude already added them
+    existing_images = re.search(r'^images:\s*\n\s*-\s*"', content, flags=re.MULTILINE)
+    if existing_images:
+        # Images already present, don't inject again
+        return content
+    
     img_yaml = "images:\n" + "\n".join(f'  - "{p}"' for p in image_paths)
+    
+    # Replace empty arrays or empty images: declarations
     content = re.sub(r'^images:\s*\[\s*\]', img_yaml, content, flags=re.MULTILINE)
     content = re.sub(r'^images:\s*$', img_yaml, content, flags=re.MULTILINE)
+    
     return content
-
 def generate_en_article(product, image_paths):
     """Generate English article using category-specific brief."""
     category = product["category"]
