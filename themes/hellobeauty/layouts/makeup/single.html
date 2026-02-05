@@ -301,7 +301,7 @@
 .product-gallery { display: flex; flex-direction: column; }
 .carousel-container { width: 100%; }
 .carousel-main { position: relative; width: 100%; }
-.carousel-viewport { position: relative; width: 100%; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 1; min-height: 350px; }
+.carousel-viewport { position: relative; width: 100%; max-width: 500px; margin: 0 auto; background: linear-gradient(145deg, #FAFAFA 0%, #F3F4F6 100%); border-radius: 16px; overflow: hidden; aspect-ratio: 1; min-height: 300px; max-height: 500px; }
 .carousel-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; transition: opacity 0.4s ease; display: flex; align-items: center; justify-content: center; padding: 1.5rem; }
 .carousel-slide.active { opacity: 1; }
 .carousel-slide img { max-width: 100%; max-height: 100%; object-fit: contain; }
