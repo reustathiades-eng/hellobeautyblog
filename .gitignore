@@ -27,3 +27,4 @@ generation/.secrets/
 docs/CREDENTIALS.md
 __pycache__/
 *.pyc
+static/images_backup_before_crop/

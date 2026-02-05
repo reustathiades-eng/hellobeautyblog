@@ -1,5 +1,5 @@
 ---
-title: '15块钱的开架防晒霜,终于拯救了我'带妆涂防晒'的噩梦'
+title: "15块钱的开架防晒霜,终于拯救了我'带妆涂防晒'的噩梦"
 slug: 'cerave-am-rihuan-baoshi-rufang-spf30-pingce'
 description: 'CeraVe AM日间保湿乳液SPF30测评:无油配方+广谱防护,干皮敏感肌的日常防晒救星,神经酰胺修护屏障,妆前打底完美不搓泥,开架价格媲美专柜效果'
 date: 2025-01-15
