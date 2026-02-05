@@ -1,58 +1,58 @@
 ---
-title: "兰蔻菁纯香水：把"清冷感美女"装进瓶子里（还带点锋芒）"
+title: '兰蔻菁纯香水：把'清冷感美女'装进瓶子里（还带点锋芒）'
 slug: lancome-idole-xiangshui-pingce
-description: "兰蔻菁纯淡香水，玫瑰茉莉调的极简花香，献给都市精致女性。这支香水为何成为办公室最受欢迎的选择？深度测评告诉你答案。"
+description: '兰蔻菁纯淡香水，玫瑰茉莉调的极简花香，献给都市精致女性。这支香水为何成为办公室最受欢迎的选择？深度测评告诉你答案。'
 date: 2025-01-15
 lastmod: 2026-02-01
-author: "Sophie Laurent"
-authorSlug: "sophie-laurent"
+author: 'Sophie Laurent'
+authorSlug: 'sophie-laurent'
 categories:
-  - "香水"
-tags: ["lancome", "玫瑰香调", "茉莉", "通勤香", "花香调", "日常香", "清透香", "白花香"]
-keywords: ["兰蔻菁纯香水测评", "2025最佳办公室香水", "idole留香时间", "清新花香女香推荐", "兰蔻菁纯对比娇兰我的印记", "透亮玫瑰香水"]
+  - '香水'
+tags: ['lancome', '玫瑰香调', '茉莉', '通勤香', '花香调', '日常香', '清透香', '白花香']
+keywords: ['兰蔻菁纯香水测评', '2025最佳办公室香水', 'idole留香时间', '清新花香女香推荐', '兰蔻菁纯对比娇兰我的印记', '透亮玫瑰香水']
 images:
-- "/images/perfumes/lancome-idole.webp"
-- "/images/perfumes/lancome-idole-2.webp"
-- "/images/perfumes/lancome-idole-3.webp"
-- "/images/perfumes/lancome-idole-4.webp"
+- '/images/perfumes/lancome-idole.webp'
+- '/images/perfumes/lancome-idole-2.webp'
+- '/images/perfumes/lancome-idole-3.webp'
+- '/images/perfumes/lancome-idole-4.webp'
 featured: false
 draft: false
-brand: "Lancôme"
-productName: "Idôle"
-concentration: "Eau de Parfum"
-gender: "女士"
-family: "floral"
-subfamily: "floral-white"
+brand: 'Lancôme'
+productName: 'Idôle'
+concentration: 'Eau de Parfum'
+gender: '女士'
+family: 'floral'
+subfamily: 'floral-white'
 occasion:
-  - "日常"
-  - "办公室"
-  - "夏日休闲"
+  - '日常'
+  - '办公室'
+  - '夏日休闲'
 rating: 4.0
 topNotes:
-  - "梨"
-  - "佛手柑"
-  - "粉红胡椒"
+  - '梨'
+  - '佛手柑'
+  - '粉红胡椒'
 heartNotes:
-  - "玫瑰"
-  - "茉莉"
-  - "兰花"
+  - '玫瑰'
+  - '茉莉'
+  - '兰花'
 baseNotes:
-  - "白麝香"
-  - "香草"
-  - "雪松"
-longevity: "6-8小时"
-sillage: "中等"
+  - '白麝香'
+  - '香草'
+  - '雪松'
+longevity: '6-8小时'
+sillage: '中等'
 season:
-  - "春季"
-  - "夏季"
-  - "秋季"
+  - '春季'
+  - '夏季'
+  - '秋季'
 subcategories:
-  - "Women"
-  - "Everyday"
-  - "Office"
-  - "floral"
-  - "floral-white"
-translationKey: "lancome-idole"
+  - 'Women'
+  - 'Everyday'
+  - 'Office'
+  - 'floral'
+  - 'floral-white'
+translationKey: 'lancome-idole'
 ---
 
 兰蔻菁纯是我在一次毫无灵感的午休时间，在丝芙兰冲动买下的。老实说？当时我是持怀疑态度的。瓶身看起来就像某个委员会开了八百个会，想要用玻璃材质诠释"Z世代的女性力量"——那种超纤细的拉长造型，仿佛在尖叫"我既能塞进你的手提包，又是一种女权主义宣言！"但关于以貌取香这件事，有个真理：有时候，就是有时候，那些Instagram风十足的包装底下，确实藏着点真材实料。

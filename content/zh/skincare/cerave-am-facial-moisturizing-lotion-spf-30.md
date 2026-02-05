@@ -1,54 +1,54 @@
 ---
-title: "15块钱的开架防晒霜,终于拯救了我"带妆涂防晒"的噩梦"
-slug: "cerave-am-rihuan-baoshi-rufang-spf30-pingce"
-description: "CeraVe AM日间保湿乳液SPF30测评:无油配方+广谱防护,干皮敏感肌的日常防晒救星,神经酰胺修护屏障,妆前打底完美不搓泥,开架价格媲美专柜效果"
+title: '15块钱的开架防晒霜,终于拯救了我'带妆涂防晒'的噩梦'
+slug: 'cerave-am-rihuan-baoshi-rufang-spf30-pingce'
+description: 'CeraVe AM日间保湿乳液SPF30测评:无油配方+广谱防护,干皮敏感肌的日常防晒救星,神经酰胺修护屏障,妆前打底完美不搓泥,开架价格媲美专柜效果'
 date: 2025-01-15
 lastmod: 2026-02-01
-author: "Emma Chen"
-authorSlug: "emma-chen"
+author: 'Emma Chen'
+authorSlug: 'emma-chen'
 categories:
-  - "护肤"
-tags: ["cerave", "防晒", "保湿", "敏感肌", "干皮", "神经酰胺", "spf", "开架护肤"]
-keywords: ["cerave日霜测评", "开架防晒乳推荐", "干皮防晒霜", "带妆防晒不搓泥", "神经酰胺防晒", "平价日用防晒", "cerave spf30效果", "妆前防晒打底", "修护屏障防晒霜"]
+  - '护肤'
+tags: ['cerave', '防晒', '保湿', '敏感肌', '干皮', '神经酰胺', 'spf', '开架护肤']
+keywords: ['cerave日霜测评', '开架防晒乳推荐', '干皮防晒霜', '带妆防晒不搓泥', '神经酰胺防晒', '平价日用防晒', 'cerave spf30效果', '妆前防晒打底', '修护屏障防晒霜']
 images:
-- "/images/skincare/cerave-am-facial-moisturizing-lotion-spf-30.webp"
-- "/images/skincare/cerave-am-facial-moisturizing-lotion-spf-30-2.webp"
+- '/images/skincare/cerave-am-facial-moisturizing-lotion-spf-30.webp'
+- '/images/skincare/cerave-am-facial-moisturizing-lotion-spf-30-2.webp'
 featured: false
 draft: false
-brand: "CeraVe"
-productName: "AM Facial Moisturizing Lotion SPF 30"
-productType: "面部乳液"
+brand: 'CeraVe'
+productName: 'AM Facial Moisturizing Lotion SPF 30'
+productType: '面部乳液'
 rating: 4.0
-texture: "乳液质地"
+texture: '乳液质地'
 applicationTime:
-  - "AM"
-formulaType: "乳液配方"
-routineStep: "4. 保湿"
-origin: "皮肤科医生研发"
+  - 'AM'
+formulaType: '乳液配方'
+routineStep: '4. 保湿'
+origin: '皮肤科医生研发'
 fragranceFree: true
 crueltyFree: false
 vegan: false
 dermatologicallyTested: true
 keyIngredients:
-  - name: "神经酰胺 1, 3, 6-II"
-    benefit: "修护并维持皮肤屏障功能"
-  - name: "烟酰胺"
-    benefit: "舒缓炎症,均匀肤色"
-  - name: "透明质酸"
-    benefit: "为肌肤注入水分,保持饱满水润"
-skinType: "干性"
+  - name: '神经酰胺 1, 3, 6-II'
+    benefit: '修护并维持皮肤屏障功能'
+  - name: '烟酰胺'
+    benefit: '舒缓炎症,均匀肤色'
+  - name: '透明质酸'
+    benefit: '为肌肤注入水分,保持饱满水润'
+skinType: '干性'
 skinConcern:
-  - "干燥"
-  - "敏感"
+  - '干燥'
+  - '敏感'
 subcategories:
-  - "moisturizer"
-  - "sunscreen"
-  - "dry"
-  - "sensitive"
-  - "hydration"
-  - "cerave"
-  - "normal"
-translationKey: "cerave-am-facial-moisturizing-lotion-spf-30"
+  - 'moisturizer'
+  - 'sunscreen'
+  - 'dry'
+  - 'sensitive'
+  - 'hydration'
+  - 'cerave'
+  - 'normal'
+translationKey: 'cerave-am-facial-moisturizing-lotion-spf-30'
 ---
 
 先说实话:这些年我早上经常偷懒不涂防晒,因为试过的每款防晒霜要么让我上午十点就满脸油光,要么有那种吓人的白痕,导致粉底看起来灰扑扑的。然后我就会心虚地在中午补涂个厚重的防晒,结果下午开会时看着妆全花了。"防晒+底妆"这个组合对我来说简直是世纪难题,直到有次在超市随手抓了这瓶CeraVe——就因为它才一百块出头,而我当时真的走投无路了。
